@@ -8,12 +8,12 @@ import {
 
 describe("preloadsNeededBy", () => {
   test("the DOM obligation comes from the component suffix", () => {
-    expect(preloadsNeededBy("packages/a/src/x.component.test.tsx")).toEqual(["dom"])
+    expect(preloadsNeededBy("a/src/x.component.test.tsx")).toEqual(["dom"])
   })
 
   test("every other test type owes nothing", () => {
-    expect(preloadsNeededBy("packages/a/src/x.unit.test.ts")).toEqual([])
-    expect(preloadsNeededBy("packages/a/src/x.integration.test.ts")).toEqual([])
+    expect(preloadsNeededBy("a/src/x.unit.test.ts")).toEqual([])
+    expect(preloadsNeededBy("a/src/x.integration.test.ts")).toEqual([])
   })
 })
 
@@ -41,33 +41,33 @@ describe("collectObligations", () => {
     expect(
       collectObligations([
         {
-          file: "packages/b/src/y.component.test.tsx",
-          workspace: "packages/b",
+          file: "b/src/y.component.test.tsx",
+          workspace: "b",
           kind: "dom",
         },
         {
-          file: "packages/b/src/x.component.test.tsx",
-          workspace: "packages/b",
+          file: "b/src/x.component.test.tsx",
+          workspace: "b",
           kind: "dom",
         },
       ])
     ).toEqual([
       {
-        workspace: "packages/b",
+        workspace: "b",
         kind: "dom",
-        files: ["packages/b/src/x.component.test.tsx", "packages/b/src/y.component.test.tsx"],
+        files: ["b/src/x.component.test.tsx", "b/src/y.component.test.tsx"],
       },
     ])
   })
 
   test("two workspaces stay apart, ordered by workspace", () => {
     const obligations = collectObligations([
-      { file: "packages/z/src/a.component.test.tsx", workspace: "packages/z", kind: "dom" },
-      { file: "packages/a/src/a.component.test.tsx", workspace: "packages/a", kind: "dom" },
+      { file: "z/src/a.component.test.tsx", workspace: "z", kind: "dom" },
+      { file: "a/src/a.component.test.tsx", workspace: "a", kind: "dom" },
     ])
     expect(obligations.map((o) => `${o.workspace} ${o.kind}`)).toEqual([
-      "packages/a dom",
-      "packages/z dom",
+      "a dom",
+      "z dom",
     ])
   })
 })
@@ -75,15 +75,15 @@ describe("collectObligations", () => {
 describe("preloadRemedy", () => {
   test("a workspace holding a bunfig is sent to the array, not to a new file", () => {
     const obligation = {
-      workspace: "packages/b",
+      workspace: "b",
       kind: "dom" as const,
-      files: ["packages/b/src/x.component.test.tsx"],
+      files: ["b/src/x.component.test.tsx"],
     }
     expect(preloadRemedy(obligation, false).join("\n")).toContain(
       "Add a bunfig.toml at the workspace root"
     )
     const held = preloadRemedy(obligation, true).join("\n")
-    expect(held).toContain("packages/b/bunfig.toml")
+    expect(held).toContain("b/bunfig.toml")
     expect(held).not.toContain("Add a bunfig.toml at the workspace root")
   })
 })
