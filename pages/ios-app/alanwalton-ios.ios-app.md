@@ -6,7 +6,6 @@ slug: alanwalton-ios
 domain-parent-slug: page-type/ios-app
 required-reading-slugs:
   - repo/akasha-repo
-  - repo/code-repo
 app-slug: alanwalton
 display-name: alanwalton
 bundle-id: com.alanwalton.app

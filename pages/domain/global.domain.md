@@ -20,9 +20,9 @@ expands: true
 required-reading-slugs:
   - page-type/domain
   - domain/file-structure
-  - mp-command/read
-  - mp-command/search
-  - ops-command/ops-reminder-set
+  - command/read
+  - command/search
+  - old-ops-command/ops-reminder-set
 ---
 
 # Definition

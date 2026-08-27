@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Temper"
 slug: temper
 domain-parent-slug: domain/internal-products
-required-reading-slugs:
-  - repo/code-repo
 persona-champion-slug: ember
 sequence-slugs:
   - domain/temper-catalog

@@ -5,8 +5,6 @@ title: "Alanwalton awen core"
 slug: alanwalton-awen-core
 repo: akasha
 domain-parent-slug: domain/narrative-engine
-required-reading-slugs:
-  - repo/code-repo
 ---
 
 # Definition

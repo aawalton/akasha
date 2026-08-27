@@ -6,7 +6,6 @@ slug: ops-instructions
 domain-parent-slug: domain/ops-cli
 required-reading-slugs:
   - domain/ops-namespace
-  - repo/instructions-repo
 ---
 
 # Definition

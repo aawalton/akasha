@@ -9,7 +9,7 @@ slug: agent-hook
 domain-parent-slug: domain/hook
 required-reading-slugs:
   - domain/agent-harness
-  - ops-command/ops-seat-fleet-restart
+  - old-ops-command/ops-seat-fleet-restart
 ---
 
 # Definition

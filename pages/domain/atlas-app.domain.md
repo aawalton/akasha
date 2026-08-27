@@ -5,7 +5,6 @@ title: "Atlas app"
 slug: atlas-app
 domain-parent-slug: domain/internal-products
 required-reading-slugs:
-  - repo/code-repo
   - domain/browser
 persona-champion-slug: atlas
 ---

@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Smiling Jenny"
 slug: smilingjenny
 domain-parent-slug: domain/supported-products
-required-reading-slugs:
-  - repo/code-repo
 ---
 
 # Definition

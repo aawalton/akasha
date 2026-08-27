@@ -6,7 +6,6 @@ slug: my-faith
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
   - page-type/book
-  - repo/books-repo
   - value/faith
 ---
 

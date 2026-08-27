@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Alanwalton app"
 slug: alanwalton-app
 domain-parent-slug: domain/internal-products
-required-reading-slugs:
-  - repo/code-repo
 ---
 
 # Definition

@@ -5,7 +5,6 @@ title: "AuDHD Alan"
 slug: audhdalan
 domain-parent-slug: domain/internal-products
 required-reading-slugs:
-  - repo/code-repo
   - domain/browser
 ---
 

@@ -5,7 +5,6 @@ title: "Archive of Worlds"
 slug: archive-of-worlds
 domain-parent-slug: domain/internal-products
 required-reading-slugs:
-  - repo/code-repo
   - domain/browser
 ---
 

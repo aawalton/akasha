@@ -6,7 +6,6 @@ slug: book-of-everything
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
   - page-type/book
-  - repo/books-repo
   - domain/learn-everything
 ---
 

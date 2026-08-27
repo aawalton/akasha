@@ -4,8 +4,6 @@ page-type-slug: domain
 title: "Dirty"
 slug: dirty
 domain-parent-slug: repo/stories-repo
-required-reading-slugs:
-  - repo/books-repo
 ---
 
 # Definition

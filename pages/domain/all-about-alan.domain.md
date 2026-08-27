@@ -6,7 +6,6 @@ slug: all-about-alan
 domain-parent-slug: domain/alan-harness-tracking-source
 required-reading-slugs:
   - page-type/book
-  - repo/books-repo
   - domain/internal-products
 persona-champion-slug: abby
 conditional-reading-slugs:
