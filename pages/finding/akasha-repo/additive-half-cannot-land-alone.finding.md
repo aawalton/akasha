@@ -2,7 +2,7 @@
 id: 11ede237-a24e-5797-80e4-1de2b52d23c8
 page-type-slug: finding
 title: "Additive half cannot land alone"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim

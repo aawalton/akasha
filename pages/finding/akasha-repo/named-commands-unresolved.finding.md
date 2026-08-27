@@ -2,7 +2,7 @@
 id: cd2e4c9b-c03e-572e-a89e-708ab65587e2
 page-type-slug: finding
 title: "Prose in the code repo names ops commands that do not exist, and nothing checks a named command resolves"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim

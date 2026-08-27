@@ -2,7 +2,7 @@
 id: 06334157-4ce3-5f1f-8590-ccf0baae6785
 page-type-slug: finding
 title: "Dev server app flag names two of five"
-domain-slug: repo/code-repo
+domain-slug: repo/akasha-repo
 ---
 
 # Claim
@@ -21,6 +21,6 @@ Nothing compares the two. The copy is a key set frozen at two, two files from th
 
 What makes this cost more than a stale sentence: a caller who guesses wrong is corrected by `lookupApp`, which derives. Only a reader consulting `--help` gets the frozen pair, and `--help` is the surface this estate tells an agent to derive a verb's shape from rather than copy. So the one path that is wrong is the one an agent is instructed to trust, and every path that would expose it is already right.
 
-`pages/finding/code-repo/dev-server-help-names-wrong-framework.finding.md` is the same help text and a different error — it calls what the verb spawns a Next.js dev server where every `devCommand` is `bunx react-router dev`. A reader repairing that sentence has no reason to touch the app list beside it, and vice versa.
+`pages/finding/akasha-repo/dev-server-help-names-wrong-framework.finding.md` is the same help text and a different error — it calls what the verb spawns a Next.js dev server where every `devCommand` is `bunx react-router dev`. A reader repairing that sentence has no reason to touch the app list beside it, and vice versa.
 
 Whether the six descriptions are corrected in place or derived from `APP_NAMES` is unjudged here.

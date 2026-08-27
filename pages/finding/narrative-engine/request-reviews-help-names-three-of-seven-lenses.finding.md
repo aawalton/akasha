@@ -21,6 +21,6 @@ The verb resolves over the real set, not the described one. `request-reviews-acc
 
 Why it stays green: the wrong set is only ever read, never executed. A caller's seats are resolved from the constant, and an absent seat is skipped with a warning rather than refused, so a game seated from the help text — three seats instead of six live ones — produces a successful dispatch with four lenses silently unreviewed.
 
-Same shape as `pages/finding/code-repo/dev-server-app-flag-names-two-of-five.finding.md`, which I opened before filing: a help string naming two of five apps while the module exports the true set. Different CLI, different registry, so this is not that finding recurring.
+Same shape as `pages/finding/akasha-repo/dev-server-app-flag-names-two-of-five.finding.md`, which I opened before filing: a help string naming two of five apps while the module exports the true set. Different CLI, different registry, so this is not that finding recurring.
 
 Not measured: whether any game is seated from the help rather than the boot prose, nor whether this string and `gm-boot-sections.ts:286` (which names all six) were ever deliberately reconciled.
