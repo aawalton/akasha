@@ -15,6 +15,6 @@ parent-slug: aine-global
 - All files specific to the deploy system are in `akasha/deploy-system/`.
 - A deploy carries one service, never the repository.
 - Every file whose change could change a service's deploy is reachable from that service through the graph.
-- A service deploys only on a change that could change what it runs.
+- A service deploys only when its closure has changed.
+- A service deploys only where the checks in its closure are green.
 - A service can deploy without waiting for any other.
-- A check that can run on a worktree passes before the service is deployed.
