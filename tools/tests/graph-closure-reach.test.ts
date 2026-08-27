@@ -31,7 +31,7 @@ describe("a synth-generated-by edge carries the module a deploy runs to generate
   })
 
   test("a helper the synth.ts imports reaches the resource", () => {
-    const helper = "infra/k8s-types--from-instructions/src/hostnames.ts"
+    const helper = "infra/k8s-types/src/hostnames.ts"
     const graph = synthGraph(
       [
         { id: `ts-file:code:${SYNTH}`, type: "ts-file" },
@@ -50,7 +50,7 @@ describe("a synth-generated-by edge carries the module a deploy runs to generate
   })
 
   test("a file outside the synth.ts import closure does not", () => {
-    const helper = "infra/k8s-types--from-instructions/src/hostnames.ts"
+    const helper = "infra/k8s-types/src/hostnames.ts"
     const graph = synthGraph(
       [
         { id: `ts-file:code:${SYNTH}`, type: "ts-file" },

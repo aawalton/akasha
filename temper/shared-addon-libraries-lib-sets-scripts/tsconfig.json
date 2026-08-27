@@ -11,7 +11,7 @@
   },
   "references": [
     {
-      "path": "../shared-build-deploy-lua-runner--from-instructions"
+      "path": "../shared-build-deploy-lua-runner"
     },
     {
       "path": "../shared-foundation-misc-eso-paths"

@@ -25,7 +25,7 @@
       "entriesPerRun": 0
     },
     {
-      "path": "shared/utils-fs--from-instructions/src/atomic-write.unit.test.ts",
+      "path": "shared/utils-fs/src/atomic-write.unit.test.ts",
       "entriesPerRun": 0
     },
     {
@@ -45,7 +45,7 @@
       "entriesPerRun": 0
     },
     {
-      "path": "temper/shared-foundation-misc-eso-paths-resolve--from-instructions/src/eso-paths-resolve.unit.test.ts",
+      "path": "temper/shared-foundation-misc-eso-paths-resolve/src/eso-paths-resolve.unit.test.ts",
       "entriesPerRun": 0
     },
     {

@@ -105,7 +105,7 @@ function buildFixture(): void {
      export const help = { flags: [] }
      export default async function needsCode() {
        const { codeModule } = await import(${JSON.stringify(CODE_IMPORT)})
-       await codeModule("shared/errors-core--from-instructions/src/exit.ts")
+       await codeModule("shared/errors-core/src/exit.ts")
      }
     `
   )
