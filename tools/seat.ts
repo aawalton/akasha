@@ -1,6 +1,6 @@
 export const tool = {
   summary: "State what a seat is, so a compaction cannot take it away",
-  repos: ["akasha"],
+  path: "seat set",
 } as const
 
 import { ATTRIBUTES, DECLARATIONS, type Attribute, type AttributeKey, type Declaration, attributesOf, recordedModeOf } from "./lib/attributes.ts"
