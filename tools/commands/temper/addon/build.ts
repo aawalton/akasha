@@ -51,7 +51,7 @@ export const help: CommandHelp = {
       argLabel: "<path>",
       valueShape: "token",
       path: true,
-      description: "The code checkout to build from. Defaults to CODE_ROOT, or the sibling `code`.",
+      description: "The checkout to build from. Defaults to $CODE_ROOT, else this repository.",
     },
     {
       name: "--tstl-root",
@@ -63,7 +63,7 @@ export const help: CommandHelp = {
     },
   ],
   envVars: [
-    { name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." },
+    { name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." },
     { name: "AKASHA_ROOT", description: "The akasha checkout holding the compiler, when --tstl-root is absent." },
   ],
   mutuallyExclusive: [

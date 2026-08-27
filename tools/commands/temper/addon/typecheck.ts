@@ -17,9 +17,9 @@ const ADDONS_REL = "packages/temper/addons"
 const COMPILER = ["bunx", "@typescript/native-preview", "--noEmit", "-p"] as const
 
 const DESCRIPTION =
-  "Read the addon roster out of a code checkout and run the TypeScript compiler over each addon's own `tsconfig.json` with nothing emitted, in canonical-name order, stopping at the first addon that does not typecheck.\n" +
+  "Read the addon roster out of a checkout and run the TypeScript compiler over each addon's own `tsconfig.json` with nothing emitted, in canonical-name order, stopping at the first addon that does not typecheck.\n" +
   "\n" +
-  "An addon's `tsconfig.json` is the only statement of what that addon compiles and which ESO globals it may name, so the compiler is run once per addon rather than once over the workspace. This is tooling the workstation runs, not anything a deploy carries, which is why it stands here rather than in the code repository.\n" +
+  "An addon's `tsconfig.json` is the only statement of what that addon compiles and which ESO globals it may name, so the compiler is run once per addon rather than once over the workspace. This is tooling the workstation runs, not anything a deploy carries.\n" +
   "\n" +
   "The checkout is taken as an argument rather than derived from this file's own location, so the roster read and the compiler run are both in the tree named. The addon resolver itself is loaded from the main checkout either way.\n" +
   "\n" +
@@ -34,23 +34,23 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout whose addons are typechecked. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout whose addons are typechecked. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [
     { code: 0, meaning: "every addon on the roster typechecked clean" },
     {
       code: 2,
       meaning:
-        "data error: the path named is not a code checkout, it holds no addons, or an addon carries no tsconfig.json",
+        "data error: the path named is not a checkout, it holds no addons, or an addon carries no tsconfig.json",
     },
     {
       code: 3,
       meaning: "operational error: an addon failed to typecheck, or the run passed its ceiling",
     },
   ],
-  examples: ["ops temper addon typecheck", "ops temper addon typecheck --code-root ~/repos/code"],
+  examples: ["ops temper addon typecheck", "ops temper addon typecheck --code-root ~/repos/akasha"],
 }
 
 export default async function temperAddonTypecheck(args: readonly string[]): Promise<void> {
@@ -59,7 +59,7 @@ export default async function temperAddonTypecheck(args: readonly string[]): Pro
 
   if (!existsSync(join(codeCheckout, ADDONS_REL))) {
     throw dataError(
-      `${codeCheckout} holds no ${ADDONS_REL}, so nothing there is a code checkout to read a roster out of`
+      `${codeCheckout} holds no ${ADDONS_REL}, so nothing there is a checkout to read a roster out of`
     )
   }
 

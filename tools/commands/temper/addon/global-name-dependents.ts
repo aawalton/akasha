@@ -39,7 +39,7 @@ export const help: CommandHelp = {
       argLabel: "<path>",
       valueShape: "token",
       path: true,
-      description: "The code checkout to scan. Defaults to the code repo beside this one.",
+      description: "The checkout to scan. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
   examples: [
