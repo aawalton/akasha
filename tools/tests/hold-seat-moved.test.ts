@@ -21,14 +21,13 @@ function stateSeat(agent: string, held: Attributes, task: string | null = null):
   })
 }
 let priorAgent: string | undefined
-let priorRoot: string | undefined
 
 beforeEach(() => {
+  // `fixture()` NAMES ITS OWN ROOT through `AKASHA_ROOT`. This set `INSTRUCTIONS_ROOT` beside it,
+  // which nothing reads, so the hold was judged against the live checkout rather than `at.root`.
   at = fixture()
   priorAgent = process.env.AGENT_ID
-  priorRoot = process.env.INSTRUCTIONS_ROOT
   process.env.AGENT_ID = AGENT
-  process.env.INSTRUCTIONS_ROOT = at.root
   at.document(DOCUMENT, "name: aria\ndomain-parent-slug: global", 30)
   at.installRecorder()
   stateSeat(AGENT, { persona: { slug: "aria" } as Attribute })
@@ -37,8 +36,6 @@ beforeEach(() => {
 afterEach(() => {
   if (priorAgent === undefined) delete process.env.AGENT_ID
   else process.env.AGENT_ID = priorAgent
-  if (priorRoot === undefined) delete process.env.INSTRUCTIONS_ROOT
-  else process.env.INSTRUCTIONS_ROOT = priorRoot
   at.dispose()
 })
 
@@ -99,8 +96,8 @@ describe("the way out of it", () => {
   })
 
   test("admits a leading `cd` and nothing riding in after it", () => {
-    expect(clearsTheHold("Bash", "cd ~/repos/instructions && ops read --file-path x")).toBe(true)
-    expect(clearsTheHold("Bash", "cd ~/repos/instructions && ops search needle")).toBe(true)
+    expect(clearsTheHold("Bash", "cd ~/repos/akasha && ops read --file-path x")).toBe(true)
+    expect(clearsTheHold("Bash", "cd ~/repos/akasha && ops search needle")).toBe(true)
     expect(clearsTheHold("Bash", "cd ~/x && ops read --file-path y && rm -rf /var/tmp/x")).toBe(false)
     expect(clearsTheHold("Bash", "cd ~/x && rm -rf /var/tmp/x")).toBe(false)
   })
