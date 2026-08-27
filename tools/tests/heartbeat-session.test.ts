@@ -1,12 +1,11 @@
 
 import { afterAll, afterEach, beforeAll, describe, expect, test } from "bun:test"
-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
-import { tmpdir } from "node:os"
 import { statedForPage } from "../lib/supervisor-heartbeat-beat.ts"
 import {
   setCurrentAgentIdForSelfHeal,
   setCurrentSessionIdForSelfHeal,
 } from "../lib/supervisor-self-heal-state.ts"
+import { type Fixture, fixture } from "./fixture.ts"
 
 const AGENT = "0193aaaa-bbbb-4ccc-8ddd-eeeeffff4444"
 
@@ -16,15 +15,17 @@ const COMPOSED = "11111111-2222-4333-8444-555555555555"
 
 const RUNNING = "99999999-8888-4777-8666-555555555555"
 
-const stood = process.env.MEMORY_ROOT
+let at: Fixture
 
-let memory: string
-
+// A SEAT PAGE STANDS UNDER `agent/seat` IN THE AKASHA ROOT, and the fixture is the root
+// `AKASHA_ROOT` names. This planted `seats/amy.md` under `MEMORY_ROOT`: two things neither of
+// which is read any more — the `memory` repository is absorbed into akasha, and seat pages moved
+// out of `seats/`. So `statedForPage` searched the live checkout, found no page carrying this
+// agent, and answered no session at all wherever it had nothing running to fall back on.
 beforeAll(() => {
-  memory = mkdtempSync(`${tmpdir()}/heartbeat-session-`)
-  mkdirSync(`${memory}/seats`, { recursive: true })
-  writeFileSync(
-    `${memory}/seats/amy.md`,
+  at = fixture()
+  at.put(
+    "agent/seat/amy.seat.md",
     [
       "---",
       "page-type-slug: seat",
@@ -38,7 +39,6 @@ beforeAll(() => {
       "",
     ].join("\n")
   )
-  process.env.MEMORY_ROOT = memory
 })
 
 afterEach(() => {
@@ -47,9 +47,7 @@ afterEach(() => {
 })
 
 afterAll(() => {
-  if (stood === undefined) delete process.env.MEMORY_ROOT
-  else process.env.MEMORY_ROOT = stood
-  rmSync(memory, { recursive: true, force: true })
+  at.dispose()
 })
 
 describe("which session the beat composes into a seat's page", () => {
