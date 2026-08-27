@@ -9,14 +9,17 @@ import { PAGED_ACCOUNTS } from "./oauth-usage-vectors.ts"
 const here = new URL(".", import.meta.url).pathname
 const dir = process.argv[2] ?? `${here}../lib`
 
-const uncommittedAt = `${here}../../../akasha/page/uncommitted/uncommitted.ts`
+const uncommittedAt = `${here}../../page/uncommitted/uncommitted.ts`
 
 const root = mkdtempSync(`${tmpdir()}/oauth-usage-pages-`)
 mkdirSync(`${root}/pages/claude-account`, { recursive: true })
 for (const account of PAGED_ACCOUNTS) {
   writeFileSync(`${root}/pages/claude-account/${account}.claude-account.md`, "---\nslug: page\n---\n")
 }
-process.env.INSTRUCTIONS_ROOT = root
+// THE PAGES STAND IN AKASHA, and `pagesRoot()` reads `AKASHA_ROOT` for them at call time. Pointed
+// anywhere else this arm keeps its pacing off a page that is not there, and every write it was
+// written to record is silently none.
+process.env.AKASHA_ROOT = root
 
 const realUncommittedFile = await import(uncommittedAt)
 mock.module(uncommittedAt, () => ({
