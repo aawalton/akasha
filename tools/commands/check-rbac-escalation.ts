@@ -13,10 +13,10 @@ import { tupleOf, tupleSet } from "../lib/cluster-rbac/permissions.ts"
 import { profileSources, type RbacProfileSource } from "../lib/cluster-rbac/profiles.ts"
 import { clusterRoleRules } from "../lib/cluster-rbac/rules.ts"
 import { parseArgs } from "../lib/parse-args.ts"
-import { INSTRUCTIONS_ROOT_FLAG, surfaceRoots } from "../lib/workflow-surface/roots.ts"
+import { AKASHA_ROOT_FLAG, surfaceRoots } from "../lib/workflow-surface/roots.ts"
 
 export const help: CommandHelp = {
-  flags: [INSTRUCTIONS_ROOT_FLAG],
+  flags: [AKASHA_ROOT_FLAG],
   exits: [
     { code: 0, meaning: "every namespace Role permission is covered by the ClusterRole" },
     { code: 1, meaning: "one or more granted permissions are uncovered" },
@@ -33,7 +33,7 @@ interface EscalationGap extends Violation {
 
 export default async function checkRbacEscalation(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const roots = surfaceRoots({ instructionsRoot: parsed.string("--instructions-root") })
+  const roots = surfaceRoots({ instructionsRoot: parsed.string("--akasha-root") })
 
   let sources: readonly RbacProfileSource[]
   try {

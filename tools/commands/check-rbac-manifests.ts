@@ -58,7 +58,7 @@ const FAULT_REPAIRS: Readonly<Record<string, string>> = {
 export default async function checkRbacManifests(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--instructions-root"),
+    instructionsRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 

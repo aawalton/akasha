@@ -66,7 +66,7 @@ export default async function checkChecksumSubstitutionReachability(
 ): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--instructions-root"),
+    instructionsRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 

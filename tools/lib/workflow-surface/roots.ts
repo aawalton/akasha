@@ -8,13 +8,13 @@ export interface SurfaceRoots {
   readonly codeRoot: string
 }
 
-export const INSTRUCTIONS_ROOT_FLAG: HelpFlag = {
-  name: "--instructions-root",
+export const AKASHA_ROOT_FLAG: HelpFlag = {
+  name: "--akasha-root",
   argLabel: "<dir>",
   valueShape: "token",
   path: true,
   description:
-    "The instructions checkout holding the `workflow-template` pages to compose (defaults to this repo).",
+    "The akasha checkout holding the `workflow-template` pages and RBAC profiles to compose (defaults to this repo).",
 }
 
 const CODE_ROOT_FLAG: HelpFlag = {
@@ -23,10 +23,10 @@ const CODE_ROOT_FLAG: HelpFlag = {
   valueShape: "token",
   path: true,
   description:
-    "The code checkout the workflows are composed over and whose files are looked for (defaults to $CODE_ROOT, else the `code` sibling of this repo).",
+    "The code checkout the workflows are composed over and whose files are looked for (defaults to $CODE_ROOT, else this repo).",
 }
 
-export const SURFACE_ROOT_FLAGS: readonly HelpFlag[] = [INSTRUCTIONS_ROOT_FLAG, CODE_ROOT_FLAG]
+export const SURFACE_ROOT_FLAGS: readonly HelpFlag[] = [AKASHA_ROOT_FLAG, CODE_ROOT_FLAG]
 
 const real = (path: string): string => canonicalize(normalizeAbsolute(path))
 
@@ -42,7 +42,7 @@ export function surfaceRoots(flags: {
 
 export function readUnder(roots: SurfaceRoots): string {
   return (
-    `READ UNDER: workflow pages and their declarations from the instructions tree at ` +
+    `READ UNDER: workflow pages and their declarations from the akasha tree at ` +
     `${roots.instructionsRoot}; the tree they are composed over, and every file path they ` +
     `name, from the code tree at ${roots.codeRoot}.`
   )

@@ -52,10 +52,10 @@ export const help: CommandHelp = {
       description: "The checkout whose workspaces are read (defaults to this repository's root).",
     },
     {
-      name: "--instructions-root",
+      name: "--akasha-root",
       argLabel: "<dir>",
       valueShape: "token",
-      description: "The tree whose workflow-template pages say what deploys.",
+      description: "The akasha checkout whose workflow-template pages say what deploys.",
     },
   ],
   examples: ["ops check-pages-ui-store-sidecar-memory"],
@@ -173,7 +173,7 @@ export default async function checkPagesUiStoreSidecarMemory(args: readonly stri
   // `??` guarded nothing: `rootFor` is evaluated whether or not `--code-root` was given, and it
   // throws for a repository nothing has cloned, so every call without that flag died on this line.
   const codeRoot = resolve(parsed.string("--code-root") ?? rootFor(roots, AKASHA))
-  const instructionsRoot = resolve(parsed.string("--instructions-root") ?? rootFor(roots, AKASHA))
+  const instructionsRoot = resolve(parsed.string("--akasha-root") ?? rootFor(roots, AKASHA))
 
   let workspaces: readonly WorkspaceInfo[]
   try {

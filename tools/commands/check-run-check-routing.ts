@@ -177,7 +177,7 @@ function scanReport(scanned: Scanned, roots: SurfaceRoots): readonly string[] {
 export default async function checkRunCheckRouting(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--instructions-root"),
+    instructionsRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
