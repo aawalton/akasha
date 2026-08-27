@@ -2,7 +2,7 @@ import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, statSync, w
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./message-file.ts"
-import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, akashaRoot } from "../../repo/roots/roots"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 
@@ -105,7 +105,7 @@ function inPathOrder(held: readonly Reminder[]): readonly Reminder[] {
 
 export function remindersTo(recipient: string): readonly Reminder[] {
   if (recipient === "") return []
-  const dir = `${resolveRoots().memory}/${reminderDirRelPath(recipient)}`
+  const dir = `${akashaRoot()}/${reminderDirRelPath(recipient)}`
   try {
     if (!statSync(dir).isDirectory()) return []
   } catch {
@@ -121,7 +121,7 @@ export function remindersTo(recipient: string): readonly Reminder[] {
 }
 
 export function everyReminder(): readonly Reminder[] {
-  const root = `${resolveRoots().memory}/${REMINDERS}`
+  const root = `${akashaRoot()}/${REMINDERS}`
   const held: Reminder[] = []
   for (const recipient of namesUnder(root)) held.push(...remindersTo(recipient))
   return inPathOrder(held)
@@ -150,9 +150,9 @@ export function writeReminder(stated: {
       "write.ts",
       [
         "--repo",
-        MEMORY,
+        AKASHA,
         "--file-path",
-        join(rootFor(resolveRoots(), MEMORY), relPath),
+        join(akashaRoot(), relPath),
         "--content-file",
         bodyPath,
         "--mechanical",
@@ -170,12 +170,12 @@ export function writeReminder(stated: {
 }
 
 export function takeReminder(to: string, id: string, why: string): Taken {
-  const absolute = `${resolveRoots().memory}/${reminderRelPath(to, id)}`
+  const absolute = `${akashaRoot()}/${reminderRelPath(to, id)}`
   if (!existsSync(absolute)) {
     removeUncommitted(absolute)
     return { kind: "gone" }
   }
-  const taken = runWriteTool("rm.ts", [absolute, "--repo", MEMORY, "--message", why], WRITER)
+  const taken = runWriteTool("rm.ts", [absolute, "--repo", AKASHA, "--message", why], WRITER)
   if (taken.code !== 0) return { kind: "refused", detail: whyRefused(taken.output) }
   removeUncommitted(absolute)
   return { kind: "taken" }
