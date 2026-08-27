@@ -10,7 +10,7 @@
  * nothing lists its children: an initiative names the initiative it stands under. So the tree exists
  * only after the whole corpus has been read and those edges inverted — there is no walk down from an
  * initiative asking what stands under it, and expanding a row cannot fetch its children, because no
- * row knows them. `ops memory work-tree --json` does that inversion in the instructions repository,
+ * row knows them. `ops akasha work-tree --json` does that inversion in the akasha repository,
  * beside the corpus and beside the schemas that say which way the edges point. A traversal written
  * here would be a second answer to which initiative sits under which, free to drift from the
  * repository's own, and the one nobody watches.
@@ -26,7 +26,7 @@ import { runOps, runVerb, verbPath } from '../../harness-call';
 import { rollUp } from './colours';
 
 /**
- * The ceiling on the read. It parses every document in the memory repository — which takes a second
+ * The ceiling on the read. It parses every document in the akasha repository — which takes a second
  * or so; past a minute the call has not worked, and saying so beats a panel that never fills. A wait
  * with no ceiling reports neither success nor failure.
  */
@@ -40,7 +40,7 @@ const MAX_BUFFER = 8 * 1024 * 1024;
  *
  * EVERY ROW IS AN INITIATIVE. An initiative stands under another initiative or under none, so the
  * tree goes as deep as the corpus declares rather than through a fixed set of levels. Every path in
- * this tree is taken against the memory root the verb named.
+ * this tree is taken against the akasha root the verb named.
  */
 export interface WorkNode {
 	/** The initiative's slug, unique across the tree. */
@@ -55,7 +55,7 @@ export interface WorkNode {
 	/**
 	 * The colour of the seat working this row, or null where no seat states it.
 	 *
-	 * A NAME, NOT A SHADE. Which colour a seat's turn state takes stands in the instructions
+	 * A NAME, NOT A SHADE. Which colour a seat's turn state takes stands in the akasha
 	 * repository on that state's own domain; what the name looks like is this editor's, contributed
 	 * in its manifest.
 	 */
@@ -72,7 +72,7 @@ export interface WorkTree {
 /**
  * A row as the verb prints it, before its colour's two spellings are folded to one.
  *
- * WHY THERE IS A SHAPE HERE THAT IS NOT `WorkNode`. `ops memory work-tree --json` spells this field
+ * WHY THERE IS A SHAPE HERE THAT IS NOT `WorkNode`. `ops akasha work-tree --json` spells this field
  * `colour` today and will spell it `color`. A build Alan is running was compiled against whichever
  * spelling stood when it was built, so this reader has to accept the new name BEFORE the verb starts
  * sending it — a schema demanding the old one alone would refuse every row on the commit that
@@ -132,7 +132,7 @@ function foldColours(nodes: readonly RawWorkNode[]): readonly WorkNode[] {
 		const colour = node.color !== undefined ? node.color : node.colour;
 		if (colour === undefined) {
 			throw new Error(
-				'ops memory work-tree --json printed a shape this cannot read: ' +
+				'ops akasha work-tree --json printed a shape this cannot read: ' +
 				`row \`${node.key}\` carries its colour under neither \`color\` nor \`colour\``
 			);
 		}
@@ -160,12 +160,12 @@ export function parseWorkTree(stdout: string): WorkTree {
 	try {
 		value = JSON.parse(stdout);
 	} catch (err) {
-		throw new Error(`ops memory work-tree --json did not print JSON: ${String(err)}`);
+		throw new Error(`ops akasha work-tree --json did not print JSON: ${String(err)}`);
 	}
 	const parsed = WORK_TREE_SCHEMA.safeParse(value);
 	if (!parsed.success) {
 		throw new Error(
-			`ops memory work-tree --json printed a shape this cannot read: ${parsed.error.message}`
+			`ops akasha work-tree --json printed a shape this cannot read: ${parsed.error.message}`
 		);
 	}
 	// The command answers a colour for the rows that carry one of their own. Raising the rows above
@@ -204,7 +204,7 @@ export function workKeys(nodes: readonly WorkNode[]): readonly string[] {
  * The absolute path of a row's document, or undefined where the row is a sentinel and has none.
  *
  * Joined against the repo the verb named rather than against a path this extension holds: where the
- * memory repository sits is the harness's fact, and a second copy of it here would be a second
+ * akasha repository sits is the harness's fact, and a second copy of it here would be a second
  * thing to be wrong.
  */
 export function documentPath(tree: WorkTree, node: WorkNode): string | undefined {
@@ -218,7 +218,7 @@ export function documentPath(tree: WorkTree, node: WorkNode): string | undefined
  * empty on 2026-08-13. See that file for the measurement.
  */
 export async function readWorkTree(): Promise<WorkTree> {
-	const stdout = await runOps(['memory', 'work-tree', '--json'], {
+	const stdout = await runOps(['akasha', 'work-tree', '--json'], {
 		timeout: READ_TIMEOUT_MS,
 		maxBuffer: MAX_BUFFER,
 	});
@@ -237,7 +237,7 @@ const COLOURS_TIMEOUT_MS = 5_000;
  *
  * WHY THIS IS A SECOND ASK RATHER THAN THE TREE AGAIN. A row's colour is the turn state of whatever
  * seats hold it, and that moves whenever any seat starts or ends a turn — far more often than the
- * corpus is written. Asking for the whole tree on each of those walks every document in the memory
+ * corpus is written. Asking for the whole tree on each of those walks every document in the akasha
  * repository, tens of thousands of them against the couple of dozen that can draw a row, to move a
  * colour on one line. This asks the same command for the half of its answer that reads only the seat
  * files.
@@ -264,12 +264,12 @@ export function parseWorkColours(stdout: string): WorkColours {
 	try {
 		value = JSON.parse(stdout);
 	} catch (err) {
-		throw new Error(`ops memory work-tree --colours did not print JSON: ${String(err)}`);
+		throw new Error(`ops akasha work-tree --colours did not print JSON: ${String(err)}`);
 	}
 	const parsed = WORK_COLOURS_SCHEMA.safeParse(value);
 	if (!parsed.success) {
 		throw new Error(
-			`ops memory work-tree --colours printed a shape this cannot read: ${parsed.error.message}`
+			`ops akasha work-tree --colours printed a shape this cannot read: ${parsed.error.message}`
 		);
 	}
 	return parsed.data;
