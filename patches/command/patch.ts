@@ -4,8 +4,9 @@ import { resolve } from "node:path"
 import { writerId } from "../../agent/writer.ts"
 import { checksOnPatch } from "../../checks/checks.ts"
 import { applying, runGate } from "../../checks/run/gate.ts"
+import { akashaRoot } from "../../repo/roots/roots.ts"
 
-export const HERE = realpathSync(resolve(import.meta.dir, "..", ".."))
+export const HERE = realpathSync(akashaRoot())
 
 export const GATED = "AKASHA_CHECKS_RAN"
 
