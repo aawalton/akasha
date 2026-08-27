@@ -6,4 +6,5 @@ persona-slug: athena
 domain-slug: book-chapter/agent-harness
 role-slug: definer
 person-slug: alan
+start-mode: interactive
 ---
