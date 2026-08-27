@@ -10,9 +10,19 @@ domain-parent-slug: page-type/repo
 
 - **Akasha repo** — the repository nothing tracked is outside.
 
+# Design
+
+Nothing under `.claude` is tracked here.
+
 # Intent
 
 No file here imports a file in another repository, apart from a type declaration.
+
+This repository contains no unused code.
+
+Domain logic lives in a package of its own domain, unaware of any command that calls it.
+
+Every third-party package this repo uses is declared.
 
 # Rules
 
