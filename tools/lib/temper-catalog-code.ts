@@ -9,40 +9,35 @@ import {
   type SideFile,
   serializeSideFile,
 } from "@temper/catalog-cli/temper/catalog/side-file"
+import { CATALOG_DOMAIN_KEYS } from "@temper/catalog-core/domain-keys"
 import {
   type AccountSummary,
   readAccountSummaries,
 } from "@temper/catalog-host/saved-variables-reader"
-import { codeModule } from "./code-import.ts"
 
 export type { AccountSummary, SideFile }
 
-const DOMAIN_KEYS = "@temper/catalog-core/domain-keys"
-
 interface DomainKeys {
-  readonly CATALOG_DOMAIN_KEYS: readonly string[]
+  readonly CATALOG_DOMAIN_KEYS: typeof CATALOG_DOMAIN_KEYS
 }
 
 interface SavedVariablesReader {
-  readonly readAccountSummaries: (content: string) => readonly AccountSummary[]
+  readonly readAccountSummaries: typeof readAccountSummaries
 }
 
 interface Paths {
-  readonly resolveSavedVariablesPath: (override: string | undefined) => string
-  readonly resolveSideFilePath: (override: string | undefined) => string
+  readonly resolveSavedVariablesPath: typeof resolveSavedVariablesPath
+  readonly resolveSideFilePath: typeof resolveSideFilePath
 }
 
 interface SideFileModule {
-  readonly parseSideFile: (content: string) => SideFile | undefined
-  readonly serializeSideFile: (sf: SideFile) => string
-  readonly computeNextSideFile: (
-    prev: SideFile | undefined,
-    request: readonly string[]
-  ) => SideFile
+  readonly parseSideFile: typeof parseSideFile
+  readonly serializeSideFile: typeof serializeSideFile
+  readonly computeNextSideFile: typeof computeNextSideFile
 }
 
 export function catalogDomainKeys(): Promise<DomainKeys> {
-  return codeModule<DomainKeys>(DOMAIN_KEYS)
+  return Promise.resolve({ CATALOG_DOMAIN_KEYS })
 }
 
 export function catalogSavedVariables(): Promise<SavedVariablesReader> {

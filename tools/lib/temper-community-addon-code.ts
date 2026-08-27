@@ -1,23 +1,19 @@
-import { codeModule } from "./code-import.ts"
-
-const DEPLOYABLES = "@temper/shared-build-deploy-addons-resolve/deployables"
-const ESO_PATHS = "@temper/shared-foundation-misc-eso-paths-resolve"
+import { listDeployables } from "@temper/shared-build-deploy-addons-resolve/deployables"
+import { addonsDir } from "@temper/shared-foundation-misc-eso-paths-resolve"
 
 interface Deployables {
-  readonly listDeployables: (opts?: {
-    readonly repoRoot: string
-  }) => readonly { readonly name: string }[]
+  readonly listDeployables: typeof listDeployables
 }
 
 interface EsoPaths {
-  readonly addonsDir: () => string
+  readonly addonsDir: typeof addonsDir
 }
 
 export function deployables(): Promise<Deployables> {
-  return codeModule<Deployables>(DEPLOYABLES)
+  return Promise.resolve({ listDeployables })
 }
 
 export function esoPaths(): Promise<EsoPaths> {
-  return codeModule<EsoPaths>(ESO_PATHS)
+  return Promise.resolve({ addonsDir })
 }
 

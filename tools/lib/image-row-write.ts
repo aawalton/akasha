@@ -1,17 +1,11 @@
-import { codeModule } from "./code-import.ts"
+import { coverUrl } from "@shared/pages-url/cover"
 import { operationalError } from "./exit.ts"
 import { seaweedFSObjectStoreFromEnv } from "./object-store.ts"
 import { imageObjectKey } from "./object-store-keys"
 import { patchRow, writeRow } from "./page-rows-write.ts"
 import { resolveRoots } from "../../repo/roots/roots"
 
-const PAGES_URL = "@shared/pages-url"
-
 export const GENERATION_LOG = "alan"
-
-interface PagesUrl {
-  readonly coverUrl: (pageId: string) => string
-}
 
 export function rowValuesOf(
   properties: Readonly<Record<string, unknown>>
@@ -60,7 +54,7 @@ export async function publishRowCover(
     )
   }
   const key = imageObjectKey(args.pageId)
-  const cover = (await codeModule<PagesUrl>(PAGES_URL)).coverUrl(args.pageId)
+  const cover = coverUrl(args.pageId)
   await store.put(key, new Uint8Array(args.bytes))
   const patched = patchRow(
     resolveRoots(),
