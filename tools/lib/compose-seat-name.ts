@@ -78,9 +78,11 @@ export function personaDefaultsOf(root: string, persona: string): PersonaDefault
 }
 
 export function identityHeardFrom(root: string, person: string): string | null {
-  const at = `${root}/${pageRelIn(root, "person", person)}`
-  if (!existsSync(at)) return null
-  return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
+  for (const where of [root, akashaRoot()]) {
+    const at = `${where}/${pageRelIn(where, "person", person)}`
+    if (existsSync(at)) return textField(parseFrontmatter(readFileSync(at, "utf8")), IDENTITY_KEY)
+  }
+  return null
 }
 
 function stated(value: string | null): string | null {
@@ -93,7 +95,7 @@ function spelling(seat: NameableSeat, root: string): readonly (string | null)[] 
   const role = stated(seat.attributes.role)
   const { task } = seat.assignments
   if (role === HANDLER) {
-    return [domain === null ? null : identityHeardFrom(root, domain), domain, HANDLER]
+    return [domain]
   }
   if (seat.principal === "alan" && persona !== null && !personaIsDefault(root, persona)) {
     return [persona]
@@ -106,4 +108,18 @@ export function composeSeatName(seat: NameableSeat, root: string): string | null
   if (flex !== null && flex !== "" && !FLEX.test(flex)) return null
   const kept = spelling(seat, root).filter((segment): segment is string => segment !== null)
   return kept.length === 0 ? null : kept.join(JOINER)
+}
+
+export function handlerSeatName(person: string, root: string): string {
+  const name = composeSeatName(
+    {
+      attributes: { persona: null, domain: person, role: HANDLER },
+      assignments: { task: null },
+      flex: null,
+      principal: null,
+    },
+    root
+  )
+  if (name === null) throw new Error(`nothing spells the ${HANDLER} seat for '${person}'`)
+  return name
 }
