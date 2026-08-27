@@ -27,6 +27,7 @@ export const CODE_AT: readonly string[] = [
   "during-call",
   "exclusive",
   "page",
+  "pages-system/page-type",
   "repo",
   "write-whole",
 ]
