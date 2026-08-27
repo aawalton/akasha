@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 start-mode: interactive
 on-call: true
+initiative-slug: athena-agent-harness
 errand: "Okay, here is my first case. Is the interactive-block-stall hook running, can we tell?"
 registration-account: aawalton
 claude-code-session-uuid: 73fc587f-89d3-4a77-9ea5-f569570a94e4
