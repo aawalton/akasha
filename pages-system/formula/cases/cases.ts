@@ -18,38 +18,45 @@
 // `claim`, so a disagreement between an implementation and this corpus is
 // settled by opening the page rather than by arguing.
 //
-// Where the specification does not settle a spelling, the case says so in
+// Where no specification page carries a spelling, the case says so in
 // `provisional` and the spelling is produced in one place below, so a ruling
-// changes one constant rather than a hundred strings. A case carrying
-// `provisional` tests a real claim through a guessed surface: if the surface is
-// wrong, re-spell it; do not weaken the claim.
+// changes one function rather than a hundred strings. A case carrying
+// `provisional` tests a written claim through an unwritten surface: if the
+// surface changes, re-spell it; do not weaken the claim.
 //
 // This file is plain data. It knows about no evaluator and imports nothing.
 //
+// Three spellings no specification page carries, which Alan settled in
+// conversation. They belong on a page; until they are on one, they are written
+// down here:
+//
+//   - The case form is `case(<test> -> <value>, ..., otherwise -> <value>)`.
+//     Rows are separated by commas, `->` separates a test from its value, the
+//     last row's test is the bare word `otherwise` and is required, and there
+//     is no closing word. Whitespace before `->` is alignment, not syntax.
+//   - Parentheses group, against the precedence ladder `??`, `&&`, comparison,
+//     `+ -`, `* /`.
+//   - A function call is `name(a, b)`.
+//
 // What the specification does not settle, and so is not tested here:
 //
-//  1. The case form has no written spelling. `caseForm` below is a guess.
-//  2. Grouping has no written spelling. Parentheses are a guess, and the
-//     precedence order on `formula-language.domain.md:44` says nothing about
-//     how a writer overrides it.
-//  3. A function call has no written spelling. `name(a, b)` is a guess.
-//  4. `-` and `/` have no written associativity, so `10 - 3 - 2` is not here.
-//  5. There is no unary minus in the operators list, so `-1` is not here;
+//  1. `-` and `/` have no written associativity, so `10 - 3 - 2` is not here.
+//  2. There is no unary minus in the operators list, so `-1` is not here;
 //     `0 - 1` is.
-//  6. Whether a function given an absent value answers absent is written for
+//  3. Whether a function given an absent value answers absent is written for
 //     operators and not for functions. One case takes the reading that it
 //     does, and is marked in its comment.
-//  7. What a text literal renders where its reference is absent is not
+//  4. What a text literal renders where its reference is absent is not
 //     written, so no case fills an absent reference into a literal.
-//  8. Whether a number or a boolean may be filled into a text literal at all
+//  5. Whether a number or a boolean may be filled into a text literal at all
 //     is not written. One case-form case assumes it may; it is marked.
-//  9. Whether `<`, `<=`, `>` and `>=` reach text is not written, so only
+//  6. Whether `<`, `<=`, `>` and `>=` reach text is not written, so only
 //     numbers are compared here.
-// 10. Whether `hasWord` folds case, and what besides a space bounds a word,
+//  7. Whether `hasWord` folds case, and what besides a space bounds a word,
 //     are not written; only space-bounded, same-case cases are here.
-// 11. Whether `hoursBetween(later, earlier)` is negative or a magnitude is not
+//  8. Whether `hoursBetween(later, earlier)` is negative or a magnitude is not
 //     written; every case here puts the earlier instant first.
-// 12. Whether a formula may answer an instant or a list at all, and whether a
+//  9. Whether a formula may answer an instant or a list at all, and whether a
 //     page type constrains what kind its `name` formula answers, are not
 //     written.
 
@@ -151,19 +158,23 @@ export interface FormulaCase {
    */
   now?: string;
   /**
-   * A spelling the specification does not settle, which this case had to guess
-   * to be written at all. Named so a ruling can be applied without rereading
-   * every case.
+   * A spelling no specification page carries, which this case needs to be
+   * written at all. Named so a ruling can be applied without rereading every
+   * case.
    */
   provisional?: Provisional;
 }
 
+/**
+ * A spelling this corpus leans on that no specification page carries. Both are
+ * settled — one by Alan, one by what the pages leave out — and both are marked
+ * so every case resting on one can be found again when a page is written.
+ */
 export type Provisional =
+  /** The case form. Settled by Alan; not yet on a page. */
   | "case-form-spelling"
-  | "parentheses-group"
-  | "function-call-spelling"
-  | "no-list-literal"
-  | "no-unary-minus";
+  /** That there is no list literal. Read off what the pages leave out. */
+  | "no-list-literal";
 
 export type CaseGroup =
   | "references"
@@ -188,16 +199,20 @@ export type CaseGroup =
 // ---------------------------------------------------------------------------
 
 /**
- * The specification names the case form's parts — rows, a test, a value, an
- * `otherwise` row — and never spells one out. This is the corpus's guess, and
- * every case using it carries `provisional: "case-form-spelling"`.
+ * The case form, as Alan settled it. The specification pages name the form's
+ * parts — rows, a test, a value, an `otherwise` row — and spell none of them,
+ * so every case using this carries `provisional: "case-form-spelling"` until a
+ * page carries the spelling.
  *
- * A row is `<test>: <value>`, the rows run in order, the last is
- * `otherwise: <value>`, and `end` closes the form. Written on one line
- * throughout, because nothing in the specification makes a newline mean
- * anything.
+ * `case(` opens and `)` closes. Rows are separated by commas. `->` separates a
+ * test from its value. The last row's test is the bare word `otherwise`, and
+ * that row is required. There is no closing word.
  *
- *     case {count} > 10: "many" otherwise: "none" end
+ *     case({ram} == "64gb" -> 6400, {ram} == "32gb" -> 3200, otherwise -> 0)
+ *
+ * Whitespace before `->` is alignment rather than syntax, so no case here is
+ * written to depend on it: one space sits on each side of every `->`, and one
+ * space follows each comma.
  *
  * Change this function and every case-form case is re-spelled.
  */
@@ -205,25 +220,25 @@ export function caseForm(
   rows: Array<{ test: string; value: string }>,
   otherwise: string,
 ): string {
-  const written = rows.map((row) => `${row.test}: ${row.value}`).join(" ");
-  return `case ${written} otherwise: ${otherwise} end`;
+  const written = [...rows, { test: "otherwise", value: otherwise }]
+    .map((row) => `${row.test} -> ${row.value}`)
+    .join(", ");
+  return `case(${written})`;
 }
 
 /** A case form written without its `otherwise` row, for the refusal cases. */
 export function caseFormWithoutOtherwise(
   rows: Array<{ test: string; value: string }>,
 ): string {
-  const written = rows.map((row) => `${row.test}: ${row.value}`).join(" ");
-  return `case ${written} end`;
+  const written = rows.map((row) => `${row.test} -> ${row.value}`).join(", ");
+  return `case(${written})`;
 }
 
 /**
- * The specification names four functions and never spells a call. This is the
- * corpus's guess: the function's name, then its arguments in parentheses,
- * separated by commas. Cases relying on it carry
- * `provisional: "function-call-spelling"` only where the call itself is what
- * is under test; a call used incidentally is not flagged, because every
- * function case would carry the flag and it would stop meaning anything.
+ * A call is the function's name, then its arguments in parentheses, separated
+ * by commas. The specification pages name four functions and spell no call;
+ * this spelling is Alan's, settled alongside the case form and the parentheses
+ * that group.
  */
 export function call(name: string, ...args: string[]): string {
   return `${name}(${args.join(", ")})`;
@@ -1549,7 +1564,6 @@ const precedence: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersNumber(20),
-    provisional: "parentheses-group",
   },
   {
     name: "parentheses nest",
@@ -1560,7 +1574,6 @@ const precedence: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersNumber(20),
-    provisional: "parentheses-group",
   },
   {
     name: "parentheses around a whole formula change nothing",
@@ -1571,7 +1584,6 @@ const precedence: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: answersNumber(5),
-    provisional: "parentheses-group",
   },
   {
     name: "an unclosed parenthesis is refused when the formula is read",
@@ -1582,7 +1594,6 @@ const precedence: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("read", "unreadable"),
-    provisional: "parentheses-group",
   },
   {
     name: "addition binds tighter than comparison",
@@ -2424,7 +2435,6 @@ const functions: FormulaCase[] = [
     shape: NOTHING,
     values: {},
     expected: refused("read", "unknown-word", ["now"]),
-    provisional: "function-call-spelling",
   },
 ];
 
@@ -2584,7 +2594,6 @@ const absence: FormulaCase[] = [
     shape: COUNT,
     values: {},
     expected: ABSENT,
-    provisional: "parentheses-group",
   },
   {
     name: "absence in one arm does not spare the other arm's operator",
