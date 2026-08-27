@@ -21,7 +21,7 @@ const cmd = (s: string) => ({
 describe("routedCheckCommand", () => {
   test("is the only spelling of the route, and the scanner recognises what it emits", () => {
     const command = routedCheckCommand({ cwd: "/ws", script: `${DIR}check-bin-mode.ts` })
-    expect(command).toBe(`cd /ws && bun $INSTRUCTIONS_ROOT/${RUN_CHECK_PATH} ${DIR}check-bin-mode.ts`)
+    expect(command).toBe(`cd /ws && bun $AKASHA_ROOT/${RUN_CHECK_PATH} ${DIR}check-bin-mode.ts`)
     expect(findCheckInvocations(command)).toEqual([
       { script: `${DIR}check-bin-mode.ts`, routed: true },
     ])
@@ -34,7 +34,7 @@ describe("routedCheckCommand", () => {
         script: `${DIR}check-repo-paths.ts`,
         args: ["--tree-sha", "abc"],
       })
-    ).toBe(`cd /ws && bun $INSTRUCTIONS_ROOT/${RUN_CHECK_PATH} ${DIR}check-repo-paths.ts --tree-sha abc`)
+    ).toBe(`cd /ws && bun $AKASHA_ROOT/${RUN_CHECK_PATH} ${DIR}check-repo-paths.ts --tree-sha abc`)
   })
 })
 

@@ -13,7 +13,7 @@ const BARE_IMPORT = /(?:^|[\s;])import\s*["']([^"']+)["']/g
 
 const WALKS_DOCUMENTS = /listDocuments\(|repo\.documents|RepoView/
 
-const HOLDS_ROOT = /resolveRoots\(|INSTRUCTIONS_ROOT|import\.meta\.dir|\broots\.\w+|repo\.read\(/
+const HOLDS_ROOT = /resolveRoots\(|AKASHA_ROOT|import\.meta\.dir|\broots\.\w+|repo\.read\(/
 
 const DECLARATION = /^\s*export\s+(?:async\s+)?(?:function|const|interface|type)\s/
 

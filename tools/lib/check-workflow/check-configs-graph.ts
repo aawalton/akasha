@@ -17,7 +17,7 @@ export const GRAPH_ARTIFACT_CHECKS: CheckConfig[] = [
       },
     },
     commands: (ci) => [
-      `mkdir -p /ci-storage/reverse-reachability && OUT=/ci-storage/reverse-reachability/${ci.inputsHash}.json && if [ -f "$OUT" ]; then echo "[reverse-reachability] cache hit: $OUT"; exit 0; fi && cd ${ci.workspace} && bun "$INSTRUCTIONS_ROOT/tools/lib/ci-test-fanout/compute-reverse-reachability.ts" --output "$OUT" --inputs-hash ${ci.inputsHash} --tree-sha ${ci.treeSha}`,
+      `mkdir -p /ci-storage/reverse-reachability && OUT=/ci-storage/reverse-reachability/${ci.inputsHash}.json && if [ -f "$OUT" ]; then echo "[reverse-reachability] cache hit: $OUT"; exit 0; fi && cd ${ci.workspace} && bun "$AKASHA_ROOT/tools/lib/ci-test-fanout/compute-reverse-reachability.ts" --output "$OUT" --inputs-hash ${ci.inputsHash} --tree-sha ${ci.treeSha}`,
     ],
   },
 ]

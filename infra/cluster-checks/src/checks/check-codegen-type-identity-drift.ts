@@ -41,7 +41,7 @@ const CHECK_FLAGS = {
 type Roots = Readonly<Record<CodegenRepo, string>>
 
 function instructionsRootFrom(named: string | undefined): string {
-  const stated = named ?? process.env.INSTRUCTIONS_ROOT
+  const stated = named ?? process.env.AKASHA_ROOT
   const root =
     stated === undefined || stated === ""
       ? resolve(import.meta.dir, OWN_REPO_FROM_HERE)
@@ -50,7 +50,7 @@ function instructionsRootFrom(named: string | undefined): string {
     throw new Error(
       `instructionsRootFrom: ${root} holds no ${INSTRUCTIONS_MIRROR_DIR}, so it is not a ` +
         "checkout of the instructions repo. Every mirror generator this check reads stands " +
-        "there: pass --instructions-root, or set INSTRUCTIONS_ROOT."
+        "there: pass --instructions-root, or set AKASHA_ROOT."
     )
   }
   return root

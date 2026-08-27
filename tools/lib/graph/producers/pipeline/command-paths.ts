@@ -7,7 +7,9 @@ const INSTRUCTIONS_REPO: Repo = "instructions"
 
 const CODE_CHECKOUT_VARIABLES: readonly string[] = ["$WS/", "$WORKSPACE/"]
 
-const INSTRUCTIONS_VARIABLES: readonly string[] = ["$INSTRUCTIONS_ROOT/"]
+// `AKASHA_ROOT` names the akasha tree a step pod is given. The graph label it resolves to stays
+// `instructions`: that label names a view of this tree, not the repository it was named after.
+const AKASHA_TREE_VARIABLES: readonly string[] = ["$AKASHA_ROOT/"]
 
 const CODE_CHECKOUT_DIR = "/ci-storage/checkouts/"
 
@@ -52,7 +54,7 @@ export const namedIn = (token: string): NamedPath | null => {
   for (const spelling of CODE_CHECKOUT_VARIABLES) {
     if (token.startsWith(spelling)) return standing(CODE_REPO, token.slice(spelling.length))
   }
-  for (const spelling of INSTRUCTIONS_VARIABLES) {
+  for (const spelling of AKASHA_TREE_VARIABLES) {
     if (token.startsWith(spelling)) return standing(INSTRUCTIONS_REPO, token.slice(spelling.length))
   }
   if (token.startsWith(CODE_CHECKOUT_DIR)) {

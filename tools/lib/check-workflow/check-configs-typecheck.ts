@@ -14,7 +14,7 @@ export const TYPECHECK_CHECKS: CheckConfig[] = [
       kubernetes: { resources: { requests: { cpu: "3" }, limits: { memory: "4Gi" } } },
     },
     commands: (ci) => [
-      `cd ${ci.workspace} && bun "$INSTRUCTIONS_ROOT/${POPULATION_SCRIPT}" || exit 1`,
+      `cd ${ci.workspace} && bun "$AKASHA_ROOT/${POPULATION_SCRIPT}" || exit 1`,
       `cd ${ci.workspace} && bunx @typescript/native-preview -b`,
     ],
   },

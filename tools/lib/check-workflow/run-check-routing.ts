@@ -1,6 +1,6 @@
 export const RUN_CHECK_PATH = "infra/cluster-checks/src/run-check.ts"
 
-export const RUN_CHECK_INVOCATION = `$INSTRUCTIONS_ROOT/${RUN_CHECK_PATH}`
+export const RUN_CHECK_INVOCATION = `$AKASHA_ROOT/${RUN_CHECK_PATH}`
 
 const ROUTE_PREFIXES: readonly string[] = [
   `${RUN_CHECK_INVOCATION} `,

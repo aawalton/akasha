@@ -15,15 +15,15 @@ export function applyRbac(config: ApplyRbacConfig): Step {
     environment: { HOME: "/tmp" },
     commands: [
       "set -e",
-      `[ -n "$INSTRUCTIONS_ROOT" ] || { echo "ERROR: applying ${rbacFile} needs INSTRUCTIONS_ROOT, and this step container was given none, so the profiles it would grant cannot be read" >&2; exit 1; }`,
-      `[ -f "$INSTRUCTIONS_ROOT/${rbacFile}" ] || { echo "ERROR: ${rbacFile} does not stand in the instructions tree at $INSTRUCTIONS_ROOT, so the role it declares would be skipped rather than applied" >&2; exit 1; }`,
+      `[ -n "$AKASHA_ROOT" ] || { echo "ERROR: applying ${rbacFile} needs AKASHA_ROOT, and this step container was given none, so the profiles it would grant cannot be read" >&2; exit 1; }`,
+      `[ -f "$AKASHA_ROOT/${rbacFile}" ] || { echo "ERROR: ${rbacFile} does not stand in the akasha tree at $AKASHA_ROOT, so the role it declares would be skipped rather than applied" >&2; exit 1; }`,
       `bun -e "
-const mod = await import('$INSTRUCTIONS_ROOT/${rbacFile}');
+const mod = await import('$AKASHA_ROOT/${rbacFile}');
 const profiles = mod.profiles ?? mod.default;
 if (!Array.isArray(profiles) || profiles.length === 0) {
   throw new Error('${rbacFile} exports no profiles, so this step would apply an empty document and report success');
 }
-const { LABELS } = await import('$INSTRUCTIONS_ROOT/tools/lib/cluster-rbac/rules.ts');
+const { LABELS } = await import('$AKASHA_ROOT/tools/lib/cluster-rbac/rules.ts');
 function inlineArray(arr) { return '[' + arr.map(s => '\\"' + s + '\\"').join(', ') + ']'; }
 function formatLabels(indent, labels) {
   const pad = ' '.repeat(indent);

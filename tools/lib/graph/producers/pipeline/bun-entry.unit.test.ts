@@ -49,8 +49,8 @@ describe("which file a bun invocation in a step's commands starts", () => {
     })
   })
 
-  test("an instructions-rooted path lands in the instructions repo", () => {
-    expect(bunEntryIn("bun $INSTRUCTIONS_ROOT/tools/lib/cluster-rbac/rules.ts")).toEqual({
+  test("a path under the akasha tree lands in the instructions repo", () => {
+    expect(bunEntryIn("bun $AKASHA_ROOT/tools/lib/cluster-rbac/rules.ts")).toEqual({
       repo: "instructions",
       path: "tools/lib/cluster-rbac/rules.ts",
     })
@@ -64,7 +64,7 @@ describe("which file a bun invocation in a step's commands starts", () => {
   })
 
   test("an invocation carrying inline code runs no file, whatever paths it spells", () => {
-    expect(bunEntryIn("bun -e await import('$INSTRUCTIONS_ROOT/tools/lib/cluster-rbac/rules.ts')")).toBeNull()
+    expect(bunEntryIn("bun -e await import('$AKASHA_ROOT/tools/lib/cluster-rbac/rules.ts')")).toBeNull()
   })
 
   test("a bun subcommand that is not a path is not one", () => {

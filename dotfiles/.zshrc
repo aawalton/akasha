@@ -31,7 +31,7 @@ _rc="${_rc:A}"
 [ -n "$_rc" ] && [ -f "${_rc:h}/../tools/lib/repo-roots.sh" ] && . "${_rc:h}/../tools/lib/repo-roots.sh"
 unset _rc
 
-[ -n "$INSTRUCTIONS_ROOT" ] && export PATH="$INSTRUCTIONS_ROOT/dotfiles/bin:$PATH"
+export PATH="$AKASHA_ROOT/dotfiles/bin:$PATH"
 
 # bun completions.
 [ -s "$HOME/.bun/_bun" ] && source "$HOME/.bun/_bun"

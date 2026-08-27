@@ -367,7 +367,7 @@ export default workflow("preparation", {
           ...installDepsCommands(ci.commitSha),
 
           'mkdir -p "$WS/.ci"',
-          `bun "$INSTRUCTIONS_ROOT/tools/lib/pipeline-run/write-changed-files.ts" --seq "$PIPELINE_SEQ" --out "$WS/.ci/changed-files.txt" || exit 1`,
+          `bun "$AKASHA_ROOT/tools/lib/pipeline-run/write-changed-files.ts" --seq "$PIPELINE_SEQ" --out "$WS/.ci/changed-files.txt" || exit 1`,
 
           `echo "Workspace ready (commit ${ci.commitSha}, ${ci.changedFiles?.length ?? 0} changed files)"`,
         ],
@@ -384,7 +384,7 @@ export default workflow("preparation", {
         commands: (ci) => [
           "set -e",
           `WS=/ci-storage/checkouts/${ci.commitSha}`,
-          `bun "$INSTRUCTIONS_ROOT/packages/infra/k8s/synth/src/manifests.ts" --write --root "$WS" --root "$INSTRUCTIONS_ROOT"`,
+          `bun "$AKASHA_ROOT/infra/k8s-synth/src/manifests.ts" --write --root "$WS" --root "$AKASHA_ROOT"`,
         ],
       }),
       dependsOn: ["preparation-prep"],

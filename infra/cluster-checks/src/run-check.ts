@@ -26,7 +26,7 @@ function locate(script: string): string | null {
   for (const root of [
     OWN_ROOT,
     process.env.WORKSPACE,
-    process.env.INSTRUCTIONS_ROOT,
+    process.env.AKASHA_ROOT,
     process.cwd(),
   ]) {
     if (root === undefined || root === "") continue
@@ -53,8 +53,8 @@ const found = locate(script)
 if (found === null) {
   process.stderr.write(
     `${PREFIX} ${script} stands in no tree this runner can reach — not under ${OWN_ROOT}, not ` +
-      `under WORKSPACE (${named(process.env.WORKSPACE)}), not under INSTRUCTIONS_ROOT ` +
-      `(${named(process.env.INSTRUCTIONS_ROOT)}), not under ${process.cwd()}. A check body ` +
+      `under WORKSPACE (${named(process.env.WORKSPACE)}), not under AKASHA_ROOT ` +
+      `(${named(process.env.AKASHA_ROOT)}), not under ${process.cwd()}. A check body ` +
       `and the tree it reads need not be in the same repository, so the runner looks in each of ` +
       `them rather than only in the one it was invoked from. Reporting ${EXIT_TOOL_ERROR} (tool ` +
       `error), not a violation.\n`

@@ -95,10 +95,10 @@ export function composeSpawnSettings(
 
 function warnAbsent(reason: string): undefined {
   console.error(
-    `${LOG} instructions settings NOT loaded: \`${AGENT_SETTINGS_COMMAND}\` — ${reason}.\n` +
+    `${LOG} agent settings NOT loaded: \`${AGENT_SETTINGS_COMMAND}\` — ${reason}.\n` +
       `${LOG} this spawn carries only the per-spawn overrides; every key the ` +
       `document declares (hooks, env, permissions, fastMode, statusLine) is inert ` +
-      `for it. Restore settings/agents.json or set INSTRUCTIONS_ROOT.`
+      `for it. Restore settings/agents.json.`
   )
 }
 

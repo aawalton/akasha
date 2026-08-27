@@ -76,7 +76,7 @@ function populationCommand(
 ): string {
   const dirs = (targets: readonly ServiceTypecheckTarget[]): string =>
     targets.length === 0 ? '""' : targets.map((t) => t.dir).join(",")
-  return `cd ${workspace} && bun "$INSTRUCTIONS_ROOT/${POPULATION_SCRIPT}" --covered ${dirs(covered)} --excluded ${dirs(excluded)} || exit 1`
+  return `cd ${workspace} && bun "$AKASHA_ROOT/${POPULATION_SCRIPT}" --covered ${dirs(covered)} --excluded ${dirs(excluded)} || exit 1`
 }
 
 function packageCommand(workspace: string, target: ServiceTypecheckTarget): string {

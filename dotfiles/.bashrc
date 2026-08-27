@@ -145,7 +145,6 @@ export PATH="$BUN_INSTALL/bin:$PATH"
 eval "$(bun run "$AKASHA_ROOT/tools/aw/cli.ts" init bash)"
 export DISABLE_COST_WARNINGS=1
 
-# $INSTRUCTIONS_ROOT/packages/infra/scripts
 export PATH="$AKASHA_ROOT/infra/scripts:$PATH"
 
 export PATH="$AKASHA_ROOT/dotfiles/bin:$PATH"

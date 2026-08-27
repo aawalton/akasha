@@ -1,8 +1,4 @@
-import {
-  akashaTreePath,
-  checkoutPath,
-  instructionsTreePath,
-} from "../ci-container-dispatcher/container-name.ts"
+import { akashaTreePath, checkoutPath } from "../ci-container-dispatcher/container-name.ts"
 import { rootEnvName } from "../../../repo/roots/roots"
 import { CI_SECRET_NAME, toolchainEnv } from "./pod-spec-helpers.ts"
 import type { RunToCompletionContext, StepConfig } from "./pod-spec-step-config.ts"
@@ -55,7 +51,6 @@ export function buildPodEnv(args: BuildPodEnvArgs): readonly K8sEnvVar[] {
     { name: "BRANCH", value: context.branch },
     { name: "POD_NAME", value: podName },
     { name: "WORKSPACE", value: wsPath },
-    { name: "INSTRUCTIONS_ROOT", value: instructionsTreePath(context.sha) },
     { name: rootEnvName("akasha"), value: akashaTreePath(context.sha) },
     ...(context.inputsHash !== undefined
       ? [{ name: "INPUTS_HASH", value: context.inputsHash }]

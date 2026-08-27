@@ -1,11 +1,8 @@
 import { describe, expect, test } from "bun:test"
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
-import { resolve } from "node:path"
 import { akashaRoot } from "../../../repo/roots/roots.ts"
 
 const HERE = akashaRoot()
-
-const INSTRUCTIONS = process.env.INSTRUCTIONS_ROOT ?? resolve(HERE, "..", "instructions")
 
 const SUBJECT = "patches/edit-pairs.ts"
 
@@ -27,14 +24,14 @@ function editing(next: string): Ran {
     const ran = Bun.spawnSync({
       cmd: [
         process.execPath,
-        `${INSTRUCTIONS}/tools/ops/cli.ts`,
+        `${HERE}/tools/ops/cli.ts`,
         "edit",
         "--dry-run",
         "--mechanical",
         "--input-file",
         payload,
       ],
-      env: { ...process.env, INSTRUCTIONS_ROOT: INSTRUCTIONS },
+      env: { ...process.env, AKASHA_ROOT: HERE },
       stdout: "pipe",
       stderr: "pipe",
     })

@@ -7,7 +7,6 @@ import {
   akashaTreePath,
   buildContainerName,
   checkoutPath,
-  instructionsTreePath,
   sanitizeDnsName,
   shortCommit,
   STEP_LABEL_KEY,
@@ -93,7 +92,6 @@ function buildEnv(
     { name: "CONTAINER_NAME", value: containerName },
     { name: "WORKSPACE", value: workspace },
     { name: rootEnvName("code"), value: workspace },
-    { name: "INSTRUCTIONS_ROOT", value: instructionsTreePath(candidate.pipelineInstructionsCommit) },
     { name: rootEnvName("akasha"), value: akashaTreePath(candidate.pipelineInstructionsCommit) },
     { name: "PAGE_QUERY_ORIGIN", value: pageQueryOriginInCluster() },
     ...(candidate.inputsHash === null
