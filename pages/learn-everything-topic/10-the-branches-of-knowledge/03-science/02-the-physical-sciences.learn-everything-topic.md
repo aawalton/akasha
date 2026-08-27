@@ -1,5 +1,6 @@
 ---
 id: c8d14f5f-9b54-5342-b01c-519b58d3ae3e
+slug: 02-the-physical-sciences
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › The Physical Sciences
 D: 0

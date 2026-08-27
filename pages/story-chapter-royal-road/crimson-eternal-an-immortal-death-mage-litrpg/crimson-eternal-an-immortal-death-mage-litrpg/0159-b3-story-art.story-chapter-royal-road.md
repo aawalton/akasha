@@ -1,5 +1,6 @@
 ---
 id: 97d3ae64-864b-5bc4-b271-838838c04483
+slug: 0159-b3-story-art
 page-type-slug: story-chapter-royal-road
 title: "B3 | Story Art"
 partOf: crimson-eternal-an-immortal-death-mage-litrpg

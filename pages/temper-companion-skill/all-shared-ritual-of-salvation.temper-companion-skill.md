@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f3-7a04-b617-8c6c9663ce6a
+slug: all-shared-ritual-of-salvation
 page-type-slug: temper-companion-skill
 title: "Ritual of Salvation"
 icon: "/esoui/art/icons/ability_companion_fightersguild_001.dds"

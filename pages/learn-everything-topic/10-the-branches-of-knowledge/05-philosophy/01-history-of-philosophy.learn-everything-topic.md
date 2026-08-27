@@ -1,5 +1,6 @@
 ---
 id: ed4123da-df6f-58ee-a5de-0878590b2647
+slug: 01-history-of-philosophy
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Philosophy › History of Philosophy
 D: 0

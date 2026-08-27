@@ -1,5 +1,6 @@
 ---
 id: 58cda90c-5019-5923-ad58-2cc4a7c8e0d8
+slug: 0011-chapter-269-the-target
 page-type-slug: story-chapter-royal-road
 title: "Chapter 269: The Target"
 partOf: rise-of-the-living-forge

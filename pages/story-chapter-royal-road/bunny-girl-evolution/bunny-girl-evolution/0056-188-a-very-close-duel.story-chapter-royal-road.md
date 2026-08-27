@@ -1,5 +1,6 @@
 ---
 id: f7221a61-34cf-55c8-b42d-9acc29580c75
+slug: 0056-188-a-very-close-duel
 page-type-slug: story-chapter-royal-road
 title: "188 - A Very Close Duel"
 partOf: bunny-girl-evolution

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3835-78f0-aac4-b3f011617cbb
+slug: all-shared-flexibility
 page-type-slug: temper-companion-skill
 title: "Flexibility"
 icon: "/esoui/art/icons/passive_companion_armor_medium.dds"

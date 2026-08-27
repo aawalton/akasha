@@ -1,5 +1,6 @@
 ---
 id: a449f53d-5f46-50f5-9491-145d85f2f1bf
+slug: 0004-4-evolution
 page-type-slug: story-chapter-royal-road
 title: "4 - Evolution"
 partOf: bunny-girl-evolution

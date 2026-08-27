@@ -1,5 +1,6 @@
 ---
 id: c8c01e47-7790-5497-87d4-b164e21e80a5
+slug: 0020-154-taking-control-of-things
 page-type-slug: story-chapter-royal-road
 title: "154 - Taking Control of Things"
 partOf: bunny-girl-evolution

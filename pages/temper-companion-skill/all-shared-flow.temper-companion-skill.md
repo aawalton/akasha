@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3830-7a11-bb1e-ef64c85fc414
+slug: all-shared-flow
 page-type-slug: temper-companion-skill
 title: "Flow"
 icon: "/esoui/art/icons/passive_companion_armor_light.dds"

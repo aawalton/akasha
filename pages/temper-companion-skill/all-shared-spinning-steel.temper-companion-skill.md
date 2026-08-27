@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c555-75f2-b975-63bd57ee036f
+slug: all-shared-spinning-steel
 page-type-slug: temper-companion-skill
 title: "Spinning Steel"
 icon: "/esoui/art/icons/ability_companion_dualwield_005.dds"

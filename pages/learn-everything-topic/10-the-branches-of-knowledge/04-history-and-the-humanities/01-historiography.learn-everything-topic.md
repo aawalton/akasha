@@ -1,5 +1,6 @@
 ---
 id: 7b977468-9f90-568d-957c-49bb292a1f8d
+slug: 01-historiography
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › History and The Humanities › Historiography
 D: 0

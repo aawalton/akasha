@@ -1,5 +1,6 @@
 ---
 id: 2ce31106-4f95-5e4f-bfda-83a6f2c7d76f
+slug: 0005-chapter-264-a-request-start-of-book-4
 page-type-slug: story-chapter-royal-road
 title: "Chapter 264: A Request & START OF BOOK 4"
 partOf: rise-of-the-living-forge

@@ -1,5 +1,6 @@
 ---
 id: 15c69fcf-ea47-5153-ae64-6d160b4dc538
+slug: 01-engagement-loops-and-re-optimization
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Engagement Loops and Re-optimization
 D: 3

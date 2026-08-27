@@ -1,5 +1,6 @@
 ---
 id: a236ccfc-2278-5d1c-b1eb-44ad419e4224
+slug: 0008-chapter-8-deadline
 page-type-slug: story-chapter-royal-road
 title: "Chapter 8: Deadline"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

@@ -1,5 +1,6 @@
 ---
 id: 37c00d74-fd58-54c3-9cc0-fa3e3f53f635
+slug: 0051-183-wait-that-s-not-a
 page-type-slug: story-chapter-royal-road
 title: "183 - Wait, that's not a–!"
 partOf: bunny-girl-evolution

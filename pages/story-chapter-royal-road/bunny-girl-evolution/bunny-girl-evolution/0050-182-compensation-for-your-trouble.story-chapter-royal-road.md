@@ -1,5 +1,6 @@
 ---
 id: 929158c7-8e84-5748-914f-f79aff491bf5
+slug: 0050-182-compensation-for-your-trouble
 page-type-slug: story-chapter-royal-road
 title: "182 - Compensation For Your Trouble"
 partOf: bunny-girl-evolution

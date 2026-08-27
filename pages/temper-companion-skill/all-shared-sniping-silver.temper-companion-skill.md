@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f5-7d39-ad04-0ae17a3ce28d
+slug: all-shared-sniping-silver
 page-type-slug: temper-companion-skill
 title: "Sniping Silver"
 icon: "/esoui/art/icons/ability_companion_fightersguild_003.dds"

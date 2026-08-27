@@ -1,5 +1,6 @@
 ---
 id: 39d9465f-3572-5c24-a536-bf519b3a93bb
+slug: 01-technology-its-scope-and-history
 page-type-slug: learn-everything-topic
 node: Technology › Nature & Development of Technology › Technology: Its Scope and History
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c558-72bb-83be-19b7b5db6635
+slug: all-shared-provoke
 page-type-slug: temper-companion-skill
 title: "Provoke"
 icon: "/esoui/art/icons/ability_companion_1handed_002.dds"

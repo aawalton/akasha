@@ -1,5 +1,6 @@
 ---
 id: 6eebc2ad-6722-5ab1-99bf-e1f7c4b02c69
+slug: 0022-156-types-of-nature-magic
 page-type-slug: story-chapter-royal-road
 title: "156 - Types of Nature Magic"
 partOf: bunny-girl-evolution

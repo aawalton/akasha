@@ -1,5 +1,6 @@
 ---
 id: 51b223d2-354c-537c-a124-dceff07eb790
+slug: 02-optimization-and-decision
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics › Optimization and Decision
 D: 0

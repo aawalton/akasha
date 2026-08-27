@@ -1,5 +1,6 @@
 ---
 id: 3efa87ca-1a85-5013-b979-a383d038c6e3
+slug: 03-progression-and-economy
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Progression and Economy
 D: 2

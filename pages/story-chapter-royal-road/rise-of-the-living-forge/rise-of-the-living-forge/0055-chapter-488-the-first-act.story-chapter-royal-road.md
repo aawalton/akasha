@@ -1,5 +1,6 @@
 ---
 id: 60e9f434-bf51-5b87-96ba-6da5f1b37565
+slug: 0055-chapter-488-the-first-act
 page-type-slug: story-chapter-royal-road
 title: "Chapter 488: The First Act"
 partOf: rise-of-the-living-forge

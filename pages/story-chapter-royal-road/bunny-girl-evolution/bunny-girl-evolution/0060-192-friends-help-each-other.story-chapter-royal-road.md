@@ -1,5 +1,6 @@
 ---
 id: 7c8f0625-6d48-50be-a72c-fb9c90955e29
+slug: 0060-192-friends-help-each-other
 page-type-slug: story-chapter-royal-road
 title: "192 - Friends Help Each Other"
 partOf: bunny-girl-evolution

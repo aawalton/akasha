@@ -1,5 +1,6 @@
 ---
 id: 3e9548aa-603d-504f-9432-817d829736ee
+slug: 05-math-in-physical-theories
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics › Math in Physical Theories
 D: 0

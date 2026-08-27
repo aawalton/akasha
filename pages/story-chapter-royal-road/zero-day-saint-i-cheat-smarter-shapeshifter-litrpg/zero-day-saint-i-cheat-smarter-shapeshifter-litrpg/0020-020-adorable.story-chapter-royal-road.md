@@ -1,5 +1,6 @@
 ---
 id: 1601bf1e-784b-5767-95b5-70c5e94f870f
+slug: 0020-020-adorable
 page-type-slug: story-chapter-royal-road
 title: "020 - Adorable"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

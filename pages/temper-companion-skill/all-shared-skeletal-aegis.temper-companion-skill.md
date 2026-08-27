@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f5-71bd-a87c-0282a2c22291
+slug: all-shared-skeletal-aegis
 page-type-slug: temper-companion-skill
 title: "Skeletal Aegis"
 icon: "/esoui/art/icons/ability_companion_undaunted_005.dds"

@@ -1,5 +1,6 @@
 ---
 id: 7a9878b2-0413-5606-be6d-1ff46cb99b90
+slug: 0028-028-also-explosives
 page-type-slug: story-chapter-royal-road
 title: "028 - Also Explosives"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

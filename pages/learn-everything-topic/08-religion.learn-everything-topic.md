@@ -1,5 +1,6 @@
 ---
 id: f178b5b8-f54a-5943-8f64-1b5245298f9b
+slug: 08-religion
 page-type-slug: learn-everything-topic
 node: Religion
 D: 0

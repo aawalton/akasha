@@ -1,5 +1,6 @@
 ---
 id: f04b7ae9-2c8b-58b2-89b2-b0d856ee15b3
+slug: 06-the-indian-subcontinent-1200-1761-ceylon-1200-1505
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › The Indian Subcontinent 1200–1761, Ceylon 1200–1505
 D: 0

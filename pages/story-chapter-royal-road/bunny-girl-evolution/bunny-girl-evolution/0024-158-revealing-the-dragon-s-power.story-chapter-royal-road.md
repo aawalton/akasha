@@ -1,5 +1,6 @@
 ---
 id: e625cc6a-517a-57ac-89a1-315847ed389a
+slug: 0024-158-revealing-the-dragon-s-power
 page-type-slug: story-chapter-royal-road
 title: "158 - Revealing the Dragon's Power"
 partOf: bunny-girl-evolution

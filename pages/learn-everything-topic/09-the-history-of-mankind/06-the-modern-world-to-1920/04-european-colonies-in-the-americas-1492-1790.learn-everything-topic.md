@@ -1,5 +1,6 @@
 ---
 id: ef5cdb98-3cf7-5d8c-8490-4503fbaa6f09
+slug: 04-european-colonies-in-the-americas-1492-1790
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › European Colonies in the Americas 1492–1790
 D: 0

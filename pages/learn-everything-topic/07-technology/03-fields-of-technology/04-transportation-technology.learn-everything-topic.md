@@ -1,5 +1,6 @@
 ---
 id: 8137973d-8e78-55fd-8990-55783e1a76a4
+slug: 04-transportation-technology
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Transportation Technology
 D: 0

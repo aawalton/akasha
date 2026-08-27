@@ -1,5 +1,6 @@
 ---
 id: f109d9bc-709a-52d2-ad53-36266c538270
+slug: 0007-dragoncon-announcement
 page-type-slug: story-chapter-royal-road
 title: "Dragoncon Announcement!"
 partOf: rise-of-the-living-forge

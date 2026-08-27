@@ -1,5 +1,6 @@
 ---
 id: 9b5d3ec3-85fc-5bfe-aa86-776890eb5e18
+slug: 05-technology-of-industrial-production-processes
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Technology of Industrial Production Processes
 D: 0

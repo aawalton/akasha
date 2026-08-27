@@ -1,5 +1,6 @@
 ---
 id: 7259c7c1-89b2-54e8-a6c2-913634cf6d4a
+slug: 04-japan-to-the-meiji-restoration-1868-korea-to-1910
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › Japan to the Meiji Restoration 1868, Korea to 1910
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 17db8690-1e8e-5465-b682-c3cee9386c83
+slug: 0006-chapter-6-the-one-who-devoured-half-of-the-heavens
 page-type-slug: story-chapter-royal-road
 title: "Chapter 6: The One Who Devoured Half of the Heavens"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

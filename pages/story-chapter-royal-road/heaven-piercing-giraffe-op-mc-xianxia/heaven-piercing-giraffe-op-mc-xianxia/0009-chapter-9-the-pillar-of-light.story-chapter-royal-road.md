@@ -1,5 +1,6 @@
 ---
 id: 76569351-d4e0-5d03-b0f9-0f1173f4d028
+slug: 0009-chapter-9-the-pillar-of-light
 page-type-slug: story-chapter-royal-road
 title: "Chapter 9: The Pillar of Light"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

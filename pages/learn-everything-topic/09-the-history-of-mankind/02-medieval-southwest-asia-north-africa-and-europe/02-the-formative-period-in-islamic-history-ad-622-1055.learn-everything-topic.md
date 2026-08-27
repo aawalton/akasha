@@ -1,5 +1,6 @@
 ---
 id: bb07500b-4bf0-55f3-9096-27fe265264ef
+slug: 02-the-formative-period-in-islamic-history-ad-622-1055
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › The Formative Period in Islamic History, AD 622–1055
 D: 0

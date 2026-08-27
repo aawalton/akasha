@@ -1,5 +1,6 @@
 ---
 id: acbf178c-62e4-5254-ab9b-d9c7b2453aa2
+slug: 01-history-of-mathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › History of Mathematics
 D: 0

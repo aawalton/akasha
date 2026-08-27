@@ -1,5 +1,6 @@
 ---
 id: b47cea18-48f9-5db8-8506-190b07a9ac9c
+slug: 0026-026-black-death
 page-type-slug: story-chapter-royal-road
 title: "026 - Black Death"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

@@ -1,5 +1,6 @@
 ---
 id: bad73f8e-ce39-5e01-a702-7523a9c02f7c
+slug: 04-sub-saharan-africa-to-1885
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Sub-Saharan Africa to 1885
 D: 0

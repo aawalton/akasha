@@ -1,5 +1,6 @@
 ---
 id: 9c277753-ecbe-55cb-9d54-43ab0eddad99
+slug: 06-judaism
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Judaism
 D: 0

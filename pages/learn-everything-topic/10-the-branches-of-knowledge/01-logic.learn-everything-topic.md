@@ -1,5 +1,6 @@
 ---
 id: f97d847e-e29d-5054-a08e-8f118748d0de
+slug: 01-logic
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Logic
 D: 0

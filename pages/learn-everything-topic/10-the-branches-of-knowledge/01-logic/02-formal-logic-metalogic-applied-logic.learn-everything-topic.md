@@ -1,5 +1,6 @@
 ---
 id: f7ae14a3-8a77-589b-b677-5b4fd125f1f0
+slug: 02-formal-logic-metalogic-applied-logic
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Logic › Formal Logic, Metalogic, & Applied Logic
 D: 0

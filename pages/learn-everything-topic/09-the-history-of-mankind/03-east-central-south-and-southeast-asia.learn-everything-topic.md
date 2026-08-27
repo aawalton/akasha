@@ -1,5 +1,6 @@
 ---
 id: d34046ce-fcb7-5290-b8ff-40bec5f1c43d
+slug: 03-east-central-south-and-southeast-asia
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia
 D: 0

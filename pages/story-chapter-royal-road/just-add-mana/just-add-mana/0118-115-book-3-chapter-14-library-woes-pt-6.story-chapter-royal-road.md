@@ -1,5 +1,6 @@
 ---
 id: a30ca2bf-d403-583c-be93-f0cfb307b013
+slug: 0118-115-book-3-chapter-14-library-woes-pt-6
 page-type-slug: story-chapter-royal-road
 title: "115 — Book 3, Chapter 14— Library Woes, Pt 6"
 partOf: just-add-mana

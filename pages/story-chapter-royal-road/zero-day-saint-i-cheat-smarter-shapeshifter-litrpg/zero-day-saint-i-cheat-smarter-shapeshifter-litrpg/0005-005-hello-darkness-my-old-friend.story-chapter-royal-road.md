@@ -1,5 +1,6 @@
 ---
 id: e1b6204b-db00-53d7-8ca3-9af270c3b220
+slug: 0005-005-hello-darkness-my-old-friend
 page-type-slug: story-chapter-royal-road
 title: "005 - Hello Darkness, My Old Friend"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

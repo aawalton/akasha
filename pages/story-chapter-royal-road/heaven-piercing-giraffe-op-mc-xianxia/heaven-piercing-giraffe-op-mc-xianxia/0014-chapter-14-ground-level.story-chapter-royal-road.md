@@ -1,5 +1,6 @@
 ---
 id: 450343ee-a7f0-5b28-8940-3099b1978433
+slug: 0014-chapter-14-ground-level
 page-type-slug: story-chapter-royal-road
 title: "Chapter 14: Ground Level"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

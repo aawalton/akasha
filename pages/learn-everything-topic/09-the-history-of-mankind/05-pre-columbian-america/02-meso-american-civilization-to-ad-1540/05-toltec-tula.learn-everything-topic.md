@@ -1,5 +1,6 @@
 ---
 id: e59121b1-a169-5253-8778-574b2dc3a4fa
+slug: 05-toltec-tula
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Toltec (Tula)
 D: 0

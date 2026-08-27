@@ -1,5 +1,6 @@
 ---
 id: b6d999d7-3213-5208-902d-7e37c1693f38
+slug: 05-liturgical-calendar-and-observance
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices › Liturgical Calendar and Observance
 D: 4

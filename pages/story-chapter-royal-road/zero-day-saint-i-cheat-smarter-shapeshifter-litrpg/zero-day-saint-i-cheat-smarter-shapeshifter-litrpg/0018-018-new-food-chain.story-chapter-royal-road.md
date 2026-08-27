@@ -1,5 +1,6 @@
 ---
 id: 20da77ff-61d5-557b-9ba8-9537e1e43055
+slug: 0018-018-new-food-chain
 page-type-slug: story-chapter-royal-road
 title: "018 - New Food Chain"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

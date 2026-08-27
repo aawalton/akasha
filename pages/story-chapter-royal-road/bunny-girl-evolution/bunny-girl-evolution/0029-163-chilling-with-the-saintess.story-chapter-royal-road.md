@@ -1,5 +1,6 @@
 ---
 id: a8cd063e-d0c4-5ee4-a120-1de3f9ea87a8
+slug: 0029-163-chilling-with-the-saintess
 page-type-slug: story-chapter-royal-road
 title: "163 - Chilling with the Saintess"
 partOf: bunny-girl-evolution

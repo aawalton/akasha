@@ -1,5 +1,6 @@
 ---
 id: 019e6484-383f-7f7c-a463-d5d57c121b6a
+slug: azandar-azandar-tendrils-of-the-colorless-sea
 page-type-slug: temper-companion-skill
 title: "Tendrils of the Colorless Sea"
 icon: "/esoui/art/icons/ability_companion_arcanist_abyssalimpact.dds"

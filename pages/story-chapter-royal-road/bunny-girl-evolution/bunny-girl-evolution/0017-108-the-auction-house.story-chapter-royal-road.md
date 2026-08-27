@@ -1,5 +1,6 @@
 ---
 id: b3e420ac-7129-5f9a-a0fd-2b118b8401d6
+slug: 0017-108-the-auction-house
 page-type-slug: story-chapter-royal-road
 title: "108 - The Auction House"
 partOf: bunny-girl-evolution

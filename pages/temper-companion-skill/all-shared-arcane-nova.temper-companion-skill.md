@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c551-7b24-b060-e470d31135a9
+slug: all-shared-arcane-nova
 page-type-slug: temper-companion-skill
 title: "Arcane Nova"
 icon: "/esoui/art/icons/ability_companion_destructionstaff_008.dds"

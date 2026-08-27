@@ -1,5 +1,6 @@
 ---
 id: 05e7df03-3057-5c78-8d45-c138e5bddc2e
+slug: 02-monasticism-and-asceticism
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices › Monasticism and Asceticism
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: cb410d92-8b19-5a10-8c42-8b4f9fdac293
+slug: 02-olmec-preclassic-mother-culture
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Olmec: Preclassic Mother Culture
 D: 0

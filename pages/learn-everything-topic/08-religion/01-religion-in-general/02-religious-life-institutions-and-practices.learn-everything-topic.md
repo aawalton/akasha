@@ -1,5 +1,6 @@
 ---
 id: a933a928-cfc5-57f7-86cc-cf66517795c3
+slug: 02-religious-life-institutions-and-practices
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices
 D: 4

@@ -1,5 +1,6 @@
 ---
 id: 5c26f09f-a95e-55b0-a78c-50f80d65b742
+slug: 0031-165-a-bronze-dungeon-pass
 page-type-slug: story-chapter-royal-road
 title: "165 - A Bronze Dungeon Pass"
 partOf: bunny-girl-evolution

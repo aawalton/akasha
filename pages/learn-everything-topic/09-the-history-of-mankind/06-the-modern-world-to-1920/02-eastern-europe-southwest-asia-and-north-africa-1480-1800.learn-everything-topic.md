@@ -1,5 +1,6 @@
 ---
 id: c737f847-9b79-528e-a08e-5da8247f7865
+slug: 02-eastern-europe-southwest-asia-and-north-africa-1480-1800
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › Eastern Europe, Southwest Asia, and North Africa 1480–1800
 D: 0

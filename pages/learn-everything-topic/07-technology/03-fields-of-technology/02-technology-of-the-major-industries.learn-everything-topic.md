@@ -1,5 +1,6 @@
 ---
 id: 69be7a8a-9499-503c-8171-4e8cd5475f30
+slug: 02-technology-of-the-major-industries
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Technology of the Major Industries
 D: 0

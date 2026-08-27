@@ -1,5 +1,6 @@
 ---
 id: 34703ecb-7f20-59e7-a887-b0fcd00209d5
+slug: 0032-032-ruthless-kindness
 page-type-slug: story-chapter-royal-road
 title: "032 - Ruthless Kindness"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

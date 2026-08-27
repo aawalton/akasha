@@ -1,5 +1,6 @@
 ---
 id: 873da8f7-6b6d-5a0f-9d38-f98f285d0d16
+slug: 0027-027-concussive-maintenance
 page-type-slug: story-chapter-royal-road
 title: "027 - Concussive Maintenance"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

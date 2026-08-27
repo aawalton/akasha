@@ -1,5 +1,6 @@
 ---
 id: 15a96573-860c-5cf3-b47c-51ee4bf1caa3
+slug: 02-painting
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Painting
 D: 0

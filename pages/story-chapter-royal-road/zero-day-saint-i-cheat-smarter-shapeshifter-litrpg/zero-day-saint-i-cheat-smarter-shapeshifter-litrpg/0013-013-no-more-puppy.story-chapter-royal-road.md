@@ -1,5 +1,6 @@
 ---
 id: c79c1c3d-765b-57c8-a53e-c8146aa27305
+slug: 0013-013-no-more-puppy
 page-type-slug: story-chapter-royal-road
 title: "013 - No More Puppy"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

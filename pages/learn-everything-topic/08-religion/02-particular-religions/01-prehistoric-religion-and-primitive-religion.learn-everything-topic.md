@@ -1,5 +1,6 @@
 ---
 id: 4351be94-82fe-5597-81d3-7c7695f95bc3
+slug: 01-prehistoric-religion-and-primitive-religion
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Prehistoric Religion and Primitive Religion
 D: 0

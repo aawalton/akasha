@@ -1,5 +1,6 @@
 ---
 id: 4ff050ed-c0cd-520a-9506-5b44ad298d28
+slug: 02-divisions-of-philosophy
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Philosophy › Divisions of Philosophy
 D: 4

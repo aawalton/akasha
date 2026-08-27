@@ -1,5 +1,6 @@
 ---
 id: 1831fc19-65e4-5b3e-9901-b74747164fdf
+slug: 0001-chapter-1-ascension-and-reincarnation
 page-type-slug: story-chapter-royal-road
 title: "Chapter 1: Ascension and Reincarnation"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

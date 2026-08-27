@@ -1,5 +1,6 @@
 ---
 id: 1f647705-72bf-59d0-bf95-048db11ae64b
+slug: 04-buddhism
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Buddhism
 D: 3

@@ -1,5 +1,6 @@
 ---
 id: e96f6db1-ea21-575d-ad10-3b3bcdddd8d7
+slug: 07-technology
 page-type-slug: learn-everything-topic
 node: Technology
 D: 0

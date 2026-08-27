@@ -1,5 +1,6 @@
 ---
 id: aa6e0802-1615-54ba-9ecc-5314bf9ef522
+slug: 03-east-africa-and-madagascar-to-1885
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Sub-Saharan Africa to 1885 › East Africa and Madagascar to 1885
 D: 0

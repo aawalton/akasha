@@ -1,5 +1,6 @@
 ---
 id: 06a95e27-7530-5f8d-9a22-122f4cdb9967
+slug: 0157-154-book-3-chapter-53-turnabout-pt-2
 page-type-slug: story-chapter-royal-road
 title: "154 — Book 3, Chapter 53 — Turnabout, Pt 2"
 partOf: just-add-mana

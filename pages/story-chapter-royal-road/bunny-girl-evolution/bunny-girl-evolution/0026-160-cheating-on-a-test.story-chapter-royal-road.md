@@ -1,5 +1,6 @@
 ---
 id: 34403890-4beb-5afb-bd93-fcb9b36a970f
+slug: 0026-160-cheating-on-a-test
 page-type-slug: story-chapter-royal-road
 title: "160 - Cheating on a Test"
 partOf: bunny-girl-evolution

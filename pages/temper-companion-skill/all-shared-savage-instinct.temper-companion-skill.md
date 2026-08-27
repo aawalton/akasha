@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f4-75d4-87ab-23740d103bb9
+slug: all-shared-savage-instinct
 page-type-slug: temper-companion-skill
 title: "Savage Instinct"
 icon: "/esoui/art/icons/ability_companion_undaunted_002.dds"

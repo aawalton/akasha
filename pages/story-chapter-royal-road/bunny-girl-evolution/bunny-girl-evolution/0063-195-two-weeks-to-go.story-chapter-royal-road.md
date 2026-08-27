@@ -1,5 +1,6 @@
 ---
 id: caf8195d-db36-58c3-95fa-2f725c2754f4
+slug: 0063-195-two-weeks-to-go
 page-type-slug: story-chapter-royal-road
 title: "195 - Two Weeks to Go"
 partOf: bunny-girl-evolution

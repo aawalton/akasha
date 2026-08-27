@@ -1,5 +1,6 @@
 ---
 id: 9ba45211-d2a5-5091-8f5f-342e4a1d132f
+slug: 06-assyria-and-the-neo-babylonian-empire
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Assyria and the Neo-Babylonian Empire
 D: 0

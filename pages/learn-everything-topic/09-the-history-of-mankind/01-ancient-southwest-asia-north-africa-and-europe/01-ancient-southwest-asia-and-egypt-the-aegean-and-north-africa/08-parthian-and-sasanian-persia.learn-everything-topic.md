@@ -1,5 +1,6 @@
 ---
 id: a5ee9bb2-d2d3-51b9-8e06-aaec609b8372
+slug: 08-parthian-and-sasanian-persia
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Parthian and Sasanian Persia
 D: 0

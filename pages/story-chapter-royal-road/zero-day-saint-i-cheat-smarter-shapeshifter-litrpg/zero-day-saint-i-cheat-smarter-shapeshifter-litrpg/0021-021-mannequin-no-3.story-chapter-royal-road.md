@@ -1,5 +1,6 @@
 ---
 id: edc8062e-6883-59d0-8c81-cc94d38cd75a
+slug: 0021-021-mannequin-no-3
 page-type-slug: story-chapter-royal-road
 title: "021 - Mannequin No. 3"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

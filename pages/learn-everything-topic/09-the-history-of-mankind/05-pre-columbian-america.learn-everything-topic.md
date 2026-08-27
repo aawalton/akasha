@@ -1,5 +1,6 @@
 ---
 id: 527d2a75-de8c-52a1-88ec-7bdd525cd6a7
+slug: 05-pre-columbian-america
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America
 D: 0

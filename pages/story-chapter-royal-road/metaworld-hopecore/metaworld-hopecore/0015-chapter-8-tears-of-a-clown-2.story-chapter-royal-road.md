@@ -1,5 +1,6 @@
 ---
 id: dc7e77b8-0571-581f-ac5b-564fe9a7d7e4
+slug: 0015-chapter-8-tears-of-a-clown-2
 page-type-slug: story-chapter-royal-road
 title: "CHAPTER 8 - Tears of a Clown (2) "
 partOf: metaworld-hopecore

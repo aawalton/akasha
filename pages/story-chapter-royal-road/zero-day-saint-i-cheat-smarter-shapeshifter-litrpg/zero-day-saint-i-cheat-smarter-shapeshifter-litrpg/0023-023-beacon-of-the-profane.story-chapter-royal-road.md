@@ -1,5 +1,6 @@
 ---
 id: 8b7675ce-4cd7-5249-8864-e8adf1a3f888
+slug: 0023-023-beacon-of-the-profane
 page-type-slug: story-chapter-royal-road
 title: "023 - Beacon of the Profane"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

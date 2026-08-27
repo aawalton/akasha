@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f2-7974-b9a7-518094a485da
+slug: all-shared-reverse-entropy
 page-type-slug: temper-companion-skill
 title: "Reverse Entropy"
 icon: "/esoui/art/icons/ability_companion_mageguild_004.dds"

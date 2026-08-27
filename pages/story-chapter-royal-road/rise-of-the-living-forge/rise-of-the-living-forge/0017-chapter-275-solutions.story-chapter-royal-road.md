@@ -1,5 +1,6 @@
 ---
 id: 69cbe5cb-b9e0-51dd-af83-2b6f68d711f4
+slug: 0017-chapter-275-solutions
 page-type-slug: story-chapter-royal-road
 title: "Chapter 275: Solutions"
 partOf: rise-of-the-living-forge

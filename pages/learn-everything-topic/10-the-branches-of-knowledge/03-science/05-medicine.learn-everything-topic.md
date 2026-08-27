@@ -1,5 +1,6 @@
 ---
 id: 77dc435a-4a13-5b5a-a5a3-2f9fd0fc5852
+slug: 05-medicine
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › Medicine
 D: 0

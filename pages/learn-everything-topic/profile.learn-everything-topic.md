@@ -1,5 +1,6 @@
 ---
 id: 7f7cc536-5510-5efb-99ce-31268b9e72d8
+slug: profile
 page-type-slug: learn-everything-topic
 node: Everything
 D: 0

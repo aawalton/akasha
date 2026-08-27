@@ -1,5 +1,6 @@
 ---
 id: 4ba53b16-04c9-507b-8591-cad3f6f4efb3
+slug: 0003-003-not-a-good-girl
 page-type-slug: story-chapter-royal-road
 title: "003 - Not a Good Girl"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

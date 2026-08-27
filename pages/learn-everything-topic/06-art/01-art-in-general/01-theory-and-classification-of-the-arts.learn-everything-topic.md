@@ -1,5 +1,6 @@
 ---
 id: d3cd2f3b-0937-5f1e-a00d-67659caefdbe
+slug: 01-theory-and-classification-of-the-arts
 page-type-slug: learn-everything-topic
 node: Art › Art in General › Theory and Classification of the Arts
 D: 4

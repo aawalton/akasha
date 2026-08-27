@@ -1,5 +1,6 @@
 ---
 id: bd82ac4c-308a-5154-9e4f-8959fbe52960
+slug: 0007-stub-announcement
 page-type-slug: story-chapter-royal-road
 title: "Stub Announcement"
 partOf: bunny-girl-evolution

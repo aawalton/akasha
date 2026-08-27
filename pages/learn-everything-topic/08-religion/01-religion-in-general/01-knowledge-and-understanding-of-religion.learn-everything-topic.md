@@ -1,5 +1,6 @@
 ---
 id: b4f66454-3bf1-5c3a-962a-916fee85f466
+slug: 01-knowledge-and-understanding-of-religion
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Knowledge and Understanding of Religion
 D: 0

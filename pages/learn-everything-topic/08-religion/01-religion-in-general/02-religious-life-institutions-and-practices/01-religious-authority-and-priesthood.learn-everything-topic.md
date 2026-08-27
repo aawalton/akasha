@@ -1,5 +1,6 @@
 ---
 id: 5505c21f-b403-56d6-99cf-d621cdd181b7
+slug: 01-religious-authority-and-priesthood
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices › Religious Authority and Priesthood
 D: 0

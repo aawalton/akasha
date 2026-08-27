@@ -1,5 +1,6 @@
 ---
 id: 52311f08-db85-5876-817d-af5bb43d4468
+slug: 0012-59-the-thieves
 page-type-slug: story-chapter-royal-road
 title: "59 - The Thieves"
 partOf: bunny-girl-evolution

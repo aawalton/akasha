@@ -1,5 +1,6 @@
 ---
 id: fc229ce9-891d-5887-9ff9-746643932fcd
+slug: 0013-chapter-271-ashleaf
 page-type-slug: story-chapter-royal-road
 title: "Chapter 271: Ashleaf"
 partOf: rise-of-the-living-forge

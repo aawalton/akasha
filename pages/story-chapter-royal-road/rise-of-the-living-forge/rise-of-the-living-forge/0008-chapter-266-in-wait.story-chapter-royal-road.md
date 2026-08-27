@@ -1,5 +1,6 @@
 ---
 id: 5a578c31-d185-573a-892d-fb1cfd544169
+slug: 0008-chapter-266-in-wait
 page-type-slug: story-chapter-royal-road
 title: "Chapter 266: In Wait"
 partOf: rise-of-the-living-forge

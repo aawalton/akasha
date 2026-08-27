@@ -1,5 +1,6 @@
 ---
 id: 487bdc09-6b87-54d6-b5e9-f8ffbf433c88
+slug: 01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa
 D: 3

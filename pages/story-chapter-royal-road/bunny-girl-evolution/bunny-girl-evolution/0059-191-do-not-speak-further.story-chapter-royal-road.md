@@ -1,5 +1,6 @@
 ---
 id: 390e6f73-bec4-50ad-a966-389c31f8db28
+slug: 0059-191-do-not-speak-further
 page-type-slug: story-chapter-royal-road
 title: "191 - Do Not Speak Further"
 partOf: bunny-girl-evolution

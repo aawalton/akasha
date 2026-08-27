@@ -1,5 +1,6 @@
 ---
 id: a9bdc76b-633e-58bb-9dbc-72600d4a4558
+slug: 01-west-africa-to-1885
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Sub-Saharan Africa to 1885 › West Africa to 1885
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 9666c3de-a5ec-5019-934c-9545fd88bdad
+slug: 10-game-design
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design
 D: 3

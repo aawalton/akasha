@@ -1,5 +1,6 @@
 ---
 id: 2e7646ac-c97f-5ef7-adbe-326df0bbe0d3
+slug: 0004-004-devil-may-care
 page-type-slug: story-chapter-royal-road
 title: "004 - Devil May Care"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

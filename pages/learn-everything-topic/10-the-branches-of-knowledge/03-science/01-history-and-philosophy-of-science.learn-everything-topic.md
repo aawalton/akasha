@@ -1,5 +1,6 @@
 ---
 id: 50915a35-3485-5974-9316-0d136bd1e239
+slug: 01-history-and-philosophy-of-science
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › History and Philosophy of Science
 D: 0

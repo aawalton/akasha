@@ -1,5 +1,6 @@
 ---
 id: b1013db8-b7ea-5e2f-a590-a9d3e98dbdbe
+slug: 0003-chapter-3-broken-in-a-different-way
 page-type-slug: story-chapter-royal-road
 title: "Chapter 3: Broken in a Different Way"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

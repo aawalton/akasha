@@ -1,5 +1,6 @@
 ---
 id: f23ba5f2-6022-58b3-8d76-9c616c2d0a31
+slug: 02-technology-of-tools-and-machines
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Technology of Tools and Machines
 D: 0

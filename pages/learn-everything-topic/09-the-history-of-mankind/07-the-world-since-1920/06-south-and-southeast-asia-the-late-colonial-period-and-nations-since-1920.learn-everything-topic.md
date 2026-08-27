@@ -1,5 +1,6 @@
 ---
 id: aaba8743-60d7-5f3b-8133-f9aab0fccb8b
+slug: 06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › South and Southeast Asia: the Late Colonial Period and Nations Since 1920
 D: 0

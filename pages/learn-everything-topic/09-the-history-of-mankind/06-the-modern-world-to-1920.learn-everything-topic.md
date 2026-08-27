@@ -1,5 +1,6 @@
 ---
 id: 5b3cee98-8d9a-51be-9578-28405feff868
+slug: 06-the-modern-world-to-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920
 D: 0

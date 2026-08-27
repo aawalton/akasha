@@ -1,5 +1,6 @@
 ---
 id: bde02c06-da27-5662-82b4-2305555b7c33
+slug: 02-branches-of-mathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Branches of Mathematics
 D: 0

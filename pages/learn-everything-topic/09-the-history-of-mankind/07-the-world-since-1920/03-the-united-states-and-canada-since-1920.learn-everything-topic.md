@@ -1,5 +1,6 @@
 ---
 id: 52faca1e-6416-5b12-a871-c5cf6ae09797
+slug: 03-the-united-states-and-canada-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › The United States and Canada Since 1920
 D: 0

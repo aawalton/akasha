@@ -1,5 +1,6 @@
 ---
 id: 41231255-2127-59b2-bf28-6f6189fefd7e
+slug: 05-balance-and-friction
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Balance and Friction
 D: 2

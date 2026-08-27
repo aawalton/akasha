@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c558-7ef5-9029-06c6a047be67
+slug: all-shared-mending-incantation
 page-type-slug: temper-companion-skill
 title: "Mending Incantation"
 icon: "/esoui/art/icons/ability_companion_restorationstaff_003.dds"

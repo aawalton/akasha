@@ -1,5 +1,6 @@
 ---
 id: ebb96539-9681-5249-b35a-f59a31f2c45a
+slug: 01-agriculture-and-food-production
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Agriculture and Food Production
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: fa588d7f-e548-5838-9cf8-ab6b373698ba
+slug: 0011-chapter-11-the-sword-of-judgement
 page-type-slug: story-chapter-royal-road
 title: "Chapter 11: The Sword of Judgement"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

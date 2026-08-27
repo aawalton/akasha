@@ -1,5 +1,6 @@
 ---
 id: 5308910c-2c98-527d-bc86-81418e97d31c
+slug: 06-the-social-sciences-psychology-linguistics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › The Social Sciences, Psychology, Linguistics
 D: 0

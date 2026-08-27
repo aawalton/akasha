@@ -1,5 +1,6 @@
 ---
 id: 8cab9130-a652-5ec4-b816-bc94e5c5fa97
+slug: 01-mesoamerican-culture-area-overview
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Mesoamerican Culture-Area Overview
 D: 0

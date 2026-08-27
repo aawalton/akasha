@@ -1,5 +1,6 @@
 ---
 id: cfd7d42c-dbe2-54e6-ace7-0fafcb12a5b8
+slug: 02-china-from-the-late-t-ang-to-the-late-ch-ing-ad-755-1839
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › China from the Late T'ang to the Late Ch'ing AD 755–1839
 D: 0

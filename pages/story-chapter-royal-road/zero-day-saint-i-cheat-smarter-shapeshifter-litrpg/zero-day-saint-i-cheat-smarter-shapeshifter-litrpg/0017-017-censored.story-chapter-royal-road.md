@@ -1,5 +1,6 @@
 ---
 id: 510c3e61-2ae3-51f5-978f-bb112a6ef757
+slug: 0017-017-censored
 page-type-slug: story-chapter-royal-road
 title: "017 - CENSORED"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

@@ -1,5 +1,6 @@
 ---
 id: 907dfc82-b829-5aaa-8481-21fe4795346e
+slug: 0024-024-nice-stroll
 page-type-slug: story-chapter-royal-road
 title: "024 - Nice Stroll"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

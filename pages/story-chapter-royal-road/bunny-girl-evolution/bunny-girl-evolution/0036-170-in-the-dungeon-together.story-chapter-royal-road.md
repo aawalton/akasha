@@ -1,5 +1,6 @@
 ---
 id: 12ff35f0-ce4e-5b5e-bb88-abd4a1b04c2f
+slug: 0036-170-in-the-dungeon-together
 page-type-slug: story-chapter-royal-road
 title: "170 - In the Dungeon Together"
 partOf: bunny-girl-evolution

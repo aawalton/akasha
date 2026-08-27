@@ -1,5 +1,6 @@
 ---
 id: 6f1be0ad-c286-51d5-8e5b-485c18cfa71a
+slug: 02-elements-of-technology
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology
 D: 0

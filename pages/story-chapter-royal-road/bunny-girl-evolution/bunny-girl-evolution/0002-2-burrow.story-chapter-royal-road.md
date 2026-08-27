@@ -1,5 +1,6 @@
 ---
 id: 6fa4affc-ee19-5b29-9b51-8e27eacd36bc
+slug: 0002-2-burrow
 page-type-slug: story-chapter-royal-road
 title: "2 - Burrow"
 partOf: bunny-girl-evolution

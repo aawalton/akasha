@@ -1,5 +1,6 @@
 ---
 id: 19c175da-33e9-5269-902d-79328ebeaf7a
+slug: 01-international-movements-diplomacy-and-war-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › International Movements, Diplomacy and War Since 1920
 D: 0

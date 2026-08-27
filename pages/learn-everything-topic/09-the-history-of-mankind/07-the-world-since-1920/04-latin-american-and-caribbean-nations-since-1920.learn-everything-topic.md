@@ -1,5 +1,6 @@
 ---
 id: d068cdf3-ecd9-5f43-b23b-c751517c6b1a
+slug: 04-latin-american-and-caribbean-nations-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › Latin American and Caribbean Nations Since 1920
 D: 0

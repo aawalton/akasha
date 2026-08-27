@@ -1,5 +1,6 @@
 ---
 id: acc3bbb1-a07c-5bd1-97a7-3316bc6474a4
+slug: 01-china-to-the-beginning-of-the-late-t-ang-ad-755
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › China to the Beginning of the Late T'ang AD 755
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: debcac57-b1dc-5bbc-ae3d-758a91f5514b
+slug: 0007-chapter-7-human-dad
 page-type-slug: story-chapter-royal-road
 title: "Chapter 7: Human Dad"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

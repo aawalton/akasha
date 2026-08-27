@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c54e-717c-857e-6243e6cc27f5
+slug: all-shared-piercing-arrow
 page-type-slug: temper-companion-skill
 title: "Piercing Arrow"
 icon: "/esoui/art/icons/ability_companion_bow_001.dds"

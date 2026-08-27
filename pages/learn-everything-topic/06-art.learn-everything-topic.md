@@ -1,5 +1,6 @@
 ---
 id: d8a5b681-ae84-5c50-aa68-3fc855953c09
+slug: 06-art
 page-type-slug: learn-everything-topic
 node: Art
 D: 0

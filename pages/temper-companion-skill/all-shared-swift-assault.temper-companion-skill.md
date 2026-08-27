@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c556-70fe-b06b-46a1ea3efd08
+slug: all-shared-swift-assault
 page-type-slug: temper-companion-skill
 title: "Swift Assault"
 icon: "/esoui/art/icons/ability_companion_dualwield_002.dds"

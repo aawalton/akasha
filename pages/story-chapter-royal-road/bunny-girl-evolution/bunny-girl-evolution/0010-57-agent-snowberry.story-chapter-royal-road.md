@@ -1,5 +1,6 @@
 ---
 id: f81542bf-057e-563a-87d9-83b511a01c1d
+slug: 0010-57-agent-snowberry
 page-type-slug: story-chapter-royal-road
 title: "57 - Agent Snowberry"
 partOf: bunny-girl-evolution

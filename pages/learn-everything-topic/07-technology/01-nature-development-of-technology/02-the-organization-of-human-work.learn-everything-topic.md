@@ -1,5 +1,6 @@
 ---
 id: ce17691f-4dd2-5a11-93ba-48a0d726c019
+slug: 02-the-organization-of-human-work
 page-type-slug: learn-everything-topic
 node: Technology › Nature & Development of Technology › The Organization of Human Work
 D: 0

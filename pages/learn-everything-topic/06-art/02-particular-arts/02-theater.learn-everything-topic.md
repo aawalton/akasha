@@ -1,5 +1,6 @@
 ---
 id: 79a81568-e0cb-547f-8ee8-b0295966a0ec
+slug: 02-theater
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Theater
 D: 0

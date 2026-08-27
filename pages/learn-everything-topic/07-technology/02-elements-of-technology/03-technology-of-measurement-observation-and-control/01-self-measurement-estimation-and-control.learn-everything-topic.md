@@ -1,5 +1,6 @@
 ---
 id: 3699eef6-8d33-5864-bd58-87eae352cef6
+slug: 01-self-measurement-estimation-and-control
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Technology of Measurement, Observation, and Control › Self-Measurement, Estimation, and Control
 D: 0

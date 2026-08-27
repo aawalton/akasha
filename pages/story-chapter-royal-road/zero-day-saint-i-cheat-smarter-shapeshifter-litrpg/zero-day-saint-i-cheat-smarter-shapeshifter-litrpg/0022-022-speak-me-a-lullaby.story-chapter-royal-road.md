@@ -1,5 +1,6 @@
 ---
 id: c061a95e-db6b-5ecf-aa23-fda30798e590
+slug: 0022-022-speak-me-a-lullaby
 page-type-slug: story-chapter-royal-road
 title: "022 - Speak Me A Lullaby"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

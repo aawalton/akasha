@@ -1,5 +1,6 @@
 ---
 id: 87cb800f-58bf-5d17-927f-d22707ffded7
+slug: 0025-159-multiple-public-indecency-charges
 page-type-slug: story-chapter-royal-road
 title: "159 - Multiple Public Indecency Charges"
 partOf: bunny-girl-evolution

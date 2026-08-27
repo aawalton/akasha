@@ -1,5 +1,6 @@
 ---
 id: 21ef89b0-de92-541e-b985-2833279dd474
+slug: 0012-chapter-12-against-a-war-veteran
 page-type-slug: story-chapter-royal-road
 title: "Chapter 12: Against a War Veteran"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

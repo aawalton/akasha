@@ -1,5 +1,6 @@
 ---
 id: 019e6484-382e-745b-b03a-6268beb1740c
+slug: all-shared-haste
 page-type-slug: temper-companion-skill
 title: "Haste"
 icon: "/esoui/art/icons/ability_companion_armor_light.dds"

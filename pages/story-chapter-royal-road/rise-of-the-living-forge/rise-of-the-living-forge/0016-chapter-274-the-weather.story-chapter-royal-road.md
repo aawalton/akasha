@@ -1,5 +1,6 @@
 ---
 id: 2a3e546b-f299-5c88-b20a-0ab969e6db74
+slug: 0016-chapter-274-the-weather
 page-type-slug: story-chapter-royal-road
 title: "Chapter 274: The Weather"
 partOf: rise-of-the-living-forge

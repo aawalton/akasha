@@ -1,5 +1,6 @@
 ---
 id: af809110-dd01-50cb-83db-bf7d14e20469
+slug: 0040-173-5-the-origin-of-corunia
 page-type-slug: story-chapter-royal-road
 title: "173.5 - The Origin of Corunia"
 partOf: bunny-girl-evolution

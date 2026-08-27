@@ -1,5 +1,6 @@
 ---
 id: bece2db7-f058-5abd-8837-74404d35f077
+slug: 0022-chapter-454-trade-offer-start-of-book-6
 page-type-slug: story-chapter-royal-road
 title: "Chapter 454: Trade Offer & START OF BOOK 6"
 partOf: rise-of-the-living-forge

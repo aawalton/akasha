@@ -1,5 +1,6 @@
 ---
 id: bd8d63e3-ea2f-5b3c-bbe6-17cac85faddd
+slug: 0006-chapter-265-specifics
 page-type-slug: story-chapter-royal-road
 title: "Chapter 265: Specifics"
 partOf: rise-of-the-living-forge

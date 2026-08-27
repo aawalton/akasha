@@ -1,5 +1,6 @@
 ---
 id: 33f56235-f9e3-590d-a4e1-abb6f15764c0
+slug: 02-mesopotamia-sumer-akkad-and-babylonia
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Mesopotamia: Sumer, Akkad, and Babylonia
 D: 0

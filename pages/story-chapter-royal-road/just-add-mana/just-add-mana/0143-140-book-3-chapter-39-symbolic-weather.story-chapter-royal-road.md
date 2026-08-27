@@ -1,5 +1,6 @@
 ---
 id: 384ba0a1-fc67-51d3-bfde-e37b63398f51
+slug: 0143-140-book-3-chapter-39-symbolic-weather
 page-type-slug: story-chapter-royal-road
 title: "140 — Book 3, Chapter 39 —Symbolic Weather"
 partOf: just-add-mana

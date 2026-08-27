@@ -1,5 +1,6 @@
 ---
 id: be2a3dd3-d66a-5be9-b912-71701445a096
+slug: 0021-chapter-453-zoom
 page-type-slug: story-chapter-royal-road
 title: "Chapter 453: Zoom"
 partOf: rise-of-the-living-forge

@@ -1,5 +1,6 @@
 ---
 id: 4d4ba5ee-34e7-5dfb-89da-a3d63328f478
+slug: 03-classic-maya
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Classic Maya
 D: 0

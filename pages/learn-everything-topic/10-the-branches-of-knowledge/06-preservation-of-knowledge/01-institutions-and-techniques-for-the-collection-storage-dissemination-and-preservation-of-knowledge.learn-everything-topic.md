@@ -1,5 +1,6 @@
 ---
 id: 01974dc3-3c68-5eac-9434-a4c686e9f816
+slug: 01-institutions-and-techniques-for-the-collection-storage-dissemination-and-preservation-of-knowledge
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Preservation of Knowledge › Institutions and Techniques for the Collection, Storage, Dissemination and Preservation of Knowledge
 D: 0

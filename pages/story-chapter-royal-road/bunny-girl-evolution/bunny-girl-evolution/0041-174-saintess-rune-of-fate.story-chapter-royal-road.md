@@ -1,5 +1,6 @@
 ---
 id: 08e17cd0-b01a-5561-aad6-c8ef1094fa19
+slug: 0041-174-saintess-rune-of-fate
 page-type-slug: story-chapter-royal-road
 title: "174 - Saintess' {Rune of Fate}"
 partOf: bunny-girl-evolution

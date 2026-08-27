@@ -1,5 +1,6 @@
 ---
 id: 6524e929-8150-5707-ab87-f61e28717d17
+slug: 0004-chapter-4-mock-battle
 page-type-slug: story-chapter-royal-road
 title: "Chapter 4: Mock Battle"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

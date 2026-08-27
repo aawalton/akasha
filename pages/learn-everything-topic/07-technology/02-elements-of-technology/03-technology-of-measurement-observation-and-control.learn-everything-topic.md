@@ -1,5 +1,6 @@
 ---
 id: 064259d9-a8d3-5b14-b55d-a67aad23b1fa
+slug: 03-technology-of-measurement-observation-and-control
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Technology of Measurement, Observation, and Control
 D: 4

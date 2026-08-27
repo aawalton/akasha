@@ -1,5 +1,6 @@
 ---
 id: c6b9d631-65db-54d9-b579-b635ce954b64
+slug: 03-information-theory
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics › Information Theory
 D: 3

@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c553-7e7c-819d-0fca148827c8
+slug: all-shared-elemental-barricade
 page-type-slug: temper-companion-skill
 title: "Elemental Barricade"
 icon: "/esoui/art/icons/ability_companion_destructionstaff_002.dds"

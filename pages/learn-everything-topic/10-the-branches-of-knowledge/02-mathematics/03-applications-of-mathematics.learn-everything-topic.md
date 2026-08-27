@@ -1,5 +1,6 @@
 ---
 id: f4d06a57-bbc3-5c54-a09e-98e099a68ea8
+slug: 03-applications-of-mathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics
 D: 3

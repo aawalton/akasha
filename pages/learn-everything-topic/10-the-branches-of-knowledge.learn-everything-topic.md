@@ -1,5 +1,6 @@
 ---
 id: 8d363380-d317-5246-a326-34559a222b5b
+slug: 10-the-branches-of-knowledge
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge
 D: 0

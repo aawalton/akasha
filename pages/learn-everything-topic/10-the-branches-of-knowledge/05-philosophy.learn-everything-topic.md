@@ -1,5 +1,6 @@
 ---
 id: e33baf21-c524-57a4-b357-82cae596dac3
+slug: 05-philosophy
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Philosophy
 D: 0

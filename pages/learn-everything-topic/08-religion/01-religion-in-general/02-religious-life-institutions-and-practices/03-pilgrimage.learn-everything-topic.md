@@ -1,5 +1,6 @@
 ---
 id: d4e1e561-6705-5c72-aa75-dc6a85e10b6c
+slug: 03-pilgrimage
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices › Pilgrimage
 D: 0

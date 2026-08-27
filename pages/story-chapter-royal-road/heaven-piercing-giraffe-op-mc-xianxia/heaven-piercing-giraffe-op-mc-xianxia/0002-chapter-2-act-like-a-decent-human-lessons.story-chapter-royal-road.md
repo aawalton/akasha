@@ -1,5 +1,6 @@
 ---
 id: 8348ed08-a7d0-5544-9a3c-c5178c9cb58b
+slug: 0002-chapter-2-act-like-a-decent-human-lessons
 page-type-slug: story-chapter-royal-road
 title: "Chapter 2: Act Like a Decent Human Lessons"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

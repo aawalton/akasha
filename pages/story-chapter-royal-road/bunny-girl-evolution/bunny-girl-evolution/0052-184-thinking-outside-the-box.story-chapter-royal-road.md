@@ -1,5 +1,6 @@
 ---
 id: 62e75cfb-6597-562c-b4c3-cd7c3ec29510
+slug: 0052-184-thinking-outside-the-box
 page-type-slug: story-chapter-royal-road
 title: "184 - Thinking Outside the Box"
 partOf: bunny-girl-evolution

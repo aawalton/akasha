@@ -1,5 +1,6 @@
 ---
 id: 74ab8a8f-be6a-55a9-8e8d-c318ffb8d985
+slug: 0001-001-it-won-t-be-the-end-of-the-world
 page-type-slug: story-chapter-royal-road
 title: "001 - It Won't Be The End of the World"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

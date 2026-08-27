@@ -1,5 +1,6 @@
 ---
 id: e65b86e2-24cc-5c3e-8316-73f6f01660d1
+slug: 01-art-in-general
 page-type-slug: learn-everything-topic
 node: Art › Art in General
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 452b3662-d502-583a-8cb8-19ba1822e31f
+slug: 07-the-achaemenid-persian-empire
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Achaemenid Persian Empire
 D: 0

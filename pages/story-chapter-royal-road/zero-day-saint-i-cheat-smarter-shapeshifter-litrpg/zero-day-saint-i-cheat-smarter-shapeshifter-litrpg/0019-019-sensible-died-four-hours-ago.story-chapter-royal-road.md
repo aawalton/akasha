@@ -1,5 +1,6 @@
 ---
 id: dcf2ac80-3d92-53c1-a4a6-91ab40a294ce
+slug: 0019-019-sensible-died-four-hours-ago
 page-type-slug: story-chapter-royal-road
 title: "019 - Sensible Died Four Hours Ago"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

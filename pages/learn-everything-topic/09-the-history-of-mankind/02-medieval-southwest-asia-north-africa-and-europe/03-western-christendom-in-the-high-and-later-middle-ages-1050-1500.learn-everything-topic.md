@@ -1,5 +1,6 @@
 ---
 id: 1e63f607-a9d7-57c7-9e05-85bbf28ace6e
+slug: 03-western-christendom-in-the-high-and-later-middle-ages-1050-1500
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › Western Christendom in the High and Later Middle Ages 1050–1500
 D: 0

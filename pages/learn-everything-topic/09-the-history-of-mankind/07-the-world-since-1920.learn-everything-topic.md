@@ -1,5 +1,6 @@
 ---
 id: dd35bcf8-57cd-53e7-8dbe-4b1aac4e2aa5
+slug: 07-the-world-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920
 D: 0

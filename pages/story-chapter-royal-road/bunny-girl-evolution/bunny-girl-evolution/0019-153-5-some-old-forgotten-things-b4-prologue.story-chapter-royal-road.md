@@ -1,5 +1,6 @@
 ---
 id: 29da6dfc-2bb3-5f9c-b336-e6037f4ec06b
+slug: 0019-153-5-some-old-forgotten-things-b4-prologue
 page-type-slug: story-chapter-royal-road
 title: "153.5 - Some Old Forgotten Things (B4 prologue)"
 partOf: bunny-girl-evolution

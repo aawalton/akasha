@@ -1,5 +1,6 @@
 ---
 id: 4928d528-b6f1-5318-9db2-9f0ffdaae539
+slug: 0013-60-the-boss
 page-type-slug: story-chapter-royal-road
 title: "60 - The Boss"
 partOf: bunny-girl-evolution

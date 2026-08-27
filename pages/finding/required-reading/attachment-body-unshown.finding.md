@@ -1,4 +1,5 @@
 ---
+slug: attachment-body-unshown
 page-type-slug: finding
 title: "A declaration attachment's read is recorded without its body reaching the agent, and the write gate accepts that record"
 domain-slug: required-reading

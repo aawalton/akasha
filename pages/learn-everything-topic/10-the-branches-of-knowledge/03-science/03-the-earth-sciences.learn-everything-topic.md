@@ -1,5 +1,6 @@
 ---
 id: be2f87fa-d675-51af-8377-420ddcaddcd3
+slug: 03-the-earth-sciences
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › The Earth Sciences
 D: 0

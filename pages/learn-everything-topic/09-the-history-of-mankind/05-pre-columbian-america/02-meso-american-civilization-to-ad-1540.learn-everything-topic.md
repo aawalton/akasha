@@ -1,5 +1,6 @@
 ---
 id: ec79979b-fa83-5399-9bcc-c5f571862756
+slug: 02-meso-american-civilization-to-ad-1540
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540
 D: 0

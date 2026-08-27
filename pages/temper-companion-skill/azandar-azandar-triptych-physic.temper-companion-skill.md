@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3842-79f2-9ad8-f809263c772e
+slug: azandar-azandar-triptych-physic
 page-type-slug: temper-companion-skill
 title: "Triptych Physic"
 icon: "/esoui/art/icons/ability_companion_arcanist_runemend.dds"

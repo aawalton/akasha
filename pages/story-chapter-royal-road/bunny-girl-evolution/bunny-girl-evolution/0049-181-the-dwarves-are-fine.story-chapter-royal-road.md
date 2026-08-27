@@ -1,5 +1,6 @@
 ---
 id: ccf94677-492b-5d9a-9849-f0258d3c661e
+slug: 0049-181-the-dwarves-are-fine
 page-type-slug: story-chapter-royal-road
 title: "181 - The Dwarves Are Fine"
 partOf: bunny-girl-evolution

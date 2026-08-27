@@ -1,5 +1,6 @@
 ---
 id: 5b6ea28c-ec94-535f-8eca-1b635a397292
+slug: 0015-106-lying-vs-acting
 page-type-slug: story-chapter-royal-road
 title: "106 - Lying vs Acting"
 partOf: bunny-girl-evolution

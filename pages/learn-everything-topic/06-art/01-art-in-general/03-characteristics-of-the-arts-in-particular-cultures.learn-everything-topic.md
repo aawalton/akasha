@@ -1,5 +1,6 @@
 ---
 id: bd4e36c7-63a7-53c8-98b6-4f15ebec6321
+slug: 03-characteristics-of-the-arts-in-particular-cultures
 page-type-slug: learn-everything-topic
 node: Art › Art in General › Characteristics of the Arts in Particular Cultures
 D: 0

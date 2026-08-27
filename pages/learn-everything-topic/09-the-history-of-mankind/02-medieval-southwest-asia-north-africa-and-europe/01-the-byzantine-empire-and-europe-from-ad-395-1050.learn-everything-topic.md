@@ -1,5 +1,6 @@
 ---
 id: 8d113a76-03ef-5c6f-80bc-c2e906b8a55b
+slug: 01-the-byzantine-empire-and-europe-from-ad-395-1050
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › The Byzantine Empire and Europe from AD 395–1050
 D: 0

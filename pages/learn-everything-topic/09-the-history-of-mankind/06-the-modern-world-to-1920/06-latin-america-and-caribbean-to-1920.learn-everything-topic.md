@@ -1,5 +1,6 @@
 ---
 id: 2c8e1263-3bb2-5ab0-8964-6135f0884f68
+slug: 06-latin-america-and-caribbean-to-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › Latin-America and Caribbean to 1920
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: dc6a72d4-deac-5ecd-b510-f8c7e1416167
+slug: 0088-chapter-1216-the-bane-of-true-dragons
 page-type-slug: story-chapter-royal-road
 title: "Chapter 1216 - The Bane of True Dragons"
 partOf: the-primal-hunter

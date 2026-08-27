@@ -1,5 +1,6 @@
 ---
 id: 968d2844-7ab7-586c-85da-8e5d10c2f9a6
+slug: 03-philosophical-schools-and-doctrines
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Philosophy › Philosophical Schools and Doctrines
 D: 0

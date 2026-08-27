@@ -1,5 +1,6 @@
 ---
 id: 35f02e42-cd05-591f-b19b-2c8a725ac29a
+slug: 03-ancient-egypt-to-the-persian-conquest
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Ancient Egypt to the Persian Conquest
 D: 0

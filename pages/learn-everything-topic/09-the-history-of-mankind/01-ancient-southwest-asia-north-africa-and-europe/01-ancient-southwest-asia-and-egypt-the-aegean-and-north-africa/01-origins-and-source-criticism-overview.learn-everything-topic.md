@@ -1,5 +1,6 @@
 ---
 id: ea517ed2-f527-57a1-9de5-9cd7cd941604
+slug: 01-origins-and-source-criticism-overview
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Origins and Source-Criticism Overview
 D: 0

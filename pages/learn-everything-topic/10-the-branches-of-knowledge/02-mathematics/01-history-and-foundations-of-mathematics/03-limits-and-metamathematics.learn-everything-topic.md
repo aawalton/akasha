@@ -1,5 +1,6 @@
 ---
 id: 7a24f8d8-06bd-5e8a-94fc-53b7528d875b
+slug: 03-limits-and-metamathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Limits and Metamathematics
 D: 0

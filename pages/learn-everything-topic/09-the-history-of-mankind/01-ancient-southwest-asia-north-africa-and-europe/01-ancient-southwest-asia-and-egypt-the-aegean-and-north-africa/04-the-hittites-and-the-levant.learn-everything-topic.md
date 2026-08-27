@@ -1,5 +1,6 @@
 ---
 id: 6951aaf4-c1a8-5eb8-9a67-c25ff3d24471
+slug: 04-the-hittites-and-the-levant
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Hittites and the Levant
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 5ec83831-a1f2-5e5b-8b4a-0de4b5b1ea3f
+slug: 01-nature-development-of-technology
 page-type-slug: learn-everything-topic
 node: Technology › Nature & Development of Technology
 D: 0

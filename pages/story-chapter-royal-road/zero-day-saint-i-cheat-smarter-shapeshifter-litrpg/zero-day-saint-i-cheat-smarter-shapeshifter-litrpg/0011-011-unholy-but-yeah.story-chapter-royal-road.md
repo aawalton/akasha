@@ -1,5 +1,6 @@
 ---
 id: 5e0a1d34-a71b-5afc-8294-a38b52af406e
+slug: 0011-011-unholy-but-yeah
 page-type-slug: story-chapter-royal-road
 title: "011 - Unholy, But Yeah"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

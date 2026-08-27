@@ -1,5 +1,6 @@
 ---
 id: b7e8ebff-e1d3-51f5-898a-ca4ab914858c
+slug: 0030-164-some-old-forgotten-things
 page-type-slug: story-chapter-royal-road
 title: "164 - Some Old Forgotten Things"
 partOf: bunny-girl-evolution

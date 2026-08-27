@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c552-7c9f-9836-7e129d2978d5
+slug: all-shared-destructive-blast
 page-type-slug: temper-companion-skill
 title: "Destructive Blast"
 icon: "/esoui/art/icons/ability_companion_destructionstaff_005.dds"

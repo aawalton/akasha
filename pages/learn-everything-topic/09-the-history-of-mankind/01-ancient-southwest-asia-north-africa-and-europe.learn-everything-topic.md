@@ -1,5 +1,6 @@
 ---
 id: 9aa4ff82-ff66-585c-9666-5f91d7a2a60c
+slug: 01-ancient-southwest-asia-north-africa-and-europe
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe
 D: 0

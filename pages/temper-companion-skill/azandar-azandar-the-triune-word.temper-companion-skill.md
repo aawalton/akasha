@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3841-7504-a5c3-3e506776506a
+slug: azandar-azandar-the-triune-word
 page-type-slug: temper-companion-skill
 title: "The Triune Word"
 icon: "/esoui/art/icons/ability_companion_arcanist_runeblades.dds"

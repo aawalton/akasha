@@ -1,5 +1,6 @@
 ---
 id: e2726dd4-b8bc-5a4e-8636-8653ecb4b678
+slug: 04-synergy-and-composition
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Synergy and Composition
 D: 2

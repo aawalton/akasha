@@ -1,5 +1,6 @@
 ---
 id: db47eaa4-d15c-56a5-b6c6-c4d1222d2d0f
+slug: 06-architecture-garden-and-landscape-design-and-urban-design
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Architecture, Garden and Landscape Design, and Urban Design
 D: 0

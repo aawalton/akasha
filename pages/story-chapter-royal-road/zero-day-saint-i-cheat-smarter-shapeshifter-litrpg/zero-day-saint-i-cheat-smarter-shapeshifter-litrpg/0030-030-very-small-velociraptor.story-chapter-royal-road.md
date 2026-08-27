@@ -1,5 +1,6 @@
 ---
 id: f589a9ce-7bde-59f5-86f9-74d9d482819a
+slug: 0030-030-very-small-velociraptor
 page-type-slug: story-chapter-royal-road
 title: "030 - Very Small Velociraptor"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

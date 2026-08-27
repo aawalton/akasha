@@ -1,5 +1,6 @@
 ---
 id: 19caacdb-36f8-50d6-8835-942683caff80
+slug: 0039-173-fey-king-and-queen
 page-type-slug: story-chapter-royal-road
 title: "173 - Fey King and Queen"
 partOf: bunny-girl-evolution

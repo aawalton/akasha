@@ -1,5 +1,6 @@
 ---
 id: 1bacb482-5fe5-5c93-a94d-f443e8f9fd62
+slug: 04-sacrifice-and-offering
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General › Religious Life: Institutions and Practices › Sacrifice and Offering
 D: 0

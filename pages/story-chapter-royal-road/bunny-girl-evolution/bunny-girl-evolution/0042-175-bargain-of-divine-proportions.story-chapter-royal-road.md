@@ -1,5 +1,6 @@
 ---
 id: 72c5a3c5-f1a5-58e3-8ade-682cf4b3488a
+slug: 0042-175-bargain-of-divine-proportions
 page-type-slug: story-chapter-royal-road
 title: "175 - Bargain of Divine Proportions"
 partOf: bunny-girl-evolution

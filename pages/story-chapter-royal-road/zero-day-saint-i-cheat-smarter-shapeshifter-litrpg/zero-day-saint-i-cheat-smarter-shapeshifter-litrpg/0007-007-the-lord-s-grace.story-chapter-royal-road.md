@@ -1,5 +1,6 @@
 ---
 id: 371b3913-5e53-5415-9113-79195cf1c5e8
+slug: 0007-007-the-lord-s-grace
 page-type-slug: story-chapter-royal-road
 title: "007 - The Lord's Grace"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

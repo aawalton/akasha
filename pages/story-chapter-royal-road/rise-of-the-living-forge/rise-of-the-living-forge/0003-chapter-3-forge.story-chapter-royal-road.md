@@ -1,5 +1,6 @@
 ---
 id: e9cfe857-0c81-51b2-be73-3d5a945f1e09
+slug: 0003-chapter-3-forge
 page-type-slug: story-chapter-royal-road
 title: "Chapter 3: Forge"
 partOf: rise-of-the-living-forge

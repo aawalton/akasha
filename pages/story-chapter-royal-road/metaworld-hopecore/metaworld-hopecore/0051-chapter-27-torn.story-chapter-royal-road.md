@@ -1,5 +1,6 @@
 ---
 id: bef4e217-e489-5a9b-9f26-3d2b483fdd94
+slug: 0051-chapter-27-torn
 page-type-slug: story-chapter-royal-road
 title: "Chapter 27 - Torn"
 partOf: metaworld-hopecore

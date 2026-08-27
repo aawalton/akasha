@@ -1,5 +1,6 @@
 ---
 id: be383301-2cf0-586f-8651-2359ed47a31c
+slug: 06-military-technology
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Military Technology
 D: 0

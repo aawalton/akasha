@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f0-77f2-9cee-f65e46f9b17f
+slug: all-shared-crimson-font
 page-type-slug: temper-companion-skill
 title: "Crimson Font"
 icon: "/esoui/art/icons/ability_companion_undaunted_001.dds"

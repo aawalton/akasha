@@ -1,5 +1,6 @@
 ---
 id: 66cf82b9-2b04-57df-9295-0b8f7bdd5df2
+slug: 0001-1-rabbit
 page-type-slug: story-chapter-royal-road
 title: "1 - Rabbit"
 partOf: bunny-girl-evolution

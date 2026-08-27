@@ -1,5 +1,6 @@
 ---
 id: 0b89c437-583d-56e2-b2aa-fdb34a0417b4
+slug: 0031-031-unworthy
 page-type-slug: story-chapter-royal-road
 title: "031 - Unworthy"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

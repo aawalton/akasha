@@ -1,5 +1,6 @@
 ---
 id: d5a073d6-28c0-5977-bd24-1d8f17fe114f
+slug: 0003-3-tunnel
 page-type-slug: story-chapter-royal-road
 title: "3 - Tunnel"
 partOf: bunny-girl-evolution

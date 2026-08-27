@@ -1,5 +1,6 @@
 ---
 id: 4db39929-b225-51a2-9932-ddade30ff60f
+slug: 0043-176-super-fun-trips-begin
 page-type-slug: story-chapter-royal-road
 title: "176 - Super Fun Trips Begin"
 partOf: bunny-girl-evolution

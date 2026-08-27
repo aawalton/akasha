@@ -1,5 +1,6 @@
 ---
 id: 380dd0f0-0492-5469-a93b-25f61d58d4b8
+slug: 02-dormant-mechanics-and-content-cadence
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Dormant Mechanics and Content Cadence
 D: 3

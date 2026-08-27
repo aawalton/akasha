@@ -1,5 +1,6 @@
 ---
 id: b04a83b6-652e-5e29-ae89-076770d69296
+slug: 04-the-biological-sciences
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › The Biological Sciences
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: e6d440c7-18fd-5ec9-8f6b-d30f6faaa11d
+slug: 02-the-humanities-and-humanistic-scholarship
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › History and The Humanities › The Humanities and Humanistic Scholarship
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: c2c563f1-544a-55fe-8a88-bcf56ef5cf75
+slug: 04-computer-science-and-computation
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics › Computer Science and Computation
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 99de51d4-34f7-5733-800d-c3a309bb020e
+slug: 04-teotihuacan
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Teotihuacan
 D: 3

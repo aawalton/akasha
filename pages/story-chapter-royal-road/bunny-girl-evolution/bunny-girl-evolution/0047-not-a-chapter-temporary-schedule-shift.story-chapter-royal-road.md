@@ -1,5 +1,6 @@
 ---
 id: cd096ac1-7dc4-5435-bfda-03935263c03b
+slug: 0047-not-a-chapter-temporary-schedule-shift
 page-type-slug: story-chapter-royal-road
 title: "NOT A CHAPTER - Temporary schedule shift"
 partOf: bunny-girl-evolution

@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c556-7c1b-9e3e-194cd0bcbbec
+slug: all-shared-bashing-bulwark
 page-type-slug: temper-companion-skill
 title: "Bashing Bulwark"
 icon: "/esoui/art/icons/ability_companion_1handed_003.dds"

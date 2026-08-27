@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c54f-7900-a1d1-ec06fa221392
+slug: all-shared-trick-shot
 page-type-slug: temper-companion-skill
 title: "Trick Shot"
 icon: "/esoui/art/icons/ability_companion_bow_005.dds"

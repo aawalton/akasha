@@ -1,5 +1,6 @@
 ---
 id: 9195f97d-1d2d-538b-be3c-c115facc7914
+slug: 07-australia-and-oceania-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › Australia and Oceania Since 1920
 D: 0

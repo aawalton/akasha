@@ -1,5 +1,6 @@
 ---
 id: 019e6484-383d-73dd-b1a3-602400be1e6d
+slug: azandar-azandar-shields-of-erudition
 page-type-slug: temper-companion-skill
 title: "Shields of Erudition"
 icon: "/esoui/art/icons/ability_companion_arcanist_tidalshield.dds"

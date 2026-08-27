@@ -1,5 +1,6 @@
 ---
 id: 8bd1dfcc-361e-5bda-a083-101f2ea5b2c3
+slug: 01-history-and-philosophy-of-logic
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Logic › History and Philosophy of Logic
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 56f9237f-1fec-5e1f-baf3-e374e38ee74d
+slug: 0019-announcement
 page-type-slug: story-chapter-royal-road
 title: "Announcement"
 partOf: reborn-as-a-demonic-tree

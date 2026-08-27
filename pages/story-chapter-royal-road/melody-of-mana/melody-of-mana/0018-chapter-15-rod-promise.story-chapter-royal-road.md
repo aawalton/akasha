@@ -1,5 +1,6 @@
 ---
 id: d374ebc8-26f7-57ea-b7c3-a5c0e80b6a91
+slug: 0018-chapter-15-rod-promise
 page-type-slug: story-chapter-royal-road
 title: "Chapter 15 Rod- Promise"
 partOf: melody-of-mana

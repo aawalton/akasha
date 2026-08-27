@@ -1,5 +1,6 @@
 ---
 id: 086d8137-fbad-5050-85f1-1d2157c8f15a
+slug: 02-religions-of-ancient-peoples
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Religions of Ancient Peoples
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: ba3e1d58-3439-549f-8eb5-400c04bff74e
+slug: 0012-chapter-270-tree
 page-type-slug: story-chapter-royal-road
 title: "Chapter 270: Tree"
 partOf: rise-of-the-living-forge

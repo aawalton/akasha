@@ -1,5 +1,6 @@
 ---
 id: 8a52a192-0d62-5931-85f3-95a9e659a8b4
+slug: 03-construction-technology
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Construction Technology
 D: 0

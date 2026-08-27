@@ -1,5 +1,6 @@
 ---
 id: 1b22c674-2dc3-5125-b287-2504ebd03d3d
+slug: 0032-166-cave-spider-kill-yourself
 page-type-slug: story-chapter-royal-road
 title: "166 - Cave Spider, Kill Yourself"
 partOf: bunny-girl-evolution

@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c55a-7617-a74d-90aee967042b
+slug: all-shared-rejuvenation
 page-type-slug: temper-companion-skill
 title: "Rejuvenation"
 icon: "/esoui/art/icons/ability_companion_restorationstaff_002.dds"

@@ -1,5 +1,6 @@
 ---
 id: c01bacd6-19f2-5f48-9fc1-7169ac554c9d
+slug: 0009-56-the-funeral
 page-type-slug: story-chapter-royal-road
 title: "56 - The Funeral"
 partOf: bunny-girl-evolution

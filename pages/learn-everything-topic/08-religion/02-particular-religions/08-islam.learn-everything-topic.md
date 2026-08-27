@@ -1,5 +1,6 @@
 ---
 id: ec54c3f8-8baa-5f95-be30-a291e8d2ecb0
+slug: 08-islam
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Islam
 D: 0

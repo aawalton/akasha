@@ -1,5 +1,6 @@
 ---
 id: 2175dfd6-6304-5006-831c-dab0fe6603dd
+slug: 07-australia-and-oceania-to-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › Australia and Oceania to 1920
 D: 0

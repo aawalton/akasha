@@ -1,5 +1,6 @@
 ---
 id: a458c834-6393-5291-91a0-5a164d06d60b
+slug: 05-united-states-and-canada-1763-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › United States and Canada 1763–1920
 D: 0

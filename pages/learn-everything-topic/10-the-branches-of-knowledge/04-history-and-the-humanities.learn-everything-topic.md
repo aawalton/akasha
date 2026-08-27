@@ -1,5 +1,6 @@
 ---
 id: 90367ae3-a56b-5f00-9041-4a0ba72b83fa
+slug: 04-history-and-the-humanities
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › History and The Humanities
 D: 0

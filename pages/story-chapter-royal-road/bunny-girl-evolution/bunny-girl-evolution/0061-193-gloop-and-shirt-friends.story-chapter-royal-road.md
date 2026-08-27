@@ -1,5 +1,6 @@
 ---
 id: 7fba7ee4-fc09-5f60-849f-6cbd64642a45
+slug: 0061-193-gloop-and-shirt-friends
 page-type-slug: story-chapter-royal-road
 title: "193 - Gloop and Shirt Friends"
 partOf: bunny-girl-evolution

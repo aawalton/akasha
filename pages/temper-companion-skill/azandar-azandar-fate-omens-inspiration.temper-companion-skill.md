@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3838-7b6f-a908-a3e696d8a623
+slug: azandar-azandar-fate-omens-inspiration
 page-type-slug: temper-companion-skill
 title: "Fate Omen's Inspiration"
 icon: "/esoui/art/icons/ability_companion_arcanist_tomebearersinspiration.dds"

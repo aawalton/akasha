@@ -1,5 +1,6 @@
 ---
 id: 97c7a263-f4d4-5fdc-a924-616bb739c553
+slug: 0014-chapter-272-the-rot
 page-type-slug: story-chapter-royal-road
 title: "Chapter 272: The Rot"
 partOf: rise-of-the-living-forge

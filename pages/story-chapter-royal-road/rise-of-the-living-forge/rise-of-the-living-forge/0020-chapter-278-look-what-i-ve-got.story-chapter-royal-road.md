@@ -1,5 +1,6 @@
 ---
 id: 7620eb69-84e2-5dd7-b4b4-28f6eb8426c2
+slug: 0020-chapter-278-look-what-i-ve-got
 page-type-slug: story-chapter-royal-road
 title: "Chapter 278: Look what I've got."
 partOf: rise-of-the-living-forge

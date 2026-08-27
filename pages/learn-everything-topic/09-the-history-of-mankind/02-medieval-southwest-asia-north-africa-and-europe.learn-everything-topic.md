@@ -1,5 +1,6 @@
 ---
 id: 24dc97e8-049f-54b5-8c64-303793ec3d74
+slug: 02-medieval-southwest-asia-north-africa-and-europe
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Medieval Southwest Asia, North Africa, and Europe
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: c55192f5-2170-5c2b-a2d1-b4bb7b4f728e
+slug: 02-europe-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › Europe Since 1920
 D: 0

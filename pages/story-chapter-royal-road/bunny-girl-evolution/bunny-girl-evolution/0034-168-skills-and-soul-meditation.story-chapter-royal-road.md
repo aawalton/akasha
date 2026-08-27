@@ -1,5 +1,6 @@
 ---
 id: d142e24e-aa55-5b14-80a4-a42f7218c2f9
+slug: 0034-168-skills-and-soul-meditation
 page-type-slug: story-chapter-royal-road
 title: "168 - Skills and Soul Meditation"
 partOf: bunny-girl-evolution

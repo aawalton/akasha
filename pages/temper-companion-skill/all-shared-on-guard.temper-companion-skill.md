@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c557-7728-ab3a-ab5815a71312
+slug: all-shared-on-guard
 page-type-slug: temper-companion-skill
 title: "On Guard"
 icon: "/esoui/art/icons/ability_companion_1handed_004.dds"

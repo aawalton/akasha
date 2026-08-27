@@ -1,5 +1,6 @@
 ---
 id: da706641-d26f-511d-aae7-e794b2ac6da8
+slug: 02-particular-arts
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts
 D: 0

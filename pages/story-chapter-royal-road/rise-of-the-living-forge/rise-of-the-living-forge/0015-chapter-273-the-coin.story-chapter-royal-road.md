@@ -1,5 +1,6 @@
 ---
 id: 6a688031-c686-5d29-9667-08df8fecef60
+slug: 0015-chapter-273-the-coin
 page-type-slug: story-chapter-royal-road
 title: "Chapter 273: The Coin"
 partOf: rise-of-the-living-forge

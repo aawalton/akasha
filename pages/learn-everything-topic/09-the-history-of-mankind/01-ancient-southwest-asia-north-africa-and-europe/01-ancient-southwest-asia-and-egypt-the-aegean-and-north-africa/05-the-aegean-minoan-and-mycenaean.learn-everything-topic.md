@@ -1,5 +1,6 @@
 ---
 id: 71c0b72f-3062-511b-9b8f-11e4d7a4319d
+slug: 05-the-aegean-minoan-and-mycenaean
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Aegean: Minoan and Mycenaean
 D: 0

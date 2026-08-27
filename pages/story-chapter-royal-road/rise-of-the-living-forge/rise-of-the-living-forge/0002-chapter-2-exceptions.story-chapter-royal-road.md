@@ -1,5 +1,6 @@
 ---
 id: 3c1167d0-2314-5225-87ae-c21e7a7b128c
+slug: 0002-chapter-2-exceptions
 page-type-slug: story-chapter-royal-road
 title: "Chapter 2: Exceptions"
 partOf: rise-of-the-living-forge

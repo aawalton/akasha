@@ -1,5 +1,6 @@
 ---
 id: d31d7a5d-c4f8-5414-afb3-b8ff35227dc8
+slug: 02-experience-and-criticism-of-art-the-nonaesthetic-context-of-art
 page-type-slug: learn-everything-topic
 node: Art › Art in General › Experience and Criticism of Art; the Nonaesthetic Context of Art
 D: 0

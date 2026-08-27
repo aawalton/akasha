@@ -1,5 +1,6 @@
 ---
 id: 9be5e9fe-fdb2-5096-b736-0b2fb7adc63d
+slug: 0157-chapter-589-the-mesh-and-the-armory
 page-type-slug: story-chapter-royal-road
 title: "Chapter 589: The Mesh and the Armory"
 partOf: rise-of-the-living-forge

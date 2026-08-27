@@ -1,5 +1,6 @@
 ---
 id: 18df514c-8dde-51db-9096-b366fed26a20
+slug: 01-western-europe-1500-1789
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › Western Europe 1500–1789
 D: 0

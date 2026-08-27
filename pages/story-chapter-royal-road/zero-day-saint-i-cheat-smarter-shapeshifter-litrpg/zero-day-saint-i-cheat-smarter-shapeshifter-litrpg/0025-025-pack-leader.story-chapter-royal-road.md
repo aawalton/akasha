@@ -1,5 +1,6 @@
 ---
 id: e33c1083-220d-572a-aae4-c785da51dd5a
+slug: 0025-025-pack-leader
 page-type-slug: story-chapter-royal-road
 title: "025 - Pack Leader"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

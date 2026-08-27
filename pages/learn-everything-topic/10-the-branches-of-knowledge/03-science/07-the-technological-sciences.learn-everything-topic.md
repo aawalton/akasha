@@ -1,5 +1,6 @@
 ---
 id: ece6c88b-112b-5d88-a3fc-6a29412378bc
+slug: 07-the-technological-sciences
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science › The Technological Sciences
 D: 0

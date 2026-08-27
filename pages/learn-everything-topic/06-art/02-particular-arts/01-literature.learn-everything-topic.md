@@ -1,5 +1,6 @@
 ---
 id: a423fc91-18d2-5913-9a65-6ae0e9c3eb0f
+slug: 01-literature
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Literature
 D: 0

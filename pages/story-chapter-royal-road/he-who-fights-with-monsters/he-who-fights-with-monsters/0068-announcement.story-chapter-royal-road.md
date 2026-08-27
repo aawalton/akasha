@@ -1,5 +1,6 @@
 ---
 id: 735c1853-13ca-5745-b4db-51b55808630d
+slug: 0068-announcement
 page-type-slug: story-chapter-royal-road
 title: "Announcement"
 partOf: he-who-fights-with-monsters

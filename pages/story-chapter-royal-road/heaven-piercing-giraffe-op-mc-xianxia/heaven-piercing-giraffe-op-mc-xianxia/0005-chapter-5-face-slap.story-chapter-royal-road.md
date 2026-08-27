@@ -1,5 +1,6 @@
 ---
 id: ca744a49-3dba-5ff8-93ce-08056339bcb7
+slug: 0005-chapter-5-face-slap
 page-type-slug: story-chapter-royal-road
 title: "Chapter 5: Face Slap"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

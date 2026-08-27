@@ -1,5 +1,6 @@
 ---
 id: 2d9a6f4d-28f6-5e2a-8b7f-94668a10933a
+slug: 02-education-around-the-world
 page-type-slug: learn-everything-topic
 node: Human Society › Education › Education Around the World
 D: 0

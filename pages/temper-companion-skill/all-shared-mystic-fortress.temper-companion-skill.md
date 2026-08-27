@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c559-7ab3-b9b8-563364fdc928
+slug: all-shared-mystic-fortress
 page-type-slug: temper-companion-skill
 title: "Mystic Fortress"
 icon: "/esoui/art/icons/ability_companion_restorationstaff_001.dds"

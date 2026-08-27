@@ -1,5 +1,6 @@
 ---
 id: 373fc76d-0b9a-5c31-b8d3-3e18eecaba77
+slug: 01-history-and-foundations-of-mathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › History and Foundations of Mathematics
 D: 3

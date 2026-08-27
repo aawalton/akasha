@@ -1,5 +1,6 @@
 ---
 id: 94646f5b-edca-5a69-8d1e-97ee5ec08be3
+slug: 09-decoration-and-design
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Decoration and Design
 D: 0

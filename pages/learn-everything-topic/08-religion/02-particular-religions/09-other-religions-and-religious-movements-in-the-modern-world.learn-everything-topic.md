@@ -1,5 +1,6 @@
 ---
 id: 8349f292-f247-5404-a47b-51de7a400c9e
+slug: 09-other-religions-and-religious-movements-in-the-modern-world
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Other Religions and Religious Movements in the Modern World
 D: 0

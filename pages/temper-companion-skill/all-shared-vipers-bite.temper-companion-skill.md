@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c550-7a2f-b045-155ddce14385
+slug: all-shared-vipers-bite
 page-type-slug: temper-companion-skill
 title: "Viper's Bite"
 icon: "/esoui/art/icons/ability_companion_bow_002.dds"

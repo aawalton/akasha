@@ -1,5 +1,6 @@
 ---
 id: 5083e8ad-3ce6-517e-ae20-eaad43edec93
+slug: 0025-213-beginning-of-a-new-era-b5-start
 page-type-slug: story-chapter-royal-road
 title: "213 - Beginning of a New Era (B5 start)"
 partOf: bunny-girl-evolution

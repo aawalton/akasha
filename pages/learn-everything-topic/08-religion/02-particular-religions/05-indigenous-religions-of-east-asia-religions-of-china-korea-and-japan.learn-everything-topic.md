@@ -1,5 +1,6 @@
 ---
 id: 0c32fc19-8cee-5212-a379-d5957bef1a00
+slug: 05-indigenous-religions-of-east-asia-religions-of-china-korea-and-japan
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Indigenous Religions of East Asia: Religions of China, Korea, and Japan
 D: 0

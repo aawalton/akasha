@@ -1,5 +1,6 @@
 ---
 id: add0aa25-ceda-5552-8e2e-574a8fde7d1a
+slug: 04-extraction-and-conversion-of-industrial-raw-materials
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Extraction and Conversion of Industrial Raw Materials
 D: 0

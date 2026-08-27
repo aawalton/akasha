@@ -1,5 +1,6 @@
 ---
 id: d574d84a-233b-5d53-80e0-b0279ff8ee04
+slug: 0009-009-the-wild-hunt
 page-type-slug: story-chapter-royal-road
 title: "009 - The Wild Hunt"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

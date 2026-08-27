@@ -1,5 +1,6 @@
 ---
 id: 56866a8a-a5ee-5bdc-846a-209b99a64069
+slug: 0006-6-upgrade
 page-type-slug: story-chapter-royal-road
 title: "6 - Upgrade"
 partOf: bunny-girl-evolution

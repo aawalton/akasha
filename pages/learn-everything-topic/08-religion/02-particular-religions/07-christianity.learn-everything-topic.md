@@ -1,5 +1,6 @@
 ---
 id: 962e1109-626c-568f-a170-40f7b44d9e77
+slug: 07-christianity
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Christianity
 D: 0

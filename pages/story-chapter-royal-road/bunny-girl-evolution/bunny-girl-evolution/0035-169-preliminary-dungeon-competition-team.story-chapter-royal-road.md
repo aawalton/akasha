@@ -1,5 +1,6 @@
 ---
 id: b922e2e7-1567-5542-8b89-04235e5a2e9d
+slug: 0035-169-preliminary-dungeon-competition-team
 page-type-slug: story-chapter-royal-road
 title: "169 - Preliminary Dungeon Competition Team"
 partOf: bunny-girl-evolution

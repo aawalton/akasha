@@ -1,5 +1,6 @@
 ---
 id: b9639f38-86f5-50a8-9257-436b3e99eb21
+slug: 05-technology-of-information-processing-and-of-communications-systems
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Technology of Information Processing and of Communications Systems
 D: 0

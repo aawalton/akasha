@@ -1,5 +1,6 @@
 ---
 id: c5dec212-78bb-57a7-b3e5-6733f190f062
+slug: 09-southeast-asia-under-european-imperialism-1600-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › Southeast Asia Under European Imperialism 1600–1920
 D: 0

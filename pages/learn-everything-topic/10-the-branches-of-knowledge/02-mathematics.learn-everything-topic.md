@@ -1,5 +1,6 @@
 ---
 id: 84e77ae2-6242-5176-a9a8-88b744993298
+slug: 02-mathematics
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics
 D: 0

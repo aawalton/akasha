@@ -1,5 +1,6 @@
 ---
 id: a81e167f-888a-5412-8400-5176c134d840
+slug: 0010-chapter-268-dinner
 page-type-slug: story-chapter-royal-road
 title: "Chapter 268: Dinner"
 partOf: rise-of-the-living-forge

@@ -1,5 +1,6 @@
 ---
 id: ec6d8b01-aad3-5192-b671-bd9dac079496
+slug: 0001-chapter-1-the-cost-of-peace
 page-type-slug: story-chapter-royal-road
 title: "Chapter 1: The Cost of Peace"
 partOf: rise-of-the-living-forge

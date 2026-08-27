@@ -1,5 +1,6 @@
 ---
 id: cf66e1f2-9d27-5595-8ced-4da3db8f207c
+slug: 02-particular-religions
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions
 D: 0

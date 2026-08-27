@@ -1,5 +1,6 @@
 ---
 id: 019e6484-383b-7cf7-be2d-7d77fc7c221c
+slug: azandar-azandar-scathing-rune
 page-type-slug: temper-companion-skill
 title: "Scathing Rune"
 icon: "/esoui/art/icons/ability_companion_arcanist_runicjab.dds"

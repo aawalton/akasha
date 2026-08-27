@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c55b-714d-a309-a49c299f2574
+slug: all-shared-sever
 page-type-slug: temper-companion-skill
 title: "Sever"
 icon: "/esoui/art/icons/ability_companion_2handed_004.dds"

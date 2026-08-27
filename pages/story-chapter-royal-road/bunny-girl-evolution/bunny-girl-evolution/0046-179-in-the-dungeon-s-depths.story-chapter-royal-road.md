@@ -1,5 +1,6 @@
 ---
 id: 594baee1-2fb1-53e3-b8ab-0452d9780ae8
+slug: 0046-179-in-the-dungeon-s-depths
 page-type-slug: story-chapter-royal-road
 title: "179 - In the Dungeon's Depths"
 partOf: bunny-girl-evolution

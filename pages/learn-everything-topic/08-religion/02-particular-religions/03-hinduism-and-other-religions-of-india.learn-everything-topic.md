@@ -1,5 +1,6 @@
 ---
 id: 22e87ae7-740d-5dfc-9ea5-ca0c4a6621b5
+slug: 03-hinduism-and-other-religions-of-india
 page-type-slug: learn-everything-topic
 node: Religion › Particular Religions › Hinduism and Other Religions of India
 D: 2

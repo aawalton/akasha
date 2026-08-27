@@ -1,5 +1,6 @@
 ---
 id: bdeb1783-b7aa-5b9b-9aa8-f9147ba3b1d0
+slug: 0053-185-the-good-old-days
 page-type-slug: story-chapter-royal-road
 title: "185 - The Good Old Days"
 partOf: bunny-girl-evolution

@@ -1,5 +1,6 @@
 ---
 id: 298038ea-1cd1-5223-8973-ca16abb3ff48
+slug: 03-motion-pictures
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Motion Pictures
 D: 4

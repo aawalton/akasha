@@ -1,5 +1,6 @@
 ---
 id: 18b08a18-e27a-5c2c-87b6-e24e7ff698fd
+slug: 0016-107-gathering-of-information
 page-type-slug: story-chapter-royal-road
 title: "107 - Gathering of Information"
 partOf: bunny-girl-evolution

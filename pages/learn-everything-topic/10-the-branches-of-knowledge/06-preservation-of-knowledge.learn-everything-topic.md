@@ -1,5 +1,6 @@
 ---
 id: c194dc8a-65b8-5c87-9de6-b611e4a7e847
+slug: 06-preservation-of-knowledge
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Preservation of Knowledge
 D: 0

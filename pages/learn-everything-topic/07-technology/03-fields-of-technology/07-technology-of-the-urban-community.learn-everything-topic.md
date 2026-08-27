@@ -1,5 +1,6 @@
 ---
 id: 41112755-c470-5c98-a73a-1dadce2dbe4b
+slug: 07-technology-of-the-urban-community
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology › Technology of the Urban Community
 D: 0

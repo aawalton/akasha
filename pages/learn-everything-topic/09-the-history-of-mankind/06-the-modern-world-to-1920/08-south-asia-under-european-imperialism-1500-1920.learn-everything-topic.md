@@ -1,5 +1,6 @@
 ---
 id: 87234e88-7e51-527e-9cd6-51e7eb209a35
+slug: 08-south-asia-under-european-imperialism-1500-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The Modern World to 1920 › South Asia Under European Imperialism 1500–1920
 D: 0

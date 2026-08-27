@@ -1,5 +1,6 @@
 ---
 id: 8924d8d5-d959-55c7-aa06-d942eb1f8d5d
+slug: 0062-194-shirt-hurt-shirt-healer
 page-type-slug: story-chapter-royal-road
 title: "194 - Shirt Hurt! Shirt Healer!"
 partOf: bunny-girl-evolution

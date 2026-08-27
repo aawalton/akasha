@@ -1,5 +1,6 @@
 ---
 id: c34290da-2b03-5d90-83aa-31885c773b3a
+slug: 04-the-crusades-the-islamic-states-and-eastern-christendom-1050-1480
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Medieval Southwest Asia, North Africa, and Europe › The Crusades, the Islamic States, and Eastern Christendom 1050–1480
 D: 0

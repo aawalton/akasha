@@ -1,5 +1,6 @@
 ---
 id: fce41566-cb1a-5d27-a9ce-00e186b39081
+slug: 0059-chapter-492-dash
 page-type-slug: story-chapter-royal-road
 title: "Chapter 492: ****Dash"
 partOf: rise-of-the-living-forge

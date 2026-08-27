@@ -1,5 +1,6 @@
 ---
 id: 7eb0524b-1fc2-5158-ab3f-e5cb081776ca
+slug: 03-fields-of-technology
 page-type-slug: learn-everything-topic
 node: Technology › Fields of Technology
 D: 0

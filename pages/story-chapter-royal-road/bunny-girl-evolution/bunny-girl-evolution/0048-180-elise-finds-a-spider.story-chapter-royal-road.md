@@ -1,5 +1,6 @@
 ---
 id: d9e032e3-9047-5ce5-b9f2-90ec804136eb
+slug: 0048-180-elise-finds-a-spider
 page-type-slug: story-chapter-royal-road
 title: "180 - Elise Finds a Spider"
 partOf: bunny-girl-evolution

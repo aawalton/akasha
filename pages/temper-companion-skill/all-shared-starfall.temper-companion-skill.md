@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86f6-787b-878e-b7cf86af8bca
+slug: all-shared-starfall
 page-type-slug: temper-companion-skill
 title: "Starfall"
 icon: "/esoui/art/icons/ability_companion_mageguild_005.dds"

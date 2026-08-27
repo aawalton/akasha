@@ -1,5 +1,6 @@
 ---
 id: 7a9aa0cb-e246-5b64-a403-9f9b881db7e5
+slug: 0058-190-sparring-with-the-giantess
 page-type-slug: story-chapter-royal-road
 title: "190 - Sparring with the Giantess"
 partOf: bunny-girl-evolution

@@ -1,5 +1,6 @@
 ---
 id: c025262e-e454-5d6d-b7e8-41109a5765b9
+slug: 03-science
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Science
 D: 0

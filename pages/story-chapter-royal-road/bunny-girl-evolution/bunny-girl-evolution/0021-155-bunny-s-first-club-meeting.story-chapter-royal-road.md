@@ -1,5 +1,6 @@
 ---
 id: d7f3d0db-a187-52d0-8778-f0743277466e
+slug: 0021-155-bunny-s-first-club-meeting
 page-type-slug: story-chapter-royal-road
 title: "155 - Bunny's First Club Meeting"
 partOf: bunny-girl-evolution

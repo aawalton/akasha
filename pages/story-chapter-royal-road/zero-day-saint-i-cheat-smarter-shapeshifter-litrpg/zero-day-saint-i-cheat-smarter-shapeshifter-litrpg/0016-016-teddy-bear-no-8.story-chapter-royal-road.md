@@ -1,5 +1,6 @@
 ---
 id: 2f421792-1266-5808-b361-347837ac505c
+slug: 0016-016-teddy-bear-no-8
 page-type-slug: story-chapter-royal-road
 title: "016 - Teddy Bear No. 8"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

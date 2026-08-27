@@ -1,5 +1,6 @@
 ---
 id: 92a2c9e5-780c-536e-b2f2-6b29a3f5096e
+slug: 04-music
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Music
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: a4f4df45-101a-5a0f-94e4-2b26f51ffe18
+slug: 0011-58-the-alliance
 page-type-slug: story-chapter-royal-road
 title: "58 - The Alliance"
 partOf: bunny-girl-evolution

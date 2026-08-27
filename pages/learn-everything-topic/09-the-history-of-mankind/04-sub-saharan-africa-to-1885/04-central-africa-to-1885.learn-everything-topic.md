@@ -1,5 +1,6 @@
 ---
 id: ecdb3dc5-2eca-591c-80ae-58d01868e966
+slug: 04-central-africa-to-1885
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Sub-Saharan Africa to 1885 › Central Africa to 1885
 D: 0

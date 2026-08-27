@@ -1,5 +1,6 @@
 ---
 id: a5f33e55-f694-5889-8f29-181d362c1317
+slug: 0038-172-tales-from-the-past
 page-type-slug: story-chapter-royal-road
 title: "172 - Tales From the Past"
 partOf: bunny-girl-evolution

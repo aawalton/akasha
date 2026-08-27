@@ -1,5 +1,6 @@
 ---
 id: 3e8af8cc-a63d-515e-9523-50b92b2ce1d6
+slug: 06-authoring-and-gm-doctrine
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Authoring and GM Doctrine
 D: 3

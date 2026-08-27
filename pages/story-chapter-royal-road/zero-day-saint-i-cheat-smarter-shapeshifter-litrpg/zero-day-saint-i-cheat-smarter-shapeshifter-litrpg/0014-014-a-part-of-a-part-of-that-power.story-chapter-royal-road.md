@@ -1,5 +1,6 @@
 ---
 id: 30f072d8-1ba4-598d-b6db-10d8728d452f
+slug: 0014-014-a-part-of-a-part-of-that-power
 page-type-slug: story-chapter-royal-road
 title: "014 - A Part of A Part of That Power"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

@@ -1,5 +1,6 @@
 ---
 id: be7c788e-cfb7-5840-a5bb-ed9aba43d3cb
+slug: 0055-187-back-from-the-break
 page-type-slug: story-chapter-royal-road
 title: "187 - Back from the Break"
 partOf: bunny-girl-evolution

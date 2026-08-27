@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3833-71ac-8a70-d0f4721f424b
+slug: all-shared-vanish
 page-type-slug: temper-companion-skill
 title: "Vanish"
 icon: "/esoui/art/icons/ability_companion_armor_medium.dds"

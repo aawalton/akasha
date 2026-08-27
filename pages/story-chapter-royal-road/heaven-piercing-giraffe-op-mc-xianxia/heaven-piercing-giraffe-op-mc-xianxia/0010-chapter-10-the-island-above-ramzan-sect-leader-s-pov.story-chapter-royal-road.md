@@ -1,5 +1,6 @@
 ---
 id: 2e22e4f0-e786-5d89-b3c6-ddaaff1a4ce9
+slug: 0010-chapter-10-the-island-above-ramzan-sect-leader-s-pov
 page-type-slug: story-chapter-royal-road
 title: "Chapter 10: The Island Above (Ramzan Sect Leader's POV)"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

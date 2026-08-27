@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c55c-7cd6-a4b3-dc81a1214a97
+slug: all-shared-sunder
 page-type-slug: temper-companion-skill
 title: "Sunder"
 icon: "/esoui/art/icons/ability_companion_2handed_002.dds"

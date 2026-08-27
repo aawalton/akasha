@@ -1,5 +1,6 @@
 ---
 id: 213b4459-17f4-5ceb-a307-839c84ec1dc5
+slug: 0019-chapter-277-proper
 page-type-slug: story-chapter-royal-road
 title: "Chapter 277: Proper"
 partOf: rise-of-the-living-forge

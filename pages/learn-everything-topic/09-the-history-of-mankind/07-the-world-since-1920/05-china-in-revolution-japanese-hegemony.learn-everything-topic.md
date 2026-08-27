@@ -1,5 +1,6 @@
 ---
 id: 71e59a85-a6fc-571c-8f1b-9fed9a491a44
+slug: 05-china-in-revolution-japanese-hegemony
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › China in Revolution, Japanese Hegemony
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 8ee0f174-0837-5140-a0ff-38a96601fa6d
+slug: 02-foundations-programs
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Foundations Programs
 D: 2

@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3837-75fc-a834-638f18af72f8
+slug: azandar-azandar-abors-augmented-ward
 page-type-slug: temper-companion-skill
 title: "Abor's Augmented Ward"
 icon: "/esoui/art/icons/ability_companion_arcanist_fatewovenarmor.dds"

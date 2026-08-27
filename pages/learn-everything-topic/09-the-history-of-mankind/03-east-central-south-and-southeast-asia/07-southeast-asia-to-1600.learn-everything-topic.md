@@ -1,5 +1,6 @@
 ---
 id: 791f138d-71bc-5728-aea3-d933f0d3dd46
+slug: 07-southeast-asia-to-1600
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › Southeast Asia to 1600
 D: 0

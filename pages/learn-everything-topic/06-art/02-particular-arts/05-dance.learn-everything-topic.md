@@ -1,5 +1,6 @@
 ---
 id: 0407bfbd-ccf9-52b9-9d2f-7185a93501cc
+slug: 05-dance
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Dance
 D: 0

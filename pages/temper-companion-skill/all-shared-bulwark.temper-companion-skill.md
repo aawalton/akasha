@@ -1,5 +1,6 @@
 ---
 id: 019e6484-3825-7700-83fd-b1b8fc5895da
+slug: all-shared-bulwark
 page-type-slug: temper-companion-skill
 title: "Bulwark"
 icon: "/esoui/art/icons/ability_companion_armor_heavy.dds"

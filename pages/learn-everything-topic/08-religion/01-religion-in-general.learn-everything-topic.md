@@ -1,5 +1,6 @@
 ---
 id: 26e745a4-7c13-5742-b81b-1fe0a2c9d9e5
+slug: 01-religion-in-general
 page-type-slug: learn-everything-topic
 node: Religion › Religion in General
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 609541db-7551-5f2b-b515-a59641a00f3f
+slug: 0008-55-the-siblings-b2-start
 page-type-slug: story-chapter-royal-road
 title: "55 - The Siblings (B2 Start)"
 partOf: bunny-girl-evolution

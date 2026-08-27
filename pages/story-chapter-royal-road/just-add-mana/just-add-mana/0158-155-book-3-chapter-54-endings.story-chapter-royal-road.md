@@ -1,5 +1,6 @@
 ---
 id: 2c8b0556-6c22-51a4-b1fa-26e3e7a0d326
+slug: 0158-155-book-3-chapter-54-endings
 page-type-slug: story-chapter-royal-road
 title: "155 — Book 3, Chapter 54 — Endings"
 partOf: just-add-mana

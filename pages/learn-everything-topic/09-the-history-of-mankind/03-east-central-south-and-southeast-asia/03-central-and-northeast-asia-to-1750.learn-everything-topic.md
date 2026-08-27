@@ -1,5 +1,6 @@
 ---
 id: f3967283-1c7b-55fb-8f85-42609bd52684
+slug: 03-central-and-northeast-asia-to-1750
 page-type-slug: learn-everything-topic
 node: The History of Mankind › East, Central, South, and Southeast Asia › Central and Northeast Asia to 1750
 D: 0

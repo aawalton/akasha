@@ -1,5 +1,6 @@
 ---
 id: 88a4186e-0b10-531f-bbf7-68e7b8cd441b
+slug: 0012-012-mammon-inc
 page-type-slug: story-chapter-royal-road
 title: "012 - Mammon Inc."
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

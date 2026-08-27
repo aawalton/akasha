@@ -1,5 +1,6 @@
 ---
 id: 6b4f4c50-c19f-535a-a4e7-b46b41ef8fe1
+slug: 0015-chapter-15-corpse-filled-reality-akasha-s-pov
 page-type-slug: story-chapter-royal-road
 title: "Chapter 15: Corpse Filled Reality (Akasha's POV)"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

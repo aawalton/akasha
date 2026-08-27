@@ -1,5 +1,6 @@
 ---
 id: 536ffcd2-3f0b-5574-8175-85062c7a4cab
+slug: 0070-chapter-70-desert
 page-type-slug: story-chapter-royal-road
 title: "Chapter 70: Desert"
 partOf: time-cursed-knight-time-loop-post-apoc

@@ -1,5 +1,6 @@
 ---
 id: 84ae4932-d78c-5278-9b5f-184f969ad8f5
+slug: 07-progress-realness-and-save-design
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Game Design › Progress Realness and Save Design
 D: 3

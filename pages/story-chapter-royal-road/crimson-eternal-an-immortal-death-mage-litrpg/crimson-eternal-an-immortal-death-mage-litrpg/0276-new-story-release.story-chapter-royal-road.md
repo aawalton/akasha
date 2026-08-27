@@ -1,5 +1,6 @@
 ---
 id: 8d427f53-eca3-5678-affb-4a840608bde2
+slug: 0276-new-story-release
 page-type-slug: story-chapter-royal-road
 title: "New Story Release"
 partOf: crimson-eternal-an-immortal-death-mage-litrpg

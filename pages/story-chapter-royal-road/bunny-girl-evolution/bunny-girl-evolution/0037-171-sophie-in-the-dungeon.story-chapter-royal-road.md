@@ -1,5 +1,6 @@
 ---
 id: 28f2deb1-422e-54f6-b0b3-ff224713e5cd
+slug: 0037-171-sophie-in-the-dungeon
 page-type-slug: story-chapter-royal-road
 title: "171 - Sophie in the Dungeon"
 partOf: bunny-girl-evolution

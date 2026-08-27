@@ -1,5 +1,6 @@
 ---
 id: 019e668d-c55b-7dbc-83c4-7074c38cf26a
+slug: all-shared-staggering-swing
 page-type-slug: temper-companion-skill
 title: "Staggering Swing"
 icon: "/esoui/art/icons/ability_companion_2handed_001.dds"

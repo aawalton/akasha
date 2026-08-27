@@ -1,5 +1,6 @@
 ---
 id: 04503825-e04d-518a-80b7-1eac8a91614f
+slug: 07-sculpture
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Sculpture
 D: 0

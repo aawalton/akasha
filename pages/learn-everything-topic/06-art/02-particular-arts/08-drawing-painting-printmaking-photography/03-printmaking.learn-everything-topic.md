@@ -1,5 +1,6 @@
 ---
 id: a7b3c632-76c4-53a3-b02e-0ef635ef832d
+slug: 03-printmaking
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Printmaking
 D: 0

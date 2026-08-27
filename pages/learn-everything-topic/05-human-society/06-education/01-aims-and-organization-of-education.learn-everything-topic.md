@@ -1,5 +1,6 @@
 ---
 id: 3f51fe14-8a1e-5d74-a339-3b0efc28d282
+slug: 01-aims-and-organization-of-education
 page-type-slug: learn-everything-topic
 node: Human Society › Education › Aims and Organization of Education
 D: 0

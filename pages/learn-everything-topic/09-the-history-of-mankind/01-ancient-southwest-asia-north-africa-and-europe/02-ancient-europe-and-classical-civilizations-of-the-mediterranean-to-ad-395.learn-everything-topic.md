@@ -1,5 +1,6 @@
 ---
 id: 5ea46290-6c08-5d2e-a37c-c91c78ed3780
+slug: 02-ancient-europe-and-classical-civilizations-of-the-mediterranean-to-ad-395
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Europe and Classical Civilizations of the Mediterranean to AD 395
 D: 0

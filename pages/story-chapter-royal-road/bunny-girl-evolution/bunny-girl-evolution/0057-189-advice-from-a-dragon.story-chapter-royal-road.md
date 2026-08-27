@@ -1,5 +1,6 @@
 ---
 id: 04824c3d-ed29-5a81-82fa-4412220d6a9c
+slug: 0057-189-advice-from-a-dragon
 page-type-slug: story-chapter-royal-road
 title: "189 - Advice from a Dragon"
 partOf: bunny-girl-evolution

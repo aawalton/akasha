@@ -1,5 +1,6 @@
 ---
 id: be63d2f4-13b8-58fb-af8e-f017636f798a
+slug: 0015-015-horned-ewe
 page-type-slug: story-chapter-royal-road
 title: "015 - Horned Ewe"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

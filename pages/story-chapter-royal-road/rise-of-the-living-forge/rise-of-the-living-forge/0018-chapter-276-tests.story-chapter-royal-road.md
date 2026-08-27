@@ -1,5 +1,6 @@
 ---
 id: 7c249aed-25ad-548a-a159-fa9f6df8cc72
+slug: 0018-chapter-276-tests
 page-type-slug: story-chapter-royal-road
 title: "Chapter 276: Tests"
 partOf: rise-of-the-living-forge

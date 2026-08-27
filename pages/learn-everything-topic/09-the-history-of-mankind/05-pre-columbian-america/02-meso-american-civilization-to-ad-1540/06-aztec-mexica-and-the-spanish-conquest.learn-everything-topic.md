@@ -1,5 +1,6 @@
 ---
 id: c1a9b567-08e9-56f8-acdd-b0e3596df11c
+slug: 06-aztec-mexica-and-the-spanish-conquest
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Aztec/Mexica and the Spanish Conquest
 D: 3

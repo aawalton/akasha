@@ -1,5 +1,6 @@
 ---
 id: 0a64dc94-c999-5584-aacc-c846ab44c648
+slug: 0009-chapter-267-more-than-metal
 page-type-slug: story-chapter-royal-road
 title: "Chapter 267: More than metal"
 partOf: rise-of-the-living-forge

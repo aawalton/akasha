@@ -1,5 +1,6 @@
 ---
 id: b2a8e1ce-67f9-56e8-9ae4-767d43a17d36
+slug: 0010-010-root-access-to-the-soul
 page-type-slug: story-chapter-royal-road
 title: "010 - Root Access To The Soul"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

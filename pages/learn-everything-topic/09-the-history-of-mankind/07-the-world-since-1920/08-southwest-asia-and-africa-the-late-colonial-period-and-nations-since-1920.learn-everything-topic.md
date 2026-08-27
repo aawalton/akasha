@@ -1,5 +1,6 @@
 ---
 id: e36a146e-732a-5a1f-b607-e5c1dd5ccd20
+slug: 08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920
 page-type-slug: learn-everything-topic
 node: The History of Mankind › The World Since 1920 › Southwest Asia and Africa: the Late Colonial Period and Nations since 1920
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: cf0e96f7-7b3e-5b00-a29a-3c87a7202381
+slug: 0033-167-as-her-highness-commands
 page-type-slug: story-chapter-royal-road
 title: "167 - As Her Highness Commands"
 partOf: bunny-girl-evolution

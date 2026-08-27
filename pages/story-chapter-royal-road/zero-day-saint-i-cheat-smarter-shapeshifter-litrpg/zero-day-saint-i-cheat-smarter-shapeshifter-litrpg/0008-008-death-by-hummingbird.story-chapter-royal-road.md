@@ -1,5 +1,6 @@
 ---
 id: 21a36267-1461-5e7a-9627-2cf3a78d8b80
+slug: 0008-008-death-by-hummingbird
 page-type-slug: story-chapter-royal-road
 title: "008 - Death By Hummingbird"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

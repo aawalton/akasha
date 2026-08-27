@@ -1,5 +1,6 @@
 ---
 id: 56ede1fd-5678-524b-ae0b-cf29048e3afb
+slug: 0014-105-posing-as-nobility-b3-start
 page-type-slug: story-chapter-royal-road
 title: "105 - Posing as Nobility (B3 start)"
 partOf: bunny-girl-evolution

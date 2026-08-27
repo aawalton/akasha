@@ -1,5 +1,6 @@
 ---
 id: dac0e86e-2def-50ae-b9dd-d1b649b20681
+slug: 01-technology-of-energy-conversion-and-utilization
 page-type-slug: learn-everything-topic
 node: Technology › Elements of Technology › Technology of Energy Conversion and Utilization
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 2ea7e5ff-85e7-536b-88db-e6b85babe805
+slug: 09-north-africa-carthage-and-kush
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › North Africa: Carthage and Kush
 D: 0

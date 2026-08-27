@@ -1,5 +1,6 @@
 ---
 id: bacf2a6d-5e29-586a-8eab-75c077fe753a
+slug: 0018-109-freedom-fun-fey
 page-type-slug: story-chapter-royal-road
 title: "109 - Freedom, Fun, Fey"
 partOf: bunny-girl-evolution

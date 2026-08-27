@@ -1,5 +1,6 @@
 ---
 id: e6c528ca-4a7f-56e3-81a5-7ce6e983a051
+slug: 0122-chapter-555-big-game
 page-type-slug: story-chapter-royal-road
 title: "Chapter 555: Big Game"
 partOf: rise-of-the-living-forge

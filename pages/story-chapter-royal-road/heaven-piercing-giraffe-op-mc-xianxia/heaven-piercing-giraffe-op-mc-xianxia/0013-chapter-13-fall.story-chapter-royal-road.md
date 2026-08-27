@@ -1,5 +1,6 @@
 ---
 id: 1d8e73d2-31f4-50d6-9055-14495358ff31
+slug: 0013-chapter-13-fall
 page-type-slug: story-chapter-royal-road
 title: "Chapter 13: Fall"
 partOf: heaven-piercing-giraffe-op-mc-xianxia

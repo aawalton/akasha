@@ -1,5 +1,6 @@
 ---
 id: 051b15fc-b3a4-5ce6-982d-1576641d29a1
+slug: 01-andean-civilization-to-ad-1540
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Pre-Columbian America › Andean Civilization to AD 1540
 D: 0

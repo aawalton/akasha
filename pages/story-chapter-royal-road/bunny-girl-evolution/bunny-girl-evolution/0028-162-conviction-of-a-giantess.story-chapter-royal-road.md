@@ -1,5 +1,6 @@
 ---
 id: de550ff2-18b8-5764-9a79-5f199e40812c
+slug: 0028-162-conviction-of-a-giantess
 page-type-slug: story-chapter-royal-road
 title: "162 - Conviction of a Giantess"
 partOf: bunny-girl-evolution

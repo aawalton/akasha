@@ -1,5 +1,6 @@
 ---
 id: a3dad52f-9139-56a0-8060-c9fd4e4c2268
+slug: 01-statistics-and-inference
 page-type-slug: learn-everything-topic
 node: The Branches of Knowledge › Mathematics › Applications of Mathematics › Statistics and Inference
 D: 0

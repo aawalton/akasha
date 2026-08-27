@@ -1,5 +1,6 @@
 ---
 id: 019e6688-86ef-7413-98b6-627022a4ae10
+slug: all-shared-biting-trap
 page-type-slug: temper-companion-skill
 title: "Biting Trap"
 icon: "/esoui/art/icons/ability_companion_fightersguild_004.dds"

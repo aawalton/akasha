@@ -1,5 +1,6 @@
 ---
 id: 5f6c206d-ce83-58db-af7f-7e9d70196b89
+slug: 0006-006-three-percent
 page-type-slug: story-chapter-royal-road
 title: "006 - Three Percent"
 partOf: zero-day-saint-i-cheat-smarter-shapeshifter-litrpg

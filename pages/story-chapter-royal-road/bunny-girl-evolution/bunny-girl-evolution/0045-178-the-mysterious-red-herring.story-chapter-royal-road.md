@@ -1,5 +1,6 @@
 ---
 id: 5b7dc9f3-cf1d-5224-a9c9-4b3f4372d4b8
+slug: 0045-178-the-mysterious-red-herring
 page-type-slug: story-chapter-royal-road
 title: "178 - The Mysterious Red Herring"
 partOf: bunny-girl-evolution

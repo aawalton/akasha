@@ -1,5 +1,6 @@
 ---
 id: e521aa89-2d3b-513c-82e2-637a0e5ede51
+slug: 0004-chapter-4-tiers
 page-type-slug: story-chapter-royal-road
 title: "Chapter 4: Tiers"
 partOf: rise-of-the-living-forge

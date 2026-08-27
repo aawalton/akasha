@@ -1,5 +1,6 @@
 ---
 id: 42b0d16e-48fa-5b8b-9cbd-79684a1ce160
+slug: 02-the-nilotic-sudan-and-ethiopia-ad-550-1885
 page-type-slug: learn-everything-topic
 node: The History of Mankind › Sub-Saharan Africa to 1885 › The Nilotic Sudan and Ethiopia AD 550–1885
 D: 0

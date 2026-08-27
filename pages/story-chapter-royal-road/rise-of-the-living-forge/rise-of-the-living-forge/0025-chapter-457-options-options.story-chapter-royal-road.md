@@ -1,5 +1,6 @@
 ---
 id: fd309975-4f4f-5638-a8bf-42adffb99e8c
+slug: 0025-chapter-457-options-options
 page-type-slug: story-chapter-royal-road
 title: "Chapter 457: Options, options"
 partOf: rise-of-the-living-forge

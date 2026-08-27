@@ -1,5 +1,6 @@
 ---
 id: 109cc729-e52b-553d-8944-1aefd4a21e8e
+slug: 04-photography
 page-type-slug: learn-everything-topic
 node: Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Photography
 D: 0

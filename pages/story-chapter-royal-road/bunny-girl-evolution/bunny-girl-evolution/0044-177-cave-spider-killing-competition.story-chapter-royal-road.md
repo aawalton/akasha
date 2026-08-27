@@ -1,5 +1,6 @@
 ---
 id: 0be6981e-95a3-5d4c-84e0-249cf887263d
+slug: 0044-177-cave-spider-killing-competition
 page-type-slug: story-chapter-royal-road
 title: "177 - Cave Spider Killing Competition"
 partOf: bunny-girl-evolution

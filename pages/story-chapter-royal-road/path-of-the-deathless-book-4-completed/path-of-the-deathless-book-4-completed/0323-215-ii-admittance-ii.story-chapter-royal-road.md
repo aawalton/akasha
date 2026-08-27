@@ -1,5 +1,6 @@
 ---
 id: 95138b0f-e782-5963-8c54-6f70c9e400da
+slug: 0323-215-ii-admittance-ii
 page-type-slug: story-chapter-royal-road
 title: "215 (II) Admittance [II] "
 partOf: path-of-the-deathless-book-4-completed

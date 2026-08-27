@@ -1,5 +1,6 @@
 ---
 id: fd789291-8c88-5f82-af03-0de011cccafd
+slug: 0023-157-rabbit-vs-elf-1
 page-type-slug: story-chapter-royal-road
 title: "157 - Rabbit vs Elf 1"
 partOf: bunny-girl-evolution

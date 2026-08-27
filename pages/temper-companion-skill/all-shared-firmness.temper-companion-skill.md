@@ -1,5 +1,6 @@
 ---
 id: 019e6484-382a-7dbd-8802-313f8d8dcfbf
+slug: all-shared-firmness
 page-type-slug: temper-companion-skill
 title: "Firmness"
 icon: "/esoui/art/icons/passive_companion_armor_heavy.dds"

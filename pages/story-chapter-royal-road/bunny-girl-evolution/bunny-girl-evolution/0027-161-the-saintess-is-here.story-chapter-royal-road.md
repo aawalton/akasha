@@ -1,5 +1,6 @@
 ---
 id: 3329682f-ae00-5ac5-adb8-6d51e6174d4f
+slug: 0027-161-the-saintess-is-here
 page-type-slug: story-chapter-royal-road
 title: "161 - The Saintess Is Here"
 partOf: bunny-girl-evolution

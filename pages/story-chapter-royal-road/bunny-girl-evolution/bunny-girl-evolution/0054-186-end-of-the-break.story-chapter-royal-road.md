@@ -1,5 +1,6 @@
 ---
 id: 3bbf5f1f-a995-5460-8466-5ef8515ca528
+slug: 0054-186-end-of-the-break
 page-type-slug: story-chapter-royal-road
 title: "186 - End of the Break"
 partOf: bunny-girl-evolution
