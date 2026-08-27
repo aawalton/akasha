@@ -25,7 +25,7 @@ export const SINGLE_FLIGHT_FLOCK_SH = [
   'exec "$@"',
 ].join("\n")
 
-const VERIFY_WORKSPACE_BINS = `${ownRepoRoot()}/infra/scripts--from-instructions/src/verify-workspace-bins.ts`
+const VERIFY_WORKSPACE_BINS = `${ownRepoRoot()}/infra/scripts/src/verify-workspace-bins.ts`
 
 export const SINGLE_FLIGHT_INSTALL_SCRIPT = [
   'if [ -e "$1" ]; then exit 0; fi',

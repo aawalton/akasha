@@ -73,11 +73,11 @@ describe("computeAlignmentViolations", () => {
   test("a null reading is an extraction violation even when the rest agree", () => {
     const readings = [
       reading("bun.lock", "1.61.1"),
-      reading("infra/scripts--from-instructions/mirror-base-images.sh", null),
+      reading("infra/scripts/mirror-base-images.sh", null),
     ]
     const out = computeAlignmentViolations(readings)
     expect(out).toHaveLength(1)
-    expect(out[0]?.source).toBe("infra/scripts--from-instructions/mirror-base-images.sh")
+    expect(out[0]?.source).toBe("infra/scripts/mirror-base-images.sh")
   })
 
   test("divergent versions flag every reading", () => {
