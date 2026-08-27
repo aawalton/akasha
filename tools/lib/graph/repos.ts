@@ -207,18 +207,49 @@ const bodiesAtCommit = (
   return bodies
 }
 
-const bodiesHeld = new WeakMap<BuildContext, ReadonlyMap<string, Buffer>>()
+const endingOf = (path: string): string => {
+  const name = path.slice(path.lastIndexOf("/") + 1)
+  const at = name.lastIndexOf(".")
+  return at <= 0 ? "" : name.slice(at)
+}
 
-const bodiesFor = (ctx: BuildContext, root: string): ReadonlyMap<string, Buffer> => {
-  const held = bodiesHeld.get(ctx)
-  if (held !== undefined) return held
-  const bodies = bodiesAtCommit(
-    root,
-    ctx.commit,
-    ctx.repoFiles.get(CODE_REPO) ?? filesAtCommit(root, ctx.commit)
-  )
-  bodiesHeld.set(ctx, bodies)
-  return bodies
+/**
+ * The file kinds the body prefetch passes over.
+ *
+ * READING EVERY BODY IN THE TREE IS WHAT THIS AVOIDS. akasha tracks 90k files and over a gigabyte,
+ * and all but 60 MiB of that is pages, prose and row sidecars no producer parses. Batching the lot
+ * through `git cat-file` ran past the ceiling, so no snapshot built at all and every check over the
+ * graph covered nothing.
+ *
+ * PASSING OVER A KIND COSTS A GIT CALL, NEVER AN ANSWER. `readRepoFile` fetches a path the prefetch
+ * left out rather than reporting it absent, so a producer that does read one of these is slower and
+ * never wrong. This narrows no file list: producers still see every file the tree holds.
+ */
+const UNPREFETCHED: ReadonlySet<string> = new Set([".jsonl", ".md", ".txt"])
+
+type BodiesAt = {
+  readonly bodies: Map<string, Buffer>
+  readonly listed: ReadonlySet<string>
+}
+
+const bodiesHeld = new WeakMap<BuildContext, BodiesAt>()
+
+const bodiesFor = (ctx: BuildContext, root: string): BodiesAt => {
+  const standing = bodiesHeld.get(ctx)
+  if (standing !== undefined) return standing
+  const listed = ctx.repoFiles.get(CODE_REPO) ?? filesAtCommit(root, ctx.commit)
+  const at: BodiesAt = {
+    bodies: new Map(
+      bodiesAtCommit(
+        root,
+        ctx.commit,
+        listed.filter((path) => !UNPREFETCHED.has(endingOf(path)))
+      )
+    ),
+    listed: new Set(listed),
+  }
+  bodiesHeld.set(ctx, at)
+  return at
 }
 
 export const readRepoFile = (ctx: BuildContext, repo: Repo, path: string): string | null => {
@@ -237,5 +268,12 @@ export const readRepoFile = (ctx: BuildContext, repo: Repo, path: string): strin
       return null
     }
   }
-  return bodiesFor(ctx, root).get(path)?.toString("utf-8") ?? null
+  const at = bodiesFor(ctx, root)
+  const held = at.bodies.get(path)
+  if (held !== undefined) return held.toString("utf-8")
+  if (!at.listed.has(path)) return null
+  const single = bodiesAtCommit(root, ctx.commit, [path]).get(path)
+  if (single === undefined) return null
+  at.bodies.set(path, single)
+  return single.toString("utf-8")
 }
