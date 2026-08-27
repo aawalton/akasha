@@ -37,3 +37,13 @@ A made value answers in place of the one meant, and nothing after it can tell wh
 Let one absent value stop the whole answer.
 
 Never add a conversion to make two types meet.
+
+## Name The Cause
+
+**Make a refusal say what was wrong and where, in the terms the program was written in.**
+
+A refusal is the one part of a language its reader meets while already lost.
+
+Name the value missing, not the step that broke.
+
+Never report a fault in the evaluator's terms.
