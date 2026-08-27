@@ -39,7 +39,7 @@ function generate(): undefined {
   console.log(
     `\nThe callback (${redirectUri}) will display the authorization code.\n` +
       "Then run step 2 with that code:\n" +
-      "  bun --cwd collections/music-spotify run auth:exchange --code <CODE>"
+      "  bun run --cwd collections/music-spotify auth:exchange --code <CODE>"
   )
 }
 
@@ -59,7 +59,7 @@ async function exchange(args: readonly string[]): Promise<void> {
   const handoff = readPkce()
   if (handoff == null) {
     throw new Error(
-      "no saved PKCE handoff — run step 1 first:\n  bun --cwd collections/music-spotify run auth"
+      "no saved PKCE handoff — run step 1 first:\n  bun run --cwd collections/music-spotify auth"
     )
   }
   const { redirectUri } = getCredentials()

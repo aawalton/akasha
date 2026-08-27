@@ -7,7 +7,7 @@ const TOKEN_URL = "https://accounts.spotify.com/api/token"
 const EXPIRY_BUFFER_MS = 60_000
 
 const NOT_AUTHORIZED_ERROR =
-  "spotify: no stored token — run the consent CLI first (`bun --cwd collections/music-spotify run auth`)"
+  "spotify: no stored token — run the consent CLI first (`bun run --cwd collections/music-spotify auth`)"
 
 export interface SpotifyCredentials {
   readonly clientId: string
