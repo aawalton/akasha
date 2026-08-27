@@ -10,7 +10,7 @@ import { CEILING_MS } from "../lib/run-cost.ts"
 
 function repoViewOf(repo: Repo): RepoView {
   return {
-    roots: { instructions: "/nonexistent-instructions", code: "/nonexistent-code", memory: "/nonexistent-memory", books: "/nonexistent-books", stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor" },
+    roots: { akasha: "/nonexistent-akasha", memory: "/nonexistent-memory", "code-editor": "/nonexistent-code-editor" },
     name: repo,
     documents: [],
     read: () => "",
@@ -45,24 +45,24 @@ describe("a check levied over one repo", () => {
 describe("a check levied over several repos", () => {
   test("is run once per repo, in the order declared", async () => {
     const walked: Repo[] = []
-    await runChecks({ both: { repos: ["memory", "instructions"], run: watcher("both", walked) } }, repoViewOf, [])
-    expect(walked).toEqual(["memory", "instructions"])
+    await runChecks({ both: { repos: ["memory", "akasha"], run: watcher("both", walked) } }, repoViewOf, [])
+    expect(walked).toEqual(["memory", "akasha"])
   })
 
   test("names each run by its repo, two outcomes being indistinguishable otherwise", async () => {
     const outcomes = await runChecks(
-      { both: { repos: ["instructions", "memory"], run: watcher("both", []) } },
+      { both: { repos: ["akasha", "memory"], run: watcher("both", []) } },
       repoViewOf,
       []
     )
-    expect(outcomes.map((outcome) => outcome.name)).toEqual(["both (instructions)", "both (memory)"])
+    expect(outcomes.map((outcome) => outcome.name)).toEqual(["both (akasha)", "both (memory)"])
   })
 })
 
 describe("a check that measured nothing", () => {
   test("fails rather than passing over an empty search space", async () => {
     const outcomes = await runChecks(
-      { empty: { repos: ["instructions"], run: watcher("empty", [], 0) } },
+      { empty: { repos: ["akasha"], run: watcher("empty", [], 0) } },
       repoViewOf,
       []
     )
@@ -81,7 +81,7 @@ describe("a check that measured nothing", () => {
 
   test("passes once the same check reaches something", async () => {
     const outcomes = await runChecks(
-      { full: { repos: ["instructions"], run: watcher("full", [], 3) } },
+      { full: { repos: ["akasha"], run: watcher("full", [], 3) } },
       repoViewOf,
       []
     )
@@ -91,7 +91,7 @@ describe("a check that measured nothing", () => {
 
 describe("a name no levy carries", () => {
   test("fails rather than passing silently, and says what there is", async () => {
-    const outcomes = await runChecks({ one: { repos: ["instructions"], run: watcher("one", []) } }, repoViewOf, ["two"])
+    const outcomes = await runChecks({ one: { repos: ["akasha"], run: watcher("one", []) } }, repoViewOf, ["two"])
     expect(outcomes).toHaveLength(1)
     expect(outcomes[0]?.verdict).toBe("fail")
     expect(outcomes[0]?.messages.join("")).toContain("one")
@@ -102,7 +102,7 @@ const ROOT = resolve(import.meta.dir, "..", "..")
 
 function hereViewOf(repo: Repo): RepoView {
   const view = repoViewOf(repo)
-  return { ...view, roots: { ...view.roots, instructions: ROOT } }
+  return { ...view, roots: { ...view.roots, akasha: ROOT } }
 }
 
 describe("the ceiling on a whole run", () => {
@@ -116,24 +116,24 @@ describe("the ceiling on a whole run", () => {
 
   test("a run inside its ceiling adds no verdict of its own", async () => {
     const outcomes = await runChecks(
-      { one: { repos: ["instructions"], run: watcher("one", []) } },
+      { one: { repos: ["akasha"], run: watcher("one", []) } },
       hereViewOf,
       [],
       30_000,
       stepping([0, 29_999])
     )
-    expect(outcomes.map((outcome) => outcome.name)).toEqual(["one (instructions)"])
+    expect(outcomes.map((outcome) => outcome.name)).toEqual(["one (akasha)"])
   })
 
   test("a run past its ceiling fails on the elapsed time, whatever every check found", async () => {
     const outcomes = await runChecks(
-      { one: { repos: ["instructions"], run: watcher("one", []) } },
+      { one: { repos: ["akasha"], run: watcher("one", []) } },
       hereViewOf,
       [],
       30_000,
       stepping([0, 45_000])
     )
-    expect(outcomes.map((outcome) => outcome.name)).toEqual(["one (instructions)", "checks-ceiling"])
+    expect(outcomes.map((outcome) => outcome.name)).toEqual(["one (akasha)", "checks-ceiling"])
     expect(outcomes[0]?.verdict).toBe("pass")
     expect(outcomes[1]?.verdict).toBe("fail")
     expect(outcomes[1]?.detail).toBe("45.0s against a 30s ceiling")
@@ -145,7 +145,7 @@ describe("the ceiling on a whole run", () => {
     await runChecks(
       {
         one: {
-          repos: ["instructions"],
+          repos: ["akasha"],
           run: (repo) => {
             seen.push(repo.deadlineAt)
             return { name: "one", verdict: "pass" as const, detail: "", messages: [], population: over(1, "document(s)") }
