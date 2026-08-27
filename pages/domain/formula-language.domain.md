@@ -17,3 +17,9 @@ required-reading-slugs:
 # Definition
 
 - **Formula language** — what a formula may say.
+
+# Intent
+
+A formula names a property by putting its key between braces.
+
+A reference inside a text literal is filled where it stands.
