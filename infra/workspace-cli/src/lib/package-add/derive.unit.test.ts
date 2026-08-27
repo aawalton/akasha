@@ -10,22 +10,16 @@ import {
 
 describe("derivePackageName", () => {
   it("derives @scope/name from a two-segment path", () => {
-    expect(derivePackageName("packages/stories/engine")).toBe("@stories/engine")
+    expect(derivePackageName("stories/engine")).toBe("@stories/engine")
   })
 
   it("joins nested segments with hyphens", () => {
-    expect(derivePackageName("packages/shared/pages/core")).toBe("@shared/pages-core")
-    expect(derivePackageName("packages/temper/game/trading/addon")).toBe(
-      "@temper/game-trading-addon"
-    )
-  })
-
-  it("throws on a path outside packages/", () => {
-    expect(() => derivePackageName("apps/foo")).toThrow()
+    expect(derivePackageName("lua-compiler/vendor/addons")).toBe("@lua-compiler/vendor-addons")
+    expect(derivePackageName("temper/game/trading/addon")).toBe("@temper/game-trading-addon")
   })
 
   it("throws on a scope-only path (no package segment)", () => {
-    expect(() => derivePackageName("packages/stories")).toThrow()
+    expect(() => derivePackageName("stories")).toThrow()
   })
 })
 
@@ -83,43 +77,39 @@ describe("buildClaudeMd", () => {
 
 describe("appendWorkspace", () => {
   it("appends the path to the end, preserving order", () => {
-    expect(appendWorkspace(["packages/a/b", "packages/c/d"], "packages/e/f")).toEqual([
-      "packages/a/b",
-      "packages/c/d",
-      "packages/e/f",
-    ])
+    expect(appendWorkspace(["a/b", "c/d"], "e/f")).toEqual(["a/b", "c/d", "e/f"])
   })
 
   it("does not mutate the input array", () => {
-    const input = ["packages/a/b"]
-    appendWorkspace(input, "packages/c/d")
-    expect(input).toEqual(["packages/a/b"])
+    const input = ["a/b"]
+    appendWorkspace(input, "c/d")
+    expect(input).toEqual(["a/b"])
   })
 
   it("throws if the path is already registered", () => {
-    expect(() => appendWorkspace(["packages/a/b"], "packages/a/b")).toThrow(/already registered/)
+    expect(() => appendWorkspace(["a/b"], "a/b")).toThrow(/already registered/)
   })
 })
 
 describe("decideAppendWorkspace", () => {
-  const workspaces = ["packages/shared/a", "packages/temper/addons/*", "packages/temper/addons/*/*"]
+  const workspaces = ["shared/a", "temper/addons/*", "temper/addons/*/*"]
 
   it("no-ops (no literal) when a /* glob already covers the new addon", () => {
-    expect(decideAppendWorkspace(workspaces, "packages/temper/addons/newaddon")).toEqual({
+    expect(decideAppendWorkspace(workspaces, "temper/addons/newaddon")).toEqual({
       workspaces,
       added: false,
     })
   })
 
   it("no-ops for a nested addon covered by /*/*", () => {
-    expect(decideAppendWorkspace(workspaces, "packages/temper/addons/characters/cli2").added).toBe(
+    expect(decideAppendWorkspace(workspaces, "temper/addons/characters/cli2").added).toBe(
       false
     )
   })
 
   it("appends a literal for a non-covered (non-addon) path", () => {
-    const result = decideAppendWorkspace(workspaces, "packages/shared/new")
+    const result = decideAppendWorkspace(workspaces, "shared/new")
     expect(result.added).toBe(true)
-    expect(result.workspaces).toEqual([...workspaces, "packages/shared/new"])
+    expect(result.workspaces).toEqual([...workspaces, "shared/new"])
   })
 })
