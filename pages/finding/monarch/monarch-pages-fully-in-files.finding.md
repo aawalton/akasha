@@ -8,7 +8,7 @@ domain-slug: domain/monarch
 
 # Claim
 
-"Every monarch page stands in a file" is now true and should leave Intent outright. All six monarch page types hold zero live rows, no live page-type row names any of them, and every population answers from files through the query path — 11,097 pages in total. The other three entries I did not measure. One is worth flagging rather than resolving: the split it describes, memory for what a schedule writes and instructions for what names it, matches where the six types sit.
+"Every monarch page stands in a file" is now true and should leave Intent outright. All six monarch page types hold zero live rows, no live page-type row names any of them, and every population answers from files through the query path — 11,097 pages in total. The other three entries I did not measure. One is worth flagging rather than resolving: the split it describes, memory for what a schedule writes and instructions for what names it, matches where the six types sit. That entry stands at `pages/domain/monarch.domain.md:31` and names two repositories that no longer exist, so it wants a ruling of its own rather than the same one.
 
 # Evidence
 
@@ -19,6 +19,8 @@ Rows: monarch-account, monarch-category, monarch-tag, monarch-holding, monarch-m
 Files, counted through the read path rather than off disk: monarch-account 31, monarch-category 54, monarch-tag 1, monarch-holding 3, monarch-month 62, monarch-transaction 10,946. Total 11,097.
 
 Where each stands: monarch-account at `instructions:domains/monarch-accounts/*.md`, monarch-category at `instructions:domains/monarch-categories/*.md`, monarch-tag at `instructions:domains/monarch-tags/*.md`, monarch-holding at `memory:monarch/holdings/*.md`, monarch-month at `memory:monarch/months/*.md`, and monarch-transaction at `files: none` — its 10,946 pages stand in `data: jsonl` sidecars beside the 62 months, declared by `properties/monarch-month-transactions.md`.
+
+Both those roots were absorbed into akasha, and the shape survived the move. Counted over tracked files on 2026-08-27: monarch-account 31, monarch-category 54, monarch-tag 2, monarch-holding 3, monarch-month 62, and monarch-transaction still no `.md` of its own — its pages stand in the 62 jsonl sidecars beside the months. The Intent entry this asks to remove is `pages/domain/monarch.domain.md:29`, still reading "Every monarch page stands in a file."
 
 That layout is what makes the third entry worth a second look: the three naming tables are in the instructions repo and the three the poller writes are in memory. I did not read the poller to confirm which it writes, so this is a shape that agrees with the entry rather than a measurement of it.
 
