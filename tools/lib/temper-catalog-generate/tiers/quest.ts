@@ -1,11 +1,10 @@
 
 import {
+  extractMinedQuestRows,
+  isFullyRead,
   type MinedExtractDiagnostics,
-  minedDataParse,
-  MINED_SAVED_VARIABLES,
-  type Tier,
-  type TierEmit,
-} from "../harness.ts"
+} from "@temper/scripts/mined-data-parse"
+import { MINED_SAVED_VARIABLES, type Tier, type TierEmit } from "../harness.ts"
 import { dataError } from "../../exit.ts"
 
 const QUEST_REPEAT_NOT_REPEATABLE = 0
@@ -43,13 +42,11 @@ function unreadableWarnings(
   ]
 }
 
-async function extractQuestData(accountWide: Record<string, unknown>): Promise<{
+function extractQuestData(accountWide: Record<string, unknown>): {
   zoneMap: Map<string, { questId: number; name: string }[]>
   diagnostics: MinedExtractDiagnostics
   fullyRead: boolean
-}> {
-  const { extractMinedQuestRows, isFullyRead } = await minedDataParse()
-
+} {
   const { rows, diagnostics } = extractMinedQuestRows(accountWide)
   const fullyRead = isFullyRead(diagnostics)
   if (rows.length === 0) {
@@ -134,8 +131,8 @@ export const tier: Tier = {
   savedVariables: MINED_SAVED_VARIABLES,
   outputPath: "packages/temper/player/completion/src/generated/quest-data.generated.ts",
   format: false,
-  emit: async (accountWide, apiVersion): Promise<TierEmit> => {
-    const { zoneMap, diagnostics, fullyRead } = await extractQuestData(accountWide)
+  emit: (accountWide, apiVersion): TierEmit => {
+    const { zoneMap, diagnostics, fullyRead } = extractQuestData(accountWide)
 
     return {
       content: generateDataFile(zoneMap, apiVersion),
