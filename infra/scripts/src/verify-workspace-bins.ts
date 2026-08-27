@@ -1,16 +1,8 @@
 #!/usr/bin/env bun
 import { existsSync, readdirSync } from "node:fs"
 import { join } from "node:path"
-import { codeModuleSync } from "../../../tools/lib/code-import.ts"
+import { expectedWorkspaceBinNames, findMissingBins } from "@shared/workspace-paths"
 import { codeRoot } from "../../../tools/lib/code-root.ts"
-
-const { expectedWorkspaceBinNames, findMissingBins } = codeModuleSync<{
-  expectedWorkspaceBinNames: (repoRoot: string) => readonly string[]
-  findMissingBins: (
-    expected: readonly string[],
-    present: ReadonlySet<string>
-  ) => readonly string[]
-}>("@shared/workspace-paths")
 
 function main(): never {
   const repoRoot = codeRoot()

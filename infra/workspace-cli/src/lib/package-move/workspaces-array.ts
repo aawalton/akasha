@@ -1,8 +1,4 @@
-import { codeModuleSync } from "../../../../../tools/lib/code-import.ts"
-
-const { isCoveredByWorkspaceGlob } = codeModuleSync<{
-  isCoveredByWorkspaceGlob: (workspaces: readonly string[], relPath: string) => boolean
-}>("@shared/workspace-paths")
+import { isCoveredByWorkspaceGlob } from "@shared/workspace-paths"
 
 export function computeWorkspacesAfterMove(
   workspaces: readonly string[],

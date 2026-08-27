@@ -1,9 +1,5 @@
-import { codeModuleSync } from "../../../../../tools/lib/code-import.ts"
+import { isCoveredByWorkspaceGlob } from "@shared/workspace-paths"
 import { expectedPackageName } from "../../../../cluster-checks/src/checks/check-package-names.ts"
-
-const { isCoveredByWorkspaceGlob } = codeModuleSync<{
-  isCoveredByWorkspaceGlob: (workspaces: readonly string[], relPath: string) => boolean
-}>("@shared/workspace-paths")
 
 export const FUNCTIONAL_TYPES = [
   "pure",
