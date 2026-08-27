@@ -1,11 +1,9 @@
 ---
 id: 50bd1069-098f-5eeb-be75-5b1108edd857
 page-type-slug: page-type
-title: "Mp check"
+title: "Check"
 extends-slug: page
-files:
-  - akasha:**/*.mp-check.md
-  - akasha:**/*.check.md
+files: akasha:**/*.check.md
 body-shape-slug: domain
 code-loaded-by: akasha:checks/checks.ts
 slug: check
@@ -18,7 +16,7 @@ sequence-slugs:
 
 # Definition
 
-- **Mp check** — code run to check a domain invariant.
+- **Check** — code run to check a domain invariant.
 
 # Design
 

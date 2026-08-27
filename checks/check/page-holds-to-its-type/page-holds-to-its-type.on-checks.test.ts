@@ -5,12 +5,12 @@ import pageHoldsToItsType from "./page-holds-to-its-type.ts"
 
 const ROOT = akashaRoot()
 
-const AT = "checks/check/trial/trial.mp-check.md"
+const AT = "checks/check/trial/trial.check.md"
 
 const stating = (keys: readonly string[], definition: string): string =>
-  `---\n${["page-type-slug: mp-check", 'title: "Trial"', "slug: trial", "needs: tree", ...keys].join("\n")}\n---\n\n# Definition\n\n- **Trial** — ${definition}\n`
+  `---\n${["page-type-slug: check", 'title: "Trial"', "slug: trial", "needs: tree", ...keys].join("\n")}\n---\n\n# Definition\n\n- **Trial** — ${definition}\n`
 
-const HELD = stating([], "a page a test writes, held to the shape `mp-check` states.")
+const HELD = stating([], "a page a test writes, held to the shape `check` states.")
 
 const OVER = "a page a test writes, over what the shape bounds. ".repeat(4).trim()
 

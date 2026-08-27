@@ -11,4 +11,4 @@ domain-parent-slug: page-type/check
 
 # Definition
 
-- **Mp check needs** — how far a check reaches for what it judges: the path, the body, or the tree around it.
+- **Check needs** — how far a check reaches for what it judges: the path, the body, or the tree around it.

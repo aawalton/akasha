@@ -12,4 +12,4 @@ domain-parent-slug: page-type/check
 
 # Definition
 
-- **Mp check on worktree** — whether a check runs on a worktree before it merges.
+- **Check on worktree** — whether a check runs on a worktree before it merges.

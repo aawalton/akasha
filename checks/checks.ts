@@ -7,7 +7,7 @@ import type { PageAt } from "../page/page.ts"
 import { AKASHA, akashaRoot } from "../repo/roots/roots.ts"
 import type { Check } from "./check/check-shape.ts"
 
-const PAGE_TYPE = "mp-check"
+const PAGE_TYPE = "check"
 
 const ON_PATCH = "check-on-patch"
 

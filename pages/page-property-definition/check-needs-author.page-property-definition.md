@@ -11,4 +11,4 @@ domain-parent-slug: page-type/check
 
 # Definition
 
-- **Mp check needs author** — whether a check judges who is writing rather than what is written.
+- **Check needs author** — whether a check judges who is writing rather than what is written.

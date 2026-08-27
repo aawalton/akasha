@@ -12,4 +12,4 @@ domain-parent-slug: page-type/check
 
 # Definition
 
-- **Mp check on patch** — whether a check runs on a change described and not yet made.
+- **Check on patch** — whether a check runs on a change described and not yet made.

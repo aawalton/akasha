@@ -12,4 +12,4 @@ domain-parent-slug: page-type/check
 
 # Definition
 
-- **Mp check cached** — whether a check's verdict is kept for next time rather than worked out again.
+- **Check cached** — whether a check's verdict is kept for next time rather than worked out again.
