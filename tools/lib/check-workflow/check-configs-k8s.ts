@@ -1,23 +1,7 @@
-import { IMAGES } from "../workflow-dsl/images"
 import { type CheckConfig, treeShaArgs } from "./check-configs-types"
 import { WORKFLOW_DSL_POPULATION, WORKFLOW_SURFACE_POPULATION } from "./check-configs-types.ts"
 
 export const K8S_CHECKS: CheckConfig[] = [
-  {
-    name: "prometheus-rules",
-    image: IMAGES.BUN,
-    closurePolicy: "import-graph",
-    dispatchNodes: ["ts-file:instructions:infra/cluster-checks/src/checks/check-prometheus-rules.ts"],
-    script: "infra/cluster-checks/src/checks/check-prometheus-rules.ts",
-  },
-  {
-    name: "alert-expr-epoch-literals",
-    closurePolicy: "import-graph",
-    dispatchNodes: [
-      "ts-file:instructions:infra/cluster-checks/src/checks/check-alert-expr-epoch-literals.ts",
-    ],
-    script: "infra/cluster-checks/src/checks/check-alert-expr-epoch-literals.ts",
-  },
   {
     name: "k8s-node-selector",
     dispatchNodeTypes: ["yaml-file", "yml-file", "ts-file", "tsx-file"],
