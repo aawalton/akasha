@@ -79,7 +79,16 @@ export function indexFixture(at: Fixture): void {
 
 const COMMANDS = "ops-cli"
 
-function installCommands(at: Fixture): void {
+/**
+ * The command pages a spawned `ops` finds under this temp root, their code linked to the live one.
+ *
+ * EXPORTED BECAUSE A TEST NEEDS THESE WITHOUT NEEDING AN INDEX. Every tool spawned against a temp
+ * `AKASHA_ROOT` reaches `ops` through `tools/lib/tool-argv.ts`, and the dispatcher globs its
+ * commands under that same root — so a root without these answers `Usage: ops <command>` and
+ * `ops: unknown command` whatever the test was actually checking. See `indexFixture` above for why
+ * the pages are copied and only their `*.attachment.ts` is linked.
+ */
+export function installCommands(at: Fixture): void {
   if (existsSync(`${at.root}/${COMMANDS}`)) return
   cpSync(`${LIVE}/${COMMANDS}`, `${at.root}/${COMMANDS}`, { recursive: true })
   for (const rel of new Bun.Glob(`**/*.attachment.ts`).scanSync({ cwd: `${LIVE}/${COMMANDS}` })) {
