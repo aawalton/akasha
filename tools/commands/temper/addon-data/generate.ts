@@ -16,14 +16,14 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout to read game data from and write the generated files into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout to read game data from and write the generated files into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [{ code: 2, meaning: "the emitted data no longer matches the hand-written equipment mappings" }],
   examples: [
-    "ops temper addon-data generate --code-root ~/repos/code",
-    "CODE_ROOT=~/repos/code ops temper addon-data generate",
+    "ops temper addon-data generate --code-root ~/repos/akasha",
+    "CODE_ROOT=~/repos/akasha ops temper addon-data generate",
   ],
 }
 

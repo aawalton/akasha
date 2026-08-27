@@ -1,5 +1,5 @@
 
-export const summary = "Port an upstream ESO library's data into the files the code repo's package carries"
+export const summary = "Port an upstream ESO library's data into the files this repository's package carries"
 
 import { realpathSync } from "node:fs"
 import { codeRoot } from "../../../lib/code-root.ts"
@@ -26,13 +26,13 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout to write the ported files into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout to write the ported files into. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   examples: [
-    "ops temper upstream-data port lib-zone --code-root ~/repos/code",
-    "CODE_ROOT=~/repos/code ops temper upstream-data port housing",
+    "ops temper upstream-data port lib-zone --code-root ~/repos/akasha",
+    "CODE_ROOT=~/repos/akasha ops temper upstream-data port housing",
   ],
 }
 

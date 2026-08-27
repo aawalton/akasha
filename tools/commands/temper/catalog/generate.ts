@@ -22,7 +22,7 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout to read the schemas from and write the generated file into. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout to read the schemas from and write the generated file into. Defaults to $CODE_ROOT, else this repository.",
     },
     {
       name: "--file",
@@ -33,12 +33,12 @@ export const help: CommandHelp = {
         "The SavedVariables file to read. Defaults to the tier's file in the workstation's live ESO install.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [
     { code: 2, meaning: "the tier's catalog is not in the capture, or the capture has no apiVersion" },
   ],
   examples: [
-    "ops temper catalog generate collectibles --code-root ~/repos/code",
+    "ops temper catalog generate collectibles --code-root ~/repos/akasha",
     "ops temper catalog generate quest --file /var/tmp/TemperDataMining.lua",
   ],
   epilog: async (): Promise<string> => {

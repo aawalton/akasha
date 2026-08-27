@@ -27,14 +27,14 @@ export const help: CommandHelp = {
       valueShape: "token",
       path: true,
       description:
-        "The code checkout holding the ported files. Defaults to CODE_ROOT, or the sibling `code`.",
+        "The checkout holding the ported files. Defaults to $CODE_ROOT, else this repository.",
     },
   ],
-  envVars: [{ name: "CODE_ROOT", description: "The code checkout, when --code-root is absent." }],
+  envVars: [{ name: "CODE_ROOT", description: "The checkout to work in, when --code-root is absent." }],
   exits: [{ code: 2, meaning: "the ported data no longer matches upstream" }],
   examples: [
-    "ops temper upstream-data verify lib-zone --code-root ~/repos/code",
-    "CODE_ROOT=~/repos/code ops temper upstream-data verify lib-treasure",
+    "ops temper upstream-data verify lib-zone --code-root ~/repos/akasha",
+    "CODE_ROOT=~/repos/akasha ops temper upstream-data verify lib-treasure",
   ],
 }
 
