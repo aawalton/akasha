@@ -111,7 +111,7 @@ function main(): undefined {
   if (slugs.length === 0) fail("name at least one `ios-widget` slug")
 
   const roots = resolveRoots()
-  const codeRoot = stated ?? join(roots.instructions, "..", "code")
+  const codeRoot = stated ?? join(roots.akasha, "..", "code")
   const diffing = argv.includes("--diff")
   const writing = argv.includes("--write")
   let differed = false
@@ -120,7 +120,7 @@ function main(): undefined {
     let resolved: ResolvedWidget
     let swift: string
     try {
-      resolved = resolveWidget(roots.instructions, slug)
+      resolved = resolveWidget(roots.akasha, slug)
       swift = ringWidgetSwift(resolved)
     } catch (err) {
       fail(err instanceof Error ? err.message : String(err))

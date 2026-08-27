@@ -177,7 +177,7 @@ if (import.meta.main) {
     process.stdout.write(HELP)
     process.exit(0)
   }
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const request = parseRequest(await Bun.stdin.text())
   process.stdout.write(
     answer(request, (relPath) => {

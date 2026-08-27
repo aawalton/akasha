@@ -67,10 +67,10 @@ export function seatPageBody(
     `id: ${agent}`,
     `title: "${seatName}"`,
     ...(persona === null ? [] : [`persona-slug: ${persona}`]),
-    `domain-slug: ${domainAddress(domain, roots.instructions)}`,
+    `domain-slug: ${domainAddress(domain, roots.akasha)}`,
     `role-slug: ${role}`,
   ]
-  const person = personPrincipals(roots.instructions).includes(principal)
+  const person = personPrincipals(roots.akasha).includes(principal)
   if (person) lines.push(`person-slug: ${principal}`)
   else {
     const above = parentName ?? principalSeatNameOf(agent)

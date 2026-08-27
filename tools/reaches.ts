@@ -100,7 +100,7 @@ function main(): void {
     if (one !== "--json") refuse(`\`${one}\` is not an argument this takes — run it with --help`)
   }
 
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const found = codeReaches(root)
   if (found.scanned === 0) {
     refuse(`${root} holds no TypeScript to read, so this reached no population`)

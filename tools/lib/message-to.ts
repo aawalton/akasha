@@ -69,7 +69,7 @@ export function names(stated: Stated): string {
 }
 
 export function undeclared(stated: Stated): string | null {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const found = scan(root)
 
   if (stated.kind === "domain" && "refusal" in resolveSlot("domain", stated.domain, root, found)) {

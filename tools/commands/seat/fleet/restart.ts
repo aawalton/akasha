@@ -28,7 +28,7 @@ export const help: CommandHelp = {
 
 function settingsSettledAtMs(): number | null {
   const proc = Bun.spawnSync(["git", "log", "-1", "--format=%ct", "--", SETTINGS], {
-    cwd: resolveRoots().instructions,
+    cwd: resolveRoots().akasha,
     stdout: "pipe",
     stderr: "ignore",
   })

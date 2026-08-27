@@ -16,7 +16,7 @@ import {
 } from "./surface"
 
 const instructionsRoot = (): string => {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   if (root === undefined) {
     throw new Error(
       "`resolveRoots()` names no `instructions` root, so the workflow pages a surface is " +

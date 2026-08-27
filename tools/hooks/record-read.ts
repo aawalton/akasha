@@ -28,7 +28,7 @@ async function main(): Promise<void> {
 
   const resolved = canonicalize(filePath)
   const roots = resolveRoots()
-  if (!isInside(roots.instructions, resolved) && !isInside(roots.memory, resolved)) return
+  if (!isInside(roots.akasha, resolved) && !isInside(roots.memory, resolved)) return
 
   try {
     const bytes = readFileSync(resolved)

@@ -74,7 +74,7 @@ export function whereRowsStand(
 
 function unresolvedHome(roots: Roots, error: RowsHomeUnresolved): Written {
   return {
-    root: roots.instructions,
+    root: roots.akasha,
     repo: "instructions",
     relPath: "",
     path: "",

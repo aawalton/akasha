@@ -57,7 +57,7 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
 
   const stated = input.statedIdentity ?? {}
   const principal = input.principal ?? FLEET
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const answering = refuseAnswering(root, {
     persona: stated.persona ?? null,
     principal,

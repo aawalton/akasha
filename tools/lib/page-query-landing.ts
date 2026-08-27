@@ -136,7 +136,7 @@ async function writing(
       }
     }
   }
-  const reached = await reaching(roots.instructions, act, pageType, name, values)
+  const reached = await reaching(roots.akasha, act, pageType, name, values)
   stage("reach")
   if (reached.kind === "refused") {
     return said({ error: reached.reason, pageType, name }, reached.status)

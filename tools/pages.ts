@@ -91,7 +91,7 @@ function reaching(roots: Roots): (kind: string | null, target: string) => boolea
 }
 
 function readPageTypeRows(roots: Roots): PageTypeRows {
-  const root = roots.instructions
+  const root = roots.akasha
   const reaches = reaching(roots)
   const candidates: PageTypeCandidate[] = []
   const properties: PropertyRow[] = []
@@ -163,7 +163,7 @@ function main(): void {
   const tree = pageTree(typeRows)
 
   if (argv.includes("--json")) {
-    process.stdout.write(`${JSON.stringify(treeRecord(tree, roots.instructions), null, 2)}\n`)
+    process.stdout.write(`${JSON.stringify(treeRecord(tree, roots.akasha), null, 2)}\n`)
     return
   }
   if (argv.includes("--counts")) {

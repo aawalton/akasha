@@ -20,7 +20,7 @@ export function addressPerson(person: string, inboxSlug: string): Addressed {
     }
   }
 
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const found = scan(root)
   const at = resolveSlot("domain", wanted, root, found)
   if ("refusal" in at) {

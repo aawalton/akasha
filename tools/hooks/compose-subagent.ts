@@ -42,7 +42,7 @@ async function main(): Promise<void> {
   const agent = recordingAgentId(fields)
   if (agent === null || agent === hookAgentId(fields)) return
 
-  const notice = noticeFor(agent, resolveRoots().instructions)
+  const notice = noticeFor(agent, resolveRoots().akasha)
   if (notice === null) return
   process.stdout.write(
     JSON.stringify({

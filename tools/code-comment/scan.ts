@@ -172,7 +172,7 @@ function run(argv: readonly string[]): void {
   }
   const repo: Tree = named0
   const roots = resolveRoots()
-  const root = repo === "code" ? roots.code : roots.instructions
+  const root = repo === "code" ? roots.code : roots.akasha
   const wanted = flag(argv, "--class") as Klass | null
   if (wanted !== null && !CLASSES.includes(wanted)) {
     process.stderr.write(`error: --class takes one of ${CLASSES.join(", ")}\n`)

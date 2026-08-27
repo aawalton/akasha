@@ -19,7 +19,7 @@ const OPS_BIN = "dotfiles/bin"
 function reachingOps(
   env: Record<string, string | undefined>
 ): Record<string, string | undefined> {
-  const dir = `${resolveRoots().instructions}/${OPS_BIN}`
+  const dir = `${resolveRoots().akasha}/${OPS_BIN}`
   const path = env.PATH ?? ""
   return path.split(":").includes(dir) ? env : { ...env, PATH: `${dir}:${path}` }
 }
@@ -88,7 +88,7 @@ export function readStartedSeat(stdout: string): StartedSeat | null {
 }
 
 export function answersToAPerson(domain: string, role: string): boolean {
-  return handlerDerives(resolveRoots().instructions, role, domain).principal !== null
+  return handlerDerives(resolveRoots().akasha, role, domain).principal !== null
 }
 
 export async function startSeat(

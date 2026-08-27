@@ -33,14 +33,14 @@ function judge(fields: Record<string, unknown>): void {
   )
 
   const roots = resolveRoots()
-  if (isInside(roots.instructions, absolute)) return
+  if (isInside(roots.akasha, absolute)) return
   const checkout = codeCheckoutOf(absolute, roots.code)
   if (checkout === null || absolute === checkout) return
 
   const standing = standingOn({
     relPath: absolute.slice(checkout.length + 1),
     repo: "code",
-    root: roots.instructions,
+    root: roots.akasha,
     agent: recordingAgentId(fields),
   })
   if (refuses(standing)) return deny(standing.refusals.join("\n\n"))

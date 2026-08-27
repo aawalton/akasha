@@ -46,7 +46,7 @@ export const sourcedShellFilesInCommands = (
 }
 
 export const listSourcedShellFiles = async (repoRoot: string): Promise<readonly string[]> => {
-  const instructionsRoot = resolveRoots().instructions
+  const instructionsRoot = resolveRoots().akasha
   if (instructionsRoot === undefined) {
     throw new Error(
       "`resolveRoots()` names no `instructions` root, so the workflows whose commands source " +

@@ -112,7 +112,7 @@ export function kindsIn(kinds: readonly Kind[]): Readonly<Record<string, Definit
 
 function main(): void {
   const { out } = parse(process.argv.slice(2))
-  const folder = `${resolveRoots().instructions}/${FOLDER}`
+  const folder = `${resolveRoots().akasha}/${FOLDER}`
   if (!existsSync(folder)) fail(`${folder} is not there, so there is no kind to render`)
   const kinds = readdirSync(folder)
     .filter((name) => name.endsWith(".md"))

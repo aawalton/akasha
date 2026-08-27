@@ -61,7 +61,7 @@ interface CommandAnswer {
 }
 
 async function runCompose(): Promise<CommandAnswer> {
-  const verb = `${resolveRoots().instructions}/${COMPOSE_RELPATH}`
+  const verb = `${resolveRoots().akasha}/${COMPOSE_RELPATH}`
   if (!existsSync(verb)) {
     throw new Error(`${verb} is not there, so there is no notice to compose`)
   }

@@ -25,7 +25,7 @@ export function resolveCall(stated: StatedIdentity): SeatCall | null {
 export async function resolveStatedIdentity(stated: StatedIdentity): Promise<string | null> {
   const call = resolveCall(stated)
   if (call === null) return null
-  const entry = seatCallIn(resolveRoots().instructions)
+  const entry = seatCallIn(resolveRoots().akasha)
   if (entry === null) {
     return (
       `an identity was stated, and ${SEAT_COMMAND_REL} is what checks a slug against ` +

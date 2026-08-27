@@ -21,7 +21,7 @@ function akashaInvocationOf(entryPath: string): OpsInvocation | null {
   const path = akashaPathFor(page)
   if (path === null) return null
   try {
-    return { root: resolveRoots().instructions, path }
+    return { root: resolveRoots().akasha, path }
   } catch {
     return null
   }

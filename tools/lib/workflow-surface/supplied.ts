@@ -72,7 +72,7 @@ export const suppliedSurface = async (args: {
       root: null,
     }
   }
-  const root = args.root === undefined ? resolveRoots().instructions : resolve(args.root)
+  const root = args.root === undefined ? resolveRoots().akasha : resolve(args.root)
   const surface = await buildWorkflowSurface(root, { codeRoot: codeRoot() })
   return { surface, from: `the workflow-template pages under ${root}`, root }
 }

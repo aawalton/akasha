@@ -58,7 +58,7 @@ function judge(fields: Record<string, unknown>): void {
   )
 
   const roots = resolveRoots()
-  if (isInside(roots.instructions, absolute)) return
+  if (isInside(roots.akasha, absolute)) return
   const checkout = codeCheckoutOf(absolute, roots.code)
   if (checkout === null || absolute === checkout) return
 

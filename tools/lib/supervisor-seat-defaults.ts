@@ -81,7 +81,7 @@ export function parseDefaultLines(stdout: string): Readonly<Record<string, strin
 }
 
 export async function declaredDefaults(): Promise<Readonly<Record<string, string>>> {
-  const entry = seatCallIn(resolveRoots().instructions)
+  const entry = seatCallIn(resolveRoots().akasha)
   if (entry === null) return {}
   const outcome = await callSeatAt(entry, { resolve: true, default: true })
   if (outcome.code !== 0) return {}
@@ -97,7 +97,7 @@ export function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
   if (!onCallOf(agentId)) return false
   if (recordedModeOf(agentId) === null) return false
   const held = attributesOf(agentId)
-  return defaultSlots(resolveRoots().instructions).every((slot) => held[slot] !== undefined)
+  return defaultSlots(resolveRoots().akasha).every((slot) => held[slot] !== undefined)
 }
 
 export async function stateSeatDefaults(opts: {
@@ -105,7 +105,7 @@ export async function stateSeatDefaults(opts: {
   readonly mode: SeatMode
 }): Promise<void> {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
-  const entry = seatCallIn(resolveRoots().instructions)
+  const entry = seatCallIn(resolveRoots().akasha)
   if (entry === null) return
   try {
     await callSeatAt(entry, defaultSeatCall(opts.agentId, opts.mode))

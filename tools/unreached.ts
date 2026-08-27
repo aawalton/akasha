@@ -117,12 +117,12 @@ function citedBy(
   bySlug: ReadonlyMap<string, string>
 ): ReadonlySet<string> {
   const found = new Set<string>()
-  const fromDir = `${roots.instructions}/${relPath.split("/").slice(0, -1).join("/")}`
+  const fromDir = `${roots.akasha}/${relPath.split("/").slice(0, -1).join("/")}`
   for (const link of extractLinks(body)) {
     const target = link.href.trim().split("#")[0]?.split("?")[0] ?? ""
     if (target === "" || /^[a-z][a-z0-9+.-]*:/i.test(target)) continue
     const absolute = target.startsWith("/") ? normalizeAbsolute(target) : normalizeAbsolute(`${fromDir}/${target}`)
-    const inside = absolute.startsWith(`${roots.instructions}/`) ? absolute.slice(roots.instructions.length + 1) : null
+    const inside = absolute.startsWith(`${roots.akasha}/`) ? absolute.slice(roots.akasha.length + 1) : null
     const hit = inside === null ? undefined : byPath.get(inside)
     if (hit !== undefined) found.add(hit)
   }
@@ -151,8 +151,8 @@ function main(): void {
   }
 
   const roots = resolveRoots()
-  const subjects = subjectsIn(roots.instructions)
-  if (subjects.length === 0) refuse(`${roots.instructions} holds no quarantined markdown`)
+  const subjects = subjectsIn(roots.akasha)
+  if (subjects.length === 0) refuse(`${roots.akasha} holds no quarantined markdown`)
 
   const byPath = new Map<string, string>()
   const bySlug = new Map<string, string>()
@@ -169,9 +169,9 @@ function main(): void {
     else citers.push(citer)
   }
 
-  for (const relPath of tracked(roots.instructions, roots.instructions)) {
+  for (const relPath of tracked(roots.akasha, roots.akasha)) {
     if (!relPath.endsWith(".md") || isDirty(relPath)) continue
-    const body = readable(`${roots.instructions}/${relPath}`)
+    const body = readable(`${roots.akasha}/${relPath}`)
     for (const subject of citedBy(body, relPath, roots, byPath, bySlug)) note(subject, relPath)
   }
 

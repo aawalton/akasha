@@ -170,7 +170,7 @@ export default async function checkPagesUiStoreSidecarMemory(args: readonly stri
   const parsed = parseArgs(help, args)
   const roots = resolveRoots()
   const codeRoot = resolve(parsed.string("--code-root") ?? roots.code)
-  const instructionsRoot = resolve(parsed.string("--instructions-root") ?? roots.instructions)
+  const instructionsRoot = resolve(parsed.string("--instructions-root") ?? roots.akasha)
 
   let workspaces: readonly WorkspaceInfo[]
   try {

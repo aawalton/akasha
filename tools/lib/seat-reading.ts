@@ -17,7 +17,7 @@ import { sectionNamed, trimEdges } from "./section.ts"
 export const CONDITIONAL_READING_KEY = "conditional-reading-slugs"
 
 export function seatDocuments(agent: string, roots: Roots): readonly SeatDocument[] {
-  const root = roots.instructions
+  const root = roots.akasha
   const documents = documentsOnDemand(root)
   const inherited = subagentStated(agent, root)
   const attributes = inherited ?? attributesOf(agent)

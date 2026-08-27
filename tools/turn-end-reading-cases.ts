@@ -138,7 +138,7 @@ async function main(argv: readonly string[]): Promise<number> {
     process.stderr.write(`refused: --model must be one of ${LOGICAL_MODELS.join(", ")}\n`)
     return 1
   }
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const cases = keptCases(root, valuesOf(argv, "--case"))
   if (cases.length === 0) {
     process.stderr.write(`refused: no case to replay under ${root}/${CASES_PATH}\n`)

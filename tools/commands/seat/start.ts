@@ -66,7 +66,7 @@ export default async function seatStart(args: readonly string[]): Promise<void> 
   }
   const headless = startMode === SEAT_MODE_HEADLESS
 
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const stated: { -readonly [K in keyof StatedAgentSlots]: StatedAgentSlots[K] } = {}
   for (const slot of ["persona", "role", "domain"] as const) {
     const value = parsed.string(`--${slot}`)?.trim()

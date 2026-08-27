@@ -64,7 +64,7 @@ export const help: CommandHelp = {
 
 function legacyInstalled(): readonly string[] {
   const dir = systemdDir()
-  const legacy = `${realpathSync(resolveRoots().instructions)}/tools/`
+  const legacy = `${realpathSync(resolveRoots().akasha)}/tools/`
   let names: readonly string[]
   try {
     names = readdirSync(dir)

@@ -25,7 +25,7 @@ export type DomainOwnerReader = (domain: string) => DomainOwnerWalk
 
 export function walkDomainOwner(
   domain: string,
-  root: string = resolveRoots().instructions
+  root: string = resolveRoots().akasha
 ): DomainOwnerWalk {
   const found = scan(root)
   const at = found.slugs.get(domain.trim())
@@ -54,7 +54,7 @@ export type AlertRequirementReader = () => readonly AlertRequirementRow[]
 const ALERT_PAGE_TYPE = "alert"
 
 export function readAlertRequirements(
-  root: string = resolveRoots().instructions
+  root: string = resolveRoots().akasha
 ): readonly AlertRequirementRow[] {
   const found = scan(root)
   const rows: AlertRequirementRow[] = []

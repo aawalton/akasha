@@ -122,7 +122,7 @@ export function writeTsconfig(dir: string, typeRoot: string, exclude: readonly s
 }
 
 export function linkModules(dir: string): void {
-  link(`${resolveRoots().instructions}/${VENDOR_ROOT}`, `${dir}/${VENDOR_ROOT}`)
+  link(`${resolveRoots().akasha}/${VENDOR_ROOT}`, `${dir}/${VENDOR_ROOT}`)
 }
 
 export interface TscRun {
@@ -171,7 +171,7 @@ export function reported(
   errors: readonly Diagnostic[],
   ceiling: number
 ): readonly string[] {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const lines = errors
     .slice(0, ceiling)
     .map((e) =>

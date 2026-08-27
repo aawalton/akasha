@@ -10,9 +10,9 @@ function personaDirs(): readonly string[] {
   const wherever = [`$_root/${placeDirOf(PERSONA)}`]
   try {
     const roots = resolveRoots()
-    const reading = readSubject(roots.instructions, "personas")
+    const reading = readSubject(roots.akasha, "personas")
     const under =
-      reading.root === roots.instructions ? "$_root" : `$_root/../${basename(reading.root)}`
+      reading.root === roots.akasha ? "$_root" : `$_root/../${basename(reading.root)}`
     const held = new Set(reading.records.map((one) => `${under}/${dirname(one.path)}`))
     return [...held, ...wherever]
   } catch {

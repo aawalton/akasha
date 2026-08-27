@@ -9,7 +9,7 @@ const UNRESOLVED = 3
 
 const WINDOW = 44
 
-const repoRoot = (): string => resolveRoots().instructions
+const repoRoot = (): string => resolveRoots().akasha
 
 function whereAt(position: string): string {
   if (position === "unquoted")

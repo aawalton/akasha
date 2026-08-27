@@ -24,7 +24,7 @@ export const SUPERVISOR_DECIDE_COMMAND = "supervisor-decide"
 export const SUPERVISOR_DECIDE_CEILING_MS = 5_000
 
 export function askSupervisorDecide(stdin: string): Promise<unknown> {
-  return askCommandAt(`${resolveRoots().instructions}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`, stdin)
+  return askCommandAt(`${resolveRoots().akasha}/tools/${SUPERVISOR_DECIDE_COMMAND}.ts`, stdin)
 }
 
 async function askCommandAt(entry: string, stdin: string): Promise<unknown> {

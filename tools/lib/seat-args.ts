@@ -65,7 +65,7 @@ export function parseArgs(argv: readonly string[]): Args {
     else if (arg === "--take-live-name") takeLiveName = true
     else if (arg === "--principal") {
       const named = value()
-      const allowed = principals(resolveRoots().instructions)
+      const allowed = principals(resolveRoots().akasha)
       if (!allowed.includes(named)) fail(`\`${named}\` is no principal — one of: ${allowed.join(", ")}`)
       principal = named
     } else if (arg === "--clear") {

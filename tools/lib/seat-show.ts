@@ -91,7 +91,7 @@ function linesOf(stated: Stated): readonly string[] {
 export function describe(attributes: Attributes, task: TaskRecord | null): readonly string[] {
   const lines: string[] = []
   const roots = resolveRoots()
-  const root = roots.instructions
+  const root = roots.akasha
   const documents = documentsOnDemand(root)
   const stated = {
     attributes,

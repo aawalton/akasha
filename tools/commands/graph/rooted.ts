@@ -157,7 +157,7 @@ function codeAtRev(rev: string): Measured {
 }
 
 function instructionsStanding(): Standing {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const head = git(root, ["rev-parse", "HEAD"])
   const standing = git(root, ["status", "--porcelain"])
   return {

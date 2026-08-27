@@ -49,7 +49,7 @@ export function judge(fields: Record<string, unknown>): Decision {
   if (permitted(tool)) return null
   if (clearsTheHold(tool, commandOf(fields))) return null
 
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const standing = seatStanding({ agent: recordingAgentId(fields), root })
   const stopping = [...standing.refusals, ...standing.notices]
   if (stopping.length > 0) {

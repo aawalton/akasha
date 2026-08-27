@@ -107,7 +107,7 @@ function codeSources(ctx: BuildContext): readonly SourceFile[] {
 }
 
 function instructionsSources(): readonly SourceFile[] {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const paths = findFiles({ cwd: root, patterns: SOURCE_PATTERNS, absolute: false }).filter(
     (path) => path.split("/")[0] !== QUARANTINE_ROOT
   )

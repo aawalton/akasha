@@ -128,7 +128,7 @@ export default async function seatReset(args: readonly string[]): Promise<void> 
       flex: kept.flex,
       principal: kept.principal,
     },
-    roots.instructions
+    roots.akasha
   )
   if (name === null) {
     throw dataError(

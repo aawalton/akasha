@@ -70,7 +70,7 @@ export function noticesIn(body: string): Readonly<Record<string, string>> {
 }
 
 export function notices(): Readonly<Record<string, string>> {
-  const absolute = `${resolveRoots().instructions}/${DOCUMENT}`
+  const absolute = `${resolveRoots().akasha}/${DOCUMENT}`
   if (!existsSync(absolute)) {
     fail(`${absolute} is not there, so there is no notice to render`)
   }

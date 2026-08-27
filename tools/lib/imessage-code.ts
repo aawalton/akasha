@@ -5,7 +5,7 @@ const PACKAGE = "@alanwalton/imessage"
 export class ImessageImportError extends Error {}
 
 function imessageRoot(): string {
-  return process.env.OPS_IMESSAGE_ROOT ?? resolveRoots().instructions
+  return process.env.OPS_IMESSAGE_ROOT ?? resolveRoots().akasha
 }
 
 async function imessageModule<T>(subpath: string): Promise<T> {

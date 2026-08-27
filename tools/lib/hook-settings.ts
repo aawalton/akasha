@@ -33,8 +33,8 @@ export function repoRelative(token: string, roots: Roots): string | null {
     const under = tail.startsWith(REPOS_DIR) ? tail.slice(REPOS_DIR.length) : tail
     return under.startsWith("instructions/") ? under.slice("instructions/".length) : null
   }
-  if (!token.startsWith("/") || !isInside(roots.instructions, token)) return null
-  const root = canonicalize(roots.instructions)
+  if (!token.startsWith("/") || !isInside(roots.akasha, token)) return null
+  const root = canonicalize(roots.akasha)
   const resolved = canonicalize(token)
   return resolved === root ? null : resolved.slice(root.length + 1)
 }

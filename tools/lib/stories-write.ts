@@ -61,7 +61,7 @@ export function writeStoryFiles(files: readonly StoryFile[], message: string): S
           "--message",
           message,
         ],
-        roots.instructions
+        roots.akasha
       ),
     ],
     { cwd: roots.stories, stdout: "pipe", stderr: "pipe" }

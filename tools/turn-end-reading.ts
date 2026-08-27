@@ -94,7 +94,7 @@ async function main(argv: readonly string[]): Promise<number> {
     return refuse(`--timeout-ms: not a positive number of milliseconds: "${patience}"`)
 
   const reading = await readingFor({
-    root: resolveRoots().instructions,
+    root: resolveRoots().akasha,
     transcript,
     model: model as LogicalModel,
     timeoutMs,

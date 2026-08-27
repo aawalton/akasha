@@ -70,7 +70,7 @@ export default async function auditCodeComments(args: readonly string[]): Promis
 
   const repoRootFlag = parsed.string("--repo-root")
   const repoRoot = repoRootFlag === undefined ? codeRoot() : resolve(repoRootFlag)
-  const instructionsRoot = resolveRoots().instructions
+  const instructionsRoot = resolveRoots().akasha
 
   let trackedFiles: readonly string[]
   try {

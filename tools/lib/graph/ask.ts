@@ -138,7 +138,7 @@ const spellIdentity = (identity: AskedIdentity): string =>
     .join(" ")
 
 export const askGraph = async (commit: string, fetcher: Fetcher = fetch): Promise<Asked<Graph>> => {
-  const origin = graphOrigin(resolveRoots().instructions)
+  const origin = graphOrigin(resolveRoots().akasha)
   let torn = ""
   for (let attempt = 0; attempt < ASK_ATTEMPTS; attempt += 1) {
     const nodes = await askNodes(origin, commit, fetcher)

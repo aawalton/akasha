@@ -72,7 +72,7 @@ function storeEmptyDir(store: StoreVariant): EmptyDirMemory | Record<string, nev
 }
 
 function instructionsCommit(): string {
-  const root = resolveRoots().instructions
+  const root = resolveRoots().akasha
   const said = git(root, ["rev-parse", "HEAD"])
   if (said.code !== 0) {
     throw new Error(

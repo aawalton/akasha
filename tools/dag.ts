@@ -132,7 +132,7 @@ function main(): void {
     process.exit(1)
   }
 
-  const domains = domainsIn(resolveRoots().instructions)
+  const domains = domainsIn(resolveRoots().akasha)
   const unknown = [...rooted, ...above].filter((slug) => !domains.has(slug))
   if (unknown.length > 0) {
     process.stderr.write(`error: no document declares ${unknown.join(", ")}\n`)

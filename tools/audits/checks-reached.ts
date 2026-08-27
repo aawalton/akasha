@@ -12,7 +12,7 @@ const NAME = "checks-reached"
 
 const UNIT = "registered check(s)"
 
-const CODE_CHECK = pageTypePathIn(resolveRoots().instructions, "cluster-check")
+const CODE_CHECK = pageTypePathIn(resolveRoots().akasha, "cluster-check")
 
 const REGISTRY_GLOB = "tools/lib/check-workflow/check-configs*.ts"
 
