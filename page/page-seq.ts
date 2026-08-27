@@ -2,6 +2,7 @@ import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import { exclusively } from "../exclusive/exclusive.ts"
 import { landFiles } from "../repo/land/land.ts"
+import { handOffPush } from "../repo/push/push.ts"
 import { INSTRUCTIONS } from "../repo/roots/roots.ts"
 import { parseFrontmatter, textField } from "./frontmatter.ts"
 
@@ -90,6 +91,7 @@ export function takeSeqOf(source: SeqSource): number {
           },
         ],
       })
+      handOffPush(source.instructionsRoot)
       return seq
     } catch (thrown) {
       const said = thrown instanceof Error ? thrown.message : String(thrown)
