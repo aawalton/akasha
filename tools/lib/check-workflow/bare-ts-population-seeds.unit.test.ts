@@ -9,13 +9,13 @@ import type { CheckConfig } from "./check-configs-types.ts"
 const EMPTY_ALLOWLIST: ReadonlyMap<string, string> = new Map()
 
 const FILES: readonly string[] = [
-  "packages/agents/shared/spawn.ts",
+  "infra/cluster-checks/src/shared/spawn.ts",
   "infra/cluster-checks/src/lib/population.ts",
-  "packages/infra/workflow-dsl/src/dsl/types.ts",
-  "packages/alanwalton/web/app/root.tsx",
-  "packages/temper/watcher-tray/src/tray.rs",
-  "packages/temper/watcher-tray/src/main.rs",
-  "packages/shared/dotfiles/install.sh",
+  "infra/ci-workflows/src/dsl/types.ts",
+  "alanwalton/web/app/root.tsx",
+  "temper/watcher-tray/src/tray.rs",
+  "temper/watcher-tray/src/main.rs",
+  "shared/dotfiles/install.sh",
   "docs/architecture.md",
 ]
 
@@ -25,7 +25,7 @@ const config = (
 ): CheckConfig => ({
   name,
   dispatchNodeTypes,
-  script: `packages/infra/checks/src/checks/check-${name}.ts`,
+  script: `infra/cluster-checks/src/checks/check-${name}.ts`,
 })
 
 const rules = (findings: readonly PopulationSeedFinding[]): readonly string[] =>
@@ -34,7 +34,7 @@ const rules = (findings: readonly PopulationSeedFinding[]): readonly string[] =>
 describe("a scope term that selects the whole population", () => {
   test("is refused, because it dispatches as the bare population while reading as a narrowing", () => {
     const findings = findPopulationSeedFindings(
-      [config("generated-suffix", [{ kind: "ts-file", under: "packages" }])],
+      [config("generated-suffix", [{ kind: "ts-file", under: "infra" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -45,7 +45,7 @@ describe("a scope term that selects the whole population", () => {
 
   test("states the count it measured beside the claim it drew from it", () => {
     const findings = findPopulationSeedFindings(
-      [config("generated-suffix", [{ kind: "ts-file", under: "packages" }])],
+      [config("generated-suffix", [{ kind: "ts-file", under: "infra" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -57,7 +57,7 @@ describe("a scope term that selects the whole population", () => {
     const findings = findPopulationSeedFindings(
       [
         config("eso-live-dir-candidate-order", [
-          { kind: "rust-file", under: "packages/temper/watcher-tray" },
+          { kind: "rust-file", under: "temper/watcher-tray" },
         ]),
       ],
       FILES,
@@ -70,7 +70,7 @@ describe("a scope term that selects the whole population", () => {
 
   test("is refused even where the prefix names a deep path rather than the tree root", () => {
     const findings = findPopulationSeedFindings(
-      [config("systemd-unit-wiring", [{ kind: "sh-file", under: "packages/shared/dotfiles" }])],
+      [config("systemd-unit-wiring", [{ kind: "sh-file", under: "shared/dotfiles" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -82,7 +82,7 @@ describe("a scope term that selects the whole population", () => {
 describe("a scope term that genuinely narrows", () => {
   test("is accepted", () => {
     const findings = findPopulationSeedFindings(
-      [config("git-guard-both-forms", [{ kind: "ts-file", under: "packages/infra/workflow-dsl" }])],
+      [config("git-guard-both-forms", [{ kind: "ts-file", under: "infra/ci-workflows" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -92,7 +92,7 @@ describe("a scope term that genuinely narrows", () => {
 
   test("is accepted when it narrows by a single member, since the rule is fewer and not few", () => {
     const findings = findPopulationSeedFindings(
-      [config("lib-sets-stale-capture", [{ kind: "ts-file", under: "packages/agents" }])],
+      [config("lib-sets-stale-capture", [{ kind: "ts-file", under: "infra/cluster-checks" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -102,7 +102,7 @@ describe("a scope term that genuinely narrows", () => {
 
   test("is accepted where the prefix selects nothing, because an empty population is not a false claim", () => {
     const findings = findPopulationSeedFindings(
-      [config("some-check", [{ kind: "ts-file", under: "packages/media" }])],
+      [config("some-check", [{ kind: "ts-file", under: "media" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -114,7 +114,7 @@ describe("a scope term that genuinely narrows", () => {
 describe("a population whose membership is not readable from a file list", () => {
   test("yields no scope-term verdict, because nothing here can measure what it selects", () => {
     const findings = findPopulationSeedFindings(
-      [config("a-package-scoped-check", [{ kind: "package", under: "packages/temper" }])],
+      [config("a-package-scoped-check", [{ kind: "package", under: "temper" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -172,7 +172,7 @@ describe("an allowlist entry", () => {
 
   test("is refused when its check no longer declares a bare population", () => {
     const findings = findPopulationSeedFindings(
-      [config("file-length", [{ kind: "ts-file", under: "packages/infra" }])],
+      [config("file-length", [{ kind: "ts-file", under: "infra/cluster-checks" }])],
       FILES,
       new Map([["file-length", "tightened since this was written"]])
     )
@@ -189,7 +189,7 @@ describe("the printed remediation", () => {
 
   test("reaches the author of a no-op term, since that is who has to act on it", () => {
     const findings = findPopulationSeedFindings(
-      [config("generated-suffix", [{ kind: "ts-file", under: "packages" }])],
+      [config("generated-suffix", [{ kind: "ts-file", under: "infra" }])],
       FILES,
       EMPTY_ALLOWLIST
     )
@@ -216,11 +216,11 @@ describe("an author who follows the printed act", () => {
   }
 
   test("is offered at least one prefix, since advice naming no act is not advice", () => {
-    expect(candidatesIn(refusalFor("ts-file", "packages").message).length).toBeGreaterThan(0)
+    expect(candidatesIn(refusalFor("ts-file", "infra").message).length).toBeGreaterThan(0)
   })
 
   test("lands on a seed this same rule accepts, whichever of them they take", () => {
-    for (const candidate of candidatesIn(refusalFor("ts-file", "packages").message)) {
+    for (const candidate of candidatesIn(refusalFor("ts-file", "infra").message)) {
       const findings = findPopulationSeedFindings(
         [config("generated-suffix", [{ kind: "ts-file", under: candidate }])],
         FILES,
@@ -232,14 +232,14 @@ describe("an author who follows the printed act", () => {
   })
 
   test("is never offered back the term they already wrote", () => {
-    const candidates = candidatesIn(refusalFor("ts-file", "packages").message)
+    const candidates = candidatesIn(refusalFor("ts-file", "infra").message)
 
-    expect(candidates).not.toContain("packages")
-    for (const candidate of candidates) expect(candidate.startsWith("packages/")).toBe(true)
+    expect(candidates).not.toContain("infra")
+    for (const candidate of candidates) expect(candidate.startsWith("infra/")).toBe(true)
   })
 
   test("is offered no term at all where the population has a single member", () => {
-    const finding = refusalFor("tsx-file", "packages")
+    const finding = refusalFor("tsx-file", "alanwalton")
 
     expect(candidatesIn(finding.message)).toEqual([])
     expect(finding.message).toContain(SCOPE_TERM_REMEDIATION)

@@ -5,7 +5,7 @@ import type { Edge, Node } from "../graph/types.ts"
 import { codeRoot as ownCodeRoot } from "../code-root.ts"
 import { declaredCheckEntries } from "./declared-check-configs.ts"
 
-const PKG_PATH = "packages/p"
+const PKG_PATH = "scope/p"
 
 const PKG_ID = "package:code:@scope/p"
 

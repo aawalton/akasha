@@ -51,7 +51,7 @@ describe("withAddonBuildCoDep", () => {
   test("a file-type population on a dependent is folded in too, not dropped", () => {
     const typed: CheckConfig = {
       ...SCANNER,
-      dispatchNodeTypes: [{ kind: "json-file", under: "packages/temper" }],
+      dispatchNodeTypes: [{ kind: "json-file", under: "temper" }],
     }
     expect(uncovered(withAddonBuildCoDep([BUILD, typed]))).toEqual([])
   })

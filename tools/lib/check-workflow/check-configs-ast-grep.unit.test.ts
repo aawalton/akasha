@@ -12,7 +12,7 @@ const codeRoot = process.env.WORKSPACE ?? ownCodeRoot()
 
 const LEAST_WORKSPACES = 50
 
-const FIXTURE_DIR = "packages/fixture/thing"
+const FIXTURE_DIR = "fixture/thing"
 
 const FIXTURE_WORKSPACE = { name: "@fixture/thing", dir: FIXTURE_DIR }
 
