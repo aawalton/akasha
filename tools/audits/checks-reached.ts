@@ -6,7 +6,7 @@ import type { Check, CheckOutcome } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { pageTypePathIn } from "../../page/page-types.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
-import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const NAME = "checks-reached"
 
@@ -127,11 +127,11 @@ export const checksGoverned: Check = (repo) => {
   const standsHere = (relPath: string): boolean => existsSync(`${root}/${relPath}`)
   const here = scripts.filter(standsHere)
   const there = scripts.filter((one) => !standsHere(one))
-  const codeRoot = resolveRoots().code
-  const codeTree =
-    codeRoot === undefined
-      ? `the \`${CODE}\` repository, which is not cloned here`
-      : `${codeRoot} at ${headOf(codeRoot)}`
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree a code-resident body's
+  // required reading resolves against is the root already in hand. This read `resolveRoots().code`
+  // fresh, which answered `undefined`, so the verdict named no tree at all while still counting
+  // every registered check in its population — a sentence about a missing checkout, reading green.
+  const codeTree = `${root} at ${headOf(root)}`
   const required = new Map<string, readonly string[]>([
     ...requiredReadingForEach(there, root, "code"),
     ...requiredReadingForEach(here, root, "instructions"),

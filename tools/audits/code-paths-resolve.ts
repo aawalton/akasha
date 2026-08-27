@@ -1,10 +1,10 @@
 
-import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, RepoView } from "../lib/check.ts"
 import { CodeImportError, codeRefFile, codeRefKind } from "../lib/code-import.ts"
 import { codeReaches } from "../lib/code-reaches.ts"
 import { git } from "../../repo/git/git.ts"
-import { judge, over, skip } from "../../outcome/outcome"
+import { judge, over } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 
 const NAME = "code-paths-resolve"
@@ -37,20 +37,18 @@ function standsIn(repo: RepoView, ref: string, roots: readonly string[]): string
 
 export const codePathsResolve: Check = (repo) => {
   const root = rootFor(repo.roots, AKASHA)
-  const codeRoot = repo.roots.code
-  if (codeRoot === undefined) {
-    return {
-      ...skip(NAME, `no \`${CODE}\` repository is cloned here, so no reference into it was resolved`),
-      population: over(0, REFERENCE),
-    }
-  }
+  // THE `code` REPOSITORY IS GONE, absorbed into akasha, so the tree a code-tree reference names is
+  // this one. Reading `repo.roots.code` answered `undefined` and returned a skip over a population
+  // of zero, which `tools/run-checks.ts` counts as not-refused — so every reference in the tree went
+  // unresolved and unseen while the suite wrote green.
+  const codeRoot = root
   const reaches = codeReaches(root, codeRoot)
   const named: Named[] = []
   for (const one of reaches.reaches)
     for (const site of one.sites)
       named.push({ ref: one.ref, site, handed: one.handed.includes(site) })
 
-  const looked = [root, codeRoot]
+  const looked = [root]
   const unresolved: string[] = []
   let here = 0
   let onlyThere = 0
