@@ -17,3 +17,9 @@ domain-parent-slug: domain/page-property-universal
 # Design
 
 A page's name is produced by the rule its page type declares.
+
+# Intent
+
+A page's file is named for the page.
+
+A folder groups pages and names no part of one.
