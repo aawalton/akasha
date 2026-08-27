@@ -3,7 +3,7 @@ import { describe, expect, test } from "bun:test"
 import { readdirSync, readFileSync } from "node:fs"
 import { declarationIn, declaresCommand } from "../lib/tool-declaration.ts"
 
-const ONE = 'export const tool = {\n  summary: "Do the thing",\n  repos: ["instructions"],\n} as const\n'
+const ONE = 'export const tool = {\n  summary: "Do the thing",\n  repos: ["akasha"],\n} as const\n'
 
 const STANDING = 'export const tool = {\n  summary: "Do the thing",\n  path: "search",\n} as const\n'
 
@@ -11,7 +11,7 @@ describe("what counts as declaring a command", () => {
   test("the export is required, so prose and ordinary TypeScript declare nothing", () => {
     expect(declaresCommand(ONE)).toBe(true)
     expect(declaresCommand("function run(args: {\n  summary: string,\n}) {}\n")).toBe(false)
-    expect(declaresCommand("/**\n * command: Do the thing\n * repos: instructions\n */\n")).toBe(false)
+    expect(declaresCommand("/**\n * command: Do the thing\n * repos: akasha\n */\n")).toBe(false)
   })
 
   test("a declaration reaching no repo in the vocabulary declares nothing", () => {
@@ -22,7 +22,7 @@ describe("what counts as declaring a command", () => {
   })
 
   test("a summary of nothing but space declares nothing", () => {
-    expect(declaresCommand('export const tool = {\n  summary: "   ",\n  repos: ["instructions"],\n} as const\n')).toBe(
+    expect(declaresCommand('export const tool = {\n  summary: "   ",\n  repos: ["akasha"],\n} as const\n')).toBe(
       false
     )
     expect(declaresCommand('export const tool = {\n  summary: "   ",\n  path: "search",\n} as const\n')).toBe(false)
@@ -35,24 +35,24 @@ describe("what counts as declaring a command", () => {
 
 describe("what the declaration says", () => {
   test("the summary and the repos are what the export holds", () => {
-    expect(declarationIn(ONE)).toEqual({ summary: "Do the thing", repos: ["instructions"] })
+    expect(declarationIn(ONE)).toEqual({ summary: "Do the thing", repos: ["akasha"] })
   })
 
   test("a repo outside the vocabulary is dropped rather than carried through", () => {
-    const mixed = 'export const tool = {\n  summary: "Do it",\n  repos: ["instructions", "nowhere"],\n} as const\n'
-    expect(declarationIn(mixed)?.repos).toEqual(["instructions"])
+    const mixed = 'export const tool = {\n  summary: "Do it",\n  repos: ["akasha", "nowhere"],\n} as const\n'
+    expect(declarationIn(mixed)?.repos).toEqual(["akasha"])
   })
 
   test("the first declaration settles it, so a stray second export below is never read", () => {
     const twice =
       'export const tool = {\n  summary: "The one that counts",\n  repos: ["memory"],\n} as const\n\n' +
-      'export const tool = {\n  summary: "The stray copy",\n  repos: ["instructions"],\n} as const\n'
+      'export const tool = {\n  summary: "The stray copy",\n  repos: ["akasha"],\n} as const\n'
     expect(declarationIn(twice)).toEqual({ summary: "The one that counts", repos: ["memory"] })
   })
 
   test("a summary carrying a quote survives being read", () => {
     const quoted =
-      'export const tool = {\n  summary: "The one they call \\"it\\"",\n  repos: ["instructions"],\n} as const\n'
+      'export const tool = {\n  summary: "The one they call \\"it\\"",\n  repos: ["akasha"],\n} as const\n'
     expect(declarationIn(quoted)?.summary).toBe('The one they call "it"')
   })
 })
