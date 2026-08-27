@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Rename a TypeScript token and every reference the compiler resolves to it",
-  repos: ["akasha"],
+  path: "refactor rename-token",
 } as const
 
 import { existsSync, readFileSync, realpathSync, statSync } from "node:fs"
