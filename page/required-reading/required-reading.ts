@@ -48,13 +48,29 @@ function endingsOf(relPath: string): readonly string[] {
   return found
 }
 
+/**
+ * Every page one page names under `key`, refusing where a name reaches none.
+ *
+ * A NAME THAT REACHES NOTHING USED TO BE DROPPED HERE, and dropping it is indistinguishable from
+ * never having named it. `pages/domain/global.domain.md` named three readings whose page types had
+ * been renamed out from under them, so the domain every other sits inside pushed three documents
+ * fewer than it said — to every agent, at every boot, for as long as the rename had stood. Nothing
+ * reported it, because a shorter set is exactly what a smaller declaration looks like.
+ */
 function pointing(at: PageAt, key: string, index: AddressIndex): readonly PageAt[] {
   const fm = index.frontmatterOf(at)
   if (fm === null) return []
   const found: PageAt[] = []
   for (const address of listField(fm, key)) {
     const reached = index.domainAt(address)
-    if (reached !== null) found.push(reached)
+    if (reached === null) {
+      throw new Error(
+        `\`${saidAt(at)}\` names \`${address}\` under \`${key}\`, and no page carries that address — ` +
+          "a reading named and never reached is one the agent is never handed, so it is refused here " +
+          "rather than dropped"
+      )
+    }
+    found.push(reached)
   }
   return found
 }
