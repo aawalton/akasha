@@ -51,7 +51,7 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The formula language already carries the fallback the naming intents need.** `||` returns its left value where that value is truthy and its right otherwise, in both implementations, pinned against each other by the conformance suite. It is spelled `prop(slug) || prop(id)`, not `{slug} || {id}`, which is template notation.
 
-**The write path calls the file-side formula evaluator directly for now, settled 2026-08-27.** `tools/lib/page-expression.ts` is the evaluator naming can reach, being the file-side one. That evaluator belongs under `pages-system/` in the end, so this edge is a stage rather than where it comes to rest.
+**The expression language is rebuilt rather than patched, settled 2026-08-27.** One implementation, written from scratch under `pages-system/`, ported from neither evaluator now running. It is designed against `domain/language-design` and written down before an evaluator exists. This supersedes the earlier ruling that the write path would call the file-side evaluator directly for now.
 
 **`unique-key` is a notation nothing implements.** No file-side code renders it, and four of the six stated values carry holes no naming regex can match, so nothing ever did. Removing it takes away a spelling rather than a behaviour.
 
