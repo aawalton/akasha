@@ -14,7 +14,7 @@ import {
 import { refuseParentless } from "./refuse-parentless.ts"
 import { refuseHeldName } from "./seat-name-claim.ts"
 import { composedNameOf } from "./seat-rename.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { principalIsPerson, refuseAnswering } from "./seat-answering.ts"
 import { SEAT_MODE_HEADLESS } from "./seat-modes.ts"
 import { ruleText } from "./instructions-rule.ts"
@@ -57,7 +57,7 @@ export async function spawnSeat(input: SpawnSeatInput): Promise<SpawnSeatResult>
 
   const stated = input.statedIdentity ?? {}
   const principal = input.principal ?? FLEET
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const answering = refuseAnswering(root, {
     persona: stated.persona ?? null,
     principal,

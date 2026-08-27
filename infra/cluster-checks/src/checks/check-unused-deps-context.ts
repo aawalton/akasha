@@ -13,7 +13,7 @@ import {
   type PkgDependsKind,
 } from "../../../../tools/lib/graph/producers/package/types.ts"
 import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
@@ -162,7 +162,7 @@ export function computeTransitiveClosure(
 }
 
 export async function loadRepoContext(args: CliArgs): Promise<RepoContext> {
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const graph = await buildFrom(readAt(args.treeSha).ctx)
 
   const { population, violations: workspaces } = examinePopulation<Node, WorkspaceInfo>({

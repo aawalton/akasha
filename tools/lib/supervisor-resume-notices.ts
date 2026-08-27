@@ -1,6 +1,6 @@
 
 import { existsSync } from "node:fs"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { shape } from "./shape.ts"
 import { type Infer } from "./shape-core"
 
@@ -61,7 +61,7 @@ interface CommandAnswer {
 }
 
 async function runCompose(): Promise<CommandAnswer> {
-  const verb = `${resolveRoots().akasha}/${COMPOSE_RELPATH}`
+  const verb = `${rootFor(resolveRoots(), AKASHA)}/${COMPOSE_RELPATH}`
   if (!existsSync(verb)) {
     throw new Error(`${verb} is not there, so there is no notice to compose`)
   }

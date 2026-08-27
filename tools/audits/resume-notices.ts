@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { sections } from "../lib/markdown.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -29,7 +30,7 @@ function declared(body: string): Map<string, string> {
 }
 
 export const resumeNotices: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   let body: string
   try {
     body = repo.read(DOCUMENT)

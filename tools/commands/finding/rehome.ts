@@ -14,7 +14,7 @@ import {
 import { parseArgs } from "../../lib/parse-args.ts"
 import { repoOf } from "../../lib/payload.ts"
 import { type Roots } from "../../../page/page"
-import { resolveRoots, targetRepo, targetRoot } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, targetRepo, targetRoot } from "../../../repo/roots/roots"
 import { landMoves } from "../../../move/move.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
@@ -79,7 +79,7 @@ export default async function findingRehome(args: readonly string[]): Promise<vo
   const filePath = parsed.requireString("--file-path")
   const domain = parsed.requireString("--domain")
 
-  const stands = findingRepo(resolveRoots().akasha)
+  const stands = findingRepo(rootFor(resolveRoots(), AKASHA))
   const held = repoOf(["--file-path", filePath])
   if (held !== stands) {
     throw inputError(
@@ -91,7 +91,7 @@ export default async function findingRehome(args: readonly string[]): Promise<vo
   const root = targetRoot(roots)
   if (!existsSync(`${root}/.git`)) throw operationalError(`${root} is not a git repo`)
 
-  const undeclared = undeclaredRefusal(domain, declaredDomains(roots.akasha))
+  const undeclared = undeclaredRefusal(domain, declaredDomains(rootFor(roots, AKASHA)))
   if (undeclared !== null) throw inputError(undeclared)
 
   const at = toRelPath(filePath, roots)

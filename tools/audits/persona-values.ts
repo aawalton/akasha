@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { textField } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -11,7 +12,7 @@ const PERSONA_TYPE = "persona"
 const VALUE_TYPE = "value"
 
 export const personaValues: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const found = scan(root)
   const failures: string[] = []
 

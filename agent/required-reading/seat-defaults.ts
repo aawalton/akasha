@@ -1,7 +1,7 @@
 import { diskFileTree } from "../../page/file-tree.ts"
 import { compiledPageTypeFor } from "../../page/property/frontmatter.ts"
 import { registryOf } from "../../page/property/registry.ts"
-import { rootsHere } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor, rootsHere } from "../../repo/roots/roots.ts"
 
 const SEAT_TYPE = "seat"
 
@@ -9,7 +9,7 @@ const held = new Map<string, ReadonlyMap<string, string>>()
 
 export function seatDefaults(): ReadonlyMap<string, string> {
   const roots = rootsHere()
-  const key = roots.akasha ?? ""
+  const key = rootFor(roots, AKASHA)
   const already = held.get(key)
   if (already !== undefined) return already
   const tree = diskFileTree(roots)

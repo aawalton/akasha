@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, CheckOutcome, RepoView } from "./check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
 import type { RuleSet } from "./rules-engine.ts"
@@ -49,7 +50,7 @@ interface Aspect<S> {
 
 function checkOver<S>(name: string, subject: RuleSubject, absent: string, aspect: Aspect<S>): Check {
   return (repo: RepoView): CheckOutcome => {
-    const root = repo.roots.akasha
+    const root = rootFor(repo.roots, AKASHA)
     const groups = subject.groupsOf(repo)
     if (groups.length === 0) return { ...skip(name, absent), population: over(0, subject.noun) }
 

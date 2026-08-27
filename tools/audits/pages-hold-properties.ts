@@ -1,4 +1,5 @@
 
+import { rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { advise, over, skip } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
@@ -19,7 +20,7 @@ function first(lines: readonly string[]): readonly string[] {
 export const pagesHoldProperties: Check = (repo) => {
   const tree = diskFileTree(repo.roots)
   const types = registryOf(tree)
-  const pages = claimedPages(types, repo.name, repo.roots[repo.name])
+  const pages = claimedPages(types, repo.name, rootFor(repo.roots, repo.name))
   if (pages.length === 0) {
     return { ...skip(NAME, emptyClaim(types, repo.name)), population: over(0, UNIT) }
   }

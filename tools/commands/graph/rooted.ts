@@ -25,7 +25,7 @@ import {
   unrootedNamedAsString,
 } from "../../lib/graph/queries/rooted.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
 
 const CODE_REPO = "code"
 
@@ -141,11 +141,11 @@ function codeAtWorktree(seq: number): Measured {
         `read, so there is no state to measure: ${head.stderr}`
     )
   }
-  return { sha: head.stdout, subject: subjectOf(resolveRoots().code, head.stdout) }
+  return { sha: head.stdout, subject: subjectOf(rootFor(resolveRoots(), CODE), head.stdout) }
 }
 
 function codeAtRev(rev: string): Measured {
-  const root = resolveRoots().code
+  const root = rootFor(resolveRoots(), CODE)
   const found = git(root, ["rev-parse", `${rev}^{commit}`])
   if (found.code !== 0) {
     throw operationalError(
@@ -157,7 +157,7 @@ function codeAtRev(rev: string): Measured {
 }
 
 function instructionsStanding(): Standing {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const head = git(root, ["rev-parse", "HEAD"])
   const standing = git(root, ["status", "--porcelain"])
   return {

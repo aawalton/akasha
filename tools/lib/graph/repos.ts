@@ -2,7 +2,7 @@ import { execFileSync } from "node:child_process"
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import type { Repo } from "../../../page/document/types.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { narrowedTo, type Reach, readProducerReach, withinReach } from "./producer-reach.ts"
 import type { BuildContext } from "./types.ts"
 
@@ -109,7 +109,7 @@ export const readRepos = (
   const repoRoots = new Map<Repo, string>()
   const repoFiles = new Map<Repo, readonly string[]>()
   for (const repo of repos) {
-    const root = roots[repo]
+    const root = rootFor(roots, repo)
     const files = repo === CODE_REPO ? filesAtCommit(root, commit) : filesHeld(root)
     if (files.length === 0) {
       throw new Error(`graph: ${repo} at ${root} listed no files, so nothing could be read from it`)

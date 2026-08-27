@@ -5,7 +5,7 @@ import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
 import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
 import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { type BarrelRebindingFinding, findBarrelRebindingViolations } from "../lib/barrel-rebinding.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
@@ -130,7 +130,7 @@ async function main(): Promise<never> {
     return toolExit(`failed to build the ts-file graph at ${args.treeSha}: ${errorMessage(err)}`)
   }
 
-  const codeRoot = resolveRoots().code
+  const codeRoot = rootFor(resolveRoots(), CODE)
   const leakCtx = buildMockLeakContext(graph)
 
   const leakFindings = findMockModuleLeakViolations(leakCtx)

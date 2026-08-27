@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { advise, judge, over } from "../../outcome/outcome"
 import { diskFileTree, type FileTree } from "../../page/file-tree.ts"
@@ -112,7 +113,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(properties),
             root: PROPERTY_ROOTS.join("` or `"),
           },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         ),
       ]),
@@ -126,7 +127,7 @@ export const propertyTypesBind: Check = (repo) => {
           refusalText(
             "property-definitions-absent",
             { glob: PROPERTY_GLOBS.join("` or `"), count: String(names.length) },
-            repo.roots.akasha,
+            rootFor(repo.roots, AKASHA),
             fromDisk
           ),
         ]
@@ -137,7 +138,7 @@ export const propertyTypesBind: Check = (repo) => {
       ? refusalText(
           "property-type-name-unbound-unused",
           { name: one.name, vocabulary: TYPE_VOCABULARY, engine: ENGINE },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         )
       : refusalText(
@@ -149,7 +150,7 @@ export const propertyTypesBind: Check = (repo) => {
             count: String(one.on.length),
             on: one.on.join(", "),
           },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         )
   )
@@ -158,7 +159,7 @@ export const propertyTypesBind: Check = (repo) => {
     refusalText(
       "property-type-name-undeclared",
       { path: one.on, name: one.name, vocabulary: TYPE_VOCABULARY },
-      repo.roots.akasha,
+      rootFor(repo.roots, AKASHA),
       fromDisk
     )
   )

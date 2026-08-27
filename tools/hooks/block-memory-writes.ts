@@ -1,7 +1,7 @@
 
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { canonicalize, normalizeAbsolute } from "../../repo/path/path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const STORE_PREFIX = "agent-memory"
 
@@ -20,7 +20,7 @@ function insideStore(path: string): boolean {
 }
 
 function refusal(path: string): string {
-  return refusalText("block-memory-store-write", { path }, resolveRoots().akasha, fromDisk)
+  return refusalText("block-memory-store-write", { path }, rootFor(resolveRoots(), AKASHA), fromDisk)
 }
 
 async function main(): Promise<void> {

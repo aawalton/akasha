@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import {
   astGrepCheck,
   astGrepWatchPlan,
@@ -8,7 +8,7 @@ import {
 } from "./check-configs-ast-grep.ts"
 import { type AstGrepRule, parseRuleDoc, planAstGrepWatch } from "./ast-grep-rules.ts"
 
-const codeRoot = process.env.WORKSPACE ?? resolveRoots().code
+const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
 
 const LEAST_WORKSPACES = 50
 

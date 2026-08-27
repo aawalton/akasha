@@ -2,10 +2,10 @@
 import { helpKey, irreversibleCommands, matchCommand, parseOpsCalls } from "../lib/ops-command.ts"
 import { readOid, recordingAgentId } from "../lib/read-record.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 function refusal(verb: string): string {
-  return refusalText("ops-help-unread", { command: verb }, resolveRoots().akasha, fromDisk)
+  return refusalText("ops-help-unread", { command: verb }, rootFor(resolveRoots(), AKASHA), fromDisk)
 }
 
 async function main(): Promise<void> {

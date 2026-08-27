@@ -2,7 +2,7 @@ import { existsSync, mkdtempSync, readFileSync, readdirSync, rmSync, statSync, w
 import { join } from "node:path"
 import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { type Warrant, recipientRefused, runWriteTool, whyRefused } from "./message-file.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { removeUncommitted } from "../../page/uncommitted/uncommitted.ts"
 import { stemOf as slugOf } from "../../page/name/name"
 
@@ -12,7 +12,6 @@ const PAGE_TYPE = "reminder"
 
 const PAGE_SUFFIX = ".md"
 
-const MEMORY = "memory"
 
 const SCRATCH = "/var/tmp"
 
@@ -153,7 +152,7 @@ export function writeReminder(stated: {
         "--repo",
         MEMORY,
         "--file-path",
-        join(resolveRoots().memory, relPath),
+        join(rootFor(resolveRoots(), MEMORY), relPath),
         "--content-file",
         bodyPath,
         "--mechanical",

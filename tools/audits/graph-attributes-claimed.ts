@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { listField, parseFrontmatter } from "../../page/frontmatter.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -43,7 +44,7 @@ export const graphAttributesClaimed: Check = (repo) => {
         refusalText(
           "graph-attribute-claimed-by-both",
           { attribute, recorded: asRecorded.join(", "), computed: asComputed.join(", ") },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         )
       )
@@ -51,7 +52,7 @@ export const graphAttributesClaimed: Check = (repo) => {
     }
     if (asRecorded.length === 0 && asComputed.length === 0) {
       messages.push(
-        refusalText("graph-attribute-claimed-by-neither", { attribute }, repo.roots.akasha, fromDisk)
+        refusalText("graph-attribute-claimed-by-neither", { attribute }, rootFor(repo.roots, AKASHA), fromDisk)
       )
     }
   }

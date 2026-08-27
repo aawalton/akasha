@@ -5,7 +5,7 @@ import { hold, type Shape } from "../../page/shape/shape.ts"
 import { shapeFor } from "../../page/shape/chain.ts"
 import { pageTypeAt } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { DOMAIN_SECTION_HEADINGS, LOOP_CONTRACT, SEQUENCE_CONTRACT } from "./page-shape-contracts.ts"
 
 const roots = resolveRoots()
@@ -17,9 +17,9 @@ const PAGE_AT = "pages/page-type/page.page-type.md"
 const DOMAIN_SHAPE = "domain"
 
 const standing: Record<string, string> = {
-  [PAGE_AT]: textAt(roots.akasha, PAGE_AT)!,
-  [DOMAIN_AT]: textAt(roots.akasha, DOMAIN_AT)!,
-  [DOMAIN_SHAPE_AT]: textAt(roots.akasha, DOMAIN_SHAPE_AT)!,
+  [PAGE_AT]: textAt(rootFor(roots, AKASHA), PAGE_AT)!,
+  [DOMAIN_AT]: textAt(rootFor(roots, AKASHA), DOMAIN_AT)!,
+  [DOMAIN_SHAPE_AT]: textAt(rootFor(roots, AKASHA), DOMAIN_SHAPE_AT)!,
 }
 
 function fileTreeOf(files: Record<string, string>): FileTree {

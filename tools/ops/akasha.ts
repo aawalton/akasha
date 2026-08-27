@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { parseFrontmatter, textField } from "../../page/frontmatter.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { filesUnder, summaryIn } from "./declared.ts"
 import type { Command, CommandModule } from "./surface.ts"
 
@@ -16,7 +16,7 @@ function textAt(at: string): string {
   }
 }
 
-export function akashaCommandPages(repoRoot: string = resolveRoots().akasha): readonly string[] {
+export function akashaCommandPages(repoRoot: string = rootFor(resolveRoots(), AKASHA)): readonly string[] {
   return [...filesUnder(repoRoot, PAGE_SUFFIX)].sort()
 }
 
@@ -30,7 +30,7 @@ export function akashaPathFor(page: string): readonly string[] | null {
   return stated.trim().split(/\s+/)
 }
 
-export function akashaCommands(repoRoot: string = resolveRoots().akasha): readonly Command[] {
+export function akashaCommands(repoRoot: string = rootFor(resolveRoots(), AKASHA)): readonly Command[] {
   const commands: Command[] = []
   for (const page of akashaCommandPages(repoRoot)) {
     const path = akashaPathFor(page)

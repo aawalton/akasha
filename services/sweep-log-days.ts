@@ -7,7 +7,7 @@ import { mkdtempSync, readdirSync, readFileSync, rmSync } from "node:fs"
 import { basename, join } from "node:path"
 import { stemOf as slugOf } from "../page/name/name"
 import { sidecarsOf } from "../page/sidecar/sidecar.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
 import { parseFrontmatter, textField } from "../page/frontmatter.ts"
 import { toolArgv } from "../tools/lib/tool-argv.ts"
 
@@ -47,7 +47,6 @@ const SCRATCH = "/var/tmp"
 
 const WRITER = "log-day-sweeper"
 
-const MEMORY = "memory"
 
 const PAGE_SUFFIX = ".md"
 
@@ -159,7 +158,7 @@ function main(argv: readonly string[]): number {
   }
 
   const roots = resolveRoots()
-  const memory = roots.memory
+  const memory = rootFor(roots, MEMORY)
   const cutoff = cutoffFrom(Date.now(), keepDays)
 
   const standing: DayFacts[] = []
@@ -185,13 +184,13 @@ function main(argv: readonly string[]): number {
   const together = removePages(
     rotate.map((one) => one.relPath),
     memory,
-    roots.akasha
+    rootFor(roots, AKASHA)
   )
   if (together.code === 0) {
     taken.push(...rotate)
   } else {
     for (const one of rotate) {
-      const alone = removePages([one.relPath], memory, roots.akasha)
+      const alone = removePages([one.relPath], memory, rootFor(roots, AKASHA))
       if (alone.code === 0) taken.push(one)
       else held.push(`${one.name}: ${alone.output.trim().split("\n").slice(-1)[0] ?? "refused"}`)
     }

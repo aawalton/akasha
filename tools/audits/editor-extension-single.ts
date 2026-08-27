@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -74,7 +75,7 @@ export function registrationsIn(document: unknown): readonly Registration[] {
 }
 
 export const editorExtensionSingle: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const editor = editorRoot()
   const nothing = over(0, "extension registry(ies) his editor reads")
   const read = fromDisk

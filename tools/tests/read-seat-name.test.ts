@@ -2,7 +2,7 @@
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
 import { SLOTS, type Vocabularies, readSeatName } from "../lib/read-seat-name.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const roots = resolveRoots()
 
@@ -27,7 +27,7 @@ interface SeatNameFixture {
 }
 
 const fixture: SeatNameFixture = JSON.parse(
-  readFileSync(`${roots.akasha}/tools/lib/seat-name-fixture.json`, "utf8")
+  readFileSync(`${rootFor(roots, AKASHA)}/tools/lib/seat-name-fixture.json`, "utf8")
 )
 
 function vocabularyNamed(which: string): Vocabularies {

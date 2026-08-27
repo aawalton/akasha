@@ -2,7 +2,7 @@ import { attachmentPathFor } from "../../../page/attachment-file.ts"
 import { answer } from "../page-query.ts"
 import { type Roots } from "../../../page/page"
 import { canonicalize } from "../../../repo/path/path"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import type { DiscoveredWorkflow, Workflow, WorkflowKind } from "./types.ts"
 
 export const WORKFLOW_TEMPLATE_PAGE_TYPE = "workflow-template"
@@ -86,7 +86,7 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
   })
   if (asked === null) {
     throw new Error(
-      `the tree at \`${roots.akasha}\` names no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page type ` +
+      `the tree at \`${rootFor(roots, AKASHA)}\` names no \`${WORKFLOW_TEMPLATE_PAGE_TYPE}\` page type ` +
         "whose pages are files, so no workflow stands to be run"
     )
   }
@@ -97,7 +97,7 @@ export function workflowPages(root: string): readonly WorkflowPage[] {
       slug: textIn(row.values, SLUG_KEY) ?? relPath,
       kind: kindOf(row.values, row.at),
       sourcePath,
-      declarationPath: `${roots.akasha}/${sourcePath}`,
+      declarationPath: `${rootFor(roots, AKASHA)}/${sourcePath}`,
     }
   })
 }

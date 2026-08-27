@@ -1,5 +1,5 @@
 import { readFileSync } from "node:fs"
-import { AKASHA, rootsHere } from "../../repo/roots/roots.ts"
+import { AKASHA, rootFor, rootsHere } from "../../repo/roots/roots.ts"
 
 const REFUSAL_DIR = "pages/refusal"
 
@@ -32,7 +32,7 @@ function filled(body: string, values: Readonly<Record<string, string>>): string 
 }
 
 export function refusalText(slug: string, values: Readonly<Record<string, string>>): string {
-  const root = rootsHere()[AKASHA]
+  const root = rootFor(rootsHere(), AKASHA)
   if (root === undefined) {
     throw new Error(`the ${AKASHA} repository is not cloned here, so there is no refusal to print`)
   }

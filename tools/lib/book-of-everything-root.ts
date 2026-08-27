@@ -1,8 +1,8 @@
 import { join } from "node:path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { BOOKS, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 export function booksRoot(): string {
-  return resolveRoots().books
+  return rootFor(resolveRoots(), BOOKS)
 }
 
 export function bookRoot(slug: string): string {

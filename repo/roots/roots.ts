@@ -8,7 +8,15 @@ import type { Roots } from "../../page/page.ts"
 
 export const AKASHA = "akasha"
 
+export const BOOKS = "books"
+
+export const CODE = "code"
+
 export const INSTRUCTIONS = "instructions"
+
+export const MEMORY = "memory"
+
+export const STORIES = "stories"
 
 /**
  * Where this repository is on disk, for every root worked out from it.
@@ -151,13 +159,25 @@ export function targetRepo(roots: Roots): Repo {
   return roots.target ?? AKASHA
 }
 
-export function targetRoot(roots: Roots): string {
-  const repo = targetRepo(roots)
+/**
+ * Where one repository stands in these roots, refusing to answer where it stands nowhere.
+ *
+ * A ROOT IS NAMED ONLY WHERE IT IS CLONED, so reading one straight off `Roots` hands back
+ * `undefined` for every repository this machine has not checked out. Every such read used to
+ * typecheck as `string` and then travel: a path built on it read `undefined/...`, a `git -C` ran
+ * against nothing, a comparison against it matched nothing and reported "no" rather than "cannot
+ * say". Go through here where the root must be there, and skip the repository where it need not.
+ */
+export function rootFor(roots: Roots, repo: string): string {
   const root = roots[repo]
   if (root === undefined) {
     throw new Error(`no \`${repo}\` repository is cloned here, so nothing says where its paths stand`)
   }
   return root
+}
+
+export function targetRoot(roots: Roots): string {
+  return rootFor(roots, targetRepo(roots))
 }
 
 export interface Touched {

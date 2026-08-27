@@ -17,7 +17,7 @@ import { examinePopulation } from "../lib/check-workflow/population.ts"
 import { loadWorkspaces } from "../lib/check-workflow/test-step-loader.ts"
 import { exitOnResult, exitOnToolError } from "../lib/check-workflow/violation-reporter.ts"
 import { computeTransitiveClosure, type WorkspaceInfo } from "../lib/check-workflow/workspace-deps.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { parseArgs } from "../lib/parse-args.ts"
 import { loadWorkflowPage, workflowPages } from "../lib/workflow-dsl/discovery.ts"
 import type { CommandHelp } from "../ops/surface.ts"
@@ -169,8 +169,8 @@ async function deployablePackages(instructionsRoot: string, codeRoot: string): P
 export default async function checkPagesUiStoreSidecarMemory(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = resolveRoots()
-  const codeRoot = resolve(parsed.string("--code-root") ?? roots.code)
-  const instructionsRoot = resolve(parsed.string("--instructions-root") ?? roots.akasha)
+  const codeRoot = resolve(parsed.string("--code-root") ?? rootFor(roots, CODE))
+  const instructionsRoot = resolve(parsed.string("--instructions-root") ?? rootFor(roots, AKASHA))
 
   let workspaces: readonly WorkspaceInfo[]
   try {

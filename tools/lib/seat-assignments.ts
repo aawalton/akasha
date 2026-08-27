@@ -1,4 +1,5 @@
 
+import { MEMORY, rootFor } from "../../repo/roots/roots.ts"
 import type { Roots } from "../../page/page"
 import { initiativeFinishedIn } from "./seat-sweep.ts"
 import { statedOf } from "./seat-stated.ts"
@@ -13,7 +14,7 @@ export function seatAssignments(agent: string, roots: Roots): SeatAssignments {
   const stated = statedOf(agent)
   const initiative = stated.initiative
   const handedBack =
-    initiative !== null && initiativeFinishedIn(roots.memory)(initiative.value)
+    initiative !== null && initiativeFinishedIn(rootFor(roots, MEMORY))(initiative.value)
 
   const named = [
     stated.task === null ? null : `task ${stated.task.value}`,

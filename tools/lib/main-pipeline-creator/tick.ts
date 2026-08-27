@@ -1,4 +1,5 @@
 import type { Roots } from "../../../page/page"
+import { AKASHA, CODE, rootFor } from "../../../repo/roots/roots.ts"
 import { servedTip, TRANSPORT } from "../served-tip.ts"
 import { reachCreatorCode } from "./code.ts"
 import { createPipelineTree } from "./create.ts"
@@ -16,16 +17,22 @@ export const TICK_CEILING_MS = 900_000
 export async function runMainPipelineCreatorTick(roots: Roots, signal: AbortSignal): Promise<void> {
   signal.throwIfAborted()
 
-  const commit = servedTip(roots.code, MAIN_BRANCH)
-  if (commit === null) {
-    console.error(`${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${roots.code}`)
+  const codeRoot = roots.code
+  if (codeRoot === undefined) {
+    console.error(`${LOG} no \`${CODE}\` repository is cloned here, so no commit could be read`)
     return
   }
 
-  const instructionsCommit = servedTip(roots.akasha, MAIN_BRANCH)
+  const commit = servedTip(codeRoot, MAIN_BRANCH)
+  if (commit === null) {
+    console.error(`${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${codeRoot}`)
+    return
+  }
+
+  const instructionsCommit = servedTip(rootFor(roots, AKASHA), MAIN_BRANCH)
   if (instructionsCommit === null) {
     console.error(
-      `${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${roots.akasha}, so no ` +
+      `${LOG} \`${TRANSPORT}\` serves no \`${MAIN_BRANCH}\` for ${rootFor(roots, AKASHA)}, so no ` +
         "instructions commit could be fixed for this pipeline to read"
     )
     return

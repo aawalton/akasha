@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import {
   addressIn,
   ClusterReachRefused,
@@ -114,14 +114,14 @@ describe("what the cluster is given is composed from the document", () => {
 
 describe("what stands here today", () => {
   test("every service document stating a reach composes a manifest", () => {
-    const root = resolveRoots().akasha
+    const root = rootFor(resolveRoots(), AKASHA)
     const reached = reachedServices(root)
     expect(reached.length).toBeGreaterThan(0)
     expect(planClusterReach(readServiceDocs(root), "10.0.0.1").size).toBe(reached.length)
   })
 
   test("the graph service's own document says where it answers", () => {
-    const reach = clusterReachOf(resolveRoots().akasha, "graph-service")
+    const reach = clusterReachOf(rootFor(resolveRoots(), AKASHA), "graph-service")
     expect(Number.isInteger(reach.port)).toBe(true)
     expect(reach.namespace).not.toBe("")
   })

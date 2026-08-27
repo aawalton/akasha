@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { resolveRoots } from "../../../../repo/roots/roots"
+import { CODE, resolveRoots, rootFor } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
 import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
@@ -104,7 +104,7 @@ function examineWorkspaces(
 
 async function main(): Promise<void> {
   const args = parseArgs()
-  const repoRoot = resolveRoots().code
+  const repoRoot = rootFor(resolveRoots(), CODE)
   let graph: WorkspaceGraph
   try {
     graph = await loadWorkspaces({ repoRoot, treeSha: args.treeSha })

@@ -1,7 +1,7 @@
 import { readFileSync, statSync, writeFileSync } from "node:fs"
 import { agentId } from "../lib/read-record.ts"
 import { type Roots } from "../../page/page"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { recordOwnRead } from "../lib/command.ts"
 import { type Comment, commentsIn, UnscannableFile } from "./comments.ts"
@@ -145,7 +145,7 @@ function landOnDisk(root: string, stripped: readonly Stripped[]): void {
 }
 
 function land(roots: Roots, stripped: readonly Stripped[]): void {
-  const root = roots.akasha
+  const root = rootFor(roots, AKASHA)
   const moved = stripped.filter((one) => statSync(`${root}/${one.file_path}`).mtimeMs !== one.at)
   const written = stripped.filter((one) => !moved.includes(one)).map(({ file_path, content }) => ({ file_path, content }))
   for (const one of moved) process.stdout.write(`moved after this read it, so left alone: ${one.file_path}\n`)
@@ -182,11 +182,11 @@ function run(argv: readonly string[]): void {
   }
   const tree: Tree = asked
   const roots = resolveRoots()
-  const root = tree === "code" ? roots.code : roots.akasha
-  const forms = formsFrom(readFileSync(`${roots.akasha}/${FORMS_DOC}`, "utf8"))
+  const root = tree === "code" ? rootFor(roots, CODE) : rootFor(roots, AKASHA)
+  const forms = formsFrom(readFileSync(`${rootFor(roots, AKASHA)}/${FORMS_DOC}`, "utf8"))
   const named = flag(argv, "--file-path")
   const scope = flag(argv, "--under")
-  const reached = named === null ? reachedIn(roots.akasha, root, tree) : [named]
+  const reached = named === null ? reachedIn(rootFor(roots, AKASHA), root, tree) : [named]
   const scoped = scope === null ? reached : reached.filter((relPath) => relPath.startsWith(`${scope}/`))
   if (scope !== null && scoped.length === 0) {
     process.stderr.write(`error: nothing required to be read against ${DOMAIN_DOC} stands under ${scope} in ${root}\n`)

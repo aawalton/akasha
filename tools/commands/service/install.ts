@@ -5,7 +5,7 @@ export const summary =
 import { lstatSync, readdirSync, realpathSync } from "node:fs"
 import { inputError } from "../../lib/exit.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { akashaRoot, resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, akashaRoot, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import {
   applyToCluster,
   planClusterReach,
@@ -64,7 +64,7 @@ export const help: CommandHelp = {
 
 function legacyInstalled(): readonly string[] {
   const dir = systemdDir()
-  const legacy = `${realpathSync(resolveRoots().akasha)}/tools/`
+  const legacy = `${realpathSync(rootFor(resolveRoots(), AKASHA))}/tools/`
   let names: readonly string[]
   try {
     names = readdirSync(dir)

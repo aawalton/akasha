@@ -1,5 +1,5 @@
 import { operationalError } from "./exit.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { clusterReachOf } from "./service-cluster-reach.ts"
 
 const SLUG = "page-query-service"
@@ -36,7 +36,7 @@ export function pageQueryOrigin(): string {
   const stated = process.env.PAGE_QUERY_ORIGIN
   if (stated !== undefined && stated !== "") return stated
   if (origin === null) {
-    origin = `http://127.0.0.1:${clusterReachOf(resolveRoots().akasha, SLUG).port}`
+    origin = `http://127.0.0.1:${clusterReachOf(rootFor(resolveRoots(), AKASHA), SLUG).port}`
   }
   return origin
 }

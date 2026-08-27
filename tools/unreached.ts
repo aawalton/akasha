@@ -9,7 +9,7 @@ import { stemOf as slugOf } from "../page/name/name"
 import { extractLinks } from "./lib/links.ts"
 import { type Roots } from "../page/page"
 import { normalizeAbsolute } from "../repo/path/path"
-import { isDirty, resolveRoots } from "../repo/roots/roots"
+import { AKASHA, CODE, isDirty, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const HELP = `bun tools/unreached.ts — the quarantined documents nothing cites, one path per line
 
@@ -117,12 +117,12 @@ function citedBy(
   bySlug: ReadonlyMap<string, string>
 ): ReadonlySet<string> {
   const found = new Set<string>()
-  const fromDir = `${roots.akasha}/${relPath.split("/").slice(0, -1).join("/")}`
+  const fromDir = `${rootFor(roots, AKASHA)}/${relPath.split("/").slice(0, -1).join("/")}`
   for (const link of extractLinks(body)) {
     const target = link.href.trim().split("#")[0]?.split("?")[0] ?? ""
     if (target === "" || /^[a-z][a-z0-9+.-]*:/i.test(target)) continue
     const absolute = target.startsWith("/") ? normalizeAbsolute(target) : normalizeAbsolute(`${fromDir}/${target}`)
-    const inside = absolute.startsWith(`${roots.akasha}/`) ? absolute.slice(roots.akasha.length + 1) : null
+    const inside = absolute.startsWith(`${rootFor(roots, AKASHA)}/`) ? absolute.slice(rootFor(roots, AKASHA).length + 1) : null
     const hit = inside === null ? undefined : byPath.get(inside)
     if (hit !== undefined) found.add(hit)
   }
@@ -151,8 +151,8 @@ function main(): void {
   }
 
   const roots = resolveRoots()
-  const subjects = subjectsIn(roots.akasha)
-  if (subjects.length === 0) refuse(`${roots.akasha} holds no quarantined markdown`)
+  const subjects = subjectsIn(rootFor(roots, AKASHA))
+  if (subjects.length === 0) refuse(`${rootFor(roots, AKASHA)} holds no quarantined markdown`)
 
   const byPath = new Map<string, string>()
   const bySlug = new Map<string, string>()
@@ -169,20 +169,21 @@ function main(): void {
     else citers.push(citer)
   }
 
-  for (const relPath of tracked(roots.akasha, roots.akasha)) {
+  for (const relPath of tracked(rootFor(roots, AKASHA), rootFor(roots, AKASHA))) {
     if (!relPath.endsWith(".md") || isDirty(relPath)) continue
-    const body = readable(`${roots.akasha}/${relPath}`)
+    const body = readable(`${rootFor(roots, AKASHA)}/${relPath}`)
     for (const subject of citedBy(body, relPath, roots, byPath, bySlug)) note(subject, relPath)
   }
 
-  const codeFiles = tracked(roots.code, roots.code)
+  const codeRoot = rootFor(roots, CODE)
+  const codeFiles = tracked(codeRoot, codeRoot)
   for (const relPath of codeFiles) {
-    const body = readable(`${roots.code}/${relPath}`)
+    const body = readable(`${codeRoot}/${relPath}`)
     if (body === "") continue
     for (const match of body.matchAll(CITED_PATH)) {
       for (const key of suffixKeys(match[0])) {
         const hit = byPath.get(key)
-        if (hit !== undefined) note(hit, `${roots.code}/${relPath}`)
+        if (hit !== undefined) note(hit, `${codeRoot}/${relPath}`)
       }
     }
   }
@@ -194,7 +195,7 @@ function main(): void {
 
   process.stderr.write(
     `${subjects.length} quarantined, ${reached.length} cited, ${subjects.length - reached.length} cited by nothing ` +
-      `(code repo searched: ${roots.code}, ${codeFiles.length} files)\n`
+      `(code repo searched: ${codeRoot}, ${codeFiles.length} files)\n`
   )
   if (listed.length > 0) process.stdout.write(`${listed.join("\n")}\n`)
   process.exitCode = listed.length > 0 ? 1 : 0

@@ -6,13 +6,13 @@ import type { Check, CheckOutcome } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { pageTypePathIn } from "../../page/page-types.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, CODE, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const NAME = "checks-reached"
 
 const UNIT = "registered check(s)"
 
-const CODE_CHECK = pageTypePathIn(resolveRoots().akasha, "cluster-check")
+const CODE_CHECK = pageTypePathIn(rootFor(resolveRoots(), AKASHA), "cluster-check")
 
 const REGISTRY_GLOB = "tools/lib/check-workflow/check-configs*.ts"
 
@@ -80,7 +80,7 @@ export function unreadableRegistrations(
 }
 
 export const checksGoverned: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const blind = (why: string): CheckOutcome => ({
     ...judge(NAME, `nothing measured — ${why}`, [
       `${NAME} needs at least ${LEAST_REGISTERED} registered check to certify anything and found ` +
@@ -128,6 +128,10 @@ export const checksGoverned: Check = (repo) => {
   const here = scripts.filter(standsHere)
   const there = scripts.filter((one) => !standsHere(one))
   const codeRoot = resolveRoots().code
+  const codeTree =
+    codeRoot === undefined
+      ? `the \`${CODE}\` repository, which is not cloned here`
+      : `${codeRoot} at ${headOf(codeRoot)}`
   const required = new Map<string, readonly string[]>([
     ...requiredReadingForEach(there, root, "code"),
     ...requiredReadingForEach(here, root, "instructions"),
@@ -145,7 +149,7 @@ export const checksGoverned: Check = (repo) => {
       NAME,
       `${scripts.length} check(s) registered across ${sources.length} registry source(s) in ` +
         `${root} read as it stands, ${naming} of them naming one; ${here.length} body(ies) stand ` +
-        `there and ${there.length} in ${codeRoot} at ${headOf(codeRoot)}, the tree a code-resident ` +
+        `there and ${there.length} in ${codeTree}, the tree a code-resident ` +
         `body's required reading resolved against; least ${LEAST_REGISTERED}, resting on ${RESTS_ON}`,
       [...unreadableRegistrations(sources, bodies), ...refusals]
     ),

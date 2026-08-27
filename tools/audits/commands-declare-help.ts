@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { AsyncCheck } from "../lib/check.ts"
 import { commandSurface } from "../lib/command-surface.ts"
 import { judge, over } from "../../outcome/outcome"
@@ -15,7 +16,7 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
         refusalText(
           "command-help-surface-unread",
           { count: String(unreadable.length), detail: unreadable.slice(0, 5).join("; ") },
-          repo.roots.akasha,
+          rootFor(repo.roots, AKASHA),
           fromDisk
         ),
       ]),
@@ -31,7 +32,7 @@ export const commandsDeclareHelp: AsyncCheck = async (repo) => {
       refusalText(
         "command-help-no-description",
         { command: verb.command, source: verb.source ?? "unknown" },
-        repo.roots.akasha,
+        rootFor(repo.roots, AKASHA),
         fromDisk
       )
     )

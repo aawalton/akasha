@@ -3,13 +3,15 @@ import { readFile, readdir } from "node:fs/promises"
 import { join } from "node:path"
 import { parse } from "../page/document/parse.ts"
 import type { Document } from "../page/document/types.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA as AKASHA_REPO, resolveRoots, rootFor } from "../repo/roots/roots"
 import { stemOf as slugOf } from "../page/name/name"
+
+const MEMORY_REPO = "memory"
 
 const roots = resolveRoots()
 
-export const AKASHA = roots.akasha
-export const MEMORY = roots.memory
+export const AKASHA = rootFor(roots, AKASHA_REPO)
+export const MEMORY = rootFor(roots, MEMORY_REPO)
 
 export const MONTHS_FOLDER = "pages/monarch-month"
 

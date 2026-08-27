@@ -4,7 +4,7 @@ export const tool = {
 } as const
 
 import { LOGICAL_MODELS, type LogicalModel } from "./lib/model-vocab.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { CONDUCT_RELATIVE_PATH } from "./lib/turn-end-reading-conduct.ts"
 import {
   DEFAULT_READING_MODEL,
@@ -94,7 +94,7 @@ async function main(argv: readonly string[]): Promise<number> {
     return refuse(`--timeout-ms: not a positive number of milliseconds: "${patience}"`)
 
   const reading = await readingFor({
-    root: resolveRoots().akasha,
+    root: rootFor(resolveRoots(), AKASHA),
     transcript,
     model: model as LogicalModel,
     timeoutMs,

@@ -1,6 +1,6 @@
-
-import { type Roots } from "../../page/page"
+import type { Roots } from "../../page/page"
 import { canonicalize, isInside } from "../../repo/path/path"
+import { AKASHA, rootFor } from "../../repo/roots/roots"
 
 export const SETTINGS_PATH = "settings/agents.json"
 
@@ -33,8 +33,8 @@ export function repoRelative(token: string, roots: Roots): string | null {
     const under = tail.startsWith(REPOS_DIR) ? tail.slice(REPOS_DIR.length) : tail
     return under.startsWith("instructions/") ? under.slice("instructions/".length) : null
   }
-  if (!token.startsWith("/") || !isInside(roots.akasha, token)) return null
-  const root = canonicalize(roots.akasha)
+  if (!token.startsWith("/") || !isInside(rootFor(roots, AKASHA), token)) return null
+  const root = canonicalize(rootFor(roots, AKASHA))
   const resolved = canonicalize(token)
   return resolved === root ? null : resolved.slice(root.length + 1)
 }

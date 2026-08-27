@@ -8,7 +8,7 @@ import { answersForPath, pathRecord } from "./lib/champions-path.ts"
 import { type Filed, type Held, readRoster, type Roster } from "./lib/champions-roster.ts"
 import { type DomainRow, championTree, treeLines, treeRecord } from "./lib/champions-tree.ts"
 import { outOfBounds } from "../repo/path/path"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 const SUBJECT_KEY = "slug"
 
@@ -181,7 +181,7 @@ function main(): void {
     const record = tree
       // Akasha, because the paths in this tree are the domain pages' and they stand there. A
       // reader joins each relative path against this root to open the document.
-      ? treeRecord(championTree(treeRows(roster)), roots.akasha)
+      ? treeRecord(championTree(treeRows(roster)), rootFor(roots, AKASHA))
       : pathRecord(paths, roster, roots)
     process.stdout.write(`${JSON.stringify(record)}\n`)
     return

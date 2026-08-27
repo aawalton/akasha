@@ -1,11 +1,11 @@
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const PACKAGE = "@alanwalton/imessage"
 
 export class ImessageImportError extends Error {}
 
 function imessageRoot(): string {
-  return process.env.OPS_IMESSAGE_ROOT ?? resolveRoots().akasha
+  return process.env.OPS_IMESSAGE_ROOT ?? rootFor(resolveRoots(), AKASHA)
 }
 
 async function imessageModule<T>(subpath: string): Promise<T> {

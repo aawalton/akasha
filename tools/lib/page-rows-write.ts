@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { randomUUID } from "node:crypto"
 import { appendFileSync, existsSync, mkdirSync } from "node:fs"
 import { dirname, join } from "node:path"
@@ -74,7 +75,7 @@ export function whereRowsStand(
 
 function unresolvedHome(roots: Roots, error: RowsHomeUnresolved): Written {
   return {
-    root: roots.akasha,
+    root: rootFor(roots, AKASHA),
     repo: "instructions",
     relPath: "",
     path: "",

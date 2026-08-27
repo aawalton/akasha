@@ -13,7 +13,7 @@ import {
 } from "../../lib/page-suffix.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
 import { type Roots } from "../../../page/page"
-import { resolveRoots, targetRoot } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots"
 import { diskFileTree } from "../../../page/file-tree.ts"
 import { landMoves } from "../../../move/move.ts"
 import { registryOf } from "../../../page/property/registry.ts"
@@ -128,8 +128,8 @@ function refileType(type: PageType, glob: string, dryRun: boolean): string {
   const roots = resolveRoots("akasha")
   // Renaming the `page-type` type moves the very document that states its own
   // `files:`, so the path read off the registry is the one it stood at before.
-  const relPath = pageTypePathIn(roots.akasha, type.slug)
-  const body = readFileSync(`${roots.akasha}/${relPath}`, "utf8")
+  const relPath = pageTypePathIn(rootFor(roots, AKASHA), type.slug)
+  const body = readFileSync(`${rootFor(roots, AKASHA)}/${relPath}`, "utf8")
   const line = body.split("\n").find((one) => one.startsWith("files:"))
   if (line === undefined) throw operationalError(`${type.relPath} states no \`files:\` to refile`)
   const next = `files: ${glob}`

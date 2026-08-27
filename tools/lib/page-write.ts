@@ -26,7 +26,7 @@ import { type Commit, type Landed, type Landings, commitNamed, landFiles } from 
 import { statesNextSeq, takeSeqOf } from "./page-seq.ts"
 import { rowsFileOf } from "../../page/rows-file.ts"
 import { type Roots } from "../../page/page.ts"
-import { isAddressable } from "../../repo/roots/roots.ts"
+import { AKASHA, isAddressable, rootFor } from "../../repo/roots/roots.ts"
 
 export type Value = string | number | boolean | readonly string[]
 
@@ -48,6 +48,7 @@ export function whereFor(
   const repo = soleRepoOf(type)
   if (repo === null || !isAddressable(repo)) return null
   const root = roots[repo]
+  if (root === undefined) return null
   const stands = (one: string): boolean => {
     const last = one.split("/").at(-1) ?? one
     return last === `${name}.md` || slugOf(last) === name
@@ -275,8 +276,8 @@ function withId(
 const PAGE_SEQ = "seq"
 
 function mintedSeq(roots: Roots, pageType: string): number | undefined {
-  const relPath = pageTypePathIn(roots.akasha, pageType)
-  if (!statesNextSeq(roots.akasha, relPath)) return undefined
+  const relPath = pageTypePathIn(rootFor(roots, AKASHA), pageType)
+  if (!statesNextSeq(rootFor(roots, AKASHA), relPath)) return undefined
   return takeSeqOf({ pageTypeRelPath: relPath, noun: pageType })
 }
 

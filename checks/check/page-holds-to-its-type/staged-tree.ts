@@ -2,14 +2,14 @@ import { relative } from "node:path"
 import type { FileTree } from "../../../page/file-tree.ts"
 import { placeDirOf, repoPlacings, scanIn } from "../../../page/page-types.ts"
 import { textAt } from "../../../page/text/text.ts"
-import { AKASHA, rootsHere } from "../../../repo/roots/roots.ts"
+import { AKASHA, rootFor, rootsHere } from "../../../repo/roots/roots.ts"
 import type { Batch } from "../check-shape.ts"
 
 const GONE = null
 
 export function treeOver(batch: Batch): FileTree | null {
   const roots = rootsHere()
-  const root = roots[AKASHA]
+  const root = rootFor(roots, AKASHA)
   if (root === undefined) return null
   const staged = new Map<string, string | null>()
   if (batch.root === root) {

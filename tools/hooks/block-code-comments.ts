@@ -5,7 +5,7 @@ import { reachedBy, setAside } from "../code-comment/tree.ts"
 import { codeCheckoutOf, expandHome } from "../lib/code-checkout.ts"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 import { canonicalize, isInside, normalizeAbsolute } from "../../repo/path/path"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const MAX_REPORTED = 10
 
@@ -58,12 +58,14 @@ function judge(fields: Record<string, unknown>): void {
   )
 
   const roots = resolveRoots()
-  if (isInside(roots.akasha, absolute)) return
-  const checkout = codeCheckoutOf(absolute, roots.code)
+  if (isInside(rootFor(roots, AKASHA), absolute)) return
+  const codeRoot = roots.code
+  if (codeRoot === undefined) return
+  const checkout = codeCheckoutOf(absolute, codeRoot)
   if (checkout === null || absolute === checkout) return
 
   const relPath = absolute.slice(checkout.length + 1)
-  if (!reachedBy(roots.akasha, relPath, "code")) return
+  if (!reachedBy(rootFor(roots, AKASHA), relPath, "code")) return
 
   const body = bodyAfter(fields, absolute)
   if (body === null) return
@@ -77,7 +79,7 @@ function judge(fields: Record<string, unknown>): void {
     throw error
   }
 
-  const forms = formsFrom(readFileSync(`${roots.akasha}/${FORMS_DOC}`, "utf8"))
+  const forms = formsFrom(readFileSync(`${rootFor(roots, AKASHA)}/${FORMS_DOC}`, "utf8"))
   const outside = comments.filter((comment) => classify(comment, relPath, forms) !== "form")
   if (outside.length === 0) return
 
@@ -94,7 +96,7 @@ function judge(fields: Record<string, unknown>): void {
         comments: named.join("; "),
         forms: FORMS_DOC,
       },
-      roots.akasha,
+      rootFor(roots, AKASHA),
       fromDisk
     )
   )

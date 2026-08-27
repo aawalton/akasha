@@ -14,7 +14,7 @@ import {
 } from "./decide-domain-lead.ts"
 import { championOf } from "./domain.ts"
 import { textField } from "../../page/frontmatter.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { scan } from "./seat-resolve.ts"
 
 export async function resolveBlockedPrincipal(agentName: string | null): Promise<BlockedPrincipal> {
@@ -25,7 +25,7 @@ export type DomainOwnerReader = (domain: string) => DomainOwnerWalk
 
 export function walkDomainOwner(
   domain: string,
-  root: string = resolveRoots().akasha
+  root: string = rootFor(resolveRoots(), AKASHA)
 ): DomainOwnerWalk {
   const found = scan(root)
   const at = found.slugs.get(domain.trim())
@@ -54,7 +54,7 @@ export type AlertRequirementReader = () => readonly AlertRequirementRow[]
 const ALERT_PAGE_TYPE = "alert"
 
 export function readAlertRequirements(
-  root: string = resolveRoots().akasha
+  root: string = rootFor(resolveRoots(), AKASHA)
 ): readonly AlertRequirementRow[] {
   const found = scan(root)
   const rows: AlertRequirementRow[] = []

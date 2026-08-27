@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import { readFileSync } from "node:fs"
 import { ATTRIBUTES, attributesOf, modeOf } from "./attributes.ts"
 import { documentsOnDemand } from "./documents-on-demand.ts"
@@ -17,7 +18,7 @@ import { sectionNamed, trimEdges } from "./section.ts"
 export const CONDITIONAL_READING_KEY = "conditional-reading-slugs"
 
 export function seatDocuments(agent: string, roots: Roots): readonly SeatDocument[] {
-  const root = roots.akasha
+  const root = rootFor(roots, AKASHA)
   const documents = documentsOnDemand(root)
   const inherited = subagentStated(agent, root)
   const attributes = inherited ?? attributesOf(agent)

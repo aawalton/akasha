@@ -1,7 +1,7 @@
 
 import { existsSync, readFileSync, writeFileSync } from "node:fs"
 import { sections } from "./lib/markdown.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 import { fail } from "./lib/command.ts"
 
 const DOCUMENT = "pages/notice/resume.notice.md"
@@ -70,7 +70,7 @@ export function noticesIn(body: string): Readonly<Record<string, string>> {
 }
 
 export function notices(): Readonly<Record<string, string>> {
-  const absolute = `${resolveRoots().akasha}/${DOCUMENT}`
+  const absolute = `${rootFor(resolveRoots(), AKASHA)}/${DOCUMENT}`
   if (!existsSync(absolute)) {
     fail(`${absolute} is not there, so there is no notice to render`)
   }

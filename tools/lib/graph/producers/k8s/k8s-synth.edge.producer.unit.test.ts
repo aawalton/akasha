@@ -1,6 +1,6 @@
 import { execFileSync } from "node:child_process"
 import { describe, expect, test } from "bun:test"
-import { resolveRoots } from "../../../../../repo/roots/roots"
+import { resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import { createGraph } from "../../graph.ts"
 import type { Graph, Node } from "../../types.ts"
 import { TS_FILE_NODE_TYPE } from "../file/ts-file/types.ts"
@@ -21,9 +21,9 @@ const trackedTs = (root: string): ReadonlySet<string> =>
       .filter((one) => one.endsWith(".ts") || one.endsWith(".tsx"))
   )
 
-const inCode = trackedTs(roots[CODE_REPO] as string)
+const inCode = trackedTs(rootFor(roots, CODE_REPO))
 
-const inInstructions = trackedTs(roots[INSTRUCTIONS_REPO] as string)
+const inInstructions = trackedTs(rootFor(roots, INSTRUCTIONS_REPO))
 
 const collisions = [...inCode].filter((one) => inInstructions.has(one)).sort()
 

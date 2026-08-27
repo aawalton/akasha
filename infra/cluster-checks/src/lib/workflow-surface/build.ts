@@ -1,4 +1,4 @@
-import { resolveRoots } from "../../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import {
   discoverWorkflows,
   workflowPages,
@@ -16,7 +16,7 @@ import {
 } from "./surface"
 
 const instructionsRoot = (): string => {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   if (root === undefined) {
     throw new Error(
       "`resolveRoots()` names no `instructions` root, so the workflow pages a surface is " +

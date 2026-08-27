@@ -158,7 +158,7 @@ function resolveOne(
         ? normalizeAbsolute(target)
         : normalizeAbsolute(`${fromDir}/${target}`)
   const { instructions, code, memory, books, stories } = input.roots
-  const declared = [instructions, code, memory, books, stories]
+  const declared = [instructions, code, memory, books, stories].filter((one) => one !== undefined)
   if (!declared.some((root) => isInside(root, absolutePath))) {
     return {
       href,

@@ -199,6 +199,7 @@ export function deriver(roots: Roots, carries: Carries = {}): Deriver {
       const repo = each.repo
       if (repo === null || !isAddressable(repo)) continue
       const root = roots[repo]
+      if (root === undefined) continue
       for (const relPath of scanIn(root, [each.place ?? placeOf(kind)], repo)) {
         const text = textAt(root, relPath)
         const read = text === null ? null : valuesIn(text, carryBody)

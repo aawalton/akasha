@@ -1,7 +1,7 @@
 
 import { join } from "node:path"
 import { codeModule } from "./code-import.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const COMPILER_PACKAGE = "lua-compiler"
 
@@ -12,7 +12,7 @@ const PLUGIN_DIR = "src/plugins"
 const PLUGIN_FILES = ["tstl-no-truthy-numbers.js", "tstl-no-multi-store.js"] as const
 
 export function tstlRoot(stated?: string): string {
-  return stated ?? join(resolveRoots().akasha, COMPILER_PACKAGE)
+  return stated ?? join(rootFor(resolveRoots(), AKASHA), COMPILER_PACKAGE)
 }
 
 export function luaPluginsArgument(root: string): string {

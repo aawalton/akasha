@@ -1,7 +1,7 @@
 import type { HelpFlag } from "../../ops/surface.ts"
 import { codeRoot } from "../code-root.ts"
 import { canonicalize, normalizeAbsolute } from "../../../repo/path/path"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 
 export interface SurfaceRoots {
   readonly instructionsRoot: string
@@ -35,7 +35,7 @@ export function surfaceRoots(flags: {
   readonly codeRoot?: string | undefined
 }): SurfaceRoots {
   return {
-    instructionsRoot: real(flags.instructionsRoot ?? resolveRoots().akasha),
+    instructionsRoot: real(flags.instructionsRoot ?? rootFor(resolveRoots(), AKASHA)),
     codeRoot: real(flags.codeRoot ?? codeRoot()),
   }
 }

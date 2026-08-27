@@ -1,7 +1,7 @@
 
 import { ASSIGNMENTS, ATTRIBUTES, DECLARATIONS, type Declaration, MODES, type Mode } from "./attributes.ts"
 import { type Principal, principals } from "./compose-seat-name.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { fail } from "./command.ts"
 
 export interface Args {
@@ -65,7 +65,7 @@ export function parseArgs(argv: readonly string[]): Args {
     else if (arg === "--take-live-name") takeLiveName = true
     else if (arg === "--principal") {
       const named = value()
-      const allowed = principals(resolveRoots().akasha)
+      const allowed = principals(rootFor(resolveRoots(), AKASHA))
       if (!allowed.includes(named)) fail(`\`${named}\` is no principal — one of: ${allowed.join(", ")}`)
       principal = named
     } else if (arg === "--clear") {

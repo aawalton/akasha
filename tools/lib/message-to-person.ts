@@ -1,6 +1,6 @@
 
 import { textField } from "../../page/frontmatter.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { resolveSlot, scan } from "./seat-resolve.ts"
 
 const PAGE_TYPE_KEY = "page-type-slug"
@@ -20,7 +20,7 @@ export function addressPerson(person: string, inboxSlug: string): Addressed {
     }
   }
 
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const found = scan(root)
   const at = resolveSlot("domain", wanted, root, found)
   if ("refusal" in at) {

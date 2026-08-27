@@ -4,13 +4,13 @@ import { shapeFor } from "../../page/shape/chain.ts"
 import { diskFileTree } from "../../page/file-tree.ts"
 import { pageTypeAt } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const roots = resolveRoots()
 const tree = diskFileTree(roots)
 
 function shapeAt(at: string): Shape {
-  const type = pageTypeAt(at, textAt(roots.akasha, at)!)
+  const type = pageTypeAt(at, textAt(rootFor(roots, AKASHA), at)!)
   if (type === null) throw new Error(`${at} declares no page type this reads`)
   return shapeFor(type, tree)
 }

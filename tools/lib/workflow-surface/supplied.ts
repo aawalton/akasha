@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { HelpFlag } from "../../ops/surface.ts"
 import { codeRoot } from "../code-root.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { buildWorkflowSurface } from "./build.ts"
 import { type WorkflowSurface, WorkflowSurfaceSchema } from "./surface.ts"
 
@@ -72,7 +72,7 @@ export const suppliedSurface = async (args: {
       root: null,
     }
   }
-  const root = args.root === undefined ? resolveRoots().akasha : resolve(args.root)
+  const root = args.root === undefined ? rootFor(resolveRoots(), AKASHA) : resolve(args.root)
   const surface = await buildWorkflowSurface(root, { codeRoot: codeRoot() })
   return { surface, from: `the workflow-template pages under ${root}`, root }
 }

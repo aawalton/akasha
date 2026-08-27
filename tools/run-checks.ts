@@ -40,11 +40,11 @@ import { commandsDeclareSummary } from "./audits/commands-declare-summary.ts"
 import type { Repo } from "../page/document/types.ts"
 import { CHECKS_CEILING_MS, CHECK_BAND, type RepoView, type Levy, listDocuments } from "./lib/check.ts"
 import { fromDisk, refusalText } from "./lib/refusal.ts"
-import { anyRefused, type Outcome, render } from "../outcome/outcome"
+import { anyRefused, over, type Outcome, render, skip } from "../outcome/outcome"
 import { CEILING_MS, type Band, seconds, cpuMs } from "./lib/run-cost.ts"
 import { headSha, writeGreen } from "./lib/test-selection.ts"
 import { canonicalize, normalizeAbsolute } from "../repo/path/path"
-import { resolveRoots } from "../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../repo/roots/roots"
 
 export const CHECKS: Readonly<Record<string, Levy>> = {
   "bash-env-inside": { repos: ["akasha"], run: bashEnvInside },
@@ -185,8 +185,24 @@ export async function runChecks(
       continue
     }
     for (const repo of levied.repos) {
+      const view = repoViewOf(repo)
+      if (view.roots[repo] === undefined) {
+        outcomes.push(
+          within(
+            {
+              ...skip(
+                `${name} (${repo})`,
+                `no \`${repo}\` repository is cloned here, so this was not run over it`
+              ),
+              population: over(0, "document(s)"),
+            },
+            levied.band ?? CHECK_BAND
+          )
+        )
+        continue
+      }
       const at = cpuMs()
-      const outcome = await levied.run({ ...repoViewOf(repo), deadlineAt })
+      const outcome = await levied.run({ ...view, deadlineAt })
       const took = cpuMs() - at
       const named = certified({ ...outcome, name: `${outcome.name} (${repo})`, elapsedMs: took })
       outcomes.push(within(named, levied.band ?? CHECK_BAND))
@@ -202,7 +218,7 @@ export async function runChecks(
         refusalText(
           "checks-ceiling",
           { elapsed: (elapsedMs / 1000).toFixed(1), ceiling: (ceilingMs / 1000).toFixed(0) },
-          repoViewOf("akasha").roots.akasha,
+          rootFor(repoViewOf("akasha").roots, AKASHA),
           fromDisk
         ),
       ],
@@ -263,15 +279,18 @@ if (import.meta.main) {
     codeRootNamed === undefined
       ? resolved
       : { ...resolved, code: canonicalize(normalizeAbsolute(codeRootNamed)) }
-  const repoViewOf = (repo: Repo): RepoView => ({
-    roots,
-    name: repo,
-    documents: listDocuments(roots[repo]),
-    read: (relPath) => readFileSync(`${roots[repo]}/${relPath}`, "utf8"),
-    exists: existsSync,
-  })
+  const repoViewOf = (repo: Repo): RepoView => {
+    const root = roots[repo]
+    return {
+      roots,
+      name: repo,
+      documents: root === undefined ? [] : listDocuments(root),
+      read: (relPath) => readFileSync(`${rootFor(roots, repo)}/${relPath}`, "utf8"),
+      exists: existsSync,
+    }
+  }
   const at = cpuMs()
-  const startedOn = headSha(roots.akasha)
+  const startedOn = headSha(rootFor(roots, AKASHA))
   const outcomes = await runChecks(CHECKS, repoViewOf, only)
   const took = cpuMs() - at
   const shown = only.length === 0 ? [...outcomes, spread(outcomes, took)] : outcomes

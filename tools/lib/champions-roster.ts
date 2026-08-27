@@ -8,7 +8,7 @@ import { registryOf } from "../../page/property/registry.ts"
 import { claimant, domainKindTest } from "../../page/page-types.ts"
 import { type Roots } from "../../page/page"
 import { addressOf, slugNamed } from "../../page/page-address.ts"
-import { isDirty } from "../../repo/roots/roots"
+import { AKASHA, isDirty, MEMORY, rootFor } from "../../repo/roots/roots"
 import { SEQUENCE_KEY } from "./sequence-manifest.ts"
 
 const SUBJECT_KEY = "domain-slug"
@@ -71,8 +71,8 @@ function scan(root: string): Map<string, Frontmatter> {
  * each side stands in is nothing either has to agree with the other about.
  */
 export function readRoster(roots: Roots): Roster {
-  const frontmatter = scan(roots.akasha)
-  const noticed = scan(roots.memory)
+  const frontmatter = scan(rootFor(roots, AKASHA))
+  const noticed = scan(rootFor(roots, MEMORY))
   const { slugs } = slugsIn(frontmatter)
   const docs: Documents = {
     frontmatterOf: (at) => frontmatter.get(at) ?? null,

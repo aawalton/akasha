@@ -3,7 +3,7 @@ import { diskFileTree } from "../../page/file-tree.ts"
 import { registryOf } from "../../page/property/registry.ts"
 import { soleRepoOf } from "../../page/page-types.ts"
 import { readSubject, SUBJECTS, type Subject } from "./subjects.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const ROOT = new URL("../../", import.meta.url).pathname.replace(/\/$/, "")
 
@@ -26,8 +26,8 @@ test("every subject reads from the repo its page type names, not the one asking"
   for (const subject of SUBJECTS) {
     if (subject === "domains") continue
     const repo = repoNaming(TYPE_OF[subject])
-    const roots = { ...resolveRoots(), akasha: ROOT } as unknown as Record<string, string>
-    expect(readSubject(ROOT, subject).root).toBe(roots[repo]!)
+    const roots = { ...resolveRoots(), akasha: ROOT }
+    expect(readSubject(ROOT, subject).root).toBe(rootFor(roots, repo))
   }
 })
 

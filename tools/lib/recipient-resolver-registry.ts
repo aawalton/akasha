@@ -1,7 +1,7 @@
 
 import { type CommsRule, type OnDemandAgentSpec } from "./decide-wake-match.ts"
 import { handlerSeatName, identityHeardFrom } from "./compose-seat-name.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import {
   type PersonHandlerIdentity,
   personHandlerSpec,
@@ -9,7 +9,7 @@ import {
   standingPersonaSpec,
 } from "./wake-armed-specs.ts"
 
-const ROOT = resolveRoots().akasha
+const ROOT = rootFor(resolveRoots(), AKASHA)
 
 export const ALAN_HANDLER_SEAT = handlerSeatName("alan", ROOT)
 

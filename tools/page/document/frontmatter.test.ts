@@ -1,13 +1,13 @@
 
 import { describe, expect, test } from "bun:test"
 import { readFileSync } from "node:fs"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { meaning } from "./meaning.ts"
 import { parse } from "../../../page/document/parse.ts"
 import { print } from "./print.ts"
 import type { Document, FrontmatterValue, Scalar } from "../../../page/document/types.ts"
 
-const ROOT = resolveRoots().akasha
+const ROOT = rootFor(resolveRoots(), AKASHA)
 const INITIATIVE = "pages/page-body-shape/initiative.page-body-shape.md"
 
 const source = (relPath: string): string => readFileSync(`${ROOT}/${relPath}`, "utf8")

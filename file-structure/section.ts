@@ -5,7 +5,7 @@ import { CODE_EDGE } from "../graph/edge-producer/beside/beside.ts"
 import { IMPORT_EDGE } from "../graph/edge-producer/typescript/typescript.ts"
 import type { EdgeInit } from "../graph/edge-producer/edge-shape.ts"
 import type { FileNode } from "../graph/node-producer/file/file.ts"
-import { AKASHA, rootsHere } from "../repo/roots/roots.ts"
+import { AKASHA, rootFor, rootsHere } from "../repo/roots/roots.ts"
 
 export const ROOT_FOLDER = "."
 
@@ -22,7 +22,7 @@ export function folderOf(key: string): string {
 
 export function sectionAt(argv: readonly string[]): Section {
   const roots = rootsHere()
-  const repoRoot = roots[AKASHA]
+  const repoRoot = rootFor(roots, AKASHA)
   if (repoRoot === undefined) throw new Error("akasha is not cloned here, so there is no graph to ask")
   const at = resolve(argv[0] ?? ".")
   const path = relative(repoRoot, at)

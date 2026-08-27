@@ -2,10 +2,10 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { pageTypePathIn } from "../../../page/page-types.ts"
 import { readNextSeqOf, type SeqSource } from "../page-seq.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { toolArgv } from "../tool-argv.ts"
 
-const pageTypeAt = (slug: string): string => pageTypePathIn(resolveRoots().akasha, slug)
+const pageTypeAt = (slug: string): string => pageTypePathIn(rootFor(resolveRoots(), AKASHA), slug)
 
 const SCRATCH_ROOT = "/var/tmp"
 
@@ -31,7 +31,7 @@ interface Advance {
 }
 
 function advance(source: SeqSource, first: number, count: number): Advance {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const scratch = mkdtempSync(join(SCRATCH_ROOT, "main-pipeline-creator-seqs-"))
   const payloadPath = join(scratch, "advance.json")
   writeFileSync(

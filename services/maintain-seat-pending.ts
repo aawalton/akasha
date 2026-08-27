@@ -6,7 +6,7 @@ export const tool = {
 import { watch } from "node:fs"
 import { join } from "node:path"
 import { messagesDirRelPath } from "../tools/lib/message-file.ts"
-import { resolveRoots } from "../repo/roots/roots"
+import { MEMORY, resolveRoots, rootFor } from "../repo/roots/roots"
 import { seatDirs } from "../tools/lib/seat-presence-read.ts"
 import { type SeatPending, pendingFromFiles, pendingFromQuestions } from "../tools/lib/seat-pending-batch.ts"
 import { setPending } from "../tools/lib/seat-turn-pending.ts"
@@ -65,7 +65,7 @@ function stamp(found: readonly SeatPending[]): void {
 }
 
 function storesWatched(): readonly string[] {
-  const memory = resolveRoots().memory
+  const memory = rootFor(resolveRoots(), MEMORY)
   return [...seatDirs(), join(memory, messagesDirRelPath())]
 }
 

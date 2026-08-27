@@ -1,5 +1,5 @@
 
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { seatRoster } from "./seat-roster.ts"
 import { resolveSlot, scan } from "./seat-resolve.ts"
 
@@ -69,7 +69,7 @@ export function names(stated: Stated): string {
 }
 
 export function undeclared(stated: Stated): string | null {
-  const root = resolveRoots().akasha
+  const root = rootFor(resolveRoots(), AKASHA)
   const found = scan(root)
 
   if (stated.kind === "domain" && "refusal" in resolveSlot("domain", stated.domain, root, found)) {

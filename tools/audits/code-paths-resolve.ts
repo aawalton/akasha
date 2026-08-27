@@ -1,12 +1,15 @@
 
+import { AKASHA, CODE, rootFor } from "../../repo/roots/roots.ts"
 import type { Check, RepoView } from "../lib/check.ts"
 import { CodeImportError, codeRefFile, codeRefKind } from "../lib/code-import.ts"
 import { codeReaches } from "../lib/code-reaches.ts"
 import { git } from "../../repo/git/git.ts"
-import { judge, over } from "../../outcome/outcome"
+import { judge, over, skip } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
 
 const NAME = "code-paths-resolve"
+
+const REFERENCE = "reference naming a code-tree file"
 
 const RESTS_ON =
   "the code checkout standing at the commit named above — a reference the branch under it has " +
@@ -25,10 +28,6 @@ interface Named {
   readonly handed: boolean
 }
 
-function rootsInRunnerOrder(repo: RepoView): readonly string[] {
-  return [repo.roots.akasha, repo.roots.code]
-}
-
 function standsIn(repo: RepoView, ref: string, roots: readonly string[]): string | null {
   for (const one of roots) {
     if (repo.exists(codeRefFile(ref, one))) return one
@@ -37,14 +36,21 @@ function standsIn(repo: RepoView, ref: string, roots: readonly string[]): string
 }
 
 export const codePathsResolve: Check = (repo) => {
-  const root = repo.roots.akasha
-  const reaches = codeReaches(root, repo.roots.code)
+  const root = rootFor(repo.roots, AKASHA)
+  const codeRoot = repo.roots.code
+  if (codeRoot === undefined) {
+    return {
+      ...skip(NAME, `no \`${CODE}\` repository is cloned here, so no reference into it was resolved`),
+      population: over(0, REFERENCE),
+    }
+  }
+  const reaches = codeReaches(root, codeRoot)
   const named: Named[] = []
   for (const one of reaches.reaches)
     for (const site of one.sites)
       named.push({ ref: one.ref, site, handed: one.handed.includes(site) })
 
-  const looked = rootsInRunnerOrder(repo)
+  const looked = [root, codeRoot]
   const unresolved: string[] = []
   let here = 0
   let onlyThere = 0
@@ -52,7 +58,7 @@ export const codePathsResolve: Check = (repo) => {
     if (handed) {
       let file: string | null = null
       try {
-        file = codeRefFile(ref, repo.roots.code)
+        file = codeRefFile(ref, codeRoot)
       } catch (err) {
         if (!(err instanceof CodeImportError)) throw err
       }
@@ -61,13 +67,13 @@ export const codePathsResolve: Check = (repo) => {
         codeRefKind(ref) === "path"
           ? refusalText(
               "code-reach-unresolved",
-              { path: site, named: ref, root: repo.roots.code },
+              { path: site, named: ref, root: codeRoot },
               root,
               fromDisk
             )
           : refusalText(
               "code-specifier-unresolved",
-              { path: site, specifier: ref, root: repo.roots.code },
+              { path: site, specifier: ref, root: codeRoot },
               root,
               fromDisk
             )
@@ -108,8 +114,8 @@ export const codePathsResolve: Check = (repo) => {
     ...judge(
       NAME,
       `${handedPaths} path(s) and ${specifiers} package specifier(s) handed to a ` +
-        `code-repository loader, which resolves each against ${repo.roots.code} at ` +
-        `${headOf(repo.roots.code)} and looks nowhere else; ${literals} further code-tree ` +
+        `code-repository loader, which resolves each against ${codeRoot} at ` +
+        `${headOf(codeRoot)} and looks nowhere else; ${literals} further code-tree ` +
         "path(s) named as plain literals — dispatch keys, script paths, fixtures, labels — " +
         `which resolve from whichever root holds them, this repository's own first: ${here} ` +
         `of those stand here, ${onlyThere} only in that checkout; ${unresolved.length} ` +
@@ -117,6 +123,6 @@ export const codePathsResolve: Check = (repo) => {
         `of the TypeScript in ${root} as it stands and resting on ${RESTS_ON}`,
       [...blind, ...unresolved]
     ),
-    population: over(named.length, "reference naming a code-tree file"),
+    population: over(named.length, REFERENCE),
   }
 }

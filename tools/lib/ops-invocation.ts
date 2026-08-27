@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { akashaPathFor } from "../ops/akasha.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 
 const COMMAND_DIR = "/tools/commands/"
 
@@ -21,7 +21,7 @@ function akashaInvocationOf(entryPath: string): OpsInvocation | null {
   const path = akashaPathFor(page)
   if (path === null) return null
   try {
-    return { root: resolveRoots().akasha, path }
+    return { root: rootFor(resolveRoots(), AKASHA), path }
   } catch {
     return null
   }

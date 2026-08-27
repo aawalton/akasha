@@ -1,3 +1,4 @@
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over, skip } from "../../outcome/outcome"
 import { diskFileTree } from "../../page/file-tree.ts"
@@ -50,7 +51,7 @@ export const defaultsNotRequired: Check = (repo) => {
     defaulted += 1
     if (stringAt(fm, REQUIRED) !== "true") continue
     refusals.push(
-      refusalText("property-default-and-required", { path: relPath }, repo.roots.akasha, fromDisk)
+      refusalText("property-default-and-required", { path: relPath }, rootFor(repo.roots, AKASHA), fromDisk)
     )
   }
 

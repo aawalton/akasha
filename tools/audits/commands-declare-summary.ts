@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -7,7 +8,7 @@ import { declaredCommands } from "../ops/declared.ts"
 const NAME = "commands-declare-summary"
 
 export const commandsDeclareSummary: Check = (repo) => {
-  const commands = declaredCommands(repo.roots.akasha)
+  const commands = declaredCommands(rootFor(repo.roots, AKASHA))
   const messages: string[] = []
   for (const one of commands) {
     if (one.summary.trim() !== "") continue
@@ -15,7 +16,7 @@ export const commandsDeclareSummary: Check = (repo) => {
       refusalText(
         "command-declares-no-summary",
         { command: one.path.join(" "), source: one.source ?? "unknown" },
-        repo.roots.akasha,
+        rootFor(repo.roots, AKASHA),
         fromDisk
       )
     )

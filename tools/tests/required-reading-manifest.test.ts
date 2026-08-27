@@ -6,14 +6,14 @@ import { hold, type Shape } from "../../page/shape/shape.ts"
 import { shapeFor } from "../../page/shape/chain.ts"
 import { pageTypeAt } from "../../page/page-types.ts"
 import { textAt } from "../../page/text/text.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { definitionOf, requiredReadingManifestOf } from "../lib/required-reading-manifest.ts"
 
 const roots = resolveRoots()
 const tree = diskFileTree(roots)
 
 function shapeAt(at: string): Shape {
-  const type = pageTypeAt(at, textAt(roots.akasha, at)!)
+  const type = pageTypeAt(at, textAt(rootFor(roots, AKASHA), at)!)
   if (type === null) throw new Error(`${at} declares no page type this reads`)
   return shapeFor(type, tree)
 }
@@ -53,7 +53,7 @@ const AT = "pages/domain/subject.domain.md"
 const DOMAIN_AT = "pages/page-type/domain.page-type.md"
 
 function keysOf(body: string): readonly string[] {
-  const type = pageTypeAt(DOMAIN_AT, textAt(roots.akasha, DOMAIN_AT)!)
+  const type = pageTypeAt(DOMAIN_AT, textAt(rootFor(roots, AKASHA), DOMAIN_AT)!)
   if (type === null) throw new Error(`${DOMAIN_AT} declares no page type this reads`)
   const held = compiledPageTypeFor(type, tree)
   const { properties } = held

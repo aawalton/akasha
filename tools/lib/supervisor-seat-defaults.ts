@@ -3,7 +3,7 @@ import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { SEAT_COMMAND_REL } from "../aw/init/state-seat.ts"
 import { attributesOf, recordedModeOf } from "./attributes.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { onCallOf } from "./seat-on-call.ts"
 import { defaultSlots } from "./seat-resolve.ts"
 
@@ -81,7 +81,7 @@ export function parseDefaultLines(stdout: string): Readonly<Record<string, strin
 }
 
 export async function declaredDefaults(): Promise<Readonly<Record<string, string>>> {
-  const entry = seatCallIn(resolveRoots().akasha)
+  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
   if (entry === null) return {}
   const outcome = await callSeatAt(entry, { resolve: true, default: true })
   if (outcome.code !== 0) return {}
@@ -97,7 +97,7 @@ export function seatDefaultsStand(agentId: string, mode: SeatMode): boolean {
   if (!onCallOf(agentId)) return false
   if (recordedModeOf(agentId) === null) return false
   const held = attributesOf(agentId)
-  return defaultSlots(resolveRoots().akasha).every((slot) => held[slot] !== undefined)
+  return defaultSlots(rootFor(resolveRoots(), AKASHA)).every((slot) => held[slot] !== undefined)
 }
 
 export async function stateSeatDefaults(opts: {
@@ -105,7 +105,7 @@ export async function stateSeatDefaults(opts: {
   readonly mode: SeatMode
 }): Promise<void> {
   if (seatDefaultsStand(opts.agentId, opts.mode)) return
-  const entry = seatCallIn(resolveRoots().akasha)
+  const entry = seatCallIn(rootFor(resolveRoots(), AKASHA))
   if (entry === null) return
   try {
     await callSeatAt(entry, defaultSeatCall(opts.agentId, opts.mode))

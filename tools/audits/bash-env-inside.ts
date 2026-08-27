@@ -1,4 +1,5 @@
 
+import { AKASHA, rootFor } from "../../repo/roots/roots.ts"
 import type { Check } from "../lib/check.ts"
 import { judge, over } from "../../outcome/outcome"
 import { fromDisk, refusalText } from "../lib/refusal.ts"
@@ -16,7 +17,7 @@ export function declaredIn(document: unknown): string | null {
 }
 
 export const bashEnvInside: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, AKASHA)
   const population = over(0, `${DECLARATION} declaration(s)`)
   if (!repo.exists(`${root}/${SETTINGS_PATH}`)) {
     return {

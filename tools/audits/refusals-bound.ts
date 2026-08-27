@@ -7,7 +7,7 @@ import { parseFrontmatter } from "../../page/frontmatter.ts"
 import { ownTypeScript } from "../lib/own-typescript.ts"
 import { refusalDirIn, fromDisk, refusalText } from "../lib/refusal.ts"
 import { judge, over } from "../../outcome/outcome"
-import { resolveRoots, AKASHA as SIBLING } from "../../repo/roots/roots"
+import { AKASHA as SIBLING, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { stemOf as slugOf } from "../../page/name/name"
 
 const NAME = "refusals-bound"
@@ -93,7 +93,7 @@ function declaredIn(body: string): string[] {
 const listed = (names: readonly string[]): string => names.map((name) => `\`${name}\``).join(", ")
 
 export const refusalsBound: Check = (repo) => {
-  const root = repo.roots.akasha
+  const root = rootFor(repo.roots, SIBLING)
   const documents = new Map<string, string[]>()
   const refusals = refusalDirIn(root)
   for (const relPath of new Glob(`${refusals}/*.md`).scanSync(root)) {

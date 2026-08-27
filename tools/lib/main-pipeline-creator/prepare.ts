@@ -1,7 +1,7 @@
 import { codeRoot } from "../code-root.ts"
 import { askingAt, graphOrigin } from "../graph/origin.ts"
 import { loadAllWorkflowConfigsAtShaInProcess } from "../pipeline-run/pipeline-configs-sha-pinned.ts"
-import { resolveRoots } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 import { commitSha40 } from "../workflow-dsl/ci-identifiers.ts"
 import type { CreatorCode, Graph, GitResult, WorkflowConfigJson } from "./code.ts"
 import { CREATOR_SCRATCH_ROOT } from "./sha-pinned-tree.ts"
@@ -46,7 +46,7 @@ export async function prepareMainPipeline(
   args: PrepareArgs
 ): Promise<Prepared | null> {
   const gitDir = codeRoot()
-  const instructionsGitDir = resolveRoots().akasha
+  const instructionsGitDir = rootFor(resolveRoots(), AKASHA)
   const git = (spelled: readonly string[]): Promise<GitResult> =>
     code.runGit(spelled, gitDir, { timeoutMs: GIT_TIMEOUT_MS })
 

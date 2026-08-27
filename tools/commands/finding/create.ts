@@ -12,7 +12,7 @@ import {
   undeclaredRefusal,
 } from "../../lib/finding.ts"
 import { parseArgs } from "../../lib/parse-args.ts"
-import { resolveRoots, targetRoot } from "../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor, targetRoot } from "../../../repo/roots/roots"
 import { decodeUtf8, notUtf8 } from "../../lib/utf8-body.ts"
 import type { CommandHelp } from "../../ops/surface.ts"
 
@@ -99,13 +99,13 @@ export default async function findingCreate(args: readonly string[]): Promise<vo
   const domain = parsed.requireString("--domain")
   const slug = parsed.requireString("--slug")
 
-  const roots = resolveRoots(findingRepo(resolveRoots().akasha))
+  const roots = resolveRoots(findingRepo(rootFor(resolveRoots(), AKASHA)))
   const root = targetRoot(roots)
   if (!existsSync(`${root}/.git`)) throw operationalError(`${root} is not a git repo`)
 
   const badSlug = kebabRefusal(slug)
   if (badSlug !== null) throw inputError(badSlug)
-  const undeclared = undeclaredRefusal(domain, declaredDomains(roots.akasha))
+  const undeclared = undeclaredRefusal(domain, declaredDomains(rootFor(roots, AKASHA)))
   if (undeclared !== null) throw inputError(undeclared)
 
   const relPath = findingPathIn(root, domain, slug)

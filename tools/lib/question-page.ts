@@ -3,7 +3,7 @@ import { type GatedAct, landBodies } from "./gated-landing.ts"
 import { attachmentFileOf } from "../../page/attachment-file.ts"
 import { answer, type Row, textOf } from "./page-query.ts"
 import { landingTextFor, splitValues, type Value } from "./page-write.ts"
-import { resolveRoots } from "../../repo/roots/roots"
+import { MEMORY, resolveRoots, rootFor } from "../../repo/roots/roots"
 import { shape } from "./shape.ts"
 
 export const QUESTION_PAGE_TYPE_SLUG = "question"
@@ -212,7 +212,7 @@ function land(
       body: one.text,
     })),
   ]
-  const outcome = landBodies(act(message, roots.memory), bodies)
+  const outcome = landBodies(act(message, rootFor(roots, MEMORY)), bodies)
   if (!outcome.ok) {
     throw new Error(`the \`question\` page at ${found.at.relPath} did not land: ${outcome.why}`)
   }
