@@ -30,3 +30,11 @@ domain-parent-slug: page-type/cluster-check
 # Definition
 
 - **Instruction references check** — No tracked text file in the repository names a document in the instructions repository.
+
+# Design
+
+This check outlives the world it names.
+
+# Intent
+
+This check counts nothing.
