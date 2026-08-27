@@ -16,3 +16,7 @@ parent-slug: aine-global
 - A check runs only on a change that could break its invariant.
 - A check that can run on a patch passes before the patch is applied.
 - Every occasion a check could run on is a property it states.
+- A check's reach is worked out once and kept until what decides it changes.
+- Every check akasha defines finds nothing on main.
+- Which checks run is settled by their pages, never by a cache.
+- Nothing outside the checks system says what a check is.

@@ -20,9 +20,11 @@ parent-slug: aine-global
 
 # Design
 
-Two graphs stand in akasha. The old one carried 129 types, 51 node and 78 edge; the graph carries one node type and five edge types. What separates them is duplication rather than location, and this initiative ends with one of each and nothing shadowing it.
+Two graphs stand in akasha. What separates them is duplication rather than location, and this initiative ends with one and nothing shadowing it.
 
-A type earns its place by making a question answerable, rather than by having a reader today.
+The old graph is deleted rather than translated. Its 129 types are not a specification to re-derive: anything needed is written fresh on the new stack when something needs it, which costs less than carrying an old type across.
+
+A type earns its place by answering a question something is asking now. Nothing is built for a case that is not here.
 
 The intents are listed in the order they close. An edge's truth rests on both its ends, so a node asserting something false makes every edge touching it false as well. The last is worked only once every line above it is met, there being no point shaping answers over a set still moving or a graph still doubled.
 
@@ -30,27 +32,41 @@ Holding an answer and dropping a stale one are two halves of one thing, so they 
 
 ## How the work is shaped
 
-The first intent is the whole judgement, and the three under it follow from it. The 129 old type pages are read before the set is settled, being the only surviving record of what the old graph could answer.
-
-Each type is built, its truth settled at that moment, and the old producers answering it deleted in the same piece of work, so the two graphs never stand side by side longer than one piece of work.
+The old graph goes whole rather than type by type, nothing in the new set being translated from it. What breaks on its removal is rewritten against the new set or deleted with the checks that own it.
 
 The last four intents are one body of work rather than four. Targeting, holding answers, dropping stale ones and answering more than one hop are all the same index, and splitting them between seats yields four half-indexes.
 
-Everything else runs in parallel, and as wide as there are seats to run it. A type is a piece of work one seat carries end to end — settled, built, its old producers deleted — and types do not wait on each other.
+Everything else runs in parallel, and as wide as there are seats to run it. A type is a piece of work one seat carries end to end, and types do not wait on each other.
 
 ## What Alan settled on 2026-08-27
 
-He approves the generalized structure of the node and edge types. Their names, definitions and invariants are written without further approval, and the `Alan Approves` rule on `domain/mp-graph` is met for this piece of work by his approval of that structure. This release covers this piece of work and not the next.
+He approves each type individually. The `Alan Approves` rule on `domain/mp-graph` stands as written: no type enters the graph before he has approved that type.
 
-Distinctions are carried as attributes rather than spelled as types. Edges are defined by filtering on attributes, and questions are asked the same way, so the set lands well under the 21 types the previous run proposed.
+The test for both halves:
 
-One file node type carries both its extension and, for a page, its page type, as attributes. Nothing splits into a second node type for a distinction an attribute already carries.
+- A node type is a different thing; an attribute is the same thing with a property.
+- An edge type is a different way of connecting; an attribute is the same way with a property.
+
+A thing is a node type where one file holds many of it; where a file holds one, it is that file with an attribute.
+
+An edge is polymorphic in its ends wherever its way of connecting is. A folder holds a path whether a file or a folder stands there, so holding is one edge type reaching either. Nothing about the ends splits a type by itself.
+
+Rootedness is removed as a concept. No edge type carries it and no node type seeds it. `ops graph rooted` and the `deployed` node flag go with it. Whether deleting a file breaks production is asked as a walk from a deployable rather than held as a flag.
+
+## The set
+
+Two node types, from the union's 52.
+
+- `file` — every file, its format an attribute. Approved 2026-08-27.
+- `folder` — every folder; being a package, and being deployed, are attributes. Approved 2026-08-27.
+
+Seven edge types, from the union's 83: `import`, `names`, `relation`, `path`, `file-kind`, `code`, `contains`. `contains` and `relation` are approved 2026-08-27; each of the rest is approved on its own before it is built.
+
+`relation` is a thin concept layer over the pages system's own index, by Alan's ruling on 2026-08-27. The reverse index at `.git/pages/index/relation/` already holds these edges with staleness marks, so the graph reads it rather than deriving the same facts a second time. The `frontmatter` producer, which re-derives them in memory, is replaced rather than kept.
+
+`k8s-resource`, `pipeline-step`, `pipeline-workflow` and `depends` are dropped, with `uses`, `selects`, `declared-in`, `runs` and `precedes`. Nothing asks the graph for any of them today, and deploys are being rebuilt from the ground up, so a type written for them now would be written twice.
 
 ## Standing rulings
-
-The old graph does not build, so nothing can be measured against it running. Its pages are the only surviving record of what it answered.
-
-Old producers go one at a time as the types they answered land. The old engine, its directory and the workstation service pinned to it go together, and that is the last act before the answering work.
 
 The code-editor repository is out of scope, by Alan's ruling on 2026-08-26. No code-editor node enters the graph.
 
