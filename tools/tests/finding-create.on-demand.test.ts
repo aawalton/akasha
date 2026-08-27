@@ -1,9 +1,11 @@
 import { describe, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { composeFinding, withDomainKey } from "../lib/finding.ts"
-import { fixture, installPages, type Fixture } from "./fixture.ts"
+import { fixture, installPages, installRepos, type Fixture } from "./fixture.ts"
 
 const ARM = `${import.meta.dir}/command-arm.ts`
+
+const LIVE = `${import.meta.dir}/../..`
 
 const MODULE = `${import.meta.dir}/../commands/finding/create.ts`
 
@@ -20,9 +22,9 @@ const PAGES = [
 ]
 
 function storeAt(at: Fixture): void {
-  mkdirSync(`${at.memory}/.git`, { recursive: true })
-  mkdirSync(`${at.memory}/pages/finding`, { recursive: true })
+  mkdirSync(`${at.root}/pages/finding`, { recursive: true })
   at.installRecorder()
+  installRepos(at.root)
   installPages(at.root, PAGES)
   at.readIt(AGENT, "pages/page-type/finding.page-type.md")
   at.readIt(AGENT, "pages/page-type/page.page-type.md")
@@ -34,8 +36,12 @@ function storeAt(at: Fixture): void {
 function runCommand(at: Fixture, args: readonly string[]): { code: number; out: string; err: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", ARM, MODULE, ...args],
-    cwd: at.memory,
-    env: { ...process.env, AGENT_ID: AGENT, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+    cwd: at.root,
+    // ONE ROOT NAMES THE STORE, AND `CODE_ROOT` NAMES THE PACKAGES. `INSTRUCTIONS_ROOT` and
+    // `MEMORY_ROOT` stood here for repositories akasha has absorbed; nothing reads either, so the
+    // command ran against this checkout rather than the fixture. The temp store has no
+    // `node_modules`, so the `@shared/...` the command loads is looked for here instead.
+    env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, CODE_ROOT: LIVE, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -76,7 +82,7 @@ describe("what the filing command refuses before it composes anything", () => {
       expect(run.code).toBe(1)
       expect(run.err).toContain("findinsg")
       expect(run.err).toContain("finding")
-      expect(existsSync(`${at.memory}/pages/finding/finding`)).toBe(false)
+      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
     } finally {
       at.dispose()
     }
@@ -89,7 +95,7 @@ describe("what the filing command refuses before it composes anything", () => {
       const run = runCommand(at, filing(at, "finding", "States Destination Twice"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("kebab-case")
-      expect(existsSync(`${at.memory}/pages/finding/finding`)).toBe(false)
+      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
     } finally {
       at.dispose()
     }
@@ -99,11 +105,14 @@ describe("what the filing command refuses before it composes anything", () => {
     const at = fixture()
     try {
       storeAt(at)
-      at.putMemory("pages/finding/finding/taken.md", "---\ndomain-slug: finding\n---\n\n# Claim\n\nx\n\n# Evidence\n\ny\n")
+      at.put(
+        "pages/finding/finding/taken.finding.md",
+        "---\ndomain-slug: finding\n---\n\n# Claim\n\nx\n\n# Evidence\n\ny\n"
+      )
       const run = runCommand(at, filing(at, "finding", "taken"))
       expect(run.code).toBe(1)
       expect(run.err).toContain("already")
-      expect(readFileSync(`${at.memory}/pages/finding/finding/taken.md`, "utf8")).toContain("# Claim")
+      expect(readFileSync(`${at.root}/pages/finding/finding/taken.finding.md`, "utf8")).toContain("# Claim")
     } finally {
       at.dispose()
     }
@@ -152,8 +161,8 @@ describe("what it puts through the gates", () => {
     try {
       storeAt(at)
       const run = runCommand(at, [...filing(at, "finding", "states-destination-twice"), "--dry-run"])
-      expect(run.out).toContain("pages/finding/finding/states-destination-twice.md")
-      expect(existsSync(`${at.memory}/pages/finding/finding/states-destination-twice.md`)).toBe(false)
+      expect(run.out).toContain("pages/finding/finding/states-destination-twice.finding.md")
+      expect(existsSync(`${at.root}/pages/finding/finding/states-destination-twice.finding.md`)).toBe(false)
     } finally {
       at.dispose()
     }
@@ -167,15 +176,16 @@ describe("what it lands", () => {
     try {
       at.document(
         "pages/page-type/finding.page-type.md",
-        `slug: finding\ndomain-parent-slug: global\nextends-slug: none\nfiles: memory:pages/finding/**/*.md`,
+        `slug: finding\ndomain-parent-slug: global\nextends-slug: none\nfiles: akasha:**/*.finding.md`,
         20
       )
       at.document("pages/domain/global.domain.md", "slug: global\ndomain-parent-slug: global", 20)
+      installRepos(at.root)
       installPages(at.root, ["pages/page-property-definition/page-type-slug.page-property-definition.md"])
       at.installRecorder()
       at.readIt(AGENT, "pages/page-type/finding.page-type.md")
-      mkdirSync(`${at.memory}/pages/finding`, { recursive: true })
-      at.putMemory(".keep", "")
+      mkdirSync(`${at.root}/pages/finding`, { recursive: true })
+      at.put(".keep", "")
       writeFileSync(`${at.home}/claim.md`, "The store states its destination twice.\n")
       writeFileSync(`${at.home}/evidence.md`, "Measured against the repo.\n")
       for (const args of [
@@ -185,23 +195,23 @@ describe("what it lands", () => {
         ["add", "-A"],
         ["commit", "-q", "-m", "seed"],
       ]) {
-        Bun.spawnSync({ cmd: ["git", ...args], cwd: at.memory, stdout: "pipe", stderr: "pipe" })
+        Bun.spawnSync({ cmd: ["git", ...args], cwd: at.root, stdout: "pipe", stderr: "pipe" })
       }
-      expect(existsSync(`${at.memory}/pages/finding/finding`)).toBe(false)
+      expect(existsSync(`${at.root}/pages/finding/finding`)).toBe(false)
 
       runCommand(at, filing(at, "finding", "states-destination-twice"))
 
-      const landed = "pages/finding/finding/states-destination-twice.md"
-      expect(readFileSync(`${at.memory}/${landed}`, "utf8")).toContain("domain-slug: finding")
+      const landed = "pages/finding/finding/states-destination-twice.finding.md"
+      expect(readFileSync(`${at.root}/${landed}`, "utf8")).toContain("domain-slug: finding")
       const show = Bun.spawnSync({
         cmd: ["git", "show", "--stat", "--name-status", "HEAD"],
-        cwd: at.memory,
+        cwd: at.root,
         stdout: "pipe",
       }).stdout.toString()
       expect(show).toContain(landed)
       const count = Bun.spawnSync({
         cmd: ["git", "rev-list", "--count", "HEAD", "^HEAD~1"],
-        cwd: at.memory,
+        cwd: at.root,
         stdout: "pipe",
       }).stdout.toString()
       expect(count.trim()).toBe("1")
