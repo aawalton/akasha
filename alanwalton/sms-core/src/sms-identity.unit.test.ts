@@ -33,7 +33,7 @@ describe("projectSmsIdentities", () => {
         phone: "(801) 502-8349",
         accountUserId: KI_ACCOUNT,
         smsAllowed: true,
-        smsHandlerTarget: "ki-handler",
+        smsHandlerTarget: "ki",
       },
       { phone: "", accountUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7" },
       { phone: "(555) 111-2222" },
@@ -44,7 +44,7 @@ describe("projectSmsIdentities", () => {
       phoneDigits: "8015028349",
       accountUserId: KI_ACCOUNT,
       smsAllowed: true,
-      handlerTarget: "ki-handler",
+      handlerTarget: "ki",
     })
   })
   test("absent smsAllowed projects as false (fail-closed)", () => {
@@ -100,7 +100,7 @@ describe("decideSmsRoute", () => {
     phoneDigits: "8015028349",
     accountUserId: KI_ACCOUNT,
     smsAllowed: true,
-    handlerTarget: "ki-handler",
+    handlerTarget: "ki",
   }
   const kiRevoked: SmsExternalIdentity = { ...kiAllowed, smsAllowed: false }
   const enrolledWithNoHandler: SmsExternalIdentity = { ...kiAllowed, handlerTarget: null }
@@ -115,7 +115,7 @@ describe("decideSmsRoute", () => {
     const d = decideSmsRoute({ sender: "+18015028349", content: "logged a book" }, [kiAllowed])
     expect(d.kind).toBe("helper")
     if (d.kind === "helper") {
-      expect(d.target).toBe("ki-handler")
+      expect(d.target).toBe("ki")
       expect(d.accountUserId).toBe(KI_ACCOUNT)
     }
   })
@@ -163,7 +163,7 @@ describe("decideSmsRoute", () => {
   test("identity match wins over helper-shaped content for the same sender", () => {
     const d = decideSmsRoute({ sender: "+18015028349", content: "calendar?" }, [kiAllowed])
     expect(d.kind).toBe("helper")
-    if (d.kind === "helper") expect(d.target).toBe("ki-handler")
+    if (d.kind === "helper") expect(d.target).toBe("ki")
   })
 
   test("an enrolled, allowed sender whose record names no handler is refused, not routed", () => {

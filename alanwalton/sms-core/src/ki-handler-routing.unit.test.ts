@@ -25,7 +25,7 @@ function inboundWithText(text: string): TelnyxInboundSms {
 function kiHelperDecision(accountUserId: string | null): SmsRouteDecision {
   return {
     kind: "helper",
-    target: "ki-handler",
+    target: "ki",
     accountUserId,
     reason: "allowlisted sms identity → ki-handler",
   }

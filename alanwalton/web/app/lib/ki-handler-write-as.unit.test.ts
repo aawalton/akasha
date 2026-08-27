@@ -77,7 +77,7 @@ describe("verify → route → surface carries the RESOLVED (not content-derived
             phoneDigits: KI_DIGITS,
             accountUserId: KI_UUID,
             smsAllowed: true,
-            handlerTarget: "ki-handler",
+            handlerTarget: "ki",
           },
         ],
         nowMs,
@@ -89,12 +89,12 @@ describe("verify → route → surface carries the RESOLVED (not content-derived
     )
 
     expect(outcome.kind).toBe("routed")
-    if (outcome.kind === "routed") expect(outcome.target).toBe("ki-handler")
+    if (outcome.kind === "routed") expect(outcome.target).toBe("ki")
     expect(calls.length).toBe(1)
     const call = calls[0]
     if (call === undefined) throw new Error("deliver was not called")
     const surface = call.surface
-    expect(call.target).toBe("ki-handler")
+    expect(call.target).toBe("ki")
 
     const actingId = extractActingAccountUserId(surface)
     expect(actingId).toBe(KI_UUID)
@@ -125,7 +125,7 @@ describe("verify → route → surface carries the RESOLVED (not content-derived
       },
       {
         kind: "helper",
-        target: "ki-handler",
+        target: "ki",
         accountUserId: KI_UUID,
         reason: "allowlisted sms identity → ki-handler",
       }
