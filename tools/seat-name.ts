@@ -1,6 +1,6 @@
 export const tool = {
   summary: "Print the vocabularies a seat name may be spelled from, read names back, or admit them",
-  repos: ["akasha"],
+  path: "seat name",
 } as const
 
 import { admitSeatName, type AdmissionVocabularies } from "./lib/admit-seat-name.ts"
