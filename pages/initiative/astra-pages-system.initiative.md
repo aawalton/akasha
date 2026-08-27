@@ -51,13 +51,18 @@ Settled with Alan on 2026-08-27, before any intent was written:
 
 **The formula language already carries the fallback the naming intents need.** `||` returns its left value where that value is truthy and its right otherwise, in both implementations, pinned against each other by the conformance suite. It is spelled `prop(slug) || prop(id)`, not `{slug} || {id}`, which is template notation.
 
+**The write path calls the file-side formula evaluator directly for now, settled 2026-08-27.** `tools/lib/page-expression.ts` is the evaluator naming can reach, being the file-side one. That evaluator belongs under `pages-system/` in the end, so this edge is a stage rather than where it comes to rest.
+
 **Loose ends, found 2026-08-27.** Taken as they block an intent or come up alongside one.
 
 - Naming runs on templates rather than on the formula language. Four hole-renderers behave four different ways on an unfilled hole, twenty hyphenated holes parse as subtraction rather than as references, and `{id}` is out of scope where a new page is named.
 - `vocabulary` and `rows-homes` are cached under a mark taken over the page shape alone, while both read the registry, which reads the index. Only `registry` carries an index stamp.
 - `page/shape/mark.ts` names `checks/refusal` where the folder is `checks-system/refusal`, so `ownCodeParts` finds one folder short and answers nothing. `page/shape/mark.unit.test.ts` fails on main for this. Whether the answers cache is thereby dead is unsettled: answers landed today carrying whole shape marks.
 - 2,633 pages exist byte-identically in both `akasha` and `books`, which is why `page-name-unique` meets collisions it cannot explain.
-- The unique-name intent costs 24,518 renames across eight page types, `story-chapter-royal-road` and `persona-day` being most of it.
+- The unique-name intent costs 24,518 renames across eight page types. Four are clear: `persona-day`, `persona-craft-day`, `idle-persona-card` and `story-turn`, 2,301 pages between them, at most one call site each.
+- `finding` cannot take a flat name while `tools/audits/findings-sorted.ts` refuses a name of one segment, which would refuse all 3,456 findings. Three refusal pages spell the old shape.
+- `story-chapter-royal-road` is written by `services/royal-road-sync.ts` as a raw path rather than through the pages API, so a formula reaches none of it until that writer is rebuilt.
+- `book-chapter` is not a rename: 5,622 markdown links across 362 files address chapters by name, and no property tells the colliders apart. Its sections want modelling as pages first.
 - `keepNamedIn` removes an emptied identity file but never its directory.
 
 **The graph answer cache under `.git/answers` is out of scope**, being the graph system's rather than the pages system's.
