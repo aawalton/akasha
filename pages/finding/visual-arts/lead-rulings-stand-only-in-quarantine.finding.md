@@ -8,7 +8,7 @@ domain-slug: domain/visual-arts
 
 # Claim
 
-The two rulings that say what a lead may do in visual-arts while the domain cannot open — that readiness is pullable and the entering is not, and that even a noticing only the lead would see is Alan's to permit — stand in no live document. `domains/visual-arts.md` carries a Definition and nothing else, and the persona row gates the recording of things without reaching either question.
+The two rulings that say what a lead may do in visual-arts while the domain cannot open — that readiness is pullable and the entering is not, and that even a noticing only the lead would see is Alan's to permit — stand in no live document. `pages/domain/visual-arts.domain.md` carries a Definition and nothing else, and the persona row gates the recording of things without reaching either question.
 
 # Evidence
 
@@ -20,7 +20,7 @@ The second: "noticing sits one step from nudging", so whether to build "a notici
 
 Why the row does not carry them. `ops page show 019ee230-9ab9-7e88-b555-c8a536318388 --properties conduct`, read in full: the define-front gate says "she drives no catalog and invents no page-type on her own" and "don't improvise a data surface", both about recording STRUCTURALLY. A noticing only the lead sees records nothing, so the gate's wording does not reach it; and nothing there says what preparation IS available.
 
-`domains/visual-arts.md` is live, `persona-champion-slug: zeli`, and holds a Definition alone — no Principles, no Rules.
+`pages/domain/visual-arts.domain.md` is live, `persona-champion-slug: zeli`, and holds a Definition alone — no Principles, no Rules.
 
 Searched `~/instructions` outside `dirty/`, `~/memory`, `~/books` and `~/code` with `rg -uuu`, ignore rules off and hidden files included.
 
