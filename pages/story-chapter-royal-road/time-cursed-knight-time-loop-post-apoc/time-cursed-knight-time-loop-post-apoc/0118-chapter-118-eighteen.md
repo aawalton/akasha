@@ -1,0 +1,394 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 118: Eighteen"
+slug: 0118-chapter-118-eighteen
+partOf: time-cursed-knight-time-loop-post-apoc
+position: 118
+ownLength: 2963
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/160012/time-cursed-knight-time-loop-post-apoc/chapter/3873064/chapter-118-eighteen"
+royalRoadId: "3873064"
+---
+
+Konrad was dying.
+
+Not literally. But he felt like it since the third day, and by the eighth it was too close to reality.
+
+His water discipline had collapsed on day five, when the last of the ceramic containers ran dry and the guide, whose name turned out to be Samir, had shown him how to cut the bulbous base of a sand cactus and suck the bitter, viscous sap from its interior. The sap tasted like piss filtered through chalk. Konrad drank it like nectar.
+
+His journalist's satchel hung from his shoulder by a strap he'd reinforced three times with strips torn from his shirt. The capture device inside it was the only thing he protected from the elements with genuine care. Everything else — his dignity, his hygiene, his capacity for civilized thought — had been surrendered to the desert somewhere around the fourth sunset.
+
+The guide walked ahead.
+
+His feet found the firmest ground without searching for it. His breathing never changed. His water consumption was half of Konrad's, and the half he drank sustained him twice as long.
+
+They hadn't spoken in hours.
+
+Konrad kept walking because walking was the only thing left. The story was ahead. That was the sickness at the center of his profession, the compulsion that Frieda had recognized in him several years ago when she'd hired him. Konrad von Ries did not stop.
+
+He kept walking.
+
+The desert ended on the morning of the ninth day.
+
+One step: sand, white and fine, radiating heat.
+
+Next step: hardpan. Cracked reddish stone, dry but solid, stretching east in a plain that shimmered under the sun.
+
+Konrad stood at the boundary and stared.
+
+Behind him, dunes. The rolling, featureless amplitude of the Kumsur desert.
+
+Ahead, the hardpan extended to the horizon. And on that horizon, dark against the pale sky, shapes. Low structures. Thin columns of smoke.
+
+Samir stopped beside him.
+
+"Settlements," the guide said. It was the first word either of them had spoken since dawn. "Eastern clans. They trade with the deep caravans sometimes."
+
+"How far?"
+
+"Half a day."
+
+They walked.
+
+The settlement was a cluster of twenty mudbrick structures arranged in a loose ring around a well. Goats moved between the buildings. Children watched from doorways. The adults carried themselves with the wary courtesy of people who lived beyond the protection of any wall and had learned to read strangers the way sailors read weather.
+
+Samir spoke with the settlement's elder, a woman with white hair and hands that had been reshaping clay since before Konrad's father was born. The exchange was in a dialect of Kumsuri that Konrad couldn't follow. Samir's formal court-register Kumsuri bent and shifted to match it.
+
+Konrad sat on a stone bench near the well and ate flatbread that tasted like salvation.
+
+Samir returned twenty minutes later.
+
+"No Titans," the guide said. He sat beside Konrad and accepted a cup of well water from a child who couldn't have been older than six. "She says the ground shakes sometimes. But nothing has come."
+
+Konrad frowned. "How is that possible? Qalathar gets hit every day. Multiple times a day. And we're closer to wherever they come from."
+
+Samir drank. He set the cup down.
+
+"She says the shaking comes from the north." He pointed. "And the things that cause it move west." His finger traced an arc across the horizon. "West and then south. Toward the wall."
+
+West and south.
+
+Konrad's mind worked.
+
+The Titans didn't march in a straight line from their origin to Qalathar. They moved south along some corridor, then turned west, curving toward the city. These settlements sat outside the arc. The path of destruction bent around them.
+
+Why?
+
+"The river," Samir said, as though he'd read the question on Konrad's face. "The elder says there is a river. Two days north and east. It wasn't there before."
+
+"Before when?"
+
+"Before the shaking started."
+
+"We should go back," Samir said.
+
+Konrad looked up from his notebook.
+
+"There's no river," Samir continued. "It doesn't make sense. The elder is exaggerating." He tested the blade's edge against his thumb.
+
+"Two more days," Konrad said.
+
+Samir's jaw tightened. But he said nothing more.
+
+The forest appeared on the eleventh day.
+
+Actual trees, rising from ground that should have been sand and rock and nothing. Their trunks were thick, dark, the bark deeply fissured. Their canopies spread in broad circles. Dark, rich, wet soil. Grass grew between the trunks, knee-high, rippling in the wind.
+
+The transition from barren plain to living forest happened over a distance of perhaps fifty meters.
+
+Konrad stopped at the tree line.
+
+The air was different here. Heavier.
+
+The mana concentration, he thought. It's saturated. The soil, the water, the air. Everything here is drowning in it.
+
+He reached out with his wind affinity and felt the currents moving through the canopy. The air itself carried mana, each breath dense enough that a Third Circle Mage could feel the difference against his palate.
+
+Samir hadn't crossed the tree line. The guide stood three paces back, his knife in his hand, his dark eyes scanning the canopy above.
+
+"This was sand," Samir said. "Two years ago. Three. I walked around here. There was nothing."
+
+Konrad pulled the capture device from his satchel. He unwrapped the oilcloth, checked the crystal's charge, and sighted through the viewfinder.
+
+The forest stretched north and east. Through the gaps between the trunks, the ground sloped downward toward something that caught the light.
+
+The river.
+
+He pressed the trigger. The crystal pulsed. The copper plate drank the image.
+
+Eleven used. Twenty-five remaining.
+
+They entered the forest.
+
+The river ran north.
+
+The banks were choked with vegetation. Dense undergrowth, flowering vines in colors that didn't belong to any species Konrad had cataloged in seven years of traveling the Last Kingdoms.
+
+Samir wouldn't drink from it. Neither did Konrad.
+
+But they ate the fruit.
+
+The trees bore heavy, round things with tough rinds and pale flesh that tasted like nothing Konrad had ever eaten. Sweet and dense and faintly metallic. The fruit was obscene in its abundance. Every branch drooped with it. The ground beneath the trees was carpeted with windfall, the overripe specimens splitting open to reveal seeds the size of thumbnails surrounded by pulp the color of cream.
+
+The fruit sustained them. The river provided water for the horses.
+
+Samir's horse drank.
+
+It didn't grow restless. It didn't attack anyone. But its eyes changed. A faint luminescence lit the irises from behind.
+
+Konrad noted it. Said nothing.
+
+They followed the river north.
+
+On the twelfth day, Konrad found the facility.
+
+He smelled it first. An acrid chemical bite beneath the forest's vegetal sweetness. Then the trees thinned, and through the gap he saw concrete.
+
+He stopped.
+
+The training that seven years of journalism had burned into his nervous system engaged before his curiosity could override it. He dropped into a crouch, pulled Samir down beside him, and listened.
+
+Voices.
+
+Konrad channeled.
+
+The wind answered.
+
+This was the other kind of wind magic. The quiet kind. The kind that no one wrote papers about because it didn't win battles.
+
+He drew the air currents inward, wrapping them around his body and Samir's in a tight, controlled sheath. The sheath caught their scent and dispersed it. At the same time, he bent the airflow behind them, smoothing the grass they'd crushed, erasing the footprints their boots had pressed into the soil.
+
+Seven years of practice applied not to killing but to watching.
+
+"Stay," Konrad whispered. "Don't move."
+
+He rose from the crouch and moved forward through the undergrowth.
+
+The facility appeared through the vegetation. A structure of reinforced concrete, half-consumed by the forest's relentless growth.
+
+Around the perimeter, soldiers.
+
+Konrad went flat against the earth.
+
+The patrols moved in pairs. Their uniforms were Imperial in cut and color.
+
+He reached for the capture device.
+
+The viewfinder found the nearest patrol. Konrad adjusted the focus until the insignia on the soldiers' shoulders resolved.
+
+He pressed the trigger. The crystal pulsed.
+
+Twelve.
+
+He shifted the device. Found a second angle where the building's structure was visible alongside the patrols. The concrete walls, the industrial scale, the organized activity visible through the collapsed roof sections.
+
+He pressed the trigger.
+
+Thirteen.
+
+A woman emerged from the building's rear entrance.
+
+She wore the same uniform as the soldiers but carried herself differently.
+
+Konrad's breath caught.
+
+An officer. Running an undeclared Imperial facility on foreign soil.
+
+He adjusted the focus until her face filled the viewfinder. The resolution wasn't perfect at this distance. But it was enough.
+
+He pressed the trigger.
+
+Fourteen.
+
+Konrad lay in the undergrowth for forty minutes. He counted personnel. Noted patrol timing. Cataloged the supply crates stacked beside the loading door, their markings obscured but their shape consistent with alchemical transport containers.
+
+He didn't approach. He didn't need to. The photographs told the story. Imperial soldiers operating an unlicensed facility in the eastern desert.
+
+Each image in the capture device was a bomb.
+
+He retreated the way he'd come, wind-smoothing every trace.
+
+Samir was where he'd left him, crouched behind the same tree, his knife in his hand, his horse tethered to a low branch. The guide's eyes asked the question his mouth did not.
+
+"Imperial soldiers," Konrad said. "Running a factory."
+
+Samir processed this in silence. His expression didn't change.
+
+"We go back now," Samir said.
+
+"Not yet."
+
+The guide's jaw set.
+
+"The river comes from somewhere," Konrad said. "The answer is upstream. North."
+
+Samir stared at him until the silence itself became an answer. The old eyes in the young face.
+
+"I will say this once," Samir said. "What is north of that building is not for you. It is not for me. It is not for any man who walks on two legs and breathes through lungs." He pointed toward the ground. "We have water. We have fruit. We have enough to return. If we go north, we may not have enough to come back."
+
+Konrad looked at the forest.
+
+He looked at the satchel on his shoulder. The capture device inside it. Twenty-two shots remaining. Photographs that could rewrite the political architecture of an empire.
+
+"Two more days," he said.
+
+They followed the river north.
+
+The forest thickened as they went. The trees grew taller, their trunks wider, the canopy closing overhead until the sky was visible only in fragments. The undergrowth pressed in from both sides, forcing them to cut a path with Samir's knife and Konrad's wind.
+
+Konrad used his affinity sparingly. Controlled bursts to part the densest vegetation, to clear sightlines, to check the air ahead for predators.
+
+By the first day past the facility, Konrad could feel it pressing against the inside of his skull. A constant headache that no amount of resting could ease. The air was so thick with ambient mana that his Third Circle channels hummed with it, the mana flowing through him uninvited, pushing against the boundaries of his control.
+
+The river widened. The flow quickened. The dark water ran faster.
+
+On the last day north, the terrain changed.
+
+The forest broke. The trees fell away on both sides simultaneously, as though they'd reached a boundary. Beyond the tree line, the ground rose sharply. Rocky slopes, barren, the soil thin and pale. The river emerged from a ravine between two ridges of red-brown stone, its banks narrowing as the elevation climbed.
+
+And beyond the ridges, the mountains.
+
+They appeared as a wall across the northern horizon. The kind of geological formation that suggested violent tectonic action, the crust heaving upward in sheets of fractured stone.
+
+The scale was difficult to process. The nearest peak was still a day's march away, but it dominated the skyline, its summit jagged against the pale sky.
+
+Konrad stood at the forest's edge and stared.
+
+The headache had become a knife behind his right eye.
+
+"The river comes from there," he said.
+
+Samir stood beside him. The guide's face had gone very still.
+
+"I hear something," Samir said.
+
+Konrad listened.
+
+At first, nothing. The wind across the rock. The river's rush. The absence of birdsong that had been growing more complete the farther north they'd traveled.
+
+Then, beneath all of it, so deep it registered as vibration rather than sound, a rhythm.
+
+Something enormous.
+
+Something fighting.
+
+They climbed.
+
+Konrad abandoned the horses at the tree line. The animals refused to cross onto the bare stone, and no amount of pulling would convince them.
+
+The ascent took hours. Konrad channeled wind beneath his boots in brief, controlled bursts, each one lifting him a meter up the rock face before the spell expired and gravity reclaimed him.
+
+Samir climbed without magic. His hands and feet found holds that Konrad couldn't see.
+
+The vibration grew stronger with every meter of elevation gained. By the time they reached the ridge's crest, Konrad could feel it in his teeth.
+
+He went flat on his stomach at the summit. Samir crawled up beside him.
+
+They looked north.
+
+The plain stretched for kilometers.
+
+A vast bowl of broken ground between the mountain ridges, its floor littered with rubble and fractured stone. The river's source was visible at the bowl's northern edge, a waterfall cascading down a cliff face from a height that put it among the tallest Konrad had ever seen.
+
+The waterfall glowed.
+
+The mana concentration in the falling water was so extreme that the cascade emitted visible light. Blue-white, the color of concentrated mana.
+
+But that was not what Konrad was looking at.
+
+The Titans filled the bowl.
+
+He counted by reflex. His hands trembled. His mouth went dry.
+
+Twenty-three. Twenty-three Titans visible in the bowl, each a different species and shape — nightmares rendered in flesh and bone.
+
+They were fighting.
+
+Two groups. The division was imprecise but the pattern was there.
+
+On the western side of the bowl, a cluster of nine. Feline, serpentine, insectoid. They moved in loose coordination, striking at the opposing group from multiple angles, their attacks a medley of biological weapons: breath, claw, venom, horn, mandible.
+
+On the eastern side, fourteen. Larger, on average. Their bodies positioned between the western group and the glowing waterfall.
+
+Between the two groups, the ground was a wasteland. Craters. Trenches carved by dragging tails and raking claws.
+
+The sound reached them as vibration first, then as noise. The crack of horn against chitin. The wet, structural sound of flesh tearing. The shriek of something dying that was too large for death to come quickly.
+
+Konrad's hands found the capture device.
+
+The viewfinder rose to his eye. His fingers adjusted the focus until the nearest pair of combatants resolved in the frame.
+
+He pressed the trigger.
+
+Fifteen.
+
+He shifted. Found a wider angle. The bowl, the battle, the western faction charging, the eastern faction holding.
+
+Trigger.
+
+Sixteen.
+
+Then he saw it.
+
+Behind the eastern line. Past the defending Titans. Between them and the waterfall.
+
+The turtle.
+
+What sat at the base of the waterfall bore the same relationship to a turtle that a mountain bore to a pebble.
+
+The shell alone covered an area that Konrad's mind could not reconcile with the concept of a living creature. It stretched from the base of the cliff to the midpoint of the bowl, a dome of something that was neither stone nor bone nor chitin, but a substance that combined all three into a surface so vast that the geological strata of the surrounding mountains were reflected in its texture. Ridges ran across it in concentric arcs, each ridge deep enough to shelter a building, each valley between the ridges wide enough to drive a carriage through.
+
+The head extended from the shell's leading edge on a neck as thick as a castle tower. The skull was a blunt wedge, armored, the jaw underslung and massive.
+
+It was watching.
+
+The head tracked the western group's advance.
+
+Then one of the western Titans broke through.
+
+A mantis. Thin, fast, its folded forelimbs snapping forward in strikes that had carried it past two defenders. It lunged toward the waterfall, toward the source, toward whatever it was that the eastern faction guarded.
+
+The turtle's jaw opened.
+
+Konrad had seen Third Circle fire mages demonstrate their craft. He had watched Fourth Circle combat specialists shatter stone walls in training exercises. From a rooftop in Qalathar, he had watched the ward barrier catch a Titan's charge and dissipate the force in a sheet of pale light.
+
+Nothing in his experience provided a base for what happened next.
+
+The blast erupted from the turtle's throat.
+
+It was not any element Konrad could identify. It was light, compressed to a density that made it solid, focused into a beam that left the jaw in a column as wide as a river.
+
+The mantis ceased to exist.
+
+The beam passed through the space the mantis had occupied and the mantis was no longer there. The area of contact was simply empty.
+
+The beam continued past the mantis.
+
+It struck the mountain behind the western group's line.
+
+The mountain cracked. From base to summit, a fracture opened that was visible at a distance of kilometers. The crack widened.
+
+The impact raised a dust cloud that swallowed the western half of the bowl.
+
+The sound reached them four seconds later.
+
+The ground beneath the ridge shuddered.
+
+Konrad was already pressing the trigger.
+
+The crystal pulsed. The copper plate froze the moment: the beam still visible as a fading line across the sky, the mountain's upper third in mid-collapse, the dust cloud rising, the turtle's jaw still open, the battlefield suspended between one extinction and the next.
+
+Seventeen.
+
+He shifted.
+
+Eighteen.
+
+The dust cloud was expanding. In seconds it would swallow the ridge where they lay.
+
+Samir's hand closed around Konrad's arm.
+
+He said one word.
+
+"Now."
