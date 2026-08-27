@@ -31,8 +31,11 @@ afterEach(() => at.dispose())
 
 function repo(): RepoView {
   return {
-    roots: { instructions: at.root, code: "/nonexistent-code", memory: "/nonexistent-memory", books: "/nonexistent-books", stories: "/nonexistent-stories", "code-editor": "/nonexistent-code-editor" },
-    name: "instructions",
+    // THE REPOSITORIES THERE ARE, and no others. This named `instructions`, `code`, `memory`,
+    // `books` and `stories` — all absorbed into akasha — and named no `akasha` at all, so the
+    // `rootFor(roots, AKASHA)` the audit goes through threw before it read a single document.
+    roots: { akasha: at.root, "code-editor": "/nonexistent-code-editor" },
+    name: "akasha",
     documents: listDocuments(at.root),
     read: (relPath) => readFileSync(`${at.root}/${relPath}`, "utf8"),
     exists: existsSync,
@@ -117,7 +120,7 @@ describe("a page whose page type is not a domain", () => {
         "---",
         "id: 019ebc75-6f5a-78c2-80a1-cd1a8ea22b0c",
         "extends-slug: page",
-        "files: instructions:pages/exercise/**/*.md",
+        "files: akasha:pages/exercise/**/*.md",
         "slug: exercise",
         "domain-parent-slug: global",
         "---",
