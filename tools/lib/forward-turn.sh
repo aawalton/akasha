@@ -57,9 +57,9 @@ printf '%s' "$TURN" | jq -r '
   "The principal said:\n\n\(.said)\n\nThe interviewer replied:\n\n\(.replied)\n"
 ' > "$BODY" 2>/dev/null || exit 0
 
-CODE_ROOT="${CODE_ROOT:-${HOME:-}/repos/code}"
-[[ -d "$CODE_ROOT" ]] || exit 0
-RECEIPT=$(cd "$CODE_ROOT" && timeout "$SEND_PATIENCE" bun ops seat send "$RECIPIENT" --content-file "$BODY" 2>&1)
+AKASHA_ROOT="${AKASHA_ROOT:-${HOME:-}/repos/akasha}"
+[[ -d "$AKASHA_ROOT" ]] || exit 0
+RECEIPT=$(cd "$AKASHA_ROOT" && timeout "$SEND_PATIENCE" bun ops seat send "$RECIPIENT" --content-file "$BODY" 2>&1)
 STATUS=$?
 printf '%s\t%s\t%s\n' "$(date -Is)" "$UUID" "$RECEIPT"
 [[ $STATUS -eq 0 ]] || exit 0

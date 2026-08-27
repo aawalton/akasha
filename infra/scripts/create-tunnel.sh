@@ -3,8 +3,8 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-CODE_ROOT="${CODE_ROOT:-$HOME/repos/code}"
-CLUSTER_DIR="${CODE_ROOT}/packages/infra"
+AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
+CLUSTER_DIR="${AKASHA_ROOT}/infra"
 
 _DEPLOY_LIB_DIR="${CLUSTER_DIR}/lib"
 # shellcheck source=../lib/deploy-functions.sh
@@ -32,8 +32,8 @@ if [[ "${2:-}" == "--force" ]]; then
 fi
 
 CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
-SOPS_SECRET="${CLUSTER_DIR}/k8s/src/cloudflared/secret.sops.yaml"
-CONFIGMAP="${CLUSTER_DIR}/k8s/src/cloudflared/configmap.yaml"
+SOPS_SECRET="${CLUSTER_DIR}/k8s/src/cloudflared/k8s/secret.sops.yaml"
+TUNNEL_CONFIG="${CLUSTER_DIR}/k8s/src/cloudflared/config-header.yaml"
 
 if ! command -v cloudflared &>/dev/null; then
   die "cloudflared not found — install from https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/"
@@ -98,9 +98,9 @@ log "Encrypting secret with SOPS → ${SOPS_SECRET}"
 sops -e "$PLAIN_SECRET" > "$SOPS_SECRET"
 ok "Encrypted secret written to ${SOPS_SECRET}"
 
-log "Updating tunnel ID in ${CONFIGMAP}"
-sed -i "s|tunnel: .*|tunnel: ${tunnel_id}|" "$CONFIGMAP"
-ok "Configmap updated with tunnel ID: ${tunnel_id}"
+log "Updating tunnel ID in ${TUNNEL_CONFIG}"
+sed -i "s|tunnel: .*|tunnel: ${tunnel_id}|" "$TUNNEL_CONFIG"
+ok "Tunnel config updated with tunnel ID: ${tunnel_id}"
 
 echo ""
 ok "================================================================"
@@ -108,6 +108,6 @@ ok "  Tunnel '${TUNNEL_NAME}' (${tunnel_id}) bootstrapped!"
 ok "================================================================"
 echo ""
 log "Next steps:"
-echo "  1. Review changes:  git diff packages/infra/k8s/src/cloudflared/"
-echo "  2. Commit:          git add packages/infra/k8s/src/cloudflared/ && git commit -m 'Bootstrap cloudflared tunnel'"
+echo "  1. Review changes:  git diff infra/k8s/src/cloudflared/"
+echo "  2. Commit:          git add infra/k8s/src/cloudflared/ && git commit -m 'Bootstrap cloudflared tunnel'"
 echo "  3. Push:            git push (CI will apply secret + configmap + sync DNS)"
