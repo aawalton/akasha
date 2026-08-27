@@ -26,7 +26,10 @@
     "../../patches/**/*.ts",
     "../../during-call/**/*.ts",
     "../../exclusive/**/*.ts",
-    "../../write-whole/**/*.ts"
+    "../../write-whole/**/*.ts",
+    "../../graph/**/*.ts",
+    "../../rule/**/*.ts",
+    "../../workspace-package/**/*.ts"
   ],
   "exclude": [
     "node_modules",
