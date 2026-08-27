@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0d5-7bfa-a21b-d1fb43b60a38
+title: "Thunder Caller"
+slug: thunder-caller
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"penetration","effectType":"integer","effectValue":1487}],"description":"Adds 1487 Offensive Penetration"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Dealing damage with a fully-charged Heavy Attack calls a bolt of lightning at your target, dealing 467 Shock Damage and leaving a 4 meter lightning crater at their location for 7 seconds, dealing 467 Shock Damage per second to enemies inside. This effect can occur once every 12 seconds and scales off the higher of your Weapon or Spell Damage."}]'
+eso-set-id: 606
+icons: '{"axe":"/esoui/art/icons/gear_knightsotsr_1haxe_a.dds","bow":"/esoui/art/icons/gear_knightsotsr_bow_a.dds","mace":"/esoui/art/icons/gear_knightsotsr_1hhammer_a.dds","maul":"/esoui/art/icons/gear_knightsotsr_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_knightsotsr_1hsword_a.dds","dagger":"/esoui/art/icons/gear_knightsotsr_dagger_a.dds","feet:*":"/esoui/art/icons/gear_knightsotsroselgt_feet_a.dds","head:*":"/esoui/art/icons/gear_knightsotsroselgt_head_a.dds","legs:*":"/esoui/art/icons/gear_knightsotsroselgt_legs_a.dds","shield":"/esoui/art/icons/gear_knightsotsr_shield_a.dds","chest:*":"/esoui/art/icons/gear_knightsotsroselgt_robes_a.dds","hands:*":"/esoui/art/icons/gear_knightsotsroselgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_knightsotsroselgt_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_knightsotsr_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_knightsotsr_staff_a.dds","greatsword":"/esoui/art/icons/gear_knightsotsr_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_knightsotsroselgt_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_knightsotsr_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_knightsotsr_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_knightsotsr_staff_a.dds"}'
+key: thunder-caller
+subcategory-id: dungeon
+valid: '["*:light"]'
+---

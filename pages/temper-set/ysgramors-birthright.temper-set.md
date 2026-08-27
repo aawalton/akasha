@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e7-6ab9-710b-b35c-a3be572b3d3e
+title: "Ysgramor's Birthright"
+slug: ysgramors-birthright
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"critical-rating","effectType":"integer","effectValue":657}],"description":"Adds 657 Critical Chance"},{"count":3,"status":"supported","effects":[{"metricId":"magicka-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Magicka"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Adds 400 Weapon and Spell Damage to your Frost Damage abilities."}]'
+eso-set-id: 294
+icons: '{"axe":"/esoui/art/icons/gear_nord_1haxe_d.dds","bow":"/esoui/art/icons/gear_nord_bow_d.dds","mace":"/esoui/art/icons/gear_nord_1hhammer_d.dds","maul":"/esoui/art/icons/gear_nord_2hhammer_d.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_nord_1hsword_d.dds","dagger":"/esoui/art/icons/gear_dunmer_dagger_d.dds","feet:*":"/esoui/art/icons/gear_argonian_light_feet_d.dds","head:*":"/esoui/art/icons/gear_nord_light_head_d.dds","legs:*":"/esoui/art/icons/gear_dunmer_light_legs_d.dds","shield":"/esoui/art/icons/gear_nord_shield_d.dds","chest:*":"/esoui/art/icons/gear_dunmer_light_robe_d.dds","hands:*":"/esoui/art/icons/gear_redguard_light_hands_d.dds","waist:*":"/esoui/art/icons/gear_khajiit_light_waist_d.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_nord_2haxe_d.dds","ice-staff":"/esoui/art/icons/gear_breton_staff_d.dds","greatsword":"/esoui/art/icons/gear_nord_2hsword_d.dds","shoulders:*":"/esoui/art/icons/gear_altmer_light_shoulders_d.dds","inferno-staff":"/esoui/art/icons/gear_nord_staff_d.dds","lightning-staff":"/esoui/art/icons/gear_altmer_staff_d.dds","restoration-staff":"/esoui/art/icons/gear_nord_staff_d.dds"}'
+key: ysgramors-birthright
+subcategory-id: overland
+valid: '["*:light"]'
+---

@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e7-6ab4-71b2-b679-27808e19c95e
+title: "Wisdom of Vanus"
+slug: wisdom-of-vanus
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"magicka-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Magicka"},{"count":3,"status":"supported","effects":[{"metricId":"magicka-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Magicka Recovery"},{"count":4,"status":"supported","effects":[{"metricId":"magicka-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Magicka"},{"count":5,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"After completing a fully-charged Heavy Attack, you gain Major Mending for 5 seconds, increasing your healing done by 16%. This duration is increased with each rank of the Restoration Staff Passive of Essence Drain when using a Restoration Staff."}]'
+eso-set-id: 384
+icons: '{"axe":"/esoui/art/icons/gear_psijicorder_axe_a.dds","bow":"/esoui/art/icons/gear_psijicorder_bow_a.dds","mace":"/esoui/art/icons/gear_psijicorder_mace_a.dds","maul":"/esoui/art/icons/gear_psijicorder_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_psijicorder_sword_a.dds","dagger":"/esoui/art/icons/gear_psijicorder_dagger_a.dds","feet:*":"/esoui/art/icons/gear_bosmer_light_feet_d.dds","head:*":"/esoui/art/icons/gear_aldmeri_light_head_a.dds","legs:*":"/esoui/art/icons/gear_ancient_elf_light_legs_a.dds","shield":"/esoui/art/icons/gear_psijicorder_shield_a.dds","chest:*":"/esoui/art/icons/gear_psijicorder_light_robe_a.dds","hands:*":"/esoui/art/icons/gear_psijicorder_light_hand_a.dds","waist:*":"/esoui/art/icons/gear_psijicorder_light_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_psijicorder_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_ancient_elf_staff_c.dds","greatsword":"/esoui/art/icons/gear_psijicorder_2hsword_a_2.dds","shoulders:*":"/esoui/art/icons/gear_sapiarch_light_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_altmer_staff_d.dds","lightning-staff":"/esoui/art/icons/gear_daedric_staff_c.dds","restoration-staff":"/esoui/art/icons/gear_psijicorder_staff_a.dds"}'
+key: wisdom-of-vanus
+subcategory-id: overland
+valid: '["*:light"]'
+---

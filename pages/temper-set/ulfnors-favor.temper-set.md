@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a0df-777d-871a-c914dec9c539
+title: "Ulfnor's Favor"
+slug: ulfnors-favor
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":3,"status":"supported","effects":[{"metricId":"magicka-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Magicka Recovery"},{"count":3,"status":"supported","effects":[{"metricId":"stamina-recovery","effectType":"integer","effectValue":129}],"description":"Adds 129 Stamina Recovery"},{"count":4,"status":"supported","effects":[{"metricId":"healing-taken-base","effectType":"fractional-change","effectValue":0.04}],"description":"Adds 4% Healing Taken"},{"count":5,"status":"unsupported","effects":[],"description":"Increases the Magicka or Stamina your Heavy Attacks restore by 30%."}]'
+eso-set-id: 345
+icons: '{"axe":"/esoui/art/icons/gear_fanglair_axe_a.dds","bow":"/esoui/art/icons/gear_fanglair_bow_a.dds","mace":"/esoui/art/icons/gear_fanglair_mace_a.dds","maul":"/esoui/art/icons/gear_fanglair_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_fanglair_sword_a.dds","dagger":"/esoui/art/icons/gear_fanglair_dagger_a.dds","feet:*":"/esoui/art/icons/gear_fanglair_heavy_feet_a.dds","head:*":"/esoui/art/icons/gear_fanglair_heavy_head_a.dds","legs:*":"/esoui/art/icons/gear_fanglair_heavy_legs_a.dds","shield":"/esoui/art/icons/gear_fanglair_shield_a.dds","chest:*":"/esoui/art/icons/gear_fanglair_heavy_chest_a.dds","hands:*":"/esoui/art/icons/gear_fanglair_heavy_hands_a.dds","waist:*":"/esoui/art/icons/gear_fanglair_heavy_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_fanglair_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_fanglair_staff_a.dds","greatsword":"/esoui/art/icons/gear_fanglair_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_fanglair_heavy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_fanglair_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_fanglair_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_fanglair_staff_a.dds"}'
+key: ulfnors-favor
+subcategory-id: dungeon
+valid: '["*:heavy"]'
+---
