@@ -7,7 +7,6 @@ import { type Startable, startIsolated } from './activation';
 import * as agentTree from './features/agent-tree/activate';
 import * as domainTree from './features/domain-tree/activate';
 import * as editorLayout from './features/editor-layout/activate';
-import * as pageTree from './features/page-tree/activate';
 import * as workTree from './features/work-tree/activate';
 import * as terminalRename from './features/terminal-rename/activate';
 import * as transcript from './features/transcript/activate';
@@ -28,14 +27,20 @@ import { readProcess } from './seat/window-identity';
 const FEATURE_TIMEOUT_MS = 20_000;
 
 /**
- * The seven, and they are independent of one another.
+ * The six, and they are independent of one another.
  *
- * THE STATUS BAR IS NOT AMONG THEM. Its refresh answers the readout groups in this process, and
- * those reads are synchronous underneath: measured on 2026-08-27 at 18.6s across its twenty
- * queries, about 90% of it git subprocesses, and for the whole of it no timer in this process can
- * fire. The tab colours poll every second and simply did not run. Out on Alan's call until those
- * reads answer quickly, rather than moved somewhere the blocking is less visible.
- * `features/status-bar/activate.ts` still stands; nothing imports it.
+ * THE STATUS BAR AND THE PAGE TREE ARE NOT AMONG THEM. Each answers its queries in this process,
+ * and those reads are synchronous underneath: measured on 2026-08-27 at 18.6s over twenty queries
+ * and 4.5s over twelve, about 90% of either being git subprocesses. For the whole of one, no timer
+ * in this process fires — the tab colours poll every second and were not running. The page tree
+ * has no poll, which is not the safeguard it looks like: it watches every document in the
+ * repository, and pages land here several times a minute.
+ *
+ * WHAT KEEPS THE THREE TREE PANELS OUT OF THAT is that each reads through `runVerb` or
+ * `runOps`, which are subprocesses, so their work is off this thread whatever it costs them.
+ *
+ * Out on Alan's call until a page query answers quickly. Both `activate.ts` files still stand and
+ * nothing imports them.
  *
  * CHECKED RATHER THAN ASSUMED, on 2026-08-13. No feature's `activate.ts` imports
  * another feature's `activate.ts`, and none reads another's module state — each
@@ -58,12 +63,11 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
 	{ name: 'agent-tree', start: async () => agentTree.activate(context) },
 	{ name: 'domain-tree', start: async () => domainTree.activate(context) },
 	{ name: 'work-tree', start: async () => workTree.activate(context) },
-	{ name: 'page-tree', start: async () => pageTree.activate(context) },
 	{ name: 'editor-layout', start: async () => editorLayout.activate(context) },
 ];
 
 /**
- * Starts all seven features, each isolated from the others.
+ * Starts all six features, each isolated from the others.
  *
  * THIS WAS SIX `await`s IN A ROW, and on 2026-08-13 that cost Alan every panel he
  * has. `terminal-rename` went first, awaited a terminal that never reported its
