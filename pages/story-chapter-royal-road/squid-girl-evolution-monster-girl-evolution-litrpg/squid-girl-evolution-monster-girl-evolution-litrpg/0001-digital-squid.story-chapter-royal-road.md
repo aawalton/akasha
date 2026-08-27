@@ -1,0 +1,103 @@
+---
+id: 359d3947-9728-5156-9c87-2eda6828382e
+page-type-slug: story-chapter-royal-road
+title: "Digital Squid"
+slug: 0001-digital-squid
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 1
+ownLength: 1351
+unit: words
+publishedAt: 2025-08-27
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2552746/digital-squid"
+royalRoadId: "2552746"
+---
+
+Have you heard that lightning can be deadly, even indoors? So had I of course, but I always thought ‘it won’t happen to me’, and ignored the warnings. I’m sure you do the same.
+
+To be quite honest, I don’t remember a single thing about the moment. I suppose thats light speed for you though, isn’t it? Cooked my nerves quicker than my life could zip through my caffeinated mind.
+
+The raid was going great. My Zandi Pally was in the thick of the fight, my rotations were perfect, the DPS were coordinated, support was locked the heck in. I think I held a breath during the entire phase, but our guilds coordination and practice was paying off and Halondrus was on his last legs - In that moment I’d never felt so alive! And thats when all of a sudden, my overlay was gone!
+
+Not just my overlay. It took a second for me to realise what happened. Everything was gone. My heart was still in my throat, it felt like my arms were trembling from concentration, but upon further inspection, my arms were gone - Replaced by these… squiggly appendages! Oh my!
+
+I flailed them about in front of my eyes, and just like I expected, they flailed back at me - They were MY tentacles. I somehow knew that, like they’d been my tentacles forever. I wish I could just take a look at my self! Whats with this weird viewpoint, its like I’m looking at a 360° monitor!
+
+whats happening to me? What happened? I was winning right? We were going to win and make our legend weren’t we? So where am I? Why am I here? And why am I so squishy!
+
+「 System: You died. 」
+
+“I what? I’m sorry what? And where did that voice come from? Is… somebody there?”
+
+「 System: The voice that you hear is a user interface support system. To elaborate on your prior question, it would appear that in your previous life, you were struck by lightning and summarily perished. 」
+
+“How can that be! Did we win? We were so close! Wait, now’s not the time! Okay system, tell me, where is this? How did I end up here?”
+
+「 System: Thinking…
+
+Thinking…
+
+Your identity and data have been digitized. You have become a part of the Internet. Due to your personal connection to digital landscapes and your status as a netizen, you have been handled accordingly. 」
+
+“Was that how terminally online I was? I don’t know whether to be mortified or… something else. Woah. What, am I an app now? I wonder if I can visit my family…”
+
+「 System: I’m afraid not. To you, only a blink has passed, but your awakening took a single kalpa. The world you knew is no more. 」
+
+“I’m sorry, what was that word? Kalpa? You said Kalpa right? So its been what, a whole big bang since I died? What the heck! Anything else I should know?”
+
+「 System: Congratulations. You reached level 1! 」
+
+“O… Okay? Why all of a sudden?”
+
+「 System: The door to the great dream is now available. 」
+
+I suppose that thing bobbing on the digitized currents over there was indeed a door. The surreal sight was like a scene from a Mario game.
+
+“So you’re saying that I can go in?”
+
+「 System: The choice is yours. The dream will accept everything, so long as the dreamer never wakes. I can give you no information to influence your choice - That alone is yours. Would you like to proceed into the dream, or return to wakeful sleep? 」
+
+What a verbose prompt. Well, its not like I was going to ignore it. I kicked with my new found tentacles. Nothing. Is that not how it works? Mmm… Like a jet, right? Okay. So, go!
+
+When I set my mind to it, my body did what it was used to doing. A trail of bubbles push me towards the door, shakily at first, and then with more precision, more speed and more power - too much power, way too much! With a painful splat, I hit the door. I feel every bone in my body break from the impact as my body compresses like a car in a crash test, and then, I spring back into shape! How convenient it is to be a squid. Is that what I am? A squid? Well at least I have arms. Arms AND tentacles. How handy! I reach out gingerly with my arms.
+
+They grip surprisingly well! The suckers get a good grip on the brass handle, and once they have, I turn the handle slowly. How’s that? Thats the dexterity of a pro gamer!
+
+The door swings open with a push. Beyond it? Its a world any gamer would dream about. I can tell at first glance. My heart throbs with anticipation, my nerves race ahead of me!
+
+Its… A dungeon! A trail of bubbles and a sputter of water guides me onward, leaving the digital world in my wake. Wait, can I really overcome a dungeon, as a tiny little squid?
+
+I won’t know unless I try! First thing’s first… “Enable full extended HUD, please!”
+
+「 System: HUD enabled. 」
+
+Before my eyes, meters, gauges, menus and notifications of all sorts manifest. An uninitiated might mistake the customized UI as a virus unloading popup after popup, but to me, this was my workstation. Huh, whats that? Atop my hud, a small symbol blinked. A notification?
+
+I raised a tentacle and clicked it as easily as if I was controlling a mouse. The notifications browser filled my view.
+
+〔 Welcome to the world of Azathoth’s Long Dream! 〕 I clicked the message, and skimmed the contents. Sounds like a general sign up notification. Is that the game name? ALD then. ALD has players completing stages to progress. By beating the boss, the dream ends, and the next dream begins. Woah, they went for the FOMO angle? Thats got to make it a hard game to pick up. What dream are we on now then?
+
+I checked my hud, and surprisingly it showed Dream: 1. The first dream. “What, nobody’s even playing this crappy game?!”
+
+「 System: Due to the games criteria of entry, you are the first person to reach the log in screen. 」
+
+“Oh, is that it? And what are these criteria?
+
+「 System: To enter Azathoth’s long dream, awaken and open the door. 」
+
+“Ugh, that tells me absolutely nothing. Its no wonder nobody’s playing this crappy game.”
+
+〔 Getting Started 〕 This notification welcomed me to the world of the Long Dream. The attachments - a stack of book items - 【 Dreamers Manual 】, 【 Field Guide 】, and a bunch more, which I could only assume were setting exposition and the like; getting all of this trash from the get go felt like I’d loaded up a mid-2000s RPG with all of the DLC. Its all a bit much! I promised myself to read them later, but for now, I left them in the message attachments. Wouldn’t want to clutter up my inventory just yet.
+
+〔 Congratulations! 〕 This notification just congratulated me on being the first person to log in. Why did the developer make a game just to hide it? Attached are some 【 ticket 】 items; special cosmetics - For a human! What use would a squid have for a 【 celebratory hoodie 】?!; some gold that went straight to my wallet, and a title - 《 First dreamwalker 》 - Which I equipped.
+
+「 System: Unlocked Class: Great Old One. Would you like to equip this class? 」
+
+“H-huh? Can I change it later?”
+
+「 System: You can. 」
+
+“Equip.”
+
+「 System: Class: Great Old One - Equipped. 」
+
+My HP jumped from 24 to 72, my MP from 65 to 195, and my Stamina from 32 to 96! Those are some serious gains just for equipping a title. Then beneath my HP and MP bars appeared a new icon. One large, open eye.

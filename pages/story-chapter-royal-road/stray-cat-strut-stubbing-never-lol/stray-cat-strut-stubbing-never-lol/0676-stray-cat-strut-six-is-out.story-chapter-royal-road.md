@@ -1,0 +1,19 @@
+---
+id: 035bb7df-a611-56ac-8dea-9ca8233047a4
+page-type-slug: story-chapter-royal-road
+title: "STRAY CAT STRUT SIX IS OUT!"
+slug: 0676-stray-cat-strut-six-is-out
+partOf: stray-cat-strut-stubbing-never-lol
+position: 676
+ownLength: 267
+unit: words
+publishedAt: 2025-07-15
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2437246/stray-cat-strut-six-is-out"
+royalRoadId: "2437246"
+---
+
+Confronted with corruption and crime, cyborg samurai Cat LeBlanc fights to protect a city targeted by aliens, in this action-packed cyberpunk adventure.The megacity of New Montreal is under constant threat by the Antithesis, aliens who have transformed the landscape to produce swarms of creatures that feed on everything in their path. The city’s infrastructure is in disrepair, and the politicians and corporations responsible for its maintenance have been slacking off, leaving angry citizens to fend for themselves.Cat LeBlanc is supposed to be on vacation, spending time with her girlfriend, Lucy, and their clowder of adopted children, affectionately known as “the kittens.” Unfortunately for the young samurai, duty calls, requiring her to take a more active role in addressing the city’s woes. Cat has no patience for political games or corporate bureaucracy, and she’d prefer to spend her time supporting a nonprofit clinic by producing free prosthetics to help those in need.Unauthorized tale usage: if you spot this story on Amazon, report the violation.But samurai tech has far greater value on the black market, enticing depraved gangs to loot the clinic. As Cat and fellow samurai Gomorrah follow the twisted trail of thievery, they learn they’re not the only ones trying to track down the stolen goods. Rac, the teenage “kitten” living with Cat, has joined a crew of mercenaries looking to make a big score—only to find themselves the targets of a private military company.Now it’s up to Cat to get Rac out of harm’s way and uncover who was really behind the prosthetic theft, all while the Antithesis prepares another invasion . . .
+
+https://www.royalroad.com/amazon/B0DZJ5JHJG?maas=&ref=
+
+https://www.audible.com/pd/Stray-Cat-Strut-6-A-Cyberpunk-LitRPG-Audiobook/B0F3RPJRHQ

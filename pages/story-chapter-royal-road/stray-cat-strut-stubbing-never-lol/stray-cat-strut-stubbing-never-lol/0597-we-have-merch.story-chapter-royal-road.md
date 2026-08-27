@@ -1,0 +1,15 @@
+---
+id: 72cdc5f9-1805-590e-8867-06bae72d9467
+page-type-slug: story-chapter-royal-road
+title: "WE HAVE MERCH!"
+slug: 0597-we-have-merch
+partOf: stray-cat-strut-stubbing-never-lol
+position: 597
+ownLength: 213
+unit: words
+publishedAt: 2024-11-30
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1931389/we-have-merch"
+royalRoadId: "1931389"
+---
+
+It's here! At long last, after months of planning and trying things, the merch store is finally liiiive!LINK: STRAY CAT STOREYou can pick up SHIRTS! And MUGS! And... Stickers? Yeah, there's STICKERS!Of course, the main draw is the shirts, made by the artist duo VenusBlue and Hana-Jii, we have a full set of shirts coming in. One for each main character in my stories, but also, one shirt for the main character of every fanfiction that reaches a thousand followers!Find this and other great novels on the author's preferred platform. Support original creators!If your SCS fanfic hits the big 1K, then get excited, because you can opt into having your OC on a shirt, with half the proceeds going right to you! (The art is free, of course!)Teddy is already up!Next up, Tinea from Tinea and Leah, then Mai, and then even more!Of course, the Broccoli Bunch shirt is almost ready as well! I'll be making a big post about that one too, but in the meantime, there's cute stickers and stuff to grab as well <3Keep warm,RavensDagger!PS: Canada Post is still on strike, which is really stalling a lot of things for me, but it might also make Canadian deliveries take a smidge longer! Keep that in mind if you're a Canadian!

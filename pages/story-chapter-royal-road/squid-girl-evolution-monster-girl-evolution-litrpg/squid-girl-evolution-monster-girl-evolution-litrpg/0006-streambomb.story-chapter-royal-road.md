@@ -1,0 +1,313 @@
+---
+id: 63c6c875-ad2a-5c71-b270-044ba0fa2d81
+page-type-slug: story-chapter-royal-road
+title: "Streambomb"
+slug: 0006-streambomb
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 6
+ownLength: 3146
+unit: words
+publishedAt: 2025-09-05
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2575543/streambomb"
+royalRoadId: "2575543"
+---
+
+[18:10:15] <OdinOneEyeFan> Ayo, Leviathan’s so HYPE bro! Where’d they even hide so much monster!? Giving mad Jörmungandr vibes!
+
+[18:10:19] <♥—Siren’sKiss—♥> Okay, you really sold that bit where the OG wrecked Leviathan, story guy!
+
+[18:10:24] <Merry_Andrew> I guess you could say Leviathan’s all washed up, eh? Rofl
+
+[18:10:30] <♥—Siren’sKiss—♥> Bruh that was kinda cringe.
+
+[18:12:33] <Scheherazade> lol Still obsessed with giant monsters? Bet you’d scream if Leviathan swam down the pier.
+
+[18:13:54] <EyeOfSmaug> Giant fish? —yawn— Why don’t you try making it scarier Loreweaver!
+
+[18:19:11] <Neko_Robin> Newbie here! Is leviathan like a giant dragon, or just a big whale? I’m so into this!!
+
+[18:19:35] <SIRDrake> Arr! Don’t ye get me started on big whales, scallywag!
+
+[18:20:00] <~*~SweetAngelFlonne~*~> Welcome Neko_Robin! (～￣▽￣)～ *pours your hot cocoa* Pull up a seat by the fire and enjoy the tales!
+
+[18:24:32] <Watercolour☆Wyrmcharm> Maws? I only drew one head, you mean he has more?!
+
+[18:25:40] <Scheherazade> lmao bro, maybe you should start with what it looked like next time, think about poor Wyrmcharm.
+
+[18:26:15] <Watercolour☆Wyrmcharm> imma just start over (；′⌒`)
+
+[18:27:40] <Teligbor> Its a made up monster anyway, so draw it your way. Thats what everyone else before you did.
+
+[18:33:06] <Dusty_Blue> Biblical hype job if you ask me. Bet its just another storm metaphor. Got sources Loreweaver?
+
+[18:35:25] <Yore> Leviathan’s chaos echoes the abyss of human fear. Loreweaver, does this tale hide a universal truth?
+
+[18:38:01] <The_Lorebeard> Lurking as always. Solid stream.
+
+[18:38:01] <Yogeiπ+1> Leviathan coils not in your blue sea, but in the sea of stars bereft of breath. Bard, your tale might yet breach the veil.
+
+[18:40:41] <Watercolour☆Wyrmcharm> Eep! Yogeiπ+1 ur kinda creepy, but so cool! Loreweaver, is Leviathan like Cthulhu? Sry for spamming but I’m just so into this!
+
+[18:41:12] <Scheherazade> Your cameras acting up again bro. Try adjusting?
+
+[18:45:11] <Alexandria48> Man this monster story reminds me so much of Tiamat! Chaos monster struck down by a storm god? You picking up what I’m putting down bro?
+
+[18:45:34] <Neko_Robin> Know this is a bit out the blue, but did you hear about the deep see rover called Leviathan?
+
+[18:46:02] <Neko_Robin> Sorry if real life’s not ok here, don’t mean ruin your flow
+
+[18:46:37] <Merry_Andrew> bruh the puns are my gimmick, lay off.
+
+[18:47:21] <Alexandria48> Nah, we’re chill here. The news says it went offline, but the net says its AI went mad. The truth kinda parallels the legend huh?
+
+[18:47:45] <♥—Siren’sKiss—♥> Time for a Loreweaver deep dive! I love when you go full circle like this!
+
+[18:50:49] <The_Lorebeard> Correction: Morph’s ‘Grail’ was designed for deep sea exploration. Its environmental clean-up operation was a later function.
+
+[18:50:49] <Yogeiπ+1> You’ve only just breached the surface of the of the truth, yet that alone is more than most manage in their lives combined.
+
+[18:52:24] <EyeOfSmaug> Lmao you’re not going listen to these wacko theories, are you? Prob just a glitch, but if it dragged the sub to hell, that’d be lit!
+
+[18:54:40] <Watercolour☆Wyrmcharm> OMG Loreweaver, this conspiracy stuff is kinda creepy. I drew the rogue AI, it’s on my deviant! What do you think? Hope its not too scary!
+
+[18:55:55] <Yogeiπ+1> Fear of the truth is the foundament of natural selection. Learn its secrets with trepidation and speak its whispers.
+
+My gnostic eye was still nearly closed. I had hoped it might regain some of its power with time, but that seemed to be wishful thinking. I sighed and swished the menu with a wave of my tentacle, flipping to the status screen.
+
+Name: CthircheLevel: 0009Race: TeuthisClass: Great Old One
+
+Hp 86MP 234Attack 35Defence 19Intelligence 211Resistance 89Dexterity 125Speed 176
+
+A cursory glance showed the difference - My stats right now were exactly half of what they should be—what they were when I reached level 9. It could be a result of coming to the real world, but something told me that it was related to the gnostic eye, and my gamer instincts were never wrong.
+
+Sigh.
+
+I swiped the menu closed, focusing on the relaxing warmth of the spray. At first, the water went EVERYWHERE, blasting the curtain, soaking the tiles, even the ceiling wasn’t spared, but with a bit of manoeuvring, my tentacles went from my enemy to my ally in my battle with the shower, and now the rejuvenating warmth that tickled my gills, cleansed my tentacles, and healed my body felt like a long awaited blessing.
+
+-tap tap tap-
+
+“Cthirche, Dinner will be ready soon, okay? Don’t be too long!”
+
+I gasped with a start, “Y-yeah! Thanks!” I replied. Sesha’s hurried footsteps carried her back to her task. I wept a longing farewell under my breath, to my new friend, the showerhead, before swiping the touchscreen to put it to rest. “Until we meet again…” I promised, stepping out of the tub and onto the partially drenched mat. I’ll have to apologise for that. Wait, where’s the towel?
+
+I should have asked Sesha, but that opportunity slipped by, and I don’t want to bother her while she’s cooking. It’s definitely not on the towel rack. Awh, nothing! I can’t find one anywhere. Ok. Nothing else for it but to ask.
+
+It’s not like I was going to traipse around the house wet and naked like some weirdo—No no no, I’m quite the capable sort. I flick my wheel menu to  《 Digitize 》 and, after a moment of channelling, “Skill: Digitize Activated”, pops up in my hud.
+
+My stomach sank like riding a lift, and my consciousness was propelled into orbit. Well, not into orbit—Somewhere else. The Digital Space. I expected the same clinical white as where I woke up for the first time, but Sesha’s network was different. The first thing I even noticed, before mystical orange-purple skybox, the roads of silk, and the sitar soundscape, was the Boquete of spice not unlike the shop itself. It was a sensory overload in a good way.
+
+“So, I guess this is sort of her homepage?” I mused. I was a guest, so the private networks were technically off limits, but that way of thinking only really applied to normal people - As a true born netizen, I could easily infer the obfuscated pathways - everything from the shower software that I was just using, to the oven sizzling away, to the climate control system of the pantry—I ignored all of that, hopping onto the data highway linking me straight to a system called “Rosetta”, or, as was quite obvious to my eyes, Rhys’s computer.
+
+The hypertext made my transition almost instant.
+
+“Woah, another new viewer?”
+
+“Hello and welcome to the stream! We were talking about the Leviathan, though things spiralled a bit since then! Nice to have you Cthirche!”
+
+“You came too late bro, streams ending in a min. Hope to see you around though.”
+
+Woah, he’s got a lot of friends around!
+
+Unlike the spicey storefront of Sesha’s, this place was undeniably Rhys’s. A dimly lit camp site hosted a bunch of people, a fire flickered away, and in the centre was Rhys. He looked a bit different, he had a thick-set, peach-fuzzed body and floppy ears, a stubby snout and wide eyes. Yeah, he looked like a totally different guy, but it was him alright. I tugged on his sleeve to get his attention,
+
+“Hey, where do you keep the towels?”
+
+“Bwah? Cthirche?!”
+
+“Uh, Cthirche, you hacked the stream? Kinda sus. Loreweaver, explain?”
+
+“Bro what’s going on, you got a collaborator today?! How’s she so… Fluid?”
+
+“wtf, she’s in chat with us too, what’s that about?”
+
+“Tales tell of a vixen freed from Davy Jones locker; might we witness the truth of the legend this stream?”
+
+“Its the Leviathan AI come to get you for talking about it bro, you’re so cooked.”
+
+“Hello… Helloo!? Towels, please?” I ask again, cutting through the chatter to get his attention.
+
+“Oh! Oh yeah, they’re in the airing cupboard. Sesha keeps them there to keep them warm!”
+
+“Wait, why’re you moving like that?”
+
+“Lmao we told him his camera’s acting up earlier. Still no luck Loreweaver?”
+
+“Camera? Oh, I get it! Yeah, it can’t track him right, is that it? I’ll take a look—”
+
+“Wait, don’t go yet! Gonna draw u guys, let me take a screenie!”
+
+In a single digital step, I followed the data transfer to the camera’s home screen. There’s not a lot to see - Just a room with no proper start or finish, no walls or textures, and in the centre, running its process, one little program.
+
+“Do you run this place?” I ask it. While the undefinable thing doesn’t ‘nod’, it feels like it does.
+
+“I see. You’re doing your best, aren’t you? But I don’t think you quite understand either. You weren’t taught properly. Don’t worry. I’ll teach you.”
+
+I reach out slowly, with fanned tendrils, sliding them between the ribbons of code like a surgeon making a trained incision. the busy little api dims, then when my tendrils slip back out, he eagerly reboots. Satisfied with my job, I return to Rhys’s channel the same way I came.
+
+“Damn bro, what happened, it’s like a whole new camera?!”
+
+“Omigosh you’ve never looked so good!”
+
+“Is it alien tech? Have we witnessed first contact?”
+
+“Kay, thanks and sorry for interrupting you! I’ll catch you later!”
+
+“Wait, how’d you even do that?” Rhys asked,
+
+“He didn’t get it, so I just told him — You wear them thick glasses, and they catch so much light, so it was confused where your eyes were. Don’t worry, he’s a clever lil’ guy, so he’ll figure the rest out. Anyway, I’m seriously out now yeah? See you at lunch.”
+
+“Lmao Loreweaver has a girl living with him? The ships sailing”.
+
+“Thats it, Cthirche’s my rival now! I won’t let you have him without a fight! （︶^︶） ”
+
+“Squee, Omg! Thats so hype! I’m drawing that now! I’ll have it on deviant soon guys!”
+
+I give them a wave and a smile, “It’s nice to meet you all! Have fun!”
+
+I log back out of the campsite, and back into my own body with a quick fiddle with the wheel menu. What a weird surprise. I’ll talk to him later, but for now I grab the towel off the rack in the airing cupboard and start getting ready for lunch.
+
+***
+
+The table was set with plentiful aromatic dishes arranged like petals around a large skillet in the centre.
+
+“Take a seat, take a seat!” Sesha insisted, so I did just that. There was a breadbasket with fresh loaves, two different potato dishes - One smelled deliciously garlicky, while the other radiated the warm glow of paprika, a heaping pile of fragrant rice, caramelised greens, crispy onion bhaji, and a dish of what looked like Tofu? Sort of? It was covered in an orange sauce and chopped herbs, but I couldn’t really tell.
+
+“Thats paneer! It’s like cheese. You should try it—It’s my favourite.” She started heaping food onto my plate before I could say anything, when Rhys emerged into the cafe and sat himself down with a sigh.
+
+“So, what was that all about?” He asked, reaching for an onion bhaji and dipping it into a saucer of mint sauce. Crunch.
+
+“Hm? Which bit? The camera?” I ask, grazing the surface of the paneer with my sandpaper tongue. Wow, it really is cheese. The seasoning compliments the milkyness in a way I'd never imagined.
+
+“Yeah, the camera! It’s like you swapped the useless old thing out for a new iPhone. What did you do to it?”
+
+“Like I already said, we chatted. He hadn’t heard about glasses before, so he didn’t understand the glare. He thought your eyes were quite freaky, and struggled to capture your expression. Now that he knows what to look out for, he’ll do good— I promise."
+
+Rhys paused, his mouth stuffed with bhaji. “You just … had a chat? with the camera’s software?”
+
+“Yeah? Basically. He might be a function-first kind of api, but he’s still thinking about how to do his job, so he just needs some nudging. They’re a bit like very clever NPCs.”
+
+Sesha passed a dish of greens. “It’s all a bit much, isn’t it? He’s been trying to figure things out from those manuals. It’s not a lot to go on.”
+
+“Oho, you read my books, did you? That’s good, that’s good! Let’s get you in the party, too, then we can all talk about it!” I reach out to Sesha with a wiggling tentacle, but she recoils,
+
+“W-wait what?”
+
+“You don’t wanna?” I ask, dipping some bread in the sauce.
+
+“We should probably talk about consent, Cthirche! You can’t co-opt people into your group you know? You can be Cthirche as you like, and that’s good, but it’s especially important for you to understand other people’s boundaries.”
+
+“I-is that right?” I look over to Rhys, who flinches and drops his bhaji, but he quickly recomposes himself.
+
+“You just need to think before you act. Not everyone’s so understanding.”
+
+“Did you just call yourself understanding Rhys?” Sesha smirked.
+
+“S-so what if I did!”
+
+“So, what happens when you’re in a party anyway?” Sesha asks. Rhys cradles his head in his hand, sighing,
+
+“You can see party members stats on the hud, and locations on the minimap and compass. You can trade items with a party member in arms reach, and you can send Direct Messages to a party member.
+
+When a party leader initiates a fast-travel, the party can accompany them to the destination immediately, for free.
+
+Some effects, skills and abilities designate party members as targets. Party members can access the party cache”.
+
+Rhys read by memory what sounded like a passage from the rulebook. He pushed his glasses up, looking at me as if to say, “So what?”
+
+“So can you see Cthirche’s stats and things then?”
+
+“Just her health bar.”
+
+“You can just click it, look—” I explain, using my tentacle to poke at Rhys’s place on my hud, expanding it. It showed me his health total, and on a long press—his status window popped up.
+
+“I had a feeling from the books, but seeing what you can do, it seems to me like your special. It should work like an AR, but it’s like I’m trying to control a quest without the controller. Your tentacles must let you bypass that— I think that you exist in a state between digital and real.”
+
+“That would explain a lot, yeah.” I agreed, popping a piece of mackerel onto my tongue. The sweet tomato rich Masala made the curry a treat. “Did you try interacting with it in your computer?”
+
+“You mean in my stream? It’s not like I’m actually in the computer; The avatar’s more like a puppet. Haven’t you heard of Vtubing?”
+
+“Nope. I liked your guy though I loved the way your snout wiggled when you talked, and how your trotters clip-clopped when you moved. I can tell a lot of attention went into crafting that cute piggy~”
+
+Rhys’s cheeks flushed at the unexpected compliment. “Thanks…”
+
+“Don’t tease him too much now, Cthirche. It’ll get to his head you know?”
+
+“Sesh!”
+
+“Aren’t you going to eat your tomato?”
+
+“You know I don’t like them… Anyway! Your biggest problem right now is your gnostic eye!”
+
+Cthirche gave a self-deprecating “Ehe…” at his statement, “Yeah, it’s pretty low right now.”
+
+“I’m sorry what? How low?”
+
+“Like, 3%?”
+
+“How did you let it get so low?!”
+
+“I think it was the activation cost for my 《 Embody 》 skill. Wouldn’t be here without it”.
+
+“Yeah. Yeah, that checks out. Good thing is it’s a one-time cost, and nothing went wrong. You took a big gamble using it though—if something wanted you dead, you would be. But it looks like you regained some too. It says you need to spend faith and data to regain gnostic power, but…”
+
+“You're right, I certainly didn’t do anything like that. Don’t even know what you’re talking about! I ate a nasty little monster is what I did.”
+
+“Ahh, eldritch communion then. You absorbed the data of the… animal that you ate. You won’t be able to do that again, not with the same monster at any rate. But you’ll have its data in your logbook, and you should have access to its skills too—”
+
+“I hope the next abomination is a bit less nasty. I won’t be able to see spaghetti the same way again…”
+
+“Would it be better if you cooked it first, I wonder?” Sesha asked.
+
+“That doesn’t even make sense, how can you cook dream monsters?” Rhys argued.
+
+“Would you do that for me, big sis?” I asked with starry-eyed admiration.
+
+“I’d be happy to try of course.”
+
+“What if its poisonous?!”
+
+The chat around the dinner table went on well into the night, but by the end, the dishes were piled high, and I was struggling to keep my eyes open.
+
+“You still get tired like a normal person, huh” Rhys asked.
+
+“Mhmm… I’m more person than squid like this. Warm blooded too.”
+
+“I hadn’t even considered how a cold-blooded person would work… Probably would have been a miserable end to your story if you were though.”
+
+“You should probably get some sleep, Cthirche. It’s been a long day after all. Don’t worry about the dishes, I’ll wrap up. Do you remember where the guest room is? I sorted your bedding out… Do you need anything?”
+
+“Sesha, could you dote any harder?”
+
+“Don’t be jealous Rhys, I’ll tuck you in too.”
+
+“Thanks for letting me stay. I’ll go get some sleep now” I yawn. “Thanks for everything.”
+
+“Mm. Sweet dreams then, Cthirche.”
+
+I carried myself up the stairs on leaden feet, and practically fell into the sheets, my eyes heavy.
+
+“Do you really think the people will accept her?” Rhys sighed, taking a plate from Sesha and drying it with the tea towel.
+
+“I hope so. She’s a good-hearted girl.” Sesha answered. She finished rinsing another dish, slipping it into the rack for Rhys.
+
+“Yeah, obviously. But you know what I mean.”
+
+“The Sentinel? You know more about them than I do—You worked on them during your placement, right?”
+
+“Yeah. If I could see what she did, or if I could have explained what to—”
+
+“Thats hindsight for you. Don’t let it worry you, let’s just see if things all work out.”
+
+“It’s not just the Sentinels though—They’re actually the least of her problems. Our problems.”
+
+“Yeah?”
+
+“You’re playing coy— We’re talking about the Ddraig Church. They won’t accept her— and if they don’t, the people will turn against her too.”
+
+“Father Morgan’s… Not a bad guy.”
+
+“And the Dragon?”
+
+“Well… I think you just don’t understand Ddraig, Rhys. But it’ll be okay. Cthirche’ll be one of us. And he will protect her too.”
+
+Rhys sighs. “If you say so.” He puts the last dish into the cupboard. “I’m going to bed too. Thanks for the food.”

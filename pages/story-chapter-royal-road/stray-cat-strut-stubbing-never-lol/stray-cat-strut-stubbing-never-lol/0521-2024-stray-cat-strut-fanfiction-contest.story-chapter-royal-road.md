@@ -1,0 +1,19 @@
+---
+id: e17a20b1-ea0a-56a6-b36f-ae71b9b16b17
+page-type-slug: story-chapter-royal-road
+title: "2024 Stray Cat Strut Fanfiction Contest!"
+slug: 0521-2024-stray-cat-strut-fanfiction-contest
+partOf: stray-cat-strut-stubbing-never-lol
+position: 521
+ownLength: 442
+unit: words
+publishedAt: 2024-04-25
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1610728/2024-stray-cat-strut-fanfiction-contest"
+royalRoadId: "1610728"
+---
+
+Contest RulesHello and welcome to the 2024 Stray Cat Strut Fanfiction Contest!Like last year, we're holding a contest for fans of SCS to test their mettle, give fanfiction writing a chance, and to gain access to some neat cash prizes!This year the contest's prize pool of $1,000USD will be split evenly across four categories:
+
+Each writer can submit one story to any one of these four categories starting on the 25th of April 2024! (Yes, you can submit four stories!) Submissions will close on the 25th of May, and the final contest's winner should be determined on the 25th of June (assuming there aren't a million submissions!)The winners will have their story posted and/or linked on the main SCS story thread for all to see!You can submit here: https://forms.gle/MTvDJcjNqRY2gsqy7Below are an explanation of some further rules:The categories are divided as follows:
+
+You can find the story submission form above, but the full rules are just below:Stories must be over 1,000 words long. Very long submissions are accepted, but be aware that they might tax the judging process. Ideally, 3,000 or so words should be your upper limit.For the Best Ongoing category, a story will be judged based on its opening chapter alone. Ie: the Prologue, or Chapter One.Submissions can be made via Google Doc files. Please remember to set permissions so that everyone can read! I enjoyed leaving comments, criticism and chatting about a story as I read it, so please make this accessible if you wish.To submit a story: Send fill the form linked above!You are allowed to change, update, and refine your submission until the 25th May! Give us your best!The voting process this year will be limited to paying patreons only to avoid any tampering or confusion. As with last year the votes will be split into three steps. Each one will cut the number of submissions in half.Submissions are open to anyone!On the subject of copyright: You own yours. This contest only gives us permission to distribute your work to participants and voters. I will be asking for permission to post the four winners at the end across a wider audience!Each person can only win in one category. You can submit in multiple, but if you win in two, the second place winner of one category will be awarded the first-place prize. Each winner will be given $250 over Paypal. If that doesn't work we'll try to find a solution together!You need to have written the work yourself. No AI please. Though using AI for inspiration and notes is acceptable.No cover is required. Please submit the story in this format: STORY NAME - YOUR NAME.And finally, good luck!

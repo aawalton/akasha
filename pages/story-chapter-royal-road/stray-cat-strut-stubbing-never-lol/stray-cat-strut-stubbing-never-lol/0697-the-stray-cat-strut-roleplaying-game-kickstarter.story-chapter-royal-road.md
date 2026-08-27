@@ -1,0 +1,27 @@
+---
+id: 76b4d312-eb35-5f88-a884-965f6daabfbf
+page-type-slug: story-chapter-royal-road
+title: "The Stray Cat Strut Roleplaying Game Kickstarter is Liiiive!"
+slug: 0697-the-stray-cat-strut-roleplaying-game-kickstarter
+partOf: stray-cat-strut-stubbing-never-lol
+position: 697
+ownLength: 185
+unit: words
+publishedAt: 2025-09-15
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2602702/the-stray-cat-strut-roleplaying-game-kickstarter"
+royalRoadId: "2602702"
+---
+
+Hi!
+
+The Stray Cat Strut Roleplaying Game Kickstarter is Liiiive!
+
+Link: https://www.kickstarter.com/projects/ravensdagger/hope-punk-a-stray-cat-strut-tabletop-roleplaying-game
+
+Hope//Punk is a project I've been working on since late March! It's a full ruleset for a tabletop roleplaying game, with custom rules that allow you to make a Samurai, and more importantly, all the gear that comes with that role! (It's a gear-based progression system, and it's really neat!) All tied together with a pretty bow on top!
+
+There's lore, there's background and catalogues and there's all sorts of weird stuff going on! Legit though, it's been a ton of fun to play, and now it's live for everyone to grab!
+
+The game is FREE. The Kickstarter is to cover the costs that went into the artwork (there's a lot of it!) and to gauge interest in future modules and the like! If you want to check out Build 0.71 of the game (the somewhat unfinished pre-Kickstarter build) you can find it here: https://ravensdagger.itch.io/hopepunk
+
+I... was going to make this post begging for people to join up, but the Kickstarter reached its goal 7 minutes after I launched it, which is wild.

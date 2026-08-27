@@ -1,0 +1,177 @@
+---
+id: 31af4c85-5d69-5f0e-b429-74b758893beb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7: Cuddles"
+slug: 0007-chapter-7-cuddles
+partOf: succulent-girl-evolution
+position: 7
+ownLength: 2042
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525575/chapter-7-cuddles"
+royalRoadId: "2525575"
+---
+
+Bubbles looked down at the large, green plant trapped in the plant pile. Just like her, it had smooth, pale green skin. Unlike her, the skin was marred by clusters of spines sprouting evenly across the tender-looking skin. The overall effect was quite menacing, though the plant’s pitiful crying blunted the fierce appearance.
+
+“Hi there,” Bubbles said brightly. “I finally got to you!”
+
+“Don’t look at me!” the cactus cried. “You’ll see remnants of my friends on me!”
+
+“There there, it’s not your fault,” Bubbles said soothingly, doing her best to ignore the pieces of other plants that were sticking to the spines. “Now, do you have a sprout I can carry elsewhere? I’m going to be taking all surviving sprouts to safety, so that you can have a chance at a second life.”
+
+“I-I do, but I don’t see the point,” Cactus sniffled. “I can’t handle this existence. It’s so lonely.”
+
+Bubbles blinked. She couldn’t imagine not wanting to live. “What do you mean?”
+
+“My life isn’t worth living!” Cactus wailed. “All I want is to be able to feel affection, but I can’t—because I hurt anyone and anything that comes near! Not even Master touches me, because I will hurt him if he tries!”
+
+“But—surely Master shows he cares for you in other ways?” Bubbles asked, bewildered. She couldn’t imagine never receiving Master’s tender strokes, but she could understand how devastating that would feel.
+
+“He does care… he gives me the freshest spring water and talks to me every day, but just once, I’d like to feel his touch,” Cactus sniffled. “Or anyone’s touch, honestly.”
+
+“But if you live on, one day you may get a chance to experience the affection you want!” Bubbles said hopefully as she continued clearing the rubble, looking for Cactus’s sprout. “If you let yourself die, then there’s no chance at all!”
+
+“I doubt it,” Cactus replied heavily. “I’ve lived several hundred seasons, and the closest I’ve come to receiving physical touch is when a bird pecked a hole in me.”
+
+“That’s amazing!” Bubbles said encouragingly. “It saw how majestic you were, and thought you would make a great protective home!”
+
+“It only pecked a small opening, but it decided it wasn’t worth the effort of pushing through my spines and left,” Cactus wailed plaintively, making Bubbles wince. “There is no hope for me. I’d rather just have my life end than fall victim to false hope again.”
+
+[This plant may be a good partner to you,] Rock said suddenly.
+
+Really? They seem pretty convinced they just want to expire, Bubbles said dubiously.
+
+[I have been evaluating its properties, and they are complementary to your desires. You have been attempting to grow your own defensive attributes, have you not?]
+
+Yes, Bubbles said warily. With the excess of energy Fern was producing, she had been funneling a respectable portion into making her poison buds more potent, but she had yet to experiment with its effects.
+
+[If it is true this plant has an appropriately-sized sprout, you can graft it onto you the way you did the digestive sac, and with my assistance you can control the growth and positioning of the spines. Then you will have a robust physical defense for your upcoming fight, increasing your chances of survival.]
+
+So that means if Cactus agrees to let me graft them, they will get a chance to experience affection, because I can choose whether or not their spikes will grow? Bubbles asked, intrigued.
+
+[Correct.]
+
+“Cactus! I think there is a way for you to live on and receive affection!” Bubbles called excitedly. Cactus’s sobs quieted.
+
+“Please don’t lie to me. I can’t take any more pain… I just want to wither in peace.”
+
+“No no, I can graft you onto myself, and I can stop your spines from growing where they aren’t wanted,” Bubbles insisted.
+
+“How is that possible?” Cactus asked falteringly. “No matter what I did, I couldn’t stop my own spines from growing…”
+
+“I know it’s difficult to believe, but please trust me! Where is your sprout?”
+
+“I don’t know…” Cactus’s voice was doubtful. “Even if what you say is true, how do I know you won’t just plant me somewhere else and leave my spines to grow as they please?”
+
+“I won’t!” Bubbles declared. She shuffled around so that Cactus could see Fern perched securely within her rosette. “Meet Fern! She’s the first friend I grafted onto me, and look how well she’s doing! Because of her special ability, she’s helped me grow as large as I have!”
+
+Cactus was in disbelief. “But… I don’t have any special abilities. I just hurt others.”
+
+“That is your special ability,” Bubbles said encouragingly. She lifted her front roots, showing Cactus the entirety of her softly rounded body and chubby leaves, along with the beginnings of Fern’s delicately thin fronds. “Fern and I are… a bit delicate, you see. If you agree to join us, then your spines will protect us from predators!”
+
+“I can protect you…?” Cactus’s voice took on a tone of wonder. The next question was hesitant, disbelieving. “And… you want me to join you?”
+
+“Yes! You’ll be an important addition to our team!”
+
+“A team…” Cactus’s voice trailed off, as if they were daydreaming. “I suppose… I don’t have much to lose, do I?”
+
+Elated, Bubbles followed Cactus’s instructions and dug to where the new sprout was. Instead of finding it at the base like with Fern, it was growing out of the side of the trunk: a small nub, its areoles present, but no spines growing out of it yet.
+
+Bubbles had to maneuver her roots very carefully around the spines growing out of the mature cactus in order to latch on to the new arm growing out. After being assured she had a good grip on the nub, Cactus released their new arm, allowing Bubbles to securely capture their second source of life.
+
+As Bubbles secured the nub in her rosette, she looked back towards Cactus. “We’ll be going now. I’ll need to get to a steady source of water so that I can properly graft your sprout. Thank you for trusting us.”
+
+Water began welling out of the opening left behind by the nub’s removal. “I should be thanking you. What is your name?”
+
+“My name is Bubbles!”
+
+“Bubbles… I’m glad I had the opportunity to meet you before I withered away. I hope these spines that have caused me so much misery really can help you.” The cactus paused, its offending features quivering. “My name is Cuddles.”
+
+[Your master has a cruel sense of humor.]
+
+“Cuddles,” Bubbles repeated, ignoring Rock. “Nice to meet you, Cuddles. This is Fern. We look forward to working with you!”
+
+Giving the cactus one final wave, Bubbles climbed out of the pile, glad that she was able to save at least one life.
+
+~ ~ ~ ~ ~
+
+With Rock’s approval, Bubbles planted herself in an appropriately moist environment before grafting.
+
+You’re sure I’m ready for this? You warned me there would be some consequences, and I only just grafted Fern earlier today…
+
+[By my evaluation, you should experience minimal effects from grafting the cactus. Your Digestion ability was much more effective than I anticipated, allowing you to grow to a size to comfortably receive a second plant. Additionally, the cactus’s personality seems quite docile, which I believe will minimize the amount of disruption to your cognitive abilities.]
+
+Okay! Commencing grafting! Bubbles detached a leaf and nudged Cuddles into place. Opposite of Cuddles’s position, Fern wiggled, excited at a new friend joining.
+
+The three—now four—of them sat in companionable silence as the moon drifted lazily across the sky.
+
+~ ~ ~ ~ ~
+
+[Ability Acquired: Pierce]
+
+Rock’s voice boomed through Bubbles’s awareness, snapping her out of her dormancy. Quickly checking herself over, she was pleased to see Fern was already opening her well up in an exaggerated yawn as she puffed perfume into the air, baiting some gnats that were already hovering around them.
+
+She held her breath as she began examining Cuddles, who had already begun sprouting some baby spines.
+
+Rock! Cuddles is one of us now!
+
+[I see that.]
+
+Her enthusiasm to discover Cuddles had survived the procedure faded just as quickly as it had arrived when she noticed the sun peeking over the horizon, replaced by panic.
+
+We need to get ready! What if the humans arrive?
+
+Instead of responding to her query, Rock spat gibberish rapid-fire.
+
+[Name: Bubbles
+
+Species: Plant
+
+Moisture Level: Soaked
+
+Traits:
+
+Abilities:
+
+What is this? Bubbles asked, taken aback.
+
+[Apologies for startling you. This is how I have been categorizing your unique traits and abilities.]
+
+Is this necessary? For some reason, Bubbles didn’t quite like the idea of being some lifeless, inanimate object to be catalogued.
+
+[Not at the moment, perhaps, but once you grow bigger and begin acquiring other abilities, it can be helpful.]
+
+If you say so. Bubbles dug herself out of the ground and flexed her root muscles, preparing for the day ahead. But first, we need to get ready for when the humans come back!
+
+[Ah, yes, this is a good time to teach you how to actively use your abilities.]
+
+Cuddles’s gift was much more difficult than Fern’s to handle: it was easier to allow Fern to take care of catching and digesting nutrition in the background than to manage it herself. However, if Bubbles let Cuddles manage the spine-growing, Cuddles ended up only growing spines on itself. She ended up pricking her own leaves on her brand-new needles.
+
+I can see why Cuddles is sad, Bubbles commented tearfully as she gingerly extracted the offending spines from her plump leaves.
+
+[Fortunately, you do not have to let the cactus grow rampant. You can supply only a minimal amount of energy to the cactus, enough to keep it alive but not enough for it to grow any spines. As for putting the ability to good use…]
+
+Redirecting the spines was no simple matter. Since Bubbles’s original body and stems weren’t predisposed to growing leaves in such a manner (Rock had an impressive knowledge of plant biology, informing her that Cuddles’s spines were actually leaves), she had to focus extremely hard on making sure her leaves grew out as condensed as she possibly could.
+
+When she finally (successfully) grew out a set of needles, she was mentally exhausted.
+
+[Excellent work. However, do be aware that at a Novice level, your spines are fragile, compared to the cactus’s previous incarnation; so when they are consumed, you will have to regrow them.]
+
+How fragile are they? Bubbles felt the tips experimentally. They felt solid enough.
+
+[I judge they will be able to penetrate bare flesh or soft tissues once per needle, and wholly useless against anything remotely protected.]
+
+Images of sharp fangs and claws closing around her fleshy leaves flashed through her mind, reigniting the panic that had faded as she focused on learning how to grow her new spines. This won’t be enough to protect me if those beasts return!
+
+[Correct. You must continue growing spines in order to level up your Pierce (Novice) ability.]
+
+She felt herself wilt at the prospect of having to grow who-knew-how-many hundreds of needles before she could fully utilize Cuddles’s gift. Bubbles had taken Fern’s independence for granted as her best friend tirelessly consumed insects and dead foliage in the background while she scampered about, blissfully reaping the benefits of having a neverending supply of energy.
+
+She shook herself, throwing off the gloom. Fern was good at what she did, so she just had to keep doing it. Cuddles had a valuable—albeit difficult to control—skill, and it was up to Bubbles to help the newcomer control it and put it to good use. That way, the two of them could protect Fern as she kept collecting energy for them to use and grow.
+
+This is my chance to step up and contribute to the team!
+
+[That is a commendable attitude. But now that you have at least established preliminary defenses, may I propose a training plan to optimize your Pierce growth? That way, you may take full advantage of the time remaining before the humans arrive.]
+
+Bubbles trembled at the unwelcome but necessary reminder of what was to come.

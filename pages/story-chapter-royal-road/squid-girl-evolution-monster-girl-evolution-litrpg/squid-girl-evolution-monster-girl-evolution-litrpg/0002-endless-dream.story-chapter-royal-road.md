@@ -1,0 +1,83 @@
+---
+id: cb673ef1-0247-5cdc-b3cd-1594ec32fca6
+page-type-slug: story-chapter-royal-road
+title: "Endless Dream"
+slug: 0002-endless-dream
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 2
+ownLength: 1328
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2553903/endless-dream"
+royalRoadId: "2553903"
+---
+
+The first thing that I noticed?
+
+This doesn’t feel anything like playing WOW!
+
+The heavy, foreboding atmosphere, amplified by a swirling vortex of post-impressionist red and purple eddies, like a living window that churns the light that seeps through, the musty odor of moss and mildew made my head swim, and my lack-of-a-spine tingled at the sense of oppressive dread that loomed.
+
+Do people really make intro stages like this? Surely you should work your way to the fortress prison - Or end up here by some plot contrivance when your well-meaning but ultimately poorly thought out plan lands you in a spot of bother! But no, I’m here, starting out in the scariest place I can even imagine!
+
+Okay, okay, deep breaths. It’s fine. Its not that scary. And not that unusual. Solid Snake gets tutorials in active war zones, and when the Slayer of Demons was dumped in Boletaria, it wasn’t even all too different to this. It didn’t feel like the sky box was gazing back down at him, but it could have!
+
+I suppose in retrospect I should be grateful then. I’m surrounded by tight little alleyways and cloistered buildings - That gives me some control. I can take it easy, learn the game and overcome the challenges one at a time.
+
+So, that's my first problem solved! You might not think it, but my pacing back and forth talking to myself let me learn that my stamina doesn’t go down! It doesn’t go down just by moving anyway.
+
+I take a deep breath. Deeeeep breath… And, push! All of the force is expelled from my mantel, propelling me through the air like a squid through water! I do a barrel roll, just to show off, and this time! I somehow avoid becoming a mess on the brick wall. Alright, we’re getting there! Can I call that a level up?
+
+「 System: You cannot. Experience is not rewarded for locomotion, walking or otherwise. 」
+
+Ignored. I ignore that useless system reply. I think I’m doing great! And what I learned from that little test - Going fast did NOT reduce my stamina. But twirling did. I guess that's what we'd call a dodge roll. So we are in lordran then. Uuuuunfortunate. But we can deal.
+
+Actually, I suppose this place must have a name. “Excuse me, where are we?”
+
+「 System: Alpheratz Hyper-gaol 」
+
+Hm. Pretty name. Alpheratz. It sounds kinda 101 nights. Looks more off-the-coast-of-scotland though. Wait, gaol? Like Jail? I don’t know if I want to meet the kind of person they’d lock up in a place like this. I hope he’s a friendly.
+
+Well, I guess now that I know how to get around, I’ll get to work. The best way to learn is by doing! Who even has time for tutorials these days? Is that an enemy over there? Why I think it is!
+
+In the shadows of the eaves was what one would not normally call an enemy. In fact in my past life, that would only have registered as a harvesting node or the like. I’m more compact now though, and it looks about as compact as I am. We were made for each other. Or is it that it was made for me? Ok, thats enough thinking. I don’t think it’s even noticed me - I can get a sneak attack!
+
+I take another deep breath - Just like I’d practiced earlier, letting the imaginary water fill my mantel, packing it in good and tight. I’m not even sure what it is that I’m swimming in to be honest. Like, machine code? Or markup language? Who cares! I push all of them ones and zeroes out just like a squid might, and in an explosive burst of speed, I barrel through the air, spiraling like a rifle bullet, and—
+
+Splat!
+
+Owww! Bugger me what was that about? I didn’t even push it back, but I know I made contact! The world spins before my eyes. I kick my tentacles to put an arms length between the two of us. Were there always two of them? I shake my mantle and try to reconcile my bleary eyes. Just one. Just one fuzzy little fiend who seems almost as dazed as I am.
+
+I imagine its thinking “What would be stupid enough to do that when its so squishy?" Me, I was the stupid one, okay! Its fine, this was the plan! Now that I’m in grappling range, it’s smooth sailing! Its my attack of opportunity!
+
+I throw left arm, then my right, at the tangle-weed maw of the critter, that my ever helpful HUD informs me is called a "Zood". The one-two punch lands more like the lashings of a whip, and its bush-baby like eyes shoot wide with shock as it yelps in pain. Sorry, not sorry! Its you or me little guy!
+
+I notice that my punches each lowered my stamina bar a smidge, but nothing serious, and now I have his wiry hair snared in my grasp, he can’t defend himself! Haha! Now its all my show little guy— Ow!
+
+Its sharp teeth latch on back - I didn’t even realise it had teeth under that wormy beard, but it sure does, and they clamp down like a bloody vice! Its not a defenseless enemy in grapple state - its a wild animal and it wants to survive! A cautionary glance shows the drastic reduction in my HP - Down to 48. That was a scary amount of damage! If it wasn’t for the 《 Great Old One 》 title, I’d have been done for! Gods bless the 《 First Dreamwalker 》! But its not over yet, and if I let it keep biting away at my mantel, I’ll be ratfood! Think Cthirche, think! I have all of the powers of a squid and none of the foresight to read the tutorial! What would a squid do?
+
+I found my answer not in some miracle, but by frame of reference. The rat like creature that bit me, its needle-like fangs, that was the tutorial I never read. You’re not the only one! Taaaake this!
+
+With the rat held tight, I nip with my beak - its an almost subtle weapon compared to the gleaming blades the rat wields, but no less potent. The rat doesn’t even yelp this time - It convulses, then falls limp as a wet rag. How much HP does it have left? It looks like I only dropped it to 5/6 maybe. I wasn’t doing much damage at all. But the paralytic poison in my beak? That stuff’s potent. Just one little scratch is enough to make it putty in my tentacles.
+
+Its a little macarbe, but I just gotta finish it off while its down for the count...
+
+I constrict it tighter in my arms, holding it close and tight, then almost gently, my eight tentacles get to work, binding it, smothering it, choking the wind from its lungs, breaking its fragile bones like twigs, making the vile little monster into a meatball. I don’t know if my poison did it the grace of putting it to sleep, or if it suffered through its lingering death. I didn’t want to dwell on it.
+
+So that's how a real battle goes. It wasn’t even man sized… Leveling up as a squid is going to be-
+
+Bwwwwww…. Ping! Ping ping ping ping ping ping ping!
+
+-hard work.
+
+That couldn’t have been…
+
+「 System: Congratulations. You Leveled up! 1 → 9 」
+
+Nine levels?! For one little critter? I thought it was more resource node than monster, but that thing was a proper fighter, wasn’t it?
+
+Name: CthircheLevel: 0009Race: TeuthisClass: Great Old One
+
+Hp 24 → 172MP 65 → 468Attack 13 → 70Defence 7 → 37Intelligence 78 → 421Resistance 33 → 178Dexterity 50 → 270Speed 65 → 351
+
+Pearls obtained: 4New Gnostic Art unlocked: 《 Embody 》 Zoog dropped: 【 Zoog Meatball 】!

@@ -1,0 +1,173 @@
+---
+id: 39173e7a-23e5-5b32-ac7a-378cbec0e3bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5: Time to Leave the Nest"
+slug: 0005-chapter-5-time-to-leave-the-nest
+partOf: succulent-girl-evolution
+position: 5
+ownLength: 2258
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525543/chapter-5-time-to-leave-the-nest"
+royalRoadId: "2525543"
+---
+
+Bubbles froze as a massive, dark gray wolf padded over to the willow tree, his nose lifted and sniffing suspiciously. She didn’t like how accurate the creature’s senses seemed to be; it almost seemed as if his nose was tracing the shape of Fern’s perfume cloud. She quickly stifled Fern’s exuberant puffs as she aimed her scent towards an insect buzzing nearby, tightly bundling the bud back.
+
+“That’s the dumbest thing I’ve ever heard.” A young man—barely more than a boy—scoffed. “Plant monsters can attack, but there’s no way one can travel. Not unless it’s an ancient plant that’s grown its way across an acreage, or any ivy or something.”
+
+“Well, has Celeste been able to spot any of the usual signs of plant monsters?” the original hunter retorted angrily. “I’m telling you, not even Toby spotted any signs of ‘true’ plant monster growth. Who’s to say this isn’t a completely new breed of plant monster?”
+
+The bug Fern had been taunting buzzed around Bubbles, looking insistently for the source of the smell. Bubbles wrapped her roots more tightly around the willow’s branches as she held the bud closed, fighting against Fern’s urge to open up and let the bug in.
+
+The willow’s branch cracked under the compression, drawing the wolf’s attention right to where Bubbles was hiding in the foliage. She froze as the wolf began growling, startling blue eyes focused on her position.
+
+Fern took advantage of Bubbles’s fear to snap open, belching a cloud of aroma into the air and causing the bug to zoom straight into the digestive juices before she snapped it shut again. The wolf’s growling took on a more dangerous quality, his nose twitching harder.
+
+“Silence.” A deep voice interrupted the squabbling, matching the wolf’s low growl. “Link got something.”
+
+Without waiting for Rock to chastise her for staying too long, Bubbles took off through the leaves, not even bothering with stealth. She heard shouts from the humans as they chased after the rustling.
+
+[The wolf is tracking your noises from the ground. The black leopard is the one that is capable of climbing, though it seems you have the advantage in where you can travel: the feline is restricted to branches that can support its weight,] Rock reported.
+
+Thank you for the update, but that doesn’t help because I don’t know where to go!
+
+[The two raptors in the sky—hawk and owl—are limited to aerial reconnaissance. As long as you stay within the shelter of the trees, you will be safe from them.]
+
+“HELP!” Bubbles screamed as she scuttled along, more out of terror and despair than any actual hope for rescue as Rock continued dutifully reporting the progress of the hunters on her tail.
+
+“Don’t cry, little one.” The tree she was currently running along called to her. “We will protect you.”
+
+Immediately, Bubbles noticed the branches shaking, mimicking her movement patterns as they rustled in multiple directions away from Bubbles.
+
+“There’s another one!”
+
+“Be on your guard—it might have gotten reinforcements!”
+
+The sounds of the hunters’ footsteps faded as they followed after the imitation noises from the trees, leaving Bubbles alone in the boughs.
+
+[They have departed.]
+
+Relieved, Bubbles took her chance and began moving again, thanking everybody for their help as she did so.
+
+“No need, little one. You have the chance to escape; we do not begrudge you for that,” a majestic oak tree responded solemnly.
+
+“That’s right, we’ve lived long lives, and have propagated beyond this garden… though it is a very nice garden,” a tall pine tree agreed wistfully. She stretched, dropping a couple loose needles as she did so. “We’ve enjoyed our time, but you haven’t had a chance to experience life yet. Go, grow, spread your seeds!”
+
+Bubbles felt moisture well up to the surfaces of her leaves at the kind words from her elders. “Thank you, thank you!”
+
+Bolstered by everyone’s support, Bubbles made her way further away from her plot, heading towards the edge of her garden.
+
+~ ~ ~ ~ ~
+
+Wolfe rubbed Link’s ears absentmindedly as his team grumbled among themselves. Being a Ranger for the Commission of Environmental Stewardship was frustrating, because they were frequently limited by (more often than not) contradictory rules.
+
+“It would be so much easier to flush these creatures out if we cleared out the vegetation…”
+
+“But we need to catch and identify them before we can approve the deforestation.”
+
+“What a paradoxical situation…”
+
+“We’re going to have to call in a bigger team if we want to do this properly,” Wolfe said finally, quieting the complaints. “I’ll head to the Ranger’s Guild and see if we can scramble some resources. The three of you go submit the report to the CES of today’s findings, and let them know we’re submitting a quest. It should take three days for them to approve the quest, and by that time we can gather a sizable force to sweep this estate.”
+
+“Maybe we can call in some fire mages, too?” Rina asked hopefully, as Luna sat beside her mistress and stared unblinkingly at him. Her tail swished from side to side, the only indication that she was blaming him for their failure today. “Do some controlled burns to flush the unknown creature out?”
+
+The large cat was already agitated from getting burned by the acid today, and Wolfe’s stern response when he discovered Squad Luna Toby had lost the creature while waiting for backup had made her outright bitter. Link growled softly beside him, warning off the feline.
+
+Rina was a trustworthy teammate, and Wolfe trusted her with his life—but her beast partner had an independent streak, bordering on mutinous, that made it hard to keep her contained. The only way to keep the large cat in a good mood (or at least a nonhostile one) was to appease her human. Fortunately, Rina’s suggestion was a good one, so it was easy to appease the panther.
+
+“Good idea.” Wolfe nodded at his second. “I’ll stop by the Mage’s Guild as well and see if they can gather any on short notice. You know the forms to fill out to authorize cross-guild ventures?”
+
+Rina nodded, and Wolfe looked to his other two teammates. “Tom, you’re in charge of writing today’s post-action report.”
+
+The youth blinked and nodded vigorously, his owl hooting on his arm.
+
+“Marco, you’re supervising Tom to make sure he’s got all the right details in it so the Commission doesn’t deny our quest request. We want to get approval as soon as possible.” Wolfe paused, sighing at a sudden realization. “It’s Friday. What time do they close?”
+
+~ ~ ~ ~ ~
+
+Bubbles finally reached the edge of the garden at sundown. She hadn’t been there before (of course), but she could just tell where the garden ended and where the wilderness started.
+
+Evidence of Master’s handiwork was everywhere. Every plant within the garden lines had been meticulously cultivated, all of them looking sophisticated and neat, while the wild plants had a distinctly unruly look.
+
+She couldn’t bring herself to remove her roots from her homeland.
+
+The first step is always the hardest, she told herself. Look at you: walking like a natural now. You are living proof you can do it!
+
+She steeled herself, bravely lifting her front root.
+
+Fern choked.
+
+“Fern! What’s wrong?!”
+
+[Your friend has consumed too many insects, and thus has gummed up her digestive sac. You will need to purge the insect carapaces for her to continue Digesting.]
+
+Frantically, Bubbles climbed up a nearby tree, hanging upside down from the nearest branch as Fern continued heaving. Finally, a smattering of shells and wings fell out.
+
+Will I have to purge Fern regularly? Bubbles thought in anguish as she helped Fern clear her well with gentle pulsing. This is the cost of keeping her happy, I suppose.
+
+[Negative. It is because your Digest skill is still at a Novice level. When you have Digested a sufficient number of creatures, you will attain improved proficiency and efficiency, allowing you to expand your diet and Digest a wider variety of substances, faster.]
+
+So as Fern and I grow, we will be able to draw nutrients from more things, Bubbles translated. That makes sense.
+
+[Correct. And if my calculations are correct… ah, excellent.]
+
+[Digest (Novice) proficiency has increased: Digest (Fledgling)]
+
+Yay! Bubbles was heartened by Rock’s announcement. What does that mean?
+
+[It means you can Digest soft tissues at a faster rate.]
+
+So I still have to purge the hard stuff? It was difficult not to feel disappointed. She climbed back down to the ground, returning glumly to the territory line. She had been excited during her journey to the edge of the estate, unafraid to leave her home, bolstered as she was by the other plants’ encouragement. But seeing how uninviting the wilderness was, coupled with Fern’s choking scare, intimidated her too much to actually take the step.
+
+[Yes, but it is not all bad—the next level will allow you to Digest exoskeletons,] Rock said quickly. [Additionally, you have grown larger.]
+
+Surprised, Bubbles examined herself. The leaves she had lost earlier had grown back in, just as thick—and even more luscious than before; Fern’s well had also grown larger and more spacious inside, and as the sweet juices began pooling again, she could tell the digestive acid had gotten more potent. There were even a couple of fern-like fronds beginning to sprout between her characteristically thick leaves, softening her naturally cherubic look even more.
+
+After so many seasons of remaining the same size, watching everyone else around her bloom, grow, and become more hardy, she had never imagined that she could also one day grow just like the rest of them.
+
+This is all because of Fern’s Digest ability? Bubbles asked, awed. She dug her roots into the ground, noticing that they were able to move through the soil more easily, and draw nutrients more quickly from the ground. She was thrilled. I love being bigger!
+
+[Congratulations. It seems the time and effort spent rescuing your friend was worth it. Now please,] Rock urged Bubbles to cross over to the wilderness.
+
+She nodded, firming her resolve as she faced the mean-looking vegetation. Even Fern wasn’t desperately puffing for food, recognizing the gravity of the occasion, though she was eyeing a cricket that was chirping cheerfully nearby.
+
+But she still couldn’t bring herself to do it.
+
+[What is the delay?]
+
+I can’t do it…
+
+[Cannot do what?]
+
+I can’t abandon my home!
+
+Bubbles swung back towards her lovely garden. All of her memories were here; even though she had never personally met any other plants, there was no denying the sense of kinship she felt with those she met during her unexpected foray away from her plot today. Look how the bush helped her up today, while she was still trying to find her rooting; look how the trees worked in tandem to draw the hunters away from her, no questions asked.
+
+Everyone was so willing to help her escape, without a thought for their own upcoming demise. How could she just abandon them like that?
+
+[There is no way for you to assist them!]
+
+I have to try! Bubbles planted her roots beneath her in a strong show of defiance. Fern boldly raised herself up, supporting Bubbles’s determination. We have to try! We can’t just let our home get destroyed like this!
+
+“We can’t give up like this!” she shouted to the nearby flora. They all creaked as they turned their attention to her, eyeing her inquisitively. “So what if we know we’re going to die—maybe, because we will die, we should fight for our home!”
+
+Leaves rustled as plants tilted their stems, considering her words. She watched them anxiously as they discussed among themselves.
+
+“The little one is correct. There’s nothing to be gained from being docile.”
+
+“Given how they have so mercilessly cut down our brethren, we may as well hinder their efforts as much as possible.”
+
+“Perhaps, if we all unite our efforts, we may be able to protect our homeland and drive them off!”
+
+Bubbles listened, thrilled, as all the wilted plants began taking on a more passionate fervor. Using the distraction as cover, Fern blew a cloud of perfume into the air, taunting a mosquito that was curiously exploring the area. Finally, Oak addressed her.
+
+“Well done, little one. You have inspired a generation that had already accepted their fate. However, in order to most effectively teach the destructive humans a lesson, we will need information on what is happening in the rest of the garden.”
+
+She straightened, feeling the weight of the local forest’s expectations settle on her. Fern snapped shut delightedly, having successfully acquired the mosquito she had been targeting.
+
+“Little one. Since you have been gifted with mobility, we will need your help in our upcoming defense. It takes far too long for us to receive information—and the information would be wholly transformed and inaccurate from the truth, and we cannot replenish our defenses endlessly. Are you willing to put yourself in harm’s way in order to keep those of us away from the fields of battle apprised of what is happening, so that we can be efficient with our remaining resources?”
+
+“Of course!” Bubbles trembled, overcome by the honor of being entrusted with such an important task. Even Fern perked up, waving the leaf that had just sprouted from the base of her well in a sloppy salute. However, there was one among them who was not on board with the plan.
+
+[Foolishness.]

@@ -1,0 +1,137 @@
+---
+id: 3670a4aa-070b-5561-97d6-31aea834aa99
+page-type-slug: story-chapter-royal-road
+title: "Interlewd Six"
+slug: 0682-interlewd-six
+partOf: stray-cat-strut-stubbing-never-lol
+position: 682
+ownLength: 1106
+unit: words
+publishedAt: 2025-08-04
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2491005/interlewd-six"
+royalRoadId: "2491005"
+---
+
+Interlewd Six - Shy’s Secret Sauce
+
+WARNING: There's a threesome, lots of sub-dom play, some spanking, some gay sex, some tentacles, and some straight sex. Shy is bi, and she has a 'sexual fantasy' machine, and she's using it to the hilt... heh.
+
+Lady Charlotte Adeline Doucette, Princess of Prince Edward’s Isle, was a little restless.
+
+She walked back and forth across her tiny living room, the walls folded back so that she could glance to the side where her many plastic figurines were on full display, but at the moment the tiny scale figures of samurai weren’t bringing her much joy.
+
+To most, she was the reclusive, uncommonly seen samurai known only as Shy. A name bestowed upon her by the rather kind Grasshopper a year and a half into her career.
+
+She actually held the record there. The longest time someone had gone without being named as a Samurai, discounting those who kept their birth name and... well, perhaps there were some samurai who were in hiding still.
+
+She didn’t blame them if they existed.
+
+At the moment, she was trying very hard to break through her introversion, but it was difficult, and sometimes she questioned if it was even worth it.
+
+At other times, she felt... a kind of aching loneliness.
+
+It wasn’t just for friends though. Sometimes she wanted... a bit more.
+
+Swallowing, she paused between one step and another, then surreptitiously looked around. “Latyns?”
+
+“Yes, Lady Shy?” Her AI companion replied into her ear. She preferred hearing him speak over the disembodied voice in her head, it felt more natural, better.
+
+“Ah, can you activate privacy protocols?”
+
+“I see. Yes, Lady Shy, Privacy Protocols are active.”
+
+She nodded. Now the door to her apartment would disappear, hidden behind a holographic illusion. Calls would be rerouted, as would elevators, and a suite of security systems would alert her if anyone came close.
+
+She wanted out of her private life, but sometimes... sometimes it suited her better that no one was looking.
+
+No one could spend as much time on the Mesh as she had without seeing some things and maybe picking up a habit or two, but that didn’t mean that she wanted anyone to know what she did, ever.
+
+If someone found out, then she’d buy a shovel from Latyns and start digging. “Latyns, can you, ah, look away as well?”
+
+“I’ll do what I can, Lady Shy.”
+
+That was the best she could hope for.
+
+She didn’t immediately jump into the degeneracy, of course. That was not her way of doing things. Instead, she arranged the... scenario.
+
+Her face was already feeling rather warm as she started to pace again. What she was doing was wrong. Not as wrong as some of the things she’d seen on the net, but it was still weird and inappropriate, and if anyone, ever, found it, she’d die of shame and humiliation.
+
+Somehow, that made it kind of hotter?
+
+Swallowing past a thick throat, Shy glanced at her bed.
+
+It was a nice-looking queen, shoved into a corner of the smaller room she used to sleep in. It wasn’t just a bed with a nice comforter and some tussled up blankets though. The entire room and especially the bed was Protector tech.
+
+It had taken her a month to build up the courage to ask for it. The underside of the bed housed a many-limbed machine. The Personal Use Sensual Stimulator, Mk Y. She called hers Duke Richard in a flight of fancy.
+
+It was... a lot, capable of a lot as well.
+
+That wasn’t the shameful part. Sure, if people found out, she’d be embarrassed, but there was precedent. A lot of women had toys tucked under their mattress. Hers was just a multi-limbed hyper-intelligent stimulation machine made on some alien plant and probably cost more than a penthouse, but she was a samurai, and they tended to go... big.
+
+No, that wasn’t the thing.
+
+The thing was the item standing on a little plinth next to her desktop. It was a small band that was worn around the face. Lighter than a feather, with full 270 degrees of vision and a live connection to her computer and certain pieces of software on it.
+
+It could simulate anything she asked for.
+
+Duke Richards could then act out the... tactile parts of those simulations.
+
+Shy was shivering a little, even though it wasn’t too cold in her room. Stress? Anxiety? The start of another panic attack? She wasn’t sure, but it also came with this incredible sense of pent-up... stuff, in her.
+
+She moved up to her computer and double tapped the file sent to the 3dWreath. It was a biometrically locked file. She swallowed, then leaned in closer to her microphone. “Unlock the, ah, s-sexmachine,” she said.
+
+Her computer ran a quick scan, then gave her the digital equivalent of a ‘go ahead.’ If anyone tried to unlock the file without her voice and ID, the PC would explode.
+
+Then the rest of the building. There was no taking chances.
+
+There were a few dozen files, and this is where the real shame began, because these were things she’d use a very advanced, very naughty program to build.
+
+Quickie.3d
+
+Quint.3d
+
+TheEntireNorthAmericanOlmypicTeam.3d
+
+GrasshopperHuggingMe(3)_Final.3d
+
+BeingADom???.3d
+
+BeingDommed.3d
+
+BeingDommed2.3d
+
+BeingDommed3.3d
+
+BeingDommed4_extrarough.3d
+
+PublicTouching.3d
+
+Then the files that really made her face warm up.
+
+Cat_Lucy_Threesome.3d
+
+MisterCrackshotCheatingWithMe.3d
+
+GomorrahSpanking.3d
+
+Nya?.3d
+
+She took all four of those last ones and loaded them into the program, one after the other, so that they’d play sequentially. Of course, she could stop it at any moment. In fact, she probably would.
+
+Having the faces of people she knew... well, this was a whole step past just fantasizing, wasn’t it?
+
+Oh no, how was she going to look her coworkers and... maybe friends, in the face the next time she saw them?
+
+She loaded the programs onto the 3dWreath anyway, then shuffled in place. She was wearing comfy PJs. A loose sweatshirt over a silken t-shirt, sweatpants... nothing she’d want to be see out of the house in, but the usual clothes of a shut-in.
+
+And now she was wearing the 3dWreath as well.
+
+For a moment, she saw nothing. Then the cameras on the exterior of the device came on, and it was as if she wasn’t wearing anything on her face at all.
+
+This was it, the moment of no return...
+
+“A-activate program one,” she said as she darted into her room.
+
+She closed the door, then locked it with a purely mechanical deadbolt.
+
+There was a small chime in her ear, telling her that the program was on, and then... that was it.

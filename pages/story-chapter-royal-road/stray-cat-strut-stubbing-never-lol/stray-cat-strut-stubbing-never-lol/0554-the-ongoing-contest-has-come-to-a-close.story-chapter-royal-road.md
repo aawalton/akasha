@@ -1,0 +1,15 @@
+---
+id: c35d21b5-9d70-56c8-bd3c-938ed2ce911c
+page-type-slug: story-chapter-royal-road
+title: "The Ongoing Contest has come to a close!"
+slug: 0554-the-ongoing-contest-has-come-to-a-close
+partOf: stray-cat-strut-stubbing-never-lol
+position: 554
+ownLength: 362
+unit: words
+publishedAt: 2024-07-23
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1729262/the-ongoing-contest-has-come-to-a-close"
+royalRoadId: "1729262"
+---
+
+Somehow, this one took longer than the last... and it's all my fault for being so slow. My bad! I'll try to make the next ones a little faster!So, the Ongoing contest is probably the entry that means the most. It has fewer stories within it, but these stories are ongoing pieces of art in the SCS world, which is impossibly cool! I'm particularly proud of this part of the contest since it means that there are people dedicated to writing SCS fanfiction over months, and some over the span of a year! That's incredibly heartwarming!There can only be one winner, however...Presenting this year's Ongoing Contest winner... A Joytoy's Journey to become a Hive-Queen By PhyonesArc!Joytoy is such an interesting take on the SCS world. SCS never shied much from poking at the darker side of cyberpunk, but as an author, I never found myself too confident and willing to dive into subjects that some might find a little disturbing. Phyones did that here, with both grace and elegance, and a fair amount of decorum.Help support creative writers by finding and reading their stories on the original site.It makes Joytoy something really special. I'm not sure if it's for everyone, but it's a subject that deserves a good exploration. It definitely helps that the writing is far above par. The main character is enticing and interesting, the world she lives in is at once cruel and yet mundane, and there's just enough hope to keep the very real-feeling people in that world going.If you want to read something different, then give Joytoy a try!I really wanna shout out Teddy Bears on Brigade as well. I don't know if I can do split winners a second time in this contest (and I suspect that Wombat will be taking the prize in one of the next categories anyway, they're just that good). T-BoB is a lot closer to SCS in style and substance, only it's a lot cuter in many ways! I'd also be remise if I didn't tell people to give it a try, especially those who might not want to take a big plunge within the world of Joytoy.Keep warm; stay cool,-RavensDagger

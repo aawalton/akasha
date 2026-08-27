@@ -1,0 +1,153 @@
+---
+id: 1cf99d06-c6eb-52be-b0da-9cf99d5a0174
+page-type-slug: story-chapter-royal-road
+title: "Chapter 3: Baby Needs to Eat"
+slug: 0003-chapter-3-baby-needs-to-eat
+partOf: succulent-girl-evolution
+position: 3
+ownLength: 2051
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525516/chapter-3-baby-needs-to-eat"
+royalRoadId: "2525516"
+---
+
+[You are sadly outnumbered. You must flee.]
+
+“Get away while you still can…”
+
+Bubbles stayed frozen, unsure what to do. She was terrified; she didn’t know what was going on. And her window of opportunity was rapidly closing as the group cautiously approached her.
+
+“What kinda bug is that?”
+
+“It might be a mimic. But the details are weird…”
+
+“Is it dangerous?”
+
+“We gotta treat it like it is. We can’t afford to lose anyone, not if we wanna make schedule.”
+
+“Everybody get ready. We don’t know what it can or will do, so keep your eyes peeled.”
+
+[You must leave.]
+
+But Fern… Bubbles agonized.
+
+[Bring the bud with you.]
+
+Understanding flashed through Bubbles as The Voice conferred information to her in a myriad of images and complex concepts she would never have had a hope of verbalizing. Despite not being able to break down the logic herself, she knew what she had to do.
+
+She latched onto the bud with two of her roots, pulling it free from Fern’s broken body. Doing movements she never could have imagined, she flipped Fern into her rosette, closing her short center leaves tightly around the precious body of her friend, and scampered in the direction opposite of the big scary group.
+
+“Fuck, it’s fast! It’s getting away!”
+
+“Can we catch up to it?”
+
+“It’s fine, that means it’s not going to attack…”
+
+“What if it comes back with more of them?”
+
+Bubbles fled too far to hear the rest of the discussion, though she was too concerned with Fern’s condition to really consider what they were saying. Her friend’s primary body was beyond saving, she knew that; that made this little bud, this little vestige of the friend who helped nurse Bubbles back to health when she was ready to just wither away, all the more treasured. She had to get it far away from these men so that Fern had a chance at surviving. That was the only way she could return the favor.
+
+~ ~ ~ ~ ~
+
+Duke Grede stepped eagerly out of his carriage when they got to the new digsite. It was a miracle that the Remraf estate had avoided scrutiny for as long as it had, given the size and magical potency of the property. But no matter—what mattered now was that he finally managed to secure ownership. Now he could mine the land and capture the source of the strong magic oozing out from the acreage.
+
+Grede had what his rivals and peers called a wolf’s nose for business. Some of his more outspoken detractors even spread rumors that he was dependent on an artifact to engineer his good luck… a compliment of the highest order for his discernment, if he said so himself.
+
+If this excavation went well, then he really would have an artifact that could increase his wealth and corresponding power… or at least, he’d have the materials to craft said artifact.
+
+The workers he hired to clear the land—all from a reputable company that had done good work for him for years now—were clustered at the large stone archway that marked the entrance of the Remraf property, looking distinctly like they weren’t working. He frowned internally, but was careful to keep his sentiments from showing on his face as he approached them.
+
+“Hello there,” he called, waving a friendly hand. The peons cleared a path for him, bowing their heads as he passed. “Taking a break?”
+
+“Your Grace.” The foreman stepped forward, an uncomfortable expression on his face. Good. He had worked with Grede long enough to know that he treated his workers well, but had expectations commensurate with the pay. That meant he had a reason for pausing work.
+
+Time to see if that reason was going to be a good one.
+
+“I know you’re keen to see the worksite, but unfortunately we aren’t allowed to have anyone enter at the moment. While we were in the process of clearing the vegetation, we encountered an insect of unfamiliar origins.” He gestured at the man he had been talking to, who stepped up with a formal bow. “We sent a priority message to the Committee of Environmental Stewardship, and they graciously sent an inspector out today so that we can try to get the work back on track as soon as possible.”
+
+“Pleasure to make your acquaintance, Your Grace,” the inspector said, bowing again. Unlike the sun- and wind-hardened workers surrounding him, the inspector was slim and had neat hands. Said hands were currently folded together, indicating familiarity with court etiquette. However, he was pleased to note tension in the man’s fingers, indicating he knew just how problematic things might get if Grede wasn’t satisfied. “My rangers are currently in the garden, and I assure you as soon as we capture the creature, we will determine its danger level and approve the grounds for regular development work as soon as we can.”
+
+Grede let his eyebrow lift as he gave a good-natured chuckle. “‘Approve?’ Forgive me, I don’t quite understand why I’d need external approval for what happens on private property.”
+
+While the inspector cleared his throat, Grede cast a glance at his foreman, expressing his displeasure with a mild frown. He was a bureaucrat, so he understood respecting protocol… but why wasn’t he made aware of the issue before his contractors made a unilateral decision to bring in a third party?
+
+If he had been involved, he could have routed the request through multiple levels of his own administration, providing the contractors approval to continue working without the burden of dealing with an external party. Then eventually, the request would get lost somewhere among all the due diligence being done, and the job would finish. No harm, no foul. As it was now, though…
+
+“Apologies, Your Grace. No offense was intended—I’m merely here to ensure the safety of your workers. I assure you, the Committee will expedite the investigation and treat this case with the utmost priority.”
+
+Grede clicked his tongue. The inspector was more savvy than he anticipated: he’d said the magic words in the vicinity of the workforce. Now he had to play along if he wanted to maintain his sterling reputation as a kind and charitable noble.
+
+He nodded towards a worker at the edge of the crowd, sitting on a small stool with his shirt off and bandages wrapped around his torso. Another worker was dabbing at his back with a gauze pad, a health potion in his opposite hand. “I suppose the creature the foreman reported is quite dangerous. I would appreciate your thorough attention to this case. Please keep me informed of any developments and do let me know if there’s anything I can do to help resolve this… issue.”
+
+He smiled indulgently, soothing everyone’s uneasiness. “I care more about doing things right, than doing things fast. Thank you everybody for all your hard work.”
+
+Pretending he didn’t notice the ripple of relief pass through the gathering, he made his way over to the injured worker, who straightened in his chair and gave a pained salute.
+
+“I’m sorry you got hurt from your job,” Grede told him. He winced sympathetically at the half-healed burns. “Were you wearing the proper protective equipment?”
+
+“Yes, Your Grace,” the man said. He gestured at scraps of shredded fabric that were lying a few steps away from them. “The acid ate through my Rare-grade equipment by the time I finally got back to base. I’d hate to think what would happen if I only wore my Common-grade gear.”
+
+Grede shook his head, making the appropriate noises of sympathy. Fulfilling his role of a powerful yet gracious noble who cared for his people, he offered to cover the man’s medical expenses for a speedy recovery, as well as replace his equipment with Epic level gear before bidding him farewell, instructing his aide to take down the man’s information and needs. He left the wide-eyed crew and climbed back into his carriage, where he finally let his kindly demeanor drop.
+
+It’s fine. This is a good thing. The presence of a never-before-seen creature—one powerful enough to eat through Rare-grade defenses, no less—indicates the magic is strong here.
+
+Despite the gratifying pep talk, Grede was still grim at the prospect of the CES’s investigation. After all, he was a bureaucrat.
+
+Time to go help the investigation along…
+
+~ ~ ~ ~ ~
+
+Bubbles finally took shelter in a leafy environment, where the immediate vegetation seemed completely unperturbed by the chaos that had taken over her part of the garden. She examined Fern’s condition.
+
+“Fern! How are you doing?”
+
+Unfortunately, Fern wasn’t able to respond; she was just like the sprout Master had first brought home, but far younger: too immature to communicate. However, Bubbles noticed the end where she had been separated from Fern’s original trunk was starting to wither. She needed water, soon.
+
+[Your friend won’t last long if it is not planted immediately.]
+
+But I can’t plant her here! It’s too close to danger!
+
+The rock in her underside—it was weird to consider it had embedded itself into her, but at least it was pulling its weight; she could feel it keeping her steady, more durable—turned thoughtful.
+
+[I have a proposal, though it may be unpleasant.]
+
+I’ll do it! Anything!
+
+[Graft your friend onto you.]
+
+Graft..?
+
+At her inquiry, Rock sent her the same type of mental images when he first advised her to take Fern and run, allowing her to understand. She felt hope bloom through her.
+
+Oh! That’s so cool! I’ll do it!
+
+[There may be some unexpected consequences—]
+
+Doesn’t matter! Bubbles grew more and more excited at the prospect as she poked at Fern with one root and partially unraveled a second so she could grip a leaf in the center of her rosette. Moving carefully, she plucked the delicate leaf, leaving a small open wound, then gently pushed Fern onto the hole, aligning the two openings. If this means Fern can live on with me, I’ll do it!
+
+As soon as she was satisfied with Fern’s position, she settled herself down into the dirt, absentmindedly burrowing her four root-bundles into the earth. She had forgotten how warm and comforting the ground was: solid, dependable, never-go-anywhere ground.
+
+It’s so much better being rooted… She could barely remember why she agreed to evacuate her plot in the first place.
+
+[If it weren’t beneficial to remain stationary while you performed the graft, I would have urged you to continue moving. Lingering in one place is dangerous.] Despite his delivery remaining bland, Rock somehow managed to convey annoyance, reminding her exactly why she went along with such a life-changing event.
+
+Why are you so desperate to escape anyway? What are you running from?
+
+When no response was given, Bubbles turned her attention to her surroundings, enjoying her time in the soil. This patch was different from the one she grew in: a little more wet, a little more dense. She wasn’t sure if she would enjoy being rooted here long-term, though the moisture was refreshing.
+
+[As I thought. Your overly simplistic psyche is incapable of understanding the logic of my prime directive.]
+
+Bubbles quivered at the sudden response. Well, if you really feel that way…
+
+[It is not about what I feel. I attempted to transmit my explanation to you, but you were not able to process it.]
+
+I suppose there isn’t anything I can do about that, is there? Bubbles flexed her roots, digging herself more firmly into the comforting ground.
+
+[It will take some more time for us to integrate properly. After all, you weren’t aware of me until very recently. There may be a chance for us yet; all we have to do is evade capture.]
+
+Rock’s hopeful words made Bubbles pause in her shuffling. She perked her leaves, feeling just as optimistic as Rock. There is, isn’t there? And Fern will be okay, too!
+
+Her entire life as she knew it had gotten overturned with the appearance of Rock, but he had also imparted important knowledge to her that allowed her to save her friend. Indeed, Fern’s bud seemed to have melded quite seamlessly onto Bubbles’s stem. Before she could exclaim to Rock about the successful graft, he spoke with a deep, authoritative voice.
+
+[Ability Acquired: Digest]

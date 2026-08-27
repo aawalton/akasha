@@ -1,0 +1,15 @@
+---
+id: 9d7897fc-c19d-5bd1-adf7-4870d1060269
+page-type-slug: story-chapter-royal-road
+title: "Stray Cat Strut - Volume Five - A Young Ladies Guide to Interpersonal Ballistic Missiles, is Out!"
+slug: 0462-stray-cat-strut-volume-five-a-young-ladies-guide
+partOf: stray-cat-strut-stubbing-never-lol
+position: 462
+ownLength: 178
+unit: words
+publishedAt: 2023-12-12
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1441198/stray-cat-strut-volume-five-a-young-ladies-guide"
+royalRoadId: "1441198"
+---
+
+Hi!Sorry for the non-chapter post, but don't worry, your regularly scheduled SCS chapter is coming up soon!But first... some news!Stray Cat Strut Volume Five is up on Amazon, Audible, and... actually, pretty much just those two!You can find a link here: Amazon.comDecember's a real busy month for me. I have the Dead Tired audiobook coming out soon as well (it's really good!) and Dead Tired II hitting shelves at the end of the month.Unauthorized content usage: if you discover this narrative on Amazon, report the violation.Oh! And I have Fluff 3 launching on January first.Oh! And I have The Complicated Love Life of Ivil Antagonist launching on January first.Oh! And I have Magical Girl Rending Nightmare launching on January first.The start of next month is gonna be... real hecking busy, huh? But hey, more stories for everyone!I hope you enjoy SCS 5 if you buy it <3 If you want to help even more then don't forget to leave a nice review and maybe some stars. I'll be obsessing over the story's stats for a few days.Keep warm,RavensDagger

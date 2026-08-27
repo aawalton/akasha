@@ -1,0 +1,183 @@
+---
+id: f0d66f8b-861f-5d3f-8c67-351c14381630
+page-type-slug: story-chapter-royal-road
+title: "Chapter 4: Baby's First Booboo"
+slug: 0004-chapter-4-babys-first-booboo
+partOf: succulent-girl-evolution
+position: 4
+ownLength: 2295
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525524/chapter-4-babys-first-booboo"
+royalRoadId: "2525524"
+---
+
+Bubbles was mystified. What is this? Dig-est… digging?
+
+She flexed her roots experimentally, feeling herself sink deeper into the earth. Neat! I can go deeper faster now!
+
+[Digest (Novice): You now have the ability to acquire nutrients in an accelerated manner from your digestive sac instead of through your roots.]
+
+Ohh, are you talking about Fern? Is that how she grows so fast? Bubbles considered the bud that was now securely attached to her own trunk. Interestingly enough, she was more in tune with the new addition than she would have expected. Fern’s presence was still there, but now she didn’t have to wait for Fern to verbalize how she was feeling; instead, she could easily evaluate her condition herself.
+
+And even open the bud.
+
+[Correct. The class of plant your friend is from primarily gathers their nutrition from that of other organisms, while your species gathers from the earth. In plain language, you will be able to grow faster using your friend’s inherent traits.]
+
+Bubbles was intrigued as she opened and closed the bud. Now that she was examining Fern more thoroughly, she finally knew where the sweet, appetizing smell came from: there was a shallow puddle of sweet juice (it was more like a droplet at the moment) within the well that enticed all the insects into feeding Fern.
+
+[I would caution against taking wasteful actions. It has taken you a significant amount of energy in order to perform the graft, and you do not yet have the reserves to spare. I believe the most educational route would be for you to capture a creature with your new well, so that you may understand how the new ability functions as well as recover the energy you’ve already expended.]
+
+Conceding Rock’s good point, Bubbles left the bud open. How do I catch something? Do I just wait for something to come along?
+
+Fern twitched a bit, expelling a cloud of aroma into the air.
+
+Ah, thank you, Fern! Bubbles had the impression that Fern smiled in response. Now we wait~
+
+As she watched for any approaching organisms, she thought about the “graft” process she had just used. She had primarily been concerned with Fern’s wellbeing, but now that Fern was safe, she wondered about the implications of acquiring other abilities.
+
+If she grafted other plants onto her, such as an apple tree’s leaf, would she then be able to produce apples? Or how about a saltgum twig? Could she grow her own spiky balls that she could use for protection?
+
+Her imagination began broadening beyond her originally humble goals.
+
+She could graft on plants that grew Master’s favorite blooms, as well as the fast-growing shrubs that provided him with useful firewood. Perhaps she could graft on the entire garden, become the garden.
+
+Then once Master came back, she could present him with a whole bounty of treats and useful items…
+
+What if she grafted the entire garden on her back? Master would surely be very pleased with her—she would go from the delicate little succulent that was too weak to survive on her own, to the robust succulent that supported all the other plants.
+
+Bubbles felt her primary stalk tremble at the thought. Surely there was no way she could do that. She was too small…
+
+Hey Rock, this “graft” thing I just did… I can use it for other plants too, right?
+
+[Correct. However, I must caution you that there is a limit to what you can handle at once. Despite your diminutive size, the part of your friend you grafted onto yourself is even smaller, so you are still able to withstand the effects of fusing with a foreign entity. I would encourage you to grow some more before you attempt grafting another plant onto yourself.]
+
+Rock’s grave warning dampened Bubbles’s excitement before she parsed through his meaning. Effects? What would happen if I grafted other plants on before I’m ready?
+
+[Your awareness is new, and your personality is not yet set, so there is a significant chance you will be influenced by the characteristics of the plants you graft onto yourself.]
+
+So?
+
+[Whatever goals or motivations you have now may change, or be lost entirely. You will become an amalgamation of all the plants you carry, burdened by all their separate principles and purposes, no matter how disparate.]
+
+Bubbles didn’t entirely understand Rock’s explanation, but the gloom that accompanied his words was enough to impress upon her the seriousness of her idle thoughts. She resolved to be selective about her choices.
+
+Fern perked up, expressing excitement as she stretched her well even wider while exuding an even stronger aroma. Bubbles noted a fly buzzing curiously around her, landing on her leaf. She twitched, trying to urge it closer to Fern, while Fern pumped even more perfume into the air.
+
+After a tense moment, the fly fell prey to its own urges, zipping into the well. Fern victoriously clamped her leaves together, babbling with joy while Bubbles cheered.
+
+We did it! We caught our first meal!
+
+[Congratulations. It will take some time for the creature to dissolve and the nutrients absorbed, but when your friend is done digesting I would encourage you to capture another insect.]
+
+Easy enough, Bubbles agreed. She paused; now that Fern was actively working on “digesting,” she felt a lot more thirsty. She began pulling in moisture from the surrounding earth, grateful she had stopped in such a wet environment.
+
+Rock tensed.
+
+[Corrupted energy approaching.]
+
+What does that mean? Bubbles sucked harder from the earth, trying to load up on as much water as she could. Rock’s apprehension gave her a sense that she wouldn’t be able to stay here for much longer.
+
+[It means humans bearing the exploited essence of my kind are approaching.]
+
+Rock’s explanation sounded bad, but his fury was worse. Bubbles took one last slurp before pulling her roots back out of the ground. Fern continued digesting on her back contentedly, completely unperturbed by the approaching danger.
+
+She crept to the edge of the bush, trying to get a visual of what Rock was sensing.
+
+What are we—
+
+[Do not proceed any further!]
+
+Bubbles froze, heeding Rock’s warning. She was still under a friendly shrub’s cover, but through the languidly swaying leaves, she saw a large shadow floating in the sky. A gem gleamed ominously on the shadow’s body.
+
+[They are narrowing down on your location,] Rock said grimly. [If you are to make a successful escape, you must stay under the cover of your brethren.]
+
+But I don’t even know where I should go, Bubbles protested, quivering.
+
+[We can worry about your final destination later. For now, you must leave this place and throw them off your trail.]
+
+Following Rock’s instructions, Bubbles went deeper into the foliage. She knew she couldn’t head back to her plot, given how little cover there was… especially now that Fern got chopped down. But she also knew she couldn’t hide in the garden forever. The strangers were already removing all the plants in the area.
+
+Where’s Master? Bubbles wondered miserably. How would he find her?
+
+[Our goals may be in alignment,] Rock said suddenly. [You wish to seek your Master, while I merely wish to find a place to grow in peace.]
+
+You grow, too? Bubbles asked, intrigued.
+
+[Yes, though my growth is different from yours. Regardless, that is not the subject of conversation. I would merely like to present the premise that it is in both of our best interests to cooperate and evade capture by these humans: you so that you may reunite with your Master, while I remain undisturbed for centuries to come.]
+
+Reunite with Master..? Bubbles toyed with the thought. She had been taking her new ability to travel for granted; after all, because of this movement ability Rock unlocked in her, she had been able to save Fern, and escape the same fate of certain death as the rest of the plants at the front of the garden.
+
+But now that she could move, she could go find Master herself instead of waiting for him to return…
+
+[Precisely. All I ask is that once you find your Master, you take me to an appropriately isolated location, and then bury me deep in the earth.]
+
+Bubbles kept nodding along until she noticed Rock was no longer speaking.
+
+Is there something else? she prompted politely.
+
+[No, nothing of sufficient importance. However, there is a predator approaching you.]
+
+As Bubbles turned her awareness outwards, she noticed the birds that had been chirping during her respite were silent. There was a tension in the air, one quite different from the tension in the other part of the garden.
+
+The tension in the front of the garden was due to the plants and critters preparing themselves for the destruction of their homes, after having seen their neighbors getting ruthlessly chopped down. The tension here seemed to come from an ominous rumble, vibrating through the air. Almost as if the rumble was keeping everyone frozen.
+
+Not even the wind was making the leaves tremble.
+
+[DODGE!]
+
+Bubbles shrieked as she felt sharp things pinch her fleshy leaves, the pain making her convulse.
+
+A yowl sounded as she was flung into the air, her world spinning. She plopped into the boughs of a nearby willow tree, which bent its branches to prevent her from sliding down to the ground.
+
+“Are you all right?”
+
+“Yes, thank you,” Bubbles replied, dazed. Her roots gripped tightly at the willow’s long, rope-like branches, taking comfort in the sympathetic embrace. She wearily climbed her way up the branch, deeper into the willow’s foliage.
+
+“Luna! What’s wrong?” A human shape materialized out of the greenery, sprinting towards the large black feline that was pawing helplessly at its face. “Ugh, low-grade acid. Hold still, Lune, I have a potion on me…”
+
+“Looks like she grabbed a piece of it,” another human observed, joining the two figures on the ground. He bent down to pick up a piece of leaf, turning it over.
+
+Bubbles smarted just looking at them.
+
+The man frowned at the remnant in his hand before lifting his gaze, eyeing the lengths of the willow tree’s branches Bubbles had fallen into. The willow tree defiantly shuffled its branches to shield Bubbles from view.
+
+“I’ll call Wolfe over so he can have his beast track down this creature. Luna did well.” The man kept his eyes on the willow tree Bubbles was hiding in as he raised a device to his lips. “Squad Luna Toby to Squad Link Celeste, do you read?”
+
+The device glowed before fading and a disembodied voice responded. “Squad Link Celeste copy. Go ahead.”
+
+“Luna tore off some fragments of the target, but target got away. We need you here to track it. I’ll send you our coordinates. Over.”
+
+“Copy that.”
+
+[You do not have much time left to make your escape,] Rock said urgently. [The more of them there are, the greater your chance of failure. You must flee now, while avoiding the raptor in the sky.]
+
+I don’t know if I have it in me, Bubbles replied miserably. I’m feeling kind of weak…
+
+Right on cue, Fern burped, releasing a cloud of aroma as she opened her bud with a satisfied sigh. A wave of energy surged through Bubbles, easing the sting of her missing leaves. Oh, thank you, Fern! I feel much better now.
+
+[Excellent work, little one. Now, you must go.]
+
+Bubbles crawled along the willow’s branches with renewed vigor, remaining in the safety of the foliage. Fern giggled as she puffed along, trying to entice small buzzing insects into her recently-emptied well.
+
+[Beware, a second raptor has entered the skies.]
+
+Bubbles peeked through the swaying leaves to see a second shadow, also bearing a gleaming gem, float through the sky; the two shadows circled the area lazily.
+
+There was no way she could leave the canopy and make her escape. She had seen birds of prey hunt before; they had impressive sight, and razor sharp claws with surprising dexterity that plucked even the most quick-moving rodent with no more effort than Master plucking a berry. Being out in the open was guaranteed capture. What could she do?
+
+New voices joined the two humans who remained near the large feline that had so viciously torn out Bubbles’s leaves. She took great satisfaction in seeing the pointy predator sulking as its master argued with the newcomers.
+
+“I’m telling you, that thing’s using plants for camouflage! Can’t Link pick up any scent from these leaves?”
+
+“He’s not getting anything. It’s just plant smells.” The voice was irritated. “Why didn’t Luna continue tracking after you healed her? The time it took for us to get here was valuable time wasted.”
+
+“She was hurt!” the woman spat. “And… she couldn’t pick up the trail again. It was a miracle in the first place that she managed to spot any suspicious movement at all.”
+
+There was an uncomfortable silence as Bubbles held still, nominally to not draw attention to herself, but also because Fern was in the process of coaxing another insect into her well. The man who summoned the other humans finally broke the awkward silence.
+
+“What if… what if the thing we’re tracking isn’t actually an insect, mammal, or reptile?” In response to the silence, the man started speaking more quickly, losing confidence in every word. “I mean, look at these leaves Luna pulled out—there’s no blood, and the open end oozes sap, so that rules out a mimic. And Rina said Luna couldn’t continue tracking because there was no heartbeat. And you said Link can’t find anything right now either, because there’s no unique scent. So…”
+
+A high-pitched chuckle permeated the silence.
+
+“So, what if we’re tracking a plant monster?”

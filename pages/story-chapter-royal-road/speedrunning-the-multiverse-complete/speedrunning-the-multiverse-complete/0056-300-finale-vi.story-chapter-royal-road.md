@@ -1,0 +1,215 @@
+---
+id: aba98d36-0944-5cec-8222-3423390bee17
+page-type-slug: story-chapter-royal-road
+title: "300. Finale (VI) "
+slug: 0056-300-finale-vi
+partOf: speedrunning-the-multiverse-complete
+position: 56
+ownLength: 2120
+unit: words
+ownProgress: 2120
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1328759/300-finale-vi"
+royalRoadId: "1328759"
+markedReadAt: "2026-06-29T22:43:36.879Z"
+---
+
+Dorian barely had time to wrap Sun behind his wings when the blast struck.
+
+It rammed him into a wall and sent him sliding to the floor in a smoking heap, huge swathes of skin burnt off.
+
+“It’s over,” said Jez. “Listen.”
+
+Silence reigned in the chamber. In the battlefield outside. Hours ago it’d been so loud he could hardly hear himself think, but now…
+
+“That is the silence which follows a won battle,” said Jez. “We exist in the aftermath. Your Godkings are slaughtered. Your Gods are ash.”
+
+He smiled, baring toothless pale gums. “Only you remain.”
+
+Dorian’s thoughts instantly went to Fate. Gerard. Slaughtered?!
+
+Fate had said he could hold Jez for hours. But there was a way to how Jez smiled now. So serene. So smug.
+
+Jez was a lot of things, but a good liar was not one of them. He always showed his feelings plain on his face.
+
+Despite the hellish heat, a coldness settled in Dorian’s chest.
+
+“I am not a savage,” Jez went on. “If you would like to dismiss your charge, you may do so now. It would spare her the sight of what I am about to do to you.”
+
+Dorian made no move.
+
+“Go on,” sighed Jez. “I mean it. Though it matters little to me. The power that is about to enter this chamber is unlike anything this Multiverse has known. If she is made ash by it, you only have yourself to blame.”
+
+Grudgingly, Dorian said, “Sun, go.” “What?!”
+
+He sighed. “I should probably finish what I started. And you’re no use to me here.”
+
+“But—“
+
+“Shhh.” He smiled, this time a real one. “For millennia I was bored. So, so bored. There is a difference between living and merely existing, as it turns out. To live, you need things to live for. So… go. Or I’ll shove you out.”
+
+He was worried she’d still protest. She had that set to her face… but she merely hesitated, and nodded, and he saw in her eyes her worry and her trust. Somehow it touched him. She nodded, then left.
+
+“Do you believe in fate, Dorian?” said Jez.
+
+He could tell Jez was enjoying himself. It was clear Jez did. It seemed he thought he’d already won.
+
+Jez didn’t wait for his answer. “Perhaps it was Fate that led us here, to this moment. It was you that created me, after all. If not for you, I would’ve lived a simple, joyous life with my family, and died no-one of consequence. Instead we are here. Funny, isn’t it? I imagine my home was a mere sandbox to you, a land you could mindlessly plunder. I doubt it’d crossed your mind that there were people living on it. People capable of love, and life. Likely more capable of them than you.”
+
+“Listen, I get your point,” said Dorian with his own smile. “But this is a little hard to take from a man who just killed hundreds of thousands.”
+
+“Perhaps,” said Jez. “Perhaps. Yet the crimes of the past shall be washed away with the coming of the future. With the linking of all realms under the Infinity.” His face was twisted in a kind of joyous rapture. “And it all begins with the removal of one final obstacle.”
+
+“Me.”
+
+Jez’s smile widened. “So you see it too. A simple equation lies before you. I draw from the power of millions. You are but nine in one. So long as I live, so long as I protect this Heart, you cannot touch it. And so long as it lives, you cannot touch me. You are as a mosquito trying to down an elephant. You cannot win.”
+
+“You sure like gloating, don’t you?” snorted Dorian. “What do you expect me to do? Surrender?”
+
+“No. I expect you to fight. But as you try strike after strike, and fail time after time, I want it to dawn on you that you cannot win. And I want you to feel as I did, so many years ago, standing at the edge of your storm—”
+
+“Oh, Heavens! Shut up!” Dorian laughed. “We have the opposite problem. I took myself too lightly. But you take yourself far too seriously.”
+
+[Rage of the Caliban!]
+
+His world was tinged red. Red rose from his arms. Red boiled down his arms, making the veins stand out stark against the scales. And his heart rate skyrocketed—and kept rising still until he could no longer hear the beats. There was merely one continuous roar. He was a rising sun, running with so much power, so much energy it was leaking out his skin. He had to move.
+
+So he punched Jez in the face.
+
+The chimera’s head whipped back. That was all. He seemed more surprised than hurt. Then Dorian slapped him the other way with a blow that could’ve leveled a mountain. A growl of annoyance rose to the base of Jez’s throat; gold formed there too, a brilliant ball seen through the skin of his neck, rising to his mouth—
+
+A whip of Dorian’s tail sent Jez’s head careening the other way. The ball erupted in his throat, watering Jez’s eyes.
+
+In that split-second Dorian skirted Jez, Soulreaver in hand, and slashed at the Heart.
+
+A golden dome bounced his blow right off.
+
+“What did I say?” said Jez behind him, amused. “So long as I live, there is no harming it!”
+
+“Then I guess there’s just one obstacle,” sighed Dorian.
+
+And he gave Jez all he had. All of his qi, let out at once.
+
+[Bolts from the Blue] fell like common raindrops.
+
+His fists, made shockingly strong, his limbs, made shockingly fast, let fly a thousand [Fists of Falling Star, Rising Moon].
+
+His body was burning up. He could feel the struggles of his heart, the scalding heat in his veins. Yeshima’s spells would last but a handful of breaths longer.
+
+Was what Jez said true?
+
+That it was a simple matter of power?
+
+Dorian found he didn’t much care.
+
+He blasted dragons’ breath. He rained down fists. He transmuted the ground to Durin’s Coal and set it alight. He even threw in some Dream qi Techniques, which Jez shrugged off.
+
+He tried his tricks. He tried transmuting the air to fog. He tried feints and fake-outs aplenty. He shot at Jez with Dragon’s Bane. He slashed at him with his claws, his horns, his sword, batted him with his tail, even.
+
+And Jez just stood there. That same serene smile on his face, like he was waiting for Dorian to calm down and see sense. Or perhaps this was just more gloating. Dorian asked of his body all it could give.
+
+But it was no use.
+
+He couldn’t break through. Jez’s shield was endless. His powers ran the breadth of the Multiverse.
+
+And still Dorian went on. Uselessly. Pointlessly. He was flagging. He was running out. Of qi, of energy, of power.
+
+For some reason even he could not explain, he began to laugh.
+
+It must’ve really irked Jez, since the next moment Dorian saw a wall of gold. He felt like a mortal swatted by the hand of a god. The force of his impact dented the starsteel walls. At least one bone broke in his skull; several in his body.
+
+“Don’t you see?” Jez snarled, stepping up and ripping two lion’s feet down Dorian’s chest, exposing his organs to cold air. “Don’t you see?!”
+
+His two feet stomped down, and it felt as though there were a mountain on Dorian’s chest. He found it impossible to breathe. Darkness gnawed at the edges of his vision. He felt his limbs deadening—and not merely from Jez’s pressure. His Berserker state was burning out. Soon he would be a husk.
+
+And still he laughed.
+
+Soundlessly, with all his heart. He felt alive. As alive as he’d ever been.
+
+This can’t be how I go out. Seriously? How stupid. How ridiculous.
+
+Yet it was hard to argue with his body, which was quite insistent on shutting down, faster and faster.
+
+He sighed.
+
+It was nice that Sun had got away. He hoped she’d stay out of trouble. He hoped she’d live out a long, happy life.
+
+It was a shame about Gerard. And Fate. As his vision blurred, as his laughs turned to croaks, it was memories of them that swarmed him now. Such a shame—and yet he was grateful for the passing of time. Time withered things, made things temporary, true, but it also immortalized. They both had lived long, fruitful lives. No-one could take that from them now, and that gave him some small measure of comfort.
+
+Then there was his brother.
+
+What a gnarly relationship that was. And that was before he went and split his personalities, and became a brother no longer. He’d vanished into his role as Sentinel of the Multiverse.
+
+It would’ve been nice to speak with him one last time, he supposed…
+
+The pressure on his chest relented.
+
+He blinked, then doubled over, coughing blood. “What…?”
+
+At some point in their duel a hole had been torn in one of the walls, jagged and smoking. It peered out over the quiet darkness outside. Jez stood there, gaping, at something in the distance.
+
+The night had passed. A spot of white peeked over the flat line where the purple sky met the black lands. The coming of dawn—
+
+Dorian choked.
+
+But Hell had no sun.
+
+So what was that?
+
+***
+
+In the dungeons, far below…
+
+“Fool!” Houyi cackled. “Did you truly think I, Houyi, would miss?”
+
+One arrow. Passing through Jez, entering the void, moving through the Lower and Middle Realms. He had planned it in an arc—he had shot it on a path where the stars aligned. In a literal sense.
+
+For he knew he did not have the power to destroy the Infinity.
+
+For that, he had to borrow from the Multiverse.
+
+The arrow that entered Hell now bore all of his powers on its tip, true—but it also bore the powers of nine Suns. Suns it passed through, gathering their powers, gathering momentum, on its long journey here, now, to this fateful moment.
+
+As it flew, it seemed to cleave the skies of Hell. One bright slash splitting the Heavens in two.
+
+“Did you think I was aiming for you?” snorted Houyi. He sat up, his Infinity-powered manacles rattling against the walls. “I was aiming for your Heart!”
+
+***
+
+Jez threw out a wall of gold. The arrow pierced through it. He drew up a cascade of shields. The arrow paid them no heed.
+
+“Impossible!” roared Jez. He flared out both palms and the sky changed colors. A waterfall of gold fell upon the earth. It was an awesome show of power, enough to deplete a Middle realm.
+
+But whoever had shot that arrow knew exactly how much power they needed. And they knew exactly where to put that arrow.
+
+Dorian laughed even harder, so hard some of his organs spilled out his front.“You asshole,” he croaked. “I should’ve known!”
+
+It might as carved be into the Laws of the Multiverse that Houyi does not miss.
+
+That arrow was not omnipotent. Jez had slowed it some. But as it cruised through the wall of the Labyrinth and fell upon the Prime Heart, to Jez’s horror and Dorian’s delight, it seemed to have exactly as much power as it needed to broach that crystal’s surface and snuff out the light beyond.
+
+For a few breaths there was silence. Jez’s silence, staring numbly as the most important artifact of his life shattered before his eyes. And Dorian’s, too, since his lungs were a little too collapsed to even laugh in Jez’s face about it.
+
+Jez let out a sob. Then a cry choked with such rage that Dorian was glad he hadn’t made a sound just then. Probably best not to attract attention to—
+
+Jez turned to him. He watched in real time as all that senseless rage found a target.
+
+Ah.
+
+“DIE!”
+
+A golden beam left Jez’s mouth. One shaft of deadly light.
+
+But before it could touch Dorian, it bent. Deflected. Thrown into the distant skies.
+
+A bow had stopped the blow. A giant black bow wielded by a man whose body looked on the brink of death, but whose eyes still shone with fighting light. A body of an invalid with the mind of an emperor. Cold, proud, absolute.
+
+“You’ve retrieved the Chamber of Infinite Time, brother?”
+
+It took Dorian a moment to process his new reality. Then the question. Then—“Yes!”
+
+“Then go. Heal, so that you may return and aid me. In the meantime…”
+
+Houyi looked to Jez and smirked.
+
+“Let this senior give you some pointers.”

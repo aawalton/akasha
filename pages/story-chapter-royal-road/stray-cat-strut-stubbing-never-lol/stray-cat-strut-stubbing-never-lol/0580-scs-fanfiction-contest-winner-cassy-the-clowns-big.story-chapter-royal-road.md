@@ -1,0 +1,105 @@
+---
+id: d8f8b223-4187-55ab-b61e-5bca280836b3
+page-type-slug: story-chapter-royal-road
+title: "SCS Fanfiction Contest Winner: Cassy the Clowns Big Top Bonanza, by FullAutoAlice"
+slug: 0580-scs-fanfiction-contest-winner-cassy-the-clowns-big
+partOf: stray-cat-strut-stubbing-never-lol
+position: 580
+ownLength: 1752
+unit: words
+publishedAt: 2024-10-04
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1835357/scs-fanfiction-contest-winner-cassy-the-clowns"
+royalRoadId: "1835357"
+---
+
+You are questioning my sanity? I’m not the one standing in an incursion zone in a 1-credit flak jacket, holding a microphone.
+
+Potato King; Los Angeles Incursion, ground zero. Said to a reporter while he loaded a glowing green potato into his signature homemade PVC cannon.
+
+**
+
+“Who throws a pie at a plant monster?” Cassandra cried in her head as she ran down the empty halls of the community centre. Her oversized shiny red clown shoes slapping against old, but clean, linoleum.
+
+A four legged plant, with whipped cream falling from its face, rounded the corner of the hall not far behind her. Losing its grip on the polished floor it slammed into the wall with a flurry of scrabbling legs and a bang, embedded slightly into the thin drywall. Causing young Cassy to start in surprise, and let out a small squeak of terror.
+
+Deciding that racing a killer plant down a long hallway was not on her agenda today. Cassy turned quickly, and almost copied the antithesis, nearly going top over tea kettle. She barely managed to stay mostly upright by hopping on one foot. She booked it for the stairs.
+
+"Maybe they are bad at stairs!” She hoped in her mind.
+
+Cassandra had somehow forgotten about the very large, very awkward, very shiny, apple red shoes adorning her feet. She barely managed to make it down the first dozen steps before one glossy toe hooked on a pleat in her oversized, but amusing, pantaloons. Cassy careened cacophonously down the stairs, clattering off of corners, and generally having a bad time.
+
+Her descent was stopped rather abruptly when she encountered something far softer and much squelchier than the concrete stairs and their steel railings. It gave way before her with some very awful splattering and squirting sounds.
+
+Cassy found herself battered and a little bruised pressed up against the metal stair railing, covered in a rather unpleasant and sticky mess. It reminded her muddled mind of when she’d brought balloons full of flavoured gelatin to the water fight last summer. She had no desire to taste this goop though, it smelled rather awful, like a pile of week old grass clippings.
+
+“Greetings Vanguard! Congratulations on your first kill! My name is Bartholymu. Might I recommend you get moving. The one you pied in the face is still coming”
+
+Dumbstruck, Cassy just sat there, staring at her painstakingly handmade clown outfit. Days of hunting down the brightest colours of fabric she could find. Hours of learning to sew, and the pricked finger tips to show for it. Now a rumpled and torn mess, covered in plant guts. And she had a voice in her head! Was she was a samurai now?
+
+No no no no no. Cassy was a clown. Cassy was going to bring them back into popularity. It had been her life’s goal since she found the archival footage buried in the meshl! The world was in chaos, there was an apocalypse on! People needed laughter, parties, and balloon animals! And whip cream pies thrown at them, and dunk tanks, and joy buzzers, and, and, and… Her mind spiralled trying to make sense of it all, visions of circus tents whirling in her eyes.
+
+“I’m an entertainer!” She cried out in the stairwell. “I’m supposed to bring light and joy! I’m not a crazy Samurai, I’m not a killing machine…” She trailed off, a hiccup of a sob was followed by tears forming in the corners of her eyes.
+
+“Why not both?” her new brain dweller responded. “You should probably get moving if you want to do either one though… pie boy is coming!”
+
+Sure enough, there it was. Just rounding the corner of the stairs. All but the last drips of whipped cream gone from its strange planty head.
+
+“Weapon! Weapon! I need a weapon!” She mumbled out as she tried to push herself further from the creature.
+
+“What sort of weapon, I have a number of…”
+
+“Anything” Cassy hollered out “Anything I can smack that thing with” She continued, as she managed to pull herself back to her feet. One sock and one scuffed red shoe slipping in the mess around her.
+
+A solid weight materialised with a burst of confetti into Cassys hand. Gripping the shaft with two hands she swung it hard at the creature as it leapt at her. It smacked solidly into the vile things cranium, sending it careening off over the railing.
+
+Cassy looked tentatively down at what she held in her hands, it appeared to be a large hammer, like the ones from the carnival strength challenge game, wooden, and brightly coloured, with a ring of stars at each end. “Did, did um, I hear a cartoonish Bo-oi-oing sound on impact?” She asked the voice in her head.
+
+“You did! I thought it was very on brand. Cost an extra point. Totally worth it if I do say so myself. Why? You don’t like it?”
+
+Cassandra stared down and the hammer gripped tightly in her hands. Her breath came faster. Images of the past half hour roiling in her head. Arriving early, her excitement as she set up her booth for the penny carnival, the anticipation of the smiles and laughter, she was going to bring such joy! Then, the alarms went off, there were plant monsters. A whip cream pie launched in panicked surprise sliding down a fibrous face…
+
+“Like it?” She gasped out, holding the hammer out at arms length, gripped tightly in two hands.
+
+“I love it!”
+
+Cassy the Clown's face split into an almost rictus grin, but not too rictus, that might scare the audience, her frightened demeanour seemed to melt away. Putting the hammer to her shoulder she stared over the railing at the broken but still squirming antitheses. “What else you got in your bag of tricks Barty? Anything to fix up this suit of mine? I seem to be missing a shoe”
+
+“I’m glad you have finished panicking Vanguard. Allow me to take you through some options”
+
+“Me? Panic? Never.” She scoffed with a guffaw, while striding confidently down the stairs. “I was just lulling them into a false sense of security” Setting her stance wide, she hefted her hammer and brought it crashing down hard, finishing off the struggling plant. It released another loud boi-oi-oing as it bounced back from the ground, spinning her for a tight circle before she regained her footing.
+
+“I like it Barty. More and more and more. Now, what do you have in longer range options? I’m thinking maybe combat confetti cannons?”
+
+Cassy the Clown grinned a manic grin as her new best friend began to excitedly list options.
+
+*****
+
+Several hours later a trio of armoured SUVs pulled up out front of the community centre. PMC members doing cleanup sweeps of the neighbourhood after the incursion.
+
+They pushed open the doors and rapidly formed up in a well disciplined formation to secure the front atrium, expecting the worst, as they usually would find. The sight that greeted their eyes however, had them pausing in shock and confusion.
+
+The foyer was a mess, not with bullet holes, or scorch marks, or craters, or the other many signs of an incursion. It was covered in candy coloured chaos, what looked like whipped cream was smeared across the floor, up the walls, and dripping in glops from the ceiling. Whip cream that apparently could dissolve plant tissue. If that’s what the slowly shrinking and sizzling mounds inferred. Smelled a bit like cotton candy.
+
+Confetti with razor sharp edges lay scattered about. Mixed with the cream, and embedded in every available surface. The air sparkled with multi-hued glitter. It caught in the back of the commander's throat.
+
+“Masks on,” He called out, and the squad in unison donned heavy duty full face gas masks.
+
+Moving amongst it all, were two foot tall balloon animals. Cleaning supplies clutched clumsily in soft rubbery limbs. Slowly, and rather awkwardly, doing their best to get the mess strewn on the floor, walls, and ceiling, pushed into a comically large black garbage bag that was making happy chewing sounds, bouncing cheerily all the while.
+
+“Um captain?” One of the grunts began. “What the actual, sir?”
+
+Another commented quietly, staring at an object being dragged by a balloon giraffe. “Are those googly eyes on a No. 5s head?”
+
+The captain held up a hand motioning for silence and pulling out his radio. “Command, do we have reports of any Samurai in the area?”
+
+His radio began to squawk back at him, but whatever was being said was drowned out by the sounds of honking horns, dinging bells, and clanging symbols. Coming down the hallway was a girl on a bike.
+
+She was dressed in oversized clothes of every colour imaginable. Polka dots, stripes, and random shapeless splotches warring for dominance from head to toe. Bright curly red and blue hair shot up in a pair of massive floofy pony tails that bounced behind her. Driving the pedals were a pair of the biggest, brightest, shiniest, apple red clown shoes to ever shine brightly. Her face was plastered in a massive, almost frightening, grin, her sparkling white teeth ringed by bright red paint, her face covered in thick white cake makeup. Her hazel eyes sparkled gleefully in the centre of blue diamonds.
+
+The bike was right out of a children's book. One perhaps written with far too many rhymes, like foxes in boxes. Its paint job, loud and chaotic, an assault on the eyes. It had a swooping curvy metal frame, random doodads and whatsits hanging off of it at every possible place and angle. It was adorned with an array of bright squeezy horns honking, and shiny metal bells dinging. Standing proudly off the front were a trio of cymbals, clanging away to an unknown rhythm. Trailing behind on a curvy hitch was what could only be described as a child's drawing of a pie throwing machine made real. A rabbit shaped balloon animal sitting in a gunner's seat at its centre.
+
+“Heya boys! What’s shaking? Can I give you a hand?” The strange young woman hollered boisterously. Before striding over and vigorously shaking the dumbstruck captain's hand. She turned around, putting hands to hips and proudly watched her inflatable minions at work.
+
+The captain stared mutely at her back. Still holding the fake white gloved hand she left behind.
+
+“Samurai…” He said softly as his shoulders slumped. “I wonder if any of them are sane.”

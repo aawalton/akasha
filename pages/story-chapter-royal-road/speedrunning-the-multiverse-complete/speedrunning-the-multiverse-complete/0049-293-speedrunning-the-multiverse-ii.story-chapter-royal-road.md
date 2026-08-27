@@ -1,0 +1,119 @@
+---
+id: f265fa2d-32fa-5d54-a2e3-81ddb38cc14d
+page-type-slug: story-chapter-royal-road
+title: "293. Speedrunning the Multiverse (II)"
+slug: 0049-293-speedrunning-the-multiverse-ii
+partOf: speedrunning-the-multiverse-complete
+position: 49
+ownLength: 1800
+unit: words
+ownProgress: 1800
+publishedAt: 2023-08-26
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1322400/293-speedrunning-the-multiverse-ii"
+royalRoadId: "1322400"
+markedReadAt: "2026-06-29T22:43:21.671Z"
+---
+
+The Rainsong Canopies was a realm smothered in giant trees with leaves the size of lily pads. It rained constantly there, and the raindrops drummed out lively melodies against those great leaves day and night. It was humid year-round. Most folk here had at least one set of gills. Even the land-dwellers were amphibians, sporting mottled breathable skin.
+
+Here, they trained some of the most ferocious weather sorcerers known to the Multiverse. On the day of Dorian’s coming the rain poured especially hard, beating on the leaves like war drums. The instant he set foot in the realm, their Godking swamped him in a wave the size of a mountain.
+
+That jaunt took him almost half a day to finish. It wasn’t hard, necessarily, but the thing about vast quantities of water was that they could easily shove you around—even if they couldn’t hurt you. Whenever he vanished them, well, they’d just summon new waves! He took one step forward, two steps back—except literally, and it was more like one li forward, ten li back, gargling and choking.
+
+He was tempted multiple times to simply roast them all and be done with it.
+
+He resisted. Most of the time these folk weren’t particularly keen on serving any master; they simply did as told. Which meant a fair few of them might be persuaded to switch sides with the right encouragement. In the end, all it took was his smashing the Infinity Heart and forcing their Godking into a soul contract. And now they could be as annoying to Jez as they’d been to him!
+
+Another dozen realms passed by. The more Infinity Hearts he crushed, the less likely it seemed that he’d face staunch resistance. Once he got to Pithia he found no resistance at all. It was a horde of Gods, mostly, and a scattering of Empyreans. It seemed Jez had evacuated whatever Godkings and strong Empyreans had been on this realm—along with his Infinity Heart.
+
+Fate was so ecstatic to hear the news he spat out his tea. Dorian was treated to fifteen seconds of the seventh most powerful being in the Multiverse frantically scrubbing. He held the scrying glass at an unflattering angle as he did; by the time he beamed and set it back on its stand Dorian had gotten far more intimately acquainted with the insides of Fate’s nostrils than he ever wished to be.
+
+“Excellent news, Dorian—excellent! I cannot commend you enough! Some of our new recruits, the way they speak of you—you’d think they were speaking of a different person.” A mischievous glint in Fate’s eye. “Why, you’d think they were speaking of a certain young, hotheaded Empyrean…”
+
+“Don’t get your hopes up, old man.” Dorian rolled his eyes. “That idiot is long dead.”
+
+“Mmhm.” Fate nodded knowingly. “Your call comes with auspicious timing, by the way! It was but hours ago I started receiving calls from a handful of our resistance forces. It appears Jez has dispatched chimeras to retrieve your Godking bodies. He fears their falling into your hands.”
+
+Dorian cursed. “Figures. It was a matter of time. How many has he gotten?”
+
+“He’s just retrieved the God of War Tyrinth from Caoshan… which means there is but one left.” Fate paused. “Curiously… it is the Godking of Time Dorian. On the Great Yuan Realm.”
+
+At that, Dorian paused too. That was a name he hadn’t thought of for the longest time —or rather, a name he’d tried hard to not think of for the longest time. Thinking about it now felt like picking at a scab in his brain. At last he let out a sigh. “Well, I’d better get going, then! With luck I can beat him to it.”
+
+“Be sure to take the utmost care, Dorian. You are now our greatest asset—and besides, I consider you my friend. If anything were to arise…”
+
+“Oh, I know my limits.” Dorian smiled without humor. “Besides. What can he do to me now?”
+
+***
+
+Great Yuan Realm
+
+Middle Realms
+
+With a tug of a Fate String, he was transported into the past.
+
+There is something intangible about the place you grew up that makes its impression on you forever. In some ways it looked like any other realm; the sky was blue, the hills were green and rolling, and as he padded along he was struck by an intense spell of nostalgia. He knew this place. What was it—the crisp, slightly smoky tang to the air, the squat shapes of the hills, like the humps of camels? He wasn’t sure. It had been so long. Time had dulled or erased so much of this life. It was familiar, and yet he recognized nothing.
+
+He moved for a while in a daze, tugged along by some invisible string. He knew he would find his true body at the end of it. None of this felt real—he felt outside of himself somehow. Like he had stepped into someone else’s dream.
+
+He found himself before a village. Something made him stop—a feeling? An instinct? It was not the village of his birth. That must’ve been lost ages ago; nobody but he and Houyi had made it out of there. The rest were lost to time.
+
+There was a statue here.
+
+It was of him.
+
+Not the present him. Rather, a young man with close-cropped hair and this great big smile. He seemed in the middle of a laugh. It wasn’t the sort of smile his mouth was used to making now—this one was genuine. Standing there, he felt as though he were staring at an imposter. Or maybe he was the imposter.
+
+His smile now was brittle.
+
+Certain powers could not be claimed by whole people. To gain the Heavenly Dao of Destruction, like Gerard had, you had to know Destruction intimately. And for Dorian to gain the Heavenly Dao of Time, he had to know time in its totality. The way it sanded away memory, eroded the bonds between folk, erased entire lives… his smile turned bitter.
+
+Little of this life was his now. His strongest memories were of childhood, and only because his brother never let him forget them.
+
+But he did recall what made him a Godking. He was bent on being a hero then. And so he chased Godking so he could better protect the ones he loved, to be a hero worthy of the realm. For the longest time he had been the #1 ranked Empyrean in the Multiverse, but one aspect of Time eluded him. He had to go into secluded cultivation to grasp it totally.
+
+So he sealed himself in a cave, opened his mind, and let the vastness of Time in. He vanished like a single drop of water amid great currents.
+
+In that cave he lived his own life. He lived the life of his father before him, and his father before him, and his ancestor before him, on and on, tracing the river of time to its source.
+
+This was how he had gone through Coldheart’s trial unphased. It meant to prod him in places that couldn’t feel pain anymore. Not anymore; not after his time there, after the last truth washed over him, and he understood.
+
+The Dorian that entered was not the Dorian that left.
+
+It taught him something simple. Time makes light of all. It dulls; it erases; it erodes; but it also mocks. It makes sincerity, love, attachment, seem utterly silly, vapid, pointless. It makes life an endless grasping, never catching. Everything is disposable in the vast continuum of time; even people; especially people. Everything recurs. Being told such a thing was very different from feeling it, letting it soak your soul, for tens upon tens of millennia.
+
+He gained something simple. A sense of perspective.
+
+Life always ends in death. All love ends in heartbreak, one way or another. And Dorian let himself be hurt over, and over, and over in this way, across lives, across generations, endlessly, until that eternal grayness seeped into his mind, and changed his color. And he understood.
+
+It ought not to have taken so long. Some folk grasp it in the span of one life, but he was something of an optimist, and young, and stubborn in his foolishness.
+
+Dorian shook his head, dragged himself back to the present. There was a woman in this statue. A face he remembered, but a name he’d long forgotten. The same face he’d seen Lucy wear not long ago. He’d had a wife, and a child, and time had washed nearly all memory of them away. They had little to say to each other after he exited the cave—they might’ve been strangers. He found it very hard to care about them, or anyone, after that. Why bother?
+
+He was glad they’d captured this Dorian in stone. He’d been something of a legend here, and when he suddenly vanished folk thought he’d died. But this wasn’t true. That Dorian was still within him—he’d simply been awakened to his naïveté.
+
+At times he wished he could be that man again, but he could no more do that than bring yourself to believe a lie—truly believe it—after being slapped in the face with the truth.
+
+Though…
+
+“It’s strange,” he said aloud, hands on his hips, frowning. “These days, I’m less and less convinced. And I kind of have Jez to thank for that, weirdly enough…”
+
+Something about losing all of your bodies and being brought to the brink of true death really grounded things for him. It was easy to feel life was pointless if you had an endless supply of resurrections, if your life stretched on eternally. But with just the one, and the fate of the Multiverse at stake…
+
+Suddenly the small things matter, a lot. They’re all you have.
+
+Anything can seem big and small depending on how you looked at it. Step closer to this statue, and it seemed bigger; step off to the side, view that broad smile at a slant angle, and it might have a sinister tone instead. It was the same object. So it was with things; so it was with time; so it was with life.
+
+It was a matter of perspective. And that was yours to choose.
+
+It was obvious, now he thought about it, but he he’d always been a bit of a stubborn bastard. He supposed he had to feel it to really get it.
+
+“Hmm.”
+
+Dorian studied that smile again.
+
+“Nah.”
+
+It wouldn’t work on him—it’d look totally stupid. It was a young man’s smile. Innocence is delightful in the young, but pathetic in the old.
+
+Still, though… he smiled softly. “He might’ve been an idiot, but maybe he wasn’t all wrong. I suppose his heart was in the right place. Now—where’s this body of mine?”

@@ -1,0 +1,209 @@
+---
+id: bc19d801-a86f-5937-8f09-90d52d8c8a8e
+page-type-slug: story-chapter-royal-road
+title: "Stray Cat Strut - Fanfiction List!"
+slug: 0002-stray-cat-strut-fanfiction-list
+partOf: stray-cat-strut-stubbing-never-lol
+position: 2
+ownLength: 2841
+unit: words
+publishedAt: 2024-01-26
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1495112/stray-cat-strut-fanfiction-list"
+royalRoadId: "1495112"
+---
+
+Hello!
+
+So, to my great amusement and pride, Stray Cat Strut has accumulated a fair amount of fanfiction over its lifetime, and I'm pretty dang proud of it all! So I decided to make a post listing them off right here!
+
+They'll be split along two broad categories. Direct fanction, and indirect.
+
+Direct are stories that take place within the SCS canon. They're in the same world as the main story line, work along the same general rules, and share some common history with Stray Cat Strut. It is entirely possible for these fanfiction to have bump-ins with canon characters and events.
+
+Indirect stories take broad elements of Stray Cat Strut and use them to create a new world. Sometimes it's just the system and early lore, other times it's a collection of storytelling elements from Stray Cat Strut.
+
+If you're a fanfiction writer, and you want your story included on this list, then please comment below! Oh! And include a link! I'll add your story as soon as I can!
+
+Direct Fanfiction
+
+Tinea and Leah (by Eleeyah)
+
+Aden... Aden had an ugly childhood. It taught him how to fight and survive, taught him how to run and hide and cut ties. Taught him that he wasn't born right. It didn't teach him much else. So Aden ran.
+
+Aden grew up. Discovered the world, and crossed an ocean. Made his life his own. Soul-deep pain notwithstanding, he fought to be happy. Aden made due.
+
+Until the aliens invaded his neighborhood.
+
+What to do when you have a rifle in hand, and are damn good with it?What to do when the rifle isn't enough, when the only way to save a girl and her mother from death, is to die himself?
+
+Aden makes his choice, and is rewarded beyond his wildest dreams. Or perhaps...exactly to his wildest dreams.
+
+Ladies and Gentlemen! Follow Aden as he alters his DNA with the power of Vanguard science to become what, and who, he wishes to be. Accompany Tinea as she greets the world and promptly explores new places, voluntarily or not. Watch as she meets new people; one in particular, one in terrible need of cuddles.
+
+Teddy Bears on Brigade (by TheWackyWombat)
+
+Evelyn "Teddy" Claire is a street kid just trying to make ends meet. That's hard to do when you live in the undercity, a near slum found underneath the foundations of the megacity of Calgary.
+
+Usually, her only concerns are finding a good meal, and avoiding taking a bullet in a gang fight, but that all changes when an Antithesis incursion manages to find its way below.
+
+Empowered by a benevolent alien race, she becomes a Samurai, one of the protectors of humanity. Now, she must work to exterminate the Antithesis stuck below ground. Before the Antithesis exterminate her and everyone else.
+
+Displaced Samurai (by Rabiator)
+
+The Antithesis, plant-based monsters that will devour everyone in their way, have been plaguing the galaxy since thousands of years. Twenty-five years ago they reached Earth. The Protectors are an interstellar alliance that opposes the Antithesis.
+
+When the Antithesis attack her graduation party, Caitlin MacCallan is chosen by the Protectors to fight them. She will find more than just Antithesis to fight...
+
+This is a crossover fanfic of Stray Cat Strut and Aest Belequa's Halcyon Nightmares
+
+The Last Legion (by Theswerd)
+
+A former soldier looking for a quiet life becomes a "Samurai," a Vanguard of Humanity to defend against the Antithesis invasions.
+
+Unwillingly thrust back into combat he must work with the new voice in his head, an AI who guides and enables him, to hold the line against the dark. And when the barbarian Antithesis hordes are at the gates, who better to call on than the ancient Vanguards of Civilization?
+
+A Danse to the Death (by BurnedGirlRising)
+
+Things were fucked, and they didn't need alien plant creatures invading to get that way.
+
+Ava Kaminski has known that all her life. Things were particularly bad in the megabuilding she had been born and raised in, where everything was falling apart, the corpos sucked you dry just for the pleasure of experiencing it, and her gang was losing ground fast.
+
+Really, the aliens didn't make things much worse.
+
+Now, armed with the power of a Vanguard to aide and protect those around her, maybe Ava can make things change for the better for once.
+
+How To Nurture Your Sprout (by Dumenoct)
+
+This is a Fanfic of Stray Cat Strut. It follows the exploits of an introverted man with no confidence and even less fighting ability who nonetheless still finds himself transformed into a Samurai, the Elite fighter in the battle against the ravenous plant aliens known as the Antithesis.
+
+Death and Taxes (by Ruat Caelum)
+
+Set in the Stray Cat Strut universe. This follows Fredric Francis Fletcher Esq., Tax Attorney in the Helios Arcology in the Glen River Arcology south of old Phoenix.
+
+Libitina by NiameScrawls
+
+Libitina knows she is nothing more than a dusty old professor teaching a long dead topic to a class of bored, spoiled rich kids. Her home life is a mess, with nothing but her duties as a wife and mother pushing her back home through the smog filled skies of Nova Halifax. Life is as dismal as Libi expected it to be; until her classroom explodes, and Libi is elevated to a Samurai, one of humanity's mighty defenders against an ongoing alien invasion. But not everything is quite so easily solved with guns and explosions, and Libi finds her new power is as much a burden as it is a blessing...
+
+Winner of the 2024 Stray Cat Strut Fanfiction Contest.
+
+A Joytoy’s Journey to become a Hive-Queen (And on Scribblehub) by PhyonesArc
+
+Winner of the 2024 Stray Cat Strut Fanfiction contest in the Ongoing category!
+
+In the not-so-glamorous outskirts of New Savannah, Seraphine Bloodfallen - part-time joytoy and full-time cynic - finds herself drafted into madness. When a particularly bad day at work ends in an alien invasion, Seraphine becomes a Samurai; Someone empowered by a benevolent alien race with the strength to oppose the alien invaders.
+
+Follow Seraphine as she navigates her new life with more power and problems than she ever wanted. As it turns out, battling alien invaders with a ragtag band of misfit Samurai might just be the craziest job she’s ever had - and possibly the most fun. Who knew the apocalypse could be such a blast?
+
+The Macroon Arcology by BronzeMonarchy
+
+"Welcome to the Macroon Arcology! Ambrose Ryykier's vision to save humanity or at least a city of them. The dangers he strove to defend against? The failing planet, the societal collapse of the early 2020s, and finally the constant Antithesis incursions that caused millions to die to their alien hunger.
+
+So welcome to city that is a massive structure, no need for the real sun or stars. Only electricity is lighting our homes and we love it for it."  -Brochure to the Macroon Arcology 2043
+
+Now that you've been welcomed, let me tell you about the real deal. A massive superstructure that is literally separating the rich from the poor by level and section in the massive sphere-like building. While I don't claim to know everything, this is my story where I find out the truth of the Macroon Arcology and what it means to be human in this new world. And no, I am not a trained psychologist and I am not getting paid for this.
+
+Havoc and the Cafeteria Queen by KennyCelican
+
+This is in fact two stories set on opposite sides of a river in the SCS 'verse.
+
+On one side, a nameless old man sitting vigil for his dying wife gets caught in an Antithesis Incursion and takes the opportunity to put decades of studying the Anarchist's Cookbook to good use.
+
+On the other side, a young woman out for a jog on a sunny day winds up defeating a Model Four in the least likely way possible.
+
+[The Havoc, Get a Grip, and Spatulas chapters were entries in the 2024 SCS FF Contest][The Havoc chapter was a winner in the 2024 SCS FF Contest!]
+
+Maniac's Mayhem: A Guide to being a corporate slave by Lividiea
+
+Caught as a little kid hacking into a corpo server, Evelin Vance was forced into indentured service.
+
+Disposable and "employed" by New Hope LLC to penetrate the security of other corporations, usually by dangerous and less than legal means, one day, she is sent on a mission that is a lot more dangerous than expected.
+
+With her head just above water, Evelin struggles beneath the weight put upon her, at least until the world decides her job is done. After getting attacked, mauled, bludgeoned, and bruised, she awakens as a samurai.
+
+Witch of the West by BroMandoFett
+
+Morigana Luxanna, a well-educated woman, who has a degree in physics, Antithesis studies, and Vanguard technologies works daily on integrating technology sold to the corp she works for, by Samurai and modern Human Technologies.
+
+When the Antithesis decide to drop in on a school she’s subbing in for. She has to make a choice, save the children, and fight the aliens, or save herself and run to the bunkers.
+
+To make things more interesting, while she has no issues developing weapons for soldiers to use, she has a strong aversion to ever using a gun or weapon. So, she has to come up with different ideas how to fight off the invading hordes of plant monsters.
+
+Foxfire by LucyKitsune
+
+Luna had her life figured out. HAD. She was going to get a PhD in Astronomy and then after some work in science and academia to get a nice postdoc retire to teach astronomy or experimental physics at her university. And then of course aliens had to show up and fuck up everything by being hostile and requiring her to get a PhD in space warfare rather than something interesting like neutron stars, black holes or other celestial phenomena or even just something useful like orbital mechanics or spectroscopy. - A Stay Cat Strut Fanfic
+
+Tarnished Honor by TheWackyWombat
+
+What would you consider a bad day? Having your father threaten the family shrine in order to get you to cooperate? Maybe having aliens invade? Well Reina experienced both. On the same day.
+
+So when the sky is ripped open, and aliens rain down upon the city, Reina is given the chance to become vanguard, defender of humanity. Now she has to struggle not only with her new found power, but the responsibility of protecting an entire city, before it all burns down around her.
+
+Rise of the Phoenix  by BlackShad
+
+Leo "Phoenix" Adair is an avid gamer and a member of the Esports team, The Myths. During their first finals match of the popular game Samurai Rush the stadium is stuck in the middle of an Antithesis Incursion. Join Leo is his mad dash to survive his new reality.
+
+Fata Morgana: Reflections
+
+by Aliapanacea
+
+The second child of the Montero Dynasty, a family with full control of the New Houston Flotilla, has finally returned home from a (utterly disastrous) business trip to New New York, returning to a life they hate and a family that despises them.
+
+A newbie maid working for the Monteros is doing their best to live their life, one song, one step at a time. Trusted with a monumental task by their superior, they begin their descent into the deepest depths of New Houston.
+
+For one fraction of a moment, one heading up, one heading down, their paths cross and are forevermore linked together. They’ll grow closer, one dead Antithesis at a time.
+
+Calamity Jane by JeffStoryFan
+
+Jane is a run-of-the-mill corporate secret agent. She looks nice, but is able to blend in and be unnoticed. While outside Sheridan, she robbed her target while he slept. Waking to an incursion, they run to the shelter. He beats her to the shelter, and as soon as he is in, he closes it and locks her and a number of others out. What should she do?
+
+In her fight to escape the antithesis, she explosively succeeds. As a Samurai, she can’t blend in, especially after she modifies her body into her favorite game character. But her experience of working in the background remains, and so she begins on a plan to save the city without them knowing it. No matter what the antithesis try.
+
+Deep Cleaning the Deep Sea by Shadowm4ge
+
+Macy Adams is...unusual. Not in the normal neurospicy way. No, she likes something that is seen as very odd for 2056: The ocean. With most of the life in the ocean being dead and the rest being hiding Antithesis hives, it is firstly not a safe place and even more so? It has nothing of value for most people.
+
+Macy is bent on changing that, even if she doesn't have the power to. So, when she initializes as a Samurai during one of her dives, she sets out to clean up the seas and maybe, just maybe, bring back everything that was taken from it. Of course, there's a lot of Antithesis in the ocean, so she's got a long way to go.
+
+Carpe Momentum
+
+by Hughman
+
+Plant-based aliens have been spreading over the galaxy, and now it’s Earth’s turn. But we aren’t alone: others have resisted and continue to resist the Antithesis. They banded together to form the Protectors. To help Earth survive, the Protectors have selected a few people, called Samurai, to both defend Earth, and to teach the world how to defend itself.
+
+The child of a military family, Marcus is a skilled marksman, and at least has a clue how to fight. Not much of one, and he’s going to make mistakes, but this is what he has been training for since adolescence. If only he were as prepared for how the sudden shift of fame would affect the rest of his life.
+
+Carpe Momentum is set in Portland, Oregon. Follow Marcus as he tackles alien invasions and the instant fandom of being a Samurai, while still juggling his needs and looking for how to save the planet.
+
+Mad Panda by Dan Parker
+
+Louis Larose is a gang enforcer for the Bear-Yakuza. A gang he created but doesn't lead because nop! He hates the name but it made the slums a better place!
+
+In the lowest 14 floors of a mega-building, life isn't great. It isn't great either in New-Montreal in general but worse there. The megabuilding was on a lower hexplate, so he technically lived in the underground!
+
+He still made a nice little home through blood, sweat, tears and more blood. He has three kids and a husband he loves. The kids also have 'aunt' Lila to help. Things are... alright... ish.
+
+Then, a weirdly unnoticed hive under the building becomes active and samurais aren't showing up. He's alone with his enforcers to protect nearly 8000 people.
+
+Good thing he's a samurai now!
+
+Indirect Fanfiction
+
+Magical Girl Gunslingerby (Mikasane)
+
+“Would you like to make a contract?”
+
+When eldritch horrors known as the Anathema began tearing through reality to invade Earth, aliens calling themselves the Zenith stepped in to protect humanity. Individuals were chosen and gifted with the ability to use magic and advanced technologies to combat the existential threat. Over twenty-one years later, the so-called “Magical Guardians” are still hard at work keeping the peace. With their flashy outfits, superhuman abilities, and reality-defying spells, they are the part-time heroes and full-time idols of modern society.
+
+But none of that really matters to Mai, whose biggest problems are dealing with her family, classmates, and the ever growing dread of her imminent future. As far as Mai is concerned, mundane problems are more than enough to worry about, and the idea of magic and monsters might as well be nothing more than daydreams. At least, they were until she finds herself in the middle of an Anathema invasion…
+
+Halcyon Nightmares (by Aest Belequa)
+
+Alice grew up idolizing Magical Girls. Now, she’s one of them!
+
+When murderous machines attack Alice's graduation, she's asked to don the skirt and blazer. Now, she’ll need to learn how to use her powers and work with a team of other Girls to protect her city from disaster - all while trying to get herself un-grounded!
+
+What’s a cultivator doing here?  by JeffStoryFan
+
+Tian Wu is just a simple outer court disciple. He just is having a slight issue in cultivation. His divine sense distracts him with all the stress of current inter-sect conflict. So he takes a journey into the outside world to a remote temple, in search of peace and quiet.
+
+All is going well, until the conflict causing the stress comes to him. He is but a fly to the two Nascent elders fighting above. A stray shot causes the hidden power of the temple he is in to trigger, and the next thing he knows he is no longer in a world he knows. The new world is fighting plants of all things.

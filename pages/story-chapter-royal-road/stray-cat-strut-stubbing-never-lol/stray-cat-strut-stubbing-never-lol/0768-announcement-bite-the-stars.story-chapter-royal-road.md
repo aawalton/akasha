@@ -1,0 +1,27 @@
+---
+id: 166ddf99-03b0-530a-9fda-ac674284eb14
+page-type-slug: story-chapter-royal-road
+title: "Announcement! Bite the Stars"
+slug: 0768-announcement-bite-the-stars
+partOf: stray-cat-strut-stubbing-never-lol
+position: 768
+ownLength: 147
+unit: words
+publishedAt: 2026-07-07
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/3644606/announcement-bite-the-stars"
+royalRoadId: "3644606"
+---
+
+Hi!
+
+Your regular Thursday Chapter is coming in just a moment! But before that, I wanted to shout a super-special Stray Cat Strut fanfic, Bite the Stars!
+
+Bite the Stars is a crossover between SCS and Warhammer 40K. No knowledge of the former is required! Basically, Myalis' niece gets a bit lost in transit and some silly humans ram their ship into her. She decides that the humanity of the 41st Millenia need help, whether they want it or not, and picks out a few candidates to promote to Vanguard.
+
+(Cover is still a WIP!)
+
+Basically, if you want more SCS, and you don't mind silly stuff happening in the Grim Darkness of the Far Future, then come check it out? Daily updates!
+
+I'm on vacation, so I'm just writing whatever I feel like, and I felt like nerding out and writing this!
+
+Oh, right, link: https://www.royalroad.com/fiction/178807/bite-the-stars-stray-cat-strut-x-warhammer-40k

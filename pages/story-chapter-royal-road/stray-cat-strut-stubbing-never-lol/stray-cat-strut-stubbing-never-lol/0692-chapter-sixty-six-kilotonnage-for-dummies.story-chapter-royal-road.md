@@ -1,0 +1,143 @@
+---
+id: b48297c3-4820-5469-864a-3b031cd6a02c
+page-type-slug: story-chapter-royal-road
+title: "Chapter Sixty-Six - Kilotonnage for Dummies"
+slug: 0692-chapter-sixty-six-kilotonnage-for-dummies
+partOf: stray-cat-strut-stubbing-never-lol
+position: 692
+ownLength: 1579
+unit: words
+publishedAt: 2025-08-30
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2560033/chapter-sixty-six-kilotonnage-for-dummies"
+royalRoadId: "2560033"
+---
+
+Chapter Sixty-Six - Kilotonnage for Dummies
+
+“You need to remember; our leaders are only mortal. They will pass away, and with them goes their legacy.
+
+Which is why Vleaders, virtual leadership, is so important. The PR and the shape of the leadership you create can be attached to a single, undying and immortal figure!”
+
+Leaders press conference, 2051
+
+***
+
+I fired one last shot of the 155 into the ground, just to be sure. The resulting explosion shook the entire area, trees trembled, and the earth around and behind the hive’s hole kicked up, rising a foot or two before crashing back down.
+
+I figured the impact was much worse in the tight confines of the hive itself, because nothing came rushing out for the next ten long seconds. “I think that just about clears the entrance,” I muttered.
+
+“Well done!” Princess said. “Ah, but I didn’t get the notification that the hive was destroyed.”
+
+“Yeah,” I said. “The hive’s still down there somewhere. Probably knocked it around a little, but not nearly enough.”
+
+“So what do we do?” Princess asked. “I don’t think your mech will fit in there?”
+
+The hole that led into the hive was large, but not that big. It was maybe two metres wide, and half that tall in the middle. I’d need to bend over to enter, basically. And that was before we shot it up, now the hole was looking a little worn out. “I think we’re going to have to head out and toss in a bomb,” I said.
+
+“Oh... that seems dangerous.”
+
+“I mean, yeah, a little. The mech can go on auto-pilot though, it’ll provide cover fire if shit comes out of there.” I unbuckled myself, then reached over for my gun. I checked the chamber to see if there was a round, then linked to it through my augs and made sure it had a full magazine. “Want to come with?”
+
+“Sure!” Princess said.
+
+“You, uh, armed?”
+
+She nodded, then reached a hand under all of the... flouncy skirt material she had and pulled out a pistol. It was small, white, with a casing covered in engraved frills. A machine pistol? “This is the princess pistol,” she said, very seriously. “It’s strong.”
+
+“Alright,” I said. If she said so. I set the MEOW to auto-target anything that came out of the cave that didn’t bleed red, then climbed out of my seat and to the door. It was awkwardly tight, which meant brushing up against Princess’ skirts which were ridiculously poofy. I imagined that they were probably bulletproof. Like, the material didn’t need to be special, there was just so much that it would be like saying paper wasn’t bulletproof, but one of those old timey phonebooks was anyway.
+
+I pushed open the MEOW’s side door, then leapt out, bringing my Laser Pointer up to my shoulder as I did. The air out of the mech was way warmer and muggier, and my helmet allowed some of the smells in the air in. It was gunpowder and that particular mulched-grass stink that came from blowing up Antithesis.
+
+Princess came up behind me with a little ‘hup’ as she jumped out of the mech and landed with a splat on the mud covering everything.
+
+“Alright,” I said. “I’ll buy us a nuke once we’re in the hole. Keep your eyes peeled, alright?”
+
+“Can do!” she said, all cheerful.
+
+God, she made me feel... I don’t know. Nervous? There was way too much cheer, too much ‘happy’ in her. Sure, I knew some kids that were optimists, and it wasn’t like I wasn’t happy too sometimes, but it was constant.
+
+I could barely remember seeing her without a smile on, and that felt so freakishly alien. What kind of person was happy all the time? What kind of person didn’t have ten million problems waiting to blow up in their face? It wasn’t normal.
+
+Happiness was that thing that happened when there was a break between the shitspray and when something awful happened to someone else in a way that was funny. Happiness was carving place out to be with Lucy, and seeing that shit wasn’t as bad as it could be.
+
+Princess’ constant smile, her upbeat everything? I think it’s what made her feel so weird to me. I mean, part of that.
+
+Her treating me like she was my number one fan was also super fucking weird, but I could kind of see past that. I’d had a few brats go through hero-worship phases at the orphanage. It didn’t usually last long.
+
+“Let’s see if anyone’s home,” I said as I started towards the hive. Princess moved to the side, pistol in hand, eyes on the hole.
+
+I scanned around us, just in case, then remembered to look up as well, but it was relatively quiet. Princess moved up ahead a little, then squeaked and raised her gun up.
+
+A model ten came out of the hole... or most of one, at least. It looked like it had taken a dive into a washing machine along with a pound of broken glass and a handful of sharp rocks. Little thing was fucked right up. Still, it started to wobble its way towards Princess with obvious ill intent.
+
+I raised my gun to shoot it, but Princess was faster, squeezing the trigger of her gun and firing once... at the sky.
+
+Only the bullet whistled up, a clear, chime-like note that changed in pitch as the bullet went up, then spun in a wide loop and came crashing down, into and then through the model ten’s body to slap into the ground with a puff.
+
+“Nice,” I said as I lowered my gun.
+
+“Thanks,” Princess said. “Ah... but the bullets cost one point each, so that was a net neutral.”
+
+I laughed, which set her off to giggling. “Alright, well, that happens. I’m pretty sure I’ve wasted some grenades like that before too. No big deal. Speaking of which, though. Myalis, resonator?”
+
+A grenade plopped into my hand, and I triggered it with my thumb before flinging it into the hole. That ought to make anything coming out a little less lively. We came a little closer, and I lowered myself to stare into the hole.
+
+“Any idea how deep the hive is?” I asked.
+
+“Nope,” Princess said.
+
+Not at the moment. Though historical data would suggest that it is between ten metres and two kilometers from this entrance.
+
+“Uh... let’s assume that it’s not too deep in,” I decided. “Myalis, can I have a bomb? Like a big old traditional bomb?”
+
+Certainly! Kilotonnage?
+
+“Uh... I dunno, a hundred?”
+
+Catherine... if you don’t know what something means, you should ask.
+
+I frowned, then glanced at Princess. I didn’t want to look like a dumbass. “Fine. What’s the... kilotonnage of a nuke?”
+
+The Little boy atomic bomb had a kilotonnage of approximately 15.
+
+“Ah,” I said. I looked around, then squinted. The city was well within sight, I could see the towers in the distance. Now, I wasn’t one for measuring things well, but something told me my home was probably a bit too close to the blast radius on that one. “So like... half a kiloton?”
+
+Somewhat more reasonable. Would you like that in raw TNT or as something a little more expensive?
+
+“Like, bricks of TNT? Is that the cheapest option?”
+
+... Sure. Let’s call it two hundred points worth of TNT.
+
+“Cool,” I said. I could afford that much, no problem.
+
+Then the ground shook again as Myalis’ order arrived. As it turned out, a brick of TNT looked like a brick, and half a kiloton was about... a lot of brick. Like enough of them to build a small house, all dumped onto the ground in a stack that was taller than I was.
+
+“Huh,” I said as I stared.
+
+“That’s a lot of explosives,” Princess said.
+
+“Yeah. Hey, they don’t need to be primed or anything, right? Just being close to the explosion will set them off?”
+
+Yes.
+
+“Cool,” I said. I picked a brick off the pile, then flung it as deep as I could into the hole. “Help me out here?” I asked Princess.
+
+We sure as shit weren’t going to move the whole pile. But I wanted some of the boom to come from within the hive instead of just above it. Though... yeah, there was more explosives by weight here than mech, so I was pretty sure we were dealing in ‘close enough’ as a general measurement.
+
+“Okay! Let’s get the fuck out of here before a spark turns us into atoms,” I said.
+
+Catherine, you’re already... oh, nevermind.
+
+I tossed one last brick into the hole, then paused as I saw something moving within.
+
+“Shit,” I said. Couldn’t very well shoot at stuff now that I was surrounded by multiple tones of explosives, could I? That’d be irresponsible, and maybe lethal. “Back to the mech, Princess!” I shouted.
+
+Princess jumped, then ran after me as I made for the MEOW, the side hatch opening up as I was on the way over.
+
+Soon enough I was buckling myself back in and taking the controls again. Sure, the mech was tough, but that didn’t mean I wanted to do a live test.
+
+I spun us around, then took off. “Myalis, lemme know when we’re out of the blast radius,” I said.
+
+In that case, I’d suggest running for a while.
+
+***

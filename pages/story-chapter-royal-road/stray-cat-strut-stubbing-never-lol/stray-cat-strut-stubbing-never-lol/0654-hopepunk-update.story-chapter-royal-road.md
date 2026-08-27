@@ -1,0 +1,15 @@
+---
+id: 5462fb55-e4f7-52d0-bf73-b7022ccb0100
+page-type-slug: story-chapter-royal-road
+title: "Hope//Punk Update!"
+slug: 0654-hopepunk-update
+partOf: stray-cat-strut-stubbing-never-lol
+position: 654
+ownLength: 152
+unit: words
+publishedAt: 2025-05-09
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2267621/hopepunk-update"
+royalRoadId: "2267621"
+---
+
+Hi!Just wanted to do a biiiig update on the Hope//Punk TTRPG!We're on Version 0.49, which means... about 49 days spent working on the project. It's about 80,000 words, 267 pages.I'm pretty chuffed that it's going so well. We're about to have our 9th playtest on Saturday, testing the new Street Samurai class and maybe Hacking as well (and maybe the Model Nine, but don't tell the players that!)I'm hoping to do a Kickstarter, probably in... idk, August? Yeah, that seems like a reasonable time to do that. Anyway, uh... here's some sections that I think look neat?Support creative writers by reading their stories on Royal Road, not stolen versions.I'm mostly sharing this because I'm excited about it... that's all. You can try the PDF version out here, btw: SCSTTRPG - HopePunk V0.49.pdfThere's frequent updates on my Patreon, for free, as well, if you want to keep up to date with the project!

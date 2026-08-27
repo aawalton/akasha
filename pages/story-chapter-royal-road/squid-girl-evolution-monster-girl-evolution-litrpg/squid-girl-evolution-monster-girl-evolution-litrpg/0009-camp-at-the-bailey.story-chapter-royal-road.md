@@ -1,0 +1,149 @@
+---
+id: e1688702-bfe7-5485-8c8d-c3180e42971e
+page-type-slug: story-chapter-royal-road
+title: "Camp at the Bailey"
+slug: 0009-camp-at-the-bailey
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 9
+ownLength: 1492
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2633124/camp-at-the-bailey"
+royalRoadId: "2633124"
+---
+
+The place I'd stumbled upon was barely a camp. A blue bonfire flickered, illuminating two crooked trees that desperately held up a makeshift hammock, and a fence of spears barely held the outside at bay.
+
+The man straightened up and ushered me inside, though the way his red eyes stared a bead on me; I couldn't help but recoil.
+
+"Now now now, that simply won't do. The wind's sharp this evening, and there are monsters about. The blue flame wards them, so let's gather round it before we're noticed."
+
+He extended an arm to gesture at the campfire. I noticed the lantern had been shattered, and its contents leaked out to make his bonfire.
+
+"Oh, that? I thought if I built a bigger fire, its glow would reach further. What do you think, clever, right?" He grinned. "Come, come, let's sit down. This bad leg of mine, I really can't stand for long." He finally broke his glare -- I wonder if he'd even noticed it himself. He traipsed over and sat down on a log next to the fire, his gangly legs bent into a funny W shape. I sucked in a breath and took a bold step into the encampment.
+
+All of a sudden, the howl of the wind, the rumble of the ceaseless battle, the chill of the night, the dark, it all... faded, like white noise.
+
+"Oh wow, this must be a safe zone? it just calmed down all of a sudden."
+
+"Calmed down, did it?" The man exhaled.
+
+"Yeah. The noise. Surely you haven't been holed up in here so long as to forget the war?"
+
+He chuckles. "You don't get used to it. Haven't you noticed though? This silence, its deafening."
+
+"Now how can silence be deafening?"
+
+"Think about it, what was the first thing you heard when you got here?"
+
+"That'd probably be... You."
+
+"No, it was nothing. I came after, but the silence, it oppresses you. That sound of nothing? I just can't get it out of my head, the way it... distracts from the noise."
+
+"I reckon right about now, your heads ringing with your rambling voice same as mine is though."
+
+His stern expression melted into a weary smile, and he chuckled again,
+
+"Oh, aye I guess you’re right. Well, enough o' that then, why don't ye take a load off and pull up a stump?"
+
+I approached cautiously, and took the stump that he proffered, letting the warmth wash over me.
+
+"So, whaddaya think of Alferatz, outsider?"
+
+"It's... seen better days, hasn't it?"
+
+"That's a polite way to put it, aye. Really makes ye wonder what went down, doesn't it?"
+
+"I was more concerned with them ghouls crawling all over the place. Don't suppose you know much about them?"
+
+"Aahh, well it might be implied that they were normal once, don't ye think? Certainly, don't look it though. Uncanny, beast like things as they are. Normal what, you might ask? Gotta be dogs, no man would howl at the moon as they do. Not unless he were a lunatic. Ha!"
+
+"The moon? You think that has something to do with it?"
+
+This tale has been unlawfully obtained from Royal Road. If you discover it on Amazon, kindly report it."Hm? Nah, I'm just pulling ya' leg. Although, who's to say really?"
+
+"The moons way outside the scope of this stage" I sigh, "So just what is sealed here then?"
+
+"Oohh, now that's the meat of the proverbial pie now, isn't it? Tell me what you think, and I'll tell you my thoughts, how's that sound?"
+
+"Well, I assume that tower over there's something to do with it."
+
+"And you'd be right."
+
+"And Hyper-gaol makes it sound pretty elaborate."
+
+"I suppose."
+
+"Is the city the jail? Or... the city what is sealed?"
+
+"And that's why the people are ghouls, you're supposing?"
+
+"So, if we break the seal, the city is saved."
+
+"Unless it’s a metaphysical gaol. Maybe the real gaol is the siege."
+
+"I don't think so. I can't say for sure, but I think Mirach is outside the scope of this stage too."
+
+"Fairly reckoned. Will the people really want their seal breaking if they're up against faceless destruction? Might be in their best interest to let em’ live an' die like beasts, don't ya think?"
+
+"Better to have the choice, if it works out that way. But the Mirachi forces are probably targeting the thing that caused Alpheratz to become this way."
+
+"And what do you think that is?"
+
+"The tower of babel of course. Tower's gotta fall. Why else would you include a tower stage?"
+
+"Ha, you’re a right hoot, ya’ know that? If you want to get into the tower, you gotta rip down its barrier, though. I thought about popping in to get some peace and quiet, but well, you haven't seen the knights, have you? And there's commander? He's scary. I reckon it’s best just to give up if that's your plan."
+
+My fists balled at that. Nothing good will happen if I die here. I can see why he'd hole himself up someplace safe, knowing that. If he was the same as me. But there're no other players. I was the first one...
+
+The chill blade of the wind made the fire tremble feebly. I shivered, as it cut right through me.
+
+"That would be the sensible choice."
+
+He nodded sagely.
+
+"But I'm going to bring down the tower."
+
+"That's the choice you decided on? You should seek insight then, if you want to have any hope."
+
+"Insight?"
+
+"Well, dwell on it later. How about we have a see what ye can do. We got guests."
+
+His piercing red glare went right past me, and to the entrance behind me. I hopped up quick, turning back to see the twin marauders, side by side.
+
+"Now I aren't much of a fighter as I'm sure ye' can tell. Think you can sort em’ out for me, Hero?"
+
+I barely registered his smirk, as the flames illuminating his expression breathed their last. Their violent cry became audible as the comfort of the safe zone dissipated. I got back to faltering feet but pulled my tome from my tool bar with a tentacle.
+
+"Y’know, I don't much like your odds. Your eyes looking a bit dull right about now."
+
+"No, I can see why you'd think so, but if I can get one of them, the advantage is mine... That's why!" I let myself trail off, blending my tentacles in with the background.
+
+"Oho, that’s what I wanted to hear." I see him cross one leg over the other, clearly not intending to pull his weight. This wouldn’t have even been an issue if not for his stupid bonfire idea! Nothing for it now though. I turned to face the two enemies.
+
+《 Fell Knight 》
+
+The hud displayed the name clearly, though there was little knightly about them, save their armour. Tall mitre-like helmets, gangly limbs not unlike the ghouls, and their legs appeared to bend backwards.
+
+While they were both fell knights, one was a “swordsman”, and the other was a “spellslinger”, like myself. The skull that sat next to their name in my hud? My instincts told me that that meant one thing. These guys were no normal enemies.
+
+If I could take the spell slinger, I’d be able to consume his data and charge my gnostic, while hopefully gaining a new weapon. Thats where I should focus. Nothing special about targeting a squishy mage before the hardy warrior either.
+
+“Hey, do you think you can distract the red one?” I asked.
+
+The monsters bellowing finally breached the last of the warding light. They carried themselves cautiously towards the camp on clanking armour, snarling like the ghouls. As expected, the warrior took the lead, the mage held back.
+
+“I already said, didn’t I? I’m no fighter. After how you handled that hoard of ghouls, two meagre knights like this I’d think would be like child’s play?”
+
+“What, and leave you out of the spoils? I didn’t make guild leader with that approach. Look, we don’t have all day. I’m going to go over and around the back, so you pull the swordsman until I’m done with his support.”
+
+“Nobody ever taught you to respect your elders, did they?” He sighed, but uncrossed his legs, grabbed his cane, and rose to his feet. I hadn’t noticed until just, but standing tall, he cast an imposing shadow.
+
+The swordsman, gripping his sword, lunged violently, but by the time he did, I was already in squid shape, tracing an arc over the both of them. The transparency coated my whole body like this, to them it must have looked like I’d disappeared. I landed silently behind the mage, reverted back to my human-shape, and opened Eukleides.
+
+The pulse of light hit clean, a powerful magical backstab.
+
+The knight fell, taking a knee, groaning in pain.
+
+The fight was on.

@@ -1,0 +1,203 @@
+---
+id: e36d267a-49fa-5279-a34a-52293ff22100
+page-type-slug: story-chapter-royal-road
+title: "Fleshmob"
+slug: 0008-fleshmob
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 8
+ownLength: 3187
+unit: words
+publishedAt: 2025-09-12
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2595628/fleshmob"
+royalRoadId: "2595628"
+---
+
+Surtr? Could that be the dictionary? Thats all it could be right? I lunge out to grab the discarded tome, but spent of its power, it shatters like glass before my quivering fingertips. Grr… Fine.
+
+The clamour of the fight had gotten the attention of enemies far and wide according to my compass. No rest for a hero, is there? They didn’t seem to be in any kind of a hurry—Maybe getting a move on would be better, but I realllly wanted to make my hud more accessible.
+
+“Can you read my notification?” I ask with resignation, swiping open my menu onto the level up screen.
+
+「 System: Certainly 」
+
+〔 The Power of Pages 〕
+
+「 You made your first foray into the clandestine world of bibliomancy.
+
+To celebrate this milestone, you have been awarded:
+
+Title:     《 Novice Spellslinger 》        Item: (Grimoire)    《 Eukleides [20/20] 》
+
+Congratulations! Level up. 9 → 13
+
+Name: CthircheLevel: 0013Race: TeuthisClass: Great Old One
+
+Hp 172 → 225 (64/113)MP 468 → 611 (234/306)Attack 70 → 91 (46)Defence 37 → 49 (25)Intelligence 421 → 546 (273)Resistance 178 → 231 (116)Dexterity 270 → 350 (175)Speed 351 → 455 (228)
+
+Pearls: 16 (+12)
+
+My HP still read 【 HP: 64 】, despite being bumped from 172 to 225 after levelling. I had hoped that it was the level up that restored my status last time, but it must have been something else. Logging back in? Sleeping? Eating? I couldn’t really narrow it down.
+
+I close the status screen, and put all of my tentacles to work organising my hud. The new Grimoire item appeared in my inventory, so I swiped that onto my skill palette, along with all of my gnostic abilities.
+
+「 System: My analysis indicates a sub-optimal layout. Would you like assistan— 」
+
+“No—This suits me better. So, about those titles, First Dreamwalker, and Novice Spellslinger. What’s the difference?”
+
+「 System: Novice Spellslinger is a weapon master class title, like Swordsman or Halberdier. Equipping it will facilitate growth in the Grimoire skill tree.
+
+First Dreamwalker gives you the Reverie aura, allowing restoration of Sanity and resistance to Madness. While equipped, you will share dreams with Azathoth. 」
+
+“So if I unequip FDW, I won’t be able to return?”
+
+「 System: Not quite — By unequipping the title, you’ll have to enter the dream through the gate. 」
+
+“Novice Spellslinger” it is then. Changing it raises my intelligence,【 INT: 341 】as you’d expect.“I’m a squid right? But this deviously high intelligence and remarkable speed, the only thing I could see me as is a glass cannon mage class.” 「 System: Your race, Teuthis, is a result of the sharp wit and quick mobility of a squid being compounded by your human intellect. 」
+
+Before my eyes swam rows of skill icons. It was an inelegant mess compared to the wheel menu—But this felt much more familiar. Being able to see all of my palettes, their respective cooldowns and rotations, exactly as I need them—That’s proper power. I might only have one Grimoire for the time being, but I pictured rows of them accessible to wiggling tentacles like fingers over a keyboard.
+
+All of the restructuring barely took a minute, but the compass overhead displayed a swarm of red pips, all lured in by my sloppy fight. I took another glance at my status window, and then over at the corpse. I have no choice, do I?
+
+“I don’t suppose you have any recipes for Ghoul?” I cringed, approaching my vanquished foe.
+
+「 System: Absolutely! I would recommend the Mirachian classic, Ghoul à l’Orange. You’ll want to heat the oven to 190°C--」
+
+I don’t know what I expected, But I tuned out as soon as it suggested ‘rending the fat’ and tried to imagine this rancid animal… Thing, as something hopefully more delicious. I squirmed at the thought. It wasn’t working, I realised, probing for some more savoury or less nasty part of it with my tentacles. As I fondled around the body, I squeezed my suckers’ talons out, puncturing it. I wasn’t going to make Ghoul à l’Orange, of course, but I thought—
+
+「 System: Ghoul: Recorded to Logbook. 」
+
+My Gnostic eye opened up, from a suspicious squint to a cattish crescent. It didn’t seem like much, but! I quickly opened my status screen again, and there it was! 【 GNO: 26% 】
+
+Not only that, my stats were finally at base—In other words, being below 25% was my danger zone. Anything above was golden! Compared to what I was fighting with before, they were double! More than double! I’m so strong! What the heck, at this rate I’ll hit quadruple digits by the end of this session! Wait, why didn’t I need to eat it? Not that I’m complaining of course.
+
+I drop the dead ghoul with a thud. With enemies encroaching from all around, I don’t really have time to worry about the how.
+
+“Why are there so many?” I ask,
+
+「 System: Ghoul: While they show no cohesion, they can convey limited information via sporiferous messaging. By killing one Ghoul, you have alerted every ghoul in Alpheratz to your location. 」
+
+“Is that that logbook entry? I wish I knew that BEFORE killing it!” I complain, the first couple of adds sauntering from the alleys. Fine then. I select the Eukleides grimoire from my toolbar, point with my finger, and flip the book open.
+
+Pew!
+
+A ray of magical light traces from my fingertip straight to the ghoul’s head, and in a single shot, the body hits the floor. Thats what 683 int gets you! I line up a second shot and fire, this time popping him in the shoulder, knocking him to the ground. With each shot, a page slips out of the grimoire and disintegrates in the wind, spent of its enchantment. The second ghoul however, crawls towards me clearly still alive.
+
+【 HP: 5 】
+
+“Why didn’t you go down like the first?” I wonder. Variance? No, it was the headshot. Curses, it’s an FPS, not an RPG—We care about accuracy. Not my strong suit. I fire a third blast of the vector magic [17/20], finishing him off and levelling up with a Ping!, but by the time I’ve done so, another four are stumbling over!
+
+Up the stairs then. I scramble for the staircase, taking them two at a time, and, darting down the landing, I step out onto the balcony. Whoa, what’s that?
+
+I notice something curled up on a lounge chair and try to get a read on it.
+
+《 Crawling Chaos (Cat) 》
+
+“What kind of a name is that?!” I quip back to the overhead prompt.
+
+It in turn, stirs from its nap, scrutinizing me through half-lidded lenses. It paws at pyramid ears adorning its wedge-shaped face, then curls back up and goes to sleep.
+
+Its languid breath causes the dazzle patterned coat to undulate rhythmically, in a most unsettling way, like watching a spiral on a white screen, or a checkered flag in the wind.
+
+From my vantage, I can see ghouls coming from every street and aisle, and more than just a few of them. I was sitting happy in the perfect sniper spot—If only I had unlimited ammo.
+
+“Ohhh no, that’s a lot…”, I shielded my eyes to count, 1, 2, 3… 16, 17, 18— More than my remaining shots, so I stop counting there. I can hear them downstairs anyway; they’ve let themselves in through the hole in the wall and are funnelling up the stairs. It’s a good job they can’t just clamber the walls from the looks of it. I glance over to the cat who’s still curled up like a cinnamon bun. He glances back,
+
+“You caused this mess”, is what his red eyes scornfully imply, and perhaps he’s right. Yeah, I know he is, okay? Fine, I’ll just have to fix it then! The breathy rasps grow closer, the hooves scraping through the house, so I crouch down to his height and reach out with my tentacles. sensing my generous offer, he goes from catloafing to catscaping in a single motionless bound! Why do cats always react that way?!
+
+He takes a couple of elegant steps along the banister, and I thought I could even hear his sigh before he hopped down to the ground below right as the first ghouls make it to the balcony. Rather than darting off, he flashes me a sneer of cattish contempt through half-lidded eyes.
+
+“What’s that all about? Is he daring me to chase after him?” I hopped down, grabbing the balcony with my tentacle to gently lower myself to the ground.
+
+「 System: That was a typical display of feline behaviour. It is unlikely that it intended any sort of statement. 」 The system replied unhelpfully. But the sassy strut, the attentive glances, I knew better.
+
+“You’re wrong—He clearly knows something! I’m following that cat!”
+
+「 System: While feline guidance is no system of navigation, current route does appear optimal 」
+
+“Of course it does. He’s clearly more than just a cat.”
+
+My map shows a fog of unexplored routes. No time to stop, no time to search, I scurry down a side street strewn with flags and bunting, following the jingling of his bell into the main street littered with tables adorned with mostly drunken beverages. It’s like chasing a shadow!
+
+I dart into narrow alley greeting the square up ahead. A large clocktower holds the court. While it didn’t stand out as much as the landmark tower I was trying to reach, it had a presence of its own. More Ghouls. I’d managed to avoid them so far, but the square was packed, and just as I filtered out of the alley, it was all eyes on me. I could see the cat, scratching at his ear, a mocking sneer on his face. Once he was sure I’d seen him, he bolted off down another street! The sneaky git!
+
+Well; two can play at being sneaky, eh? I pull out my grimoire, firing off a few more shots [13/20] to thin the crowd and capture their attention. The whole hoard starts meandering my way in response. So, I take a deeeeeep breath, and cup my hands in front of my mouth like a straw, then blow!
+
+…
+
+Nothing? I was so sure that would work, but the only thing that came out was a kettle like wheeze from deep in my throat. Can’t I shoot ink like this? I blow a couple more times, like I’m trying to stoke a fire, puff, puff, puffff!
+
+The ghouls don’t look like they’ll give me long to figure it out. Fine, then!
+
+I swish my tentacle, swiping the ‘embody’ skill on my hotbar, and transform back into my handy squid shape, landing on the flagstone with a familiar -splat!-
+
+This time for sure - Its basically just like using my jet, right? I give it a test squirt, puffing myself into the air on a simple stream and catching the digital current, then I concentrate on the organ deep in my belly. It’s like a diaphragm for a squid right? Yeah, that’s a close enough description! So, squirting ink, it should feel like yelling? Or screaming? No no, that’s it, like singing!
+
+I focus my mind and squeeze out my breath. While the gesture was silent, the note I imagined carried the ink, a cloud of dyed ash obfuscating the whole clock tower square. Even the face of the clock was coated.
+
+With their extrasensory powers, a simple smoke screen might not have been enough to trick them—but that’s where my ink was a stroke of genius. The air carried the pigment like snow on a still night. To the ghouls alerted by their spores to each tiny movement, it was like sensory overload. They bumbled and stumbled, some collapsing to the ground, others bumping into each other. Heh! Serves you right!
+
+To be on the safe side, I blended myself in the same ashy hue—It took immediately thanks to having it all around—then I exhaled a gentle thrust and cut and path through the cloud, sailing right on by the blinded monsters. I slipped around the same corner Crawling Chaos had, where a broken-down caravan blocked a subway tunnel.
+
+Clever cat! There’s no way them bulky little guys could get past.
+
+I threw myself right at the roadblock—squishing my malleable squid body through the cracks was easy as you would imagine. With a little wiggling and a bit of squirming, I popped out the other side, doing a little tumble in the air and triggered embody again, to land back on my feet.
+
+I took a few steps into the dark, though once my eyes adapted, it appeared as clear as day. Crawling Chaos was nowhere to be seen. What had him in such a hurry? The ghouls were trapped out there—
+
+CRASH!!
+
+What the? I looked back, and while I couldn’t see exactly what was happening, a second, louder CRASH!!, jostled the cart in the tunnel. I had a bloody good guess alright, but what, did their spores reach into the tunnel? Mushroom senses are nothing to be underestimated! With little else for it, I take off running down the tunnel.
+
+It was stagnant, damp, wet, and entirely without light—natural or otherwise. I hopped a fissure, stepped around some old ordnance equipment, but despite it being a relatively straight tunnel, I couldn’t see hide nor hair of Crawling Chaos.
+
+I quickly opened my menu, skimming it as I ran the length of the subway. My Gnostics were my best bet, but the cost of using them was steep—at 26%, I’d be plunged back into my danger zone no matter which I used, so I’d NEED to make it count. In my items list, I had the login bonus tickets still, and the flare I’d picked up earlier. It was supposed to be a targeting beacon, right? would that work?
+
+The tunnel began to incline. I took a quick look back. No cat, and I could still hear the dysrhythmic crashing of bodies ramming the cart—They’d have had better luck if they unionized, but out there it was each for his own. I emerged, sucking in a deep breath of fresh air. The street here was barricaded to the sides, and in front of me was the bridge over the moat.
+
+The coiled, cut chains suggested it was once a drawbridge, but now it was both stationary and so well barricaded that it looked like a mini fortress. How was I going to get past this one? It didn’t look like I could slip through, and peering over the edge, a gaping chasm offered hushed suggestions that I perhaps don’t try to swing down and climb under. I’ve gotten pretty good with my tentacle control—But I wasn’t that comfortable with them. And my human arms? Noooo way were they going to carry me around like spiderman. So, over and through then.
+
+CRASH!! CRASH!!
+
+My stomach dropped when a roiling crash more violent than the rest rumbled down the tunnel, followed by a stampede of hooves.
+
+“Flare, please!” I demanded politely, and quick as I said it, it appeared in front of me— “Oh, Thanks!”
+
+「 System: Happy to be of service. 」 “What did it say again? Pull the pin, mix the ingredients, make a light, yeah, that’s it. The rumbling hoard blocking my way, the wall to my back, yet I couldn’t help but smile in spite of it all. I squeezed down on the spoon, and gripped the plunger, yanking it to mix the ingredients. The solution became a vortex, then, the vortex lit up like a star!
+
+I squeezed my eyes shut and lobbed it straight up, as high as I could.
+
+“Gnostic Power: Tachyonic Sight”
+
+I activated my first trick, a visual technique, for no more than a blink, but burning through 6% of my power. In one glance, I saw the past, present and future. The cluster bombs coalesced from three directions; the bombardment wiped the bridge clean. Nothing remained.
+
+【 GNO: 20% 】
+
+My shoulders grew heavy again, a dull ache reaching through my every nerve. It was a short-lived power up, but what’s the point in a resource that you don’t spend?
+
+The ghouls scrambled, a deadly hoard at the end of their successful hunt. And then, a sharp whistle pierced the air like a needle through silk. “Gnostic Power: Sojourn”
+
+I watched from all around as the cluster of explosives scattered like seeds, explosions blooming like flowers. I was deaf to the sound as it unfolded, like watching a live stream of artwork being drawn in real time.
+
+The ghouls vanished in the bombardment, the flash of fire imprinting their moment as an ashen photograph on the memory of the stout bridge. The battle-weathered barricade disintegrated, biding its last moments to a duty it’d upheld for heaven knows how long.
+
+The bridge trembled with each bomb, and groaned with each dazzling explosion, an attack so ferocious that it turned scores of ghouls into a memory, but this was no decorative bridge, and it weathered the strike dutifully.
+
+The last bomb detonated. I could imagine the thunder of its blast and the roar of its flames over the silence, and, as the last light of the bombardment faded, the spectacle over, I stepped back into reality, my edges realigning with the subtle crackle of static.
+
+【 GNO: 7% 】
+
+Had I achieved Chim? I asked, walking through the smoke and smolder. God mode, toggle clipping, state reload—These Gnostic powers felt far more like dev cheats than skills that should be in a player’s hand.
+
+「 System: Chim is not included as one of your achivements. 」 The system voice answered. I sighed.
+
+I assume the war between the Mirachi and Alferatz was just set dressing for the level—Irrelevant to the actual game design. But it was thanks to them that I was able to progress this far. And after decimating that gaggle of ghouls, my level had shot up.
+
+It wasn’t just the ghouls that were gone though. The cat was nowhere to be seen either. He probably got away, right? There’s no way a guy like him was anything but an essential NPC.
+
+At the end of the bridge was a fortified hill—whats known as a bailey. A winding path lead up the hill to the fortification, but at the front of the hill, set up like a toll booth was a small enclosure; some simple fences, a basic campsite with a single lit fire in that same smokey blue as had illuminated the last safe area I’d found.
+
+Sitting on a stump was a weathered-faced, red eyed gentleman. His ruby eyes were a sneer, his lips framed a toothy smile, and with a flourish that addressed the whole empty camp, he extended a bony finger to the rim of his tall tophat, and then bowed flamboyantly from his perch.
+
+“Well met, lassie.”, he intoned with a snarled lilt, and theatrical flare.
+
+And he had no name.

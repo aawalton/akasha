@@ -1,0 +1,155 @@
+---
+id: 5ca4438f-6951-567a-83ff-f2f4866e9237
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2: Baby Steps"
+slug: 0002-chapter-2-baby-steps
+partOf: succulent-girl-evolution
+position: 2
+ownLength: 2120
+unit: words
+publishedAt: 2025-08-17
+link: "https://www.royalroad.com/fiction/129183/succulent-girl-evolution/chapter/2525495/chapter-2-baby-steps"
+royalRoadId: "2525495"
+---
+
+Kevin squinted through the dust, looking for the excavation marker. Protocol was that they were supposed to conduct a walkthrough of the grounds before beginning any land clearing, but management was pressuring the crew to get started immediately. His foreman had compromised by having the main crew start clearing from the edge of the worksite, while assigning his two most reliable workers (hooray) to do the walkthrough and begin clearing the area the surveyor had marked yesterday.
+
+He didn’t get what all the rush was for. This was a huge contract from Duke Grede, so he understood the pressure from the company’s leadership to be as “efficient and productive” as possible… but the Duke already owned the land. Nobody else was going to take it from him. Why the urgency?
+
+He was too low on the totem pole to be privy to the fate of this land, and that was perfectly fine with him. He didn’t concern himself with the end result of his jobs (he had more important things to worry about, like making sure his wife and kids were healthy and happy), but after walking the perimeter of the garden with his partner, slowly working their way in as they noted problematic areas that couldn’t just be bulldozed, even he thought it was a shame to mindlessly rip out all of the plants here. Somehow, the old owner had found a way to perfectly optimize all the vegetation. Kevin didn’t have any interest in horticulture, but working in landscaping meant he picked up some rules of thumbs about companion plants, and even he noticed the way the garden was organized: plants with complementary traits were grouped together, to the point that even specimens with disparate biomes and growth requirements were somehow able to survive in one area.
+
+It really was a shame to rip up all of the work put into what was essentially a robust, independent ecosystem. The only thing differentiating this acreage from a planet was the lack of an apex predator, for which Kevin was thankful.
+
+His protective gear, acquired through years of diligent saving, was a step up from the standard-issue gear his company provided all their workers. He got the tip to wear his best armor from the surveyor yesterday, for which he was grateful. Normal jobs he could get by with just their standard enchantment workman’s helmet, gloves, and workboots, but his buddy insisted it was worth the discomfort to be all geared up. Thanks to the preparation, the flora and fauna in the Remraf estate couldn’t do anything to him.
+
+He quickly said a prayer for the young journeyman, new to their crew, who got sent home the moment he began chopping through the hedge at the front. In a show of ill-advised bravado, he had insisted he was fine with their company gear, and subsequently been set upon by a swarm of candle hornets that had made their well-hidden nest in the very bushes he was taking out. The lad had a massive chip on his shoulder, and was going about earning respect the wrong way. Hopefully he’d learn from this outing.
+
+The glint of the head of a familiar stake winked at him, even through all the particles still flying through the air. He made his way over, keeping a wary eye out for any sudden movements as he pulled out his shovel.
+
+Kevin looked down at the tiny little succulent that sat above the point his buddy had marked yesterday. It was an anomaly compared to the rest of the specimens he had seen on his way in, in that it was much smaller and more delicate-looking than everything else. Despite that, its chubby, bubble-like leaves formed a satisfying symmetry. Old man Remraf must have planted it just before he got evicted.
+
+Since all the plants were going to be removed anyway, he considered bringing this one home. My daughter might like this one… it doesn’t look like it’s mature enough to have rooted that deeply.
+
+He inserted the point of his shovel carefully into the earth beneath the small plant, before putting his boot on the head to urge the blade deeper.
+
+Just as he put his weight on the shovel, the plant he was trying to acquire shot out of the ground and into his face, making him tumble backwards into the nearby vegetation with a muffled yell. He was dimly aware of something scrabbling over his mask—another reminder that he had done well to overdress for his job—before he instinctively flung the thing off of his head.
+
+“Yo, Kev! You okay?”
+
+Kevin scrambled to his feet, catching sight of the tiny green thing scampering through the foliage.
+
+“Yeah, man.” His heart pounded as he looked back at the hole where the creature had occupied just seconds before. “What has this guy been growing? I swear that giant bug looked just like a plant.”
+
+His associate snorted. “Remraf’s gonna be the reason we have an outbreak of killer bugs no one’s ever seen before. But hey, looks like that plant you landed on produces acid. It’s starting to eat through your gear—you should go swap out.”
+
+Kevin groaned, trying futilely to look at the damage on his back. “Man, that’s gonna cost a lot to replace.”
+
+“But look on the bright side.” His teammate winked at him through his own mask. “At least it did its job.”
+
+~ ~ ~ ~ ~
+
+[Please stop screaming.]
+
+I’ll stop screaming when I stop moving! Bubbles shrieked back at her unlikely passenger. Her roots, which were normally dependably rooted in the ground for the past however-many seasons, were now rolling over themselves as they tried to keep her upright, causing her to inadvertently trample the leaves of a shrub-cousin who was currently hiding her. “I’m sorry!”
+
+[Then stop moving.]
+
+How do you expect me to do that?!
+
+[Focus on the ground.]
+
+Bubbles landed with an oomph, feeling one of her leaves snap off as she landed sideways. I guess that’s one way to stop.
+
+[Now find your roots.]
+
+They’re right here! She waved them, shivering as she felt the wind currents flow through her thin roots. She felt vulnerable, and she didn’t like it at all.
+
+Hey, something is stuck to me! She began scraping at her underside, using her newly-freed roots. Now that she was stationary, moving her roots came quite naturally to her.
+
+[Stop it. You are touching me.]
+
+Why are you on me?! She paused, reflecting. In me?
+
+[You penetrated me first.]
+
+Excuse me?!
+
+[You breached my crystal membrane in your panic, and prevented me from escaping on my own. Your discomfort is all of your own doing.]
+
+Bubbles’s mind whirled. So you decided to use me to escape?
+
+[You left me no other alternative.]
+
+Before she could summon the appropriate level of indignation, the rock that was embedded in her poked mentally at her still-flailing roots.
+
+[Time is of the essence. You must move, so that we may flee posthaste.]
+
+A feeling of urgency flooded through Bubbles, providing her with the energy to make a valiant attempt at pushing herself upright. All that happened was that she ended up tipping over the other way, snapping off another leaf.
+
+She sniffled. I don’t think I can do it…
+
+“Are you okay? I thought you were a goner, getting thrown in here like that.” Cousin Shrub creaked as it lifted its lower branches, helping Bubbles right herself.
+
+“I’m fine, thank you!” A twinge stifled Bubbles’s perky response. “Although, I am a bit tender from where I lost my leaves…”
+
+[I believe I have grasped your struggle. Your roots are too numerous, making it difficult for you to coordinate movement.] The disembodied voice interrupted the conversation between Bubbles and Shrub, completely disregarding social norms. [I used up the majority of my energy in order to grant you movement, but I suppose I have some to spare in order to better facilitate escape…]
+
+Bubbles squeaked as she felt her roots wrap around each other, plopping onto the ground in discomfort. Shrub looked on with interest.
+
+After a few uncountable moments, Shrub tentatively poked Bubbles with a twiggy branch. “You okay?”
+
+Are you done with whatever you were doing to me?
+
+When she received no response, Bubbles flexed her roots—and was surprised to see that it was much easier to stand upright now.
+
+The rock that had stuck itself into her had fused her roots into four sturdy bundles, so that she didn’t have to concentrate so hard in order to move. Perhaps this is why Master moves on two roots. It requires less effort.
+
+“Congratulations, little one! Master will be overjoyed to see your growth!” Shrub’s cheerful words reminded Bubbles—again—that there was upheaval happening.
+
+I must flee! As she scuttled in a random direction, belatedly shouting her gratitude to Cousin Shrub for her congratulations and help, she recalled the blurry images from when the rock had first uprooted her from her life. Fern!
+
+Swerving back towards her plot, she scampered through the plants, narrowly avoiding collisions and falling foliage as her brethren began dropping their fruits in unease as the screams got louder, slowly approaching their section of the garden.
+
+When she finally got back, she skidded to a halt, glad that her new roots were strong enough to maintain her balance, but also horrified to see the state of Fern.
+
+Tall, strong, beautiful Fern had gotten stripped of her foliage. Her aromatic well had been mangled, pieces of the pouch strewn around on the ground, morbidly leaking juices into the earth.
+
+Just as she came to terms with what she was seeing, she noticed a man—she couldn’t tell if it was the same one she had accidentally knocked over earlier in her frantic escape—kick away the rest of Fern’s well. He had just returned from a pile of what she recognized as Fern’s fronds, neatly stacked a safe distance away, and he was carrying a hatchet. He began hacking into Fern’s slender trunk.
+
+“FERN!”
+
+With a scream, Bubbles scuttled over to the man, intent on stopping him. With what plan, she didn’t know—she just knew she couldn’t stand by and watch her best friend get killed like this.
+
+“GODS!” The man noticed her approach and skipped several steps back, dropping the murder weapon in shock. He stared at her standing defiantly in front of Fern. He shook his head slowly, never taking his gaze off of her, as he leaned down and picked his weapon back up. “Fuck this, man. I’m not gonna be the moron who tries to take on some freaky-ass bug with no backup.”
+
+He backed away, fading into the dust.
+
+As soon as she was certain he was gone, Bubbles rushed to Fern. Or what was left of her, at least.
+
+“Hey there, Miss Bubbles. I’m glad you got away.” Fern’s voice was faint.
+
+“You’re going to be okay!” Bubbles assured her as she clung to her trunk with her roots. “Do you still have enough energy to recover? I’ll protect you until you do! You saw me chase that human away!”
+
+“I don’t… not enough energy stored for my size…” Fern gave a weak chuckle. “I knew I should have spent more energy growing my second well…”
+
+“Don’t say that! You grow so quickly! They left your seednuts here, I can bring them to you and you can use them to recover,” Bubbles insisted. She climbed around, looking for the second well.
+
+She found it at Fern’s base, a tight green bud snugly ensconced in the space between her trunk and a piece of the old well. It had managed to avoid the man’s notice.
+
+“Look! Perfect condition. Just spend the rest of your energy growing this, and then I’ll feed you your nuts.”
+
+“I can’t…” The softness in Fern’s voice dampened Bubbles’s hope. “The man will come back and finish the job. Haven’t you noticed? It’s a lot quieter now…”
+
+Now that Fern mentioned it, the screams in the distance that had originally filled the air had faded, leaving the plants in their section despondent and resigned to their fate.
+
+[What is this? Why are you still here?] There was no emotion in the voice, but Bubbles felt a thrill of anger run through her leaves and roots as The Voice suddenly spoke again.
+
+“My friend is hurt! I can’t leave her!”
+
+[It is critical you leave immediately.]
+
+“There! That fuckin’ thing is still here, right there!”
+
+Bubbles spun around, spreading her leaves as large as she could, readying her useless little poison buds. She managed to chase the man off the first time, maybe she could do it again.
+
+Unfortunately, the man had come back with reinforcements—a whole squad of humans.

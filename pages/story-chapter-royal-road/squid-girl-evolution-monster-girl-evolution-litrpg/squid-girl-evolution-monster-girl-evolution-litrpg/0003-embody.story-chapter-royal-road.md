@@ -1,0 +1,109 @@
+---
+id: 66865e13-5cc9-54cd-ab6c-1c1b8a73501a
+page-type-slug: story-chapter-royal-road
+title: "Embody"
+slug: 0003-embody
+partOf: squid-girl-evolution-monster-girl-evolution-litrpg
+position: 3
+ownLength: 1608
+unit: words
+publishedAt: 2025-08-28
+link: "https://www.royalroad.com/fiction/130456/squid-girl-evolution-monster-girl-evolution-litrpg/chapter/2554451/embody"
+royalRoadId: "2554451"
+---
+
+New Gnostic Art unlocked: 《 Embody 》
+
+A Gnostic Art? Well I suppose this is what I get for not reading the user manuals, but just what’s a Gnostic Power? I guess it must be related to my class somehow? Actually, how do I even use a skill? Obviously attacking was as simple as thinking about it. These tentacles are hyper reactive to be quite honest. I wonder if I could operate a pile of magic swords, or enchanted staves with them?
+
+Well, its not like we have any of them anyway. So, how do I use abilities? Do I just, like, hyper-focus and it’ll activate itself? Alright…
+
+“Embody….”
+
+“Embody…!”
+
+“Embody! Activate!”
+
+「 System: While Verbal, and Material components can allow for more accessibility, the most basic way to activate a skill is somatic - Or in other words, by directly interfacing with the wheel menu. 」
+
+“Wheel Menu? Hm. I see.” I instinctively reach for a node on my hud, and click it with my tentacle. While the AR style interface is a bit unusual, it feels intuitive. The wheel menu opens, and I trace my tentacle through the air, skipping over a bunch of other skills until the “Embody” command is selected, then I let go, like releasing the right mouse button. The command flashes in the wheel menu indicating its activation while the menu itself simmers back down to a UI button.
+
+The telltale sounds and sparkles of magic activating round out from me like I was a carol bell calling forth a festive celebration. An electronic crescendo accompanied the light show - I assume I lit up like a Christmas tree to anyone who might be watching. What I actually saw was a meter about chest height in my peripheral vision. It filled up with a gradient of green and once it was full it became white, and the text “Gnostic Power: Embody activated” appeared in my console.
+
+At first, I wasn’t sure what even happened. It took a second for me to notice the eyeball gauge was plummeting.
+
+When it hit empty, I felt my stomach sink. My health all 516 points of it - reduced down to a single point. My MP, and Stamina followed suit, each one dropping to a single whole 1. I turned left, then right, my eyes wide as saucers, were there any enemies around? Was I a sitting squid right now?
+
+A cocoon of cascading strands of light coiled around me - a luminescent mesh of light and machine code, ribbons of terminal outputs. The data swallowed me up, clenching tightly around my mantle, binding my tentacles, like it was trying to re encrypt me into some new format. Having my ID defragmented and my memories jostled about was like being a small dingy at Thors mercy! I couldn’t tell my heading, I couldn’t see my surroundings, I couldn’t even figure out if I was still me!
+
+The rocking stopped. I was overcome with a brief nostalgia, a warmth the like which one should only know once in their lifetime. Cradled and safe.
+
+And then, the cocoon come undone.
+
+Not like an eggshell cracking, nor like denim splitting at the seams, but with a liberating wind at my sail, and a light at the end of the tunnel.
+
+And the light gave way.
+
+To darkness.
+
+Splat! I landed in a heap on the cobblestone walkways of an entirely new environment, the sudden, jarring change made me wonder, had I progressed to the next stage? I looked around. I seemed to be amidst an abandoned wharf. No, the pallid moonlight and dim, antiquated street lamps, its late in the night, but not ‘abandoned’. The pier was right in front of me - Damp, rickety planks reaching a gnarled finger into a rugged, capricious seafront - Oh, I do so love the sound of waves at night. At the docks, ships were moored for repairs and maintenance, and along the front was the sleepy and simple main street, quaint and stout but full to bursting with character.
+
+And all of that would tickle my isolationist sensibilities if I could just take it all in. The cold grasp on my heart, the dead weight on my back, the tightening around my throat, my whole body ached like an old skiff on its last voyage, I could practically hear my planks groaning.
+
+「 System: Danger. Health points have fallen precariously low. Unusual status condition detected. Recommended course of action: Seek remedial intervention with due haste. 」
+
+“You don’t think I know that?!”
+
+“Tell me what’s going on!”
+
+“Stupid system, help me!”
+
+Those are what I might have shouted, if I could, but I could barely push a breathy wheeze to carry my frustrations out of my empty lungs. My mind was a blackening silence and my body felt so numb I could barely tell what my shape was.
+
+「 System: Condition: 《 Acadia 》 resulted from exhausting gnostic power. Gnostic Power can be immediately restored by consuming Eldritch Flesh. Would you like to consume 【 Zoog Meatball 】? 」
+
+Eat that nasty looking rat? ‘Like’ is the wrong word, and I’m sure even you know that! Its not even cooked!
+
+「 System: Despite your metamorphosis, your body is still capable of digesting unprocessed meats harmlessly. I would suggest consuming the Zoog Meatball to restore Gnostic Power immediately. 」
+
+“Is this some bizarro prank or cruel hazing!? Shouldn’t a system AI be more professional than that? I don’t need your sassy deadpan or your mean jokes, I just want help!”
+
+「 System: It is testament to your commitment that you’ve regained your ability to focus however I must urge you to restore your Gnostic Power immediately via consumption of Zoog Meatball. How would you like to proceed? 」
+
+“Fine, I’ll eat the stupid meatball, but I can’t move! Its a good job this place is so unnervingly dead or I’d be a right scene, pancaked here like the Wile E Coyote! So, can you just feed it to me or something?”
+
+「 System: I have understood your order and will carry it out now: 」
+
+The unsightly meatball plopped down with a squelch and a crunch. It was well pressed, but poorly shaped, and the chef clearly hadn’t put much thought into the quality of the ingredients. No, because the chef was a level 1 (now level 9) squid who had no intention of eating the underworld delicacy. Was that an eye that she saw? Was it looking back? Blegh.
+
+“Why did you just drop it in front of me? What is this? In Skyrim the food just goes into you and your bars fill up, can’t we do it more like skyrim, I don’t want to do Monster Hunter right now!”
+
+「 System: Request was carried out to the extent of my abilities. I apologise for being unable to carry out your request to the letter - With permission, I have accessed your inventory, however with account permissions enabled, only you can manage your equipment or consumption. 」
+
+“So what now! I can’t move, ya worthless chatterbot! Do I just wait for the wind to blow it over?!”
+
+「 System: As you seem to be cognizant, you should be able to send orders to your ganglia. Have you tried? Your tentacles neural networks should allow you to manage basic operation. 」
+
+Ah. What it means is that I’ve been wasting my thoughts complaining rather than acting. So I’ll stop thinking about pointless things right…
+
+Now.
+
+Putting all of my wanton thoughts to work, I imagined giving orders to my guild, only my guild were squirming individuals directly connected to me. My left tentacle slithered into action, scraping at the cobblestone in a desperate attempt to complete my order. Then, following a second mental command, my right tentacle started pawing at the ground like a cat in a litter tray.
+
+Thats not quite right. The two limbs got different ideas of what I wanted of them - The chain of command not quite working as it should, but when does it ever? With a bit of concentration, I finally got them working in parallel, and the two clever limbs managed to right me to sitting uncomfortably on my heels.
+
+Sure my body was leaden, submissive to the blighted Acadia, but it wasn’t physically weighed down - no more than a dead weight anyway. I felt like I might keel over at any second, But with all eight of my tendrils spread out like a net to keep me stable, I was finally free of my apathetic prostrations.
+
+I could see the meatball, it was right in front of me. Still looking back at me.
+
+My nemesis. Still not done with me yet?
+
+You put a curse on me in your final moments, is that it?
+
+Well fine then. You give me little choice - but to consume you.
+
+Bon Appetite!
+
+I reached out with my tentacle, and snagged it, then quick as a whip, I threw the quivering substance into my mouth and swallowed it whole. Blegh! I wanted to hurl! But sure enough, eating that treat was enough to fill my Gnostic Power just a little. The eye under my stamina bar opened the faintest trace, and the storm clouding my brain was gently lifted. The fog lifted from my eyes, and I sucked in a deep breath, holding it, letting it permeate my body and fill my lungs anew, before finally breathing it back out into the crisp night air. I finally took to my feet.
+
+I was alive. I was safe. I was me. And I had legs now?!

@@ -1,0 +1,159 @@
+---
+id: 64b501b3-f91f-51e0-a7be-b7593be0d9da
+page-type-slug: story-chapter-royal-road
+title: "301. Finale (VII)"
+slug: 0057-301-finale-vii
+partOf: speedrunning-the-multiverse-complete
+position: 57
+ownLength: 1423
+unit: words
+ownProgress: 1423
+publishedAt: 2023-09-01
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1329305/301-finale-vii"
+royalRoadId: "1329305"
+markedReadAt: "2026-06-29T22:43:39.154Z"
+---
+
+Dorian could not stop smiling as he downed his healing elixirs. Houyi, you sly bastard!
+
+For nearly four hours he sat there, letting his bones set back in place, his muscles bind together, skin and scale stitch until they were one unbroken hide.
+
+Then he felt the call.
+
+A sparkling of Dao—a tremor in his Black Hole. A sign. So random. And yet… he felt the the Daos beyond, truths of the Multiverse just beyond the horizon of his knowledge, impatiently waiting. All he needed to do was to reach out and grasp them.
+
+If he sat here and meditated, he knew they were his.
+
+But right now there were far more important things.
+
+When he exited the Chamber he did not see a fight. He saw a demonstration.
+
+It was like watching an ocean’s tides in a high storm, vast and furious, break upon one solitary rock.
+
+Gold dashed upon Houyi’s defenses. His brother was not moving particularly fast. Nor was he using much strength. His body simply flowed exactly as a human body was designed to, one movement slipping seamlessly into the next. Every movement was precisely where it needed to be, precisely at the right time, exerted with just enough force to halt the coming strike.
+
+Right Place. Right Time. Right Force. Houyi’s Three Principles. His brother was a living textbook of the martial way.
+
+But in this contest of brute force and sheer skill, skill could only hold out for so long. Houyi’s expression was calm, nearly contemptuous, yet there was a fine sheen of sweat on his brow. His aura, weak before, was flickering now—nearly out.
+
+[Blessing of Hecate!]
+
+[Blessing of Asclepius!]
+
+Healing and Magic gifted Houyi new strength. He warded off a pillar of gold light. His smirk was vicious.
+
+“Go on then, brother!” he said. “Let’s see if you’ve kept up with your footwork.”
+
+With speed qi at his feet, Berserker rage boiling through his veins, Lifestealer in hand, and wind qi clearing the air, Dorian charged.
+
+This time when he sliced into Jez’s lion-body flank the blade drew blood. Barely any of it—one small thin line, like a nail’s scratch—but it connected.
+
+[Life-stealer!]
+
+Even cut off from the Infinity Jez’s qi reserves were massive. That cut drew a trickle out of a reservoir. But it proved Jez’s mortality, and that alone had Dorian cackling. Baying, twisting on ungainly feet, the chimera slapped him with two giant paws; he went head-over-heels into a wall. He slid down still grinning.
+
+Houyi sent two strikes spiraling into the skies. Dorian leapt in slashing.
+
+And in this way they began chipping down at the giant struggling before them.
+
+***
+
+Jez felt the coming of the end.
+
+He’d felt it before, some ominous feeling as he considered the greatness of the task at hand; but those were mere doubts clinging to him, easily dismissed.
+
+Not anymore.
+
+As he thrashed and struggled and blew out his beams of gold, as Houyi broke them against his bow and Dorian peppered him with slash after slash…
+
+His eyes brimmed with tears. His doubts swam free in his mind now, each of them made giant, suffocating. He was choking.
+
+Maybe it had always been impossible. Maybe changing the very nature of the Multiverse was far too great a task for just one god. Maybe he was on the verge of waking from a childish dream.
+
+He was so tired. There was the tiredness in his bones, but he felt it in his soul, too.
+
+He was tired of fighting, alone. He was tired of caring. He was tired of this horrible world, and all the horrible people brutalizing each other within it. He wanted to go home.
+
+But home was a time when he could run home from a day in the fields and mother would have soup dinner ready. Home was a time he and little sister could lay out on those high grassy hills and point out the shapes of the stars. Home was a place he could never go back to. Maybe a place he’d been trying to go back to all this time.
+
+On the verge of what he’d thought was his ultimate victory, standing over Fate’s fallen body, he’d expected to feel something. An upwelling of joy? Euphoria, even? Instead he had to scrape satisfaction from gloating over his fallen enemies.
+
+And now, he didn’t even have that. Now he had nothing.
+
+He didn’t even feel the sword until it was halfway through him.
+
+He blinked. There was Dorian, his hand in Jez’s chest.
+
+The sword pulled out. It was the color of blood. Jez blinked again, eyelids heavier, sagged to all fours. His heart could not muster the strength to beat again. He sighed at it, at the world.
+
+“I just… wanted everyone to be happy…”
+
+He had been so, so happy, back then…
+
+“I understand.” It was Houyi, a blur in the near distance. At some point he’d drawn his bow. How hadn’t Jez noticed? It was hard to notice much of anything, what with the… with the—
+
+“It is impossible to move the Multiverse without its moving you,” said Houyi. His voice sounded like it was coming through a great distance of water. “You see injustice. You wish to correct it. Your motives, perhaps, were noble. But your actions were not—and for that I must render judgment. Goodbye, Jez.”
+
+Jez let his eyes sag shut. In the darkness behind his eyelids he splashed with his sister in their family’s spring pond. They were laughing.
+
+***
+
+The chimera slumped to the ground and was no more.
+
+“It’s over?”
+
+Dorian poked the corpse with a foot, just in case. If Jez was playing dead he was doing an excellent job of it; even his aura was gone.
+
+“It’s really over,” said Dorian, rather unnecessarily. But he was still a little in shock, so he supposed he could forgive himself some babbling.
+
+“It is,” said Houyi.
+
+They stared at each other, neither knowing what to say, both feeling intimately the distance between then—not only in time but in character. When they’d last spoken they’d both been such different men. What was he to Houyi now?
+
+“That,” said Houyi, “was some atrocious footwork.”
+
+“You fucker,” said Dorian, and hugged him.
+
+At first Houyi didn’t seem to know what to do with his limbs; his eyes were wide, his arms straight out. Then his face softened, he smiled, exasperated, and returned the hug in kind.
+
+“I’m glad you’ve gotten over your little existential crisis,” said Houyi. “For a man of your age it’s frankly embarrassing.”
+
+“Right now I have the power of nine Godkings in me, and you’re a twig,” snorted Dorian. “Are you sure you want to poke me?” “Oh? And what’ll you do, fight me? With that footwork?” Houyi snorted in kind. “I’m surprised you haven’t tripped over and knocked yourself unconscious.” Dorian had to give it to him—in a duel of contemptuous snorting Houyi won out. Dorian should’ve known better than to challenge the master.
+
+They broke apart, smiling at each other.
+
+“I missed you,” said Houyi. “This you.”
+
+“Me too.”
+
+“Do stay this way. You know I was seriously considering shooting you for a while there. Don’t make me change my mind.”
+
+“As if you could manage it if you tried.”
+
+“It seems it’s been too long since I’ve put my last beating on you. You’ve forgotten what it was like.”
+
+“Yeah?” Dorian rolled his eyes. “You, me, Spirit Pavilion duel. Tomorrow at dawn—”
+
+“As much as I would enjoy humbling you, I have a Multiverse to judge. I fear one of us has to be mature.” Houyi poked the air and the Multiverse tore open. The void yawned before him.
+
+“Goodbye, brother.”
+
+“Coward!” said Dorian. Then, grudgingly—“I missed this you, too.”
+
+But he said it to the air. His brother was gone.
+
+***
+
+Dorian found the battlefield surprisingly alive.
+
+Not with Jez’s forces. They’d scattered when they felt their master collapse. They were gone. But some familiar figures remained. A bandaged Godking limped across the battlefield, several wounded slung across his one working wing.
+
+“Gerard?! You’re alive!”
+
+Gerard blinked. “And so are you.” The slightest smile graced his pale lips. “Well done, sire.”
+
+He nodded, a small respectful incline of his head, and went back to his stumbling. There was a healer’s tent some strides off where scores of wounded lay moaning.
+
+On Gerard’s head, Gerard Jr. gave Dorian a salute.
+
+It might’ve been the first time the toad had shown Dorian a modicum of respect.

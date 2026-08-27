@@ -1,0 +1,99 @@
+---
+id: 019967b9-2e4d-5d5f-8c2b-56f8073542a2
+page-type-slug: story-chapter-royal-road
+title: "Chapter ??? - Two Weeks Battle Royale II"
+slug: 0638-chapter-two-weeks-battle-royale-ii
+partOf: stray-cat-strut-stubbing-never-lol
+position: 638
+ownLength: 979
+unit: words
+publishedAt: 2025-04-01
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2166299/chapter-two-weeks-battle-royale-ii"
+royalRoadId: "2166299"
+---
+
+Chapter ??? - Two Weeks Battle Royale II
+
+Cat stood, dusting herself off, eyes flicking around. The wind carried the soft thump of more parachutes landing. Great. She hated this whole thing, but was making at least a passing effort not to let the fact show.
+
+Aliens she could handle. They were, in her limited experience, either snarky, too-powerful beings with no sense of common decency. Or they were annoying shits you could handle by shooting a bunch.
+
+She wondered if the same applied to whomever kept dragging her and the others out to this kind of ‘event.’ Yeah, They definitely deserved a good smacking.
+
+Then Elaine landed nearby, and Cat refocused on the moment.
+
+Or maybe landed wasn’t the right term. Elaine hit the ground like five tons of smug concrete smashing into a fine-china store. The impact made Cat jump, but Elaine just flipped her rainbow-y hair and flicked away a bit of blood that wasn’t hers.
+
+“Oh, don’t look at me like that,” she said when she saw Cat giving her a flat look. “You try sky-looting three teams before breakfast.”
+
+Cat raised her hands in surrender. “Whatever you say, fairy-girl.”
+
+“I’m not,” Elaine started, but she was cut off as Julietta started to move, dissolving into a formless mass of flesh and slithering across the ground before she reformed as a bulging mass of muscle behind some nearby cover.
+
+“Incoming,” she growled.
+
+Cat didn’t ask how she knew. She just turned, guns up, eyes scanning. A mechanical whine echoed above and she said some stuff under her breath that would have her censored in most places in the galaxy. Her handgun went back into its sheath on her thigh and she pulled out an unfolding rifle from the small of her back. It wasn’t much bigger, but bigger was always better when it came to calibers and... also some other things.
+
+A squad dropped in hard. A bunch of guys in chrome-black exosuits, jetpacks still hissing, guns already hot. Their faces were hidden by visored helmets, but Cat imagined they were smiling smugly under there.
+
+Then one landed too close to Julietta.
+
+It was a bad call on his part. Fortunately it was the last call he ever made.
+
+She tackled him mid-landing, cracked his armor open like a peanut, and hurled most of his torso into a tree.
+
+Cat stepped forward, leveled her rifle, and opened fire. One shot took out a knee joint. Another blew the pilot’s helmet off. The others took cover fast, but it wasn’t faster than bullets.
+
+She started to wonder if the other contestants had anything going for them other than a bit of cool tech and a lack of brain cells. She wasn’t exactly the scariest chick around, but her friends here? Elaine was flinging magic around like tinsel, Julietta was doing... bio things all over the place, and Ariane moved so fast that all she left in her wake were slightly-bloodies giblets.
+
+Anyone seeing this and thinking to themselves ‘nah, I’d beat ‘em’ was destined to die an unpleasant death in any case.
+
+Elaine twirled through the chaos, hands weaving magic like a cat’s cradle. One enemy’s rifle melted into a bubbling mess. Another found his jetpack teleporting off his back and into the sky.
+
+Ariane didn’t teleport. She just appeared behind one, gripped his head like an apple, and twisted. Crunch. Splat. Gone.
+
+The last mech turned tail.
+
+“Coward,” Cat muttered with a shake of her head. She was almost tempted to let him go, but... “Myalis, bazooka?”
+
+Would you like concussive, incendiary, or—
+
+“Surprise me,” Cat said. That might be a dangerous request, but usually Myalis at least provided something that got the job done.
+
+A soft ripple bent the air next to her, space folding like bad origami, then a launch tube slapped into her waiting hands, matte black, ominous as hell, with a little pink bow sticker on the side.
+
+“Adorable,” Cat muttered as she flipped it open and aimed.
+
+The fleeing mech was already jetting toward the tree line, making a real effort of it.
+
+It didn’t matter.
+
+She fired, and the fast little rocket outpaced lumbering mech in less time than it took to blink.
+
+The rocket screamed through the air, then burst mid-flight into a blossom of microcluster charges, each one seeking heat signatures like it had a personal vendetta. The air filled with a thousand booms, each competing with each other for loudness. The mech disappeared. Do did a chunk of the forest.
+
+“Well. That was excessive,” Cat said.
+
+Ariane landed beside her, face and arms soaked in gore. “Effective, though.”
+
+“Can’t argue with results.”
+
+Julietta stalked forward, halfway back to her human form, dragging half of a still-twitching exosuit by one foot. She glanced down at it like it offended her.
+
+Elaine touched down last, glittering faintly like a human-shaped rave flyer. “That’s seven down. Probably another three dozen teams left. Give or take.”
+
+Cat exhaled, checked her ammo, and started mentally marking off directions. Tree cover to the north. Rocky outcroppings to the east. Ruined something poking over the treeline... maybe the hotel Elaine mentioned earlier. She wouldn’t mind a nice stay at a five-star, but she suspected that this wasn’t it.
+
+They needed to move. The storm clouds on the horizon were curling inward, roiling with an unnatural energy. Game-master bullshittery. Time was ticking.
+
+As the group started to move, Cat lagged half a step behind. Just enough distance to be in her own head.
+
+She looked around at the shattered ground, the smoking craters, the chopped meat in metal suits they’d just turned into background scenery.
+
+This wasn’t a battlefield. It was a sandbox for whatever alien sociopaths were running this show.
+
+Cat tilted her head up, squinting at the blue-glass sky.
+
+“…Wonder if this place could survive a nuke,” she muttered.
+
+Myalis didn’t answer.

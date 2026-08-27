@@ -1,0 +1,19 @@
+---
+id: 932a88ef-54dd-5aa7-84ca-cf742894c704
+page-type-slug: story-chapter-royal-road
+title: "Stray Cat Strut - Volume Three is Out!"
+slug: 0363-stray-cat-strut-volume-three-is-out
+partOf: stray-cat-strut-stubbing-never-lol
+position: 363
+ownLength: 320
+unit: words
+publishedAt: 2023-02-21
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/1119439/stray-cat-strut-volume-three-is-out"
+royalRoadId: "1119439"
+---
+
+Hey! SCS' third volume is out today!
+
+If you've made it this far into the story, then you've probably read volume three already! Still, I felt I should point out its release! It's out in paperback, ebook, and on audible as an audiobook!
+
+A wave of kidnappings leads cybernetic samurai Cat LeBlanc deep into the labyrinthine tunnels beneath the city in this action-packed cyberpunk adventure.In the megacity of New Montreal, those with wealth and power live in towers high above the teeming masses struggling to get by day after day. When the poor and destitute vanish, the police can’t be bothered to spend time and resources investigating. But Franny, a nun who isn’t afraid to practice what her religion preaches, sets out to find the missing by confronting street gangs with nothing but a baseball bat . . . and a lot of pent-up frustration.Support the author by searching for the original publication of this novel.Afraid for Franny’s safety, pyrotechnic nun-samurai Gomorrah recruits Catherine “Cat” LeBlanc to protect her zealous friend and get to the bottom of the mysterious mass disappearances. And get to the bottom is exactly what Cat must do when she discovers the gang known as the Sewer Dragons has been abducting people into their underworld.Within the cavernous channels that spread below the entirety of the city, the Dragons have created their own society of towns and nations. Their bodies have been augmented to withstand the poisonous toxins of waste so they can work cleaning out sewers and ensuring New Montreal has fresh water. In return, the city authorities leave the Dragons alone.But Cat isn’t willing to sacrifice people, simply because they lack money, just to keep the plumbing on. And when she, Gomorrah, and Franny descend into the Dragons’ lair, they’ll uncover the horrific truth behind the kidnappings—and be led into battle with not only sewer-dwelling cyborgs but also the dirtiest of politicians . . .

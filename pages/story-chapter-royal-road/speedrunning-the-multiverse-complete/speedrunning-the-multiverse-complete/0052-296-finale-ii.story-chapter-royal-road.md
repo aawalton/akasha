@@ -1,0 +1,191 @@
+---
+id: 0719a493-a130-5eb0-8130-cc9d14aa21f9
+page-type-slug: story-chapter-royal-road
+title: "296. Finale (II) "
+slug: 0052-296-finale-ii
+partOf: speedrunning-the-multiverse-complete
+position: 52
+ownLength: 1640
+unit: words
+ownProgress: 1640
+publishedAt: 2023-08-29
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1325515/296-finale-ii"
+royalRoadId: "1325515"
+markedReadAt: "2026-06-29T22:43:28.136Z"
+---
+
+Before the Battle…
+
+“Hey, you’re still alive!” beamed Sun as Dorian pattered up beside her. “Good job!”
+
+“Why, thank you.”
+
+“Would you like a carrot?”
+
+“I’m not hungry.”
+
+“Oh, good,” said Sun, relieved. She popped it into her mouth, let her eyes flutter shut, and started happily chewing. In that moment she seemed to exist in a state of perfect happiness—the kind of feeling most creatures spent their lives searching for and never fully got.
+
+“How do you do that?” he sighed.
+
+“Eh?”
+
+“How are you so… happy?” He gestured vaguely at her. “It’s a carrot!” “It’s not just any carrot. It’s a very tasty carrot,” Sun corrected him.
+
+“It’s still a carrot.”
+
+She blinked. “But…I like it.”
+
+“What’ll you do once you finish it?”
+
+That seemed to stump her for a breath. “Eat another one, I guess?”
+
+“Forever?” he said incredulously.
+
+“I mean… once I finish a breath, I start another one, don’t I?”
+
+“Don’t you want anything more?”
+
+“What else could I want in life?” she said it without a hint of guile. She seemed genuinely curious.
+
+“Supreme power, perhaps? Ownership of a realm? Fame? Fortune?”
+
+“Hmm. I don’t know. It seems like a hassle, don’t you think?” She burped. “Oof. ‘Scuse me.”
+
+“I think,” said Dorian slowly. “There’s something wrong with your brain.” He rapped her on the skull.
+
+“Ow!”
+
+“Hmm. No echo.”
+
+She squinted at him. “Well what makes you happy then, mister?”
+
+That stumped him for several breaths.
+
+“I don’t know,” he said at last. “I suppose I’ve been searching for that very thing for a long time. I’ve been running after it, you might say.”
+
+“Huh,” said Sun. “I think the Multiverse would be a better place if everyone was happy with their carrots.”
+
+“It’s not that simple, runt,” sighed Dorian.
+
+“Isn’t it? I guess it just depends how you look at it, doesn’t it?”
+
+“Hmm.”
+
+Dorian chewed on that thought for a little while while Sun chewed on her carrot. Then he smiled.
+
+“You know, I think I would like that carrot after all—”
+
+“Hey! You said you didn’t want it, mister! No takebacks!” She growled at him, shielding the carrot with her body. “Hands off!”
+
+“…”
+
+She hunched over and started nibbling on it like a woodchipper. The thing was gone in seconds.
+
+“…”
+
+“So… what do you think Fate’s got us waiting out here for?” asked Dorian.“I don’t know,” said Sun cheerfully. “I try not to think when I can help it.”
+
+“…”
+
+She started on another carrot.
+
+A few breaths later, a few harried-looking drakes scrambled out of Fate’s command tent. They snapped up salutes and scampered off.
+
+“Looks like our turn!”
+
+***
+
+The insides of Fate’s command tent looked like it’d been ransacked by a burglar on a sugar high. Sheets of paper were plastered to the walls, carpeted the floors. Crates were flipped over and turned inside-out. Instruments of glass and steel lolled about on the ground, humming and flashing uselessly. At the center of it all was Fate, lying on the ground moaning, staring listlessly at the ceiling.
+
+He leapt up with a squeak as Dorian and Sun came in. “Ah! Excellent—I’ve been expecting the two of you! Please, come in! Take a seat—err—”
+
+The state of the tent seemed to dawn on him then. He let out another squeak, set to frantically clearing a spot, sighed, gave up, rummaged about until he found a tea set, and poured them all a cup.
+
+“I know sometimes I’m given to exaggeration, or panic, or… [x],” Fate began. “I know I can be a little emotional at times! This isn’t one of those times. Please hear me when I say this—you two may be the Multiverse’s only hope.”
+
+Sun’s chewing halted abruptly.
+
+“Um. Are you sure? If that’s really the case we might be in big trouble.”
+
+“Speak for yourself, runt,” said Dorian. “What do you have for us?”
+
+“I’ve mapped out the strings of Fate. I’ve read through all our best intelligence. And I’ve gathered as much knowledge as I could of Jez’s present capabilities—from eyewitnesses of Salieris’ destruction, among others…” Fate spread his hands. “Even with all of our forces in an ambush, it’s impossible. There is no winning in a heads-on duel. His power is… incalculable. We cannot fathom it.”
+
+With each sentence Dorian waited for the ‘but…’. He was getting a little concerned it wouldn’t come, so it was a relief when Fate took a deep breath, visibly steeled himself, and said, “but…we can hold him. I’m not certain for how long. If we Godkings combine our powers and play purely defensively, we may last out several hours.”
+
+Dorian waited patiently for another but…
+
+But there was none. That was it.
+
+“So…what do we do?” said Sun. “Can we make a break for it? Hide, maybe?”
+
+“Jez shall only get stronger from here, and we’ll never get a chance to strike at him like this again. No. It must be here, and it must be now. And… it must be the two of you.”
+
+Dorian blinked. “Fate, need I remind you he almost roasted me the last time we met? Trust me, I have as high an opinion of myself as anyone. But I can’t single-handedly beat a Multiverse’s worth of power.”
+
+“You won’t. You shall have us. Remember when I said we could hold him for hours?” Fate breathed. “I can promise to draw him here and keep him occupied. But you, Dorian, must sneak in and strike at the Prime Heart. And this is where you enter the frame, Sun. How potent is your cloaking now?”
+
+“Forty-sixth form? I think?” Sun frowned. “Wait. Let me check…”
+
+She vanished from sight. Her aura went null. “Yup!” said an empty pocket of air, which promptly morphed back into a blinking monkey-girl.
+
+“Forty-sixth…” Lines sank into Fate’s temple. The poor old man looked so stressed and tired he must be holding himself up by force of sheer will. “Will that be enough to bypass the wards? They’re among the most sophisticated in the Multiverse, crafted by Rithius himself! Perhaps if it were the sixty-eight, or sixty-ninth… could you enter Dorian’s Time Chamber to cultivate? But there’s no time, no time! Agh—”
+
+“Don’t pull your hair out,” said Dorian. “I can give her a Blessing of Hecate. It’ll boost her cloaking far beyond anything they can detect—at least for a few minutes. It should be enough to get in.”
+
+“Thank Heavens!” gasped Fate.
+
+“Will anyone else be joining us on this secret mission?”
+
+“I felt it best if we kept this team as discreet as possible. With your strength now, an extra Godking might be mere baggage… and we need all the power we can spare to hold Jez back.”
+
+“Just me and you then, eh?” Dorian grinned. “Like old times.”
+
+“Mm!” said Sun, though her grin was considerably less solid. Not a ‘let’s-go-save-the-Multiverse!’ sort of grin, more of a ‘holy-shit-what-the-Hells-is-in-that-Swamp-can-we-please-please-please-not-go-there’ grin. But at least she merely seemed apprehensive this time. He could tell because her tail was trembling, curling up behind her back—not ramrod straight with all the hairs sticking up.
+
+“Um,” she said. “What is in this Labyrinth, again?”
+
+“No-one knows,” said Fate, which, by the way her tail curled, was the opposite of what she wished to hear. “We expect at least a Chimera guard. Perhaps multiple. You can expect to encounter other henchmen as well. Beyond that…I’m sorry. I wish I knew more.”
+
+“I see,” said Sun. “Give me a moment.”
+
+She closed her eyes, stood perfectly still for a few breaths, whipped a giant stick of bread out of nowhere, took three vicious bites of it, and leapt to her feet. “Let’s do this! Huzzah!”
+
+Dorian figured he might as well humor her; she seemed like she needed it. “Huzzah,” he said. They bumped fists.
+
+***
+
+She came to him now on dragon-back, slightly pale, and by her tail and her shivering she was slightly scared too. But she also seemed determined.
+
+“What got you over it?” He asked idly.
+
+She smiled. “You’ll be there, of course! You wouldn’t let anything happen to me. And I couldn’t let you go alone. You’re my friend.”
+
+Friends, huh?
+
+To his surprise, he felt all warm in his chest at that.
+
+He cast his Blessing, clutched her in his hands, she cast a cloaking spell over the both of them, and off they went, keeping low to the sands—just above where that vicious melee’s Techniques lit the air.
+
+[Carp Leaping the Dragon’s Gate!]
+
+One step took him a third of the way there.
+
+If this kept up, Jez’s ground troops would crumble. There simply weren’t enough of them, and they couldn’t draw enough qi. Someone had to step in.
+
+A familiar chimera drifted out over the top of the Labyrinth.
+
+The Prime.
+
+It raised its mouth, loosing a soundless roar, and the Heavens began to cry. Great fat tears of furious gold speeding toward the sands, each stuffed with enough qi to vaporize an Empyrean, simmering and crackling.
+
+Fate responded in kind. Dorian couldn’t hear what he said, but the dozens of Godkings around him threw up their hands, wings, hooves. Gerard was among them, his lips pressed tight, eyes narrowed in focus. And great shields burst forth, stacking one atop another into this shining translucent roof upon which those raindrops splattered, burning holes, making cracks. A few broke through—but that was all.
+
+But that had only been a probing shot. The Prime drifted closer, and the skies went gold again. He could ill afford to watch. It was a matter of blind faith now. Faith that Fate would keep his word.
+
+In the meantime, he sought out those cavelike entryways where Jez’s soldiers poured out. Each was guarded by fierce arrays.
+
+But none caught their little party as they passed through.
+
+They were in.

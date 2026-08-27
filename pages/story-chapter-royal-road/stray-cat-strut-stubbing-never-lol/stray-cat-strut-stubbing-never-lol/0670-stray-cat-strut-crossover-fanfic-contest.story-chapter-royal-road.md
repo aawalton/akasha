@@ -1,0 +1,15 @@
+---
+id: 46d96919-6976-5a39-8f10-36c8ac7ff751
+page-type-slug: story-chapter-royal-road
+title: "Stray Cat Strut - Crossover Fanfic Contest!"
+slug: 0670-stray-cat-strut-crossover-fanfic-contest
+partOf: stray-cat-strut-stubbing-never-lol
+position: 670
+ownLength: 236
+unit: words
+publishedAt: 2025-07-01
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/2401308/stray-cat-strut-crossover-fanfic-contest"
+royalRoadId: "2401308"
+---
+
+Hit 10,000 words, get $10 USD!We're running a fanfic contest focused on Stray Cat Strut crossovers. Any universe is fair game, as long as the story includes elements from Stray Cat Strut and remains safe for work. No lewd content will be accepted.Always wanted to see what Sailour Moon could do against the Antithesis? Wanna see how Batman would handle a Myalis in his head? What about Taylor Hebert with access to Protector catalogues? Or your OC in New Montreal with powers from another world?This story has been unlawfully obtained without the author's consent. Report any appearances on Amazon.Now's your chance! Write a fanfic, and if you hit 10K words in the month of July, you get an easy $10 for me!Stories must be posted to Royal Road or Scribblehub. (You can post to both if you like.) The first chapter must go up sometime during the month of July. (Be aware that Royal Road can be slow to approve new fictions, so do not wait until July 30 to publish your entry.) No lewd content, and only one story per participant because I'm not mister money birb over here. Oh, and no AI writing, please! (Though using AI for editing and as a tool on the side is fine.)As a bonus, the longest fic by word count at the end of the contest will receive a special reward!Winners will be tallied up in early August!

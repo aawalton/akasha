@@ -1,0 +1,19 @@
+---
+id: 584c66d6-41b4-5d0f-96f8-4b04f66c481d
+page-type-slug: story-chapter-royal-road
+title: "Interlewd Three"
+slug: 0212-interlewd-three
+partOf: stray-cat-strut-stubbing-never-lol
+position: 212
+ownLength: 500
+unit: words
+publishedAt: 2021-10-22
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/770945/interlewd-three"
+royalRoadId: "770945"
+---
+
+Interlewd Three“Hello!” I called out, then grinned as my voice echoed back. It wasn’t a perfect echo, just the sort of thing you’d hear in any large, empty space. Fitting, then.“Having fun?” Lucy asked. I turned and noticed the cheeky grin she had on before she closed the door behind her.We’d taken a cab over to the museum again. We had a lot of work to do on the place, but for the most part, that was out of our hands. Some staff from the museum had passed the night before and taken the remaining displays. That still left a few things that hadn’t been taken. A couple of plinths lay around the room, a few bits of cardboard and tape that they’d left behind after packing everything up.“Too bad we can’t keep the entire place this big,” Lucy said. She spun around, arms outstretched as if to emphasize how much room there was.“Yeah,” I agreed. It would be nice, but at the same time it would be entirely wasted. So much room with nothing in it. “How long did they say it would take?” I asked.“Three weeks,” Lucy said. “And that’s only if they can get all of the materials they need.”I nodded as I followed her down to the main floor. Our new home was a little awkward, with some sections on higher levels than others. We could probably cut the entire thing in half and have two floors for ourselves, actually. They’d be cramped, with low ceilings all over, but still.You might be reading a pirated copy. Look for the official release to support the author.“It’s going to be nice,” Lucy said. She moved over to one of the plinths and pushed her hand against it. “Once all of this stuff is gone.”“Yeah,” I agreed. Then, because Lucy was turned away from me, I grabbed her from behind in a bear hug and placed my chin on her head, her poofy hair soft against my face.“You know,” Lucy said. There was something in her voice, teasing and a little knowing. “The contractor will only arrive at nine.”“Oh?” I asked. A glance at the time on my augs revealed it to be just past seven thirty. “We’re going to be waiting here for a while then.”“We are,” Lucy agreed. “It’s too bad there’s absolutely nothing we can do right now.”She wasn’t even trying to hide the teasing now. One of her hands reached up and took mine, and she brought it up to her lips to peck my knuckles.“Hmm,” I said, a growing smile twisting my voice. “I’m sure we could think of something to do,” I murmured.
+
+Hi! It's me, RavensDagger... again! And wow, this one went perverted fast. Anyway...
+
+So, because Royal Road moved onto Apple and Google's platforms, it doesn't allow lewd content anymore. for that reason... well, the lewd part of this interlewd was moved off site. But it's okay! You can read it, entirely for free, on my patreon. Link right here: https://www.patreon.com/posts/91219886

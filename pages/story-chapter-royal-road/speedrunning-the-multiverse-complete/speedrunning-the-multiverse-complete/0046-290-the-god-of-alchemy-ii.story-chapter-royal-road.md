@@ -1,0 +1,213 @@
+---
+id: 19f74be9-1176-5cde-80ec-90c51e8d5285
+page-type-slug: story-chapter-royal-road
+title: "290. The God of Alchemy (II) "
+slug: 0046-290-the-god-of-alchemy-ii
+partOf: speedrunning-the-multiverse-complete
+position: 46
+ownLength: 1696
+unit: words
+ownProgress: 1696
+publishedAt: 2023-08-23
+link: "https://www.royalroad.com/fiction/46319/speedrunning-the-multiverse-complete/chapter/1319139/290-the-god-of-alchemy-ii"
+royalRoadId: "1319139"
+markedReadAt: "2026-06-29T22:43:15.562Z"
+---
+
+This was not a smart idea.
+
+It was the curse of monstrously powerful creatures the Multiverse over—their bodies failed them before their force did. So it was the case here.
+
+Dorian blinked at the meat paste that had once been his hand. Fourth Form Torchdragons were as durable as you could get in the Multiverse—the greatest shields and armors, the ones given lofty names in the legends, were often made from their scales. So you could imagine the amount of force it’d take to do this to his fist.
+
+But you didn’t need to. You could see the evidence plainly before you. The blow popped the ward as easily as a needle pricking a bubble; the leftover force whipped the winds into such a frenzy they shattered every window on the face of the building. Glass showered in a sudden snowstorm. Walls were lifted clean off the ground, toppling over soldiers braced against them. They were the lucky ones. The rest of the soldiers were splattered against the sides of the building like crushed gnats. And even they were lucky compared to the ones flung instantly through the walls. Man-shaped crater recorded their passing.
+
+A few had been flung so straight up. They were still going up when Dorian stepped over the mess he’d made. He had a little chuckle at their wild flailing as he sauntered up to the mega-factory. He doubted it was very funny from their perspective—they were shitting themselves quite ferociously, by the looks of it—but standing here they did look very silly. He could search this thing floor by floor, but he liked his idea better. He cleared his throat.
+
+“Everyone! You have precisely one minute to get the Hells out before I blow this building down!” he said. He hoped the past five seconds gave credence to his threat. “Sixty… fifty-nine…”
+
+The front gates were flung open, vomiting a crush of panicked bodies and flailing limbs.
+
+“Fifty-eight…. Fifty-seven...”
+
+There seemed to be a logjam on one of the stairs. In hindsight one minute was a little short, but patience had never been his strong suit. “Oh, never mind all that! I’ll do it myself.”
+
+With a snap of a finger, air rushed in through the windows on the top half of the building, rushed out the windows of the bottom half, making a strong artificial current. Soon hordes of workers came floating out, along with all kinds of debris—mostly glassware, some machinery and piping. No body of Malachai, to his mild disappointment.
+
+This called for some more… invasive… measures.
+
+First he padded the ground with air, so that those he’d chucked out around would land softly. Fate had been quite explicit—he wasn’t to do damage to these folk where he could help it.
+
+It was that last bit he was doubtful on. What qualified as ‘where he could help it’? He’d given a loud verbal warning, then a forceful shove. He figured he’d done about as much as he could reasonably be asked to do. If there were still folk in the building, well—he tried!
+
+He was about to start punching when he had a sudden thought. What if there was some poor fellow stuck in a locked toilet stall who was just now scrambling to get out? So he gave it another few seconds. When no stragglers materialized, he marched up to the wall at ground level, picked a random spot, and gave it a good wallop.
+
+A wave of force rippled through the stone.
+
+Then the whole first floor collapsed as one, disintegrating instantly.
+
+The second floor dropped a good thirty feet. The force of the impact, plus the hundreds of stories above it, dusted it too. The third followed suit. And once it got going there was no stopping it; the whole building went down, floor after floor, hacking up clouds of dust and steel and glass as it went. Dorian threw up a little air bubble to contain the debris. He had enough to build another factory by the time the crashing was done.
+
+And oh, look! At the center of that giant mount of rubble, a beacon of qi, the one thing that had survived the destruction—the body of Malachai.
+
+Once he dusted the soot off it, it looked exactly as he recalled. Old and tall and wizardly, with this long bushy white beard. He’d had it dyed in his twenties since nobody took a young alchemist seriously, a strangely common cultural artifact across the Multiverse. If you wanted to convince folks you were worth following, it was important to look like you knew what you were talking about. A close second was to act like you knew what you were talking about. What you actually said was a very distant third.
+
+It took some scratching and some wiggling and accidentally yanking out a gallbladder, but he managed to snag the core.
+
+“I am going to sit here and cultivate,” he announced to the crowds huddled a respectful distance away. “If anyone disturbs me, I will punch them so hard they instantaneously change states of matter. I will make you a gas. Understood?”
+
+Lots of nods. Honestly he was expecting a little more resistance. These were mostly Gods ranged before him, a handful of haggard-looking Empyreans. Had all the rest been crushed? Where was this realm’s Godking? Did it have one?
+
+Eh. These were the concerns of lesser beings. Whatever came, he figured he’d just punch it. Very little could threaten him now.
+
+Satisfied, he crossed his legs and closed his eyes.
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[0 -> 30%]
+
+A bright green droplet hovered in the space of his core. Another droplet joined it.
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[30% -> 55%]
+
+And another, and another…
+
+…
+
+…
+
+Soon there was a puddle, then a pool, then a lake.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Dwarf]
+
+[89% -> 100%]
+
+[Level-up!]
+
+[Star Realm: Dwarf -> Sun]
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[0 -> 24%]
+
+Is qi flickered each time he inspected it. Sometimes it flowed like a water, sometimes like mud, and sometimes it seemed not to flow at all.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Sun]
+
+[78% -> 100%]
+
+[Level-up!]
+
+[Star Realm: Sun -> Red Giant]
+
+It seemed a liquid, a solid, at times even a gas giant at times. Its Laws trickled out shyly, then in sudden lightning spurts, then placidly. For these were Laws of Transmutation—the fundamental property of all Alchemy. To these Laws energy was like a liquid; states of matter were merely suggestions, like molds you pour into. Easily interchangeable.
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant]
+
+[78% -> 90%]
+
+On and on it went…
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Red Giant -> Supergiant]
+
+…
+
+…
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[28% -> 29%]
+
+[Level-up!]
+
+[Star Realm: Supergiant]
+
+[29% -> 30%]
+
+His new Transmutation supergiant lapped up the last of its qi. It was the smallest of his cores so far, but there was a reason it was regarded on par with Yeshima; in fact some combat historians considered Malachai the deadlier force in a duel.
+
+It wast mostly due to one skill in particular.
+
+[Skill Learned!]
+
+[Midas Touch]
+
+[Lv. 0 -> 1 -> 2 -> 3 -> 4 -> 5 -> 6 -> 7 -> 8 -> 9 -> MAX]
+
+***
+
+Hundreds of li below, safely ensconced in an underground bunker, Caius, resident Godking of Eden, shivered in his chair despite the baking heat. They’d built this bunker as deep as they possibly could, one li away from the lava flows. Its every groan and gurgle reverberated through the space, as though he sat in the belly of some great beast.
+
+Far better here than up there!
+
+He’d heard what had happened to his colleague Thond of the Millennium Caverns. He had a soft spot for the fellow; they called one another over scrying glass to drink, and laugh, and play their fortnightly games of mahjong. This business with this terrorist Dorian—incredibly unprofessional. There was no dispute so heated one could not settle it with words, over dinner and wine. It was the same with his laborers when they threw their temper tantrums; why must these brutes always reach for violence?
+
+Well, this unsavory fellow would get his comeuppance soon enough!
+
+“I’ve done as you asked, Master Jez,” said Caius.
+
+“Where is he?”
+
+“At the Guild’s Headquarters. Or… where the Headquarters used to be. Before he came. He’s just begun absorbing—it is exactly as you said.”
+
+“I see.” Jez’s eyes shone eerie bright in a face so gaunt it was seemed little more than a skull. There was something animal about his face, something feral. Caius gulped. For a time he’d thought his friend—his master—was a civilized, reasonable man.
+
+How silly he’d been. Reasonable men did not wish to take over the Multiverse.
+
+“I tire of dealing with this clown of a God,” snarled Jez. “Hold him there. Make certain he stays. This time there is no running. I will make certain of it!”
+
+***
+
+Dorian yawned, squinting at the sun, a watery orange disc sagging into the dusk. How long had it been? Half a day, maybe? He’d best get going—he had no intention of being here by the time Jez got his shit together and sent backup.
+
+He cleared his throat, dredging up the words to his little parting speech.
+
+It occurred to him he’d skipped a step. Where was the Infinity Heart? He’d assumed it’d shattered along with everything else in that great crash, but he hadn’t actually seen it break. But it surely must’ve. If it was nearby he’d feel its aura, wouldn’t he? Best to check, just in case. He yanked out one of Fate’s maps and scrutinized it.
+
+It was still here.
+
+According to the map he was standing right on top of it.
+
+“…What? Ahh. You bastards—you’ve stashed it underground! Tricky tricky.”
+
+His hands came alive with Transmutation Qi.
+
+“But if you think that’ll save you, I’m sorry to say—eh?”
+
+He felt the air break open behind him.
+
+When he turned around, there was a chimera behind him—two ugly heads, four swollen arms. It rode on a cackling stormcloud, and clenched in its fists were two burning whips.

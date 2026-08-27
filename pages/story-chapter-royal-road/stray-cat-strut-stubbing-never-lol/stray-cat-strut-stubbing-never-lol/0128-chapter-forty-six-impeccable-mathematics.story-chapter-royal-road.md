@@ -1,0 +1,147 @@
+---
+id: faa25d6e-c5f1-5d56-9a24-66d3521344ac
+page-type-slug: story-chapter-royal-road
+title: "Chapter Forty-Six - Impeccable Mathematics"
+slug: 0128-chapter-forty-six-impeccable-mathematics
+partOf: stray-cat-strut-stubbing-never-lol
+position: 128
+ownLength: 1543
+unit: words
+publishedAt: 2021-04-07
+link: "https://www.royalroad.com/fiction/33600/stray-cat-strut-will-stub-yesterday-as-soon-as/chapter/659602/chapter-forty-six-impeccable-mathematics"
+royalRoadId: "659602"
+---
+
+“You want to distract an entire forum of people for a few hours? Mention a samurai’s weapons, then point out some random detail.
+
+Just be sure to be somewhat wrong about it.
+
+Hours of pleasure, guaranteed.”
+
+--Anonymous commentator, 2021
+
+***
+
+“Okay,” I said. “So, two-ninety... whatever,” I said.
+
+Jessica nodded.
+
+“Now, we need to factor in a couple of things,” I said. “Whomever buys this place needs to renovate it. A whole lot. Not to mention cleaning the place up.”
+
+“That’s factored into the price,” she said.
+
+“I doubt it,” I said. “You know, I almost bled out over here? Hell, I used flesh eating nanite grenades in there.”
+
+The realtor blanched. “Pardon?”
+
+“They’re designed to melt flesh so that the antithesis can’t use it anymore,” I said. “The nanomachines don’t last that long, don’t worry, but you’ll still need specialists to clean up.”
+
+“I will make note of it,” Jessica said.
+
+“Now, there are two other things you should tell your clients. One, they’re on the hook for fucking up Longbow’s gun. Two, Deus Ex had to come over here for stuff, and she’s a vindictive little bitch. Like seriously, just yesterday, she gave a couple dozen people cancer because it was faster than poking at them herself.”
+
+Jessica nodded slowly.
+
+I leaned back, then hummed. “How much can you bring the price down by?” I asked. I’d done my share of negotiating for stuff before. I wasn’t great at it, but I could manage in a pinch. Buying stuff from a street vendor wasn’t quite the same as buying anything worth hundreds of millions, but I figured some of it would crossover.
+
+Jessica looked straight past me for a moment. “We could, if we lower our expectations, and convince some of our clients to make a smaller profit, lower the price of the building all the way down to two hundred and seventy-five million.”
+
+I snorted. “That’s barely a discount.”
+
+“It’s a significant drop in price. My clients will barely make any profit at that rate.”
+
+I shuffled a little. “I’ll give you one hundred million,” I said.
+
+“That’s a solid no,” Jessica said. “I can’t drop the price by that much.”
+
+I gestured for her to wait. “Calm down, I can spice it up a little,” I said before turning to Myalis. “Hey, which one of my catalogues has the most valuable stuff? That is, if I were to sell it on an open market?”
+
+Myalis’ little drone bobbed up and down. “That depends, the market is somewhat fickle. Though I can generally make some predictions.”
+
+Notably, your Cyber Warfare tier one, Medical Utilities tier one, Stealth Technologies tier one and finally your Sunwatcher Technologies tier two  catalogues all have the items that could sell for a good amount of credits.
+
+I nodded along. “Yeah, I can imagine. Hey, Jessica, do any of your clients own any biotech firms? Or weapons... manufacturing... things? Hell, do any of them want to live longer?”
+
+Jessica perked up a little. “Do you intend to trade blueprints for the building?”
+
+“That... could be an option,” I said. I had seven thousand or so points, but I didn’t want to spend them all here. If I valued the building at about two-hundred million, and only wanted to spend... say, five thousand of those points, then I’d need to make sure each point was worth...
+
+I opened up a calculator app and plugged in the numbers with a few twitches of my eye. Forty-thousand credits per point. That was... a lot.
+
+“Myalis, can you put together a list of blueprints to sell? Assume that each point is worth... about fifty thousand credits, alright?”
+
+“Of course,” Myalis said.
+
+That would actually be significantly above the credit-per-point value usually used by Vanguards.
+
+I nodded. “Send that over to Jessica here. Let’s see if her clients will bite, yeah?”
+
+I opened a text app and started writing to Myalis. ‘Maybe, but how many samurai have things available this way?
+
+There are a few hundred Vanguard that offer items on a per-point valuation system online. Usually at rates hovering around the twenty-five thousand credits per point rate. Some Vanguard will trade points between each other, usually for thirty to thirty-five thousand credits each. Your advantage here is that you’re offering blueprints, which are somewhat rarer, and you have two catalogues that aren’t offered by any of the other Vanguard selling things.
+
+Lucy stepped up. “I don’t know if it’s a good idea,” she said.
+
+“Pardon?” Jessica asked.
+
+Lucy nodded, and I would have thought her serious if I didn’t know her. “Yeah. Selling to the realtor directly, or to your clients, I suppose, isn’t as smart as just selling directly on the open market. Cat, you’ve got some pretty exclusive stuff, right?”
+
+“I think I’m the only Samurai with the Sunwatcher tech tree,” I said.
+
+Myalis’ decided to pipe in. “I can confirm that.”
+
+I nodded along. “Yeah, we could make more that way. I don’t quite have the two-hundred and seventy-five mil on me right now, you know? That’s a lot of change to carry around.”
+
+Jessica looked to the side, then back to us. “Could you give me just one moment? I think I need to contact some of my clients. In the meantime, perhaps you can tour the building. It’s in a state of disrepair, I’m aware, but it shouldn’t be so dangerous that you can’t explore it. Um, unless those nanites... perhaps not?”
+
+“Oh, if they start eating Lucy I’ll do something about it,” I said. “And I’m pretty sure I’m resistant to that kind of thing.”
+
+“Of course.” Jessica bowed to us, then moved over to the door. She didn’t talk aloud, but from the way she was twitching and moving her head, she was using her augs to their fullest.
+
+I nodded over past the entrance, and Lucy followed me over.
+
+The museum’s main floor looked like crap. Some of the displays had been moved, but most of them were just plain abandoned. The huge hole in the ceiling above, still with a big lump of antithesis meat stuff jammed against it, didn’t look stellar.
+
+“Bit creepy,” Lucy said as she looked over the floor.
+
+I had to agree. It had a very... carnival-after-dark look to it. “You need to look past all the junk and stuff,” I said. “There’s a lot of room here.”
+
+Lucy nodded, then looked over her shoulder. “Think she’ll take your bait?” she asked.
+
+Myalis hovered over. “Some of her clients were actually listening in and communicating with each other. There was something of a bidding war behind the scenes. Some wished to get rid of their shares of the building the moment you came in, others wished to purchase those.”
+
+“Really?” I asked. “Bit weird, no?”
+
+“I suspect that it’s more a matter of potential risk. As it is, the share price has skyrocketed. I could influence it downwards, but such an obvious manipulation would be noticed.”
+
+“So, the value of the building just went up?” I asked. “That’s the opposite of what I want.”
+
+“The value of anything is entirely based on a person’s willingness to pay for it. In this case, the owners of this building seem entirely willing to write off the monetary value of the building if it means obtaining something that is, to them, more valuable still.”
+
+“She’s saying that the big-wigs want a go at your shiny shiny alien tech,” Lucy said. “And it’s worth more than this drafty old place.”
+
+That made sense, I supposed. Buildings were plentiful, exclusive blueprints to alien tech weren't. “So, think we can get a better deal out of it?” I asked.
+
+“Oh yeah,” Lucy said. “Just pretend that you’ll borrow the money from someone else, then when Jessica back there panics, say that you’ll be willing to trade the place for, like, peanuts.”
+
+Myalis wavered from side to side a little. “As much as I would find that amusing, some of the clients on the line aren’t entirely clueless about the value of what’s being offered. They’re the ones trying to hold the price steady where it is. Others are driving it up, likely in hopes of selling their shares soon, and still others are selling now while they can. It’s an interesting little scenario.”
+
+“Awesome,” I said. It was starting to dawn on me that maybe I’d be the proud owner of... a place that needed some really extensive renovations. “What am I getting myself into?” I asked.
+
+“The usual amount of trouble,” Myalis said.
+
+Lucy giggled. “Usual means that there’s also an unusual amount somewhere.”
+
+“I have a tier list,” Myalis replied.
+
+Lucy pulled me in for a hug, and I easily reciprocated. “You alright?” she asked.
+
+I nodded. “I’m fine,” I said. “It’s just a lot, you know? But... hey, we might have a place all to our own soon. A really expensive one.”
+
+“It’s kinda cool,” she said. “The kittens will love it.”
+
+“It’s kinda stressful,” I replied. “And yeah, they will, which isn’t an endorsement of anything, I’ve seen the kinds of things they love.”
+
+A cough from behind me had me turning. Jessica stood there, somewhat awkward. “Miss Stray Cat, I think we’re ready to continue our negotiations.”
+
+***
