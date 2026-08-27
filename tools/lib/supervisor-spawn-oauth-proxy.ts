@@ -1,4 +1,6 @@
 
+import { closeSync, mkdirSync, openSync } from "node:fs"
+import { join } from "node:path"
 import { modelGatewayEntrypoint } from "./model-gateway-tree-version.ts"
 import { pidAliveOrRefuse } from "./pid-signal.ts"
 import { pidsListeningOn, portIsHeld } from "./port-listener-pid.ts"
@@ -15,6 +17,8 @@ const STALE_PROXY_SHUTDOWN_BUDGET_MS = 5_000
 const POLL_INTERVAL_MS = 100
 
 const HEALTHZ_TIMEOUT_MS = 1_000
+
+const STDERR_LOG = "oauth-proxy.stderr.log"
 
 function assertNever(value: never): never {
   const rendered = typeof value === "string" ? value : JSON.stringify(value)
@@ -141,22 +145,52 @@ export async function respawnOAuthProxy(
   return await spawnFreshProxy(args, currentState.port)
 }
 
+/**
+ * Where the gateway's stderr is sent.
+ *
+ * NEVER INHERITED, because the supervisor's stderr is the seat's terminal. Anything the gateway or
+ * the runtime under it writes there is painted straight over the display of a seat that is working
+ * perfectly well — an upstream fetch error interleaves with Claude's own drawing and reads as a
+ * crash, when nothing has crashed at all.
+ *
+ * A FILE RATHER THAN DISCARDED, so an error the runtime prints past the gateway's own size-capped
+ * `oauth-proxy.log` still leaves a record somewhere.
+ *
+ * DISCARDED RATHER THAN INHERITED WHERE THE FILE WILL NOT OPEN, because losing the record costs a
+ * diagnosis, while falling back to the terminal costs the seat its display.
+ */
+function openStderrLog(logDir: string): number | null {
+  try {
+    mkdirSync(logDir, { recursive: true })
+    return openSync(join(logDir, STDERR_LOG), "a")
+  } catch (err) {
+    console.error(`[supervisor] could not open the oauth-proxy stderr log under ${logDir}:`, err)
+    return null
+  }
+}
+
 async function spawnFreshProxy(
   args: SpawnOAuthProxyArgs,
   requestedPort: number
 ): Promise<SupervisorOAuthProxyHandle> {
   const entrypoint = resolveEntrypoint()
-  const proc = Bun.spawn(["bun", entrypoint], {
-    stdio: ["ignore", "pipe", "inherit"],
-    env: {
-      ...process.env,
-      OAUTH_PROXY_AGENT_ID: args.agentId,
-      OAUTH_PROXY_REGISTRATION_ACCOUNT: args.registrationAccount,
-      OAUTH_PROXY_LOG_DIR: args.logDir,
-      OAUTH_PROXY_VERSION: args.oauthProxyVersion,
-      OAUTH_PROXY_PORT: String(requestedPort),
-    },
-  })
+  const stderrFd = openStderrLog(args.logDir)
+  let proc: ReturnType<typeof Bun.spawn>
+  try {
+    proc = Bun.spawn(["bun", entrypoint], {
+      stdio: ["ignore", "pipe", stderrFd ?? "ignore"],
+      env: {
+        ...process.env,
+        OAUTH_PROXY_AGENT_ID: args.agentId,
+        OAUTH_PROXY_REGISTRATION_ACCOUNT: args.registrationAccount,
+        OAUTH_PROXY_LOG_DIR: args.logDir,
+        OAUTH_PROXY_VERSION: args.oauthProxyVersion,
+        OAUTH_PROXY_PORT: String(requestedPort),
+      },
+    })
+  } finally {
+    if (stderrFd !== null) closeSync(stderrFd)
+  }
   const pid = proc.pid
   if (typeof pid !== "number") {
     throw new Error("oauth-proxy spawn: Bun.spawn returned no pid")
