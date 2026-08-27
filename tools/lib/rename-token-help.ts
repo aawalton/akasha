@@ -51,7 +51,7 @@ REFUSALS BEFORE ANY GATE RUNS:
   - a root that is not a git repository
 
 Usage:
-  bun ~/repos/instructions/tools/rename-token.ts --old <name> --new <name> [flags]
+  ops akasha rename-token --old <name> --new <name> [flags]
 
 Flags:
   --old <name>          The identifier as it stands.
@@ -67,7 +67,7 @@ WHAT IS SEARCHED is every \`.ts\` file git tracks, quarantine included, loaded a
 program so that a reference in any of them is found. The compiler settings match the
 ones \`typecheck\` gates with, so what resolves here is what compiles there.
 
-THE COMPILER IT ASKS is the first classic TypeScript it finds: the code repo's
+THE COMPILER IT ASKS is the first classic TypeScript it finds: this repository's
 \`node_modules/typescript\`, then whatever \`tsc\` on PATH resolves to. The 7.x native
 preview is skipped rather than used, because it answers a rename over LSP alone and
 this command is not an editor.
