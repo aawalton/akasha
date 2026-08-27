@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a05d-7565-a46b-7d5ac1af3de1
+title: "Azureblight Reaper"
+slug: azureblight-reaper
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Dealing damage over time applies a stack of Blight Seed to the target for 5 seconds. At 20 stacks, Blight Seed explodes, dealing 667 Disease damage to the target and nearby enemies, increasing by 150% per additional monster hit, up to 600%. \n\nThe damage scales off your Weapon or Spell Damage and can occur once every 1 second. Enemies can only have one Blight Seed at a time and require 20 more stacks per group member wearing this set."}]'
+eso-set-id: 456
+icons: '{"axe":"/esoui/art/icons/gear_stagszen_axe_a.dds","bow":"/esoui/art/icons/gear_stagszen_bow_a.dds","mace":"/esoui/art/icons/gear_stagszen_mace_a.dds","maul":"/esoui/art/icons/gear_stagszen_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_stagszen_sword_a.dds","dagger":"/esoui/art/icons/gear_stagszen_dagger_a.dds","feet:*":"/esoui/art/icons/gear_stagzenmed_feet_a.dds","head:*":"/esoui/art/icons/gear_stagzenmed_helmet_a.dds","legs:*":"/esoui/art/icons/gear_stagzenmed_legs_a.dds","shield":"/esoui/art/icons/gear_stagszen_shield_a.dds","chest:*":"/esoui/art/icons/gear_stagzenmed_chest_a.dds","hands:*":"/esoui/art/icons/gear_stagzenmed_hands_a.dds","waist:*":"/esoui/art/icons/gear_stagzenmed_belt_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_stagszen_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","greatsword":"/esoui/art/icons/gear_stagszen_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_stagzenmed_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds"}'
+key: azureblight-reaper
+subcategory-id: dungeon
+valid: '["*:medium"]'
+---

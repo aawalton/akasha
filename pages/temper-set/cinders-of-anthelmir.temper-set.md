@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a068-78d6-b3af-c5fe80633b0d
+title: "Cinders of Anthelmir"
+slug: cinders-of-anthelmir
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"penetration","effectType":"integer","effectValue":1487}],"description":"Adds 1487 Offensive Penetration"},{"count":3,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"On dealing damage, summon a Cindermoth that chases your target without mercy for 8 seconds. If your target dies before the moth reaches them, it seeks a new target within 8 meters. The first enemy that nears the Cindermoth causes it to stop and burst after 1 second, dealing 1283 Flame damage and Burning enemies within 8 meters. This can occur once every 8 seconds and scales off your Weapon or Spell Damage."}]'
+eso-set-id: 730
+icons: '{"axe":"/esoui/art/icons/gear_theremembrance_axe.dds","bow":"/esoui/art/icons/gear_theremembrance_bow.dds","mace":"/esoui/art/icons/gear_theremembrance_mace.dds","maul":"/esoui/art/icons/gear_theremembrance_2hmace.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_theremembrance_sword.dds","dagger":"/esoui/art/icons/gear_theremembrance_dagger.dds","feet:*":"/esoui/art/icons/gear_theremembrancelgt_feet_a.dds","head:*":"/esoui/art/icons/gear_theremembrancelgt_head_a.dds","legs:*":"/esoui/art/icons/gear_theremembrancelgt_legs_a.dds","shield":"/esoui/art/icons/gear_theremembrance_shield.dds","chest:*":"/esoui/art/icons/gear_theremembrancelgt_robe_a.dds","hands:*":"/esoui/art/icons/gear_theremembrancelgt_hands_a.dds","waist:*":"/esoui/art/icons/gear_theremembrancelgt_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_theremembrance_2haxe.dds","ice-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","greatsword":"/esoui/art/icons/gear_theremembrance_2hsword.dds","shoulders:*":"/esoui/art/icons/gear_theremembrancelgt_shoulder_a.dds","inferno-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","lightning-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","restoration-staff":"/esoui/art/icons/gear_theremembrance_staff.dds"}'
+key: cinders-of-anthelmir
+subcategory-id: dungeon
+valid: '["*:light"]'
+---

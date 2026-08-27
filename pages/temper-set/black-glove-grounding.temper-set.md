@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a060-7649-ac9b-c8cf5ef4d955
+title: "Black-Glove Grounding"
+slug: black-glove-grounding
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"healing-taken-base","effectType":"fractional-change","effectValue":0.04}],"description":"Adds 4% Healing Taken"},{"count":3,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":4,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":5,"status":"unsupported","effects":[],"description":"After taking direct damage three times within 5 seconds, you create a 5 meter area for 10 seconds that grants Grounding to you and group members, reducing the cost of roll dodging by 20% and increasing block mitigation by 12% for 15 seconds. This effect can occur once every 10 seconds."}]'
+eso-set-id: 732
+icons: '{"axe":"/esoui/art/icons/gear_theremembrance_axe.dds","bow":"/esoui/art/icons/gear_theremembrance_bow.dds","mace":"/esoui/art/icons/gear_theremembrance_mace.dds","maul":"/esoui/art/icons/gear_theremembrance_2hmace.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_theremembrance_sword.dds","dagger":"/esoui/art/icons/gear_theremembrance_dagger.dds","feet:*":"/esoui/art/icons/gear_remembrance_heavy_feet_a.dds","head:*":"/esoui/art/icons/gear_remembrance_heavy_head_a.dds","legs:*":"/esoui/art/icons/gear_remembrance_heavy_legs_a.dds","shield":"/esoui/art/icons/gear_theremembrance_shield.dds","chest:*":"/esoui/art/icons/gear_remembrance_heavy_chest_a.dds","hands:*":"/esoui/art/icons/gear_remembrance_heavy_hands_a.dds","waist:*":"/esoui/art/icons/gear_remembrance_heavy_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_theremembrance_2haxe.dds","ice-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","greatsword":"/esoui/art/icons/gear_theremembrance_2hsword.dds","shoulders:*":"/esoui/art/icons/gear_remembrance_heavy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","lightning-staff":"/esoui/art/icons/gear_theremembrance_staff.dds","restoration-staff":"/esoui/art/icons/gear_theremembrance_staff.dds"}'
+key: black-glove-grounding
+subcategory-id: dungeon
+valid: '["*:heavy"]'
+---

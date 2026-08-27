@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e7-6a03-7280-b9e4-196458e0eb41
+title: "Dolorous Arena"
+slug: dolorous-arena
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":3,"status":"unsupported","effects":[],"description":"Gain Minor Aegis at all times, reducing your damage taken from Dungeon, Trial, and Arena Monsters by 5%."},{"count":4,"status":"supported","effects":[{"metricId":"resistance","effectType":"integer","effectValue":743}],"description":"Adds 1487 Armor"},{"count":5,"status":"unsupported","effects":[],"description":"While bracing you create a distortion barrier around yourself after 2 seconds. After the delay, every 2 seconds you gain 614 Armor and enemies within the distortion barrier have their Armor reduced by 1843 for 5 seconds. These effects stack up to 3 times."}]'
+eso-set-id: 816
+icons: '{"axe":"/esoui/art/icons/gear_coldharbourdominator_1haxe_a.dds","bow":"/esoui/art/icons/gear_coldharbourdominator_bow_a.dds","mace":"/esoui/art/icons/gear_coldharbourdominator_1hhammer_a.dds","maul":"/esoui/art/icons/gear_coldharbourdominator_2hhammer_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_coldharbourdominator_1hsword_a.dds","dagger":"/esoui/art/icons/gear_coldharbourdominator_dagger_a.dds","feet:*":"/esoui/art/icons/gear_coldharbordominator_heavy_feet_a.dds","head:*":"/esoui/art/icons/gear_coldharbordominator_heavy_head_a.dds","legs:*":"/esoui/art/icons/gear_coldharbordominator_heavy_legs_a.dds","shield":"/esoui/art/icons/gear_coldharbourdominator_shield_a.dds","chest:*":"/esoui/art/icons/gear_coldharbordominator_heavy_chest_a.dds","hands:*":"/esoui/art/icons/gear_coldharbordominator_heavy_hands_a.dds","waist:*":"/esoui/art/icons/gear_coldharbordominator_heavy_waist_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_coldharbourdominator_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_coldharbourdominator_staff_a.dds","greatsword":"/esoui/art/icons/gear_coldharbourdominator_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_coldharbordominator_heavy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_coldharbourdominator_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_coldharbourdominator_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_coldharbourdominator_staff_a.dds"}'
+key: dolorous-arena
+subcategory-id: no-type
+valid: '["*:heavy"]'
+---

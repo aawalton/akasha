@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a070-7b41-8402-398b175eca17
+title: "Dragon's Defilement"
+slug: dragons-defilement
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":3,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":4,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":5,"status":"supported","effects":[{"metricId":"health-maximum","effectType":"integer","effectValue":1206}],"description":"Adds 1206 Maximum Health"},{"count":5,"status":"unsupported","effects":[],"description":"When you take damage from a melee attack, gain a corrupting aura for 5 seconds that applies Minor Breach to all enemies within 8 meters of you, reducing their Physical and Spell Resistance by 2974. This effect can occur every 5 seconds."}]'
+eso-set-id: 457
+icons: '{"axe":"/esoui/art/icons/gear_stagszen_axe_a.dds","bow":"/esoui/art/icons/gear_stagszen_bow_a.dds","mace":"/esoui/art/icons/gear_stagszen_mace_a.dds","maul":"/esoui/art/icons/gear_stagszen_2hmace_a.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_stagszen_sword_a.dds","dagger":"/esoui/art/icons/gear_stagszen_dagger_a.dds","feet:*":"/esoui/art/icons/gear_stagzenhvy_feet_a.dds","head:*":"/esoui/art/icons/gear_stagzenhvy_helmet_a.dds","legs:*":"/esoui/art/icons/gear_stagzenhvy_legs_a.dds","shield":"/esoui/art/icons/gear_stagszen_shield_a.dds","chest:*":"/esoui/art/icons/gear_stagzenhvy_chest_a.dds","hands:*":"/esoui/art/icons/gear_stagzenhvy_hands_a.dds","waist:*":"/esoui/art/icons/gear_stagzenhvy_belt_a.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_stagszen_2haxe_a.dds","ice-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","greatsword":"/esoui/art/icons/gear_stagszen_2hsword_a.dds","shoulders:*":"/esoui/art/icons/gear_stagzenhvy_shoulders_a.dds","inferno-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","lightning-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds","restoration-staff":"/esoui/art/icons/gear_stagszen_staff_a.dds"}'
+key: dragons-defilement
+subcategory-id: dungeon
+valid: '["*:heavy"]'
+---

@@ -1,0 +1,12 @@
+---
+page-type-slug: temper-set
+id: 019e66e6-a07d-7e58-ba79-df1401bddf04
+title: "Essence Thief"
+slug: essence-thief
+bonuses: '[{"count":2,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":3,"status":"supported","effects":[{"metricId":"stamina-maximum","effectType":"integer","effectValue":1096}],"description":"Adds 1096 Maximum Stamina"},{"count":4,"status":"supported","effects":[{"metricId":"power","effectType":"integer","effectValue":129}],"description":"Adds 129 Weapon and Spell Damage"},{"count":5,"status":"unsupported","effects":[],"description":"Dealing damage with a Light or Heavy Attack draws essence from the enemy that pools near them for 5 seconds. Drawing from the pool heals you for 4443 Health, restores 4356 Stamina, and increases your damage done by 10% for 10 seconds. A pool can only be created once every 10 seconds."}]'
+eso-set-id: 198
+icons: '{"axe":"/esoui/art/icons/gear_imperialdaedric_1haxe_c.dds","bow":"/esoui/art/icons/gear_imperialerialdaedric_bow_c.dds","mace":"/esoui/art/icons/gear_imperialdaedric_1hhammer_c.dds","maul":"/esoui/art/icons/gear_imperialdaedric_2hhammer_c.dds","ring":"/esoui/art/icons/gear_breton_ring_a.dds","sword":"/esoui/art/icons/gear_imperialerialdaedric_1hsword_c.dds","dagger":"/esoui/art/icons/gear_imperialdaedric_dagger__c.dds","feet:*":"/esoui/art/icons/gear_breton_medium_feet_d.dds","head:*":"/esoui/art/icons/gear_breton_medium_head_d.dds","legs:*":"/esoui/art/icons/gear_breton_medium_legs_d.dds","shield":"/esoui/art/icons/gear_imperialdaedric_shield__c.dds","chest:*":"/esoui/art/icons/gear_breton_medium_chest_d.dds","hands:*":"/esoui/art/icons/gear_breton_medium_hands_d.dds","waist:*":"/esoui/art/icons/gear_breton_medium_waist_d.dds","necklace":"/esoui/art/icons/gear_breton_neck_a.dds","battleaxe":"/esoui/art/icons/gear_imperialdaedric_2haxe_c.dds","ice-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","greatsword":"/esoui/art/icons/gear_imperialdaedric_2hsword_c.dds","shoulders:*":"/esoui/art/icons/gear_breton_medium_shoulders_d.dds","inferno-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","lightning-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds","restoration-staff":"/esoui/art/icons/gear_imperialdaedric_staff_c.dds"}'
+key: essence-thief
+subcategory-id: dungeon
+valid: '["*:medium"]'
+---
