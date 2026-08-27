@@ -31,7 +31,7 @@ strip is undone by the next run of whatever wrote it. And a file UNDER TEST, und
 tools read one scope, so what this reports outstanding is what a strip can take out.
 
 Usage:
-  bun ~/repos/instructions/tools/code-comment/scan.ts [--repo instructions|code] [--class <klass>] [--under <path>]
+  bun ~/repos/akasha/tools/code-comment/scan.ts [--repo instructions|code] [--class <klass>] [--under <path>]
 
 Flags:
   --repo <name>       Which tree to read: \`instructions\` (default) or \`code\`.
