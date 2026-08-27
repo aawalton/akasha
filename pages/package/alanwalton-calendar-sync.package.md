@@ -3,7 +3,7 @@ id: 1035b022-00fe-5389-8846-ea041e2a5c64
 page-type-slug: package
 title: "Alanwalton calendar sync"
 slug: alanwalton-calendar-sync
-repo: code
+repo: akasha
 domain-parent-slug: domain/ops-calendar
 ---
 

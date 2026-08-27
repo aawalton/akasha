@@ -3,7 +3,7 @@ id: 585bdffb-a4bf-5660-ab72-2b608e9f005a
 page-type-slug: package
 title: "Temper game items rules routing"
 slug: temper-game-items-rules-routing
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-item
 ---
 

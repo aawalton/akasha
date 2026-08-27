@@ -3,7 +3,7 @@ id: ccc46c6f-ea26-5271-ba80-1bb637b152b9
 page-type-slug: package
 title: "Infra inference"
 slug: infra-inference
-repo: code
+repo: akasha
 domain-parent-slug: domain/inference
 ---
 

@@ -3,7 +3,7 @@ id: 19398f82-a0ba-564a-b701-9f1ef79b290d
 page-type-slug: package
 title: "Infra ci benchmark"
 slug: infra-ci-benchmark
-repo: code
+repo: akasha
 domain-parent-slug: domain/ci-benchmark
 ---
 

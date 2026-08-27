@@ -3,7 +3,7 @@ id: 8fb373aa-28cd-51a8-8e8d-c8a145e4da8d
 page-type-slug: package
 title: "Alanwalton voice core"
 slug: alanwalton-voice-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/speech
 ---
 

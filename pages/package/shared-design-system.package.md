@@ -3,7 +3,7 @@ id: afe1d1b6-e7ae-544d-81a1-a6104ee23d9f
 page-type-slug: package
 title: "Shared design system"
 slug: shared-design-system
-repo: code
+repo: akasha
 domain-parent-slug: domain/design
 ---
 

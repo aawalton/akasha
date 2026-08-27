@@ -3,7 +3,7 @@ id: 50341f84-8e79-51f5-9147-ff05445d002b
 page-type-slug: package
 title: "Shared utils test"
 slug: shared-utils-test
-repo: code
+repo: akasha
 domain-parent-slug: domain/test
 ---
 

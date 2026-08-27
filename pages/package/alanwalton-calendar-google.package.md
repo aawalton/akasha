@@ -3,7 +3,7 @@ id: effe040a-b578-5cc8-886f-e490189dc122
 page-type-slug: package
 title: "Alanwalton calendar google"
 slug: alanwalton-calendar-google
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/ops-calendar
 ---
 

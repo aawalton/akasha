@@ -3,7 +3,7 @@ id: 8802bff4-c998-58f5-a462-0ff5949c07e0
 page-type-slug: package
 title: "Shared pages ui store"
 slug: shared-pages-ui-store
-repo: code
+repo: akasha
 domain-parent-slug: package/shared-pages-ui
 ---
 

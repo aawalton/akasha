@@ -3,7 +3,7 @@ id: f7946a16-4eb9-5998-add4-85c012e5bf99
 page-type-slug: package
 title: "Automation core"
 slug: automation-core
-repo: code
+repo: akasha
 domain-parent-slug: page-type/automation
 ---
 

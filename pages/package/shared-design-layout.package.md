@@ -3,7 +3,7 @@ id: f7546110-99af-5f15-b082-1d00c13358a0
 page-type-slug: package
 title: "Shared design layout"
 slug: shared-design-layout
-repo: code
+repo: akasha
 domain-parent-slug: domain/design-patterns
 ---
 

@@ -3,7 +3,7 @@ id: d0c3d3ae-f4f8-5a66-9118-8cd6cb84e61b
 page-type-slug: package
 title: "Shared supabase client"
 slug: shared-supabase-client
-repo: code
+repo: akasha
 domain-parent-slug: domain/database
 ---
 

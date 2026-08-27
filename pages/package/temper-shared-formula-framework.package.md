@@ -3,7 +3,7 @@ id: 5ec05fa6-237d-5151-b300-dc72aabffff1
 page-type-slug: package
 title: "Temper shared formula framework"
 slug: temper-shared-formula-framework
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-character
 ---
 

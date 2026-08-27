@@ -3,7 +3,7 @@ id: e59581b7-b409-581b-8645-d4bbfebd6ab9
 page-type-slug: package
 title: "Temper game items rules core"
 slug: temper-game-items-rules-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-item
 ---
 

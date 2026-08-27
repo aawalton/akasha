@@ -3,7 +3,7 @@ id: 8a6881ba-a04f-531c-bc5e-94114f157bf4
 page-type-slug: package
 title: "Alanwalton chess"
 slug: alanwalton-chess
-repo: code
+repo: akasha
 domain-parent-slug: domain/ops-chess
 ---
 

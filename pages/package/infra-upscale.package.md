@@ -3,7 +3,7 @@ id: a4a651de-4280-5581-803b-8713936a1071
 page-type-slug: package
 title: "Infra upscale"
 slug: infra-upscale
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/generation
 ---
 

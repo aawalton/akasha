@@ -3,7 +3,7 @@ id: 85e7a364-3008-5354-9a5e-78bf28ca8198
 page-type-slug: package
 title: "Shared recurrence"
 slug: shared-recurrence
-repo: code
+repo: akasha
 domain-parent-slug: domain/day
 ---
 

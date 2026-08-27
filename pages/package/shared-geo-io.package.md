@@ -3,7 +3,7 @@ id: 1869de95-d447-5fd3-a853-4c41f8545fbe
 page-type-slug: package
 title: "Shared geo io"
 slug: shared-geo-io
-repo: code
+repo: akasha
 domain-parent-slug: domain/atlas-app
 ---
 

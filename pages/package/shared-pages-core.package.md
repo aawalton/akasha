@@ -3,7 +3,7 @@ id: e9d40563-dfba-5e2f-a46d-9f74186d5a6e
 page-type-slug: package
 title: "Shared pages core"
 slug: shared-pages-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/pages-system
 ---
 

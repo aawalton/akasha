@@ -3,7 +3,7 @@ id: e4f1c113-edd0-59d7-be6a-aa6fbc17e982
 page-type-slug: package
 title: "Temper shared build deploy checks"
 slug: temper-shared-build-deploy-checks
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 required-reading-slugs:
   - page-type/cluster-check

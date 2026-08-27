@@ -3,7 +3,7 @@ id: ead9c7fc-bdfd-5a04-81d1-2d7dd53d2f91
 page-type-slug: package
 title: "Shared browser test harness"
 slug: shared-browser-test-harness
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/test-mode-browser
 ---
 

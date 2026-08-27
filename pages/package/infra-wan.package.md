@@ -3,7 +3,7 @@ id: bd75fab9-cc05-594a-a8a8-a276dc682899
 page-type-slug: package
 title: "Infra wan"
 slug: infra-wan
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/generation
 ---
 

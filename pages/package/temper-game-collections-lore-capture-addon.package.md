@@ -3,7 +3,7 @@ id: d072bcd1-8a60-5938-a679-06c6ce3a6c65
 page-type-slug: package
 title: "Temper game collections lore capture addon"
 slug: temper-game-collections-lore-capture-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

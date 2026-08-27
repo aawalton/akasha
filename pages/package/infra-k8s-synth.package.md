@@ -3,7 +3,7 @@ id: 32eaa8d3-99d3-58d2-adc3-ff5dfbe3e32c
 page-type-slug: package
 title: "Infra k8s synth"
 slug: infra-k8s-synth
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/workload
 ---
 

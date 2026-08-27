@@ -3,7 +3,7 @@ id: d7bc54af-40b9-5f8a-9dad-8578519f8fbd
 page-type-slug: package
 title: "Shared triggers proc compiler"
 slug: shared-triggers-proc-compiler
-repo: code
+repo: akasha
 domain-parent-slug: domain/database
 ---
 

@@ -3,7 +3,7 @@ id: afe3c5e1-6932-5454-b683-079947aef551
 page-type-slug: package
 title: "Alanwalton sms core"
 slug: alanwalton-sms-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/sms
 ---
 

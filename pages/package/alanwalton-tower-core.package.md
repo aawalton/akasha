@@ -3,7 +3,7 @@ id: c32a3909-d35d-5035-9690-9e5d6381a260
 page-type-slug: package
 title: "Alanwalton tower core"
 slug: alanwalton-tower-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/game-definitions
 ---
 

@@ -3,7 +3,7 @@ id: c20046f6-1c73-5ef7-9f54-df967327f40d
 page-type-slug: package
 title: "Shared person target"
 slug: shared-person-target
-repo: code
+repo: akasha
 domain-parent-slug: domain/person-harness
 ---
 

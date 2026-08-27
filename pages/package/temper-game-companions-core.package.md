@@ -3,7 +3,7 @@ id: afa2304e-9560-522e-b270-83adcb6dc26b
 page-type-slug: package
 title: "Temper game companions core"
 slug: temper-game-companions-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-companion
 ---
 

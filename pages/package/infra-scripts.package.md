@@ -3,7 +3,7 @@ id: 08210c2f-f0ab-53fa-81ab-712355bb4d26
 page-type-slug: package
 title: "Infra scripts"
 slug: infra-scripts
-repo: code
+repo: akasha
 domain-parent-slug: domain/infrastructure
 ---
 

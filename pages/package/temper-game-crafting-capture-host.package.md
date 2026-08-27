@@ -3,7 +3,7 @@ id: c84200ab-7b7b-57ec-93d2-f30ce4c1ba79
 page-type-slug: package
 title: "Temper game crafting capture host"
 slug: temper-game-crafting-capture-host
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-item
 ---
 

@@ -3,7 +3,7 @@ id: deccc242-f50f-500b-97fd-8ad00c2a8578
 page-type-slug: package
 title: "Temper game characters capture core"
 slug: temper-game-characters-capture-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-character
 ---
 

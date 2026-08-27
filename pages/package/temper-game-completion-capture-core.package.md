@@ -3,7 +3,7 @@ id: cf91bd88-4a17-50cb-998c-5897a2e0ec8c
 page-type-slug: package
 title: "Temper game completion capture core"
 slug: temper-game-completion-capture-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

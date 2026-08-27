@@ -3,7 +3,7 @@ id: 96cfadad-fbda-5223-8dc5-bc13d23318af
 page-type-slug: package
 title: "Temper game items filters addon"
 slug: temper-game-items-filters-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-player
 ---
 

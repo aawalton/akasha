@@ -3,7 +3,7 @@ id: 0456de47-79af-55b9-86d4-b4db07894747
 page-type-slug: package
 title: "Shared object store"
 slug: shared-object-store
-repo: code
+repo: akasha
 domain-parent-slug: domain/object-store
 ---
 

@@ -3,7 +3,7 @@ id: a616882e-738e-5f68-8bd9-6f720f4006a5
 page-type-slug: package
 title: "Temper shared foundation misc codec"
 slug: temper-shared-foundation-misc-codec
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-character
 ---
 

@@ -3,7 +3,7 @@ id: 86ae3814-7dcc-5de4-af7e-bdde36445325
 page-type-slug: package
 title: "Infra seaweedfs"
 slug: infra-seaweedfs
-repo: code
+repo: akasha
 domain-parent-slug: domain/object-store
 ---
 

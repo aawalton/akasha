@@ -3,7 +3,7 @@ id: 9861e7af-50eb-590c-bf19-503775ee557e
 page-type-slug: package
 title: "Infra k8s postgres annual dump"
 slug: infra-k8s-postgres-annual-dump
-repo: code
+repo: akasha
 domain-parent-slug: domain/backup
 ---
 

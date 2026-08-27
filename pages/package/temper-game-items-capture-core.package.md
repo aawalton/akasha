@@ -3,7 +3,7 @@ id: 40a81951-74e1-546d-b5e0-94dbae12014c
 page-type-slug: package
 title: "Temper game items capture core"
 slug: temper-game-items-capture-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-item
 ---
 

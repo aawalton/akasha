@@ -3,7 +3,7 @@ id: 320609c3-c0e9-5d4a-ace9-09ebb0c1890c
 page-type-slug: package
 title: "Temper player economics core"
 slug: temper-player-economics-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-item
 ---
 

@@ -3,7 +3,7 @@ id: 5d9753c9-8f5c-5e27-89b4-cc71851aec9d
 page-type-slug: package
 title: "Infra k8s postgres gfs promoter"
 slug: infra-k8s-postgres-gfs-promoter
-repo: code
+repo: akasha
 domain-parent-slug: domain/backup
 ---
 

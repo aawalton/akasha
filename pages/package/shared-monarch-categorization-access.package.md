@@ -3,7 +3,7 @@ id: 5eeaf76b-6a51-541f-b931-6131845a7b96
 page-type-slug: package
 title: "Shared monarch categorization access"
 slug: shared-monarch-categorization-access
-repo: code
+repo: akasha
 domain-parent-slug: domain/monarch
 ---
 

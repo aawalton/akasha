@@ -3,7 +3,7 @@ id: 7c7f6f77-487f-5d6b-bda9-4af6aa6110cb
 page-type-slug: package
 title: "Temper addons"
 slug: temper-addons
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper
 sequence-slugs:
   - domain/temper-addons-catalog

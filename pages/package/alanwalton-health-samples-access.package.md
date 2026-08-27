@@ -3,7 +3,7 @@ id: a1ba6440-5803-5cee-87f3-cd171be39eb6
 page-type-slug: package
 title: "Alanwalton health samples access"
 slug: alanwalton-health-samples-access
-repo: code
+repo: akasha
 domain-parent-slug: page-type/health-sample
 ---
 

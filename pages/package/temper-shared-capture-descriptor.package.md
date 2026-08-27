@@ -3,7 +3,7 @@ id: a044c545-efb8-5fb0-9a49-9225241b2e95
 page-type-slug: package
 title: "Temper shared capture descriptor"
 slug: temper-shared-capture-descriptor
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 ---
 

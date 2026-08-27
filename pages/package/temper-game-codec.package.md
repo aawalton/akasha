@@ -3,7 +3,7 @@ id: dfcdaac2-0687-5454-aba6-ff59e4f9ad15
 page-type-slug: package
 title: "Temper game codec"
 slug: temper-game-codec
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-character
 ---
 

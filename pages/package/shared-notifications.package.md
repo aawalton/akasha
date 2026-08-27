@@ -3,7 +3,7 @@ id: 19a66fb3-9e7b-5cbb-aa3e-f2c4f6218a52
 page-type-slug: package
 title: "Shared notifications"
 slug: shared-notifications
-repo: code
+repo: akasha
 domain-parent-slug: page-type/notification
 ---
 

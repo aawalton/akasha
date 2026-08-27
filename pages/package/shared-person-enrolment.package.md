@@ -3,7 +3,7 @@ id: 2399db05-77fe-5f2b-a71f-98a40931ab8a
 page-type-slug: package
 title: "Shared person enrolment"
 slug: shared-person-enrolment
-repo: code
+repo: akasha
 domain-parent-slug: domain/person-enrolment
 ---
 

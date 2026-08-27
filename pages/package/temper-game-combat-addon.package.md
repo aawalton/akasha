@@ -3,7 +3,7 @@ id: 2f7c005f-9277-5f52-9c05-0fedd5c5c487
 page-type-slug: package
 title: "Temper game combat addon"
 slug: temper-game-combat-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-account
 ---
 

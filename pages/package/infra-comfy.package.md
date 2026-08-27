@@ -3,7 +3,7 @@ id: dd508c45-3fcf-54c7-acdd-ef43201cab9e
 page-type-slug: package
 title: "Infra comfy"
 slug: infra-comfy
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/generation
 ---
 

@@ -3,7 +3,7 @@ id: ebf60216-bb29-50e7-84dd-5be446d76a5c
 page-type-slug: package
 title: "Shared web static assets"
 slug: shared-web-static-assets
-repo: code
+repo: akasha
 domain-parent-slug: domain/service
 ---
 

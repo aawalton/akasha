@@ -3,7 +3,7 @@ id: dbfcf48d-6c28-53d0-8105-6fb36f0095b7
 page-type-slug: package
 title: "Temper player quests addon"
 slug: temper-player-quests-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-player
 ---
 

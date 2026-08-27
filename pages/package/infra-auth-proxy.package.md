@@ -3,7 +3,7 @@ id: fe32b24e-19cc-5d34-9db9-dad66aacdfcf
 page-type-slug: package
 title: "Infra auth proxy"
 slug: infra-auth-proxy
-repo: code
+repo: akasha
 domain-parent-slug: domain/auth-proxy
 ---
 

@@ -3,7 +3,7 @@ id: e35452bd-d7da-5e21-a743-1de105ac4ea5
 page-type-slug: package
 title: "Temper shared interface selector addon"
 slug: temper-shared-interface-selector-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 ---
 

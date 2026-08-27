@@ -3,7 +3,7 @@ id: 810478fd-f54c-521d-8b01-a028658d7545
 page-type-slug: package
 title: "Temper game events addon"
 slug: temper-game-events-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

@@ -3,7 +3,7 @@ id: aa7ee444-2e7b-56b4-a202-dc0355588914
 page-type-slug: package
 title: "Shared status bar access"
 slug: shared-status-bar-access
-repo: code
+repo: akasha
 domain-parent-slug: domain/readout-system
 ---
 

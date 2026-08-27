@@ -3,7 +3,7 @@ id: 653750c2-53a6-50cf-a66b-a72d88e9e7cc
 page-type-slug: package
 title: "Temper game trading post addon"
 slug: temper-game-trading-post-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-player
 ---
 

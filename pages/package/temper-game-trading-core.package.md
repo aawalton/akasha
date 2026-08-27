@@ -3,7 +3,7 @@ id: f297c849-4331-567e-8428-18649d1c3b92
 page-type-slug: package
 title: "Temper game trading core"
 slug: temper-game-trading-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-item
 ---
 

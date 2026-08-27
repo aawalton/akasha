@@ -3,7 +3,7 @@ id: 3c1ef805-d9c3-5748-a369-38abf54cdd4a
 page-type-slug: package
 title: "Shared pages ui"
 slug: shared-pages-ui
-repo: code
+repo: akasha
 domain-parent-slug: domain/pages-system
 required-reading-slugs:
   - domain/browser

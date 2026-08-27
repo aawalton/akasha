@@ -3,7 +3,7 @@ id: 376f53f8-7326-56c8-a13b-150166f1212b
 page-type-slug: package
 title: "Temper game characters equipment ui"
 slug: temper-game-characters-equipment-ui
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-web-catalog
 ---
 

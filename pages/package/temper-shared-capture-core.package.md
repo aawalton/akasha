@@ -3,7 +3,7 @@ id: 91b28b3a-9cdf-5d7e-b155-7bad14099f19
 page-type-slug: package
 title: "Temper shared capture core"
 slug: temper-shared-capture-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 ---
 

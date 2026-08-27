@@ -3,7 +3,7 @@ id: a9b33d21-91bb-5ea5-8a88-da3a8ae605f8
 page-type-slug: package
 title: "Temper game crafting capture addon"
 slug: temper-game-crafting-capture-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

@@ -3,7 +3,7 @@ id: 49afa56c-a85e-544f-a88d-b99d5b7b5408
 page-type-slug: package
 title: "Temper catalog cli"
 slug: temper-catalog-cli
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/ops-temper-catalog
 ---
 

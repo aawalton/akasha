@@ -3,7 +3,7 @@ id: a3d3f35f-b8e0-5fa0-b944-5cee99c916ee
 page-type-slug: package
 title: "Temper game items addon"
 slug: temper-game-items-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-player
 ---
 

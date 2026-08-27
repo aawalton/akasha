@@ -3,7 +3,7 @@ id: 5d0b485a-3752-5a59-a0b7-a993bff68903
 page-type-slug: package
 title: "Shared errors client"
 slug: shared-errors-client
-repo: code
+repo: akasha
 domain-parent-slug: page-type/error
 ---
 

@@ -3,7 +3,7 @@ id: 616fcc87-0c95-5f5a-a022-87d3b1482820
 page-type-slug: package
 title: "Collections exercises"
 slug: collections-exercises
-repo: code
+repo: akasha
 domain-parent-slug: domain/fitness
 ---
 

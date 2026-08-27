@@ -3,7 +3,7 @@ id: 1231496b-c53b-5fd5-adfe-d9b1ba65d470
 page-type-slug: package
 title: "Shared open questions"
 slug: shared-open-questions
-repo: code
+repo: akasha
 domain-parent-slug: page-type/question
 ---
 

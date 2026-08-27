@@ -3,7 +3,7 @@ id: 94f0424f-71b1-551a-8ac2-9105e67526e5
 page-type-slug: package
 title: "Shared verdict"
 slug: shared-verdict
-repo: code
+repo: akasha
 domain-parent-slug: domain/instrument-answer
 ---
 

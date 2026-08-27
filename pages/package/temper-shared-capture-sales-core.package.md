@@ -3,7 +3,7 @@ id: c9053623-1e5a-50d4-90dc-84f61252131d
 page-type-slug: package
 title: "Temper shared capture sales core"
 slug: temper-shared-capture-sales-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-account-item
 ---
 

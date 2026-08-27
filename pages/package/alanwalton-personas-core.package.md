@@ -3,7 +3,7 @@ id: eb461dea-95bd-5a9b-a6be-f715eea7d3d6
 page-type-slug: package
 title: "Alanwalton personas core"
 slug: alanwalton-personas-core
-repo: code
+repo: akasha
 domain-parent-slug: page-type/persona
 ---
 

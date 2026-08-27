@@ -3,7 +3,7 @@ id: 7ed55d36-e44e-537c-8a9a-7dec4492f0ae
 page-type-slug: package
 title: "Temper shared build deploy addons resolve"
 slug: temper-shared-build-deploy-addons-resolve
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 ---
 

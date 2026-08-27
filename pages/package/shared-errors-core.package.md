@@ -3,7 +3,7 @@ id: f10dc6dd-4d61-5350-a650-bb11f280ed45
 page-type-slug: package
 title: "Shared errors core"
 slug: shared-errors-core
-repo: code
+repo: akasha
 domain-parent-slug: page-type/error
 ---
 

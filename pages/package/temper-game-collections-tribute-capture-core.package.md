@@ -3,7 +3,7 @@ id: bde24b6d-a2c0-544e-a3b8-f071c706a0bc
 page-type-slug: package
 title: "Temper game collections tribute capture core"
 slug: temper-game-collections-tribute-capture-core
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

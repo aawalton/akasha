@@ -3,7 +3,7 @@ id: c5b1198e-f214-5add-8fab-b962531eb256
 page-type-slug: package
 title: "Temper shared capture host"
 slug: temper-shared-capture-host
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-eso-files
 conditional-reading-slugs:
   - adopt-capture-reader-contract

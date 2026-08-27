@@ -3,7 +3,7 @@ id: 92c99d77-aa76-5f66-b3b2-418999e251ce
 page-type-slug: package
 title: "Temper game collections antiquities capture addon"
 slug: temper-game-collections-antiquities-capture-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-catalog
 ---
 

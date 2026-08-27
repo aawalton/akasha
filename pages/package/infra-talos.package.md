@@ -3,7 +3,7 @@ id: 477a286e-e266-5de6-a6aa-3ce2cb6bcfc5
 page-type-slug: package
 title: "Infra talos"
 slug: infra-talos
-repo: instructions
+repo: akasha
 domain-parent-slug: domain/node
 ---
 

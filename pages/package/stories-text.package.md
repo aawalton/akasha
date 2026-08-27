@@ -3,7 +3,7 @@ id: 318db212-ccfe-5db6-828c-7fd1d73e79c1
 page-type-slug: package
 title: "Stories text"
 slug: stories-text
-repo: code
+repo: akasha
 domain-parent-slug: domain/narrative-story-chapter
 ---
 

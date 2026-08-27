@@ -3,7 +3,7 @@ id: f495252d-b1d0-5744-9385-f73ddd6d0fec
 page-type-slug: package
 title: "Temper game characters skills morphs addon"
 slug: temper-game-characters-skills-morphs-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-account
 ---
 

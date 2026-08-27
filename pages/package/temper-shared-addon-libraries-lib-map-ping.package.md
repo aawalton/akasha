@@ -3,7 +3,7 @@ id: 138d5124-44e1-5218-9420-15cc938d85e9
 page-type-slug: package
 title: "Temper shared addon libraries lib map ping"
 slug: temper-shared-addon-libraries-lib-map-ping
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-library
 ---
 

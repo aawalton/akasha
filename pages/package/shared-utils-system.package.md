@@ -3,7 +3,7 @@ id: 7071b309-1cde-510b-8064-0d2125de9fde
 page-type-slug: package
 title: "Shared utils system"
 slug: shared-utils-system
-repo: instructions
+repo: akasha
 domain-parent-slug: host/workstation
 ---
 

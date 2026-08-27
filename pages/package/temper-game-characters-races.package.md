@@ -3,7 +3,7 @@ id: 1515cfbf-5aa6-5233-8e93-78518e8a23ca
 page-type-slug: package
 title: "Temper game characters races"
 slug: temper-game-characters-races
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-character
 ---
 

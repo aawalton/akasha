@@ -3,7 +3,7 @@ id: 3a85e586-eea3-521d-a279-7f0489fa31e7
 page-type-slug: package
 title: "Temper shared foundation misc eso paths resolve"
 slug: temper-shared-foundation-misc-eso-paths-resolve
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-eso-files
 ---
 

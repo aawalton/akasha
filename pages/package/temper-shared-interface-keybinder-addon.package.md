@@ -3,7 +3,7 @@ id: 7e186064-0f75-5b64-ae5b-79281ec0ffea
 page-type-slug: package
 title: "Temper shared interface keybinder addon"
 slug: temper-shared-interface-keybinder-addon
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-addons-tooling
 ---
 

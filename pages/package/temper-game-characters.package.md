@@ -3,7 +3,7 @@ id: 3d5f54d8-cc78-535a-a074-cdf6166b83ec
 page-type-slug: package
 title: "Temper game characters"
 slug: temper-game-characters
-repo: code
+repo: akasha
 domain-parent-slug: domain/temper-player-character
 ---
 
