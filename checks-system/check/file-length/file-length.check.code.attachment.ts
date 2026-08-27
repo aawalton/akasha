@@ -1,7 +1,7 @@
 import { relative } from "node:path"
 import { isGeneratedFile } from "../../../generated-file/generated-file.ts"
 import { carriesBytes } from "../../../page/file-kind/carries-bytes.ts"
-import { heldToNoCeiling } from "../../../page/page-type/unbounded.ts"
+import { heldToNoCeiling } from "../../../page/page-type/unsplittable.ts"
 import { decodeUtf8 } from "../../../utf8-body/utf8-body.ts"
 import type { Check } from "../check-shape.ts"
 

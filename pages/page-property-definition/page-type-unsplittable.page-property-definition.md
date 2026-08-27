@@ -6,7 +6,7 @@ defined-on-slug: page-type/page-type
 key: unbounded
 type: boolean
 default: false
-slug: page-type-unbounded
+slug: page-type-unsplittable
 domain-parent-slug: page-type/page-type
 ---
 
