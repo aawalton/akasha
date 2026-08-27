@@ -22,3 +22,5 @@ A file of a kind stating it is unsplittable is not judged.
 A page of a type stating it is unsplittable is not judged.
 
 A file under a `dirty` folder is not judged.
+
+A file under a `data` folder is not judged.
