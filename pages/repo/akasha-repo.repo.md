@@ -38,12 +38,3 @@ Never reach for `-a` to make it one command.
 
 Name the files, never a directory that may grow.
 
-## Root Typecheck
-
-**Typecheck with the root `typecheck` script, and a deployed app from its own directory.**
-
-The root script builds only its referenced projects, so an app outside them reads green unchecked.
-
-Never add a tsconfig to make a bare call work.
-
-A deployed app runs typegen before the compiler.
