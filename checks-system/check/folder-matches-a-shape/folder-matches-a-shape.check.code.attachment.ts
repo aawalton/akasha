@@ -12,6 +12,8 @@ const MOST = 6
 
 const PAGE = ".md"
 
+const DECLARATION = ".d.ts"
+
 const APART = Number.POSITIVE_INFINITY
 
 type Enters = (folder: string, key: string) => boolean
@@ -29,16 +31,29 @@ function stemOf(key: string): string {
 }
 
 /**
- * SINGLE ENTRY — one code file in the folder is imported from outside it, and no other code
- * file anywhere beneath the folder is. `deep` is every code file under a subfolder, so a door
- * one level down disqualifies the folder as surely as a second door beside the first.
+ * The code files among these, which is every one that is not a type declaration.
+ *
+ * A DECLARATION FILE IS NOT A CODE FILE TO THIS SHAPE ALONE. `pages-of-one-type` still counts it
+ * among the files sitting in a folder, so this narrowing belongs here rather than in `foldersHere`.
  */
-function singleEntry(folder: string, one: Held, enters: Enters): Verdict {
-  const shape = "single-entry"
-  const doors = one.code.filter((key) => enters(folder, key))
-  const under = one.deep.filter((key) => enters(folder, key))
+function running(keys: readonly string[]): readonly string[] {
+  return keys.filter((key) => !key.endsWith(DECLARATION))
+}
+
+/**
+ * SINGLE CODE ENTRY — one code file in the folder is imported from outside it, and no other code
+ * file anywhere beneath the folder is. `deep` is every code file under a subfolder, so a door
+ * one level down disqualifies the folder as surely as a second door beside the first. A type
+ * declaration file counts as neither the entry nor a second one.
+ */
+function singleCodeEntry(folder: string, one: Held, enters: Enters): Verdict {
+  const shape = "single-code-entry"
+  const here = running(one.code)
+  const beneath = running(one.deep)
+  const doors = here.filter((key) => enters(folder, key))
+  const under = beneath.filter((key) => enters(folder, key))
   if (doors.length === 1 && under.length === 0) return { shape, ok: true, off: 0, why: "" }
-  const code = one.code.length + one.deep.length
+  const code = here.length + beneath.length
   if (code === 0) return { shape, ok: false, off: APART, why: "it holds no code file at all" }
   if (doors.length === 0 && under.length === 0) {
     return { shape, ok: false, off: 1, why: `nothing outside it imports any of its ${code} code files` }
@@ -119,7 +134,7 @@ export const folderMatchesAShape = {
     for (const folder of [...held.keys()].sort()) {
       const one = held.get(folder) as Held
       if (one.files.length === 0) continue
-      const verdicts = [singleEntry(folder, one, enters), pagesOfOneType(folder, one, types)]
+      const verdicts = [singleCodeEntry(folder, one, enters), pagesOfOneType(folder, one, types)]
       if (verdicts.some((each) => each.ok)) continue
       const [near, far] = [...verdicts].sort((a, b) => a.off - b.off) as [Verdict, Verdict]
       failures.push({
