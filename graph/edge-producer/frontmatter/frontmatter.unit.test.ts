@@ -66,6 +66,37 @@ target-slug: page-type/widget
 - **Widget drawn by** — the widget this one is drawn by.
 `
 
+const WIDGET_CODE = `---
+page-type-slug: page-property-definition
+title: "Widget code"
+slug: widget-code
+defined-on-slug: page-type/widget
+key: code
+type: text
+attachment: ts
+required: true
+---
+
+# Definition
+
+- **Widget code** — the code a widget owns.
+`
+
+const PAGE_NOTES = `---
+page-type-slug: page-property-definition
+title: "Page notes"
+slug: page-notes
+defined-on-slug: page-type/page
+key: notes
+type: text
+attachment: txt
+---
+
+# Definition
+
+- **Page notes** — what is written down beside any page at all.
+`
+
 const TRACKED: Readonly<Record<string, string>> = {
   "pages/page-type/page.page-type.md": BASE_TYPE,
   "pages/page-type/widget.page-type.md": PAGE_TYPE,
@@ -83,6 +114,18 @@ slug: other
 - **Other** — a widget standing where another can name it.
 `,
 }
+
+const DECLARING_CODE: Readonly<Record<string, string>> = {
+  "pages/page-property-definition/widget-code.page-property-definition.md": WIDGET_CODE,
+}
+
+const DECLARING_NOTES: Readonly<Record<string, string>> = {
+  "pages/page-property-definition/page-notes.page-property-definition.md": PAGE_NOTES,
+}
+
+const CODE_BESIDE_ONE = "pages/widget/one.widget.code.attachment.ts"
+
+const NOTES_BESIDE_ONE = "pages/widget/one.widget.notes.attachment.txt"
 
 function repoAt(pages: Readonly<Record<string, string>>, loose: readonly string[] = []): string {
   const root = mkdtempSync(`${SCRATCH}/frontmatter-`)
@@ -125,13 +168,22 @@ function edgesOver(
   return frontmatterEdgeProducer.from(ctx, node)
 }
 
-function within(body: string, run: (root: string) => void, loose: readonly string[] = []): void {
-  const root = repoAt(widgetSaying(body), loose)
+function within(
+  body: string,
+  run: (root: string) => void,
+  loose: readonly string[] = [],
+  beside: Readonly<Record<string, string>> = {}
+): void {
+  const root = repoAt({ ...widgetSaying(body), ...beside }, loose)
   try {
     run(root)
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
+}
+
+function saidBy(edges: readonly EdgeInit[]): readonly string[] {
+  return edges.map((one) => `${one.attrs["relation-key"]} ${one.to.key}`).sort()
 }
 
 test("a file property reaches the file it names", () => {
@@ -229,4 +281,70 @@ test("a file property and a page property each draw their own edge", () => {
       .sort()
     expect(said).toEqual(["drawn-by-slug pages/widget/other.widget.md", "widget-path code/ring.ts"])
   })
+})
+
+test("a declared attachment reaches the file standing beside its page", () => {
+  within(
+    "",
+    (root) => {
+      expect(edgesOver(root)).toEqual([
+        {
+          kind: RELATION_EDGE,
+          from: { repo: REPO, key: "pages/widget/one.widget.md" },
+          to: { repo: REPO, key: CODE_BESIDE_ONE },
+          attrs: { "relation-key": "code" },
+        },
+      ])
+    },
+    [],
+    { ...DECLARING_CODE, [CODE_BESIDE_ONE]: "export const one = 1\n" }
+  )
+})
+
+test("a declared attachment whose file is absent draws no edge", () => {
+  within("", (root) => {
+    expect(edgesOver(root)).toEqual([])
+  }, [], DECLARING_CODE)
+})
+
+test("a declared attachment whose file is untracked draws no edge", () => {
+  within("", (root) => {
+    expect(edgesOver(root)).toEqual([])
+  }, [CODE_BESIDE_ONE], DECLARING_CODE)
+})
+
+test("a page type declaring no attachment draws no attachment edge", () => {
+  within(
+    "",
+    (root) => {
+      expect(edgesOver(root)).toEqual([])
+    },
+    [],
+    { [CODE_BESIDE_ONE]: "export const one = 1\n" }
+  )
+})
+
+test("an attachment declared on a page type above reaches the file beside the page", () => {
+  within(
+    "",
+    (root) => {
+      expect(saidBy(edgesOver(root))).toEqual([`notes ${NOTES_BESIDE_ONE}`])
+    },
+    [],
+    { ...DECLARING_NOTES, [NOTES_BESIDE_ONE]: "a note\n" }
+  )
+})
+
+test("an attachment edge and a frontmatter edge each draw their own", () => {
+  within(
+    "drawn-by-slug: widget/other\n",
+    (root) => {
+      expect(saidBy(edgesOver(root))).toEqual([
+        `code ${CODE_BESIDE_ONE}`,
+        "drawn-by-slug pages/widget/other.widget.md",
+      ])
+    },
+    [],
+    { ...DECLARING_CODE, [CODE_BESIDE_ONE]: "export const one = 1\n" }
+  )
 })
