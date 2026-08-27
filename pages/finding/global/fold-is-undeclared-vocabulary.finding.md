@@ -12,15 +12,13 @@ domain-slug: domain/global
 
 # Evidence
 
-The word stands in five places in the instructions repo alone:
+Re-measured 2026-08-27 in `/var/home/walton/repos/akasha`. The word stands in the tree at:
 
 - `tools/commands/ali/fold.ts`, the body of an ops command
-- `tools/lib/oauth-db-folds.ts`
-- `tools/lib/book-of-everything-coverage-fold.ts`
-- `tools/tests/halt-census-summary-folds.test.ts`
-- `domains/commands/ops-ali-fold.md`, whose Definition reads "computed mastery refolded over the whole Book of Everything, into every node and the dashboard"
+- `tools/lib/book-of-everything-coverage-fold.ts` and `tools/tests/book-of-everything-coverage-fold.test.ts`
+- `pages/old-ops-command/ops-ali-fold.old-ops-command.md:16`, whose Definition reads "computed mastery refolded over the whole Book of Everything, into every node and the dashboard"
 
-No domain declares it. `grep` for a slug of `fold` across `domains/` and `page-types/` returns nothing, and the only bolded term beginning `fold` is `page-types/folder.md`, which declares an unrelated concept: "a domain whose subject is one directory in a repository".
+No domain declares it. `rg -n '^slug: fold$' pages/` returns nothing, and the nearest bolded term is `pages/domain/folder.domain.md:14`, which declares an unrelated concept: "a named container for files and other folders".
 
 That neighbour is what makes this cost something. `fold` and `folder` read as one word and its noun, and they name nothing in common.
 
