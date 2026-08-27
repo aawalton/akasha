@@ -13,6 +13,8 @@ parent-slug: aine-global
 - All services are deployed only using the `ops deploy` command.
 - All files specific to the deploy system are in `akasha/deploy-system/`.
 - A deploy carries one service, never the repository.
+- Every service has a namespace of its own.
+- Every service's manifests are emitted by a synth of its own.
 - Every file whose change could change a service's deploy is reachable from that service through the graph.
 - A service deploys only when its closure has changed.
 - The closure a service was deployed from is cached under `.git/deploy/`.
