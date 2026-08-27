@@ -1,12 +1,12 @@
 import { execFileSync } from "node:child_process"
 import { describe, expect, test } from "bun:test"
-import { CODE, resolveRoots, rootFor } from "../../../../../repo/roots/roots"
+import { AKASHA, resolveRoots, rootFor } from "../../../../../repo/roots/roots"
 import { readAt } from "../../held-snapshot.ts"
 import { discoverTsFiles, readWorkspaces } from "../file/ts-file/discover.ts"
 import { CODE_REPO } from "../../../../../repo/scope/scope.ts"
 import { curatedWorkspaces } from "./curation.ts"
 
-const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), CODE)
+const codeRoot = process.env.WORKSPACE ?? rootFor(resolveRoots(), AKASHA)
 
 const treeSha = execFileSync("git", ["-C", codeRoot, "rev-parse", "HEAD^{tree}"], {
   encoding: "utf-8",
