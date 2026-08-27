@@ -24,13 +24,8 @@
  */
 import { PAGE_QUERY_ORIGIN } from '../../../readouts/ask-over-http.ts';
 import type { Fetcher } from '../features/status-bar/usage';
-import {
-	changeKey,
-	foldSweep,
-	mergeObservation,
-	type Observation,
-	type ObservationPatch,
-} from './observations';
+import { changeKey, type Observation } from "./observations"
+import { foldSweep, mergeObservation, type ObservationPatch } from "./observation-merge";
 
 /**
  * What a caller knows about a sweep it just ran, before the window's history is

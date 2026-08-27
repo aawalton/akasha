@@ -7,15 +7,8 @@ import { repositoryPath, unreachableMessage } from '../../harness-call';
 import { recordObservation } from '../../seat/observation-store';
 import { SEAT_SIDECAR_GLOB, seatDirs } from '../../seat/turn-color';
 import { createSettledRefresh } from '../settled-refresh';
-import {
-	type WorkNode,
-	type WorkTree,
-	countRows,
-	workKeys,
-	readWorkColours,
-	readWorkTree,
-	recolour,
-} from './harness';
+import { type WorkNode, type WorkTree, countRows, workKeys, readWorkColours, readWorkTree } from "./harness"
+import { recolour } from "./colours";
 import { REFRESH_COMMAND, VIEW_ID } from './ids';
 import { createWorkDecorationProvider, createWorkTree } from './tree';
 

@@ -15,7 +15,7 @@ import { columns, forest, output } from './tree-state';
 
 /** The command that opens a seat's transcript, sent rather than called. */
 const OPEN_TRANSCRIPT_COMMAND = 'opsTranscript.open';
-import { ancestorNames } from './forest';
+import { ancestorNames } from "./lookup";
 import { type SeatClick } from './tree';
 import { parseSeatClick } from './invoked-seat';
 

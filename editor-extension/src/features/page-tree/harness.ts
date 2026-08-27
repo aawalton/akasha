@@ -28,8 +28,6 @@ import { PAGE_QUERY_ORIGIN } from '../../../../readouts/ask-over-http.ts';
 import { akashaRoot, instructionsRoot, memoryRoot } from '../../harness-call';
 import { type PageAnswers, type PageNode, type PageTree, type QueryRow, assemblePageTree } from './assemble';
 
-export { assemblePageTree } from './assemble';
-export type { PageAnswers, PageNode, PageTree, QueryRow } from './assemble';
 
 /**
  * The six queries, and which of the four things each answers.

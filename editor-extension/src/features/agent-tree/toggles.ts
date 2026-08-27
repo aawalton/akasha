@@ -117,7 +117,6 @@ export function planPlaceToggle(state: SeatToggleState): readonly SeatStep[] {
 	return place === 'interactive' ? [stated, { kind: 'attach' }] : [stated, { kind: 'detach' }];
 }
 
-export { confirmTurnLoss, type SeatAct, type TurnLossPrompt } from './confirm';
 
 /**
  * What RESET does. It replaces the agent and leaves the seat where it was.

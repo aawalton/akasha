@@ -12,18 +12,8 @@
  * built out of the rows is `assemble.unit.test.ts`.
  */
 import { describe, expect, test } from 'bun:test';
-import {
-	type Fetcher,
-	type PageNode,
-	type QueryRow,
-	assemblePageTree,
-	askQuery,
-	countPages,
-	countRows,
-	documentPath,
-	parseAnswer,
-	readPageTree,
-} from './harness';
+import { type Fetcher, askQuery, countPages, countRows, documentPath, parseAnswer, readPageTree } from "./harness"
+import { type PageNode, type QueryRow, assemblePageTree } from "./assemble";
 
 const REPO = '/home/walton/repos/instructions';
 

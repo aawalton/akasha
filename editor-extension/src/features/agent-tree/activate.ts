@@ -15,18 +15,12 @@ import {
 	type SeatTerminal,
 	tabInstanceIds,
 } from './columns';
-import { type AgentNode, readAgentForest, seatsByName } from './forest';
+import { type AgentNode, readAgentForest } from "./forest"
+import { seatsByName } from "./lookup";
 import { seatTabContext, type SeatTabState } from './seat-tabs';
 import { createSubagentReader } from './subagents';
-import {
-	confirmTurnLoss,
-	planPlaceToggle,
-	planReset,
-	planRunToggle,
-	type SeatAct,
-	type SeatStep,
-	type SeatToggleState,
-} from './toggles';
+import { planPlaceToggle, planReset, planRunToggle, type SeatStep, type SeatToggleState } from "./toggles"
+import { confirmTurnLoss, type SeatAct } from "./confirm";
 import { createAgentDecorationProvider, createAgentTree, REVEAL_TERMINAL_COMMAND } from './tree';
 import { asToggleTarget, invokedSeat } from './invoked-seat';
 import {

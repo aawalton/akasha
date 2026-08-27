@@ -17,17 +17,8 @@
  * would open a path with `null` in it. Both arms are pinned below.
  */
 import { describe, expect, test } from 'bun:test';
-import {
-	type WorkNode,
-	type WorkTree,
-	countRows,
-	documentPath,
-	parseWorkColours,
-	parseWorkTree,
-	workKeys,
-	recolour,
-	rollUp,
-} from './harness';
+import { type WorkNode, type WorkTree, countRows, documentPath, parseWorkColours, parseWorkTree, workKeys } from "./harness"
+import { recolour, rollUp } from "./colours";
 
 const TREE = JSON.stringify({
 	repo: '/home/walton/repos/memory',

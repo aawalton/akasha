@@ -3,7 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import { type AgentNode, ancestorNames, assembleForest, countRunning, readSeatPlaces } from './forest';
+import { type AgentNode, assembleForest, countRunning } from "./forest"
+import { ancestorNames, readSeatPlaces } from "./lookup";
 import { NO_PLACES, NO_SUBAGENTS, row, subagent } from './forest-fixtures';
 import type { HarnessRow } from './harness';
 

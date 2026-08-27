@@ -3,20 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import {
-	buildObservations,
-	changeKey,
-	foldSweep,
-	isLive,
-	mergeObservation,
-	type Observation,
-	OBSERVATIONS_VERSION,
-	observationFor,
-	parseObservations,
-	type SweepObservation,
-	sweepsPayingTheBound,
-	writerOf,
-} from './observations';
+import { buildObservations, changeKey, isLive, type Observation, OBSERVATIONS_VERSION, observationFor, parseObservations, type SweepObservation, sweepsPayingTheBound, writerOf } from "./observations"
+import { foldSweep, mergeObservation } from "./observation-merge";
 
 const HEALTHY: SweepObservation = {
 	swept: 18,

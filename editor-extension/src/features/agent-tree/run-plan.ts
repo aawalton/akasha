@@ -4,7 +4,8 @@
  *--------------------------------------------------------------------------------------------*/
 
 import * as vscode from 'vscode';
-import { confirmTurnLoss, type SeatAct, type SeatStep, type SeatToggleState } from './toggles';
+import { type SeatStep, type SeatToggleState } from "./toggles"
+import { confirmTurnLoss, type SeatAct } from "./confirm";
 import { invokedSeat } from './invoked-seat';
 import { performPlan } from './seat-acts';
 import { output } from './tree-state';

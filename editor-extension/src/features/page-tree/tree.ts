@@ -4,7 +4,8 @@
  *--------------------------------------------------------------------------------------------*/
 import * as vscode from 'vscode';
 import { filterTree, textMatches } from '../tree-filter';
-import { type PageNode, type PageTree, documentPath } from './harness';
+import { documentPath } from "./harness"
+import { type PageNode, type PageTree } from "./assemble";
 
 /**
  * The workbench's own command for opening a resource, as the two trees beside this one use: opening

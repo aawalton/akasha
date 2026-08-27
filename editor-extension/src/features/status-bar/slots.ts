@@ -39,7 +39,6 @@
 import type { SlotDef } from './slot-types';
 import { BLUE_HEX, PURPLE_HEX } from './theme';
 
-export { SEPARATOR_GLYPH, SEPARATOR_HEX } from './theme';
 
 // A usage mean is null when no claude-account PAGE carried the attribute, or when the
 // query that reduces them did not answer; render a dash rather than "NaN%" — and never

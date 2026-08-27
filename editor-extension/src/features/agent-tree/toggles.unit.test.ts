@@ -3,17 +3,8 @@
  *  Licensed under the MIT License. See License.txt in the project root for license information.
  *--------------------------------------------------------------------------------------------*/
 import { describe, expect, test } from 'bun:test';
-import {
-	confirmTurnLoss,
-	planPlaceToggle,
-	planReset,
-	planRunToggle,
-	attachCommandLine,
-	type SeatAct,
-	seatNameAccepted,
-	type SeatStep,
-	type SeatToggleState,
-} from './toggles';
+import { planPlaceToggle, planReset, planRunToggle, attachCommandLine, seatNameAccepted, type SeatStep, type SeatToggleState } from "./toggles"
+import { confirmTurnLoss, type SeatAct } from "./confirm";
 
 const STATES: readonly SeatToggleState[] = [
 	{ running: true, place: 'interactive' },

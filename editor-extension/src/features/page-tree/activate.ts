@@ -6,7 +6,8 @@ import * as vscode from 'vscode';
 import { repositoryPath, unreachableMessage } from '../../harness-call';
 import { recordObservation } from '../../seat/observation-store';
 import { createSettledRefresh } from '../settled-refresh';
-import { type PageNode, countPages, countRows, readPageTree } from './harness';
+import { countPages, countRows, readPageTree } from "./harness"
+import { type PageNode } from "./assemble";
 import { REFRESH_COMMAND, VIEW_ID } from './ids';
 import { createPageTree } from './tree';
 

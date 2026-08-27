@@ -13,7 +13,8 @@ import * as vscode from 'vscode';
 import { recordObservation } from '../../seat/observation-store';
 import { createLegendStore } from './legends';
 import { applyToItems, type FreshAts, type ReadOutcomes, settleReads } from './render';
-import { SEPARATOR_GLYPH, SEPARATOR_HEX, SLOTS } from './slots';
+import { SLOTS } from "./slots"
+import { SEPARATOR_GLYPH, SEPARATOR_HEX } from "./theme";
 import type { StoplightsSection } from './slot-types';
 import { readUsage } from './usage';
 

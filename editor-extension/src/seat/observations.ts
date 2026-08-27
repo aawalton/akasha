@@ -208,7 +208,6 @@ export function writerOfAnyVersion(raw: unknown): WindowIdentity | undefined {
 	};
 }
 
-export { foldSweep, mergeObservation, type ObservationPatch } from './observation-merge';
 
 /** Every `at` in the record, which is what must not be compared. */
 const TIMESTAMP_KEYS = new Set(['at', 'worstAt']);

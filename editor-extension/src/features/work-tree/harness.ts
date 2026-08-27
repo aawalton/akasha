@@ -275,7 +275,6 @@ export function parseWorkColours(stdout: string): WorkColours {
 	return parsed.data;
 }
 
-export { recolour, rollUp } from './colours';
 
 /**
  * Runs the same command as `readWorkTree`, asking only for the half that reads the seat files.

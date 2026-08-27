@@ -315,4 +315,3 @@ function sortByName(nodes: readonly AgentNode[]): readonly AgentNode[] {
 	return [...nodes].sort((a, b) => a.name.localeCompare(b.name));
 }
 
-export { ancestorNames, readSeatPlaces, seatsByName } from './lookup';
