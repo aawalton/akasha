@@ -1,5 +1,6 @@
 ---
 id: 571c28db-b37e-57f8-8179-ca0df19b93fe
+slug: food-unique
 page-type-slug: temper-item-category-tree
 title: Unique
 key: food-unique

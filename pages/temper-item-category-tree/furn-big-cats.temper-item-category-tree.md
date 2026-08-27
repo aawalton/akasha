@@ -1,5 +1,6 @@
 ---
 id: 323be9c3-35ad-5f99-a47a-f5e7fb50beaf
+slug: furn-big-cats
 page-type-slug: temper-item-category-tree
 title: Big Cats
 key: furn-big-cats

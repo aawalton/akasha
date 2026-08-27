@@ -1,5 +1,6 @@
 ---
 id: 5175147f-febc-5ba2-835b-6ff73294f545
+slug: furn-aquatic
 page-type-slug: temper-item-category-tree
 title: Aquatic
 key: furn-aquatic

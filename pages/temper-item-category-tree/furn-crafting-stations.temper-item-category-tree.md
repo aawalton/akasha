@@ -1,5 +1,6 @@
 ---
 id: 2f29347d-e017-579d-a540-ca9893dc6325
+slug: furn-crafting-stations
 page-type-slug: temper-item-category-tree
 title: Crafting Stations
 key: furn-crafting-stations

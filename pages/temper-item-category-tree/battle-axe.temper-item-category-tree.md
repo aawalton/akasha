@@ -1,5 +1,6 @@
 ---
 id: 31a34722-357b-5b43-9c3b-45329bb918ec
+slug: battle-axe
 page-type-slug: temper-item-category-tree
 title: Battle Axe
 key: battle-axe

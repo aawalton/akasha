@@ -1,5 +1,6 @@
 ---
 id: b942a847-3264-5905-9da1-af84932420e1
+slug: furn-desks
 page-type-slug: temper-item-category-tree
 title: Desks
 key: furn-desks

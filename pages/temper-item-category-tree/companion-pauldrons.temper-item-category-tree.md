@@ -1,5 +1,6 @@
 ---
 id: 945fb84a-35cd-512f-97ce-06966c1dd8a1
+slug: companion-pauldrons
 page-type-slug: temper-item-category-tree
 title: Pauldrons
 key: companion-pauldrons

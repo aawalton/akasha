@@ -1,5 +1,6 @@
 ---
 id: 753ce5e4-cfad-597f-b419-b0703f9bfd9e
+slug: furn-cookware
 page-type-slug: temper-item-category-tree
 title: Cookware
 key: furn-cookware

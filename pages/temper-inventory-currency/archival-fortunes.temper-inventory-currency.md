@@ -1,5 +1,6 @@
 ---
 id: 8d923a1a-ebe5-500c-bdb9-fed536ad83d2
+slug: archival-fortunes
 page-type-slug: temper-inventory-currency
 title: Archival Fortunes
 currency-id: archivalFortunes

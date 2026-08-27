@@ -1,5 +1,6 @@
 ---
 id: fcb2ffcb-d1b5-5ea5-b4ea-8eb1b72de74f
+slug: cl-tannins
 page-type-slug: temper-item-category-tree
 title: Tannins
 key: cl-tannins

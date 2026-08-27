@@ -1,5 +1,6 @@
 ---
 id: 91903c13-0844-506c-82f9-0fba2d5c08dd
+slug: bs-furn-mat
 page-type-slug: temper-item-category-tree
 title: Furnishing Materials
 key: bs-furn-mat

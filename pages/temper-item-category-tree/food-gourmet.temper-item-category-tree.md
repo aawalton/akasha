@@ -1,5 +1,6 @@
 ---
 id: ec6ed368-d0a8-51af-90ea-ba0b782d942f
+slug: food-gourmet
 page-type-slug: temper-item-category-tree
 title: Gourmet
 key: food-gourmet

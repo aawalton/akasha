@@ -1,5 +1,6 @@
 ---
 id: c07892c8-bf0b-5800-ad81-bb84fcd996ae
+slug: companion-destruction-staff
 page-type-slug: temper-item-category-tree
 title: Destruction Staff
 key: companion-destruction-staff

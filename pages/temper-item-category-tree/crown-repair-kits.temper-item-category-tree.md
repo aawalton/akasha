@@ -1,5 +1,6 @@
 ---
 id: ccf391c7-7f03-5de7-9ba1-f9370dbdc1b0
+slug: crown-repair-kits
 page-type-slug: temper-item-category-tree
 title: Crown Repair Kits
 key: crown-repair-kits

@@ -1,5 +1,6 @@
 ---
 id: 0f2e80dc-f76d-56cf-be2a-13b8d3aa0cda
+slug: furn-counters
 page-type-slug: temper-item-category-tree
 title: Counters
 key: furn-counters

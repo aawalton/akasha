@@ -1,5 +1,6 @@
 ---
 id: 6defeb9a-7b6a-5965-8176-9a7d0680f1a6
+slug: companion-shield
 page-type-slug: temper-item-category-tree
 title: Shield
 key: companion-shield

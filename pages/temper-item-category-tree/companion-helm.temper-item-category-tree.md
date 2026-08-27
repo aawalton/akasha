@@ -1,5 +1,6 @@
 ---
 id: c7407d96-5bf3-5fe4-a545-184605ae92ef
+slug: companion-helm
 page-type-slug: temper-item-category-tree
 title: Helm
 key: companion-helm

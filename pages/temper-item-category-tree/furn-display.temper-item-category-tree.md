@@ -1,5 +1,6 @@
 ---
 id: 1a203b22-9154-5a77-a603-e41a67e07025
+slug: furn-display
 page-type-slug: temper-item-category-tree
 title: Display
 key: furn-display

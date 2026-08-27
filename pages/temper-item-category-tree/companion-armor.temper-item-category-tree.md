@@ -1,5 +1,6 @@
 ---
 id: 77c74f56-69db-5181-8e19-0de31f6380b1
+slug: companion-armor
 page-type-slug: temper-item-category-tree
 title: Armor
 key: companion-armor

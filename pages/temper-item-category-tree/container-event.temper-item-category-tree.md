@@ -1,5 +1,6 @@
 ---
 id: 68bf87e5-cea9-51e2-a44a-be2708e5165b
+slug: container-event
 page-type-slug: temper-item-category-tree
 title: Event
 key: container-event

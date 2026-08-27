@@ -1,5 +1,6 @@
 ---
 id: 020bd67d-bcd4-56fb-ad46-6a3e42b3b401
+slug: furn-environment
 page-type-slug: temper-item-category-tree
 title: Environment
 key: furn-environment

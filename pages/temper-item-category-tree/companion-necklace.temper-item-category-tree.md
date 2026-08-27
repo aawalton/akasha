@@ -1,5 +1,6 @@
 ---
 id: b778dd2e-eeea-5fa5-9245-c2d4290324bf
+slug: companion-necklace
 page-type-slug: temper-item-category-tree
 title: Necklace
 key: companion-necklace

@@ -1,5 +1,6 @@
 ---
 id: fbd2c2f9-8081-59e0-863b-03958251a822
+slug: collectible-fragments
 page-type-slug: temper-item-category-tree
 title: Collectible Fragments
 key: collectible-fragments

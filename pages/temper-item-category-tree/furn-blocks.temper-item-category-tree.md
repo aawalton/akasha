@@ -1,5 +1,6 @@
 ---
 id: f460b3be-0dec-5307-aae4-4ae12855b7d5
+slug: furn-blocks
 page-type-slug: temper-item-category-tree
 title: Blocks
 key: furn-blocks

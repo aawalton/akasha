@@ -1,5 +1,6 @@
 ---
 id: 5f2717da-e07b-5a40-8e64-41436ac025fd
+slug: companion-bow
 page-type-slug: temper-item-category-tree
 title: Bow
 key: companion-bow

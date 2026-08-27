@@ -1,5 +1,6 @@
 ---
 id: 97483102-3a8f-52b2-8448-05a63b41d98b
+slug: furn-bathing-goods
 page-type-slug: temper-item-category-tree
 title: Bathing Goods
 key: furn-bathing-goods

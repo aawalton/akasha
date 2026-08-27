@@ -1,5 +1,6 @@
 ---
 id: 84a26b41-2b83-5c02-8c06-5ef11c08102e
+slug: companion-mace
 page-type-slug: temper-item-category-tree
 title: Mace
 key: companion-mace

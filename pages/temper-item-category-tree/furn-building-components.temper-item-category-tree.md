@@ -1,5 +1,6 @@
 ---
 id: 2a0d3e1c-2403-5ae7-bb8f-22a400a37f40
+slug: furn-building-components
 page-type-slug: temper-item-category-tree
 title: Building Components
 key: furn-building-components

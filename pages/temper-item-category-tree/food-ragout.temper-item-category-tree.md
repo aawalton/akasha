@@ -1,5 +1,6 @@
 ---
 id: 4426354d-d600-5671-9845-acedebba6ef8
+slug: food-ragout
 page-type-slug: temper-item-category-tree
 title: Ragout
 key: food-ragout

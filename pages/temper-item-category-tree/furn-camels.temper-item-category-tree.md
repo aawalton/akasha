@@ -1,5 +1,6 @@
 ---
 id: 2d4346bf-4e1e-5e55-8a63-8ebd6ca96c7e
+slug: furn-camels
 page-type-slug: temper-item-category-tree
 title: Camels
 key: furn-camels

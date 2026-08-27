@@ -1,5 +1,6 @@
 ---
 id: 23de0abb-66ed-52b9-ba27-2441889b78d2
+slug: furn-art
 page-type-slug: temper-item-category-tree
 title: Art
 key: furn-art

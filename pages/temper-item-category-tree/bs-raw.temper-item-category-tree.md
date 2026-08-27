@@ -1,5 +1,6 @@
 ---
 id: de98170e-c97a-56a9-8430-d8e3689a089e
+slug: bs-raw
 page-type-slug: temper-item-category-tree
 title: Raw Materials
 key: bs-raw

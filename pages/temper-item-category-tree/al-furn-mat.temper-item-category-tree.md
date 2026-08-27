@@ -1,5 +1,6 @@
 ---
 id: 1cab86c3-e443-5e33-8c76-33fb36d53108
+slug: al-furn-mat
 page-type-slug: temper-item-category-tree
 title: Furnishing Materials
 key: al-furn-mat

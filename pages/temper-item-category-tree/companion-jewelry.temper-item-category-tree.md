@@ -1,5 +1,6 @@
 ---
 id: cbff619d-616e-54b3-8326-90d5f14d376c
+slug: companion-jewelry
 page-type-slug: temper-item-category-tree
 title: Jewelry
 key: companion-jewelry

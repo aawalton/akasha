@@ -1,5 +1,6 @@
 ---
 id: 96dd2bd7-1950-5498-8deb-30c48b4bfeb3
+slug: companion-shoes
 page-type-slug: temper-item-category-tree
 title: Shoes
 key: companion-shoes

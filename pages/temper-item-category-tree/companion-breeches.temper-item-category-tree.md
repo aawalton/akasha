@@ -1,5 +1,6 @@
 ---
 id: 8afb7342-48ab-5694-a7ca-30c019d4b972
+slug: companion-breeches
 page-type-slug: temper-item-category-tree
 title: Breeches
 key: companion-breeches

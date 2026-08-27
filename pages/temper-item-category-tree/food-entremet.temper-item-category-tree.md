@@ -1,5 +1,6 @@
 ---
 id: 39548b97-dd6f-584b-b5a9-7bf321d1b096
+slug: food-entremet
 page-type-slug: temper-item-category-tree
 title: Entremet
 key: food-entremet

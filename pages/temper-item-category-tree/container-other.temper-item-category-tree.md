@@ -1,5 +1,6 @@
 ---
 id: 2b777a43-61da-5143-96e6-cd1bd2a56256
+slug: container-other
 page-type-slug: temper-item-category-tree
 title: Other
 key: container-other

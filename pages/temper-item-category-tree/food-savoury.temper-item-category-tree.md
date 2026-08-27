@@ -1,5 +1,6 @@
 ---
 id: db3a0517-8e82-5f15-8ca4-f76e4574de65
+slug: food-savoury
 page-type-slug: temper-item-category-tree
 title: Savoury
 key: food-savoury

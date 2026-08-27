@@ -1,5 +1,6 @@
 ---
 id: 6e43f879-0fd0-5c6a-af17-6de723fad8da
+slug: container-stackable
 page-type-slug: temper-item-category-tree
 title: Stackable
 key: container-stackable

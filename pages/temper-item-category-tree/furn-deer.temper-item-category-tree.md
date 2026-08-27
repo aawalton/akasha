@@ -1,5 +1,6 @@
 ---
 id: 03fc594d-9eb5-5492-bdd4-042c28e65aa4
+slug: furn-deer
 page-type-slug: temper-item-category-tree
 title: Deer
 key: furn-deer
