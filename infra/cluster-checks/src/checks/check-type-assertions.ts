@@ -4,9 +4,9 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type NormalizedFinding,
@@ -15,7 +15,7 @@ import {
 } from "../lib/syntax-scanner-entry.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
 import { type AssertionFinding, scanTypeAssertions } from "../lib/ts-type-assertions.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[type-assertions]"
 

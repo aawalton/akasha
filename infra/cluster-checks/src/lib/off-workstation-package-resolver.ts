@@ -1,5 +1,5 @@
-import { nodeIdPrefix } from "../../../../../instructions/tools/lib/graph/producers/lib/node-id.ts"
-import type { Graph, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { nodeIdPrefix } from "../../../../tools/lib/graph/producers/lib/node-id.ts"
+import type { Graph, NodeId } from "../../../../tools/lib/graph/types.ts"
 import { z } from "zod"
 
 export const PACKAGE_NODE_TYPE = "package"

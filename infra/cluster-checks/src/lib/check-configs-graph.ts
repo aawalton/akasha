@@ -1,4 +1,4 @@
-import type { NodeType } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { NodeType } from "../../../../tools/lib/workflow-dsl/types.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 const TS_POPULATION: readonly NodeType[] = ["ts-file", "tsx-file"]

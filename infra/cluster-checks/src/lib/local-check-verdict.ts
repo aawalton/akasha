@@ -1,5 +1,5 @@
-import type { AnyVerdict, VerdictFinding } from "../../../../../instructions/tools/lib/verdict-channel"
-import { EXIT_TOOL_ERROR } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import type { AnyVerdict, VerdictFinding } from "../../../../tools/lib/verdict-channel"
+import { EXIT_TOOL_ERROR } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 export type LocalCheckStatus = "pass" | "fail" | "skip"
 

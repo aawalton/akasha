@@ -1,6 +1,6 @@
 import { parse } from "yaml"
 import { z } from "zod"
-import type { Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 export const EPOCH_FLOOR = 1_000_000_000
 

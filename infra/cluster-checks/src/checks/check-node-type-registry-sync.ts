@@ -3,11 +3,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import { listTsFiles } from "../lib/ts-file-iteration"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[node-type-registry-sync]"
 

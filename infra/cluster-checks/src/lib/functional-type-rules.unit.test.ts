@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 
-import { FUNCTIONAL_TYPES, type FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import { FUNCTIONAL_TYPES, type FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 import {
   ACT_BY_KIND,
   type Finding,

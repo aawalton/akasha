@@ -3,11 +3,11 @@
 import { spawnSync } from "node:child_process"
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative } from "node:path"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[service-dockerfiles-gitignored]"
 

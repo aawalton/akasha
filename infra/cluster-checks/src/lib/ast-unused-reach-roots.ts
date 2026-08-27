@@ -1,6 +1,6 @@
 import { existsSync, realpathSync } from "node:fs"
 import { isAbsolute, relative, resolve, sep } from "node:path"
-import { examinePopulation, type MembershipBound, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation, type MembershipBound, type Population } from "../../../../tools/lib/check-workflow/population"
 
 export interface CodeReach {
   readonly ref: string

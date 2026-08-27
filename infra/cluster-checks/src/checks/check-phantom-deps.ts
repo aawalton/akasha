@@ -3,9 +3,9 @@
 import { resolve } from "node:path"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadWorkspaces, type WorkspaceData, type WorkspaceGraph } from "./check-phantom-deps-graph.ts"
 import type { PhantomDepViolation } from "./check-phantom-deps-json-contract.ts"
 

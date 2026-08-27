@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
 import {
   type AlertEpochLiteralViolation,
   type AlertRule,
@@ -10,10 +10,10 @@ import {
   scanAlertRule,
 } from "../lib/alert-expr-epoch-literals.ts"
 import { parseArgs } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { HISTORICAL_DEFECT_RULES } from "../lib/promtool-rules.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[alert-expr-epoch-literals]"
 

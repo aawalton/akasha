@@ -1,9 +1,9 @@
-import { defineNodeDeriver } from "../../../../../instructions/tools/lib/graph/define-node-deriver.ts"
+import { defineNodeDeriver } from "../../../../tools/lib/graph/define-node-deriver.ts"
 import {
   ImportStaticAttrsSchema,
   ReExportAttrsSchema,
   TsFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas.ts"
 import {
   IMPORT_DYNAMIC_EDGE_TYPE,
   IMPORT_STATIC_EDGE_TYPE,
@@ -12,8 +12,8 @@ import {
   TS_FILE_NODE_TYPES,
   TSX_FILE_NODE_TYPE,
   type TsFileAttrs,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import type { Edge, Graph, Node, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import type { Edge, Graph, Node, NodeId } from "../../../../tools/lib/graph/types.ts"
 
 const FOLLOWED_EDGE_TYPES = [
   IMPORT_STATIC_EDGE_TYPE,

@@ -1,16 +1,16 @@
 #!/usr/bin/env bun
 
-import { classifyExtension } from "../../../../../instructions/tools/lib/graph/producers/file/file-kind.ts"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { classifyExtension } from "../../../../tools/lib/graph/producers/file/file-kind.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { alanwaltonIosSeamFiles, readAlanwaltonIosSeam } from "../lib/alanwalton-ios-seam.ts"
 import {
   findMissingAuthorizationSite,
   type HealthKitReadOnlyViolation,
   scanHealthKitScript,
 } from "../lib/healthkit-read-only-violations.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 function main(): undefined {
   const repoRoot = getRepoRoot()

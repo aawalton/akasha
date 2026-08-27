@@ -3,10 +3,10 @@
 import { spawnSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { biomePositiveExtensions, parseBiomeIncludes } from "../lib/biome-lint-scope.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
   countTrackedLintable,
   decideLintExit,
@@ -15,7 +15,7 @@ import {
 } from "../lib/lint-verdict-core.ts"
 import { foldLintVerdicts } from "../lib/lint-verdict-fold.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { emitVerdict } from "../../../../../instructions/tools/lib/verdict-channel"
+import { emitVerdict } from "../../../../tools/lib/verdict-channel"
 
 const PREFIX = "[lint-verdict]"
 

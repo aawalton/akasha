@@ -5,14 +5,14 @@ import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { type ChangeClosure, describeClosure, resolveChangeClosure } from "../lib/change-closure.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation, examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   type PorcelainBoundaryViolation,
   scanPorcelainStatusBoundary,
   scanPorcelainStatusBoundaryText,
 } from "../lib/porcelain-status-boundary.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[porcelain-status-boundary]"
 

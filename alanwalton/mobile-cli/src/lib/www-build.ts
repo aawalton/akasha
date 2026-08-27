@@ -5,7 +5,7 @@ import { join } from "node:path"
 import { InputError, OperationalError } from "@shared/errors-core/exit"
 import { type MobileApp, shellRepoRoot, splitRepoPath, stagedWwwRepoPath } from "./apps"
 import { SPA_SOURCE_VAR } from "./sim-www-stage"
-import { codeRoot } from "../../../../../instructions/tools/lib/code-root.ts"
+import { codeRoot } from "../../../../tools/lib/code-root.ts"
 import { fetchOrigin, resolveRef, resolveRepoRoot } from "./git-tree-hash"
 
 function worktreeStands(dir: string, repoRoot: string): boolean {

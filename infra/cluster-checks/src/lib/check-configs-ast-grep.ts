@@ -1,11 +1,11 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths.ts"
 import { parse } from "yaml"
 import { z } from "zod"
-import { type AstGrepRule, type AstGrepWorkspace, parseRuleDoc, planAstGrepWatch } from "../../../../../instructions/tools/lib/check-workflow/ast-grep-rules"
+import { type AstGrepRule, type AstGrepWorkspace, parseRuleDoc, planAstGrepWatch } from "../../../../tools/lib/check-workflow/ast-grep-rules"
 import type { CheckConfig } from "./check-configs-types"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 import { getRepoRoot } from "./repo-root"
 
 const sgconfigSchema = z.looseObject({ ruleDirs: z.array(z.string()).default([]) })

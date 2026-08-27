@@ -2,13 +2,13 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
 import ts from "typescript"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { removalArm, shellArm } from "../lib/tmpfs-scratch-arms.ts"
 import {
@@ -17,7 +17,7 @@ import {
   reconcileTmpfsScratch,
 } from "../lib/tmpfs-scratch-coverage.ts"
 import { scanTmpfsScratch, spellsTmpfsRoot } from "../lib/ts-tmpfs-scratch.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tmpfs-scratch]"
 const CONFIG_FILE = "infra/cluster-checks/src/lib/tmpfs-scratch.config.json"

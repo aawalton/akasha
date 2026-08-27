@@ -2,10 +2,10 @@
 
 import { existsSync } from "node:fs"
 import { parseArgs } from "../lib/cli-args"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { buildWorkflowSurface, scannedFilePaths } from "../lib/workflow-surface/build"
 import { DEFAULT_CACHE_DIR, surfacePath, writeCachedSurface } from "../lib/workflow-surface/write"
 

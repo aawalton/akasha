@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
 
 export interface TstlTsconfig {
   readonly rel: string

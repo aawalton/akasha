@@ -1,7 +1,7 @@
-import type { NodeType } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { NodeType } from "../../../../tools/lib/workflow-dsl/types.ts"
 import { type CheckConfig, treeShaArgs } from "./check-configs-types"
 import { VERIFICATION_SURFACE_CHECKS } from "./check-configs-verification-surface"
-import { PROSE_CARRIER_NODE_TYPES } from "../../../../../instructions/tools/lib/check-workflow/prose-mechanism-restatement"
+import { PROSE_CARRIER_NODE_TYPES } from "../../../../tools/lib/check-workflow/prose-mechanism-restatement"
 
 const TS_POPULATION: readonly NodeType[] = ["ts-file", "tsx-file"]
 const YAML_POPULATION: readonly NodeType[] = ["yaml-file", "yml-file"]

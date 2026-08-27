@@ -1,4 +1,4 @@
-import type { Graph, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { Graph, NodeId } from "../../../../tools/lib/graph/types.ts"
 import { graphNodeId } from "./graph-node-id.ts"
 import { z } from "zod"
 import { isTestFilePath } from "./non-test-population"

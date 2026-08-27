@@ -1,6 +1,6 @@
-import type { NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { NodeId } from "../../../../tools/lib/graph/types.ts"
 import type { CheckConfig } from "./check-configs-types"
-import type { RouterApp } from "../../../../../instructions/tools/lib/check-workflow/router-apps"
+import type { RouterApp } from "../../../../tools/lib/check-workflow/router-apps"
 
 export const CAPACITOR_CHECKS: readonly CheckConfig[] = [
   {

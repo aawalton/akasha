@@ -1,21 +1,21 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   DOCKERFILE_FILE_NODE_TYPE,
   DockerfileFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/dockerfile-file/types.ts"
-import { K8S_RESOURCE_NODE_TYPE } from "../../../../../instructions/tools/lib/graph/producers/k8s/types.ts"
-import { K8sResourceAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/k8s/types-schemas"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/dockerfile-file/types.ts"
+import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
+import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { checkImage } from "../lib/image-tag-rule.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[image-tags]"
 

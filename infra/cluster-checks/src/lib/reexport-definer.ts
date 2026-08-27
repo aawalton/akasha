@@ -1,6 +1,6 @@
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
-import { RE_EXPORT_EDGE_TYPE, tsFileNodeIdToCodeRepoRel } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
+import { RE_EXPORT_EDGE_TYPE, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 
 export type DefinerResult = { readonly moduleId: string; readonly sourceName: string } | null
 

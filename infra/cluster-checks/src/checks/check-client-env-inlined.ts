@@ -8,12 +8,12 @@ import {
   extractDefinedEnvKeys,
   scanClientEnvRefs,
 } from "../lib/client-env-inlined.ts"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { discoverRouterApps } from "../../../../../instructions/tools/lib/check-workflow/router-apps"
-import { extractRouteModulePaths, isServerModulePath, isTestFilePath } from "../../../../../instructions/tools/lib/check-workflow/rr-server-module-imports"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { discoverRouterApps } from "../../../../tools/lib/check-workflow/router-apps"
+import { extractRouteModulePaths, isServerModulePath, isTestFilePath } from "../../../../tools/lib/check-workflow/rr-server-module-imports"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[client-env-inlined]"
 

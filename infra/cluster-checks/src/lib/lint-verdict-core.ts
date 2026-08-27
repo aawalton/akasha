@@ -1,4 +1,4 @@
-import type { VerdictCoverage, VerdictFinding } from "../../../../../instructions/tools/lib/verdict-channel"
+import type { VerdictCoverage, VerdictFinding } from "../../../../tools/lib/verdict-channel"
 import { z } from "zod"
 import { BiomeDiagnosticSchema, lintDiagnosticFindings } from "./lint-verdict-diagnostics.ts"
 

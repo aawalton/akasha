@@ -7,7 +7,7 @@ import { MAC_PATH_PREFIX, shellSingleQuote } from "../lib/foundation"
 import { MACBOOK } from "../lib/host"
 import { runSshCapture } from "../lib/ssh"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
-import { toolArgv } from "../../../../../instructions/tools/lib/tool-argv.ts"
+import { toolArgv } from "../../../../tools/lib/tool-argv.ts"
 
 export const LOCKFILE_NAME = "package-lock.json"
 

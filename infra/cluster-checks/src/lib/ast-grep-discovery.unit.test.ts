@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { discoverRuleFiles, discoverSgconfigs, readAstGrepRules } from "../../../../../instructions/tools/lib/check-workflow/check-configs-ast-grep"
+import { discoverRuleFiles, discoverSgconfigs, readAstGrepRules } from "../../../../tools/lib/check-workflow/check-configs-ast-grep"
 import { getRepoRoot } from "./repo-root.ts"
 
 const repoRoot = getRepoRoot()

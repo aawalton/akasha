@@ -2,10 +2,10 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
 import { parseArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   FIRE_PATH_PROOF_FIXTURE,
   FIRE_PATH_PROOF_RULES,
@@ -19,7 +19,7 @@ import {
 } from "../lib/promtool-rules.ts"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[prometheus-rules]"
 

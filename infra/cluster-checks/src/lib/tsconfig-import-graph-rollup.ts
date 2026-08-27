@@ -1,10 +1,10 @@
-import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, type TsFileAttrs } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
+import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, type TsFileAttrs } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import {
   PACKAGE_NODE_TYPE,
   PackageAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Graph, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Graph, NodeId } from "../../../../tools/lib/graph/types.ts"
 import type { ImportGraphs } from "./tsconfig-import-graph.ts"
 
 const CODE_REPO = "code"

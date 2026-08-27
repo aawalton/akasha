@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import {
   type FieldClassification,
@@ -9,7 +9,7 @@ import {
   parseInterfaceFields,
   type SourceFile,
 } from "../lib/step-config-field-consumption"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const POD_SPEC_SRC: readonly string[] = [
   "packages/infra/ci/orchestrator/src",

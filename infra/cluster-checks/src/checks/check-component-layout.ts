@@ -14,14 +14,14 @@ import {
 } from "../lib/component-layout-boundary.ts"
 import { isCompoundSlotInBoundedFamily } from "../lib/component-slot-detection.ts"
 import { discoverComponentSources, isBareTs, isExcludedSource } from "../lib/component-sources.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { findHeadStylesViolations } from "../lib/head-styles-violations.ts"
 import { extractJsxClassUsagesFrom } from "../lib/jsx-class-tokens.ts"
 import { collectTopLevelComponentNames } from "../lib/jsx-class-tokens-roots.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import type { NormalizedFinding, SyntaxScannerEntry } from "../lib/syntax-scanner-entry.ts"
-import { exitOnResult, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-component-layout]"
 

@@ -1,4 +1,4 @@
-import { EXIT_TOOL_ERROR } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { EXIT_TOOL_ERROR } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 export type CheckRunVerdict = "clean" | "violations" | "tool-error"
 

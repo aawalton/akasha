@@ -9,10 +9,10 @@ import {
   scanFileForColorLiterals,
   shouldScanColorFile,
 } from "../lib/color-literal-scan.ts"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation, examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation, examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-color-literals]"
 

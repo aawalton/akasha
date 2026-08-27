@@ -3,9 +3,9 @@
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
-import { CHECK_EXEMPT_DIRS } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../tools/lib/graph/producers/lib/constants.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type NormalizedFinding,
@@ -18,7 +18,7 @@ import {
   type TimezoneViolation,
 } from "../lib/ts-timezone-violations.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 const PREFIX = "[timezone-handling]"
 
 const TIMEZONE_SUCCESS_MESSAGE =

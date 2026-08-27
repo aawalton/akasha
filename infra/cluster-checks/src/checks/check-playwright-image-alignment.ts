@@ -3,7 +3,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { assertNever } from "@shared/utils-narrow/assert-never"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import {
@@ -12,10 +12,10 @@ import {
   extractMcrPlaywrightVersions,
   type VersionReading,
 } from "../lib/playwright-image-alignment.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
-import { exitOnResult, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 const DEP_TYPES = ["dependencies", "devDependencies", "optionalDependencies"] as const

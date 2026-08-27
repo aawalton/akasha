@@ -2,12 +2,12 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { isScannedTextPath, type RawNulViolation, toRawNulViolations } from "../lib/raw-nul-bytes.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[no-raw-nul-bytes]"
 

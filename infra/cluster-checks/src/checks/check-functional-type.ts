@@ -3,11 +3,11 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { assertNever } from "@shared/utils-narrow/assert-never"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { type FunctionalType, readFunctionalType, workspacePackageJsonPath } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { type FunctionalType, readFunctionalType, workspacePackageJsonPath } from "../../../../tools/lib/check-workflow/functional-type"
 import { type FixpointWorkspace, runFunctionalTypeFixpoint } from "../lib/functional-type-fixpoint.ts"
 import {
   ACT_BY_KIND,
@@ -15,9 +15,9 @@ import {
   findFunctionalTypeViolations,
   type WorkspaceTypeRead,
 } from "../lib/functional-type-rules.ts"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-functional-type]"
 

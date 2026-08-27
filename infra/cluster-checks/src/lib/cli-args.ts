@@ -1,5 +1,5 @@
 import { assertNever } from "@shared/utils-narrow/assert-never"
-import { suggestClosest } from "../../../../../instructions/tools/lib/suggest-closest"
+import { suggestClosest } from "../../../../tools/lib/suggest-closest"
 
 export type FlagSpec =
   | { readonly kind: "boolean"; readonly default?: boolean }

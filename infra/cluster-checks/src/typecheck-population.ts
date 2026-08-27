@@ -3,7 +3,7 @@
 import { existsSync } from "node:fs"
 import { extname, resolve } from "node:path"
 import { parseArgs } from "./lib/cli-args"
-import { errorMessage } from "../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../tools/lib/check-workflow/error-message"
 import { discoverRepoFiles } from "./lib/repo-files.ts"
 import { getRepoRoot } from "./lib/repo-root"
 import {

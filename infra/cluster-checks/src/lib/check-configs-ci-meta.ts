@@ -1,5 +1,5 @@
-import type { NodeType } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
-import type { NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { NodeType } from "../../../../tools/lib/workflow-dsl/types.ts"
+import type { NodeId } from "../../../../tools/lib/graph/types.ts"
 import type { CheckConfig } from "./check-configs-types"
 import { AST_GREP_CHECK } from "./check-configs-ast-grep"
 import { TS_POPULATION, treeShaArgs, WORKFLOW_SURFACE_POPULATION } from "./check-configs-types"

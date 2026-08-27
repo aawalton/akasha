@@ -1,4 +1,4 @@
-import type { NodeType } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { NodeType } from "../../../../tools/lib/workflow-dsl/types.ts"
 
 export const CHECK_WORKFLOW_DISPATCH_NODE_TYPES: readonly NodeType[] = [
   "package",

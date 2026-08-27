@@ -2,10 +2,10 @@
 
 import { realpathSync } from "node:fs"
 import { resolveRoots } from "../../../../repo/roots/roots"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation, examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[git-guard-both-forms]"
 

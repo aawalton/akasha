@@ -1,4 +1,4 @@
-import { detectTestType } from "../../../../../instructions/tools/lib/check-workflow/test-step-paths"
+import { detectTestType } from "../../../../tools/lib/check-workflow/test-step-paths"
 
 const DOM_PRELOAD_RE = /preload\s*=\s*\[[^\]]*happy-?dom[^\]]*\]/im
 

@@ -1,4 +1,4 @@
-import type { VerdictFinding } from "../../../../../instructions/tools/lib/verdict-channel"
+import type { VerdictFinding } from "../../../../tools/lib/verdict-channel"
 import { z } from "zod"
 
 export const BiomeDiagnosticSchema = z

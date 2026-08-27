@@ -12,9 +12,9 @@ import {
 } from "../lib/app-capacitor-parity.ts"
 import { CAPACITOR_PARITY_DIVERGENCES } from "../lib/app-capacitor-parity.divergences.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[app-capacitor-parity]"
 

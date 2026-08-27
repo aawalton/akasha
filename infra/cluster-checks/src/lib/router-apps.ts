@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/router-apps.ts"
+export * from "../../../../tools/lib/check-workflow/router-apps.ts"

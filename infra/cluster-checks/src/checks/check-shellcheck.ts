@@ -1,10 +1,10 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { classifyExtension } from "../../../../../instructions/tools/lib/graph/producers/file/file-kind.ts"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { classifyExtension } from "../../../../tools/lib/graph/producers/file/file-kind.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   formatShellcheckViolation,
@@ -12,7 +12,7 @@ import {
   SHELLCHECK_ARGV,
   type ShellcheckViolation,
 } from "../lib/shellcheck-violations.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[shellcheck]"
 

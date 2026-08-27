@@ -2,9 +2,9 @@
 
 import { existsSync, realpathSync } from "node:fs"
 import { resolve } from "node:path"
-import { opsArgv, opsInvocationOf } from "../../../../instructions/tools/lib/ops-invocation.ts"
+import { opsArgv, opsInvocationOf } from "../../../tools/lib/ops-invocation.ts"
 import { decideCheckExit } from "./lib/run-check-core.ts"
-import { EXIT_TOOL_ERROR } from "../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { EXIT_TOOL_ERROR } from "../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[run-check]"
 

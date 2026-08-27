@@ -1,4 +1,4 @@
-import { codeModuleSync } from "../../../../../../instructions/tools/lib/code-import.ts"
+import { codeModuleSync } from "../../../../../tools/lib/code-import.ts"
 import { expectedPackageName } from "../../../../cluster-checks/src/checks/check-package-names.ts"
 
 const { isCoveredByWorkspaceGlob } = codeModuleSync<{

@@ -2,7 +2,7 @@ import { describe, expect, it } from "bun:test"
 import ts from "typescript"
 import { scanPopulationReadSwallow } from "./ts-population-read-swallow.ts"
 
-const POPULATION_IMPORT = `import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"\n`
+const POPULATION_IMPORT = `import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"\n`
 
 function scan(body: string, opts?: { readonly declaresPopulation?: boolean }) {
   const source = (opts?.declaresPopulation === false ? "" : POPULATION_IMPORT) + body
@@ -103,7 +103,7 @@ for (const p of ps) {
   })
 
   it("fires on a file that imports the general constructor rather than the file one", () => {
-    const body = `import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+    const body = `import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 for (const p of ps) {
   try { readFileSync(p, "utf-8") } catch { continue }
 }

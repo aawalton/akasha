@@ -1,5 +1,5 @@
 import ts from "typescript"
-import type { Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 export type ParityAxis = "root-hosts" | "provider-graph" | "routes" | "render-targets"
 

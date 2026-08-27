@@ -4,9 +4,9 @@ import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { assertNever } from "@shared/utils-narrow/assert-never"
 import ts from "typescript"
-import { listAllAddons } from "../../../../../instructions/tools/lib/check-workflow/addons-resolve.ts"
+import { listAllAddons } from "../../../../tools/lib/check-workflow/addons-resolve.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   collectTypeFamilyEdges,
@@ -15,7 +15,7 @@ import {
   scanTstlThisVoidSelfDrop,
   type TstlThisVoidSelfDropFinding,
 } from "../lib/ts-tstl-this-void-self-drop.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tstl-this-void-self-drop]"
 const AMBIENT_TYPES_REL = "packages/temper/addons/types"

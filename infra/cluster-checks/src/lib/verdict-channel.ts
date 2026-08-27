@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/verdict-channel.ts"
+export * from "../../../../tools/lib/verdict-channel.ts"

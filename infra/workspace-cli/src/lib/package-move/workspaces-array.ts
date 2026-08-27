@@ -1,4 +1,4 @@
-import { codeModuleSync } from "../../../../../../instructions/tools/lib/code-import.ts"
+import { codeModuleSync } from "../../../../../tools/lib/code-import.ts"
 
 const { isCoveredByWorkspaceGlob } = codeModuleSync<{
   isCoveredByWorkspaceGlob: (workspaces: readonly string[], relPath: string) => boolean

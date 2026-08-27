@@ -1,4 +1,4 @@
-import type { VerdictFinding } from "../../../../../instructions/tools/lib/verdict-channel"
+import type { VerdictFinding } from "../../../../tools/lib/verdict-channel"
 import type { ErrorsByCategory, LintEvidence, LintVerdict } from "./lint-verdict-core.ts"
 
 const AGGREGATE_UNIT = "named paths"

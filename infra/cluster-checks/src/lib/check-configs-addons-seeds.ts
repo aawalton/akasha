@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import type { ScopedNodeTypePopulation } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { ScopedNodeTypePopulation } from "../../../../tools/lib/workflow-dsl/types.ts"
 import { listAllAddons } from "@temper/shared-build-deploy-addons-resolve"
 import { z } from "zod"
 

@@ -4,8 +4,8 @@ import {
   inputsHash12,
   toShortSha7,
   treeSha40,
-} from "../../../../../instructions/tools/lib/workflow-dsl/ci-identifiers.ts"
-import { discoverWorkflows } from "../../../../../instructions/tools/lib/workflow-dsl/discovery.ts"
+} from "../../../../tools/lib/workflow-dsl/ci-identifiers.ts"
+import { discoverWorkflows } from "../../../../tools/lib/workflow-dsl/discovery.ts"
 import { z } from "zod"
 
 const SOURCE_CAPTURE = z.tuple([z.string(), z.string()])

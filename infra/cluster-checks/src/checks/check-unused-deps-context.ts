@@ -1,22 +1,22 @@
 import { execFileSync } from "node:child_process"
 import { resolve } from "node:path"
 import { z } from "zod"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   LOCKFILE_RESOLVES_EDGE_TYPE,
   LockfilePackageAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/lockfile-package/types.ts"
+} from "../../../../tools/lib/graph/producers/lockfile-package/types.ts"
 import {
   PACKAGE_NODE_TYPE,
   type PackageAttrs,
   PackageAttrsSchema,
   type PkgDependsKind,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Graph, Node } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import type { CliArgs, RepoContext, WorkspaceInfo } from "./check-unused-deps-types.ts"
 import { usageByWorkspace } from "./check-unused-deps-usage.ts"
 

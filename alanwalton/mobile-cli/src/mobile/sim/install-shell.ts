@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { InputError } from "@shared/errors-core/exit"
-import { codeRoot } from "../../../../../../instructions/tools/lib/code-root.ts"
+import { codeRoot } from "../../../../../tools/lib/code-root.ts"
 import { macWwwStagingDir, type MobileApp, shellRepoRoot, stagedWwwRepoPath } from "../../lib/apps"
 import { resolveRepoRoot } from "../../lib/git-tree-hash"
 import { MACBOOK } from "../../lib/host"

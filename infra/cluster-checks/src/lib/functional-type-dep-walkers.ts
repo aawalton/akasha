@@ -1,4 +1,4 @@
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 import { scanWorkspaceImportsOfSpecifier } from "./functional-type-import-scan.ts"
 import { isWorkspaceDepCoveredByAllowlist } from "./functional-type-purity-allowlist.ts"
 import type { PackageJsonShape } from "./functional-type-shapes.ts"

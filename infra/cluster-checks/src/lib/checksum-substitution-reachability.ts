@@ -1,5 +1,5 @@
-import { checksumKeysSubstitutedIn } from "../../../../../instructions/tools/lib/check-workflow/checksum-annotation-substitution"
-import type { Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { checksumKeysSubstitutedIn } from "../../../../tools/lib/check-workflow/checksum-annotation-substitution"
+import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 export interface ChecksumSubstitutionStep {
   readonly workflow: string

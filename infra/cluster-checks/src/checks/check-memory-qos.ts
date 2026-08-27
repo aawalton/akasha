@@ -1,16 +1,16 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { K8S_RESOURCE_NODE_TYPE } from "../../../../../instructions/tools/lib/graph/producers/k8s/types.ts"
-import { K8sResourceAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/k8s/types-schemas"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
+import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[memory-qos]"
 

@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/checksum-annotation-substitution.ts"
+export * from "../../../../tools/lib/check-workflow/checksum-annotation-substitution.ts"

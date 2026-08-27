@@ -3,17 +3,17 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { join, resolve } from "node:path"
 import { z } from "zod"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths.ts"
 import {
   type CoverageConfig,
   OUT_OF_SCOPE_PREDICATES,
   reconcileCoverage,
 } from "../lib/ast-unused-coverage"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[ast-unused-coverage]"
 const CONFIG_FILE = "ast-unused.config.json"

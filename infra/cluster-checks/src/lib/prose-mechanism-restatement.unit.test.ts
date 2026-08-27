@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { applyRatchet, carriesProse, findRestatements, nextRatchet, PROSE_CARRIER_KINDS, restatementCarrier, restatementKey, UNLEXED_KINDS } from "../../../../../instructions/tools/lib/check-workflow/prose-mechanism-restatement"
+import { applyRatchet, carriesProse, findRestatements, nextRatchet, PROSE_CARRIER_KINDS, restatementCarrier, restatementKey, UNLEXED_KINDS } from "../../../../tools/lib/check-workflow/prose-mechanism-restatement"
 
 const DOC = `
 # A doc

@@ -17,10 +17,10 @@ import {
   INSTRUCTIONS_MIRROR_DIR,
   MIRROR_GENERATORS,
 } from "../lib/codegen-type-identity-pairs.ts"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[codegen-type-identity-drift]"
 const SUCCESS_MESSAGE =

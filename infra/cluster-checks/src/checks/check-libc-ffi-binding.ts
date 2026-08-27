@@ -4,11 +4,11 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { type LibcSonameFinding, scanLibcSonameBindings } from "../lib/libc-ffi-binding.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import type { NormalizedFinding, SyntaxScannerEntry } from "../lib/syntax-scanner-entry.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[libc-ffi-binding]"
 

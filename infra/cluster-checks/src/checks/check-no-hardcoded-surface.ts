@@ -1,27 +1,27 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   IMPORT_DYNAMIC_EDGE_TYPE,
   IMPORT_STATIC_EDGE_TYPE,
   RE_EXPORT_EDGE_TYPE,
   TS_FILE_NODE_TYPES,
   tsFileNodeIdToCodeRepoRel,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   declaresSurfaceHelper,
   findSurfaceLiteralSites,
   isTestFilePath,
 } from "../lib/surface-literal-sites.ts"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-no-hardcoded-surface]"
 

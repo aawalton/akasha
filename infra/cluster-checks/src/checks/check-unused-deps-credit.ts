@@ -1,5 +1,5 @@
-import { LockfilePackageAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/lockfile-package/types.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { LockfilePackageAttrsSchema } from "../../../../tools/lib/graph/producers/lockfile-package/types.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import type {
   EffectiveUsage,
   Finding,

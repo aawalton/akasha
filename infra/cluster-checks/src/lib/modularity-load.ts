@@ -1,5 +1,5 @@
 import type { DirectedEdge, DirectedGraph, Partition, SimpleGraph } from "./modularity"
-import { loadWorkspaces } from "../../../../../instructions/tools/lib/check-workflow/test-step-loader"
+import { loadWorkspaces } from "../../../../tools/lib/check-workflow/test-step-loader"
 
 const PACKAGES_PREFIX = "packages/"
 

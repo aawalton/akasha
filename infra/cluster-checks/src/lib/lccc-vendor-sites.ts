@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/lccc-vendor-sites.ts"
+export * from "../../../../tools/lib/check-workflow/lccc-vendor-sites.ts"

@@ -1,4 +1,4 @@
-import { FUNCTIONAL_TYPES, type FunctionalType, type ReadFunctionalTypeResult } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import { FUNCTIONAL_TYPES, type FunctionalType, type ReadFunctionalTypeResult } from "../../../../tools/lib/check-workflow/functional-type"
 
 export interface WorkspaceTypeRead {
   readonly path: string

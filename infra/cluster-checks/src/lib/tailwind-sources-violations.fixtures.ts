@@ -1,17 +1,17 @@
-import { createGraph } from "../../../../../instructions/tools/lib/graph/graph.ts"
+import { createGraph } from "../../../../tools/lib/graph/graph.ts"
 import {
   type CssDirective,
   type CssFileAttrs,
   cssFileNodeId,
-} from "../../../../../instructions/tools/lib/graph/producers/file/css-file/types.ts"
+} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
 import {
   type PackageAttrs,
   PKG_DEPENDS_EDGE_TYPE,
   type PkgDependsAttrs,
   type PkgDependsKind,
   packageNodeId,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Edge, Node } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Edge, Node } from "../../../../tools/lib/graph/types.ts"
 import {
   enumerateTailwindApps,
   examineTailwindApp,

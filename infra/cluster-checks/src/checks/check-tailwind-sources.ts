@@ -1,23 +1,23 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   CSS_FILE_NODE_TYPE,
   CssFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/css-file/types.ts"
-import { TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas.ts"
-import { TSX_FILE_NODE_TYPE } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
+} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
+import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas.ts"
+import { TSX_FILE_NODE_TYPE } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import {
   PACKAGE_NODE_TYPE,
   PackageAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   enumerateTailwindApps,
   enumerateTailwindCandidates,
@@ -25,7 +25,7 @@ import {
   type TailwindApp,
   type TailwindSourceViolation,
 } from "../lib/tailwind-sources-violations.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tailwind-sources]"
 

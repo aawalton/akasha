@@ -4,7 +4,7 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type NormalizedFinding,
@@ -16,7 +16,7 @@ import {
   scanTstlObjectLiteralSelf,
   type TstlObjectLiteralSelfFinding,
 } from "../lib/ts-tstl-object-literal-self.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tstl-object-literal-self]"
 

@@ -1,22 +1,22 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { createGraph } from "../../../../../instructions/tools/lib/graph/graph.ts"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, type TsFileAttrs } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { ImportStaticAttrsSchema, ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
+import { createGraph } from "../../../../tools/lib/graph/graph.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, type TsFileAttrs } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { ImportStaticAttrsSchema, ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import {
   TSCONFIG_FILE_NODE_TYPE,
   TsconfigFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/tsconfig-file/types.ts"
-import { findCycles } from "../../../../../instructions/tools/lib/graph/queries/cycles.ts"
-import type { Edge, Graph, Node, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/tsconfig-file/types.ts"
+import { findCycles } from "../../../../tools/lib/graph/queries/cycles.ts"
+import type { Edge, Graph, Node, NodeId } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { DEFAULT_ADAPTERS, roleFor } from "../lib/ts-adapter-roles.ts"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-acyclic-imports]"
 

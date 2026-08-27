@@ -8,7 +8,7 @@ import {
 } from "./lib/local-check-verdict"
 import { getRepoRoot } from "./lib/repo-root"
 import { routedCheckArgv } from "./lib/run-check-routing"
-import { emitVerdict } from "../../../../instructions/tools/lib/verdict-channel"
+import { emitVerdict } from "../../../tools/lib/verdict-channel"
 
 const ROOT = getRepoRoot()
 

@@ -4,8 +4,8 @@ import {
   inputsHash12,
   shortSha7,
   treeSha40,
-} from "../../../../../../instructions/tools/lib/workflow-dsl/ci-identifiers.ts"
-import type { CIContext, Workflow } from "../../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+} from "../../../../../tools/lib/workflow-dsl/ci-identifiers.ts"
+import type { CIContext, Workflow } from "../../../../../tools/lib/workflow-dsl/types.ts"
 
 const WorkflowKindSchema = z.enum(["preparation", "foundation", "checks", "apps", "cleanup"])
 

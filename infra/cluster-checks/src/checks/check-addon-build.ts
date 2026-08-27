@@ -8,23 +8,23 @@ import {
   closureFilesForDeployable,
   deployableSeeds,
   missingSeeds,
-} from "../../../../../instructions/tools/lib/check-workflow/addon-build-cache.ts"
+} from "../../../../tools/lib/check-workflow/addon-build-cache.ts"
 import {
   type AddonInfo,
   type DeployableInfo,
   listAllAddons,
-} from "../../../../../instructions/tools/lib/check-workflow/addons-resolve.ts"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/check-workflow/addons-resolve.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { ownRepoRoot, resolveRoots } from "../../../../repo/roots/roots"
-import { computeInputsHashAcrossRepos } from "../../../../../instructions/tools/lib/workflow-dsl/inputs-hash.ts"
+import { computeInputsHashAcrossRepos } from "../../../../tools/lib/workflow-dsl/inputs-hash.ts"
 import {
   addonBuildPopulationLine,
   addonBuildTally,
   type DeployableOutcome,
 } from "../lib/addon-build-population.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 
 const PREFIX = "[addon-build]"
 const ADDONS_DIST_REL = "packages/temper/addons/dist"

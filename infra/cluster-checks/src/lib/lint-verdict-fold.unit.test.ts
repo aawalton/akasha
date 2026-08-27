@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { type AnyVerdict, verdictFindingLines, verdictHeadline } from "../../../../../instructions/tools/lib/verdict-channel"
+import { type AnyVerdict, verdictFindingLines, verdictHeadline } from "../../../../tools/lib/verdict-channel"
 
 function renderVerdict(verdict: AnyVerdict): string {
   return [verdictHeadline(verdict), ...verdictFindingLines(verdict)].join("\n")

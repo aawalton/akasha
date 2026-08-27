@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/error-message.ts"
+export * from "../../../../tools/lib/check-workflow/error-message.ts"

@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/functional-type.ts"
+export * from "../../../../tools/lib/check-workflow/functional-type.ts"

@@ -1,17 +1,17 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { TS_FILE_NODE_TYPES } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
-import { K8S_RESOURCE_NODE_TYPE } from "../../../../../instructions/tools/lib/graph/producers/k8s/types.ts"
-import { K8sResourceAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/k8s/types-schemas"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { TS_FILE_NODE_TYPES } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
+import { K8S_RESOURCE_NODE_TYPE } from "../../../../tools/lib/graph/producers/k8s/types.ts"
+import { K8sResourceAttrsSchema } from "../../../../tools/lib/graph/producers/k8s/types-schemas"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
   ACCEPTED_SELECTOR_KEYS_HUMAN,
   evaluateManifestNode,
@@ -20,8 +20,8 @@ import {
   scanTsNodeName,
   type Violation,
 } from "../lib/k8s-node-selector.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[k8s-node-selector]"
 

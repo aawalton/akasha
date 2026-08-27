@@ -1,7 +1,7 @@
 import { join } from "node:path"
 import type { AddonInfo } from "@temper/shared-build-deploy-addons-resolve"
 import type { DeployableInfo } from "@temper/shared-build-deploy-addons-resolve/deployables"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { BUILD_TOOLING_SEEDS, packageSeedForAddonDir } from "./check-configs-addons-seeds"
 import { importGraphClosureFiles } from "./workflow-seed-files"
 

@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { type AstGrepRule, decideRuleOutcome, deriveRulePopulations, duplicateRuleIds, globLiteralPrefix, normalizeLanguage, parseRuleDoc, parseWalkedEntities, planAstGrepWatch, reconcilePopulations, stripInspectTrace } from "../../../../../instructions/tools/lib/check-workflow/ast-grep-rules"
+import { type AstGrepRule, decideRuleOutcome, deriveRulePopulations, duplicateRuleIds, globLiteralPrefix, normalizeLanguage, parseRuleDoc, parseWalkedEntities, planAstGrepWatch, reconcilePopulations, stripInspectTrace } from "../../../../tools/lib/check-workflow/ast-grep-rules"
 
 const aRule = (over: Partial<AstGrepRule> & { id: string }): AstGrepRule => ({
   path: `packages/x/rules/${over.id}.yml`,

@@ -2,16 +2,16 @@ import {
   CSS_FILE_NODE_TYPE,
   CssFileAttrsSchema,
   cssFileNodeId,
-} from "../../../../../instructions/tools/lib/graph/producers/file/css-file/types.ts"
+} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
 import {
   PACKAGE_NODE_TYPE,
   PackageAttrsSchema,
   packageNodeId,
   PKG_DEPENDS_EDGE_TYPE,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import { transitiveClosure } from "../../../../../instructions/tools/lib/graph/queries/transitive.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
-import type { Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import { transitiveClosure } from "../../../../tools/lib/graph/queries/transitive.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
+import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const CODE_REPO = "code"
 

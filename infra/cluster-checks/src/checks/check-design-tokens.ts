@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { readdirSync, readFileSync } from "node:fs"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
 import {
   type ColorToken,
@@ -16,9 +16,9 @@ import {
   type Rgb,
   type TokenSpec,
 } from "../lib/design-token-parity.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[design-tokens]"
 

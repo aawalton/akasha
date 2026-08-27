@@ -2,20 +2,20 @@
 
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   YAML_FILE_NODE_TYPES,
   YamlFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/yaml-file/types.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/yaml-file/types.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { findOrphans, type SourceFile } from "../lib/yaml-usage.ts"
 
 const PREFIX = "[yaml-usage]"

@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { loadWorkspaces } from "../../../../../instructions/tools/lib/check-workflow/test-step-loader.ts"
+import { loadWorkspaces } from "../../../../tools/lib/check-workflow/test-step-loader.ts"
 import { walkPackageTree } from "./walk-package-tree.ts"
 
 const SKIP_DIR_NAMES: readonly string[] = ["node_modules", "dist", ".next"]

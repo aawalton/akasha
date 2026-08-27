@@ -2,11 +2,11 @@
 
 import { existsSync } from "node:fs"
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { CHECK_EXEMPT_DIRS } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../tools/lib/graph/producers/lib/constants.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import {
   classify,
@@ -17,8 +17,8 @@ import {
   repairKind,
   type TestType,
 } from "../lib/test-classification"
-import { exitOnResult, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
-import { TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types"
+import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types"
 
 interface TestClassificationViolation extends Violation {
   file: string

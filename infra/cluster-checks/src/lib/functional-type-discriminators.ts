@@ -1,4 +1,4 @@
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 import { hasIoWorkspaceDep, hasOnlyPureWorkspaceDeps } from "./functional-type-dep-walkers.ts"
 import { passesPurityScan } from "./functional-type-purity-scan.ts"
 import {

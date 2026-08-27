@@ -1,5 +1,5 @@
 import type { CheckConfig } from "./check-configs-types"
-import { PAYLOAD_MIRRORS } from "../../../../../instructions/tools/lib/check-workflow/widget-payload-shape-mirror"
+import { PAYLOAD_MIRRORS } from "../../../../tools/lib/check-workflow/widget-payload-shape-mirror"
 
 const CANONICAL_SEEDS: readonly string[] = [
   ...new Set(PAYLOAD_MIRRORS.map((mirror) => `ts-file:code:${mirror.canonical.file}`)),

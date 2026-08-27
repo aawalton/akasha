@@ -1,7 +1,7 @@
 import { relative, resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeId } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types"
-import { ImportDynamicAttrsSchema, ImportStaticAttrsSchema, ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeId } from "../../../../tools/lib/graph/producers/file/ts-file/types"
+import { ImportDynamicAttrsSchema, ImportStaticAttrsSchema, ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 import { DEFAULT_ADAPTERS } from "./ast-unused-adapters"
 import { matchAny, roleFor } from "./ts-import-graph-globs"
 import type {

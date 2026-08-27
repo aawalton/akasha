@@ -1,6 +1,6 @@
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
-import { RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPE, TSX_FILE_NODE_TYPE } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
+import { RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPE, TSX_FILE_NODE_TYPE } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { ReExportAttrsSchema, TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
 
 const isTsSourceNodeType = (type: string): boolean =>
   type === TS_FILE_NODE_TYPE || type === TSX_FILE_NODE_TYPE

@@ -3,15 +3,15 @@
 import { relative } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type ClientPageAccessFinding,
   type ClientPageAccessKind,
   scanClientPageAccess,
 } from "../lib/ts-client-page-access.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[client-page-access-boundary]"
 

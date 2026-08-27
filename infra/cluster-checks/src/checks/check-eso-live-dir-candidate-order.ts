@@ -12,9 +12,9 @@ import {
   findTsCandidateOrderViolations,
   scanRustSource,
 } from "../lib/eso-live-dir-candidate-order.ts"
-import { examineFilePopulation, type Population, populationCertifies } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation, type Population, populationCertifies } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[eso-live-dir-candidate-order]"
 const TS_SOURCE = "temper/shared-foundation-misc-eso-paths--from-instructions/src/eso-paths.ts"

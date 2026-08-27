@@ -1,4 +1,4 @@
-import { IMAGES } from "../../../../../instructions/tools/lib/workflow-dsl/images.ts"
+import { IMAGES } from "../../../../tools/lib/workflow-dsl/images.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 export const SHELL_CHECKS: CheckConfig[] = [

@@ -3,7 +3,7 @@ import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
 
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 import { inferFunctionalType } from "./functional-type-discriminators.ts"
 import type { PackageJsonShape } from "./functional-type-shapes.ts"
 

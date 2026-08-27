@@ -11,9 +11,9 @@ import {
   findHealthSamplesStreamViolations,
   type HealthSamplesStreamViolation,
 } from "../lib/health-samples-stream-violations.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 function main(): undefined {
   const repoRoot =

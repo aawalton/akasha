@@ -10,9 +10,9 @@ import {
   type EsoFalseGlobalFinding,
   findFalseGlobalDecls,
 } from "../lib/eso-global-decl-consistency.ts"
-import { examineFilePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[eso-global-decl-consistency]"
 const ESO_REL = "packages/temper/addons/types/eso"

@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+export * from "../../../../tools/lib/check-workflow/workspace-paths.ts"

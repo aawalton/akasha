@@ -1,26 +1,26 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import type { z } from "zod"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
-import { createEngine } from "../../../../../instructions/tools/lib/graph/engine.ts"
-import { readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { fileNodeProducer } from "../../../../../instructions/tools/lib/graph/producers/file/file.node.producer.ts"
-import { TS_FILE_NODE_TYPE, type TsFileAttrs } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { workspaceDirsAt } from "../../../../../instructions/tools/lib/graph/producers/lib/workspace-dirs.ts"
-import { packageNodeProducer } from "../../../../../instructions/tools/lib/graph/producers/package/package.node.producer.ts"
-import { extractPackageName } from "../../../../../instructions/tools/lib/graph/producers/package/scanner-helpers.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
+import { createEngine } from "../../../../tools/lib/graph/engine.ts"
+import { readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { fileNodeProducer } from "../../../../tools/lib/graph/producers/file/file.node.producer.ts"
+import { TS_FILE_NODE_TYPE, type TsFileAttrs } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { workspaceDirsAt } from "../../../../tools/lib/graph/producers/lib/workspace-dirs.ts"
+import { packageNodeProducer } from "../../../../tools/lib/graph/producers/package/package.node.producer.ts"
+import { extractPackageName } from "../../../../tools/lib/graph/producers/package/scanner-helpers.ts"
 import {
   PACKAGE_NODE_TYPE,
   PackageAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
 import {
   applyRegistrars,
   PRODUCERS_DIR,
   registrarPaths,
-} from "../../../../../instructions/tools/lib/graph/snapshot.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/snapshot.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import {
   BUN_GLOBALS,
   DEP_FIELDS,

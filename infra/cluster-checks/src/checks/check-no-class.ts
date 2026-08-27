@@ -5,9 +5,9 @@ import { resolve } from "node:path"
 import ts from "typescript"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 
 const LualibMatchSchema = z.union([z.tuple([z.string(), z.string()]).rest(z.string()), z.null()])
 
@@ -19,7 +19,7 @@ import {
 } from "../lib/syntax-scanner-entry.ts"
 import { type ClassFinding, scanClassDeclarations } from "../lib/ts-class-declarations.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[no-class]"
 

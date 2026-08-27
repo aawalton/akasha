@@ -2,9 +2,9 @@ import { resolveRoots } from "../../../../../repo/roots/roots"
 import {
   discoverWorkflows,
   workflowPages,
-} from "../../../../../../instructions/tools/lib/workflow-dsl/discovery.ts"
-import type { DiscoveredWorkflow, Step } from "../../../../../../instructions/tools/lib/workflow-dsl/types.ts"
-import { errorMessage } from "../../../../../../instructions/tools/lib/check-workflow/error-message"
+} from "../../../../../tools/lib/workflow-dsl/discovery.ts"
+import type { DiscoveredWorkflow, Step } from "../../../../../tools/lib/workflow-dsl/types.ts"
+import { errorMessage } from "../../../../../tools/lib/check-workflow/error-message"
 import {
   PROBE_CONTEXT_IDS,
   PROBE_CONTEXTS,

@@ -1,18 +1,18 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { type BarrelRebindingFinding, findBarrelRebindingViolations } from "../lib/barrel-rebinding.ts"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import { type FetchSeamLeakFinding, findFetchSeamLeakViolations } from "../lib/fetch-seam-leak.ts"
 import { buildMockLeakContext, type MockLeakContext, slotKeyOf } from "../lib/mock-module-leak-context.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 
 const PREFIX = "[mock-module-leak]"

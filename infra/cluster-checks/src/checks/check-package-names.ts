@@ -1,12 +1,12 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { z } from "zod"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PACKAGE_JSON_SCHEMA = z.record(z.string(), z.unknown())
 

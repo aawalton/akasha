@@ -1,6 +1,6 @@
-import { IMAGES } from "../../../instructions/tools/lib/workflow-dsl/images"
-import { step } from "../../../instructions/tools/lib/workflow-dsl/step"
-import { workflow } from "../../../instructions/tools/lib/workflow-dsl/workflow"
+import { IMAGES } from "../../tools/lib/workflow-dsl/images"
+import { step } from "../../tools/lib/workflow-dsl/step"
+import { workflow } from "../../tools/lib/workflow-dsl/workflow"
 
 export default workflow("domain-expiry-probe", {
   kind: "foundation",

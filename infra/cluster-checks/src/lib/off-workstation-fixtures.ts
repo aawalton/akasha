@@ -1,5 +1,5 @@
-import { createEngine } from "../../../../../instructions/tools/lib/graph/engine.ts"
-import type { EdgeInit, Graph, NodeInit } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { createEngine } from "../../../../tools/lib/graph/engine.ts"
+import type { EdgeInit, Graph, NodeInit } from "../../../../tools/lib/graph/types.ts"
 import type { ReachPolicy } from "./off-workstation-reach"
 
 const FIXTURE_COMMIT = "0".repeat(40)

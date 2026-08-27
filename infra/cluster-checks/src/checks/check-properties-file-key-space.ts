@@ -3,8 +3,8 @@
 import { existsSync, readFileSync } from "node:fs"
 import { relative } from "node:path"
 import { parseArgs } from "../lib/cli-args.ts"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import {
   CANARY_FIXTURE,
   canaryDisagreement,
@@ -15,7 +15,7 @@ import {
 } from "../lib/properties-file-key-space.ts"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[properties-file-key-space]"
 

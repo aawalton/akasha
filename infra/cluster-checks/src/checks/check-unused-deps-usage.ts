@@ -1,12 +1,12 @@
 import {
   CSS_FILE_NODE_TYPE,
   CssFileAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/css-file/types.ts"
-import { TS_FILE_NODE_TYPES } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { TsFileAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
-import { extractPackageName } from "../../../../../instructions/tools/lib/graph/producers/package/scanner-helpers.ts"
-import { PackageAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
+import { TS_FILE_NODE_TYPES } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { TsFileAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
+import { extractPackageName } from "../../../../tools/lib/graph/producers/package/scanner-helpers.ts"
+import { PackageAttrsSchema } from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import type { WorkspaceInfo, WorkspaceUsage } from "./check-unused-deps-types.ts"
 
 interface FileUsage {

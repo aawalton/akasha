@@ -2,19 +2,19 @@
 
 import { readFileSync, writeFileSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths.ts"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root"
 import {
   deriveTstlPluginEmits,
   findStaleTstlPlugins,
   type TstlPluginDrift,
 } from "../lib/tstl-plugin-emit"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tstl-plugin-emit-fresh]"
 const SUCCESS_MESSAGE = "Every TSTL plugin `.js` is the fresh transpile of its `.ts` source."

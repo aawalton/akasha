@@ -1,13 +1,13 @@
 import { describe, expect, test } from "bun:test"
-import { createGraph } from "../../../../../instructions/tools/lib/graph/graph.ts"
+import { createGraph } from "../../../../tools/lib/graph/graph.ts"
 import {
   CSS_FILE_NODE_TYPE,
   type CssFileAttrs,
-} from "../../../../../instructions/tools/lib/graph/producers/file/css-file/types.ts"
+} from "../../../../tools/lib/graph/producers/file/css-file/types.ts"
 import {
   TS_FILE_NODE_TYPE,
   type TsFileAttrs,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
 import {
   type DeclaredDep,
   LOCKFILE_PACKAGE_NODE_TYPE,
@@ -16,14 +16,14 @@ import {
   lockfilePackageKey,
   type LockfileResolvesAttrs,
   type WorkspaceDepKind,
-} from "../../../../../instructions/tools/lib/graph/producers/lockfile-package/types.ts"
+} from "../../../../tools/lib/graph/producers/lockfile-package/types.ts"
 import {
   PACKAGE_NODE_TYPE,
   type PackageAttrs,
   type PkgDependsKind,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Edge, Graph, Node } from "../../../../../instructions/tools/lib/graph/types.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   computeTransitiveClosure,
   indexWorkspacesByName,

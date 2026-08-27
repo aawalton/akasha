@@ -2,10 +2,10 @@
 
 import { resolve } from "node:path"
 import ts from "typescript"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import { workspaceDirsAt } from "../../../../../instructions/tools/lib/graph/producers/lib/workspace-dirs.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { BuildContext, Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import { workspaceDirsAt } from "../../../../tools/lib/graph/producers/lib/workspace-dirs.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { BuildContext, Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import {
   ALLOWED_ALLOW_IMPORTING_TS_EXTENSIONS,
@@ -15,9 +15,9 @@ import {
   ALLOWED_SPURIOUS_REFERENCES,
 } from "../lib/check-tsconfig-allowlists.ts"
 import { parseArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { type FunctionalType, FunctionalTypeSchema } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { type FunctionalType, FunctionalTypeSchema } from "../../../../tools/lib/check-workflow/functional-type"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   evaluateTsconfigConventions,
   type TsconfigDrains,
@@ -32,7 +32,7 @@ import {
 import { rollUpPackageImportGraphs } from "../lib/tsconfig-import-graph-rollup.ts"
 import { groupHeading, guidedText } from "../lib/tsconfig-rule-guidance.ts"
 import { validateNestedPackageContainment } from "../lib/tsconfig-source-layout.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[tsconfig]"
 

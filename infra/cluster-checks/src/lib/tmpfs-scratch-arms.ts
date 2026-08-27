@@ -1,5 +1,5 @@
-import type { Population } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { renderBound, renderShortfall } from "../../../../../instructions/tools/lib/check-workflow/population-bound"
+import type { Population } from "../../../../tools/lib/check-workflow/population"
+import { renderBound, renderShortfall } from "../../../../tools/lib/check-workflow/population-bound"
 
 export function removalArm(): readonly string[] {
   return [

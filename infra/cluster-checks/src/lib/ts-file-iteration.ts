@@ -1,4 +1,4 @@
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 
 export interface TsFileWalkArgs {
   readonly repoRoot: string

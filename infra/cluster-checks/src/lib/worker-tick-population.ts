@@ -1,6 +1,6 @@
-import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import { ImportStaticAttrsSchema, ReExportAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, RE_EXPORT_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import { ImportStaticAttrsSchema, ReExportAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 
 const WORKER_ENTRY_SUFFIX = ".worker.ts"
 const SRC_SEGMENT = "/src/"

@@ -1,5 +1,5 @@
-import type { NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
-import type { NodeType, ScopedNodeTypePopulation } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { NodeId } from "../../../../tools/lib/graph/types.ts"
+import type { NodeType, ScopedNodeTypePopulation } from "../../../../tools/lib/workflow-dsl/types.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 export const ADDON_BUILD_CHECK_NAME = "addon-build"

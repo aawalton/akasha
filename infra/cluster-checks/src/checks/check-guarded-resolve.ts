@@ -1,15 +1,15 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { CHECK_EXEMPT_DIRS } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
+import { CHECK_EXEMPT_DIRS } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
 import { type ChangeClosure, describeClosure, resolveChangeClosure } from "../lib/change-closure.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { findGuardedResolveViolations, type GuardedResolveViolation } from "../lib/guarded-resolve.ts"
-import { examineFilePopulation, examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation, examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { repoTopLevelDirs } from "../lib/repo-path-resolver.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[guarded-resolve]"
 

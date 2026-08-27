@@ -1,4 +1,4 @@
-import { SECRETS, secret } from "../../../../../instructions/tools/lib/workflow-dsl/secrets.ts"
+import { SECRETS, secret } from "../../../../tools/lib/workflow-dsl/secrets.ts"
 import { BUNDLE_REUSE_DIST_ENV } from "@temper/shared-build-deploy-addons-resolve/distributable"
 import { ADDON_BUILD_CHECK_NAME } from "./addon-build-co-dep"
 import type { CheckConfig } from "./check-configs-types"

@@ -11,7 +11,7 @@ import {
   transportUrl,
 } from "../lib/git-transport-credential.ts"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import {
   type SeamFn,
   validateWorkspacesAgainstSeam,

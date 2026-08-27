@@ -5,8 +5,8 @@ import { join } from "node:path"
 import { ownRepoRoot } from "../../../../repo/roots/roots"
 import { z } from "zod"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import {
   BYPASS_PREDICATES,
   BYPASS_SIZE,
@@ -14,7 +14,7 @@ import {
   classifyEmission,
   reconcileChokepoint,
 } from "../lib/verdict-emitter-chokepoint.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[verdict-emitter-chokepoint]"
 const CHECK_SCRIPTS_DIR = "packages/infra/checks/src/checks"

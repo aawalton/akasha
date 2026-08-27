@@ -1,23 +1,23 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   MockModuleAttrsSchema,
   MockModuleUnreadableSpecifierAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/parse-mock-module.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/parse-mock-module.ts"
 import {
   MOCK_MODULE_EDGE_TYPE,
   MOCK_MODULE_UNREADABLE_SPECIFIER_EDGE_TYPE,
   tsFileNodeIdToCodeRepoRel,
-} from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/file/ts-file/types.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { computeRuntimeExportSurface } from "../lib/runtime-export-surface.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[mock-module-surface]"
 

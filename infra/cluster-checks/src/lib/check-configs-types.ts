@@ -1,10 +1,10 @@
-import type { NodeType, ScopedNodeTypePopulation } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
-import type { NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { NodeType, ScopedNodeTypePopulation } from "../../../../tools/lib/workflow-dsl/types.ts"
+import type { NodeId } from "../../../../tools/lib/graph/types.ts"
 import type {
   BackendOptions,
   CIContext,
   SecretRef,
-} from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+} from "../../../../tools/lib/workflow-dsl/types.ts"
 
 export const treeShaArgs = (ci: CIContext): readonly string[] => ["--tree-sha", ci.treeSha]
 

@@ -2,11 +2,11 @@
 
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { FILESYSTEM_WALK_EXEMPT_DIRS, findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { type SyntaxScannerEntry, scriptKindFor } from "../lib/syntax-scanner-entry.ts"
-import { exitOnResult, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[lib-sets-per-piece-difficulty-boundary]"
 

@@ -11,11 +11,11 @@ import {
   type ModuleContractSchema,
   uncoupledImportedContract,
 } from "../lib/cli-json-contract-coupling.ts"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { repoDoc } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { repoDoc } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[cli-json-contract-coupling]"
 

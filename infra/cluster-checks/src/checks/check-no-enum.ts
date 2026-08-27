@@ -4,8 +4,8 @@ import { existsSync } from "node:fs"
 import { resolve } from "node:path"
 import ts from "typescript"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { examineFilePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { examineFilePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type NormalizedFinding,
@@ -14,7 +14,7 @@ import {
 } from "../lib/syntax-scanner-entry.ts"
 import { type EnumDeclarationFinding, scanEnumDeclarations } from "../lib/ts-enum-declarations.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[no-enum]"
 

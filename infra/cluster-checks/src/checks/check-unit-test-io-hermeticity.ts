@@ -2,11 +2,11 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root"
 import {
   IO_BOUNDARY_MODULES,
@@ -15,12 +15,12 @@ import {
   neutralizesBoundary,
   spiedIoSeams,
 } from "../lib/unit-test-io-boundaries"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
-import { MockModuleAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/parse-mock-module"
-import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, MOCK_MODULE_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types"
-import { ImportDynamicAttrsSchema, ImportStaticAttrsSchema } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/types-schemas"
-import { resolvePackageExport } from "../../../../../instructions/tools/lib/graph/producers/lib/resolve-package-export"
-import { PACKAGE_NODE_TYPE, PackageAttrsSchema, packageNodeIdToWorkspaceName } from "../../../../../instructions/tools/lib/graph/producers/package/types"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { MockModuleAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/parse-mock-module"
+import { IMPORT_DYNAMIC_EDGE_TYPE, IMPORT_STATIC_EDGE_TYPE, MOCK_MODULE_EDGE_TYPE, TS_FILE_NODE_TYPES, tsFileNodeIdToCodeRepoRel } from "../../../../tools/lib/graph/producers/file/ts-file/types"
+import { ImportDynamicAttrsSchema, ImportStaticAttrsSchema } from "../../../../tools/lib/graph/producers/file/ts-file/types-schemas"
+import { resolvePackageExport } from "../../../../tools/lib/graph/producers/lib/resolve-package-export"
+import { PACKAGE_NODE_TYPE, PackageAttrsSchema, packageNodeIdToWorkspaceName } from "../../../../tools/lib/graph/producers/package/types"
 
 const PREFIX = "[unit-test-io-hermeticity]"
 

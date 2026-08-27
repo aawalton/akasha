@@ -2,11 +2,11 @@ import {
   isScopedPopulation,
   type NodeType,
   type ScopedNodeTypePopulation,
-} from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+} from "../../../../tools/lib/workflow-dsl/types.ts"
 import {
   classifyExtension,
   type FileKind,
-} from "../../../../../instructions/tools/lib/graph/producers/file/file-kind.ts"
+} from "../../../../tools/lib/graph/producers/file/file-kind.ts"
 
 export interface PopulationSeedSubject {
   readonly name: string

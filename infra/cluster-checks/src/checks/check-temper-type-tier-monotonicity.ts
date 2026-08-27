@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   PACKAGE_NODE_TYPE,
   type PackageAttrs,
@@ -10,26 +10,26 @@ import {
   PKG_DEPENDS_EDGE_TYPE,
   type PkgDependsAttrs,
   PkgDependsAttrsSchema,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import type { Graph, Node } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import type { Graph, Node } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
 import {
   type Finding,
   judgeLayerMonotonicity,
   type PackageEdge,
   type WorkspaceEntry,
 } from "../lib/layer-monotonicity.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { repoDoc } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { repoDoc } from "../../../../tools/lib/check-workflow/remediation-doc"
 import {
   isCompositionRoot,
   TEMPER_TIERS,
   TIER_RANK_BY_TIER,
   tierForWorkspacePath,
 } from "../lib/temper-type-tier.ts"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-temper-type-tier-monotonicity]"
 

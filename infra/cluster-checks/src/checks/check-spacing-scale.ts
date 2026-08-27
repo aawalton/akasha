@@ -1,8 +1,8 @@
 #!/usr/bin/env bun
 
 import { readFileSync } from "node:fs"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   type DimensionLiteral,
@@ -11,7 +11,7 @@ import {
   judgeLiterals,
   type SpacingViolation,
 } from "../lib/spacing-scale.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 import {
   deriveSeamJoins,
   deriveWidgetSites,

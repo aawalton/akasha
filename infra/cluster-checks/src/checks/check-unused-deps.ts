@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { loadRepoContext, parseArgs } from "./check-unused-deps-context.ts"
 import { findingsForWorkspace } from "./check-unused-deps-credit.ts"
 import type { CliArgs, Finding, RepoContext } from "./check-unused-deps-types.ts"

@@ -8,11 +8,11 @@ import {
   type LcccVendorDrift,
   lcccDriftReason,
 } from "../lib/lccc-vendor-drift.ts"
-import { discoverLcccVendorSites, type LcccVendorSites } from "../../../../../instructions/tools/lib/check-workflow/lccc-vendor-sites"
-import { examinePopulation, populationCertifies } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { discoverLcccVendorSites, type LcccVendorSites } from "../../../../tools/lib/check-workflow/lccc-vendor-sites"
+import { examinePopulation, populationCertifies } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[lccc-vendor-drift]"
 const REMEDIATION_DOC = remediationHint(

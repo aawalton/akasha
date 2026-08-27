@@ -3,7 +3,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import {
   bunfigRegisters,
@@ -12,9 +12,9 @@ import {
   preloadRemedy,
   preloadsNeededBy,
 } from "../lib/test-preload-obligations.ts"
-import { loadAllTestFiles, loadWorkspaces } from "../../../../../instructions/tools/lib/check-workflow/test-step-loader"
-import { detectTestType } from "../../../../../instructions/tools/lib/check-workflow/test-step-paths"
-import { exitOnResult } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { loadAllTestFiles, loadWorkspaces } from "../../../../tools/lib/check-workflow/test-step-loader"
+import { detectTestType } from "../../../../tools/lib/check-workflow/test-step-paths"
+import { exitOnResult } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[test-step-paths]"
 const repoRoot =

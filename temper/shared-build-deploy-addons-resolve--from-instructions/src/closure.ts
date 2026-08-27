@@ -1,6 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join, relative, sep } from "node:path"
-import { listWorkspaceDirs } from "../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import { listWorkspaceDirs } from "../../../tools/lib/check-workflow/workspace-paths.ts"
 import { z } from "zod"
 
 const WORKSPACE_PROTOCOL_PREFIX = "workspace:"

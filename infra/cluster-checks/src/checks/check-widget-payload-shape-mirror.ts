@@ -3,10 +3,10 @@
 import { readdirSync, readFileSync } from "node:fs"
 import { dirname } from "node:path"
 import { parseArgs, REPO_ROOT_FLAG } from "../lib/cli-args.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
-import { PAYLOAD_MIRRORS, shapeMirrorMembers } from "../../../../../instructions/tools/lib/check-workflow/widget-payload-shape-mirror"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
+import { PAYLOAD_MIRRORS, shapeMirrorMembers } from "../../../../tools/lib/check-workflow/widget-payload-shape-mirror"
 
 const PREFIX = "[widget-payload-shape-mirror]"
 

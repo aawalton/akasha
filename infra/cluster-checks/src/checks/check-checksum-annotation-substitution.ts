@@ -2,12 +2,12 @@
 
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import { CHECKSUM_ANNOTATION_MARKER, type ChecksumAnnotationScanFile, type ChecksumAnnotationViolation, findChecksumAnnotationEmits, findSeamSubstitutionSites, isChecksumScanPath, scanChecksumAnnotationSubstitution, type SeamSubstitutionCensus } from "../../../../../instructions/tools/lib/check-workflow/checksum-annotation-substitution"
+import { CHECKSUM_ANNOTATION_MARKER, type ChecksumAnnotationScanFile, type ChecksumAnnotationViolation, findChecksumAnnotationEmits, findSeamSubstitutionSites, isChecksumScanPath, scanChecksumAnnotationSubstitution, type SeamSubstitutionCensus } from "../../../../tools/lib/check-workflow/checksum-annotation-substitution"
 import { type FlagSpec, parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { findFiles } from "../../../../../instructions/tools/lib/check-workflow/file-finder"
-import { examinePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { findFiles } from "../../../../tools/lib/check-workflow/file-finder"
+import { examinePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[checksum-annotation-substitution]"
 

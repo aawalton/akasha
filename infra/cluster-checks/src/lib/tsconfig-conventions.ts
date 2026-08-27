@@ -1,5 +1,5 @@
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
-import { isLibraryType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
+import { isLibraryType } from "../../../../tools/lib/check-workflow/functional-type"
 import {
   validateExcludeShape,
   validateNoOutDir,

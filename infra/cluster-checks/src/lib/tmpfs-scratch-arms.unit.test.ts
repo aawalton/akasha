@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { examineFilePopulation, type Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examineFilePopulation, type Population } from "../../../../tools/lib/check-workflow/population"
 import { removalArm, shellArm } from "./tmpfs-scratch-arms.ts"
 
 const readerRefusing =

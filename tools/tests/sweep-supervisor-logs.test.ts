@@ -1,5 +1,5 @@
 import { describe, expect, it } from "bun:test"
-import { decideDir, type DirFacts } from "../../../instructions/services/sweep-supervisor-logs.ts"
+import { decideDir, type DirFacts } from "../../services/sweep-supervisor-logs.ts"
 
 const NOW = 1_700_000_000_000
 

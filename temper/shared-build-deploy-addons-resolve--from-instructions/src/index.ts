@@ -1,6 +1,6 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs"
 import { basename, dirname, join } from "node:path"
-import { listWorkspaceDirs } from "../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import { listWorkspaceDirs } from "../../../tools/lib/check-workflow/workspace-paths.ts"
 import { resolveRoots } from "../../../repo/roots/roots"
 import { computeWorkspaceClosure, loadWorkspaceCatalog, repoRelOf } from "./closure"
 import { addonManifestSchema } from "./manifest"

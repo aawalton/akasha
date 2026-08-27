@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { buildFrom, readAt } from "../../../../../instructions/tools/lib/graph/held-snapshot.ts"
+import { buildFrom, readAt } from "../../../../tools/lib/graph/held-snapshot.ts"
 import {
   PACKAGE_NODE_TYPE,
   type PackageAttrs,
@@ -11,22 +11,22 @@ import {
   type PkgDependsAttrs,
   PkgDependsAttrsSchema,
   type PkgDependsEdgeType,
-} from "../../../../../instructions/tools/lib/graph/producers/package/types.ts"
-import { readRepoFile } from "../../../../../instructions/tools/lib/graph/repos.ts"
-import type { Edge, Graph, Node } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/package/types.ts"
+import { readRepoFile } from "../../../../tools/lib/graph/repos.ts"
+import type { Edge, Graph, Node } from "../../../../tools/lib/graph/types.ts"
 import { resolveRoots } from "../../../../repo/roots/roots"
 import { parseArgs as parseCliArgs } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { type FunctionalType, FunctionalTypeSchema, RANK_BY_TYPE } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { type FunctionalType, FunctionalTypeSchema, RANK_BY_TYPE } from "../../../../tools/lib/check-workflow/functional-type"
 import {
   judgeLayerMonotonicity,
   type PackageEdge,
   type RankInversionFinding,
   type WorkspaceEntry,
 } from "../lib/layer-monotonicity.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
-import { remediationHint } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
-import { exitOnResult, exitOnToolError, type Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
+import { remediationHint } from "../../../../tools/lib/check-workflow/remediation-doc"
+import { exitOnResult, exitOnToolError, type Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[check-layer-monotonicity]"
 

@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 import {
   getAllDepNames,
   getRuntimeDepNames,

@@ -1,8 +1,8 @@
 import {
   DOCKERFILE_RECIPE_INPUT_EDGE_TYPE,
   DOCKERFILE_RECIPE_NODE_TYPE,
-} from "../../../../../instructions/tools/lib/graph/producers/dockerfile-recipe/types.ts"
-import type { Graph, NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+} from "../../../../tools/lib/graph/producers/dockerfile-recipe/types.ts"
+import type { Graph, NodeId } from "../../../../tools/lib/graph/types.ts"
 import { graphNodeId } from "./graph-node-id.ts"
 import { WORKER_SUFFIX } from "./worker-suffix.ts"
 import { z } from "zod"

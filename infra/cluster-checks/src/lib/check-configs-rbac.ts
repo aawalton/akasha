@@ -1,4 +1,4 @@
-import type { NodeType, ScopedNodeTypePopulation } from "../../../../../instructions/tools/lib/workflow-dsl/types.ts"
+import type { NodeType, ScopedNodeTypePopulation } from "../../../../tools/lib/workflow-dsl/types.ts"
 import type { CheckConfig } from "./check-configs-types"
 
 const RBAC_GENERATOR_MODULES: ScopedNodeTypePopulation = {

@@ -1,4 +1,4 @@
-import type { FunctionalType } from "../../../../../instructions/tools/lib/check-workflow/functional-type"
+import type { FunctionalType } from "../../../../tools/lib/check-workflow/functional-type"
 
 export interface PackageJsonShape {
   readonly bin?: unknown

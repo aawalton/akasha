@@ -2,16 +2,16 @@ import { execFileSync } from "node:child_process"
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { afterAll, beforeAll, describe, expect, test } from "bun:test"
-import { createEngine } from "../../../../../instructions/tools/lib/graph/engine.ts"
-import { fileNodeProducer } from "../../../../../instructions/tools/lib/graph/producers/file/file.node.producer.ts"
-import { tsFileEdgeProducer } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/ts-file.edge.producer.ts"
-import { CODE_REPO } from "../../../../../instructions/tools/lib/graph/producers/lib/constants.ts"
-import { packageNodeProducer } from "../../../../../instructions/tools/lib/graph/producers/package/package.node.producer.ts"
+import { createEngine } from "../../../../tools/lib/graph/engine.ts"
+import { fileNodeProducer } from "../../../../tools/lib/graph/producers/file/file.node.producer.ts"
+import { tsFileEdgeProducer } from "../../../../tools/lib/graph/producers/file/ts-file/ts-file.edge.producer.ts"
+import { CODE_REPO } from "../../../../tools/lib/graph/producers/lib/constants.ts"
+import { packageNodeProducer } from "../../../../tools/lib/graph/producers/package/package.node.producer.ts"
 import {
   applyRegistrars,
   PRODUCERS_DIR,
   registrarPaths,
-} from "../../../../../instructions/tools/lib/graph/snapshot.ts"
+} from "../../../../tools/lib/graph/snapshot.ts"
 import { buildMockLeakContext } from "../lib/mock-module-leak-context.ts"
 import {
   findMockModuleLeakViolations,

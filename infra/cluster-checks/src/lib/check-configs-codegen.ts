@@ -1,6 +1,6 @@
-import type { NodeId } from "../../../../../instructions/tools/lib/graph/types.ts"
+import type { NodeId } from "../../../../tools/lib/graph/types.ts"
 import type { CheckConfig } from "./check-configs-types"
-import type { LcccVendorSites } from "../../../../../instructions/tools/lib/check-workflow/lccc-vendor-sites"
+import type { LcccVendorSites } from "../../../../tools/lib/check-workflow/lccc-vendor-sites"
 
 const LCCC_VENDOR_DRIFT_INPUTS: readonly NodeId[] = [
   "ts-file:code:infra/cluster-checks/src/checks/check-lccc-vendor-drift.ts",

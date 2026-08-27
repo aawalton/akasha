@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { codeModule } from "../../../../../instructions/tools/lib/code-import.ts"
+import { codeModule } from "../../../../tools/lib/code-import.ts"
 import { EPOCH_FLOOR, parseAlertRules, scanAlertEpochLiterals } from "./alert-expr-epoch-literals.ts"
 import { HISTORICAL_DEFECT_RULES } from "./promtool-rules.ts"
 import { getRepoRoot } from "./repo-root.ts"

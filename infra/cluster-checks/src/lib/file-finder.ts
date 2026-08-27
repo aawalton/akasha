@@ -1,1 +1,1 @@
-export * from "../../../../../instructions/tools/lib/check-workflow/file-finder.ts"
+export * from "../../../../tools/lib/check-workflow/file-finder.ts"

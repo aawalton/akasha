@@ -1,4 +1,4 @@
-import { matchGlob } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/globs.ts"
+import { matchGlob } from "../../../../tools/lib/graph/producers/file/ts-file/globs.ts"
 
 export type AdapterRole = "entry" | "transit" | "source" | "ignore"
 

@@ -5,8 +5,8 @@ import { resolve } from "node:path"
 import ts from "typescript"
 import { describeClosure, resolveChangeClosure } from "../lib/change-closure.ts"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
-import { errorMessage } from "../../../../../instructions/tools/lib/check-workflow/error-message"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { errorMessage } from "../../../../tools/lib/check-workflow/error-message"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
 import { SYNTAX_SCANNER_ENTRIES as ENTRIES } from "../lib/scanner-registry.ts"
 import {
@@ -19,7 +19,7 @@ import {
   scriptKindFor,
 } from "../lib/syntax-scanner-entry.ts"
 import { listTsFiles } from "../lib/ts-file-iteration.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[syntax-bundle]"
 

@@ -1,5 +1,5 @@
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
-import { PackageAttrsSchema, PKG_DEPENDS_EDGE_TYPE, PkgDependsAttrsSchema, type PkgDependsKind, packageNodeId } from "../../../../../instructions/tools/lib/graph/producers/package/types"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
+import { PackageAttrsSchema, PKG_DEPENDS_EDGE_TYPE, PkgDependsAttrsSchema, type PkgDependsKind, packageNodeId } from "../../../../tools/lib/graph/producers/package/types"
 
 const ALLOWED_KINDS: ReadonlySet<PkgDependsKind> = new Set(["dependencies", "devDependencies"])
 

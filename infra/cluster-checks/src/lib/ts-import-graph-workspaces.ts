@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs"
 import { resolve } from "node:path"
-import type { WorkspaceGlobs } from "../../../../../instructions/tools/lib/graph/producers/file/ts-file/discover.ts"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths.ts"
+import type { WorkspaceGlobs } from "../../../../tools/lib/graph/producers/file/ts-file/discover.ts"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths.ts"
 import { z } from "zod"
 import type { KnipRoot, KnipWorkspaceEntry, WorkspaceConfig } from "./ts-import-graph-types"
 

@@ -2,13 +2,13 @@
 
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { repoFilesAt } from "../../../../../instructions/tools/lib/repo-files-at.ts"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths"
+import { repoFilesAt } from "../../../../tools/lib/repo-files-at.ts"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
 import { parseArgs, STANDARD_FLAGS } from "../lib/cli-args.ts"
 import { findOrphanSources, type OrphanReport } from "../lib/orphan-source.ts"
-import { examinePopulation } from "../../../../../instructions/tools/lib/check-workflow/population"
+import { examinePopulation } from "../../../../tools/lib/check-workflow/population"
 import { getRepoRoot } from "../lib/repo-root.ts"
-import { exitOnResult, exitOnToolError } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { exitOnResult, exitOnToolError } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const PREFIX = "[no-orphan-source]"
 const SUCCESS_MESSAGE = "Every recognized source file under packages/ is owned by a workspace."

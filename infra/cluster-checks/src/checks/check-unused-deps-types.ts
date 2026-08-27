@@ -1,5 +1,5 @@
-import type { Graph } from "../../../../../instructions/tools/lib/graph/types.ts"
-import type { Population } from "../../../../../instructions/tools/lib/check-workflow/population"
+import type { Graph } from "../../../../tools/lib/graph/types.ts"
+import type { Population } from "../../../../tools/lib/check-workflow/population"
 
 export type DepType = "dependencies" | "devDependencies"
 

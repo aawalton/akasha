@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type ts from "typescript"
-import { repoDoc } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import { repoDoc } from "../../../../tools/lib/check-workflow/remediation-doc"
 import {
   dispatchToEntries,
   type NormalizedFinding,

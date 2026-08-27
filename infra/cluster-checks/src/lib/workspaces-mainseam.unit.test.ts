@@ -2,9 +2,9 @@ import { describe, expect, it } from "bun:test"
 import { existsSync, mkdirSync, mkdtempSync, writeFileSync } from "node:fs"
 import { tmpdir } from "node:os"
 import { join } from "node:path"
-import { listWorkspaceDirs } from "../../../../../instructions/tools/lib/check-workflow/workspace-paths"
-import { renderBound } from "../../../../../instructions/tools/lib/check-workflow/population-bound"
-import { computeExitCode } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import { listWorkspaceDirs } from "../../../../tools/lib/check-workflow/workspace-paths"
+import { renderBound } from "../../../../tools/lib/check-workflow/population-bound"
+import { computeExitCode } from "../../../../tools/lib/check-workflow/violation-reporter"
 import { type SeamFn, validateWorkspacesAgainstSeam } from "./workspaces-mainseam.ts"
 
 function makeFixtureRepo(workspaces: readonly string[], dirsWithPkg: readonly string[]): string {

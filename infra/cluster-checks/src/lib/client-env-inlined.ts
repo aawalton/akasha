@@ -1,5 +1,5 @@
 import ts from "typescript"
-import type { Violation } from "../../../../../instructions/tools/lib/check-workflow/violation-reporter"
+import type { Violation } from "../../../../tools/lib/check-workflow/violation-reporter"
 
 const ENV_KEY_RE = /NEXT_PUBLIC_[A-Z0-9_]+/g
 

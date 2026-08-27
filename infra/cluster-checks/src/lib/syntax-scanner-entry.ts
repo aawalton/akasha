@@ -1,5 +1,5 @@
 import ts from "typescript"
-import type { RemediationDoc } from "../../../../../instructions/tools/lib/check-workflow/remediation-doc"
+import type { RemediationDoc } from "../../../../tools/lib/check-workflow/remediation-doc"
 
 export interface NormalizedFinding {
   readonly file: string
