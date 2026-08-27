@@ -11,6 +11,7 @@ import {
   EXPIRES_KEY,
   pagesRoot,
   REFRESH_KEY,
+  RESCUED_KEY,
 } from "./oauth-page-push.ts"
 import type { CredentialDoc, OAuthCredential } from "./oauth-types.ts"
 import { sidecarFor, valuesIn } from "./page-secret.ts"
@@ -69,6 +70,26 @@ function said(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
+export interface HeldCredential {
+  readonly accessToken: string
+  readonly refreshToken: string
+  readonly expiresAt: number
+}
+
+export function heldBesidePage(held: Record<string, unknown> | null): HeldCredential | null {
+  const under = held?.[RESCUED_KEY]
+  if (typeof under !== "object" || under === null || Array.isArray(under)) return null
+  const at = under as Record<string, unknown>
+  const accessToken = at[ACCESS_KEY]
+  const refreshToken = at[REFRESH_KEY]
+  const stated = at[EXPIRES_KEY]
+  if (typeof accessToken !== "string" || accessToken === "") return null
+  if (typeof refreshToken !== "string" || refreshToken === "") return null
+  if (typeof stated !== "string") return null
+  const expiresAt = Date.parse(stated)
+  return Number.isFinite(expiresAt) ? { accessToken, refreshToken, expiresAt } : null
+}
+
 export function readCredentialFromPage(root: string, account: string): PageCredential {
   try {
     const relPath = accountPage(account, root)
@@ -100,7 +121,8 @@ export function readCredentialFromPage(root: string, account: string): PageCrede
       }
     }
 
-    const stated = readUncommitted(at)?.[EXPIRES_KEY]
+    const uncommitted = readUncommitted(at)
+    const stated = uncommitted?.[EXPIRES_KEY]
     const expiresAt = typeof stated === "string" ? Date.parse(stated) : Number.NaN
     if (!Number.isFinite(expiresAt)) {
       return {
@@ -114,13 +136,19 @@ export function readCredentialFromPage(root: string, account: string): PageCrede
       return { kind: "absent", why: `${relPath} does not parse: ${fm.error}` }
     }
 
+    const rescued = heldBesidePage(uncommitted)
+    const standing =
+      rescued !== null && rescued.expiresAt > expiresAt
+        ? rescued
+        : { accessToken, refreshToken, expiresAt }
+
     return {
       kind: "read",
       credential: {
         account,
-        accessToken,
-        refreshToken,
-        expiresAt,
+        accessToken: standing.accessToken,
+        refreshToken: standing.refreshToken,
+        expiresAt: standing.expiresAt,
         scopes: listField(fm, SCOPES_KEY),
         subscriptionType: textField(fm, SUBSCRIPTION_TYPE_KEY),
         rateLimitTier: textField(fm, RATE_LIMIT_TIER_KEY),

@@ -1,8 +1,13 @@
 
 import { createHash } from "node:crypto"
-import { existsSync, readFileSync } from "node:fs"
+import { chmodSync, existsSync, readFileSync } from "node:fs"
 
-import { patchUncommitted, readUncommitted } from "../../page/uncommitted/uncommitted.ts"
+import {
+  patchUncommitted,
+  patchUncommittedUnder,
+  readUncommitted,
+  uncommittedPathFor,
+} from "../../page/uncommitted/uncommitted.ts"
 import { type GatedAct, landBodies } from "./gated-landing.ts"
 import { cipherFor, sidecarFor, valuesIn, type Values } from "./page-secret.ts"
 import { placeDirOf } from "../../page/page-types.ts"
@@ -21,6 +26,8 @@ export const ACCESS_KEY = "access-token"
 export const REFRESH_KEY = "refresh-token"
 
 export const EXPIRES_KEY = "access-token-expires-at"
+
+export const RESCUED_KEY = "rescued-credential"
 
 export const PUSHED_KEYS: readonly string[] = [ACCESS_KEY, REFRESH_KEY]
 
@@ -98,6 +105,34 @@ function holdExpiry(root: string, relPath: string, expiresAt: number): void {
   }
 }
 
+function heldBeside(
+  root: string,
+  relPath: string,
+  next: ReadonlyMap<string, string>,
+  expiresAt: number
+): string {
+  const at = `${root}/${relPath}`
+  try {
+    patchUncommittedUnder(at, RESCUED_KEY, {
+      [ACCESS_KEY]: next.get(ACCESS_KEY) ?? "",
+      [REFRESH_KEY]: next.get(REFRESH_KEY) ?? "",
+      [EXPIRES_KEY]: new Date(expiresAt).toISOString(),
+    })
+    chmodSync(uncommittedPathFor(at), 0o600)
+    return "the rotated pair is held beside the page, which no gate judges, and the next read takes it"
+  } catch (thrown) {
+    return `and it could not be held beside the page either, so it is gone: ${thrown instanceof Error ? thrown.message : thrown}`
+  }
+}
+
+function dropHeld(root: string, relPath: string): void {
+  try {
+    patchUncommitted(`${root}/${relPath}`, { [RESCUED_KEY]: null })
+  } catch {
+    return
+  }
+}
+
 function unfit(key: string, value: string): string | null {
   if (value === "") return `\`${key}\` arrived empty, and an empty secret would replace a usable one`
   if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
@@ -146,6 +181,7 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
     for (const [key, value] of held) if (!next.has(key)) next.set(key, value)
     if (held.size === next.size && [...next].every(([key, value]) => held.get(key) === value)) {
       holdExpiry(root, relPath, args.expiresAt)
+      dropHeld(root, relPath)
       return { kind: "unchanged", account, sidecar }
     }
 
@@ -172,8 +208,15 @@ export function pushCredentialToPage(args: CredentialPagePush): PagePush {
       root,
     }
     const landed = landBodies(act, [{ relPath: sidecar, body: composed.text }])
-    if (!landed.ok) return { kind: "refused", account, why: landed.why }
+    if (!landed.ok) {
+      return {
+        kind: "refused",
+        account,
+        why: `${landed.why} — ${heldBeside(root, relPath, next, args.expiresAt)}`,
+      }
+    }
     holdExpiry(root, relPath, args.expiresAt)
+    dropHeld(root, relPath)
     return {
       kind: "pushed",
       account,
