@@ -7,22 +7,6 @@ type Held = (name: string) => string
 
 const repoRoot = (): string => canonicalize(ownRepoRoot())
 
-const aimAt = (repo: string): string => (repo === "instructions" ? "" : ` --repo ${repo}`)
-
-function costOf(repo: string): string {
-  if (repo === "instructions")
-    return refusalText("block-instructions-direct-write-cost-instructions", {}, repoRoot(), fromDisk)
-  if (repo === "memory")
-    return refusalText("block-instructions-direct-write-cost-memory", {}, repoRoot(), fromDisk)
-  return refusalText("block-instructions-direct-write-cost-pages", {}, repoRoot(), fromDisk)
-}
-
-function viaOf(path: string, resolved: string): string {
-  if (path === resolved) return ""
-  const line = refusalText("block-instructions-direct-write-symlink", { path, resolved }, repoRoot(), fromDisk)
-  return `\n${line}`
-}
-
 const SAYS: Record<string, (v: Held) => string> = {
   "block-addon-direct-install": () => refusalText("block-addon-direct-install", {}, repoRoot(), fromDisk),
 
@@ -47,30 +31,6 @@ const SAYS: Record<string, (v: Held) => string> = {
   "block-destructive-git-rm": () => refusalText("block-destructive-git-rm", {}, repoRoot(), fromDisk),
 
   "block-destructive-git-stash": () => refusalText("block-destructive-git-stash", {}, repoRoot(), fromDisk),
-
-  "block-instructions-direct-commit": (v) =>
-    refusalText(
-      "block-instructions-direct-commit",
-      { repo: v("repo"), dir: v("dir"), aim: aimAt(v("repo")) },
-      repoRoot(),
-      fromDisk
-    ),
-
-  "block-instructions-direct-write": (v) =>
-    refusalText(
-      "block-instructions-direct-write",
-      {
-        path: v("path"),
-        repo: v("repo"),
-        root: v("root"),
-        via: viaOf(v("path"), v("resolved")),
-        cost: costOf(v("repo")),
-        aim: aimAt(v("repo")),
-        rel: v("rel"),
-      },
-      repoRoot(),
-      fromDisk
-    ),
 
   "block-playwright-stray-filename": (v) =>
     refusalText(
