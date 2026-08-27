@@ -21,10 +21,10 @@ function commandsOf(step: Step, ci: CIContext): readonly string[] {
 }
 
 export async function engineSurface(roots: {
-  readonly instructionsRoot: string
+  readonly akashaRoot: string
   readonly codeRoot: string
 }): Promise<EngineSurface> {
-  const workflows = await discoverWorkflows(roots.instructionsRoot, { codeRoot: roots.codeRoot })
+  const workflows = await discoverWorkflows(roots.akashaRoot, { codeRoot: roots.codeRoot })
   const ci = applyContext()
   const steps: EngineStep[] = []
   let stepCount = 0

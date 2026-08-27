@@ -26,8 +26,8 @@ function listProfileSources(dir: string): readonly string[] {
     .map((name) => join(dir, name))
 }
 
-export async function profileSources(instructionsRoot: string): Promise<readonly RbacProfileSource[]> {
-  const dir = join(instructionsRoot, RBAC_DIR)
+export async function profileSources(akashaRoot: string): Promise<readonly RbacProfileSource[]> {
+  const dir = join(akashaRoot, RBAC_DIR)
   const files = listProfileSources(dir)
   if (files.length === 0) {
     throw new Error(
@@ -56,6 +56,6 @@ export async function profileSources(instructionsRoot: string): Promise<readonly
   return sources
 }
 
-export async function allProfiles(instructionsRoot: string): Promise<readonly NamespaceProfile[]> {
-  return (await profileSources(instructionsRoot)).flatMap((source) => [...source.profiles])
+export async function allProfiles(akashaRoot: string): Promise<readonly NamespaceProfile[]> {
+  return (await profileSources(akashaRoot)).flatMap((source) => [...source.profiles])
 }

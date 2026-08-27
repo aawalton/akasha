@@ -70,7 +70,7 @@ interface Scanned {
 }
 
 async function scanCommands(roots: SurfaceRoots): Promise<Scanned> {
-  const surface = await buildWorkflowSurface(roots.instructionsRoot, {
+  const surface = await buildWorkflowSurface(roots.akashaRoot, {
     codeRoot: roots.codeRoot,
   })
   const scannedSources = surface.files.map((file) => file.sourcePath)
@@ -122,7 +122,7 @@ async function scanCommands(roots: SurfaceRoots): Promise<Scanned> {
         "commands will not resolve throws too, so nothing leaves this list quietly",
     },
     labelOf: (one) => `${one.workflow} → ${one.step}: ${one.command}`,
-    siteOf: (one) => join(roots.instructionsRoot, one.sourcePath),
+    siteOf: (one) => join(roots.akashaRoot, one.sourcePath),
     examine: () => [],
   })
 
@@ -177,7 +177,7 @@ function scanReport(scanned: Scanned, roots: SurfaceRoots): readonly string[] {
 export default async function checkRunCheckRouting(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--akasha-root"),
+    akashaRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
@@ -210,7 +210,7 @@ export default async function checkRunCheckRouting(args: readonly string[]): Pro
   if (scanned.invocationCount === 0) {
     exitOnToolError({
       error: new Error(
-        `gate-integrity failure: composing ${roots.instructionsRoot} over ${roots.codeRoot} ` +
+        `gate-integrity failure: composing ${roots.akashaRoot} over ${roots.codeRoot} ` +
           `found no check invocation at all (${scanned.scannedSources.length} page(s), ` +
           `${scanned.workflowCount} workflow(s), ${scanned.stepCount} step(s)). "Nothing ` +
           'bypasses the runner" is vacuously true over an empty set, so this reports nothing ' +
@@ -227,7 +227,7 @@ export default async function checkRunCheckRouting(args: readonly string[]): Pro
     exemptions: ROUTING_EXEMPTIONS,
     declaredUnexamined: DECLARED_UNEXAMINED_SOURCES,
     scriptExists: (script) =>
-      [roots.codeRoot, roots.instructionsRoot].some((root) => existsSync(join(root, script))),
+      [roots.codeRoot, roots.akashaRoot].some((root) => existsSync(join(root, script))),
   })
 
   exitOnResult({

@@ -130,7 +130,7 @@ const hashOfParts = (parts: readonly string[]): InputsHash12 => {
 }
 
 export interface LoadWorkflowConfigsArgs {
-  readonly instructionsRoot: string
+  readonly akashaRoot: string
   readonly codeRoot: string
   readonly gitDir: string
   readonly commitSha: string
@@ -144,7 +144,7 @@ export async function loadAllWorkflowConfigs(
   args: LoadWorkflowConfigsArgs
 ): Promise<readonly WorkflowConfig[]> {
   const discoveryStart = performance.now()
-  const discovered = await discoverWorkflows(args.instructionsRoot, {
+  const discovered = await discoverWorkflows(args.akashaRoot, {
     codeRoot: args.codeRoot,
   })
   if (args.timings) args.timings.discoveryImportMs = performance.now() - discoveryStart
@@ -171,11 +171,11 @@ export async function loadAllWorkflowConfigs(
         .map((one) => one.path)
       const fromCode = intersectWithTreePaths(codeNamed, treePathsSet)
       const fromInstructions = instructionsNamed
-        .filter((path) => standsIn(args.instructionsRoot, path))
+        .filter((path) => standsIn(args.akashaRoot, path))
         .sort()
       const heldNowhere = [
         ...codeNamed.filter((path) => !treePathsSet.has(path)),
-        ...instructionsNamed.filter((path) => !standsIn(args.instructionsRoot, path)),
+        ...instructionsNamed.filter((path) => !standsIn(args.akashaRoot, path)),
       ]
       if (heldNowhere.length > 0) {
         throw new Error(
@@ -198,7 +198,7 @@ export async function loadAllWorkflowConfigs(
       if (fromInstructions.length > 0) {
         parts.push(
           await computeInputsHash({
-            workspace: args.instructionsRoot,
+            workspace: args.akashaRoot,
             graphFileSet: fromInstructions,
           })
         )

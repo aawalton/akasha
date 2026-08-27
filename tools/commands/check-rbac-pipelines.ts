@@ -49,7 +49,7 @@ interface PipelineViolation extends Violation {
 export default async function checkRbacPipelines(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--akasha-root"),
+    akashaRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
@@ -63,7 +63,7 @@ export default async function checkRbacPipelines(args: readonly string[]): Promi
   if (surface.steps.length === 0) {
     exitOnToolError({
       error: new Error(
-        `composing ${roots.instructionsRoot} over ${roots.codeRoot} found no step running as ` +
+        `composing ${roots.akashaRoot} over ${roots.codeRoot} found no step running as ` +
           `pipeline-engine at all (${surface.workflowCount} workflow(s), ${surface.stepCount} ` +
           'step(s)). "Every kubectl command is covered" is vacuously true over an empty set, so ' +
           "this reports nothing rather than clean."
@@ -73,7 +73,7 @@ export default async function checkRbacPipelines(args: readonly string[]): Promi
   }
 
   const nsRules = new Map<string, Rule[]>()
-  for (const profile of await allProfiles(roots.instructionsRoot)) {
+  for (const profile of await allProfiles(roots.akashaRoot)) {
     const held = nsRules.get(profile.namespace) ?? []
     held.push(...profile.rules)
     nsRules.set(profile.namespace, held)
@@ -87,7 +87,7 @@ export default async function checkRbacPipelines(args: readonly string[]): Promi
     members: surface.steps,
     unit: "pipeline-engine steps",
     labelOf: (one) => one.site,
-    siteOf: (one) => `${roots.instructionsRoot}/${one.workflow.sourcePath}`,
+    siteOf: (one) => `${roots.akashaRoot}/${one.workflow.sourcePath}`,
     membership: {
       kind: "enumerated",
       because:

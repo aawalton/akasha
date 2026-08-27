@@ -58,7 +58,7 @@ const FAULT_REPAIRS: Readonly<Record<string, string>> = {
 export default async function checkRbacManifests(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--akasha-root"),
+    akashaRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
@@ -91,7 +91,7 @@ export default async function checkRbacManifests(args: readonly string[]): Promi
     emitted = held
 
     const perNamespace = new Map<string, Set<string>>()
-    for (const profile of await allProfiles(roots.instructionsRoot)) {
+    for (const profile of await allProfiles(roots.akashaRoot)) {
       const perms = perNamespace.get(profile.namespace) ?? new Set<string>()
       for (const tuple of tupleSet(profile.rules, { skipNamed: false })) perms.add(tuple)
       perNamespace.set(profile.namespace, perms)
@@ -108,7 +108,7 @@ export default async function checkRbacManifests(args: readonly string[]): Promi
   if (readable.length === 0) {
     exitOnToolError({
       error: new Error(
-        `composing ${roots.instructionsRoot} over ${roots.codeRoot} resolved no apply to a repo ` +
+        `composing ${roots.akashaRoot} over ${roots.codeRoot} resolved no apply to a repo ` +
           `manifest at all (${workflowCount} workflow(s), ${applies.length} apply(s), ` +
           `${opaque.length} of them unreachable). "Every applied manifest is covered" is ` +
           "vacuously true over an empty set, so this reports nothing rather than clean."

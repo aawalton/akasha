@@ -51,15 +51,15 @@ const toSurfaceWorkflow = (workflow: DiscoveredWorkflow): SurfaceWorkflow => ({
   steps: (workflow.steps ?? []).map(toSurfaceStep),
 })
 
-export const scannedSourcePaths = (instructionsRoot: string): readonly string[] =>
-  workflowPages(instructionsRoot).map((page) => page.sourcePath)
+export const scannedSourcePaths = (akashaRoot: string): readonly string[] =>
+  workflowPages(akashaRoot).map((page) => page.sourcePath)
 
 export const buildWorkflowSurface = async (
-  instructionsRoot: string,
+  akashaRoot: string,
   context: DeclarationContext
 ): Promise<WorkflowSurface> => {
-  const pages = workflowPages(instructionsRoot)
-  const discovered = await discoverWorkflows(instructionsRoot, context)
+  const pages = workflowPages(akashaRoot)
+  const discovered = await discoverWorkflows(akashaRoot, context)
   return WorkflowSurfaceSchema.parse({
     contexts: [...PROBE_CONTEXT_IDS],
     files: pages.map((page) => ({

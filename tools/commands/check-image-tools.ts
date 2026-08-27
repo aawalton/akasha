@@ -79,13 +79,13 @@ function previewAround(script: string, binary: string): string {
 export default async function checkImageTools(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--akasha-root"),
+    akashaRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
   let steps: readonly StepMember[]
   try {
-    const surface = await buildWorkflowSurface(roots.instructionsRoot, {
+    const surface = await buildWorkflowSurface(roots.akashaRoot, {
       codeRoot: roots.codeRoot,
     })
     steps = surface.workflows.flatMap((workflow) =>
@@ -107,7 +107,7 @@ export default async function checkImageTools(args: readonly string[]): Promise<
         "`steps` entry of every workflow it returned, flattened with nothing dropped",
     },
     labelOf: ({ workflow, step }) => `${workflow.name}/${step.name}`,
-    siteOf: ({ workflow }) => `${roots.instructionsRoot}/${workflow.sourcePath}`,
+    siteOf: ({ workflow }) => `${roots.akashaRoot}/${workflow.sourcePath}`,
     examine: ({ workflow, step }) => {
       const imageKey = resolveImageKey(step.image)
       if (imageKey === null) {

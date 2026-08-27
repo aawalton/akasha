@@ -33,11 +33,11 @@ interface EscalationGap extends Violation {
 
 export default async function checkRbacEscalation(args: readonly string[]): Promise<void> {
   const parsed = parseArgs(help, args)
-  const roots = surfaceRoots({ instructionsRoot: parsed.string("--akasha-root") })
+  const roots = surfaceRoots({ akashaRoot: parsed.string("--akasha-root") })
 
   let sources: readonly RbacProfileSource[]
   try {
-    sources = await profileSources(roots.instructionsRoot)
+    sources = await profileSources(roots.akashaRoot)
   } catch (err) {
     exitOnToolError({ error: new Error(errorMessage(err)), prefix: PREFIX })
   }
@@ -73,7 +73,7 @@ export default async function checkRbacEscalation(args: readonly string[]): Prom
       kind: "enumerated",
       because:
         "the members are every RBAC profile source standing under `tools/lib/rbac` in the " +
-        "instructions tree, and that listing raises rather than returning a short one — a " +
+        "akasha tree, and that listing raises rather than returning a short one — a " +
         "directory that will not open, a file exporting no profiles, and a file naming no " +
         "package each stop the run above",
     },
@@ -91,7 +91,7 @@ export default async function checkRbacEscalation(args: readonly string[]): Prom
         "applies the ClusterRole update first.",
       successMessage:
         `OK — every permission granted by ${sources.length} RBAC profile source(s) under ` +
-        `${roots.instructionsRoot} is covered by the ClusterRole.`,
+        `${roots.akashaRoot} is covered by the ClusterRole.`,
       groupBy: (gap) => gap.namespace,
     },
   })

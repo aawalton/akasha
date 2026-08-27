@@ -143,13 +143,13 @@ function examineDependent(args: {
   return found
 }
 
-async function deployablePackages(instructionsRoot: string, codeRoot: string): Promise<ReadonlySet<string>> {
-  const appPages = workflowPages(instructionsRoot).filter((one) => one.kind === "apps")
+async function deployablePackages(akashaRoot: string, codeRoot: string): Promise<ReadonlySet<string>> {
+  const appPages = workflowPages(akashaRoot).filter((one) => one.kind === "apps")
   const loaded = await Promise.all(appPages.map((one) => loadWorkflowPage(one, { codeRoot })))
   const apps = loaded.flat()
   if (apps.length === 0) {
     throw new Error(
-      `no workflow-template page under ${instructionsRoot} states \`kind: apps\`, so nothing here says which app a deploy carries. Every dependent would read as undeployable and the coverage this run certifies would be vacuous.`
+      `no workflow-template page under ${akashaRoot} states \`kind: apps\`, so nothing here says which app a deploy carries. Every dependent would read as undeployable and the coverage this run certifies would be vacuous.`
     )
   }
   const named = new Set<string>()
@@ -173,7 +173,7 @@ export default async function checkPagesUiStoreSidecarMemory(args: readonly stri
   // `??` guarded nothing: `rootFor` is evaluated whether or not `--code-root` was given, and it
   // throws for a repository nothing has cloned, so every call without that flag died on this line.
   const codeRoot = resolve(parsed.string("--code-root") ?? rootFor(roots, AKASHA))
-  const instructionsRoot = resolve(parsed.string("--akasha-root") ?? rootFor(roots, AKASHA))
+  const akashaRoot = resolve(parsed.string("--akasha-root") ?? rootFor(roots, AKASHA))
 
   let workspaces: readonly WorkspaceInfo[]
   try {
@@ -192,7 +192,7 @@ export default async function checkPagesUiStoreSidecarMemory(args: readonly stri
 
   let deployed: ReadonlySet<string>
   try {
-    deployed = await deployablePackages(instructionsRoot, codeRoot)
+    deployed = await deployablePackages(akashaRoot, codeRoot)
   } catch (err) {
     exitOnToolError({ error: errorMessage(err), prefix: PREFIX })
   }

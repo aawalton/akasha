@@ -4,7 +4,7 @@ import { canonicalize, normalizeAbsolute } from "../../../repo/path/path"
 import { AKASHA, resolveRoots, rootFor } from "../../../repo/roots/roots"
 
 export interface SurfaceRoots {
-  readonly instructionsRoot: string
+  readonly akashaRoot: string
   readonly codeRoot: string
 }
 
@@ -31,11 +31,11 @@ export const SURFACE_ROOT_FLAGS: readonly HelpFlag[] = [AKASHA_ROOT_FLAG, CODE_R
 const real = (path: string): string => canonicalize(normalizeAbsolute(path))
 
 export function surfaceRoots(flags: {
-  readonly instructionsRoot?: string | undefined
+  readonly akashaRoot?: string | undefined
   readonly codeRoot?: string | undefined
 }): SurfaceRoots {
   return {
-    instructionsRoot: real(flags.instructionsRoot ?? rootFor(resolveRoots(), AKASHA)),
+    akashaRoot: real(flags.akashaRoot ?? rootFor(resolveRoots(), AKASHA)),
     codeRoot: real(flags.codeRoot ?? codeRoot()),
   }
 }
@@ -43,7 +43,7 @@ export function surfaceRoots(flags: {
 export function readUnder(roots: SurfaceRoots): string {
   return (
     `READ UNDER: workflow pages and their declarations from the akasha tree at ` +
-    `${roots.instructionsRoot}; the tree they are composed over, and every file path they ` +
+    `${roots.akashaRoot}; the tree they are composed over, and every file path they ` +
     `name, from the code tree at ${roots.codeRoot}.`
   )
 }

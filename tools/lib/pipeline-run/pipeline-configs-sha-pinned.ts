@@ -41,12 +41,12 @@ export async function loadAllWorkflowConfigsAtShaInProcess(
         if (args.timings) args.timings.treeExtractMs = ms
       },
     },
-    async (instructionsRoot) =>
+    async (akashaRoot) =>
       withShaPinnedTree(
         { gitDir: args.gitDir, sha: args.sha, scratchRoot: args.scratchRoot },
         async (codeRoot) =>
           loadAllWorkflowConfigs({
-            instructionsRoot,
+            akashaRoot,
             codeRoot,
             gitDir: args.gitDir,
             commitSha: args.sha,

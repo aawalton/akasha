@@ -66,7 +66,7 @@ export default async function checkChecksumSubstitutionReachability(
 ): Promise<void> {
   const parsed = parseArgs(help, args)
   const roots = surfaceRoots({
-    instructionsRoot: parsed.string("--akasha-root"),
+    akashaRoot: parsed.string("--akasha-root"),
     codeRoot: parsed.string("--code-root"),
   })
 
@@ -85,7 +85,7 @@ export default async function checkChecksumSubstitutionReachability(
   let declared: readonly DeclaredStep[]
   let workflowCount: number
   try {
-    const surface = await buildWorkflowSurface(roots.instructionsRoot, {
+    const surface = await buildWorkflowSurface(roots.akashaRoot, {
       codeRoot: roots.codeRoot,
     })
     workflowCount = surface.workflows.length
@@ -117,7 +117,7 @@ export default async function checkChecksumSubstitutionReachability(
         "`steps` entry of every workflow it returned, flattened with nothing dropped",
     },
     labelOf: (member) => `${member.workflow} → ${member.name}`,
-    siteOf: (member) => `${roots.instructionsRoot}/${member.sourcePath}`,
+    siteOf: (member) => `${roots.akashaRoot}/${member.sourcePath}`,
     examine: (member) => {
       let commands: readonly string[]
       try {
@@ -142,7 +142,7 @@ export default async function checkChecksumSubstitutionReachability(
   if (stamping.length === 0) {
     exitOnToolError({
       error: new Error(
-        `gate-integrity failure: composing ${roots.instructionsRoot} over ${roots.codeRoot} ` +
+        `gate-integrity failure: composing ${roots.akashaRoot} over ${roots.codeRoot} ` +
           `resolved no step at all (${workflowCount} workflow(s)). An empty population would ` +
           "report clean having scanned nothing."
       ),
