@@ -1,6 +1,6 @@
 import { afterEach, beforeEach, describe, expect, test } from "bun:test"
 import { utimesSync } from "node:fs"
-import { noticeFor } from "../hooks/compose-subagent.ts"
+import { noticeFor } from "../hooks/agent-hook-compose-subagent.agent-hook.code.attachment.ts"
 import { type Fixture, fixture } from "./fixture.ts"
 import { plantSeat, seatStore } from "./seat-fixture.ts"
 
@@ -18,8 +18,6 @@ const GOVERNING = [PERSONA, ROLE, DOMAIN, GLOBAL] as const
 let at: Fixture
 
 // THE FIXTURE ALREADY NAMES THIS ROOT, in `AKASHA_ROOT`, which is the one variable read for it.
-// This also set `INSTRUCTIONS_ROOT`, which nothing reads now that the instructions repository is
-// absorbed, so it pointed nowhere and said nothing about where these pages were looked for.
 beforeEach(() => {
   at = fixture()
   seatStore(at)
