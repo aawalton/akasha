@@ -8,7 +8,8 @@
     "./voice/estimate-marks": "./src/voice/estimate-marks.ts",
     "./voice/infer-endpoint": "./src/voice/infer-endpoint.ts",
     "./voice/mark-schema": "./src/voice/mark-schema.ts",
-    "./voice/speech": "./src/voice/speech.ts"
+    "./voice/speech": "./src/voice/speech.ts",
+    "./*": "./src/*.ts"
   },
   "dependencies": {
     "zod": "^4.3.6"
