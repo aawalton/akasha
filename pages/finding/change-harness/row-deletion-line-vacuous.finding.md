@@ -1,5 +1,6 @@
 ---
 id: 770893d7-35be-574a-8eea-d2c091e78ed2
+slug: row-deletion-line-vacuous
 page-type-slug: finding
 title: "Every page type under change-harness is already file-backed, so the row-deletion line guards nothing"
 domain-slug: domain/change-harness

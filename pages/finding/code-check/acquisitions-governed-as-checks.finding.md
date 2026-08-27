@@ -1,5 +1,6 @@
 ---
 id: 9f6d3736-3cde-5c26-97c1-2e80d68d4aa8
+slug: acquisitions-governed-as-checks
 page-type-slug: finding
 title: "Two tree acquisitions sit under a document defining everything in it as a check, and neither is one"
 domain-slug: domain/global

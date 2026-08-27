@@ -1,5 +1,6 @@
 ---
 id: cd3ee5fe-5f0c-576f-856f-6d4cb153eae6
+slug: one-poll-holds-the-service-half-the-time
 page-type-slug: finding
 title: "One repeating poll holds the page query service for more than half of every five seconds, and every other caller waits behind it"
 domain-slug: domain/pages-system

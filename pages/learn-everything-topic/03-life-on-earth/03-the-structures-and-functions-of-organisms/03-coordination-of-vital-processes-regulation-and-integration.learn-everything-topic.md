@@ -1,5 +1,6 @@
 ---
 id: b4193aba-5d29-54a1-a03a-b681d9959df4
+slug: 03-coordination-of-vital-processes-regulation-and-integration
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Coordination of Vital Processes: Regulation and Integration
 D: 0

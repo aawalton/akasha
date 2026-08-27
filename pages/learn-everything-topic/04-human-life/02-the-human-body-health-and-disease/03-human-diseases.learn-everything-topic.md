@@ -1,5 +1,6 @@
 ---
 id: fadaebe0-fb53-5915-947b-f9b7ec0085aa
+slug: 03-human-diseases
 page-type-slug: learn-everything-topic
 node: Human Life › The Human Body: Health and Disease › Human Diseases
 D: 0

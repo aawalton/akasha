@@ -1,5 +1,6 @@
 ---
 id: 0aa96025-5c0f-563d-bba9-2ce7dec1d31f
+slug: mirror-hook-blocks-push
 page-type-slug: finding
 title: "Every gated write waits about eleven seconds on a failing GitHub mirror hook"
 domain-slug: domain/git-repos

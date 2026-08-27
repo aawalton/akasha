@@ -1,5 +1,6 @@
 ---
 id: aa6310e0-e4bf-5738-b6c6-1091581c63de
+slug: 01-earth-s-properties-structure-composition
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Properties, Structure, Composition
 D: 0

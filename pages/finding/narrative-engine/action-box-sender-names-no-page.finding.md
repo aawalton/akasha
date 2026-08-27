@@ -1,5 +1,6 @@
 ---
 id: 730ae435-c4a5-519a-88db-8d10093c8a33
+slug: action-box-sender-names-no-page
 page-type-slug: finding
 title: "The action box sender names no page, so the player action box cannot write"
 domain-slug: domain/narrative-engine

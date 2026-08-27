@@ -1,5 +1,6 @@
 ---
 id: 0292847e-ecb7-5f31-9567-4873b44cc060
+slug: part-files-escape-judgment
 page-type-slug: finding
 title: "The rows-file pattern mis-parses a part file, so rows past the split are never judged"
 domain-slug: domain/page-storage-rows

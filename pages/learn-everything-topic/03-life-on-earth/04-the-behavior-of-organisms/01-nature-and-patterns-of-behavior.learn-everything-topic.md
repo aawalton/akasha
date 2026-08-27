@@ -1,5 +1,6 @@
 ---
 id: 2088b81d-2871-5eaa-9a72-8409b8574c8c
+slug: 01-nature-and-patterns-of-behavior
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Behavior of Organisms › Nature and Patterns of Behavior
 D: 0

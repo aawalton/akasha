@@ -1,5 +1,6 @@
 ---
 id: 9dd6ea25-56ee-5ef4-a800-9deaad3ed88a
+slug: chapter-backup-gone-but-still-read
 page-type-slug: finding
 title: "The chapter-backup type is gone from every world while 804 events and two modules still reach it"
 domain-slug: domain/global

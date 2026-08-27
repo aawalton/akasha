@@ -1,5 +1,6 @@
 ---
 id: b3706b5b-303d-5ddb-9aab-75aff946a6ea
+slug: verify-skill-current-verification
 page-type-slug: finding
 title: "verify skill, current verification feels too heavy, distinguish at dif"
 domain-slug: persona/athena

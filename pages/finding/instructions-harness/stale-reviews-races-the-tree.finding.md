@@ -1,5 +1,6 @@
 ---
 id: f481085e-0a6a-5478-b4d4-b15e171003bf
+slug: stale-reviews-races-the-tree
 page-type-slug: finding
 title: "The stale-reviews tool crashes when another seat removes a tracked path mid-run"
 domain-slug: domain/global

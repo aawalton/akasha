@@ -1,5 +1,6 @@
 ---
 id: 06a6c572-0fb3-5b05-9b95-677f1cf415c7
+slug: reward-concepts-stand-beside-the-persona
 page-type-slug: finding
 title: "A persona reward concept stands beside the persona, so that Intent entry should leave outright"
 domain-slug: domain/global

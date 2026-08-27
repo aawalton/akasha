@@ -1,5 +1,6 @@
 ---
 id: 515a125d-7e32-5fc2-9dcb-33651f0099c5
+slug: irreversible-spelled-twice
 page-type-slug: finding
 title: "Irreversibility is stated on the document and in the code, and only the code gates"
 domain-slug: domain/ops-cli

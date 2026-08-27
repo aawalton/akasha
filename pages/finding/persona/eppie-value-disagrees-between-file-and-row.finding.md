@@ -1,5 +1,6 @@
 ---
 id: 088443df-e909-5093-b7d5-115ff5571e5a
+slug: eppie-value-disagrees-between-file-and-row
 page-type-slug: finding
 title: "Eppie's value disagrees between her file and her row"
 domain-slug: page-type/persona

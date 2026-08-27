@@ -1,5 +1,6 @@
 ---
 id: c89282e5-2e52-5388-a725-377aa104533d
+slug: telnyx-refusal-reason-discarded
 page-type-slug: finding
 title: "Telnyx refusal reason is discarded"
 domain-slug: domain/ops-sms

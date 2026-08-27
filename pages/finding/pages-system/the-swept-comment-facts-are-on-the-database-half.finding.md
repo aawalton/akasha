@@ -1,5 +1,6 @@
 ---
 id: 300e7bdd-4caf-58ca-8c60-44d99b591aaf
+slug: the-swept-comment-facts-are-on-the-database-half
 page-type-slug: finding
 title: "Every fact the swept pages comments carried is about the database half being retired"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 6b00e483-ca11-58c0-abb2-4269a5bb3b25
+slug: page-type-row-still-says-relationship-progress
 page-type-slug: finding
 title: "The page type row still says relationship-progress"
 domain-slug: page-type/persona-day

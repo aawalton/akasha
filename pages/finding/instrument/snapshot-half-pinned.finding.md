@@ -1,5 +1,6 @@
 ---
 id: 3ebed865-fa84-5dc9-b81a-b7d6fec39a81
+slug: snapshot-half-pinned
 page-type-slug: finding
 title: "A graph snapshot pins one repository at a commit and reads the other as it stands, so the same named commit reads differently twice"
 domain-slug: domain/instrument

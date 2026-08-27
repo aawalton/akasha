@@ -1,5 +1,6 @@
 ---
 id: 527a73bf-e5b2-57d1-b2c1-77e209a3d0d5
+slug: page-type-refs-untyped
 page-type-slug: finding
 title: "Three keys that name a page type by its slug are typed as plain text rather than as a relation"
 domain-slug: domain/pages-system

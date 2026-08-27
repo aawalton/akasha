@@ -1,5 +1,6 @@
 ---
 id: ae7fff1f-70eb-5a28-8eaa-3fac3c2e0d79
+slug: 05-the-place-of-humans-in-the-biosphere
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere › The Place of Humans in the Biosphere
 D: 0

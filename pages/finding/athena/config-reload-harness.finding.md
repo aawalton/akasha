@@ -1,5 +1,6 @@
 ---
 id: a193e9ba-4a93-5a9a-90e8-6255d97c94d5
+slug: config-reload-harness
 page-type-slug: finding
 title: "config reload in harness"
 domain-slug: persona/athena

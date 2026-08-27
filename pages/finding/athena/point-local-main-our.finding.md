@@ -1,5 +1,6 @@
 ---
 id: 14e4bffb-0e94-5ef7-90f7-d1eca6154690
+slug: point-local-main-our
 page-type-slug: finding
 title: "point local main at our worktree?"
 domain-slug: persona/athena

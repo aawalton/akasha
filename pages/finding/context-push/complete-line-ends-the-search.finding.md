@@ -1,5 +1,6 @@
 ---
 id: 1ebf3cb3-959e-5b36-a8c9-62ee1c5f1ecc
+slug: complete-line-ends-the-search
 page-type-slug: finding
 title: "A complete-sounding line stops a reader reaching the document it points to"
 domain-slug: domain/context-push

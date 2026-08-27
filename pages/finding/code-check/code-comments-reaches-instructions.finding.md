@@ -1,5 +1,6 @@
 ---
 id: 8f471e6e-187d-5fa9-a13d-e4d7645cb984
+slug: code-comments-reaches-instructions
 page-type-slug: finding
 title: "check-code-comments reaches the instructions repository, the disqualification two checks were retired for"
 domain-slug: domain/global

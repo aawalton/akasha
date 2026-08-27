@@ -1,5 +1,6 @@
 ---
 id: e9cd6698-defa-5b2c-bca9-a8b24144292d
+slug: whole-body-bound-unmeasured
 page-type-slug: finding
 title: "A whole-body length bound is claimed and nothing measures one"
 domain-slug: domain/page-storage-attachment

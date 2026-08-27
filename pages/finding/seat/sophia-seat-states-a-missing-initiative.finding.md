@@ -1,5 +1,6 @@
 ---
 id: 7de1d0f6-53fb-5332-b4d3-302b5f41b2b7
+slug: sophia-seat-states-a-missing-initiative
 page-type-slug: finding
 title: "One seat states an initiative with no document, so a sweep counts it as holding nothing"
 domain-slug: page-type/seat

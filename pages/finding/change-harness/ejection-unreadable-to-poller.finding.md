@@ -1,5 +1,6 @@
 ---
 id: a2a78ba0-4280-562b-948a-762abfbccf9d
+slug: ejection-unreadable-to-poller
 page-type-slug: finding
 title: "An ejected merge-queue entry reaches the waiting deploy as a stall, not as an ejection"
 domain-slug: domain/change-harness

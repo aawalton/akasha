@@ -1,5 +1,6 @@
 ---
 id: 86a9c408-1927-59a5-987c-35f0ae3ce85b
+slug: why-do-intelligent-agents
 page-type-slug: finding
 title: "why do intelligent agents get things wrong?"
 domain-slug: persona/athena

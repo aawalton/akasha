@@ -1,5 +1,6 @@
 ---
 id: 65c213da-af25-58cc-b3f8-1ae03718c4d8
+slug: seat-commands-outside-seat-namespace
 page-type-slug: finding
 title: "Four commands whose subject is a seat are invoked through ops instructions, against the namespace's own intent"
 domain-slug: domain/ops-seat

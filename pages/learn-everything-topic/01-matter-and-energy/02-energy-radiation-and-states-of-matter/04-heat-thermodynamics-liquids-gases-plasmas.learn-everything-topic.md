@@ -1,5 +1,6 @@
 ---
 id: f5091331-2859-54ef-849f-61d6dfddab5f
+slug: 04-heat-thermodynamics-liquids-gases-plasmas
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Heat, Thermodynamics, Liquids, Gases, Plasmas
 D: 0

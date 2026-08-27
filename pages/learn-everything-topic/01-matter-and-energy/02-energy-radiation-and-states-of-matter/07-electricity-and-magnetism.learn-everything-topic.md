@@ -1,5 +1,6 @@
 ---
 id: 06865738-6082-548d-b1a4-ac054b92013f
+slug: 07-electricity-and-magnetism
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Electricity and Magnetism
 D: 0

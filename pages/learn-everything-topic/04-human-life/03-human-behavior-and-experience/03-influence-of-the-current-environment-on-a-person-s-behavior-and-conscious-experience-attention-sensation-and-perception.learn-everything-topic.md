@@ -1,5 +1,6 @@
 ---
 id: fecfc018-39d4-586b-ade7-fd5bb935c42e
+slug: 03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious-experience-attention-sensation-and-perception
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › Influence of the current environment on a person's behavior and conscious experience: attention, sensation, and perception
 D: 0

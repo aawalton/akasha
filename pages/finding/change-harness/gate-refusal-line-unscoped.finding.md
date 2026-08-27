@@ -1,5 +1,6 @@
 ---
 id: 95aa2afb-007e-5b9c-a4c0-8eff1cd0f03d
+slug: gate-refusal-line-unscoped
 page-type-slug: finding
 title: "The line barring instructions a gate could refuse names no scope, and both readings fail"
 domain-slug: domain/change-harness

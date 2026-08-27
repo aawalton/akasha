@@ -1,5 +1,6 @@
 ---
 id: f0ee7529-eccd-5432-a6a6-03ca1db6edb1
+slug: 01-philosophies-and-systems-of-law-the-practice-of-law
 page-type-slug: learn-everything-topic
 node: Human Society › Law › Philosophies and Systems of Law; the Practice of Law
 D: 0

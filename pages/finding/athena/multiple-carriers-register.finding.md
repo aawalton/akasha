@@ -1,5 +1,6 @@
 ---
 id: 1273df68-68c5-51c8-8f75-e1ca5e0590be
+slug: multiple-carriers-register
 page-type-slug: finding
 title: "multiple carriers for register"
 domain-slug: persona/athena

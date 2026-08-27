@@ -1,5 +1,6 @@
 ---
 id: e6065d19-4c59-5f26-96e1-7b214424afe3
+slug: 01-the-cosmos
 page-type-slug: learn-everything-topic
 node: Matter and Energy › The Universe › The Cosmos
 D: 0

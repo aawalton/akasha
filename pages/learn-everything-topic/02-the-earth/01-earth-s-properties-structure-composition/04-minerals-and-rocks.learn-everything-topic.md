@@ -1,5 +1,6 @@
 ---
 id: 77958f8b-a8a4-5469-b8eb-c975d227f605
+slug: 04-minerals-and-rocks
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Properties, Structure, Composition › Minerals and Rocks
 D: 0

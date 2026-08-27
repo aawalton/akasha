@@ -1,5 +1,6 @@
 ---
 id: ac0b2aa8-388f-53d2-98b1-05c06c96fdde
+slug: deploy-restarts-past-the-document
 page-type-slug: finding
 title: "One deploy path restarts a workstation service by a unit name spelled beside it, past its document"
 domain-slug: page-type/workstation-service

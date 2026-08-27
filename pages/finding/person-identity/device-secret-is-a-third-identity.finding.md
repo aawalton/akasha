@@ -1,5 +1,6 @@
 ---
 id: aee6318e-70e1-5d05-80c1-b2d24068dd8f
+slug: device-secret-is-a-third-identity
 page-type-slug: finding
 title: "Device secret is a third way identity is established"
 domain-slug: domain/person-identity

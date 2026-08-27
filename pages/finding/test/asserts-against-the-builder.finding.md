@@ -1,5 +1,6 @@
 ---
 id: aaf10b32-94fd-5eb6-9c13-1d1e37ca1360
+slug: asserts-against-the-builder
 page-type-slug: finding
 title: "A test asserting a value equals the builder the code used to make it agrees by construction"
 domain-slug: domain/test

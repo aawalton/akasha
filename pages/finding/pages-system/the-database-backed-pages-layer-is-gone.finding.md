@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 061c91de-ebc2-5ea8-918c-771d373e7f3e
+slug: the-database-backed-pages-layer-is-gone
 title: "The database-backed pages layer is gone while its code and docs still stand"
 domain-slug: domain/pages-system
 ---

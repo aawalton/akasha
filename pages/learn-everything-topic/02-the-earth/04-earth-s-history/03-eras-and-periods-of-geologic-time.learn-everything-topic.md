@@ -1,5 +1,6 @@
 ---
 id: 4c3a641c-9ea2-5423-9ec8-c5e685a9db62
+slug: 03-eras-and-periods-of-geologic-time
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's History › Eras and Periods of Geologic Time
 D: 0

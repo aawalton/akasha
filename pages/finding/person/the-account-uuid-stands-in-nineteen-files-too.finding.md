@@ -1,5 +1,6 @@
 ---
 id: 0b84af6b-19ac-58d7-913d-64523e360a00
+slug: the-account-uuid-stands-in-nineteen-files-too
 page-type-slug: finding
 title: "A person's account uuid still stands as a bare literal in nineteen code-repository files"
 domain-slug: page-type/person

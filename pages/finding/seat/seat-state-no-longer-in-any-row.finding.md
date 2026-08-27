@@ -1,5 +1,6 @@
 ---
 id: eaeb897d-4888-5208-b267-a713339975e5
+slug: seat-state-no-longer-in-any-row
 page-type-slug: finding
 title: "Everything about a seat stands in its file and nothing in a row, so that Intent entry should leave outright"
 domain-slug: page-type/seat

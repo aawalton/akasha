@@ -1,5 +1,6 @@
 ---
 id: b145e207-4d99-5fbb-83e2-c3ad60265a7f
+slug: backing-undecidable-offline
 page-type-slug: finding
 title: "The browser cannot decide a page type's backing while the roster is down"
 domain-slug: domain/page-types-system

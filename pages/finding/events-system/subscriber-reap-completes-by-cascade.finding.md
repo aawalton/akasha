@@ -1,5 +1,6 @@
 ---
 id: 01a0200b-f58e-7000-b777-859270b3759d
+slug: subscriber-reap-completes-by-cascade
 page-type-slug: finding
 title: "Retiring a subscriber clears both tables by cascade; what is missing is anything that runs the reap"
 domain-slug: domain/global

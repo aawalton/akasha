@@ -1,5 +1,6 @@
 ---
 id: db919827-e959-5ecd-95e3-6d89a89d8b60
+slug: arrival-package-dead-behind-the-boot-digest
 page-type-slug: finding
 title: "The arrival package is dead behind the boot digest"
 domain-slug: domain/unused-code

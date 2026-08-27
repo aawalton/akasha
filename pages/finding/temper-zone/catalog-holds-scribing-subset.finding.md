@@ -1,5 +1,6 @@
 ---
 id: d66980e0-6467-5ed6-a273-c47f83993a47
+slug: catalog-holds-scribing-subset
 page-type-slug: finding
 title: "The zone catalog holds only the scribing-script zones"
 domain-slug: page-type/temper-zone

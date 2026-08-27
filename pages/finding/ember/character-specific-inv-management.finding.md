@@ -1,5 +1,6 @@
 ---
 id: 901f8cf4-6b28-5fc1-88e7-2659ea50eeec
+slug: character-specific-inv-management
 page-type-slug: finding
 title: "character-specific inv management virtual task"
 domain-slug: persona/ember

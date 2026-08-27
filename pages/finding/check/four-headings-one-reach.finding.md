@@ -1,5 +1,6 @@
 ---
 id: cef0832d-3781-58a2-ae6b-68d6782101d2
+slug: four-headings-one-reach
 page-type-slug: finding
 title: "Four headings on check.md end in Reach and each means something different by it"
 domain-slug: domain/992

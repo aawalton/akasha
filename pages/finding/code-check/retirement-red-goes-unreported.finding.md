@@ -1,5 +1,6 @@
 ---
 id: 98b08c9d-0d12-59cf-8c29-5c5e552a6b60
+slug: retirement-red-goes-unreported
 page-type-slug: finding
 title: "Nothing reports the gap between a retirement landing and the fleet going red"
 domain-slug: domain/global

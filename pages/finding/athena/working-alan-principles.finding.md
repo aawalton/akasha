@@ -1,5 +1,6 @@
 ---
 id: b5c85cf6-b73a-5951-9e69-9562eca5bbe5
+slug: working-alan-principles
 page-type-slug: finding
 title: "working with alan principles"
 domain-slug: persona/athena

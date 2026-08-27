@@ -1,5 +1,6 @@
 ---
 id: b678ec6a-b401-50fa-b97f-5400df02464e
+slug: memory-links-not-repointed
 page-type-slug: finding
 title: "A markdown link from the memory repo into a moved instructions page is left pointing at the deleted path, and the mentions check calls it clean"
 domain-slug: domain/global

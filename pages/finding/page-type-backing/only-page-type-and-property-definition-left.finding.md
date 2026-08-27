@@ -1,5 +1,6 @@
 ---
 id: 58487bd5-a0d6-5b45-a307-b8f2361e6ec2
+slug: only-page-type-and-property-definition-left
 page-type-slug: finding
 title: "Two page types still hold a live row, and that remainder is structural rather than a backlog"
 domain-slug: domain/global

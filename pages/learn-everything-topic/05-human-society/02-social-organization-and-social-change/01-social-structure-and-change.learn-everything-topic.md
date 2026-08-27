@@ -1,5 +1,6 @@
 ---
 id: f41d6ea3-0ab8-5e92-953f-8f843b08c79e
+slug: 01-social-structure-and-change
 page-type-slug: learn-everything-topic
 node: Human Society › Social Organization and Social Change › Social Structure and Change
 D: 3

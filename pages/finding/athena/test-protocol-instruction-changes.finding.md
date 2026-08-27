@@ -1,5 +1,6 @@
 ---
 id: 02504833-dacf-5a96-aa9e-ad4722d656dd
+slug: test-protocol-instruction-changes
 page-type-slug: finding
 title: "test protocol for instruction changes"
 domain-slug: persona/athena

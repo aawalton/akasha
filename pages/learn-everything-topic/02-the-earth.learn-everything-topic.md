@@ -1,5 +1,6 @@
 ---
 id: d806d3a6-1347-5d77-b483-823c83815b69
+slug: 02-the-earth
 page-type-slug: learn-everything-topic
 node: The Earth
 D: 0

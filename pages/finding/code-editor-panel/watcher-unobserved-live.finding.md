@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 7997ae0d-8641-535f-98a0-63bc5841275f
+slug: watcher-unobserved-live
 title: "No panel's watcher has been seen firing in a running editor; every re-read claim rests on reading"
 domain-slug: domain/code-editor-panel
 ---

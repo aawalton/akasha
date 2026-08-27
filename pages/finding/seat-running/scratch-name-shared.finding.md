@@ -1,5 +1,6 @@
 ---
 id: 2c7a3c73-59ee-5996-97bb-e722c9235659
+slug: scratch-name-shared
 page-type-slug: finding
 title: "A scratch file named for its purpose alone collides between seats"
 domain-slug: domain/seat-running

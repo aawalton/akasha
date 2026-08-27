@@ -1,5 +1,6 @@
 ---
 id: 315d9022-6cf7-53c4-ae11-e89cb9e19097
+slug: 05-macroeconomics
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth › Macroeconomics
 D: 0

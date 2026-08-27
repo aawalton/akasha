@@ -1,5 +1,6 @@
 ---
 id: a98056d9-f036-560b-870b-9943010b67f1
+slug: 04-language-and-communication
 page-type-slug: learn-everything-topic
 node: Human Society › Social Groups: Ethnic groups and Cultures › Language and Communication
 D: 0

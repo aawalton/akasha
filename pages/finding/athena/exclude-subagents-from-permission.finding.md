@@ -1,5 +1,6 @@
 ---
 id: f103318e-c5e5-507e-bdbe-0bb37268a1e6
+slug: exclude-subagents-from-permission
 page-type-slug: finding
 title: "exclude subagents from permission guard"
 domain-slug: persona/athena

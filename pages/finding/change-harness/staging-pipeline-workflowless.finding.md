@@ -1,5 +1,6 @@
 ---
 id: 05cf8650-c8f6-5d18-9f4c-ec9e0ffab5e0
+slug: staging-pipeline-workflowless
 page-type-slug: finding
 title: "Every staging pipeline starts with no workflows, so nothing can land through the merge queue"
 domain-slug: domain/change-harness

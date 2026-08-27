@@ -1,5 +1,6 @@
 ---
 id: d1df1a98-366d-5da7-8d61-08bbfd7a876f
+slug: 02-earth-s-physical-properties
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Properties, Structure, Composition › Earth's Physical Properties
 D: 0

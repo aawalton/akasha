@@ -1,5 +1,6 @@
 ---
 id: 6ad9eba3-194c-5ba8-845e-47f891f1b4bd
+slug: properties-read-but-never-written
 page-type-slug: finding
 title: "CI properties read but never written"
 domain-slug: page-type/pipeline

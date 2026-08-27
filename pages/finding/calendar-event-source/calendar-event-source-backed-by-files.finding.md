@@ -1,5 +1,6 @@
 ---
 id: 08675634-2546-5059-ace4-cddfac73f0aa
+slug: calendar-event-source-backed-by-files
 page-type-slug: finding
 title: "A calendar event source is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/calendar-event-source

@@ -1,5 +1,6 @@
 ---
 id: 01978f68-6a3d-57af-8c4b-f395d8ebd82f
+slug: 02-metabolism-bioenergetics-and-biosynthesis
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Molecular Basis of Life › Metabolism: Bioenergetics and Biosynthesis
 D: 0

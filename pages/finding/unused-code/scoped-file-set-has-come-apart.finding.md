@@ -1,5 +1,6 @@
 ---
 id: 133ffd13-1e2f-5e21-b602-85bcc331498c
+slug: scoped-file-set-has-come-apart
 page-type-slug: finding
 title: "The three files scoped together for unused-code no longer stand as one set"
 domain-slug: domain/unused-code

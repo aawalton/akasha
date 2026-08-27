@@ -1,5 +1,6 @@
 ---
 id: 8b5cab59-a018-508a-a778-8d0cd5f2a44d
+slug: page-type-lines-await-alan
 page-type-slug: finding
 title: "Watcher enrolment page type lines await Alan"
 domain-slug: page-type/temper-watcher-enrolment

@@ -1,5 +1,6 @@
 ---
 id: e558920a-4740-52dc-956f-43feff93185a
+slug: 04-current-internal-states-affecting-a-person-behavior-and-conscious-experience
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › Current Internal states affecting a person' behavior and conscious experience
 D: 0

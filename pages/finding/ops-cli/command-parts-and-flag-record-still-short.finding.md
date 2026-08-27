@@ -1,5 +1,6 @@
 ---
 id: 5134cb05-0b74-567e-b20c-c2ee32f50b99
+slug: command-parts-and-flag-record-still-short
 page-type-slug: finding
 title: "Neither ops-cli Intent entry is true yet, and both remainders are nameable"
 domain-slug: domain/ops-cli

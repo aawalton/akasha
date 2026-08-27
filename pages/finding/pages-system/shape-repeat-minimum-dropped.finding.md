@@ -1,5 +1,6 @@
 ---
 id: 1ca7d0b9-d8d7-5884-93e7-4e20744f8e99
+slug: shape-repeat-minimum-dropped
 page-type-slug: finding
 title: "A shape repeat minimum is read and dropped"
 domain-slug: domain/pages-system

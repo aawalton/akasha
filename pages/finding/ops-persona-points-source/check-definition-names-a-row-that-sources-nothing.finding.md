@@ -1,5 +1,6 @@
 ---
 id: 914f471c-8ee7-501c-b441-fbb4763db9d2
+slug: check-definition-names-a-row-that-sources-nothing
 page-type-slug: finding
 title: "The points-source check definition names a row that sources nothing"
 domain-slug: domain/global

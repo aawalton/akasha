@@ -1,5 +1,6 @@
 ---
 id: 298a512d-4732-5bda-bdf8-7792351dce76
+slug: scales-stand-in-two-places
 page-type-slug: finding
 title: "The eleven readout scales stand as pages and as constants, and every product reads the constants"
 domain-slug: page-type/readout-scale

@@ -1,5 +1,6 @@
 ---
 id: 74fb82c1-00e9-5e81-892c-dfc2584747d8
+slug: review-ci-node-assignment
 page-type-slug: finding
 title: "Review ci node assignment algorithm"
 domain-slug: persona/dalla

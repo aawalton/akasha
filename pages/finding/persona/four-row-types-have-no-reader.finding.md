@@ -1,5 +1,6 @@
 ---
 id: 1de841d1-a10d-560e-99b1-db8097b59fc6
+slug: four-row-types-have-no-reader
 page-type-slug: finding
 title: "Four persona row types have no reader"
 domain-slug: page-type/persona

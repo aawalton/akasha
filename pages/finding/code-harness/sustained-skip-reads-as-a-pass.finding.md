@@ -1,5 +1,6 @@
 ---
 id: 5ecce6a3-700e-545f-ad92-de3ccbf9168b
+slug: sustained-skip-reads-as-a-pass
 page-type-slug: finding
 title: "The nightly sim suite skipped three consecutive nights at exit 0, so a sustained skip reads as a pass"
 domain-slug: domain/global

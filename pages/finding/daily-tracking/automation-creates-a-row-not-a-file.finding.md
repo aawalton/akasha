@@ -1,5 +1,6 @@
 ---
 id: 7929ad75-59a0-524d-8e5a-db815964b6ee
+slug: automation-creates-a-row-not-a-file
 page-type-slug: finding
 title: "The daily-tracking automation creates a row while every other writer creates a file"
 domain-slug: page-type/daily-tracking

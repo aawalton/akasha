@@ -1,5 +1,6 @@
 ---
 id: f75c9483-e6eb-58e8-abc1-55051f66f04c
+slug: 03-the-organization-of-production-and-distribution
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth › The Organization of Production and Distribution
 D: 0

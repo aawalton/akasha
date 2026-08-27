@@ -1,5 +1,6 @@
 ---
 id: facbf46e-7f9f-5ea2-90e0-58a60497ec74
+slug: 09-heredity-the-transmission-of-traits
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Heredity: the Transmission of Traits
 D: 0

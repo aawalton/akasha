@@ -1,5 +1,6 @@
 ---
 id: 0a719081-bef9-529d-a392-9d40d205d0fd
+slug: page-type-id-differs-across-stores
 page-type-slug: finding
 title: "A page type's document and its row carry different ids, so it has two identities and neither names the other"
 domain-slug: page-type/page-type

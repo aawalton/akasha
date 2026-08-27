@@ -1,5 +1,6 @@
 ---
 id: 5915eea4-deaf-5ef4-8f82-d826d7f0f6cc
+slug: relationship-population-fully-in-files
 page-type-slug: finding
 title: "A relationship is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/relationship

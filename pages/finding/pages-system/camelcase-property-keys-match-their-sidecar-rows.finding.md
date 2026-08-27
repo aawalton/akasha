@@ -1,5 +1,6 @@
 ---
 id: 3129b56c-369a-5c54-9751-889442cecac5
+slug: camelcase-property-keys-match-their-sidecar-rows
 page-type-slug: finding
 title: "Forty-two camelCase property keys are correct, because the sidecar rows they describe spell the same"
 domain-slug: domain/pages-system

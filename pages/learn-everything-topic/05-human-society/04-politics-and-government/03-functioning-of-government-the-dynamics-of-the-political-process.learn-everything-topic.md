@@ -1,5 +1,6 @@
 ---
 id: 87087f36-27cd-522d-a252-264f644b7298
+slug: 03-functioning-of-government-the-dynamics-of-the-political-process
 page-type-slug: learn-everything-topic
 node: Human Society › Politics and Government › Functioning of Government: the Dynamics of the Political Process
 D: 0

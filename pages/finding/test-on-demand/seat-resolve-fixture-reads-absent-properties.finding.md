@@ -1,5 +1,6 @@
 ---
 id: 0f13bdde-6fe4-5a35-8f0e-138065842617
+slug: seat-resolve-fixture-reads-absent-properties
 page-type-slug: finding
 title: "Every test in seat-resolve.on-demand errors on a fixture path that does not exist"
 domain-slug: domain/test-on-demand

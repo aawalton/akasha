@@ -1,5 +1,6 @@
 ---
 id: 72133794-d02a-573a-a4d6-10dadac850f0
+slug: positional-alias-check-skips-defaulted
 page-type-slug: finding
 title: "The positional-alias check reads only required flags, so every subject that defaults to the caller stands outside it"
 domain-slug: domain/ops-cli

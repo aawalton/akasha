@@ -1,5 +1,6 @@
 ---
 id: 8594e207-f8d2-5841-ade6-0315e9d33232
+slug: six-split-surfaces-proven-only-to-compilation
 page-type-slug: finding
 title: "Six split surfaces are proven only as far as compilation, and no instrument here can observe the rest"
 domain-slug: domain/code-quality

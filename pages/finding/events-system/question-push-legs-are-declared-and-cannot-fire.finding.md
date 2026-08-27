@@ -1,5 +1,6 @@
 ---
 id: 01a01fc7-e443-7000-b57f-6ef4a6667710
+slug: question-push-legs-are-declared-and-cannot-fire
 page-type-slug: finding
 title: "Question push legs are declared, reproduced every boot, and cannot fire"
 domain-slug: domain/global

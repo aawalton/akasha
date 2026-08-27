@@ -1,5 +1,6 @@
 ---
 id: 0f159ac7-cf5f-54ce-9db5-c93729cc17d0
+slug: mirror-failure-unreported
 page-type-slug: finding
 title: "A failed mirror writes no signal any reader sees"
 domain-slug: domain/git-repos

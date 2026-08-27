@@ -1,5 +1,6 @@
 ---
 id: 1b19c56f-edb2-4298-96d7-4ae37a66975e
+slug: absorption-strips-rationale-comments
 page-type-slug: finding
 title: "An absorption strips rationale comments, so findings about them go spent while their host files survive"
 domain-slug: domain/change-harness

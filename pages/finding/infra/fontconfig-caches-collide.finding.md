@@ -1,5 +1,6 @@
 ---
 id: 5378e6b0-f2fd-5382-a057-ca5c8ada7988
+slug: fontconfig-caches-collide
 page-type-slug: finding
 title: "Two fontconfig builds share one cache directory, and while both stand Chromium renders no text"
 domain-slug: domain/global

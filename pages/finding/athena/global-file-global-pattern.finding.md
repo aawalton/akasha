@@ -1,5 +1,6 @@
 ---
 id: 32707011-9b96-5ad1-8b7e-014a752cb8f6
+slug: global-file-global-pattern
 page-type-slug: finding
 title: "global file as global pattern for CLAUDE.md files"
 domain-slug: persona/athena

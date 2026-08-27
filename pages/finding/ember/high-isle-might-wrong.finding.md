@@ -1,5 +1,6 @@
 ---
 id: 2371c2ea-9b46-5508-823d-1bdc43ec1d6f
+slug: high-isle-might-wrong
 page-type-slug: finding
 title: "high isle might be wrong for isobel rapport?"
 domain-slug: persona/ember

@@ -1,5 +1,6 @@
 ---
 id: 7db973f5-bd3b-5ccb-ad1e-59531dcce7a1
+slug: 01-basic-features-of-the-biosphere
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere › Basic Features of the Biosphere
 D: 0

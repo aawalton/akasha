@@ -1,5 +1,6 @@
 ---
 id: c1893e5e-7cbe-55be-81be-53e6fb2628b0
+slug: move-more-instructions-out
 page-type-slug: finding
 title: "move more instructions out of code repo"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: 95e614b4-e1d7-520d-b502-9711dfffafa1
+slug: suite-red-on-moved-roots
 page-type-slug: finding
 title: "The change-aware suite is red on 20 arms no recent change reaches, at least one on a repository root that moved"
 domain-slug: domain/global

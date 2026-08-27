@@ -1,5 +1,6 @@
 ---
 id: aaafc016-c038-5401-a1a6-a83ee8d8ee0d
+slug: deleted-domain-took-live-intents
 page-type-slug: finding
 title: "Deleting the backing domain removed two intents a theme still measures against"
 domain-slug: domain/page-types-system

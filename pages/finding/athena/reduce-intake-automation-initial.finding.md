@@ -1,5 +1,6 @@
 ---
 id: 7c5e6222-d927-5be1-a3c2-da7f23c7c08f
+slug: reduce-intake-automation-initial
 page-type-slug: finding
 title: "reduce intake automation on initial start"
 domain-slug: persona/athena

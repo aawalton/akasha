@@ -1,5 +1,6 @@
 ---
 id: 4cab17f5-57a6-5973-be34-2cab3a7a6241
+slug: select-option-write-reports-success-and-saves-nothing
 page-type-slug: finding
 title: "Adding a select option reports success and writes nothing"
 domain-slug: domain/pages-system

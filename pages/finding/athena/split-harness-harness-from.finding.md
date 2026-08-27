@@ -1,5 +1,6 @@
 ---
 id: 36584145-0e80-5454-a27f-a5016f4a7f46
+slug: split-harness-harness-from
 page-type-slug: finding
 title: "split the harness harness from the dev harness"
 domain-slug: persona/athena

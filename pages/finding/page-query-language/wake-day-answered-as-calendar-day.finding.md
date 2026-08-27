@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 2fdb3c62-da90-5207-b7de-6e16c63f8d35
+slug: wake-day-answered-as-calendar-day
 title: "A page query naming the wake day is answered with the calendar day"
 domain-slug: domain/page-query-language
 ---

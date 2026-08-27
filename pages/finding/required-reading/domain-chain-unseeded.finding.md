@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "Required reading seeds the domain chain only for a repository name nothing answers to"
 domain-slug: required-reading
+slug: domain-chain-unseeded
 ---
 
 # Claim

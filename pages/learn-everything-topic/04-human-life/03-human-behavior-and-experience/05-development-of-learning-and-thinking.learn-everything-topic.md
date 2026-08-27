@@ -1,5 +1,6 @@
 ---
 id: 2cf2ad51-0be4-53bc-acc6-34b6dcaad842
+slug: 05-development-of-learning-and-thinking
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › Development of Learning and Thinking
 D: 0

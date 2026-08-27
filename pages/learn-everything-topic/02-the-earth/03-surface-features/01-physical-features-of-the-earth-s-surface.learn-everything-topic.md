@@ -1,5 +1,6 @@
 ---
 id: d5446c8f-780a-5631-85d0-a25f5a6f4a6c
+slug: 01-physical-features-of-the-earth-s-surface
 page-type-slug: learn-everything-topic
 node: The Earth › Surface Features › Physical Features of the Earth's Surface
 D: 0

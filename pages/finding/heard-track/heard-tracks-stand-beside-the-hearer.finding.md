@@ -1,5 +1,6 @@
 ---
 id: 7dd047ae-7baf-56e0-8745-8814cb4dcd7b
+slug: heard-tracks-stand-beside-the-hearer
 page-type-slug: finding
 title: "A heard track stands beside the person who heard it, so that Intent entry should leave outright"
 domain-slug: page-type/heard-track

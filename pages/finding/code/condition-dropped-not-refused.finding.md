@@ -1,5 +1,6 @@
 ---
 id: 01a02024-ee0d-7000-9631-d086e011ecbb
+slug: condition-dropped-not-refused
 page-type-slug: finding
 title: "Six sites answer an unreadable restriction with no restriction at all"
 domain-slug: domain/global

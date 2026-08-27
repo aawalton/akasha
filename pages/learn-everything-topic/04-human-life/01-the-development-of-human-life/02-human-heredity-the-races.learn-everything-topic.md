@@ -1,5 +1,6 @@
 ---
 id: 112e1638-b2b7-5869-971b-5d7a0807d8e4
+slug: 02-human-heredity-the-races
 page-type-slug: learn-everything-topic
 node: Human Life › The Development of Human Life › Human Heredity: the Races
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: b97f5363-dcee-5751-a8f2-1d4b788c67fb
+slug: repo-level-constraints-instructions
 page-type-slug: finding
 title: "repo-level constraints for instructions?"
 domain-slug: persona/athena

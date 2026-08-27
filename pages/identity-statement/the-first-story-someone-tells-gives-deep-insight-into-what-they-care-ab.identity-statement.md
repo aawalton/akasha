@@ -1,6 +1,7 @@
 ---
 page-type-slug: identity-statement
 id: 019ea810-a2d3-76ba-b92e-e6cf96dd6d68
+slug: the-first-story-someone-tells-gives-deep-insight-into-what-they-care-ab
 title: "The first story someone tells gives deep insight into what they care about most"
 icon: "file-text"
 status: planned

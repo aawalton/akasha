@@ -1,5 +1,6 @@
 ---
 id: 4b11d55a-cf2d-5a14-b984-e60bd818aefe
+slug: 02-branches-of-public-law-substantive-and-procedural
 page-type-slug: learn-everything-topic
 node: Human Society › Law › Branches of Public Law, Substantive and Procedural
 D: 0

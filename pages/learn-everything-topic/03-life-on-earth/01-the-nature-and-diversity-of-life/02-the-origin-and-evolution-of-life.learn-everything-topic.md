@@ -1,5 +1,6 @@
 ---
 id: a73b5514-8f73-54a9-8d7a-8b544fe0dd9e
+slug: 02-the-origin-and-evolution-of-life
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Nature and Diversity of Life › The Origin and Evolution of Life
 D: 0

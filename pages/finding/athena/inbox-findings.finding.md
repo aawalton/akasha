@@ -1,5 +1,6 @@
 ---
 id: 7b334388-0cac-52a0-bc6f-eed21a7fe06d
+slug: inbox-findings
 page-type-slug: finding
 title: "inbox for findings?"
 domain-slug: persona/athena

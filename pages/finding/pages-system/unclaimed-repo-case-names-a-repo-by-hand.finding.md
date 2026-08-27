@@ -1,5 +1,6 @@
 ---
 id: 09a2bcf4-4e39-5384-8203-6f166e6cbab3
+slug: unclaimed-repo-case-names-a-repo-by-hand
 page-type-slug: finding
 title: "A test names a repo by hand to stand for an unclaimed one, so the case goes stale on the first claim"
 domain-slug: domain/pages-system

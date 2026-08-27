@@ -1,5 +1,6 @@
 ---
 id: c80482e3-34f4-59f0-a4dd-dd886730bec5
+slug: file-backed-page-written-without-an-id
 page-type-slug: finding
 title: "A file-backed page is written without an id"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 4ae26626-edde-55b5-8870-daa1340efd37
+slug: solve-no-op-untestable
 page-type-slug: finding
 title: "Whether solve is a no-op on an already-solved puzzle cannot be tested without writing Alan's practice record"
 domain-slug: domain/ops-chess-puzzle

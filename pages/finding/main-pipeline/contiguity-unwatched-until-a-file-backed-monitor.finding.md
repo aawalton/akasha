@@ -1,5 +1,6 @@
 ---
 id: 124e44f3-68a9-548b-93d4-a923f7a6f56c
+slug: contiguity-unwatched-until-a-file-backed-monitor
 page-type-slug: finding
 title: "Main pipeline contiguity is unwatched until a file-backed monitor is built"
 domain-slug: domain/main-pipeline

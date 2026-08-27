@@ -1,5 +1,6 @@
 ---
 id: 88d91435-3734-5a48-afaa-9dcb24d23e0f
+slug: 02-the-development-of-human-culture
 page-type-slug: learn-everything-topic
 node: Human Society › Social Groups: Ethnic groups and Cultures › The Development of Human Culture
 D: 3

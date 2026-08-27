@@ -1,5 +1,6 @@
 ---
 id: 0156fd98-071b-56e8-abbb-45ecf1503806
+slug: page-refusal-reports-as-success
 page-type-slug: finding
 title: "Seat page refusal reports as success"
 domain-slug: page-type/seat

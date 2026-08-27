@@ -1,5 +1,6 @@
 ---
 id: c1ef6e60-da1c-52e0-bbbf-5ceec35f6455
+slug: retired-word-flagged-in-ordinary-use
 page-type-slug: finding
 title: "A gate flags the ordinary adjective binding on every write to a file whose line is correct"
 domain-slug: domain/global

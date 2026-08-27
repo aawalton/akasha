@@ -1,5 +1,6 @@
 ---
 id: fd198a28-bd36-598e-a403-94f1d63db5da
+slug: refresh-lost-by-page-write
 page-type-slug: finding
 title: "A failed page write during a token refresh discards the fresh credential and reports the refresh failed"
 domain-slug: domain/claude-account-credential

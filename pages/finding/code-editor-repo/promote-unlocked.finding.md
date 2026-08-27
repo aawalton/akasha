@@ -1,5 +1,6 @@
 ---
 id: a6adea39-99b5-5a86-8a92-4691bfa5e1d7
+slug: promote-unlocked
 page-type-slug: finding
 title: "The promote script takes no lock, so two concurrent promotes destroy each other's build and server"
 domain-slug: repo/code-editor-repo

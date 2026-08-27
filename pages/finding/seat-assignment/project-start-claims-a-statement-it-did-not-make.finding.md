@@ -1,5 +1,6 @@
 ---
 id: ab10f263-ce14-52d2-93e8-35ae956dde35
+slug: project-start-claims-a-statement-it-did-not-make
 page-type-slug: finding
 title: "Project start reports a claim succeeded when the seat statement reached the row and was refused"
 domain-slug: domain/seat-assignment

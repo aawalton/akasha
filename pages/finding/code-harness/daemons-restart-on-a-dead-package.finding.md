@@ -1,5 +1,6 @@
 ---
 id: 466abe68-ea44-52f2-be1b-65561a08f8f2
+slug: daemons-restart-on-a-dead-package
 page-type-slug: finding
 title: "The workstation daemons restart on a package that no longer exists"
 domain-slug: domain/global

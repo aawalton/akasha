@@ -1,5 +1,6 @@
 ---
 id: 736aaa80-8a27-5b0c-9e25-30ed52cf362a
+slug: cluster-clocks-are-not-syncing
 page-type-slug: finding
 title: "Every cluster node has failed to reach its NTP server for at least 24 hours"
 domain-slug: domain/global

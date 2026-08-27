@@ -1,5 +1,6 @@
 ---
 id: 01a02019-a025-7000-928b-2dd1dda8b8f1
+slug: test-runs-and-real-runs-are-one-row
 page-type-slug: finding
 title: "A test run and a real run are one metric row, so ops run counts answer nothing"
 domain-slug: domain/ops-cli

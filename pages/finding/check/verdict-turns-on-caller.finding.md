@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: c71099fe-a312-55a8-9138-eca7ca57dfa3
+slug: verdict-turns-on-caller
 title: "hooks-fire passes run alone and fails inside run-checks, naming two guards that are not broken"
 domain-slug: domain/992
 ---

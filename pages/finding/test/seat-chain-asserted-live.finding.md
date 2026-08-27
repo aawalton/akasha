@@ -1,5 +1,6 @@
 ---
 id: 8446ac8e-a6dd-5631-be91-5225e3627610
+slug: seat-chain-asserted-live
 page-type-slug: finding
 title: "Seat chain print asserted against the live corpus"
 domain-slug: domain/test

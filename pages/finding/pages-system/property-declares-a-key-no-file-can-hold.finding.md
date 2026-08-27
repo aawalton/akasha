@@ -1,5 +1,6 @@
 ---
 id: c72b4231-a580-5bfc-bbd6-547393cc70ce
+slug: property-declares-a-key-no-file-can-hold
 page-type-slug: finding
 title: "One property document declares a key no file page can hold or read back"
 domain-slug: domain/pages-system

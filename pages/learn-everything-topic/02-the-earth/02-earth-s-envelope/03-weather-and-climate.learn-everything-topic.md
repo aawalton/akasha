@@ -1,5 +1,6 @@
 ---
 id: 06a5bf40-42f0-53f8-afc5-d940924f5e48
+slug: 03-weather-and-climate
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Envelope › Weather and Climate
 D: 0

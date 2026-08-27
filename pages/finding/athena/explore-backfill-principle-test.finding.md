@@ -1,5 +1,6 @@
 ---
 id: a609b612-76c2-50fe-bbea-c5cedadc74e3
+slug: explore-backfill-principle-test
 page-type-slug: finding
 title: "explore and backfill principle test cases"
 domain-slug: persona/athena

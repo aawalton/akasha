@@ -1,5 +1,6 @@
 ---
 id: 1ba3a348-9928-5811-b96e-7809dd004c51
+slug: projector-leaves-a-deleted-key-standing
 page-type-slug: finding
 title: "The pages-mirror projector reconciles no deletions, so a key removed from a file stays standing on its row"
 domain-slug: domain/global

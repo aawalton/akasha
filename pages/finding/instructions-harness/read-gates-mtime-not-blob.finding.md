@@ -1,5 +1,6 @@
 ---
 id: 0f4b19e0-4e0b-5bac-81be-14752e65fb4b
+slug: read-gates-mtime-not-blob
 page-type-slug: finding
 title: "Four read gates asked about mtime rather than the git blob, so an identical-bytes touch deadlocked a seat"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 81ec8db6-4c86-51ea-8287-d8eb325cf459
+slug: parent-column-undeclared
 page-type-slug: finding
 title: "A parentless project counts on the parent column and no line says so, so tidying the fold would undo it"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 59d69301-3301-51d2-9290-16993078addc
+slug: querytexecutor-tick-untimed
 page-type-slug: finding
 title: "A daemon composed with a QueryExecutor emits no boot or heartbeat duration"
 domain-slug: domain/daemon

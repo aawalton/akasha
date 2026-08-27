@@ -1,5 +1,6 @@
 ---
 id: a5201727-5995-585e-9d19-cb5d538315e8
+slug: three-of-four-deleted-subscribers-have-a-heartbeat
 page-type-slug: finding
 title: "Three of the four deleted daily-tracking subscribers have a heartbeat behind them and the fourth has nothing"
 domain-slug: domain/global

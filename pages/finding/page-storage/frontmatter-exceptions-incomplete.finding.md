@@ -1,5 +1,6 @@
 ---
 id: 3709b4e0-2278-5be1-bc19-a5c24315c5a1
+slug: frontmatter-exceptions-incomplete
 page-type-slug: finding
 title: "The line saying where a written property lands omits attachment and rows"
 domain-slug: domain/page-storage

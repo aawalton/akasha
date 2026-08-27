@@ -1,5 +1,6 @@
 ---
 id: 8582d15a-6739-54c8-bcee-8fed2c328a95
+slug: expressions-unevaluated-in-files
 page-type-slug: finding
 title: "Expressions are worked out only on the database side, so a file-backed type can carry no formula property"
 domain-slug: domain/pages-system

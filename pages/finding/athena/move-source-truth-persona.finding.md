@@ -1,5 +1,6 @@
 ---
 id: 2861836c-4c82-5e93-9dad-ef5c34f4a83b
+slug: move-source-truth-persona
 page-type-slug: finding
 title: "move source of truth for persona default domain/role to persona file i"
 domain-slug: persona/athena

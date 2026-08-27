@@ -1,5 +1,6 @@
 ---
 id: 2062e78a-4134-537b-9fad-bebd5c7d0888
+slug: tollfree-verification-history-unrecorded
 page-type-slug: finding
 title: "No record holds what any toll-free verification round submitted or why it was refused"
 domain-slug: domain/ops-sms

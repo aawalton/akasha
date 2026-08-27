@@ -1,5 +1,6 @@
 ---
 id: 7d579ed0-4d5b-5ddb-87b3-3290fe64eda9
+slug: stale-project-seq-widens-an-inbox
 page-type-slug: finding
 title: "A stale project seq on the row widens a seat's inbox"
 domain-slug: page-type/seat

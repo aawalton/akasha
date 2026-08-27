@@ -1,5 +1,6 @@
 ---
 id: 914bb65f-e420-59e9-b63f-47df047fe8a9
+slug: 05-nutrition-the-procurement-and-processing-of-nutrients
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Nutrition: the Procurement and Processing of Nutrients
 D: 0

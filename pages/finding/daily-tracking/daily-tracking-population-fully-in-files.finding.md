@@ -1,5 +1,6 @@
 ---
 id: 1b0d5811-c000-5996-9427-dfdd32daf9ba
+slug: daily-tracking-population-fully-in-files
 page-type-slug: finding
 title: "Daily tracking is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/daily-tracking

@@ -1,5 +1,6 @@
 ---
 id: 286d495d-d0be-51c4-b23c-f769f9dbeb5f
+slug: extraction-pass-named-nowhere-else
 page-type-slug: finding
 title: "Extraction pass is this domain's own term and nothing names which of its passes are ones"
 domain-slug: domain/global

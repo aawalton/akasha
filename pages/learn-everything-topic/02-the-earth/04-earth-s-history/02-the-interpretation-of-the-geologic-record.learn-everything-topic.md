@@ -1,5 +1,6 @@
 ---
 id: aeb11546-fe5c-5d25-a312-99f7d57ae2c5
+slug: 02-the-interpretation-of-the-geologic-record
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's History › The Interpretation of the Geologic Record
 D: 0

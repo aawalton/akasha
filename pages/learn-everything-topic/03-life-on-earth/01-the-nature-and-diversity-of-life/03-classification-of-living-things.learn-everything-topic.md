@@ -1,5 +1,6 @@
 ---
 id: 0daf4d46-97bd-5b94-af01-09998f68e86a
+slug: 03-classification-of-living-things
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Nature and Diversity of Life › Classification of Living Things
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: b1d713f9-ed74-5ae0-a36f-4aecd3f0c9ab
+slug: globs-not-a-census
 page-type-slug: finding
 title: "Neither of the code-comment domain's two path lists is a census of what it reaches"
 domain-slug: domain/code-comment

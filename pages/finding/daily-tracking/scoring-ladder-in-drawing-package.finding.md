@@ -1,5 +1,6 @@
 ---
 id: 792cc00c-3f4f-598b-b6c8-da5d8c2c1d66
+slug: scoring-ladder-in-drawing-package
 page-type-slug: finding
 title: "The green day units ladder scores rather than draws, and stands in the drawing package"
 domain-slug: page-type/daily-tracking

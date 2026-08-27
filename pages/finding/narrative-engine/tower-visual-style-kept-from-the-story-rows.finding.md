@@ -1,5 +1,6 @@
 ---
 id: 8852ec31-1730-5cda-a064-773c6945b546
+slug: tower-visual-style-kept-from-the-story-rows
 page-type-slug: finding
 title: "One story's visual style was in real use and is kept here because no property carried it off the rows"
 domain-slug: domain/narrative-engine

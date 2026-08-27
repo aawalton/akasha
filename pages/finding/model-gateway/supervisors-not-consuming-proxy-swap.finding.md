@@ -1,5 +1,6 @@
 ---
 id: 194d9342-8b4e-5f26-9f7b-25595d79a7c0
+slug: supervisors-not-consuming-proxy-swap
 page-type-slug: finding
 title: "Three supervisors do not consume a proxy swap, so no command can move those seats onto a new gateway"
 domain-slug: domain/model-gateway

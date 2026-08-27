@@ -1,5 +1,6 @@
 ---
 id: c8a6a155-9bb2-5016-bdef-ebd9820aca47
+slug: shared-main-absorbs-commits
 page-type-slug: finding
 title: "Agents sharing the code repository's main checkout commit each other's uncommitted work"
 domain-slug: domain/global

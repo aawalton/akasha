@@ -1,5 +1,6 @@
 ---
 id: 1f320316-e8f1-5406-8dda-bed726accc1a
+slug: widgets-hold-the-last-names
 page-type-slug: finding
 title: "The iOS widgets hold the last stoplight names in code, and one copy has drifted"
 domain-slug: domain/readout-system

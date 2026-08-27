@@ -1,5 +1,6 @@
 ---
 id: 1b735bba-5f41-5ddb-8c34-41f31316079f
+slug: directives-read-unobeyed
 page-type-slug: finding
 title: "A directive in required reading does not reliably change what the agent does"
 domain-slug: domain/domain-directive

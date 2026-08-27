@@ -1,5 +1,6 @@
 ---
 id: 8ff9d508-251c-5842-bf58-72018e26787c
+slug: convert-alan-notes-findings
 page-type-slug: finding
 title: "convert alan notes to findings"
 domain-slug: persona/ryn

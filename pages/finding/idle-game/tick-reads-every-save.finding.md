@@ -1,5 +1,6 @@
 ---
 id: 69be1b5e-e08b-58c9-a434-db74498a9945
+slug: tick-reads-every-save
 page-type-slug: finding
 title: "The tick reads every save, which the page type says never happens"
 domain-slug: page-type/idle-game

@@ -1,5 +1,6 @@
 ---
 id: 73395138-11e3-54c2-b934-7eb6a62a7533
+slug: twelve-row-keys-should-not-migrate
 page-type-slug: finding
 title: "Twelve persona row keys should not migrate"
 domain-slug: page-type/persona

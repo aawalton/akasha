@@ -1,5 +1,6 @@
 ---
 id: 615144ef-9464-531a-a870-dcccb457bd70
+slug: 01-chemicals-and-the-vital-processes
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Molecular Basis of Life › Chemicals and the Vital Processes
 D: 0

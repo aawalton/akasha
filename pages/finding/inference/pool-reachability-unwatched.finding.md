@@ -1,5 +1,6 @@
 ---
 id: c6c99a74-56db-5424-9f62-c4141edd4984
+slug: pool-reachability-unwatched
 page-type-slug: finding
 title: "Nothing reports the MacBook inference pool going unreachable once the metrics table goes"
 domain-slug: domain/inference

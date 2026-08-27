@@ -1,5 +1,6 @@
 ---
 id: 449c0489-4501-5096-a105-8b454fbc8f93
+slug: no-watch-over-the-live-pair
 page-type-slug: finding
 title: "No watch stands over the live pair"
 domain-slug: domain/global

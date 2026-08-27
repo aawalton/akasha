@@ -1,5 +1,6 @@
 ---
 id: 7bfa3c8a-c9b7-522e-9b26-179de37a3802
+slug: points-source-check-compares-against-a-leaving-store
 page-type-slug: finding
 title: "The points-source check compares against a store that is leaving"
 domain-slug: domain/persona-points

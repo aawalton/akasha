@@ -1,5 +1,6 @@
 ---
 id: ff7c1e86-17f4-5155-b6b7-a69effe22dad
+slug: 01-peoples-and-cultures-of-the-world
 page-type-slug: learn-everything-topic
 node: Human Society › Social Groups: Ethnic groups and Cultures › Peoples and Cultures of the World
 D: 0

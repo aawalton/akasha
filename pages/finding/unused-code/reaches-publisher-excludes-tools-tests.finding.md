@@ -1,5 +1,6 @@
 ---
 id: 58ad6193-503d-56f0-9358-266c2b163f55
+slug: reaches-publisher-excludes-tools-tests
 page-type-slug: finding
 title: "The reaches publisher filters instructions tests out wholesale, reporting a reached module dead with confidence"
 domain-slug: domain/unused-code

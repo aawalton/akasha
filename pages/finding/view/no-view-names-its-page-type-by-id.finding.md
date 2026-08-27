@@ -1,5 +1,6 @@
 ---
 id: 6843d650-348c-5824-8e8a-f94330a31fb5
+slug: no-view-names-its-page-type-by-id
 page-type-slug: finding
 title: "No view names its page type by id any more, so that Design entry is no longer true of any view"
 domain-slug: page-type/view

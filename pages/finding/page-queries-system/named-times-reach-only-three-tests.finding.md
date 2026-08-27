@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 6766062c-9e37-5fd1-a279-0ef85fc211dc
+slug: named-times-reach-only-three-tests
 title: "Named times reach only three of six tests"
 domain-slug: domain/page-queries-system
 ---

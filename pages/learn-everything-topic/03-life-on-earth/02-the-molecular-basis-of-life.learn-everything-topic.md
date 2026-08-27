@@ -1,5 +1,6 @@
 ---
 id: 4ba6c3b9-78b8-55fe-bcb8-2a2761c0f6b4
+slug: 02-the-molecular-basis-of-life
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Molecular Basis of Life
 D: 0

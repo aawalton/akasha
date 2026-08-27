@@ -1,5 +1,6 @@
 ---
 id: 30af1376-7608-59ec-a987-525472f00411
+slug: ryn-owner-harness-harness
 page-type-slug: finding
 title: "Ryn as owner of the harness harness?"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: f99e44db-bca7-55a2-889e-8f590a4bc07d
+slug: mock-delegation-visible-only-in-its-own-file
 page-type-slug: finding
 title: "Splitting a test file turns real mock delegation into a reported leak"
 domain-slug: domain/global

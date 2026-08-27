@@ -1,5 +1,6 @@
 ---
 id: 78c6f056-0bdd-5a2f-9f10-599ef3846d55
+slug: 01-the-structures-and-functions-of-the-human-body
 page-type-slug: learn-everything-topic
 node: Human Life › The Human Body: Health and Disease › The Structures and Functions of the Human Body
 D: 0

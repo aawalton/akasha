@@ -1,5 +1,6 @@
 ---
 id: 3ff2b663-9b6d-563c-bd43-9083314d1eb1
+slug: 03-vital-processes-at-the-molecular-level
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Molecular Basis of Life › Vital Processes at the Molecular Level
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 2ef2609c-0a26-5c72-badd-1ff9c5a61216
+slug: 06-mechanics-of-particles-rigid-and-deformable-bodies-elasticity-vibration-and-flow
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Mechanics of Particles, Rigid and Deformable Bodies: Elasticity, Vibration, and Flow
 D: 0

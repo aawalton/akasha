@@ -1,5 +1,6 @@
 ---
 id: 1e4e9afd-b7b9-5ce4-a650-87d93603c7c1
+slug: two-design-lines-state-a-fallback-that-refuses
 page-type-slug: finding
 title: "Two Design entries state a naming fallback where the code refuses"
 domain-slug: page-property-definition/page-type-named-for

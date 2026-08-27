@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "A stub that refuses on use refuses at import wherever a caller reads it at module scope"
 domain-slug: graph-system
+slug: refuse-on-use-becomes-refuse-on-import
 ---
 
 # Claim

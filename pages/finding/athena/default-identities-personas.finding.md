@@ -1,5 +1,6 @@
 ---
 id: 086ec806-f022-5664-a073-549f46a825ca
+slug: default-identities-personas
 page-type-slug: finding
 title: "default identities for personas"
 domain-slug: persona/athena

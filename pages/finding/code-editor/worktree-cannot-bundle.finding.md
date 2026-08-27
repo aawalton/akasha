@@ -1,5 +1,6 @@
 ---
 id: 41b033a5-c0f3-5a87-abc3-f4f3831fba7e
+slug: worktree-cannot-bundle
 page-type-slug: finding
 title: "The ops extension cannot be bundled from a worktree, because its build assumes the main checkout"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: 36730a7a-ea85-52d1-8acf-f70c936023d1
+slug: 02-consumer-and-market-pricing-and-mechanisms-for-distributing-goods
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth › Consumer and Market: Pricing and Mechanisms for Distributing Goods
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 2848e6d4-0c8e-514c-a585-a0009240d75a
+slug: song-listens-stand-beside-the-day
 page-type-slug: finding
 title: "A song listen stands beside the day it was played on, so that Intent entry should leave outright"
 domain-slug: page-type/song-listen

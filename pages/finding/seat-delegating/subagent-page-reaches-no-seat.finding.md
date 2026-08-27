@@ -1,5 +1,6 @@
 ---
 id: 2bf5d6f8-9858-5db3-a177-91d5d3ef876c
+slug: subagent-page-reaches-no-seat
 page-type-slug: finding
 title: "Nothing pulls the subagent page type into a seat's required reading"
 domain-slug: domain/seat-delegating

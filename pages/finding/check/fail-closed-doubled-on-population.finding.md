@@ -1,5 +1,6 @@
 ---
 id: 2b3796a9-7069-5b85-b10f-1ebdf96f0767
+slug: fail-closed-doubled-on-population
 page-type-slug: finding
 title: "Fail Closed and Population both bind the could-not-look failure for checks"
 domain-slug: domain/992

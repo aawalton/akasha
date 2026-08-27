@@ -1,5 +1,6 @@
 ---
 id: 5c4aa09d-4f4a-5f1a-9ef1-a846a5bdbcc9
+slug: 03-branches-of-private-law-substantive-and-procedural
 page-type-slug: learn-everything-topic
 node: Human Society › Law › Branches of Private Law, Substantive and Procedural
 D: 0

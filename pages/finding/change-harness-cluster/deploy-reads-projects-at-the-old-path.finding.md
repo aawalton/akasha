@@ -1,5 +1,6 @@
 ---
 id: 01a02388-7b1c-7000-8e55-92c4f6d0a713
+slug: deploy-reads-projects-at-the-old-path
 page-type-slug: finding
 title: "The deploy pipeline reads project documents at the path they left"
 domain-slug: domain/change-harness-cluster

@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: c00f0de6-df3f-5852-a3c4-10b0581a8dee
+slug: limit-after-materialising
 title: "A query costs its whole page type whatever limit it asks for"
 domain-slug: domain/page-queries-system
 ---

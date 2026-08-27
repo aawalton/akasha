@@ -1,5 +1,6 @@
 ---
 id: 22d23188-ab58-56d8-8a20-968d41b7ab2e
+slug: pipeline-design-names-rows
 page-type-slug: finding
 title: "The pipeline page type is file-backed but its design still names rows"
 domain-slug: domain/global

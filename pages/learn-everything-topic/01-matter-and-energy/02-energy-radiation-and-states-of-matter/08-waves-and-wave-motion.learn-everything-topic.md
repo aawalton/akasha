@@ -1,5 +1,6 @@
 ---
 id: 35c71df1-d87a-5c1a-b983-db84ad8b79ca
+slug: 08-waves-and-wave-motion
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Waves and Wave Motion
 D: 2

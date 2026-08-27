@@ -1,5 +1,6 @@
 ---
 id: f3adecb6-5976-5b90-9c44-2d8e27a9c978
+slug: imessage-emit-messages-runs-under-no-test
 page-type-slug: finding
 title: "Imessage emitMessages runs under no test"
 domain-slug: domain/ops-cli

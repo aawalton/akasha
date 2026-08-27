@@ -1,5 +1,6 @@
 ---
 id: 6b622d1d-0be8-5386-b245-f35b258c2820
+slug: select-options-never-reach-a-file-sourced-shape
 page-type-slug: finding
 title: "A select's options never reach a file-sourced shape"
 domain-slug: domain/pages-system

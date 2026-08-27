@@ -1,5 +1,6 @@
 ---
 id: f6d86624-af7d-5b06-93fd-e167b79565eb
+slug: renewal-push-unobserved-outside-a-drive
 page-type-slug: finding
 title: "The credential page-push has never been observed on a real renewal, only in a drive and a backfill"
 domain-slug: domain/claude-account-credential

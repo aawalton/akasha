@@ -1,5 +1,6 @@
 ---
 id: e4bca9bf-5107-58c0-9de1-caa5407cfe71
+slug: retry-reads-failed-fetch-as-absent-branch
 page-type-slug: finding
 title: "Retry reads a failed fetch as an absent branch"
 domain-slug: domain/ops-cli

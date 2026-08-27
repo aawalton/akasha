@@ -1,5 +1,6 @@
 ---
 id: 9a54dae0-2610-5a92-b8d5-37cf34816631
+slug: mark-clearing-intent-reads-two-ways
 page-type-slug: finding
 title: "The mark-clearing Intent entry reads two ways that ask for opposite acts"
 domain-slug: domain/ops-claude-account

@@ -1,5 +1,6 @@
 ---
 id: 699deedf-9938-5118-9514-538aae8641db
+slug: 03-life-on-earth
 page-type-slug: learn-everything-topic
 node: Life on Earth
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: 9e60282f-ed4f-5187-9af5-cc64fc5747b1
+slug: 04-the-behavior-of-organisms
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Behavior of Organisms
 D: 0

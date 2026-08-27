@@ -1,5 +1,6 @@
 ---
 id: 6d66863f-4220-5e1b-805e-835efb685554
+slug: page-types-reminted-at-worker-boot
 page-type-slug: finding
 title: "Page types re-minted at worker boot"
 domain-slug: domain/global

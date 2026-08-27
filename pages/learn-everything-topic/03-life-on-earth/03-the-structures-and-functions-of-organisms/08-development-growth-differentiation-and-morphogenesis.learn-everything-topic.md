@@ -1,5 +1,6 @@
 ---
 id: 851662ae-09b1-5c6c-a7c8-c808132d8781
+slug: 08-development-growth-differentiation-and-morphogenesis
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Development: Growth, Differentiation, and Morphogenesis
 D: 0

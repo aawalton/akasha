@@ -1,5 +1,6 @@
 ---
 id: 647bbc03-edbe-5c8d-891c-fda3da4e0d2f
+slug: ready-forever-over-zero-rows
 page-type-slug: finding
 title: "A page type can be marked ready forever over zero rows"
 domain-slug: domain/pages-system

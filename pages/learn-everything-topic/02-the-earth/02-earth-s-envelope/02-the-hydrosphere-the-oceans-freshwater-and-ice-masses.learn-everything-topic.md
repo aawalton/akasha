@@ -1,5 +1,6 @@
 ---
 id: afe7d884-d18d-5021-b0ca-9c305c96c897
+slug: 02-the-hydrosphere-the-oceans-freshwater-and-ice-masses
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Envelope › The Hydrosphere: the Oceans, Freshwater and Ice Masses
 D: 0

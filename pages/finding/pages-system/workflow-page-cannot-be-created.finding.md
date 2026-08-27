@@ -1,5 +1,6 @@
 ---
 id: b34713a1-0555-523a-bb97-81dc7199dfe5
+slug: workflow-page-cannot-be-created
 page-type-slug: finding
 title: "A workflow page cannot be created"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: 9bf66860-b18b-5aaa-ac63-e435aa90d513
+slug: ownership-handwritten-both-sides
 page-type-slug: finding
 title: "Which persona owns a domain is hand-written on both sides and nothing computes either from the other"
 domain-slug: domain/domain-championing

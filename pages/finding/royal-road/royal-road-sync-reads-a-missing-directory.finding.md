@@ -1,5 +1,6 @@
 ---
 id: f816c8fe-9a08-59fb-a496-142c2cacc443
+slug: royal-road-sync-reads-a-missing-directory
 page-type-slug: finding
 title: "Royal road sync reads a directory the stories repo no longer has"
 domain-slug: domain/royal-road

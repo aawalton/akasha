@@ -1,5 +1,6 @@
 ---
 id: 5dd363c6-5af1-5b63-afe7-7b485758a407
+slug: extends-chain-stops-short-of-page
 page-type-slug: finding
 title: "Four page types have an extends chain that never reaches page, exempting 212 pages from every universal property"
 domain-slug: domain/pages-system

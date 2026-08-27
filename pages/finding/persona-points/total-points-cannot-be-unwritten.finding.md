@@ -1,5 +1,6 @@
 ---
 id: 87dbf82b-1023-5ce9-9efc-82695161153d
+slug: total-points-cannot-be-unwritten
 page-type-slug: finding
 title: "Persona total points cannot be unwritten"
 domain-slug: domain/persona-points

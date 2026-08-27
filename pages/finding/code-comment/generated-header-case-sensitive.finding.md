@@ -1,5 +1,6 @@
 ---
 id: 82742afa-8bdd-5725-bb2f-faa1e283a2f2
+slug: generated-header-case-sensitive
 page-type-slug: finding
 title: "The generated-file test is case-sensitive where the Design line it enforces is not"
 domain-slug: domain/code-comment

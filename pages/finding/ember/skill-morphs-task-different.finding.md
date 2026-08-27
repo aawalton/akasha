@@ -1,5 +1,6 @@
 ---
 id: e00101d5-3807-520c-873d-2748050cef4e
+slug: skill-morphs-task-different
 page-type-slug: finding
 title: "skill morphs task is different"
 domain-slug: persona/ember

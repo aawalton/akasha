@@ -1,5 +1,6 @@
 ---
 id: 6b67bbef-040d-5fc6-bfd2-4b3bc7d026e3
+slug: 03-social-status
 page-type-slug: learn-everything-topic
 node: Human Society › Social Organization and Social Change › Social Status
 D: 0

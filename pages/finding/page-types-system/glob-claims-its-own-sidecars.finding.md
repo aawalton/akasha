@@ -1,5 +1,6 @@
 ---
 id: ae76d517-b23d-5059-9289-f373286caa59
+slug: glob-claims-its-own-sidecars
 page-type-slug: finding
 title: "A page type's files glob claims the sidecar files its own properties produce"
 domain-slug: domain/page-types-system

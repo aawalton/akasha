@@ -1,5 +1,6 @@
 ---
 id: f2e82c81-6523-59e8-927c-aa1609752b76
+slug: completed-delegate-renotifies
 page-type-slug: finding
 title: "A finished delegate keeps notifying its parent"
 domain-slug: domain/seat-delegating

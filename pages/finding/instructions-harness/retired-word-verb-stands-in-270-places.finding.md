@@ -1,5 +1,6 @@
 ---
 id: d2743e29-3e00-507d-b2bc-c7d18decf50a
+slug: retired-word-verb-stands-in-270-places
 page-type-slug: finding
 title: "The retired word verb stands in 270 places"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 176d968e-4c63-5179-a322-af47efe805fa
+slug: points-wiring-stands-on-rows-and-on-no-file
 page-type-slug: finding
 title: "Persona points wiring stands on rows and on no file"
 domain-slug: page-type/persona

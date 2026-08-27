@@ -1,5 +1,6 @@
 ---
 id: 4b19a8a1-9e1e-5cad-a094-3e7248547975
+slug: grep-optimized-fast-text
 page-type-slug: finding
 title: "Grep-optimized fast text edits with version control"
 domain-slug: persona/nimue

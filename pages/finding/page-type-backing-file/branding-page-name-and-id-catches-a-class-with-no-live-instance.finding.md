@@ -1,5 +1,6 @@
 ---
 id: e255756c-279f-55ce-9400-fd52a9a8d47c
+slug: branding-page-name-and-id-catches-a-class-with-no-live-instance
 page-type-slug: finding
 title: "Branding page name and page id catches a real class the typechecker cannot see, and no live instance of it exists"
 domain-slug: domain/global

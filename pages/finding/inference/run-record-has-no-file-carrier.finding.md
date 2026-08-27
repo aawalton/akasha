@@ -1,5 +1,6 @@
 ---
 id: be28d946-997b-5e60-a03c-1e9ca1e4b261
+slug: run-record-has-no-file-carrier
 page-type-slug: finding
 title: "Twelve inference commands record their runs only as rows, and will report success recording nothing"
 domain-slug: domain/inference

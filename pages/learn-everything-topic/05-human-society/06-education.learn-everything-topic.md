@@ -1,5 +1,6 @@
 ---
 id: 391d9e03-2502-52b8-a2f9-cfddc89455ce
+slug: 06-education
 page-type-slug: learn-everything-topic
 node: Human Society › Education
 D: 0

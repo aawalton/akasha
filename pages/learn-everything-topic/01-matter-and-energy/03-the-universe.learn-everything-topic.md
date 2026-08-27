@@ -1,5 +1,6 @@
 ---
 id: db6a29e6-818e-5d1c-97f2-9cf428c8c94e
+slug: 03-the-universe
 page-type-slug: learn-everything-topic
 node: Matter and Energy › The Universe
 D: 0

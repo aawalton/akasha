@@ -1,5 +1,6 @@
 ---
 id: e2c9f46b-f1f6-52ee-ba7c-659d579cd226
+slug: synth-check-uncalled
 page-type-slug: finding
 title: "The k8s manifest synth has a drift-check mode nothing calls, refusing with an abandoned workflow"
 domain-slug: domain/global

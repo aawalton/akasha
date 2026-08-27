@@ -1,5 +1,6 @@
 ---
 id: f87ba4b1-01a9-54a4-8e28-2a55af84d8f0
+slug: initiative-page-required
 page-type-slug: finding
 title: "A memory document is required reading for a seat holding an initiative"
 domain-slug: domain/required-reading

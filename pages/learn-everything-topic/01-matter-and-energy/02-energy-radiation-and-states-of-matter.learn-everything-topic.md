@@ -1,5 +1,6 @@
 ---
 id: 9186ba98-f4da-58e1-95d4-d87a32989ba5
+slug: 02-energy-radiation-and-states-of-matter
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter
 D: 0

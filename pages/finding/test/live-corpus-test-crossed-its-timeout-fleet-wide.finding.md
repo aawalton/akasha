@@ -1,5 +1,6 @@
 ---
 id: 2b6dfac9-6f7e-5707-b6d3-faab57e1564a
+slug: live-corpus-test-crossed-its-timeout-fleet-wide
 page-type-slug: finding
 title: "A test whose runtime scales with the live corpus has crossed its timeout fleet-wide"
 domain-slug: domain/test

@@ -1,5 +1,6 @@
 ---
 id: 08a5fb0b-586a-5a41-966c-b2955326226b
+slug: defauilt-role-intake-not
 page-type-slug: finding
 title: "defauilt role to intake, not lead"
 domain-slug: persona/athena

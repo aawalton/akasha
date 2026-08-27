@@ -1,5 +1,6 @@
 ---
 id: 1cf96a17-8adb-5e22-8b92-02536b556d85
+slug: idle-persona-cards-backed-by-files
 page-type-slug: finding
 title: "An idle persona card is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/idle-persona-card

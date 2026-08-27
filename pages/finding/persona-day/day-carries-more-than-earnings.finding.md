@@ -1,5 +1,6 @@
 ---
 id: 0844a1b8-3045-598a-9fd0-2ac17240e298
+slug: day-carries-more-than-earnings
 page-type-slug: finding
 title: "A persona day file carries ten keys beyond what its persona earned"
 domain-slug: page-type/persona-day

@@ -1,5 +1,6 @@
 ---
 id: 21ef7057-c485-52e3-8870-e1e8ea763406
+slug: 01-the-planet-earth
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Properties, Structure, Composition › The Planet Earth
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: b49d231b-7381-5cad-87fc-e2f431cd769f
+slug: a-file-belongs-to-the-innermost-package
 page-type-slug: finding
 title: "Thirty-three packages sit inside another package, and a mover that carries every file beneath a directory flattens them without any check noticing"
 domain-slug: ops-package

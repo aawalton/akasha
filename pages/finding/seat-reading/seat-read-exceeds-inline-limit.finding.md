@@ -1,5 +1,6 @@
 ---
 id: 2b9cc172-9afd-5419-b08a-7b0c8b006278
+slug: seat-read-exceeds-inline-limit
 page-type-slug: finding
 title: "A seat read too large to inline is recorded as read though its text never arrives"
 domain-slug: domain/seat-reading

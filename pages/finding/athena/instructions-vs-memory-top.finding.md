@@ -1,5 +1,6 @@
 ---
 id: 6ff0acd7-f77d-5fa8-8a33-46b1643f3eec
+slug: instructions-vs-memory-top
 page-type-slug: finding
 title: "instructions vs memory as top-level concepts"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: 33a3c88a-5a42-5993-8fc4-db8562b56e8e
+slug: layer-unwalked
 page-type-slug: finding
 title: "Throughput layer unwalked"
 domain-slug: domain/throughput

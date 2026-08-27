@@ -1,5 +1,6 @@
 ---
 id: 99f91e8a-77af-56c5-b070-e1f549937cf4
+slug: every-skill-support-doc
 page-type-slug: finding
 title: "Every skill or support doc must be reachable through routing"
 domain-slug: persona/athena

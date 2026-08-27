@@ -1,5 +1,6 @@
 ---
 id: d264b1db-6c88-5949-8895-89a426156a0b
+slug: 01-chemical-elements-periodic-variation-in-their-properties
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Chemical Elements: Periodic Variation in Their Properties
 D: 0

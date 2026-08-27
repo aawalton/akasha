@@ -1,5 +1,6 @@
 ---
 id: 8147eba9-b4f6-57d5-9dc9-80a85f131c0c
+slug: outside-state-that-is-not-a-repository
 page-type-slug: finding
 title: "Two code-repo checks judge outside state that is not a repository, so the closed class was too narrow"
 domain-slug: domain/992

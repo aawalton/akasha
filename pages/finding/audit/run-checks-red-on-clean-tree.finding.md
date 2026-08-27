@@ -1,5 +1,6 @@
 ---
 id: e3b2e45f-b1e2-55f9-bfec-91e534dd62bd
+slug: run-checks-red-on-clean-tree
 page-type-slug: finding
 title: "Six audits are red on a clean instructions tree, including a whole-run ceiling breach"
 domain-slug: domain/audit

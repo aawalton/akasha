@@ -1,5 +1,6 @@
 ---
 id: 0977a3af-60f6-5cdb-ae47-d01fa866282e
+slug: editor-contract-unmeasured
 page-type-slug: finding
 title: "No check in either repository measures the shared status-bar contract the code editor depends on"
 domain-slug: domain/code-editor

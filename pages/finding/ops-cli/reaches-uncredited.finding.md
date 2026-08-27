@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: f76910e1-4e7b-5cce-b751-17e0b163eb00
+slug: reaches-uncredited
 title: "Modules the ops CLI reaches were deleted as unreferenced, though a guard credits those reaches"
 domain-slug: domain/ops-cli
 ---

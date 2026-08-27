@@ -1,5 +1,6 @@
 ---
 id: 3c6f19f4-a5c7-5b42-ac11-9e1093bbbd39
+slug: value-points-keys-written-and-never-shown
 page-type-slug: finding
 title: "Three value-points keys are written and never shown, and disagree with the aggregate that overrides them"
 domain-slug: domain/persona-points

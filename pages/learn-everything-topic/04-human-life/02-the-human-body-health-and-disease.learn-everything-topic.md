@@ -1,5 +1,6 @@
 ---
 id: c43b642f-9c86-5afd-8b84-584c4911b1e4
+slug: 02-the-human-body-health-and-disease
 page-type-slug: learn-everything-topic
 node: Human Life › The Human Body: Health and Disease
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: cbc7ca19-a140-533d-b464-752f63a3597f
+slug: expression-functions-declared-and-not-implemented
 page-type-slug: finding
 title: "Three expression functions are declared and not implemented, refusing only at evaluation"
 domain-slug: domain/pages-system

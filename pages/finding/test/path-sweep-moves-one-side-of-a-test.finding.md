@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: bfea992a-7dcc-5bb9-9636-7f4a91c867d4
+slug: path-sweep-moves-one-side-of-a-test
 title: "A path sweep over test files rewrites one side of a relation and silently changes what is asserted"
 domain-slug: domain/test
 ---

@@ -1,5 +1,6 @@
 ---
 id: af7cbda8-c238-5ec8-9c78-c334835bfc8f
+slug: hex-only-names-resolve-as-uuid-prefixes
 page-type-slug: finding
 title: "A hex-only seat name is resolved as a uuid prefix and never as a name, though a seat can hold it"
 domain-slug: domain/seat-name

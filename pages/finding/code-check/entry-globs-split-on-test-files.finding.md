@@ -1,5 +1,6 @@
 ---
 id: 52e26804-1d2a-5311-8b46-1e0507caa568
+slug: entry-globs-split-on-test-files
 page-type-slug: finding
 title: "An unused export means two different things depending on the workspace"
 domain-slug: domain/global

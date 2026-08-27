@@ -1,5 +1,6 @@
 ---
 id: 99fb2fa4-9e4a-5e02-8b04-ad2fd28cbd1b
+slug: 02-populations-and-communities
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere › Populations and Communities
 D: 0

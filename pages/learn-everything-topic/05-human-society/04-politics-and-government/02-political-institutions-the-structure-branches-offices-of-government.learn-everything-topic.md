@@ -1,5 +1,6 @@
 ---
 id: 3dfa5e62-23d7-51a6-802b-f6bf04b78d11
+slug: 02-political-institutions-the-structure-branches-offices-of-government
 page-type-slug: learn-everything-topic
 node: Human Society › Politics and Government › Political Institutions: the Structure, Branches, & Offices of Government
 D: 0

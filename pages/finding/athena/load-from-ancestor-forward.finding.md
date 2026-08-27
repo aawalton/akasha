@@ -1,5 +1,6 @@
 ---
 id: 2ebdca13-faf0-5b57-94bd-bf123888b950
+slug: load-from-ancestor-forward
 page-type-slug: finding
 title: "load from ancestor forward, not descendent back"
 domain-slug: persona/athena

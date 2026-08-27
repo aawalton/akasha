@@ -1,5 +1,6 @@
 ---
 id: a904d957-2b18-507f-8e69-d6f7e4c89cb2
+slug: recover-fresh-arm-unreachable
 page-type-slug: finding
 title: "The fresh arm of the seat recovery path has no caller"
 domain-slug: domain/ops-seat

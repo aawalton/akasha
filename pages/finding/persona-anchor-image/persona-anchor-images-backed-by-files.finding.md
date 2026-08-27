@@ -1,5 +1,6 @@
 ---
 id: 34bf9cfe-7f25-509b-8c98-ff36c9b443d3
+slug: persona-anchor-images-backed-by-files
 page-type-slug: finding
 title: "A persona anchor image is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/persona-anchor-image

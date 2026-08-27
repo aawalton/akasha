@@ -1,5 +1,6 @@
 ---
 id: bb4ef403-66a7-5795-b51b-d5fe28f50dbc
+slug: persona-reward-images-backed-by-files
 page-type-slug: finding
 title: "A persona reward image is backed by files, so that Intent entry should leave outright"
 domain-slug: domain/global

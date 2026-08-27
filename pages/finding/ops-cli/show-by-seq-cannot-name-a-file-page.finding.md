@@ -1,5 +1,6 @@
 ---
 id: ed9de695-eb21-5691-bf62-68f38ac1fa1b
+slug: show-by-seq-cannot-name-a-file-page
 page-type-slug: finding
 title: "Show by seq can name no page on a file-backed type, and what it says when it fails is wrong"
 domain-slug: domain/ops-cli

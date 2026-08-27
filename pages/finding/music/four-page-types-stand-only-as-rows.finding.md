@@ -1,5 +1,6 @@
 ---
 id: 9c6f6f38-bf27-52c3-a311-3d079cd8c35f
+slug: four-page-types-stand-only-as-rows
 page-type-slug: finding
 title: "Four music page types stand only as rows"
 domain-slug: domain/music

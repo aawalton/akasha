@@ -1,5 +1,6 @@
 ---
 id: 57615a43-f4e2-5387-8047-e22177ba329e
+slug: web-typecheck-needs-unlisted-env-vars
 page-type-slug: finding
 title: "The web typecheck needs three env vars the example file does not list"
 domain-slug: domain/global

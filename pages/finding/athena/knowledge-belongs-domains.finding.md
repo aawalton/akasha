@@ -1,5 +1,6 @@
 ---
 id: d4638491-882e-58c4-832a-fe8463cf77b4
+slug: knowledge-belongs-domains
 page-type-slug: finding
 title: "knowledge belongs to domains"
 domain-slug: persona/athena

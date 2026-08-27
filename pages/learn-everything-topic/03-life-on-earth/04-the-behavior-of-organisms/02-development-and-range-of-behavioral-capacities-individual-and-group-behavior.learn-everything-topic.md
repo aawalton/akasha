@@ -1,5 +1,6 @@
 ---
 id: 5ed6ae17-f32d-5273-a1ba-467d727e526a
+slug: 02-development-and-range-of-behavioral-capacities-individual-and-group-behavior
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Behavior of Organisms › Development and Range of Behavioral Capacities: Individual and Group Behavior
 D: 0

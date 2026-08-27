@@ -1,5 +1,6 @@
 ---
 id: 0eb1bb2a-5d6c-595e-a4f9-2e4dd055b6be
+slug: partial-mock-factory-loudness-is-set-by-the-import-shape
 page-type-slug: finding
 title: "Whether a partial mock.module factory fails loudly is decided by the importer's import shape, not the factory"
 domain-slug: domain/test

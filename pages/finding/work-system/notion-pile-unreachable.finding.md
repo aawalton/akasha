@@ -1,5 +1,6 @@
 ---
 id: b82308fc-800e-51d1-b78d-78c4cb80b67c
+slug: notion-pile-unreachable
 page-type-slug: finding
 title: "One of Alan's note piles stands in Notion and nothing here can read it"
 domain-slug: domain/work-system

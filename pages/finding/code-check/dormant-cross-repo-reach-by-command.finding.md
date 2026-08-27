@@ -1,5 +1,6 @@
 ---
 id: 20a08997-9dff-5c69-885f-ebd6eb6cc055
+slug: dormant-cross-repo-reach-by-command
 page-type-slug: finding
 title: "A cross-repo reach by command sits ready in the code checks library, reached only from an unimported module"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: ee6c5f62-c733-5a22-abb7-4fa457f6219d
+slug: 04-the-practice-of-medicine-and-care-of-health
 page-type-slug: learn-everything-topic
 node: Human Life › The Human Body: Health and Disease › The Practice of Medicine and Care of Health
 D: 0

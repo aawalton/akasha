@@ -1,5 +1,6 @@
 ---
 id: a2dc97bd-817a-534c-a100-2c77f99d37f3
+slug: page-types-outside-domain-graph
 page-type-slug: finding
 title: "Seven page type documents stand outside the domain graph, so the ownership tree has eight roots"
 domain-slug: page-type/page-type

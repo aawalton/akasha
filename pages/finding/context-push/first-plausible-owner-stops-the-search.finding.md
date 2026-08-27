@@ -1,5 +1,6 @@
 ---
 id: ba1e9384-9c61-5e20-b0a9-46e35050d72b
+slug: first-plausible-owner-stops-the-search
 page-type-slug: finding
 title: "A reader stops at the first document that could plausibly hold the answer"
 domain-slug: domain/context-push

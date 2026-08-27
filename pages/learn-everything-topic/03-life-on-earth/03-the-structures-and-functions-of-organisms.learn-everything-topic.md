@@ -1,5 +1,6 @@
 ---
 id: ef4cfd0b-e630-59bc-acf7-b75f90fe439b
+slug: 03-the-structures-and-functions-of-organisms
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms
 D: 0

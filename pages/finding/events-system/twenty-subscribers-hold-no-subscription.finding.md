@@ -1,5 +1,6 @@
 ---
 id: 5af096ff-0dcc-526d-a71c-2f55756000ce
+slug: twenty-subscribers-hold-no-subscription
 page-type-slug: finding
 title: "Twenty subscribers hold no subscription row and match nothing"
 domain-slug: domain/global

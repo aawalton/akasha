@@ -1,5 +1,6 @@
 ---
 id: c1bd7992-51bb-5a9d-a5de-b0c0fe0fe2c1
+slug: 03-human-behavior-and-experience
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience
 D: 0

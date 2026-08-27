@@ -1,5 +1,6 @@
 ---
 id: 4a09fd3f-54c7-5b70-9bf0-01834acff3da
+slug: mirror-lag-unwatched
 page-type-slug: finding
 title: "Nothing reports a git mirror falling behind once the metrics table goes"
 domain-slug: domain/git-repos

@@ -1,5 +1,6 @@
 ---
 id: 0ffe582a-0e07-5544-913d-2e6e69aabf83
+slug: split-initiatives-projects-out
 page-type-slug: finding
 title: "split initiatives/projects out from instructions but with similar patt"
 domain-slug: persona/athena

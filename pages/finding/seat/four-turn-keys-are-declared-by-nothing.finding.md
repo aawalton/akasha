@@ -1,5 +1,6 @@
 ---
 id: fb8743c7-023d-50d5-86f6-e08776bdfa63
+slug: four-turn-keys-are-declared-by-nothing
 page-type-slug: finding
 title: "Four seat turn keys are declared by no property document, so the most informative column cannot be shown"
 domain-slug: page-type/seat

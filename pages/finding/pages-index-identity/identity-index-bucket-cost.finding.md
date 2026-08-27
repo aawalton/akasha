@@ -1,5 +1,6 @@
 ---
 id: d2eb65e8-0dac-5ecd-9087-864b9d6b7d1e
+slug: identity-index-bucket-cost
 page-type-slug: finding
 title: "Bucketing the identity index"
 domain-slug: pages-index-identity

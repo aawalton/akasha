@@ -1,5 +1,6 @@
 ---
 id: 3b25630c-aa68-5aae-8038-b1a35a121133
+slug: agent-disclosure-unsettled
 page-type-slug: finding
 title: "Nothing settles whether a handler tells a person they are writing to an agent"
 domain-slug: role/handler

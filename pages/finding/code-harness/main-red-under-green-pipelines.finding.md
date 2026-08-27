@@ -1,5 +1,6 @@
 ---
 id: a743c233-71b5-5a92-b66a-0d128ec8c0ed
+slug: main-red-under-green-pipelines
 page-type-slug: finding
 title: "Six repo-wide checks steps are red on main and no main pipeline reports it"
 domain-slug: domain/global

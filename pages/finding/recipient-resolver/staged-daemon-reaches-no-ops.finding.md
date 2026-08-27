@@ -1,5 +1,6 @@
 ---
 id: 1465ac7f-2f5e-5658-8ea0-c905df428284
+slug: staged-daemon-reaches-no-ops
 page-type-slug: finding
 title: "The staged recipient resolver reaches no ops at all"
 domain-slug: workstation-service/recipient-resolver

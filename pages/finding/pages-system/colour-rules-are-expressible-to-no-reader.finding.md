@@ -1,5 +1,6 @@
 ---
 id: 099c6d04-2b1e-5148-985a-32458e2a7a68
+slug: colour-rules-are-expressible-to-no-reader
 page-type-slug: finding
 title: "Colour rules are expressible to no reader, including through values"
 domain-slug: domain/pages-system

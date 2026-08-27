@@ -1,5 +1,6 @@
 ---
 id: 02769fae-5a0d-50d1-9d77-af954773285a
+slug: plugin-dirs-name-the-code-tree
 page-type-slug: finding
 title: "The supervisor asks for plugins scoped to the code tree while every seat now spawns in the instructions tree"
 domain-slug: page-type/seat-conditions

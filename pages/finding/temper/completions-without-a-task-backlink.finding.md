@@ -1,5 +1,6 @@
 ---
 id: 6f028f5b-da9b-54ec-a025-677c70d9ad62
+slug: completions-without-a-task-backlink
 page-type-slug: finding
 title: "254 completions carry no task backlink, and none of them is fabricated"
 domain-slug: domain/946

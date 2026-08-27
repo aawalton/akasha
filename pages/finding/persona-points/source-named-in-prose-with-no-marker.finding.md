@@ -1,5 +1,6 @@
 ---
 id: e7bf4cac-825d-55e1-9e20-1804e96f9608
+slug: source-named-in-prose-with-no-marker
 page-type-slug: finding
 title: "One persona's points source is named in prose alone, so nothing the engine reads can compute her a point"
 domain-slug: domain/persona-points

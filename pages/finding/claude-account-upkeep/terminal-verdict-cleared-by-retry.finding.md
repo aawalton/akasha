@@ -1,5 +1,6 @@
 ---
 id: a5f3ab57-9ce9-5d23-95a4-6253a94205db
+slug: terminal-verdict-cleared-by-retry
 page-type-slug: finding
 title: "A renewal that merely failed clears the record that an account's login is dead"
 domain-slug: domain/claude-account-upkeep

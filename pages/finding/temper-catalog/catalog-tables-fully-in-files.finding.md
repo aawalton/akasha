@@ -1,5 +1,6 @@
 ---
 id: 10193249-ecb2-5a5f-b96e-41ceee11f2ef
+slug: catalog-tables-fully-in-files
 page-type-slug: finding
 title: "Every catalog table is backed by files across all 45 page types, so that Intent entry should leave outright"
 domain-slug: domain/temper-catalog

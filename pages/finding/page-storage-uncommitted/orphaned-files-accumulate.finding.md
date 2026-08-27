@@ -1,5 +1,6 @@
 ---
 id: 071d5e47-28d6-55e3-9d4b-572f9813cf80
+slug: orphaned-files-accumulate
 page-type-slug: finding
 title: "497 uncommitted files stand in memory with no page beside them"
 domain-slug: domain/page-storage-uncommitted

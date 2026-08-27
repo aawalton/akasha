@@ -1,5 +1,6 @@
 ---
 id: 4e6518d1-85f1-5317-9267-90e60ae97df1
+slug: backing-hand-copied
 page-type-slug: finding
 title: "The claude-account row's backing attribute is a hand-set copy and nothing projects one from the other"
 domain-slug: domain/global

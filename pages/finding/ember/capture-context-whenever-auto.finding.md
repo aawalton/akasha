@@ -1,5 +1,6 @@
 ---
 id: 9ac9fac5-a40a-56b0-a80c-131f000e7b6d
+slug: capture-context-whenever-auto
 page-type-slug: finding
 title: "capture context whenever auto quest is off"
 domain-slug: persona/ember

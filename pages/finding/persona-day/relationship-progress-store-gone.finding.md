@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: ecd05c23-4502-5084-98e0-63577e9fd6dd
+slug: relationship-progress-store-gone
 title: "Two commands describe a relationship-progress store that no longer exists"
 domain-slug: page-type/persona-day
 ---

@@ -1,5 +1,6 @@
 ---
 id: e9dda9d9-b12e-5314-8795-05981f3a82df
+slug: 04-human-populations-urban-and-rural-communities
 page-type-slug: learn-everything-topic
 node: Human Society › Social Organization and Social Change › Human Populations: Urban and Rural Communities
 D: 0

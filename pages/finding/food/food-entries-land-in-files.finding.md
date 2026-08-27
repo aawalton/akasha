@@ -1,5 +1,6 @@
 ---
 id: ff7fd17a-2265-5182-b927-2e3109e51222
+slug: food-entries-land-in-files
 page-type-slug: finding
 title: "Every food entry Alan logs lands in a file, so that Intent entry should leave outright"
 domain-slug: domain/global

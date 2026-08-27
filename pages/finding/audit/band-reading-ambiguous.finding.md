@@ -1,5 +1,6 @@
 ---
 id: 7f9c2608-ba58-5ff8-b2be-df022ebc119a
+slug: band-reading-ambiguous
 page-type-slug: finding
 title: "Is X is a band the band X holds or the band X measures in — the two readings reverse each other"
 domain-slug: domain/audit

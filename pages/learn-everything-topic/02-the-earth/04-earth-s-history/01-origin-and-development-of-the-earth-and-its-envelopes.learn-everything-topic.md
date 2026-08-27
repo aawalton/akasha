@@ -1,5 +1,6 @@
 ---
 id: c01cf80d-4d04-54a1-8d87-a5363455116d
+slug: 01-origin-and-development-of-the-earth-and-its-envelopes
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes
 D: 3

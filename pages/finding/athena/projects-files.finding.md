@@ -1,5 +1,6 @@
 ---
 id: 808f8bf1-6ce9-5870-b754-d2bafefa65a8
+slug: projects-files
 page-type-slug: finding
 title: "projects as files"
 domain-slug: persona/athena

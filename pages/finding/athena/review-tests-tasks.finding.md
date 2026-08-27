@@ -1,5 +1,6 @@
 ---
 id: 83278aa0-e46b-5131-a921-6de9f5f2b696
+slug: review-tests-tasks
 page-type-slug: finding
 title: "review tests with tasks"
 domain-slug: persona/athena

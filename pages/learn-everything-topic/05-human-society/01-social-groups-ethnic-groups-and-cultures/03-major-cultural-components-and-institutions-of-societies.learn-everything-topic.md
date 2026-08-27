@@ -1,5 +1,6 @@
 ---
 id: 99fbecb2-fba2-52e4-a053-7ab07d8532ac
+slug: 03-major-cultural-components-and-institutions-of-societies
 page-type-slug: learn-everything-topic
 node: Human Society › Social Groups: Ethnic groups and Cultures › Major Cultural Components and Institutions of Societies
 D: 0

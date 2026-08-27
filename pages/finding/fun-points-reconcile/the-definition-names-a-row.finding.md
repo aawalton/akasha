@@ -1,5 +1,6 @@
 ---
 id: 465c8f4e-ecb0-5778-affa-187349fdef3c
+slug: the-definition-names-a-row
 page-type-slug: finding
 title: "This service's Definition says it books onto a row while the service reads and writes files"
 domain-slug: domain/global

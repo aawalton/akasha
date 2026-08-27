@@ -1,5 +1,6 @@
 ---
 id: c8563d5c-3608-5bf8-831f-561cba9175c5
+slug: game-glob-resolves-to-repo-root
 page-type-slug: finding
 title: "The game page type resolves a new page to the stories repo root"
 domain-slug: domain/pages-system

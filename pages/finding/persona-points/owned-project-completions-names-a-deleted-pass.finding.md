@@ -1,5 +1,6 @@
 ---
 id: cc62adae-0dda-54bb-905b-274affc049cd
+slug: owned-project-completions-names-a-deleted-pass
 page-type-slug: finding
 title: "Owned project completions names a pass Alan deleted"
 domain-slug: domain/persona-points

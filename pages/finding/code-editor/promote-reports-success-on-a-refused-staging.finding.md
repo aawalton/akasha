@@ -1,5 +1,6 @@
 ---
 id: a09527e0-bee3-5c91-904e-bd6dd6247688
+slug: promote-reports-success-on-a-refused-staging
 page-type-slug: finding
 title: "The promote script exits 0 when staging refuses, so a promote that landed nothing reads as one that worked"
 domain-slug: domain/code-editor

@@ -1,5 +1,6 @@
 ---
 id: 8f0fd091-131b-5e8a-b5bc-50b653b848ad
+slug: query-service-unsourced
 page-type-slug: finding
 title: "The project query service feeds a readout while standing under no readout source"
 domain-slug: domain/readout-system

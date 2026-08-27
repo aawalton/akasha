@@ -1,5 +1,6 @@
 ---
 id: c62d4c0d-f69c-56cc-9d46-b13247207b68
+slug: deployed-coherence-routine-ahead-of-source
 page-type-slug: finding
 title: "The deployed coherence routine is ahead of its source"
 domain-slug: domain/pages-system

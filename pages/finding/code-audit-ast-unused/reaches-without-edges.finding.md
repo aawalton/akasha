@@ -1,5 +1,6 @@
 ---
 id: 81e31acd-f17f-5a34-ba18-2c2ae072f567
+slug: reaches-without-edges
 page-type-slug: finding
 title: "Three kinds of live reach are invisible to the ast-unused audit and each reads as a dead export"
 domain-slug: domain/code-audit-ast-unused

@@ -1,5 +1,6 @@
 ---
 id: 470dfb87-2706-55e5-b776-0544897b9c7f
+slug: 07-reproduction-and-sex
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Reproduction and Sex
 D: 0

@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 62bb7675-4f0c-5f4e-a071-08baf06fcb60
+slug: values-source-poll-rate
 title: "One readout query is a quarter of all page query traffic"
 domain-slug: domain/readout-system
 ---

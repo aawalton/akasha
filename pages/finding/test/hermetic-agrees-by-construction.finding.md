@@ -1,5 +1,6 @@
 ---
 id: 2ff3bc49-099a-5891-a67e-c59e26bb6cc1
+slug: hermetic-agrees-by-construction
 page-type-slug: finding
 title: "A test that builds the tree it then reads agrees with the code whatever the corpus holds"
 domain-slug: domain/test

@@ -1,5 +1,6 @@
 ---
 id: 2725e307-9ccb-504e-8644-e5318c12f139
+slug: 07-play-games-and-fun
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › Play, Games, and Fun
 D: 4

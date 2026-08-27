@@ -1,5 +1,6 @@
 ---
 id: 022ec4dc-b0e6-5d8e-ab26-351d2b8c71d2
+slug: regular-initiative-review-schedule
 page-type-slug: finding
 title: "regular initiative review on a schedule for active initiatives (initia"
 domain-slug: persona/athena

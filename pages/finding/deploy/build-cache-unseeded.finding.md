@@ -1,5 +1,6 @@
 ---
 id: 378287ef-363f-548a-8a4a-f239c661cf1f
+slug: build-cache-unseeded
 page-type-slug: finding
 title: "Six web deploys serve from a per-node build cache nothing seeds on a fresh node"
 domain-slug: domain/deploy

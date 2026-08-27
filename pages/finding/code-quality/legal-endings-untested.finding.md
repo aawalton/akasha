@@ -1,5 +1,6 @@
 ---
 id: c10e8dcd-266b-581c-b0c1-c96d2727672e
+slug: legal-endings-untested
 page-type-slug: finding
 title: "The halt-census legal-endings module has no test covering it"
 domain-slug: domain/code-quality

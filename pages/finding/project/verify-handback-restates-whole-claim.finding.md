@@ -1,5 +1,6 @@
 ---
 id: d73c1e8a-36dd-5be0-bc71-c0f8dc518b59
+slug: verify-handback-restates-whole-claim
 page-type-slug: finding
 title: "Verify handback restates the whole claim aid"
 domain-slug: barred-meaning/project

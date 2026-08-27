@@ -1,5 +1,6 @@
 ---
 id: 83d09bab-70cd-59a7-b027-f0f63a09107b
+slug: rulings-in-deployed-code
 page-type-slug: finding
 title: "Wandering Inn rulings stand in deployed code"
 domain-slug: domain/narrative-engine

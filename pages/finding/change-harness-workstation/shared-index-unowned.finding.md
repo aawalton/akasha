@@ -1,5 +1,6 @@
 ---
 id: 0493287c-0eef-5b74-ae47-657b8551a1bc
+slug: shared-index-unowned
 page-type-slug: finding
 title: "A staged file belongs to the checkout, not the agent that staged it"
 domain-slug: domain/change-harness-workstation

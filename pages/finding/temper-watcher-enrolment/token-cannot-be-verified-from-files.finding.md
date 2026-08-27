@@ -1,5 +1,6 @@
 ---
 id: 917d1b45-aae5-594e-94d1-ac727509948a
+slug: token-cannot-be-verified-from-files
 page-type-slug: finding
 title: "Watcher token cannot be verified from files"
 domain-slug: page-type/temper-watcher-enrolment

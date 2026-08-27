@@ -1,5 +1,6 @@
 ---
 id: 18811d35-6ba1-5bb7-90f3-d8967b1e2242
+slug: daemon-restart-phase-calls-retired-commands
 page-type-slug: finding
 title: "The deploy's daemon-restart phase calls two commands that were both retired"
 domain-slug: domain/deploy

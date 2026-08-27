@@ -1,5 +1,6 @@
 ---
 id: 74b486c9-efb9-57ee-a285-e293890b8f75
+slug: rebase-orphans-commit-hashes
 page-type-slug: finding
 title: "Project rebase leaves commit-hashes pointing at commits the rebase orphaned"
 domain-slug: domain/work-system

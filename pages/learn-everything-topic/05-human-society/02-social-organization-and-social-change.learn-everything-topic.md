@@ -1,5 +1,6 @@
 ---
 id: 61f47ebe-4359-5aa0-b1df-e92e56985504
+slug: 02-social-organization-and-social-change
 page-type-slug: learn-everything-topic
 node: Human Society › Social Organization and Social Change
 D: 0

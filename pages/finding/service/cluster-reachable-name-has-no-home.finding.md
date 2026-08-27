@@ -1,5 +1,6 @@
 ---
 id: 01653c45-b31e-5392-bc6e-0fe5fdf1d529
+slug: cluster-reachable-name-has-no-home
 page-type-slug: finding
 title: "A cluster-reachable name has no home in the service family"
 domain-slug: domain/service

@@ -1,5 +1,6 @@
 ---
 id: 9b7a6255-d8a4-5fee-ac89-afe6991a3b4a
+slug: requested-action-is-a-latch
 page-type-slug: finding
 title: "Requested action is a latch a census cannot see"
 domain-slug: page-type/seat

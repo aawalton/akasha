@@ -1,5 +1,6 @@
 ---
 id: 3538fcce-12dd-586d-8650-61e7a5c47cc9
+slug: confirm-whether-sonnet-agents
 page-type-slug: finding
 title: "confirm whether sonnet agents are actually running as sonnet"
 domain-slug: persona/athena

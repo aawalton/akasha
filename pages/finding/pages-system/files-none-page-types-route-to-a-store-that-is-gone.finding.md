@@ -1,5 +1,6 @@
 ---
 id: bbe2d0b7-6923-5c50-aaa9-b5da0391c2a1
+slug: files-none-page-types-route-to-a-store-that-is-gone
 page-type-slug: finding
 title: "The 56 files-none page types route to a store that no longer exists"
 domain-slug: domain/pages-system

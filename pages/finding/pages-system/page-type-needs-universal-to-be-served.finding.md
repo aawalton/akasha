@@ -1,5 +1,6 @@
 ---
 id: 5c60d76b-79f5-50dc-9a8f-2bb17fa26164
+slug: page-type-needs-universal-to-be-served
 page-type-slug: finding
 title: "A page type created without the universal flag is invisible to the deployed web app"
 domain-slug: domain/pages-system

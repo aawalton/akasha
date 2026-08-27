@@ -1,5 +1,6 @@
 ---
 id: 1b724c8a-d055-56ce-a515-f68648deb0ef
+slug: 01-characteristics-of-life
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Nature and Diversity of Life › Characteristics of Life
 D: 0

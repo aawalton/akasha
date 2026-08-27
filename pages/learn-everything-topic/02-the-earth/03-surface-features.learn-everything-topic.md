@@ -1,5 +1,6 @@
 ---
 id: 19feca21-2d99-5da2-871d-1f1738d22cc5
+slug: 03-surface-features
 page-type-slug: learn-everything-topic
 node: The Earth › Surface Features
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: b7a4dc8c-2274-5733-a51e-9ba7a828fe17
+slug: 04-human-life
 page-type-slug: learn-everything-topic
 node: Human Life
 D: 0

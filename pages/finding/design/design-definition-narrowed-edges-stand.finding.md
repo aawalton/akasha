@@ -1,5 +1,6 @@
 ---
 id: 9dbd6d53-4f9d-527d-b3de-c33a3eb4bd4d
+slug: design-definition-narrowed-edges-stand
 page-type-slug: finding
 title: "Design definition narrowed and its edges stand"
 domain-slug: domain/design

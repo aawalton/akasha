@@ -1,5 +1,6 @@
 ---
 id: e7484ce0-58d5-538b-9a57-d5f702dadf43
+slug: no-reason-claim-on-both-children
 page-type-slug: finding
 title: "No reason claim stands on both children"
 domain-slug: domain/domain-invariant

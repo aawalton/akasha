@@ -1,5 +1,6 @@
 ---
 id: 7b8cd11e-d56b-56b2-b17c-03dd39f384bc
+slug: roster-reconciler-has-no-caller-and-an-incomplete-set
 page-type-slug: finding
 title: "The subscriber roster has a reconciler with no caller and a set that would delete live CI rows"
 domain-slug: domain/global

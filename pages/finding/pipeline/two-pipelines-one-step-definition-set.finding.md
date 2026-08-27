@@ -1,5 +1,6 @@
 ---
 id: f6b76f27-d401-5165-a0b0-349397ce1892
+slug: two-pipelines-one-step-definition-set
 page-type-slug: finding
 title: "Thirteen of pipeline 88's step definitions carry pipeline 89's tree-sha, and neither a seq-block race nor a page-name collision explains it"
 domain-slug: page-type/pipeline

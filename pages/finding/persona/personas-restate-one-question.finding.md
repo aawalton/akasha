@@ -1,5 +1,6 @@
 ---
 id: cc4fedf5-c628-5843-a46d-a9e51d51b850
+slug: personas-restate-one-question
 page-type-slug: finding
 title: "Fifteen persona bodies each restate the One Question rule in their own voice"
 domain-slug: page-type/persona

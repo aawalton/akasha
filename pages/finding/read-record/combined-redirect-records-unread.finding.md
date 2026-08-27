@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: b3e16ba4-aeff-5e47-aa68-d6c3d428e476
+slug: combined-redirect-records-unread
 title: "A read redirected with 2>&1 records a reading nobody received"
 domain-slug: domain/read-record
 ---

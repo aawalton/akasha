@@ -1,5 +1,6 @@
 ---
 id: cd5f9c92-4664-5b2a-84ce-15e7606bc090
+slug: design-lines-owed-on-narrowing-and-origin
 page-type-slug: finding
 title: "Three facts about the query service are settled in code and recorded in no instruction"
 domain-slug: workstation-service/928

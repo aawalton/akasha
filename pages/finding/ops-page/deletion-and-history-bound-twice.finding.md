@@ -1,5 +1,6 @@
 ---
 id: 3eba5c88-3bd7-53d7-b935-5f09583afa5b
+slug: deletion-and-history-bound-twice
 page-type-slug: finding
 title: "Deletion and history are bound twice and the pairs disagree"
 domain-slug: domain/ops-page

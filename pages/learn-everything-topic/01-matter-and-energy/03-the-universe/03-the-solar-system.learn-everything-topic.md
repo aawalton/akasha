@@ -1,5 +1,6 @@
 ---
 id: fb77366f-9111-5d9d-9923-16a8c558d29e
+slug: 03-the-solar-system
 page-type-slug: learn-everything-topic
 node: Matter and Energy › The Universe › The Solar System
 D: 0

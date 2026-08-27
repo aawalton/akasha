@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 3e8f828a-9eb9-5bbb-b9a1-2925339feb3b
+slug: unowned-count-counts-pages
 title: "domain-edges counts every slugged page as a domain"
 domain-slug: domain/domain-parent
 ---

@@ -1,5 +1,6 @@
 ---
 id: 5e6cfc51-16dc-548c-bf47-84962af5d7c3
+slug: separate-validate-verify-role
 page-type-slug: finding
 title: "separate validate/verify role skill/s?"
 domain-slug: persona/athena

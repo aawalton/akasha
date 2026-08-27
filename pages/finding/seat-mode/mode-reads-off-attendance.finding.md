@@ -1,5 +1,6 @@
 ---
 id: cdaa3287-a654-5aac-a886-bd23e1049de6
+slug: mode-reads-off-attendance
 page-type-slug: finding
 title: "Seat mode reads off attendance"
 domain-slug: page-property-definition/seat-mode

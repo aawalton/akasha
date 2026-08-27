@@ -1,5 +1,6 @@
 ---
 id: e76ab62f-c6dd-52d5-8ab9-5560c07ce1ca
+slug: code-repo-names-retired-keys
 page-type-slug: finding
 title: "User-facing refusals in the code repository name the retired large and data keys"
 domain-slug: domain/pages-system

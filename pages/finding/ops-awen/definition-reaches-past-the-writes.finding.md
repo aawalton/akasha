@@ -1,5 +1,6 @@
 ---
 id: b453507e-52d5-5b03-996a-1db427694fde
+slug: definition-reaches-past-the-writes
 page-type-slug: finding
 title: "Two words in the ops-awen definition do not hold, and by hand has two readings that ask for different things"
 domain-slug: domain/global

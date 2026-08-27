@@ -1,5 +1,6 @@
 ---
 id: 824362b1-657f-5703-aae8-d3cfc2458427
+slug: 04-earth-s-history
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's History
 D: 0

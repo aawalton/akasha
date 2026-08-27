@@ -1,5 +1,6 @@
 ---
 id: 31007028-fec7-55fd-a0e2-7319a80a7269
+slug: audits-called-checks-in-code
 page-type-slug: finding
 title: "The corpus calls the 41 files audits and the code calls them checks"
 domain-slug: domain/audit

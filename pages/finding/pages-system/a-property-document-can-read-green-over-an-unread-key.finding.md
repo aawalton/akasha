@@ -1,5 +1,6 @@
 ---
 id: 3e7b78aa-3515-51c1-999d-131331cb93c5
+slug: a-property-document-can-read-green-over-an-unread-key
 page-type-slug: finding
 title: "A property document can read green over a key no reader asks for"
 domain-slug: domain/pages-system

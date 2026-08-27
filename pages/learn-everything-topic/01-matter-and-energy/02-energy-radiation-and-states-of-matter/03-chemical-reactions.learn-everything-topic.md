@@ -1,5 +1,6 @@
 ---
 id: 32595125-cb08-5e25-9223-9924d5b36047
+slug: 03-chemical-reactions
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › Chemical Reactions
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: e5ce1abb-cf2d-5cf0-b8cf-9c716bfe2900
+slug: persona-fully-off-rows
 page-type-slug: finding
 title: "Two of persona's three Intent entries are now true and should leave outright"
 domain-slug: page-type/persona

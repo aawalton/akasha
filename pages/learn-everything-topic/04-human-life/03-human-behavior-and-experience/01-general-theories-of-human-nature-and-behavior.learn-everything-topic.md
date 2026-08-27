@@ -1,5 +1,6 @@
 ---
 id: faa819ea-37dd-5025-87f7-7411bff0a212
+slug: 01-general-theories-of-human-nature-and-behavior
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › General theories of human nature and behavior
 D: 0

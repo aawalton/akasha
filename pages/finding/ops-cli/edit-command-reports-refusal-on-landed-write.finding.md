@@ -1,5 +1,6 @@
 ---
 id: a1d60cf9-b213-5ad1-80e9-4427ab14276a
+slug: edit-command-reports-refusal-on-landed-write
 page-type-slug: finding
 title: "The edit command can report a refusal on a write it landed"
 domain-slug: domain/ops-cli

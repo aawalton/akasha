@@ -1,5 +1,6 @@
 ---
 id: 60d93b22-5b5d-533a-8b4b-cba7b6e126a0
+slug: remove-one-time-hireline
 page-type-slug: finding
 title: "remove one at a time hireline mail retrieval"
 domain-slug: persona/ember

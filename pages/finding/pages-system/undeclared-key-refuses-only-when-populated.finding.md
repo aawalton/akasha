@@ -1,5 +1,6 @@
 ---
 id: 9a54a723-e798-51e5-a007-b17810bfa7dd
+slug: undeclared-key-refuses-only-when-populated
 page-type-slug: finding
 title: "Undeclared key refuses only where pages already stand"
 domain-slug: domain/pages-system

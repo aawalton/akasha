@@ -1,5 +1,6 @@
 ---
 id: b5e0b603-b096-5cd3-b2c5-cb41455fcd68
+slug: pushes-stopped-before-the-shutdown
 page-type-slug: finding
 title: "Pushes stopped twenty hours before the shutdown that looks like their cause"
 domain-slug: domain/global

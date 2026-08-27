@@ -1,5 +1,6 @@
 ---
 id: ecc883dd-08d8-5b63-94bb-e3d684664c1f
+slug: 01-human-evolution
 page-type-slug: learn-everything-topic
 node: Human Life › The Development of Human Life › Human Evolution
 D: 0

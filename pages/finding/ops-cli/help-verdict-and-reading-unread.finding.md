@@ -1,5 +1,6 @@
 ---
 id: 84f1ad67-ae33-53c9-9157-de1ffa6ba421
+slug: help-verdict-and-reading-unread
 page-type-slug: finding
 title: "CommandHelp declares verdict and reading, and nothing reads either"
 domain-slug: domain/ops-cli

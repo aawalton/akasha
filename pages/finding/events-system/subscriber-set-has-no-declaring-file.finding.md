@@ -1,5 +1,6 @@
 ---
 id: 096a0576-8ec3-5bda-a661-d5b9e13f444b
+slug: subscriber-set-has-no-declaring-file
 page-type-slug: finding
 title: "No file declares the subscriber set, so the set-difference has no mechanism at all"
 domain-slug: domain/global

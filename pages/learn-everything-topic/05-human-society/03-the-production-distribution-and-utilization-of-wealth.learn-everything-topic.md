@@ -1,5 +1,6 @@
 ---
 id: 5bc62c81-126e-5039-9d72-a18c895d7192
+slug: 03-the-production-distribution-and-utilization-of-wealth
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth
 D: 0

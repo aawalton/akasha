@@ -1,5 +1,6 @@
 ---
 id: 3d197ea7-9fdc-5f97-a5c7-9297acdb79aa
+slug: resume-refuses-cleanly-stopped-seat
 page-type-slug: finding
 title: "A seat that stopped cleanly cannot be resumed, though its attributes stand in the memory repo's history"
 domain-slug: domain/ops-seat

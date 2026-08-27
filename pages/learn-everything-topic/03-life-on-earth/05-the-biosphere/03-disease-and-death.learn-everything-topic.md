@@ -1,5 +1,6 @@
 ---
 id: 6e589ae0-ff00-51e3-b6de-11bdc20e6104
+slug: 03-disease-and-death
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere › Disease and Death
 D: 0

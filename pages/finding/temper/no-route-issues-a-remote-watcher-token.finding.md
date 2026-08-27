@@ -1,5 +1,6 @@
 ---
 id: bb1a1db5-5dc9-5f4f-9147-794e7aa11fe5
+slug: no-route-issues-a-remote-watcher-token
 page-type-slug: finding
 title: "No route issues a watcher token to a remote client"
 domain-slug: domain/946

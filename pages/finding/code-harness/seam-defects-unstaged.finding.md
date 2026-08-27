@@ -1,5 +1,6 @@
 ---
 id: 2a6d3c15-df65-551f-ac0d-4884464046d3
+slug: seam-defects-unstaged
 page-type-slug: finding
 title: "Per-package branch CI cannot see a defect that is wrong only where two packages meet"
 domain-slug: domain/global

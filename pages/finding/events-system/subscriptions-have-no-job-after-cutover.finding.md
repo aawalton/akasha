@@ -1,5 +1,6 @@
 ---
 id: b99736ab-85c2-5afb-a26e-1dfcd4cbbfdf
+slug: subscriptions-have-no-job-after-cutover
 page-type-slug: finding
 title: "All 40 page-type-keyed subscription rows have no job left, and two carry work Alan feels directly"
 domain-slug: domain/global

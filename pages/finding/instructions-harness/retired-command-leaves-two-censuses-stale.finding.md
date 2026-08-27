@@ -1,5 +1,6 @@
 ---
 id: 8df1956a-c12f-5408-9926-72ba926aba8f
+slug: retired-command-leaves-two-censuses-stale
 page-type-slug: finding
 title: "Retiring a command leaves two censuses stale and only one has a route back"
 domain-slug: domain/global

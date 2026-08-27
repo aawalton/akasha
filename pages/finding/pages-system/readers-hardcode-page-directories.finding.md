@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 44dd16e1-5a71-5bef-bdc0-ac2c8e375e24
+slug: readers-hardcode-page-directories
 title: "Readers hardcode the directory a page type's pages stand in, and a move cannot repoint them"
 domain-slug: domain/pages-system
 ---

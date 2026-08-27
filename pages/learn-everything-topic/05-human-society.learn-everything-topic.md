@@ -1,5 +1,6 @@
 ---
 id: 8e299e69-28d8-5c4a-9e18-4388c67dbbd5
+slug: 05-human-society
 page-type-slug: learn-everything-topic
 node: Human Society
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: d929266b-2587-5d3a-a74a-811fa73c82f9
+slug: 02-earth-s-envelope
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Envelope
 D: 0

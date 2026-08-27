@@ -1,5 +1,6 @@
 ---
 id: 01a0201e-3553-7000-b7d5-a79c7fbd9de7
+slug: the-task-slug-names-agent-documents-not-alans-to-dos
 page-type-slug: finding
 title: "The task slug names agent task documents, not Alan's to-dos"
 domain-slug: page-type/task

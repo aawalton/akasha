@@ -1,5 +1,6 @@
 ---
 id: 8cd2a525-0285-5fdd-b9f2-4d3019a40e59
+slug: palette-written-four-ways
 page-type-slug: finding
 title: "One palette is written out in four notations across two repositories"
 domain-slug: domain/design-tokens

@@ -1,5 +1,6 @@
 ---
 id: 45ba9676-2ab6-5d08-bd6b-a1c7f606da13
+slug: spawned-module-reads-as-orphaned
 page-type-slug: finding
 title: "A module bash spawns reads as orphaned"
 domain-slug: domain/global

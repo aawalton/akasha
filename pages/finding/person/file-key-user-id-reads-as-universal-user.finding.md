@@ -1,5 +1,6 @@
 ---
 id: 42707bb0-e753-55c5-b09f-c5ae8f918d37
+slug: file-key-user-id-reads-as-universal-user
 page-type-slug: finding
 title: "A file key spelled user-id reads back as the universal user"
 domain-slug: page-type/person

@@ -1,5 +1,6 @@
 ---
 id: ccdaa8a1-f7ef-5c35-a6de-f01f08f36bc9
+slug: 03-structure-and-composition-of-the-earth-s-interior
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Properties, Structure, Composition › Structure and Composition of the Earth's Interior
 D: 3

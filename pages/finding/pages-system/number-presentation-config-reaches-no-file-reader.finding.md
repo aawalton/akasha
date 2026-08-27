@@ -1,5 +1,6 @@
 ---
 id: 55589082-6a37-5cce-9dd2-6ff864056409
+slug: number-presentation-config-reaches-no-file-reader
 page-type-slug: finding
 title: "Number presentation config reaches no file-backed reader"
 domain-slug: domain/pages-system

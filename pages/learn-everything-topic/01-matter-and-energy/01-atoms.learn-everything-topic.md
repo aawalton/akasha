@@ -1,5 +1,6 @@
 ---
 id: 587f908a-38b4-50ac-b65d-017a682115ab
+slug: 01-atoms
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Atoms
 D: 0

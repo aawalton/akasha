@@ -1,5 +1,6 @@
 ---
 id: da4cc5f6-393a-5551-aa1f-934e20c0a7e8
+slug: slug-derivations-disagree
 page-type-slug: finding
 title: "The write path and the read path derive different slugs for a nested page"
 domain-slug: domain/pages-system

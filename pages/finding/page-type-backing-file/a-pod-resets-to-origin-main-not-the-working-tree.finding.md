@@ -1,5 +1,6 @@
 ---
 id: 512c7fd8-03eb-528e-a1ea-7ba09b123160
+slug: a-pod-resets-to-origin-main-not-the-working-tree
 page-type-slug: finding
 title: "A pod resets to origin main rather than the working tree, so repointing a writer never reaches it"
 domain-slug: domain/global

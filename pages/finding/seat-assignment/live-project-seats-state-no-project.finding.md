@@ -1,5 +1,6 @@
 ---
 id: 12f31712-3fa8-5dcc-b014-262d07ecea06
+slug: live-project-seats-state-no-project
 page-type-slug: finding
 title: "Two live seats are working projects while stating no project assignment"
 domain-slug: domain/seat-assignment

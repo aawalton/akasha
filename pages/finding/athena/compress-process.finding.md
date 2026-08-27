@@ -1,5 +1,6 @@
 ---
 id: d87c4220-da10-5a7b-a2b5-d3762a86c99d
+slug: compress-process
 page-type-slug: finding
 title: "compress the process"
 domain-slug: persona/athena

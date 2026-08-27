@@ -1,5 +1,6 @@
 ---
 id: 09a46691-2b96-5fa4-b233-91ac2b5a6b64
+slug: 02-features-produced-by-geomorphic-processes
 page-type-slug: learn-everything-topic
 node: The Earth › Surface Features › Features Produced by Geomorphic Processes
 D: 0

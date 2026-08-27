@@ -1,5 +1,6 @@
 ---
 id: a2d077ac-c5a7-5c01-b15b-978cac22a71c
+slug: 01-the-development-of-human-life
 page-type-slug: learn-everything-topic
 node: Human Life › The Development of Human Life
 D: 0

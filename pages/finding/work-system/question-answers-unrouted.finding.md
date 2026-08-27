@@ -1,5 +1,6 @@
 ---
 id: e47d3075-ce2e-5d34-b569-48d7f5072c29
+slug: question-answers-unrouted
 page-type-slug: finding
 title: "Alan's answers to questions name work that reaches the work system through nothing"
 domain-slug: domain/work-system

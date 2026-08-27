@@ -1,5 +1,6 @@
 ---
 id: 86546c11-8be9-5645-b459-2d6e615c0212
+slug: owed-reading-satisfiable-unread
 page-type-slug: finding
 title: "The command that pays an owed reading records it whether or not the body reaches whoever ran it"
 domain-slug: domain/global

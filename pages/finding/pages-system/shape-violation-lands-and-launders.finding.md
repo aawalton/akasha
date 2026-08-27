@@ -1,5 +1,6 @@
 ---
 id: 7b337baa-2047-564c-b375-e6a974eafb47
+slug: shape-violation-lands-and-launders
 page-type-slug: finding
 title: "A page can land carrying a section its shape forbids, and the commit looks gated"
 domain-slug: domain/pages-system

@@ -1,5 +1,6 @@
 ---
 id: a53a4fc8-3036-58e0-b510-0eaf51961e9b
+slug: dispatchable-code-half-stands
 page-type-slug: finding
 title: "A retired flag's whole code half still stands, and the ast-unused check cannot see that it is dead"
 domain-slug: domain/unused-code

@@ -1,5 +1,6 @@
 ---
 id: 53a03a03-83cd-5ddf-a836-dd3f9b1dd1f5
+slug: the-two-seat-name-corpora-have-diverged
 page-type-slug: finding
 title: "The two seat-name corpora have diverged into different grammars and the code repository holds the older"
 domain-slug: domain/seat-name

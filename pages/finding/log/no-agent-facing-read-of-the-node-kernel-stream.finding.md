@@ -1,5 +1,6 @@
 ---
 id: da768bc2-3707-51e1-bb55-cfd5a2d06bea
+slug: no-agent-facing-read-of-the-node-kernel-stream
 page-type-slug: finding
 title: "Nothing an agent can run reads the nodes' own kernel log"
 domain-slug: domain/log

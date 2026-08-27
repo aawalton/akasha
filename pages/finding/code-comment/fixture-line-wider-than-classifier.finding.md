@@ -1,5 +1,6 @@
 ---
 id: bc8b1851-c39e-5242-bb6c-fcce688b7417
+slug: fixture-line-wider-than-classifier
 page-type-slug: finding
 title: "The fixture Design line is wider than the classifier enforcing it, which sets aside __fixtures__ alone"
 domain-slug: domain/code-comment

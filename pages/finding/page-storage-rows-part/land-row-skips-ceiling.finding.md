@@ -1,5 +1,6 @@
 ---
 id: 45b274d6-0b7e-503d-b6c7-757a1d5ffa3f
+slug: land-row-skips-ceiling
 page-type-slug: finding
 title: "landRow appends past the rows part ceiling"
 domain-slug: domain/page-storage-rows-part

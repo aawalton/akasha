@@ -1,5 +1,6 @@
 ---
 id: 114df4c4-9a37-5b62-ade3-c4003ea74cf0
+slug: theme-step-holds-products-back-on-a-false-claim
 page-type-slug: finding
 title: "The theme's first sequence step holds every product back on two claims that are now both false"
 domain-slug: domain/global

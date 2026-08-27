@@ -1,5 +1,6 @@
 ---
 id: cc161f9a-c57b-586d-9429-47816ae9897a
+slug: pinning-agents-initiatives-projects
 page-type-slug: finding
 title: "pinning agents to initiatives and projects"
 domain-slug: persona/athena

@@ -1,5 +1,6 @@
 ---
 id: 3b6e1e30-f6bd-520a-bd5d-4dd6332946dd
+slug: 04-international-relations-peace-and-war
 page-type-slug: learn-everything-topic
 node: Human Society › Politics and Government › International Relations: Peace and War
 D: 0

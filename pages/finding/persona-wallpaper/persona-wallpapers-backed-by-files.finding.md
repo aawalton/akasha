@@ -1,5 +1,6 @@
 ---
 id: 36dcd400-8f65-5b1e-b9d3-d0ec0e9a9a2b
+slug: persona-wallpapers-backed-by-files
 page-type-slug: finding
 title: "A persona wallpaper is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/persona-wallpaper

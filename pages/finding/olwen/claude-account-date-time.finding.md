@@ -1,5 +1,6 @@
 ---
 id: a28293ac-135c-5e0f-be66-e851a5cb2d70
+slug: claude-account-date-time
 page-type-slug: finding
 title: "Claude account date/time format audit"
 domain-slug: persona/olwen

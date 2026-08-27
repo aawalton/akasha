@@ -1,5 +1,6 @@
 ---
 id: 57ced8fd-82c0-538f-a6f9-a00640400703
+slug: resolve-when-found-warrant-two-readings
 page-type-slug: finding
 title: "Resolve When Found warrant reads two ways"
 domain-slug: page-body-section/domain-intent

@@ -1,5 +1,6 @@
 ---
 id: 3847f2e0-6fc5-5a20-bd36-2c5a7549645a
+slug: hygiene-line-outlived-its-circle
 page-type-slug: finding
 title: "This domain's Design still describes hygiene's figure after hygiene left the upkeep row"
 domain-slug: domain/global

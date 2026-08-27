@@ -1,5 +1,6 @@
 ---
 id: c9cd3342-87a6-5259-bb42-906ece297845
+slug: deadness-sweep-blind-to-the-editor-fork
 page-type-slug: finding
 title: "A deadness sweep cannot see a consumer in the code-editor fork"
 domain-slug: domain/global

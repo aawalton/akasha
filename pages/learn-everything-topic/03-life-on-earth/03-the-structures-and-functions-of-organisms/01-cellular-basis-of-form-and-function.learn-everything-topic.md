@@ -1,5 +1,6 @@
 ---
 id: 28f22406-d31c-5a2b-9c31-06efe3f955c5
+slug: 01-cellular-basis-of-form-and-function
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Cellular Basis of Form and Function
 D: 0

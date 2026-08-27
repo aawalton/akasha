@@ -1,5 +1,6 @@
 ---
 id: 6b288b7c-304d-5f8b-a0db-4e405cb9aa3c
+slug: nested-initiatives-unreachable
 page-type-slug: finding
 title: "An initiative under a subdirectory is no initiative page, so the machinery that reads one is dead"
 domain-slug: domain/work-system

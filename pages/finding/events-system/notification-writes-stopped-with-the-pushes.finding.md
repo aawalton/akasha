@@ -1,5 +1,6 @@
 ---
 id: d796f620-6014-50f0-a05d-489f052023b6
+slug: notification-writes-stopped-with-the-pushes
 page-type-slug: finding
 title: "The last notification written and the last one pushed are the same event"
 domain-slug: domain/global

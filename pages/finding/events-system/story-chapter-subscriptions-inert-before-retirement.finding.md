@@ -1,5 +1,6 @@
 ---
 id: 6bfb6500-cf4e-5403-b504-24f1e79f1d2f
+slug: story-chapter-subscriptions-inert-before-retirement
 page-type-slug: finding
 title: "The twelve story-chapter subscription rows were inert before any retirement rather than because of one"
 domain-slug: domain/global

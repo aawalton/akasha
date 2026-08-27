@@ -1,5 +1,6 @@
 ---
 id: ad077dee-9b9a-598a-94ad-56fe58d07db7
+slug: 04-covering-and-support-integumentary-skeletal-and-musculatory-systems
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Covering and Support: Integumentary, Skeletal, and Musculatory Systems
 D: 0

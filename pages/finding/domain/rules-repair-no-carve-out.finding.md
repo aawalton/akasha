@@ -1,5 +1,6 @@
 ---
 id: bba5d44a-f5c7-5693-9de0-4a22634cda3c
+slug: rules-repair-no-carve-out
 page-type-slug: finding
 title: "A dispatched review has no carve-out from Every Changed Line for a plain repair in Rules or Principles"
 domain-slug: page-type/domain

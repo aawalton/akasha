@@ -1,5 +1,6 @@
 ---
 id: fc9a03d3-5364-57a8-aae7-2986a732c67a
+slug: departure-in-definition
 page-type-slug: finding
 title: "The Definition carries a departure because the document has no Design section to hold it"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: 59298605-86f6-5fe7-8143-a19aedd240f0
+slug: 01-economic-concepts-issues-and-systems
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth › Economic Concepts, Issues, and Systems
 D: 0

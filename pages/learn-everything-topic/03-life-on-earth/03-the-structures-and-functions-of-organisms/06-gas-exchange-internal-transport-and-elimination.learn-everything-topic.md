@@ -1,5 +1,6 @@
 ---
 id: dfef55fb-a5e1-5b0a-9f1c-5667bcba36ad
+slug: 06-gas-exchange-internal-transport-and-elimination
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Structures and Functions of Organisms › Gas Exchange, Internal Transport, and Elimination
 D: 0

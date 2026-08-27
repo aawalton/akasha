@@ -1,5 +1,6 @@
 ---
 id: 68dab5d3-2682-5931-b548-9fcd89d3ce8a
+slug: 05-law
 page-type-slug: learn-everything-topic
 node: Human Society › Law
 D: 0

@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 8974b285-a521-5ee1-8e6e-84505b62a4db
+slug: seat-stated-snapshot-stale
 title: "Three seat-stated snapshot tests assert a reading chain the corpus no longer prints"
 domain-slug: page-type/seat
 ---

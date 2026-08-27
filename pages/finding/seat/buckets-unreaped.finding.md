@@ -1,5 +1,6 @@
 ---
 id: 064afb3b-c881-5b1d-ae3a-8885276040bd
+slug: buckets-unreaped
 page-type-slug: finding
 title: "Nothing removes a seat bucket, so the store holds 4,674 files for 9 live seats and grows daily"
 domain-slug: page-type/seat

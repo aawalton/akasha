@@ -1,5 +1,6 @@
 ---
 id: 5f44e365-c190-526f-9ca7-a463bc074654
+slug: split-domain-astra-give
 page-type-slug: finding
 title: "Split domain for Astra, give some to Olwen, new persona for alanwalton"
 domain-slug: persona/sophia

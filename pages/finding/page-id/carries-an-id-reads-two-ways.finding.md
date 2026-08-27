@@ -1,5 +1,6 @@
 ---
 id: 6a5828dd-8d3a-5972-aa8e-59ca73c7af5a
+slug: carries-an-id-reads-two-ways
 page-type-slug: finding
 title: "Every page carries an id turns on a word, and the two readings give opposite answers"
 domain-slug: page-property-definition/page-id

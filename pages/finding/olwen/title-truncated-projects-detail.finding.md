@@ -1,5 +1,6 @@
 ---
 id: 3f105cbc-8436-59a0-9cad-0f8fe3fcabe7
+slug: title-truncated-projects-detail
 page-type-slug: finding
 title: "Title is truncated for projects on detail page"
 domain-slug: persona/olwen

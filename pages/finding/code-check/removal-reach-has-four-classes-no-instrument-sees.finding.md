@@ -1,5 +1,6 @@
 ---
 id: f808cdfe-e149-5c91-9da9-9dcfba406fc6
+slug: removal-reach-has-four-classes-no-instrument-sees
 page-type-slug: finding
 title: "A package removal is reached by four caller classes and no instrument sees more than one of them"
 domain-slug: domain/global

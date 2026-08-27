@@ -1,5 +1,6 @@
 ---
 id: 49002edb-1d49-5455-804d-f26189117096
+slug: 01-social-groups-ethnic-groups-and-cultures
 page-type-slug: learn-everything-topic
 node: Human Society › Social Groups: Ethnic groups and Cultures
 D: 0

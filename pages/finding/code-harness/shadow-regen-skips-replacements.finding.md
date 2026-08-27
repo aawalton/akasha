@@ -1,5 +1,6 @@
 ---
 id: dbd00e29-ebd5-5ed3-af34-1c00f2546ed2
+slug: shadow-regen-skips-replacements
 page-type-slug: finding
 title: "The shadow regen skips a replacement migration, and the drift check reads the resulting no-op as clean"
 domain-slug: domain/global

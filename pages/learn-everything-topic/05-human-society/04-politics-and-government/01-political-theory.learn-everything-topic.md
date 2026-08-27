@@ -1,5 +1,6 @@
 ---
 id: 1d919f89-edf5-5787-a40e-88a3e8e3b275
+slug: 01-political-theory
 page-type-slug: learn-everything-topic
 node: Human Society › Politics and Government › Political Theory
 D: 3

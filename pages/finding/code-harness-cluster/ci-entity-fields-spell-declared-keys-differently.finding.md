@@ -1,5 +1,6 @@
 ---
 id: 61ad61a2-75df-5d9b-aada-fca994fd8e36
+slug: ci-entity-fields-spell-declared-keys-differently
 page-type-slug: finding
 title: "CI entity fields spell seven declared keys differently"
 domain-slug: domain/global

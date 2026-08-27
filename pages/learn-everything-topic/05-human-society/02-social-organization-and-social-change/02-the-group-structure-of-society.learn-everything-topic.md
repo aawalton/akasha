@@ -1,5 +1,6 @@
 ---
 id: c3b2ead6-79f7-5c56-9d81-3d6fbe37e4e8
+slug: 02-the-group-structure-of-society
 page-type-slug: learn-everything-topic
 node: Human Society › Social Organization and Social Change › The Group Structure of Society
 D: 0

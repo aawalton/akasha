@@ -1,5 +1,6 @@
 ---
 id: 372c3065-2f7c-5c0d-8b00-c048caee89db
+slug: 04-biogeographic-distribution-of-organisms-ecosystems
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere › Biogeographic Distribution of Organisms: Ecosystems
 D: 0

@@ -1,5 +1,6 @@
 ---
 id: d4436251-ba3e-54ef-bed4-6d131190992a
+slug: undeclared-pipeline-status-reads-as-absence
 page-type-slug: finding
 title: "A pipeline status nothing declares reads as a plausible wrong answer"
 domain-slug: domain/global

@@ -1,5 +1,6 @@
 ---
 id: c1289fa6-4ca1-5753-b11e-ef926f1a4cde
+slug: swept-comments-return
 page-type-slug: finding
 title: "Comments outside the forms return to swept packages, and what the deleted ones said is nowhere"
 domain-slug: domain/code-comment

@@ -1,5 +1,6 @@
 ---
 id: c1dd5ee1-37fd-5341-9b16-aee998955a41
+slug: mock-module-edges-code-only
 page-type-slug: finding
 title: "The graph emits no mock-module edges for the instructions repository, so nothing outside the code repo guards what they are read for"
 domain-slug: domain/the-graph

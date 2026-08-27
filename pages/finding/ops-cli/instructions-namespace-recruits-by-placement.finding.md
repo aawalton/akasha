@@ -1,5 +1,6 @@
 ---
 id: 0465d2ef-e014-5e48-9fbc-7e01f695ceb9
+slug: instructions-namespace-recruits-by-placement
 page-type-slug: finding
 title: "The ops instructions namespace recruits by file placement rather than by subject"
 domain-slug: domain/ops-cli

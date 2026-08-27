@@ -1,5 +1,6 @@
 ---
 id: 6fce3f5e-2179-52dd-8ba0-f65a0f445364
+slug: code-slot-order-stated-twice
 page-type-slug: finding
 title: "One package states the seat-name slot order two different ways"
 domain-slug: domain/seat-name

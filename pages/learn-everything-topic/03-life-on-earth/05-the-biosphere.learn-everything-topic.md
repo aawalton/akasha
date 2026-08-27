@@ -1,5 +1,6 @@
 ---
 id: f1407503-5dca-5bab-81ad-606e0fc20410
+slug: 05-the-biosphere
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Biosphere
 D: 0

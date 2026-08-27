@@ -1,5 +1,6 @@
 ---
 id: add12fd2-fcfa-5c69-aeef-ae4996b8e968
+slug: leg-drop-guard-cannot-see-a-file-backed-page-type
 page-type-slug: finding
 title: "The leg-drop guard cannot see a page type that moved to files"
 domain-slug: domain/global

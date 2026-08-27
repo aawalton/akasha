@@ -1,5 +1,6 @@
 ---
 id: 45b5f4de-07c0-5e51-8536-6248755570eb
+slug: sidecar-reads-swallow-failure
 page-type-slug: finding
 title: "Sidecar readers collapse absent and unreadable into one empty answer"
 domain-slug: domain/pages-system

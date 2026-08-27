@@ -1,5 +1,6 @@
 ---
 id: 6d825855-530f-516f-9b2c-e468e746ad38
+slug: silent-where-siblings-speak
 page-type-slug: finding
 title: "This namespace is silent where its siblings speak, on a network reach and on ensuring a page type"
 domain-slug: domain/ops-chess-puzzle

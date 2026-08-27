@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: e1f82601-f41a-59dd-bf61-f139bbab7361
+slug: original-store-inverted
 title: "The wallpaper intent inverts its own design line and nothing is aimed at it"
 domain-slug: page-type/persona-wallpaper
 ---

@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: b5c45e2b-e242-57ae-881f-18c85b9f4110
+slug: surplus-widgets-not-emitted-from-their-documents
 title: "The surplus widgets' Swift is hand-written and diverges from what their documents emit"
 domain-slug: domain/readout-system
 ---

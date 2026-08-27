@@ -1,5 +1,6 @@
 ---
 id: aee27f55-86b7-561b-a1bd-c3f90cd4667b
+slug: status-bar-group-fan-out
 page-type-slug: finding
 domain-slug: domain/readout-system
 title: "The editor status bar expands one six-member readout group into six page queries every five seconds, and that is the whole of the value-green-day-units-on-day traffic"

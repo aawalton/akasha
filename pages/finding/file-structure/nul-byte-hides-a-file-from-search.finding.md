@@ -1,5 +1,6 @@
 ---
 id: cbdd2de7-11ac-466e-97e7-ea6b3947a4a5
+slug: nul-byte-hides-a-file-from-search
 page-type-slug: finding
 title: "A NUL byte hides a file from search"
 domain-slug: domain/file-structure

@@ -1,5 +1,6 @@
 ---
 id: 51adee26-53e6-5958-8353-276c7bb6f931
+slug: 06-economic-growth-and-planning
 page-type-slug: learn-everything-topic
 node: Human Society › The Production, Distribution, and Utilization of Wealth › Economic Growth and Planning
 D: 0

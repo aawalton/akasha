@@ -1,5 +1,6 @@
 ---
 id: 2ce719cf-ff2a-523b-abf0-c1b25b56ae01
+slug: 01-structure-and-properties-of-atoms
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Atoms › Structure and Properties of Atoms
 D: 2

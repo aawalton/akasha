@@ -1,5 +1,6 @@
 ---
 id: 729c3644-33e4-5d72-8a14-347c4ae74121
+slug: no-page-type-row-states-its-backing
 page-type-slug: finding
 title: "No live page-type row states its backing, so the row-derived half of the backing decision cannot answer file"
 domain-slug: domain/pages-system

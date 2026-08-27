@@ -1,5 +1,6 @@
 ---
 id: 73205eda-65f3-592b-b865-30ce2536a787
+slug: processed-messages-stand-beside-the-mailbox
 page-type-slug: finding
 title: "A gmail processed message stands beside its mailbox, so that Intent entry should leave outright"
 domain-slug: page-type/gmail-processed-message

@@ -1,5 +1,6 @@
 ---
 id: 47e0971b-ac4c-555f-af8b-997f217d56ff
+slug: monarch-pages-fully-in-files
 page-type-slug: finding
 title: "Every monarch page stands in a file across all six types, so that Intent entry should leave outright"
 domain-slug: domain/monarch

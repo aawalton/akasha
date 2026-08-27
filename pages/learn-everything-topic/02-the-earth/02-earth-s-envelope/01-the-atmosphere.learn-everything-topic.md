@@ -1,5 +1,6 @@
 ---
 id: a76db970-fe76-52ca-8ded-85745473806d
+slug: 01-the-atmosphere
 page-type-slug: learn-everything-topic
 node: The Earth › Earth's Envelope › The Atmosphere
 D: 0

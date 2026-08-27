@@ -1,5 +1,6 @@
 ---
 id: e058ad33-b0c2-5e4c-a55d-f565e587507d
+slug: dropped-field-breaks-the-running-consumer
 page-type-slug: finding
 title: "A dropped field breaks the consumer that is running, not the one beside it"
 domain-slug: domain/work-system

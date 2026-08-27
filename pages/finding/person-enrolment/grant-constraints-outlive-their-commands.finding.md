@@ -1,5 +1,6 @@
 ---
 id: 921b36f5-b4f1-5477-9fd6-ff0e0420ae8b
+slug: grant-constraints-outlive-their-commands
 page-type-slug: finding
 title: "The constraints the three person writers enforced now stand in no live document"
 domain-slug: domain/person-enrolment

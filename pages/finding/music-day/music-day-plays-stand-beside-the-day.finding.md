@@ -1,5 +1,6 @@
 ---
 id: 5acee8c7-eea3-52a5-bdd7-af54e1c5df99
+slug: music-day-plays-stand-beside-the-day
 page-type-slug: finding
 title: "A day's plays stand beside the day, so that Intent entry should leave outright"
 domain-slug: page-type/music-day

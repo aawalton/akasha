@@ -1,5 +1,6 @@
 ---
 id: 5f3b9e8d-c5a0-51a6-be03-f19f20642a35
+slug: chronology-anchor-grammar-survives-only-as-an-artifact
 page-type-slug: finding
 title: "The chronology anchor grammar survives only as an artifact"
 domain-slug: domain/pages-system

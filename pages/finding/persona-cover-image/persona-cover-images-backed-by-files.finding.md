@@ -1,5 +1,6 @@
 ---
 id: e3ca238e-799c-55b6-b93e-233ae68aa1e6
+slug: persona-cover-images-backed-by-files
 page-type-slug: finding
 title: "A persona cover image is backed by files, so that Intent entry should leave outright"
 domain-slug: page-type/persona-cover-image

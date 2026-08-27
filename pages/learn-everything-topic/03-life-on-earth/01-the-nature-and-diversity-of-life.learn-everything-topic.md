@@ -1,5 +1,6 @@
 ---
 id: 914d28a5-08e2-516e-9737-ad7a37d4a3cd
+slug: 01-the-nature-and-diversity-of-life
 page-type-slug: learn-everything-topic
 node: Life on Earth › The Nature and Diversity of Life
 D: 0

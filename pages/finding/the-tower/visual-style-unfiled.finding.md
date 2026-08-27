@@ -1,5 +1,6 @@
 ---
 id: cbe6080b-5781-5d64-b7ef-71d682b41a73
+slug: visual-style-unfiled
 page-type-slug: finding
 title: "The Tower's visual style stands only on a database row and no file in the stories repository carries it"
 domain-slug: domain/global

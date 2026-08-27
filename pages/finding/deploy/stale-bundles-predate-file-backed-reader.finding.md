@@ -1,5 +1,6 @@
 ---
 id: e8959310-1177-5825-a340-8fe322723880
+slug: stale-bundles-predate-file-backed-reader
 page-type-slug: finding
 title: "Stale web bundles predate the file-backed page reader"
 domain-slug: domain/deploy

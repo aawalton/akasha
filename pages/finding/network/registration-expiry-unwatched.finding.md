@@ -1,5 +1,6 @@
 ---
 id: 59b1684d-2378-56f0-806c-50db53bf5407
+slug: registration-expiry-unwatched
 page-type-slug: finding
 title: "Nothing reads how long a registered name has left once the metrics table goes"
 domain-slug: domain/network

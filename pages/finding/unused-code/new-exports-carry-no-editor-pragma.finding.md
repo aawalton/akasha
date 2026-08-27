@@ -1,5 +1,6 @@
 ---
 id: 921f485f-7c10-56c8-aef4-66c2a8310027
+slug: new-exports-carry-no-editor-pragma
 page-type-slug: finding
 title: "New status-bar exports carry no keep pragma, so one the code editor reads reports as unreached"
 domain-slug: domain/unused-code

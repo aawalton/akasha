@@ -2,6 +2,7 @@
 page-type-slug: finding
 title: "The required reading gate has never demanded a document of a delegate"
 domain-slug: required-reading
+slug: delegates-gated-on-nothing
 ---
 
 # Claim

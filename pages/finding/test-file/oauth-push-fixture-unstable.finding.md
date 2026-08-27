@@ -1,5 +1,6 @@
 ---
 id: db6b9053-ffb9-5266-b273-592fc20b9d8e
+slug: oauth-push-fixture-unstable
 page-type-slug: finding
 title: "the oauth page push tests rule differently on one unchanged tree"
 domain-slug: domain/test-file

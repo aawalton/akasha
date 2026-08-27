@@ -1,5 +1,6 @@
 ---
 id: 8b83fdff-5bcc-506d-94a7-325f0173f4ab
+slug: stated-slots-threaded-to-nothing
 page-type-slug: finding
 title: "The slots a seat states are threaded to nothing"
 domain-slug: page-type/seat

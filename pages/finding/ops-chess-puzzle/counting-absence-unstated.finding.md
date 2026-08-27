@@ -1,5 +1,6 @@
 ---
 id: cd6cd0c0-56e7-5204-b422-f204d5f155a0
+slug: counting-absence-unstated
 page-type-slug: finding
 title: "Nothing states that no chess-puzzle command counts a solved puzzle"
 domain-slug: domain/ops-chess-puzzle

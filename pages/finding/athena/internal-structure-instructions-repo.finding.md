@@ -1,5 +1,6 @@
 ---
 id: da1ccecf-8f85-52a2-8585-daeaad1eb33f
+slug: internal-structure-instructions-repo
 page-type-slug: finding
 title: "internal structure for instructions repo"
 domain-slug: persona/athena

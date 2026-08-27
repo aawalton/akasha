@@ -1,5 +1,6 @@
 ---
 id: 1c4d529e-f91f-509e-81cc-06645ae98d63
+slug: 06-personality-and-the-self-integration-and-disintegration
 page-type-slug: learn-everything-topic
 node: Human Life › Human Behavior and Experience › Personality and the Self: Integration and Disintegration
 D: 0

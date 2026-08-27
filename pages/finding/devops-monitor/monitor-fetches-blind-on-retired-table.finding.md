@@ -1,5 +1,6 @@
 ---
 id: 01a02361-4c8e-7000-9f2a-3d8b5a1c7e04
+slug: monitor-fetches-blind-on-retired-table
 page-type-slug: finding
 title: "Seven monitor fetches have gone blind on the retired table"
 domain-slug: domain/global

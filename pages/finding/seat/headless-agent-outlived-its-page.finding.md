@@ -1,5 +1,6 @@
 ---
 id: 07ae527d-9ca2-5a7c-91f2-b7a3d779d71d
+slug: headless-agent-outlived-its-page
 page-type-slug: finding
 title: "A headless agent outlived its errand by 28 hours in a session that never had a seat page"
 domain-slug: page-type/seat

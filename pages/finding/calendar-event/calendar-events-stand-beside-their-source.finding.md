@@ -1,5 +1,6 @@
 ---
 id: 08ea28a0-4b98-5fa1-94ae-62d4e333565c
+slug: calendar-events-stand-beside-their-source
 page-type-slug: finding
 title: "A calendar event stands beside its source, so that Intent entry should leave outright"
 domain-slug: page-type/calendar-event

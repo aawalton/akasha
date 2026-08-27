@@ -1,5 +1,6 @@
 ---
 id: 7ada5c81-61f3-5303-b4e0-08caedb728b3
+slug: terms-in-reach-reads-headings
 page-type-slug: finding
 title: "terms-in-reach reports the Design heading as an out-of-reach term on every document carrying one"
 domain-slug: domain/audit

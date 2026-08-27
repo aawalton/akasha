@@ -1,5 +1,6 @@
 ---
 id: 4f07da57-f40f-5ddc-b3ae-599de785cfc7
+slug: open-session-not-day-scoped
 page-type-slug: finding
 title: "Tracking status does not scope the open session it reports beside a day's sessions"
 domain-slug: domain/ops-tracking

@@ -1,5 +1,6 @@
 ---
 id: b7bb564a-6d8d-5a3d-8093-a39a83cbebe3
+slug: 05-the-solid-state-of-matter
 page-type-slug: learn-everything-topic
 node: Matter and Energy › Energy, Radiation, and States of Matter › The Solid State of Matter
 D: 0

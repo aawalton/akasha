@@ -1,5 +1,6 @@
 ---
 id: b1c23339-4f39-5446-9f8f-aa31b0a340aa
+slug: stored-fraction-shadows-formula
 page-type-slug: finding
 title: "A stored green-day-fraction shadows the formula and disagrees with it"
 domain-slug: page-type/persona-day

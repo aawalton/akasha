@@ -1,5 +1,6 @@
 ---
 id: f4880831-ab78-53f2-878f-c83f8dab9abe
+slug: trust-we-re-trying
 page-type-slug: finding
 title: "Trust, we're trying to prevent agents from doing the wrong thing by de"
 domain-slug: persona/athena

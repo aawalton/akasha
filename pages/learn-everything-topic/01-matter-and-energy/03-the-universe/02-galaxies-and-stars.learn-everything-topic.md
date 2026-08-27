@@ -1,5 +1,6 @@
 ---
 id: 210ff647-3376-56ef-a44f-56d2c160c4f0
+slug: 02-galaxies-and-stars
 page-type-slug: learn-everything-topic
 node: Matter and Energy › The Universe › Galaxies and Stars
 D: 0

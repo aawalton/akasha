@@ -1,5 +1,6 @@
 ---
 id: 2b88da54-9eed-53d0-8afa-4cb95eb64c5d
+slug: a-mock-module-factory-must-answer-the-whole-module
 page-type-slug: finding
 title: "A partial mock module factory breaks an unrelated importer at load rather than at assertion"
 domain-slug: domain/test

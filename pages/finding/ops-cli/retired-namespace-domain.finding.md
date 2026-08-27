@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: fc492922-4871-5ecd-88a1-0071adc23104
+slug: retired-namespace-domain
 title: "A domain still describes the ops commands retired out from under it"
 domain-slug: domain/ops-cli
 ---

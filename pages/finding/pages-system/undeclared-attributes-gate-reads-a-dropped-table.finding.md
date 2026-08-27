@@ -1,6 +1,7 @@
 ---
 page-type-slug: finding
 id: 41ff296c-8f60-5fa5-9edb-39f71b26ee8f
+slug: undeclared-attributes-gate-reads-a-dropped-table
 title: "The undeclared-attributes gate reads a table that no longer exists"
 domain-slug: domain/pages-system
 ---

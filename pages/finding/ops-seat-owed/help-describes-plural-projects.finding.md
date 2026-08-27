@@ -1,5 +1,6 @@
 ---
 id: 02043997-72a2-54e0-a5b9-27b5c3ee3a1e
+slug: help-describes-plural-projects
 page-type-slug: finding
 title: "The help describes plural claimed projects the command cannot produce"
 domain-slug: domain/global

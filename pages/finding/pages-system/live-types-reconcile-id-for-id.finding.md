@@ -1,5 +1,6 @@
 ---
 id: cd55dc3e-03a4-5ad1-ae40-4da0cfb272c6
+slug: live-types-reconcile-id-for-id
 page-type-slug: finding
 title: "Every migrated live page type reconciles id-for-id"
 domain-slug: domain/pages-system

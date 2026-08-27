@@ -1,5 +1,6 @@
 ---
 id: 0936c7cc-d1c5-5b16-9b7a-2edf878845ec
+slug: own-test-shields-a-dead-module
 page-type-slug: finding
 title: "A module's own unit test marks its exports reached, shielding a dead module from the ast-unused check"
 domain-slug: domain/unused-code

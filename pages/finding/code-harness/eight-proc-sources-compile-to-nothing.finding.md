@@ -1,5 +1,6 @@
 ---
 id: e9a3f1fc-1edf-5e7b-af14-68372ae616c9
+slug: eight-proc-sources-compile-to-nothing
 page-type-slug: finding
 title: "Eight proc sources compile to nothing and no run reports it"
 domain-slug: domain/global
