@@ -174,6 +174,7 @@ export const help = {
     "every referrer that named it, and removes the path moved out of, in ONE commit. Reach for it " +
     "rather than removing a file and writing it back elsewhere, which drops the inbound links and " +
     "the history together.",
+  irreversible: "irreversible" as const,
   flags: [
     { name: REPO, argLabel: "<name>", valueShape: "token" as const, description: "Which repository this addresses. The paths settle it, and a disagreeing --repo is refused." },
     { name: MESSAGE, argLabel: "<s>", valueShape: "prose" as const, description: "Commit message. Defaults to one naming the removed paths." },
