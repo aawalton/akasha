@@ -8,6 +8,7 @@ role-slug: definer
 person-slug: alan
 on-call: true
 initiative-slug: vera-graph-system
+errand: "Sure, you can skip the old types, we don't need edges for code that is being ablated"
 registration-account: aawalton
 claude-code-session-uuid: f4408e43-5c70-455a-979c-3a996695c010
 transcript-path: /var/home/walton/.claude/accounts/aawalton/projects/-var-home-walton-repos/f4408e43-5c70-455a-979c-3a996695c010.jsonl
