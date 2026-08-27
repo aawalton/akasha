@@ -3,6 +3,7 @@ import { describe, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { toolArgv } from "../lib/tool-argv.ts"
 import { CLAIMED, fileKeyDeclared, fixture, type Fixture } from "./fixture.ts"
+import { installCommands } from "./seat-fixture.ts"
 
 const AGENT = "rename-repo-test"
 
@@ -20,13 +21,13 @@ function commitsIn(root: string): number {
 function storeAt(at: Fixture): void {
   at.installRecorder()
   fileKeyDeclared(at)
-  at.document("pages/page-type/initiative.page-type.md", `slug: initiative\ndomain-parent-slug: global\n${CLAIMED}: memory:initiatives/amy/ambient-hud.md`)
-  at.document("pages/domain/global.domain.md", `slug: global\ndomain-parent-slug: global\n${CLAIMED}: memory:initiatives/own-editor.md`, 20)
+  at.document("pages/page-type/initiative.page-type.md", `slug: initiative\ndomain-parent-slug: global\n${CLAIMED}: akasha:initiatives/amy/ambient-hud.md`)
+  at.document("pages/domain/global.domain.md", `slug: global\ndomain-parent-slug: global\n${CLAIMED}: akasha:initiatives/own-editor.md`, 20)
   at.readIt(AGENT, "pages/page-type/initiative.page-type.md")
   at.readIt(AGENT, "pages/domain/global.domain.md")
   at.put("tools/scratch-note.md", "The project was created against `initiatives/ambient-hud.md`.\n")
-  at.putMemory("initiatives/ambient-hud.md", initiative("alan-harness", "The heads-up display tells him nothing."))
-  at.putMemory(
+  at.put("initiatives/ambient-hud.md", initiative("alan-harness", "The heads-up display tells him nothing."))
+  at.put(
     "initiatives/own-editor.md",
     initiative("code-editor", "It stands beside `initiatives/ambient-hud.md`, which names the same reader.")
   )
@@ -37,19 +38,24 @@ function storeAt(at: Fixture): void {
     ["add", "-A"],
     ["commit", "-q", "-m", "seed"],
   ]) {
-    git(at.memory, args)
+    git(at.root, args)
   }
+  // `tools/lib/tool-argv.ts` SPELLS `mv` UNDER `akashaRoot()` — this temp repo — so without the
+  // command pages here the spawn dies on a module that is not there before `mv` says anything.
+  installCommands(at)
 }
 
 function runMv(
   at: Fixture,
   args: readonly string[],
-  from: string = at.memory
+  from: string = at.root
 ): { code: number; err: string } {
   const proc = Bun.spawnSync({
     cmd: ["bun", ...toolArgv("mv.ts", args)],
     cwd: from,
-    env: { ...process.env, AGENT_ID: AGENT, INSTRUCTIONS_ROOT: at.root, MEMORY_ROOT: at.memory, HOME: at.home },
+    // `AKASHA_ROOT` NAMES THE TEMP REPO. This set `INSTRUCTIONS_ROOT` and `MEMORY_ROOT`, naming
+    // repositories that are gone: nothing reads them, so `mv` ran against the live checkout.
+    env: { ...process.env, AGENT_ID: AGENT, AKASHA_ROOT: at.root, HOME: at.home },
     stdout: "pipe",
     stderr: "pipe",
   })
@@ -58,7 +64,7 @@ function runMv(
 
 const INTO_A_FOLDER = [
   "--repo",
-  "memory",
+  "akasha",
   "--from",
   "initiatives/ambient-hud.md",
   "--to",
@@ -66,19 +72,19 @@ const INTO_A_FOLDER = [
 ] as const
 
 describe("which repo a rename addresses", () => {
-  test("a memory rename carries the body, repoints the referrer and removes the orphan, in one commit", () => {
+  test("a rename carries the body, repoints the referrer and removes the orphan, in one commit", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const before = commitsIn(at.memory)
+      const before = commitsIn(at.root)
       runMv(at, INTO_A_FOLDER)
-      expect(existsSync(`${at.memory}/initiatives/amy/ambient-hud.md`)).toBe(true)
-      expect(existsSync(`${at.memory}/initiatives/ambient-hud.md`)).toBe(false)
-      expect(readFileSync(`${at.memory}/initiatives/own-editor.md`, "utf8")).toContain(
+      expect(existsSync(`${at.root}/initiatives/amy/ambient-hud.md`)).toBe(true)
+      expect(existsSync(`${at.root}/initiatives/ambient-hud.md`)).toBe(false)
+      expect(readFileSync(`${at.root}/initiatives/own-editor.md`, "utf8")).toContain(
         "`initiatives/amy/ambient-hud.md`"
       )
-      expect(commitsIn(at.memory)).toBe(before + 1)
-      expect(git(at.memory, ["status", "--porcelain"])).toBe("")
+      expect(commitsIn(at.root)).toBe(before + 1)
+      expect(git(at.root, ["status", "--porcelain"])).toBe("")
     } finally {
       at.dispose()
     }
@@ -117,10 +123,10 @@ describe("which repo a rename addresses", () => {
     const at = fixture()
     try {
       storeAt(at)
-      const run = runMv(at, ["--repo", "memroy", ...INTO_A_FOLDER.slice(2)])
+      const run = runMv(at, ["--repo", "akahsa", ...INTO_A_FOLDER.slice(2)])
       expect(run.code).toBe(1)
-      expect(run.err).toContain("memroy")
-      expect(existsSync(`${at.memory}/initiatives/ambient-hud.md`)).toBe(true)
+      expect(run.err).toContain("akahsa")
+      expect(existsSync(`${at.root}/initiatives/ambient-hud.md`)).toBe(true)
     } finally {
       at.dispose()
     }
