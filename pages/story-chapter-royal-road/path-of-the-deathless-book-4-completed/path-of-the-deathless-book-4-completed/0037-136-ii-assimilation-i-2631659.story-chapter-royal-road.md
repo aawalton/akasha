@@ -1,0 +1,239 @@
+---
+id: e981037e-1043-5bdb-9a92-1da3e245f41f
+page-type-slug: story-chapter-royal-road
+title: "136 (II)   Assimilation [I]"
+slug: 0037-136-ii-assimilation-i-2631659
+partOf: path-of-the-deathless-book-4-completed
+position: 37
+ownLength: 2988
+unit: words
+publishedAt: 2025-09-26
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2631659/136-ii-assimilation-i"
+royalRoadId: "2631659"
+---
+
+136 (II)
+
+Assimilation [I]
+
+As Shiv regarded his new levels, he sapped vitality from nearby orcs. As his body was stitched back together, he frowned at the distinct lack of any Practical Metabiology levels. Yet, here were Multi-Tasking and Memorization shooting up. When he asked the orc why that was, Helix narrowed his eyes.
+
+“I suspect it's because you’re being failed by sheer ignorance alone. Your skills in the practical studies advance from your learning. But your deaths now persist to be a matter of ignorance. It will not grow because you do not know where you are going wrong. But Memorization and Multi-Tasking matter because they could have helped you respond to our attacks. After all, spells are patterns, are they not? Specified shapings of one’s own mana and intent.”
+
+Shiv considered that for a moment and grunted in agreement. “Great. So maybe we can change the approach here? We focus on something that I understand theoretically, but might have a hard time fixing practically?”
+
+“That’s… not a bad idea,” Helix said. “Yes. More experimentation will be useful here. But that will be for the longer term too. Something we can consistently drill into you every time you have a free moment. For now, we push your Biomancy further. We stress your field to the extreme as much as we can—and have you assimilated over and over once you are on the verge of a Skill Evolution.”
+
+“And after he’s done with your Biomancy, me and the other Heroes want to take a crack at your Toughness,” Bonk called.
+
+“You just want to smack me in the head for fun,” Shiv shouted back.
+
+“Yeah. But it’ll make you stronger. So, why not?”
+
+“You know what, you oversized—” Shiv pulled himself up into the air to stare at the massive orc. Death removed Shiv’s size-boost, and the bridge of his Court Leviathan was crowded with Heroes and Masters that came to watch. Ridges of bone had emerged from the surrounding biomass, and some orcs had even created personal thrones made from enamel that they were now lounging on. They were also slapping each other atop these thrones in displays of childish merriment. Bonk and the more physical of the orc Heroes were gathered near the center of the large chamber, and between them—
+
+“Oh, shit,” Shiv cursed. He launched himself across space and went for Bonk’s group immediately.
+
+“Insul? Where are you going?” Helix called after him.
+
+Shiv didn’t answer, for among the martial orcs was someone who was very obviously not an orc. Someone who bore a sullen expression and a gaze of indifference. Someone who was being thrown up and down like a ball without resisting.
+
+“Put him down!” Shiv cried. “Put the poor bastard down!”
+
+The large orc currently juggling Angelo between a few balls of bone froze, and the vampire dropped. Shiv caught him just in time, preventing him from falling on his head. He hovered in the air and looked down at Angelo—and soon noticed every orc on the bridge was staring at him. Slowly, their eyes fell upon the vampire thereafter.
+
+“Great.” Shiv scoffed as he dropped Angelo on his back. The midnight-haired vampire simply landed and lay there, giving no reaction and making no effort to rise. “What the hells are you doing here?”
+
+“The Court Leviathan moved. I came with it.” Angelo’s voice was hollow. Devoid of passion and emotion. But his face was still the most beautiful thing Shiv had ever laid his eyes upon.
+
+“Why didn’t they get you out first?” Shiv asked. “Did they felling forget about you?”
+
+“I was inside one of the sculptor pods.”
+
+“The what?”
+
+“The things you call the womb-rooms.”
+
+“Oh. Were you just… sleeping inside there, or—”
+
+“I was trying to get the Court Leviathan to digest me.”
+
+Helix forced his way through the crowd and stared at the vampire. After a moment, he grunted. “Ah. Yes. Male-Pregnancy told me that he found a stowaway down below. We had him moved.”
+
+“And you didn’t inform me—” Shiv’s mind did a U-turn just then. “There's an orc named Male-Pregnancy.”
+
+“It’s what he calls himself.”
+
+“Felling why?” Shiv moaned. Helix didn’t answer. Instead, his expression twitched, and slowly, a smile crept across his face until it went ear to ear. Shiv sighed. “Broken Fucking Moon, you guys are complete freaks.”
+
+“It is a viable means of psychological warfare,” an unseen orc in the crowd said. “It is also my psycho-sexual fetish. I make no apologies. I’ll do it again. I will never stop.”
+
+Several other orcs coughed awkwardly. Bonk sneered and leaned closer to Shiv. “Listen. I want you to know that we think he’s a degenerate too, and that we don’t want anything to do with him. He doesn’t represent the rest of us. We—we don’t even have those things you do.”
+
+“Morals?” Shiv asked, raising an eyebrow.
+
+“Well, yeah. But also cocks. And thank the Challenger for that. The fuck kinda god was that much of a jackass to give you poor fuckers external genitalia?”
+
+Shiv pushed past this immensely miserable topic and grabbed Angelo by the shoulder. “You’re not staying here, buddy.” Angelo didn’t fight Shiv, just as he didn’t fight the orcs. He just let the Deathless drag him along. “You’re going back through the gate. And—”
+
+“And what?” Angelo asked, interrupting Shiv. “They do not care for me there. The Umbrals and the spiders despise me for my blood. They do not come near me. I suspect they wished to be rid of me by sending me over. Or they simply didn’t care enough to check. And I was not strong enough to resolve myself alone.”
+
+“I could help,” the unseen orc Shiv suggested helpfully. “I know a spell—”
+
+“Male-Pregnancy,” Shiv said, waving his Skysplitter at where he suspected the orc to be without turning around. “One more word, and I'm going to start ripping souls in your general direction apart. I’ll Band you shits. This is my only warning.”
+
+The other orcs snarled and hissed. A series of “shut the fuck up”s and “if he doesn’t kill you, I will”s followed.
+
+“It doesn’t matter,” Angelo muttered.
+
+Shiv glared at the vampire. “Yeah, look, Angelo, your suicidal depression aside, I also don’t want to discover what kind of spell that orc’s going to cast on you. There is shit I would like to go an eternity or two without seeing, believe it or not.”
+
+Angelo just stared at him. For a moment, it seemed like the vampire was going to say something, but he didn’t respond. Shiv shot out from the gap lining the Court Leviathan’s skull and left with a shouted declaration. “I’ll be gone for a bit. If I come back to the Leviathan pregnant, I’ll do godsdamn things to your souls. Helix! You get that freak off my Courtney.”
+
+“But you regard the Court Leviathan as female—” Helix began.
+
+“Fucking—Doesn’t matter! Get him off! I don’t want him near me!”
+
+“That’s very judgmental of you,” Male-Pregnancy called out, sounding slightly hurt.
+
+“I’m sorry, motherfucker, I’m not the one fucking impregnating men!” Shiv snarled. He accelerated faster then, plunging down as he made for the gate. Just then, another basilisk was brought over in a splash of dimensionality. Shiv could see Psychomantic threads connected to the basilisk’s mind.
+
+Good. Uva. I’ll hand Angelo off to her and… Shit, I need to think about what to have her do with him. The Order probably hates him way more than the orcs.
+
+“Why are you so intent on keeping me alive?” Angelo asked.
+
+Shiv looked down at the vampire and pulled his gaze away before the Charm Skill could kick in. “Because I feel bad for you.”
+
+Angelo stared. “That’s it?”
+
+“Yeah. You might be a vampire, but the First Blood bastards are the ones I hate. The things they do are disgusting. The things they do to ones like you. To me. The people in your town. I don’t know who you were before, and if you deserve death for whatever reason, but I don’t have an interest in seeing you hurt or dead now.” Shiv frowned. “I guess I feel you deserved better. That you should have gotten to live in your little town and not bother anyone. Too bad the System is determined to be a shit.”
+
+Angelo let out a quiet laugh. “You have an apt way with words.”
+
+“Yeah, look, I’m not refined, but—”
+
+“I’m serious,” Angelo cut him off. “You were concise. It was good.”
+
+Shiv landed atop the basilisk, and Uva’s strand coiled out to sink into his mind. “It was?” he asked.
+
+“Communication is all about conveying intent to someone else,” Angelo said. “And you conveyed what you thought quite clearly to me. It let me understand who you are as well. What you value and what you think. Perhaps you could be taught to speak better and with more eloquence, but your basis is good.”
+
+Shiv blinked. “Right. Thanks. You, uh…” He coughed. “Uva. We have a stowaway. I’m sending him back.”
+
+“Who—Oh, the vampire.” Immediately, Uva’s enthusiasm plunged. “Yes. I will… We will see what we can do.”
+
+The Deathless frowned. “What do you mean, see what you can do? Just put him somewhere and make sure he doesn’t try to kill himself or something.” Shiv glanced at Angelo again. The vampire was already staring off into the distance again. “He’s a mess.”
+
+“Yes. I examined his mind earlier. He is immensely traumatized.” But there was something she wasn’t saying.
+
+“Listen. The First Blood destroyed his life. You get that, right?” Uva remained dead silent, so Shiv pressed on. “Look, I’ll figure out something with him. Just don’t let Null Mont send the poor bastard to Elaboration. You guys already got a bunch of vampires, Vultegs, and two dead Jealousies. Leave him be.”
+
+“I will try and see if proper arrangements can be made,” Uva said. “But he may be in as much danger from some of my Sisters and the Mothers as he is on your side.”
+
+“Are any of you planning to get him pregnant?” Shiv asked without a hint of sarcasm.
+
+Palpable incredulity flooded over from Uva’s end. “I… What?”
+
+“Because there’s an orc here who goes by the name of Male-Pregnancy, and he hinted that he wanted to do some stuff to Angelo.”
+
+A long pause followed. Uva’s mind felt like a crumbling stone. “I… Male… Pregnancy?”
+
+“Yeah,” Shiv said. “The other orcs don’t seem to like him much either.”
+
+“Has he tried to do something with you?” Uva asked, her mind tinged with malice.
+
+“No. And he never will. He's being removed from my Leviathan right now. He's banned for life. For all his lives.” Just as he said that, an orc was thrown out of the open slots of bone lining the top of Courtney’s head. In two pieces. “Well. The other orcs might’ve dealt with him for me. Or maybe they’re just screwing with me too.”
+
+“Be wary of them,” Uva said. “They are manipulators of the highest order.”
+
+“Yeah. About that. I was going to ask you later to help me harden myself against their Social Skills. They might be murderous bastards, but they’re pretty damn charming when you talk with them.”
+
+“You didn’t let any of their Psychomancers access your mind, did you?” Uva asked.
+
+“Hell no.”
+
+“Good. Never let them touch your mind. I spotted a few Heroic-Tier Psychomancers among them—none of whom I would face in direct combat. Few are subtle, however. Which is our advantage. I will see what kind of Psychomantic regime I can prepare for you to ward off their influence. For now, be mindful. They are psychopaths. Do not let them make you one.”
+
+“Right.” Shiv watched the two halves of what he hoped to be Male-Pregnancy strike the ground, and a thought occurred to him. A thought he couldn’t help but voice to Uva. “Hey. Uva. Listen. If an orc got me pregnant and I gave birth—”
+
+“This is not a theoretical, Shiv. You have already given birth to Adam’s mother. And no. I will not raise Adam’s mother as my own child, for you somehow gave birth to a fully grown woman, and this is a deeply unappealing topic that I will entertain no further.”
+
+Shiv closed his eyes and tried not to cringe. “I, uh… I was just trying to tease you.”
+
+“Shiv. Dearest. Your life is so full of what Adam describes as ‘impossibly weird shit’ that teasing me requires a level of absurdity I am not sure you will be able to reach with your imagination. Now. I’m going to be moving the other basilisks over. Meanwhile, Adam is gathering as much intelligence he can on the Inquisition, the First Blood, and the Necrotechs. Expect him over in a few hours—and make sure no one eats him. He will be giving a briefing about the grand strategy and threats we face. He also wishes to ask if you’re alright.”
+
+“Huh? Why?”
+
+“Because he said you looked exceptionally terrifying and furious while you were screaming at him earlier.”
+
+“I wasn’t—I just don’t want the orcs to target you or him or anyone else, okay?”
+
+Uva paused. A quiver of worry came from her. “And I don’t want them to do anything to you, either.”
+
+Shiv sighed. “I’ll be fine. I think I kind of get them on some level. Some really murderous, fucked up level."
+
+“And that worries me,” she replied. “You have goodness to you. A sweetness. You care for people. You try to do what’s right. There aren’t enough people who really try. Protect your heart.”
+
+Her words settled in Shiv and sprouted seeds of affection. “Yeah. Yeah, I promise. Tell Adam I’m sorry too. I wasn’t mad at him. I was just agitated dealing with the orcs.”
+
+“Good,” Uva said. “Now. We’re building additional defenses over the gateway. A bunker, in fact. We’re going to consider how we can connect that to the exit of the surface gateway to make sure none of the orcs have easy access to the gate itself, but I was thinking that the bunker can also be our residence here.”
+
+“What about the tower?” Shiv asked.
+
+“Best to keep that separate. Let our Gate Lord have his own abode. The bunker might protect him from us, wouldn’t you agree?”
+
+Shiv thought back to the temporary apartment he had in Weave and nodded slowly. “I think Adam would appreciate that very much. You are very kind and wise, Sister Uva.”
+
+“Why, thank you, Bruiser.”
+
+He physically flinched as she used the Challenger’s nickname on him. “Nope. Nopenopenopenopenope. Don’t call me that. Nope. Gods, no.”
+
+The Umbral laughed. “I will talk with you soon.” And then she hesitated. “There is… something else as well. But that—I’ll tell you later. I need your advice.”
+
+“My advice? What are you trying to cook?”
+
+“Ah. No. But, yes, I would like to keep learning when we get the chance again. If we get the chance again.”
+
+“We will,” Shiv replied without hesitation. “Don’t doubt it.”
+
+She injected a dose of warmth inside him before releasing his mind. At the same time, Shiv gestured for Angelo to cross over. “Follow the thread. She’ll take care of you. And… Look, give it a while longer. I’ll come and talk to you about stuff. I don’t know what I can say or how I can make things better but… Well, when things get hard for me, I just do stuff. Maybe that can help you too.”
+
+Angelo didn’t respond. Not immediately. Slowly, his eyes slipped past Shiv at the gate, and he let out a breath. “Do stuff,” he echoed. He let out a quiet laugh. “I see. Thank you.”
+
+Shiv nodded. “Just… Do what you can or something, you know. That’s… You really should… Yeah, shit, I got nothing. Just keep yourself busy.”
+
+The vampire began walking along the back of the basilisk, approaching the gateway in a trance.
+
+Shiv kept his eyes locked on Angelo until he crossed over.
+
+“Alright,” Shiv said, soaring back inside the Court Leviathan. “Who cut Male-Pregnancy in half? Whoever did it will get to taste some grilled leviathan steak later.”
+
+“It was kind of a group effort,” Bonk said.
+
+“Everyone’s going to get some grilled leviathan steak,” Shiv declared.
+
+The orcs pumped their collective fists and resolved to commit more murders on each other for free food, and Shiv couldn’t help but chuckle.
+
+Shit, they’re getting to me again. They’re going to end up making me feel like one of them before long.
+
+And worryingly, there were parts of that thought that didn’t seem so bad.
+
+Helix stood among the orcs with both arms behind his back. “Ah. Finally. You return. Now that you’ve had your break—”
+
+“Hey, don’t give me that shit. You know I would have kept going.”
+
+“Yes. Instead, you allowed yourself to get distracted with saving your pet vampire.”
+
+Shiv glared. “He’s not my pet.”
+
+The orc’s expression turned downright vicious. “Oh. But he’s not a whole person anymore, is he? One does not need to be a Psychomancer to read the ruinous misery in his eyes. Yet, you still care so much. Even though it seems you barely know him.”
+
+All the orcs stared at Shiv. He just scoffed. “Yeah. I care about people and things. And you’re psychopaths. But that’s why there are no people here. Just things.”
+
+Silver Tongue 28 > 29
+
+“Ouch!” Bonk laughed. “You got him agitated, Helix. Not wise.”
+
+Shiv flung himself across the room and landed beside Helix, brushing past the orc. “Now. Back to getting eaten by Courtney. You guys better put some effort in your Biomancy this time. If I don’t get an evolution when I hit the threshold, I’m kicking your asses.”
+
+Helix smirked. “Oh, Insul. I promise to make this as much of a struggle as I can.”

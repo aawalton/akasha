@@ -1,0 +1,311 @@
+---
+id: 69e086b8-dc1e-5b54-8601-48e04b89a838
+page-type-slug: story-chapter-royal-road
+title: "Chapter 734 - Bundle Of Trouble"
+slug: 0735-chapter-734-bundle-of-trouble
+partOf: mythrans-master-of-all-continued-completed
+position: 735
+ownLength: 3278
+unit: words
+publishedAt: 2018-10-18
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299209/chapter-734-bundle-of-trouble"
+royalRoadId: "299209"
+---
+
+Nathalia woke up and her belly felt very, very full. “Ugh, I don't remember eating this much.”
+
+Artrude laughed and leaned over her, and Nathalia saw that her blonde hair was tied back in a ponytail under her nurse hat. “There's a lot more than food in your belly, Nathalia.”
+
+Nathalia nodded and tried to sit up, and Artrude tucked a pillow behind her back and helped her brace against the head of the bed in the private room.
+
+“How are you feeling this morning?” Artrude asked as she managed to safely get Nathalia's long braid out from under her and laid it beside the very pregnant woman.
+
+“Exhausted.” Nathalia said and yawned, and Artrude cast Energize on her. She felt better instantly. “Oh, thank you.”
+
+“You're welcome.” Artrude said.
+
+“Hey, there!” Malenka jumped into the room through the open door and waved at them enthusiastically. “Good morning!”
+
+“By the gods, I can't take seeing you this early!” Artrude joked, and Malenka laughed.
+
+“You haven't seen me for almost two hours!” Malenka said and ran over to her and gave her a hug and a big kiss. Artrude hugged and kissed her back for only a moment, then remembered where they were and broke the kiss.
+
+“Malenka...”
+
+“I missed you!” Malenka said. “Pet my hair.” She said, almost as a demand.
+
+Artrude chuckled as she ran her hands through the shorter woman's red hair a couple of times.
+
+“Thank you.” Malenka said and smiled.
+
+“You're welcome.” Artrude cupped the side of her face for a moment, then they both looked at Nathalia as she let out a sob.
+
+“You two make a great couple.” Nathalia said and wiped at her eyes.
+
+“A couple of what?” Malenka asked, which made Artrude chuckle and Nathalia smile.
+
+“Good morning.” Ereka said as she came into the room. “I've got breakfast.”
+
+“Oh! I'm starving!” Nathalia exclaimed and took a plate of food gratefully.
+
+Artrude laughed because Nathalia had just complained that she had too much in her belly, and accepted a plate as well. Malenka was next, and the 4 of them sat down to eat. They were halfway through the meal when a strong feeling of desire came out of Nathalia.
+
+“Ren!” Nathalia reached out her hands and Artrude grabbed one and Ereka grabbed the other. They both gasped as that desire flooded into them, because of the direct contact with Nathalia. They stayed that way for several minutes, then they all gasped when someone else's emotions flooded through them as that person finished.
+
+“By... by the gods.” Ereka whispered.
+
+Artrude and Ereka had gone along for the ride and it took them several minutes to calm down. The two women equipped another dress to clean themselves up, and Malenka wondered what had happened.
+
+Nathalia didn't bother to change, though. “Oh... oh, no.”
+
+“What is it?”
+
+“I... I think...” Nathalia felt a twinge in her belly. “It's time.”
+
+“Wh-what do you...” Ereka looked down at her belly. “Oh.” She said, then her eyes went wide. “By the gods!”
+
+“We're ready.” Artrude said and took out the things necessary, and Malenka's bubbly personality faded as she entered nurse mode. She always took her work seriously, despite how much she enjoyed it, and she helped Artrude set everything up.
+
+“Oh! OH!” Nathalia yelled and felt a very sharp pain, then the emblem on her chest started to glow.
+
+*
+
+Ren and Artemis stepped out of the portal into the apartment and they saw that Xuunah was already up and dressed. He was a bit surprised that she wore pants and a blouse; but, he didn't question it as he felt her emotions and her need for him to see her that way. The maids were up as well and dressed in some of their finest dresses.
+
+Ren dismissed the portal he had come out of and cast another. “Ladies, this way.”
+
+“But...” Frikara started to protest against him only sending them.
+
+“It's all right. I'm coming, too.” Ren said, and he felt their happiness.
+
+“That's not going to cause problems, is it?” Xuunah asked.
+
+“Not even a little bit.” Ren said and grinned at her.
+
+Xuunah stepped close and gave him a hug, then she whispered in his ear. “I want you so much, Dearest.”
+
+“Don't worry. I have the whole day off from the Fire Realm.” Ren said and caressed her backside, and she shivered in anticipation for what was going to happen. The maids stepped by them and went through the portal, and he, Xuunah, and Artemis went next.
+
+*
+
+No one noticed the portal on the wall at first, then Frikara, Lusinia, Verwynn, Andrela, and Navruth stepped out of it and made the room a little crowded.
+
+“What...” Ereka turned to look at them in surprise, and then Ren, Artemis and Xuunah stepped out of the portal. “BY THE GODS!” She yelled when she felt Ren directly for the first time since he had left the Dwarven Kingdom.
+
+“You... can't... be here.” Nathalia gasped as the pains started to get faster.
+
+“But I can.” Ren said and walked over to her. Ereka tried to step back to make room for him, and he touched her shoulder to stop her. “You've been there for her all this time. She needs you.”
+
+“She needs you, too.” Ereka said.
+
+Ren nodded and walked up the wall and quickly placed several recording devices in the best spots, then knelt above Nathalia's head. “Hello, My Love.” He said and put his hands on her shoulders to be a reassuring presence for her.
+
+“R-Ren, you... breaking ban...”
+
+Ren chuckled, and they all felt his amusement. “One of the very first documents I had filed was for extenuating circumstances concerning loved ones.” He said. “Slipped it right in as a law addendum that bypassed all other restrictions when the health of a loved one, previous loved one, member of a House, ex-member of a House, Head of House, father, mother, brother, sister, parent, child, or any of those concerned, was in danger of bodily harm or threatened.”
+
+Ereka's mouth dropped open, and he reached a hand out and touched her cheek.
+
+“I have a direct connection to Nathalia, so if anything happened, I would have been here in an instant.” Ren said. “Like now.”
+
+“But... but...”
+
+“Now that you've filed the rest of the documents, I can also move freely here in the dwarf lands.” Ren said and let her cheek go to put the hand back on Nathalia's shoulder.
+
+“How... how do you know I...”
+
+“I don't feel any compulsion to leave.” Ren said, and she felt that was true. “Thank you.”
+
+“You're welcome.” Ereka said, then she smiled. “Just so you know, Beryl laughed hysterically when I took out the crate full of documents you had Nathalia give to me.”
+
+“How long did it take for her to read and file everything?” Ren asked.
+
+“Almost three days.” Ereka said with a huge smile and Ren chuckled, because they both knew how fast Beryl could read.
+
+“AH!” Nathalia gasped and Ren felt her spike of pain. He took out a vial of the numbing liquid and held it out to Artrude, and she took it gratefully and only applied a small amount. Nathalia's pain eased but didn't disappear, since having no pain during childbirth could be a bad thing.
+
+“I think...” Artrude started to speak and crouched between Nathalia's legs, then Nathalia's water broke. It gushed out and Ren used his Water Absorption ability to remove it before it had touched the bedsheet. Artrude looked at him with wide eyes, and he smiled. She shook her head and went back to tending Nathalia. After about 10 minutes of having Nathalia push, Ren felt Artrude's worry start to grow.
+
+“What is it?” Ren asked.
+
+“Nothing.” Artrude said and everyone winced at the lie. “I... it's... we...”
+
+“What is it?” Ren asked in his command voice.
+
+“I don't see the head.”
+
+Ren took out the All-Seeing Mirror and asked to see the baby inside Nathalia's womb and showed it to Artrude.
+
+“Oh, damn!”
+
+“What is it?” Ren asked, confused.
+
+“It hasn't turned!” Artrude said a little frantically. “It's coming out feet first!”
+
+“A breach birth?” Malenka asked, and Artrude nodded. “What do we do?”
+
+“We hope that the umbilical cord doesn't strangle the baby as it comes out.” Artrude said.
+
+“No.” Ren said and cupped the side of Nathalia's face. “Do you trust me?”
+
+“With our child's life.” Nathalia said, which was the most that anyone could trust another person.
+
+“Hold this for me.” Ren said and passed her the mirror. “I need to concentrate.”
+
+Nathalia held it so he could see it clearly, and Ren took several deep breaths.
+
+“Okay. Okay.” Ren said. “I can do this. I can.”
+
+“You can.” Teepo chittered in encouragement.
+
+“You can do it, Ren.” Artemis said.
+
+“We all believe in you.” Frikara said.
+
+Ren felt encouragement and belief from everyone in the room, and he activated Serene State of Mind. It gave him compressed time to work out how to do it safely, and then he deactivated the ability and smiled at Nathalia.
+
+“Artrude, how good are you at catching things?” Ren asked.
+
+Artrude wasn't sure what he meant, and then a portal appeared right in front of Nathalia's special place and above her hands. She was astonished as the baby slid out of the portal and she caught it easily.
+
+“Don't close it!” Artrude nearly yelled as Malenka gave her a small blanket and several tools. Artrude expertly checked to make sure the baby was breathing, then put two clamps on the umbilical cord and cut it between them. “If you had closed the portal, Nathalia could have been bleeding internally.” She said and sewed up the end near the portal and pushed it back in. “Okay, you can close it now.”
+
+Ren dismissed the portal and watched the All-Seeing Mirror to see if there was any bleeding or damage, and then he saw the umbilical cord and a sack of something fade away. He was too surprised to say anything, and took the mirror back and stored it. Artrude quickly sewed up the cord still attached to the baby, cut off the remainder, and tucked the baby into the blanket and held it out to Nathalia.
+
+“Congratulations, Nathalia. It's a boy!” Artrude exclaimed.
+
+“I know!” Nathalia said happily and took the baby into her arms. “His name is Renardos Varthirm Neram.” She said confidently. “After his father, my father, and the House he will rule one day.”
+
+Renardos was only a baby, just born, and yet he had a full head of hair. It was auburn just like Nathalia's and fluffy like Ren's. He also had Ren's silvery-blue eyes.
+
+“He's so cute!” Malenka exclaimed and resisted the urge to snatch him from Nathalia's arms so she could cuddle him. Everyone could feel that she wanted to, though.
+
+“He really is.” Ren said, and everyone could feel how proud he was.
+
+“May I?” Xuunah stepped towards the bed and Nathalia held the baby up to her.
+
+“This is your grandson, Renardos.” Nathalia said, and Xuunah whispered a quick prayer and touched the boy on the forehead. A moment later she, Nathalia and Ren felt the emblem on their chests glow.
+
+“Oh, my.” Xuunah said and eased the tiny blanket aside to see that the baby had the same emblem on his chest.
+
+“Oh my, is right.” Ren said. “He already has a connection to us through Nathalia.” He said, and touched Nathalia's face. “I love you.”
+
+“I love you, too.” Nathalia said.
+
+Ren leaned down and kissed her briefly, kissed his son's forehead, then turned his head to look at Ereka. “Please send the birth notice to everyone.”
+
+“Oh! Just a second.” Artrude said and took out a piece of parchment that had a large form on it, and she used one of the tools to prick Renardos' finger. “We need to make it official.” She pressed his fingertip to the paper and the form filled out by itself.
+
+“Okay, that was cool.” Ren said.
+
+“Just let me make a copy for...”
+
+“I can do that.” Ren said, and Artrude looked at him. He waved at the form, and she handed it to him. “How many copies are needed officially?”
+
+“Um... four.” Artrude said. “One for here, one for Ereka to put in the House archive, one for the Main Keep, and one for the parents.”
+
+Ren activated his Duplicate Item ability and used the same 'make it rain' motion with his hand to reproduce the form. Artrude caught each form as it was made and when Ren reached 20, he stopped and handed her the original back.
+
+“You keep the original.” Ren said and took the stack of forms from her and gave 2 of the forms to Ereka. Artrude stared at him with wide eyes, and he chuckled.
+
+“I'm going to ask the Sage of Ages to deliver them to the Libraries for registered births.” Ren said, and her eyes widened.
+
+“You... can't be serious.” Ereka said and stored the forms.
+
+“He's my son, and he will have unrestricted access to every kingdom that exists or will exist.” Ren said. “It's the least I can do for him.”
+
+“Then... that means you... you have to go.” Nathalia said. “Don't you?”
+
+“I do, unfortunately.” Ren said. “Once Narhilda hears that there's been a birth at House Neram, she'll send someone to confirm it... then she'll probably try to ban me permanently... especially if she knows I've actually been here.”
+
+Nathalia opened her mouth to protest, then had to agree. “I'm sorry, Ren.” She said. “I... I guess I... I'll have to... raise him by myself.”
+
+“Nonsense.” Ren said, then chuckled when he felt her surprise. “Look at all of the people around you right now.”
+
+Nathalia blinked her eyes and looked around at all the happy faces and felt their emotions through Ren.
+
+“You will never be alone, and you will have lots of babysitters.” Ren said and caressed her face. “Plus, I'll set up a display at the house for you to stay in contact with us.”
+
+“R-Ren...” Nathalia's eyes started to water, and he gave her a deep and loving kiss.
+
+“I'll sneak in a visit whenever I can, too.” Ren said. “It won't be long before my official banishment will be over, and then some enterprising person can invite me back.”
+
+“Oh, Ren!” Nathalia sobbed and hugged the baby close with one arm and hugged Ren around the neck with the other, then kissed Ren several times in a row. “I love you!”
+
+“I love you, too.” Ren said and looked at the maids and Xuunah. “Why don't you all stay here and spend some time with my son and keep Nathalia company?”
+
+“I'd like that.” Xuunah said, and the maids nodded in agreement.
+
+Ren gave Nathalia another kiss, caressed his son's head briefly, then walked down the wall and gave each maid a kiss on the lips. He kissed Xuunah next, then turned to Ereka.
+
+“Ren, I... your emotions...” Ereka's face flushed a little red.
+
+“I've had a lot happen the last little while.” Ren said and cupped the side of her face and then ran a hand through her shoulder-length blonde hair. “I'm both sorry and glad that you've been too busy running things to come and visit on the ship.”
+
+Ereka barked a laugh. “I said that to Nathalia last night. With her like this, it's all falling to me.”
+
+“Have you hired a proper staff yet?” Ren asked.
+
+Ereka nodded. “I'm pretty much just the executive manager now.”
+
+“Good.” Ren said. “If Narhilda doesn't try to extend the ban, you'll be seeing a lot more of me in the evenings.”
+
+“Not in the day or overnight?” Ereka asked, a little surprised.
+
+“I've got to spend my days in the Fire Realm to try and make up for all the time I missed with the Deity of Fire, and most of my nights I have Adventurer's business to take care of.”
+
+Ereka shook her head. “You're still doing too much, Ren.” She said. “You're not supposed to be doing everything yourself.”
+
+“Don't worry, I make plenty of time to relax and take it easy.” Ren said and gave her a brief kiss. “Thank you for taking care of everything.”
+
+“You make it sound like I'm doing it all for you.” Ereka said with a smile.
+
+“Is that what I did?” Ren asked and walked around the bed to Artrude. “You did a great job.” He said and hugged her. “Thank you.”
+
+Artrude chuckled. “All I did was catch the little guy.”
+
+Ren let her out of the hug and turned to Malenka. “Malenka, I have something for you.”
+
+“Ooo, is it another wand? Another bracelet?” Malenka asked, then her eyes widened. “More frilly underwear?”
+
+Ren laughed. “If you want more, I'll make you some.” He said. “No, this is about what you asked me about before I left the dwarf lands.”
+
+“What was that?” Malenka asked.
+
+“Do you remember that picture I drew for you?” Ren asked, and she caught her breath.
+
+“The... the... unicorn.” Malenka whispered.
+
+“That's right. I met someone who's actually been to the fabled land of Staibel.” Ren said. “I talked to her for a couple of minutes, and asked her to remember what she saw, and then I made this.”
+
+Malenka gasped when Ren took out the piece of parchment that had the picture of 6 unicorns on it. “R-Ren... it... it's real.” She said, her voice and feelings full of wonder. “They really exist.”
+
+Quest Complete!
+
+You have given Malenka proof that her childhood fantasy horse really exists.
+
+Rewards: 2,500 XP (Negated: XP maxed); Honor: +2,500 (Negated: Honor stat locked); Malenka's Adoration
+
+Ren took the picture back and activated his Craft Wondrous Item ability and placed it on the platform. He added a piece of wood and a few gold and the picture reappeared with a nice frame around it. He then made it twice as big and gave it back to her.
+
+“That's all the proof you need, Malenka.” Ren said, and he felt how happy she was.
+
+“Th-thank you, Ren.” Malenka said and stored the picture, then stepped close and gave him a kiss on the lips. None of the women in the room felt any envy or jealousy at the kiss, because they all felt that she was only kissing him as a thank you and there wasn't anything sexual about it.
+
+“I'm kind of surprised you didn't try to jump on me to do that.” Ren said, and she grinned at him.
+
+“Artrude said I have to save stuff like that for her at night.” Malenka said.
+
+“Malenka!” Artrude's face flushed red, and everyone laughed.
+
+“I'll see you tonight.” Ren said to the maids and Xuunah, took Artemis' hand and cast another portal. He appeared inside the back room of the Library in his county. He opened the messaging system and sent Lara the Sage of Ages a quick message. A moment later, she stepped out of her apartment.
+
+“Ren, you... it's really...” Lara stammered.
+
+“I'm the proud father of a beautiful baby boy.” Ren said and held the forms out. “Please be a dear and submit these to the other Libraries as a registered birth.”
+
+Lara's eyes glazed over when she took the forms, then she smiled. “Oh, you sneaky little genius.”
+
+“That's me.” Ren said and gave her a kiss. “Now get that cute little ass wiggling and make those deliveries.”
+
+Lara shook a fist at him, gave him a kiss, then stepped back into her apartment and shut the door.

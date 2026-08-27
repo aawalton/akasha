@@ -1,0 +1,105 @@
+---
+id: 898d871d-e9cd-5e4d-9a93-16c92f1f9c1d
+page-type-slug: story-chapter-royal-road
+title: "185 (III) Rhetorical [II]"
+slug: 0160-185-iii-rhetorical-ii-2741867
+partOf: path-of-the-deathless-book-4-completed
+position: 160
+ownLength: 1942
+unit: words
+publishedAt: 2025-11-07
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2741867/185-iii-rhetorical-ii"
+royalRoadId: "2741867"
+---
+
+185 (III
+
+Rhetorical [II]
+
+The illusory lighthouse Shiv had seen earlier returned, but its length was afire with faintest blue, bleeding into the fabric of Integration itself. The colors of Animancy blended and grew until everything before Shiv was consumed in a flash of light. The Composer vanished, Adam collapsed, and the dimensional sprawl Veronica unleashed came ablaze in its entirety.
+
+The wardens too close to the static were consumed by the Animancy. Hundreds of Poly-Magi died half-deaths as they were stitched into the narrative of existence, damned to a place within the twisted embrace of soul-burned Integration.
+
+Shiv lost sight of the Avatars then, and never got to see who was attacking them. But many wardens were still present, and they were recovering as well, partially bathed in incandescent mana.
+
+Yet, before they could do anything, a blast struck them, a blast that sailed over Shiv's head. More whistling sounds came, and arcing projectiles slammed into the gathered guards. Explosions swept out, flinging the wardens aside. But these wardens were hardier than the others, higher in Tier, and better equipped as well.
+
+Even when Gone responded, slicing through them, many still endured. Their wounds closed or were reduced to scratches instead of fatal strokes. They struck back using their magic, mana flowing from their hands like curling tongues.
+
+But with every second they lingered within the chamber, their spellcraft weakened. The nuclear reactor was still churning, and its weight continued to be crushing for Shiv, especially with his destabilized soul. But it also seemed like the Ascendants didn't have the time to concentrate on pushing back the reactor anymore, which evened the playing field at least a little.
+
+Just then, a cry came from behind the rank of wardens. "Vanguards! Up at the front! Shields rise! Shields!"
+
+And then another shrill cry sounded, and something ripped through the air just over Shiv's head. Faint trails punched into the Vanguards' skulls. Blood puffed out from mortal wounds, and their front row collapsed entirely. More of those whistling projectiles slipped past the Vanguards then, and when this series of detonations went off, limbs filled the air alongside shrapnel.
+
+And then massive shapes were rushing past Shiv—gray-skinned shapes. One bore twin daggers in his hands. They glistened like starlight, and as he slashed and swiped, the daggers became as if wands directing the flow of an orchestra. Other shards of starlight ripped free from his dimensional robes, and the wardens were shredded by the sudden ambushing orc. Then there were bolts of Dynamancy flying. They struck the unprepared wardens like hammers falling upon tin cups. Resounding clangs filled the air, but the wardens were knocked down instead of utterly crushed. Even so, that proved to be a fatal outcome as a heavy blast descended upon them.
+
+Shiv was flung back by the explosion, but before he could crash down, something caught him in an iron grip.
+
+He looked up—and found himself staring at a mechanical half-skull.
+
+Its green eyes were glistening. Its metallic chassis was rusted in certain places and cracked in others, but it felt harder than ever before. It also stood taller, reaching over four meters in height, and its skeletal frame had filled out. Instead of being thin and on the verge of breaking, its ribs were fully enclosed, sealing away its vulnerable insides behind layers of heavy, slatted plating. It had additional arms as well, but few of them sported hands. Instead, there were long rods that stuck out from them, spinning, metallic rods that constantly sparked with resonating staccatos of discharge. From the tips of those long rods flew pieces of metal, moving so fast that Shiv could barely keep track of them. And then he stopped being able to keep track of them altogether as his Inertial Overdrive failed.
+
+"Get up, Pathbearer!" Can Hu’s voice was stronger than ever before. It crackled, not with interference, but with the weight of crashing thunder. And despite the horrific wounds that mangled his body, Shiv was driven to his feet by sheer will alone.
+
+"Can Hu!" he called out, surprised at the restored state of his friend, surprised that it was here, surprised, but much more importantly, pleased to see someone else he could count on.
+
+And it wasn't just Can Hu. Beside the Penitent stood an orc with wings of blood extending from his back. Twisting strands of crimson mana danced between his hands, but he let out a curse as his mana flickered in and out of existence. "Challenger, I hate this place. What is even happening right now?"
+
+Despite Helix's complaints, he managed to discharge a spell, and it struck the Wardens in a pulse of mist-like red. They began screaming a moment thereafter, and Shiv watched as their flesh bubbled and melted out from between the cracks of their armor. More Wardens fell, and more orcs joined the havoc.
+
+“RIDE THEM DOWN!” Mortar’s voice roared from somewhere Shiv couldn't see as more grayskins slammed down from the air, smashing through the wardens.
+
+A faint clench of teleportation caught Shiv's notice, and he moved on reflex. His right hand shot out, and he caught the head of a Vanguard attempting to put his halberd through Can Hu’s chest. Shiv's Shapeless Tides didn't fail him then. He pointed his vectors inward, and the man's head crumpled, crushed by his collapsing helmet.
+
+Shiv flung the body at a squad of magi. They were trying to create a Pyromancy spell, but they couldn't quite get it to catch due to the suppressive effect emitted by the nuclear reactor. The body of the Vanguard hit them like an artillery shell. Several of the mages broke and folded along the middle, their heavy armor doing little to protect the flesh within. As they died, their Pyromancy spell finally went off, and it went off wrong. A burst of spreading flames spilled out in the shape of a horizontal envelope. It ignited several groups of wardens nearby, and the battle grew ever more chaotic.
+
+A cold metal hand pulled Shiv by the bicep, and he staggered along, letting Can Hu guide him. And just then, Five landed beside him and picked Adam up. The Deathless's eyes widened, and he found himself briefly speechless as the wolf-man threw the Gate Lord over his shoulders.
+
+"Meltdown!" he shouted. “We need to get out of here before the meltdown really gets going!”
+
+Shiv didn't understand what would happen when a nuclear reactor went into meltdown, but it didn't sound good, so he hurried along, and the other survivors hurried along with him. He cast a final look at Bonk's dismembered body, and a clench of rage gripped his heart.
+
+The rage faded a moment later as he realized Bonk was probably just going to reincarnate, but it wouldn't be the same. He didn't know if orcs' souls were truly recycled as much as their memories were, but he pushed it out of his thoughts for now. Fuck… Sorry, Bonk.
+
+As they made their escape, Shiv watched as a small army of orcs pushed in through a gap in the upper section of the reactor chamber. Shiv had no idea when the gap was made or who had made it, but it was a clean cut, delivered with scalpel-like precision and finished with no noise at all. Not even the Ascendants had noticed. Past the cut, Shiv saw the faint glow of seeping mana, and he saw the static of Dimensionality as well. It wasn't just a cut. It was a portal to somewhere else.
+
+And just then, a crackle was followed by a sudden surge of acceleration as the Deathless found himself drawn upward. He looked down and saw two thrusters blasting free from Can Hu’s legs. The penitent's lower body had changed as well. It resembled multi-jointed slats that wouldn't look out of place on an insect. And from beneath its heels came steady streams of fire that emitted a comforting hue of soft blue.
+
+"Can Hu, how the hells are you fixed?" Shiv breathed. "Is this because I mended your skills?"
+
+"Partially," the Penitent said tersely, and from the rift they were fast approaching came another horde of orcs. They cried out joyously as they descended into the fray, and at the same time, the entrance leading into the nuclear reactor exploded as a tide of darkness swept through. Harlock was coming once more, but then Harlock was held in place as a gathering horde of orc Dynamancers formed a protective dome. Then came Pyromancy. Spells shaped from heat and light exploded in the air, and they were channeled as if rays of starlight down upon the darkness sealed behind the kinetic shields.
+
+Harlock was held back briefly, and that was the last Shiv saw of the Ascendant then, as he found himself dragged into the dimensional gap. Gone, Adam, Kura, Five, Candles passed through right beside him—then Whisper and a few other orcs followed as well.
+
+For a moment, the Deathless tried to process everything he'd just experienced. This felt impossible. Saved by the Composer, and then by his comrades. But something felt wrong. He was missing critical details. He had no idea how his allies had arrived here, and if they were back, maybe Uva and the others were as well. Could it be the Starhawk intervening with his divine power?
+
+Shiv thought that was the most likely case, but then the Penitent spoke once more, letting out something akin to a reluctant sigh. "Your mending of my skills helped, but you were not the one who completed the reconstruction of my soul.”
+
+Shiv stared at Can Hu. "Then, who did? Did the Starhawk manage to make it back? Do you know what happened to Blackedge? Did it come back from the Outside? What about Uva and the others?"
+
+The Penitent didn't respond immediately. When it did, its voice was tenser than Shiv remembered it ever being. "I did not have a choice, Pathbearer. I wish you to know this. But he was our only option to get here, and he was the only option to see myself repaired.”
+
+Before he could open his mouth to respond, a notification appeared in Shiv's eye.
+
+The Challenger looks forward to your reunion with—
+
+***
+
+“No… Nononono,” Kathereine breathed. “You… you can’t be here!”
+
+Veronica stood frozen, staring ahead in mute horror.
+
+"Help! Help me!" the Waif screamed. She had been taken by their ambusher at the same moment he put a hole through Harlem’s vessel. The poor boy had been consumed by Animancy in an instant. He didn’t even get a chance to fight back. Connor’s screams still echoed from scabs of pale blue beside Veronica. She focused her mind and ignored the wails. There was nothing anyone could do for him now.
+
+The Waif kicked and struggled as her head was cradled by a set of wicked, curved claws that glistened with strange mana, a lore Veronica Chandler had never seen before. Daughter tried to intervene, but a flash of Animancy made her flinch back.
+
+“Veronica—” the Waif shrieked, sounding truly like a terrified child. The Councilwoman’s name proved to be her final word.
+
+The sounds of pulping brain-matter and shattering bone filled the air, and they were accompanied by a disappointed sigh.
+
+“Hello, Veronica. Kathereine. I understand you have something of mine. I have come to reclaim it.”
+
+Veronica shuddered as she prepared to draw on every bit of her grandmother’s power to survive what was to come. “He is not yours.”
+
+“Hm. I would say he is. Not because I made him. But because you cannot stop me from taking him back.”

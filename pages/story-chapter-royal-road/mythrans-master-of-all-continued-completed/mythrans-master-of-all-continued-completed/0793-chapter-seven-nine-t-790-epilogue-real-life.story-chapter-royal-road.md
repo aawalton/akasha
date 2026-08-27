@@ -1,0 +1,37 @@
+---
+id: 989a16c0-94bf-56cb-bc64-e551c9180231
+page-type-slug: story-chapter-royal-road
+title: "Chapter Seven Nine T (790) - Epilogue (Real Life)"
+slug: 0793-chapter-seven-nine-t-790-epilogue-real-life
+partOf: mythrans-master-of-all-continued-completed
+position: 793
+ownLength: 409
+unit: words
+publishedAt: 2018-12-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/313307/chapter-seven-nine-t-790-epilogue-real-life"
+royalRoadId: "313307"
+---
+
+Dana and Gretchen had messaged Ren and discovered that he was already in the kingdom of Pervaria, and he told them the secret to get there. Use the road. They laughed at that, used the road, and spent an inordinate amount of time skiing at his ski resort in between doing quests. He even gave them houses to live in and Phantom Steeds for travelling.
+
+*
+
+Ren's injuries healed and he eventually discovered the extent of what Elise had done. She had even hired Gloria to work for DewTech, which was her dream job. They also owned controlling interest in Sid Tec, so now they owned the game. That was the second best present Ren had ever gotten. The first was Elise's baby bump after three months. He and Lisa started having storybook night and took turns reading to Elise and her baby bump.
+
+Elise laughed at first, then Stella, Barbara, Denise, and even Barbi got in on the action and it became a whole family thing. She felt so much love and acceptance from them that she didn't protest at all at the special treatment. She was ecstatic when Denise became pregnant, because their children could grow up together.
+
+*
+
+Clint and Gwendolyn tied the knot barely five months after they had started dating. Surprisingly enough, Tommy and his girlfriend Jaime had tagged along and they had a double wedding at the ranch.
+
+Ren was invited and he brought... well, everyone he was dating. He couldn't pick just one. As the vows were exchanged, he touched each woman and recited part of the vows in a low whisper, then whispered 'I do' when it was his turn, and they said 'I do' in return. It was the closest they were going to get to being together officially. He didn't need a piece of paper to tell him who was important in his life. Them being there for him did that all on its own.
+
+*
+
+The conspirators after Ren were mostly rounded up, thanks to the witness statements, and charged with various crimes. Some fled and escaped capture, like Suzie; but, most of them were sent to jail. Some even met up with his parents and told them the control they had set up was completely wrecked.
+
+The security firm was hired permanently and Haddon Industries became their sole client.
+
+*
+
+Ren, his new family and his friends, both inside and outside the game, lived happily ever after.

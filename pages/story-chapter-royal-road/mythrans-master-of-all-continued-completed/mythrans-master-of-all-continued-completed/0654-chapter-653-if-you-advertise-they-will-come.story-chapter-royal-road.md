@@ -1,0 +1,287 @@
+---
+id: 9ce7db19-8cfa-56c8-8f72-fd53d33c7d7a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 653 - If You Advertise, They Will Come"
+slug: 0654-chapter-653-if-you-advertise-they-will-come
+partOf: mythrans-master-of-all-continued-completed
+position: 654
+ownLength: 2717
+unit: words
+publishedAt: 2018-07-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239203/chapter-653-if-you-advertise-they-will-come"
+royalRoadId: "239203"
+---
+
+Ren made the roller coaster next to the succubi roost without crowding it too much, because he didn't want to interfere with the Water Park, and then started adding all the other things that a normal amusement park had. Rides that were variations on a carousel, giant swinging pendulum machines of various shapes that people could ride, Ferris wheels of different sizes, and game booths with every kind of luck and skill game you could think of.
+
+That had taken hours, and then Ren added benches, fountains, chairs, railings, grassy areas, and everything else people would want or need at an amusement park. He added more food vendor booths, even though he had no one to staff them, and Artemis hovered nearby the whole time to keep him company and to guard him. Princess on the other hand, had run around the outside of the county and kept Babylon company.
+
+Ren smiled as he worked, and part of his attention drifted to the flyers that Dana and her friend were handing out. I wonder if they even bothered to read it. He thought and kept working.
+
+They hadn't.
+
+*
+
+Dana and her friend discovered that the Library didn't have the maps they had, and if the Head Librarian was allowed to keep a copy of them, she would make 100 copies of each for free. Dana and Gretchen took that deal and gained the Haggle skill, then they left the Library and went to the town square and the Portal Gate that Ren had built.
+
+“Wait! Aurora has a general store!” Dana exclaimed, and her friend chuckled.
+
+“It's okay, Dana. We can do it when we come back.”
+
+“Oh, right.” Dana said and they looked at the map on the arch above the gate. They chose the next closest town with a gate and stepped through after paying. “That's so weird!” She said and looked around. We've travelled so far with only a single step!”
+
+Gretchen laughed and took her hand. “Check the maps Ren gave us.”
+
+“Right!” Dana said and took out the generic map, then compared it to the town square they were in. “We're in the generic one!”
+
+“Great! I know right where the store is.” Gretchen said and dragged her down the street. “We are going to beat this quest so fast that it'll make his head spin!”
+
+“Who's head?” Dana asked.
+
+“Who else?” Her friend smiled. “Your boyyyyfriennnnd!”
+
+Dana's face flushed red as she blushed. “He's not my... I mean, I think he's cute... and he's pretty strong...”
+
+“Don't forget rich.” Her friend said with a smile.
+
+Dana was quiet for a minute. “Do you think he... would he go out with me?”
+
+“You saw who he was with, right?”
+
+Dana opened her mouth to respond, then sighed. “Yeah, I saw.” She said, sadly. “Succubusses.”
+
+Gretchen chuckled. “It's succubi.”
+
+“Sorry. Succubies.”
+
+“No, no. Succubi is the plural of succubus.”
+
+“Oh!” Dana said. “Why is that?”
+
+“No idea.” Her friend said. “Come on! Let's get this done!”
+
+“Okay.” Dana let her friend pull her along by her hand. She couldn't help but feel a little sad that she didn't have a chance to go out with the only guy to have ever impressed her.
+
+They worked for hours and covered every spot on the Portal Gate Network and didn't have any problems. The general stores were always open these days and night quests were becoming commonplace. Dana and Gretchen did meet some Adventurers, since it was night time in the real world and nearly everyone was online and in the towns because it was night time in the game as well. They gave them flyers and told them what they knew about the fight in a couple of days, then moved on to the next town.
+
+It wasn't until they returned to Aurora and went to the general store there, General Goode's General Goods, that an Adventurer asked for the flyer and read it right in front of them. Once he had read the details about the fight and seating arrangements in the arena, the flyer sparkled and showed an advertisement for an amusement park.
+
+“Is this some kind of joke?” The guy asked and showed them the altered flyer. “There's no such thing as an amusement park in here.”
+
+Dana looked at the bright and colorful flyer that showed rides, games, attractions, and food. “Wow, is this for real?”
+
+“What? You don't know? Are you stupid or something?” The guy asked a little angrily. “You're passing the things out! Didn't you even read it?”
+
+Dana exchanged a glance with her friend. Neither of them had thought of reading it and had just passed them out.
+
+“Come on! Is this a joke or not?” The guy asked and loomed over them. “What about the fight? Is that a joke, too?”
+
+“I... I...” Dana wasn't sure what to do, and then she remembered the panic button Ren had given her. She took the gold brooch out of inventory and went to push the button, and the guy swiped it from her hand. “HEY! Give that back!”
+
+“Is this gold?” The guy asked. “It's heavy enough for gold.” He looked it over. “What's the button for?”
+
+“No! Don't push it!” Gretchen nearly yelled.
+
+The guy smiled at her. “Why? Will something happen?”
+
+“N-no.” She said. “N-nothing.”
+
+The guy chuckled at her obvious lie and pushed the button.
+
+*
+
+“I think we're done, Ren!” Teepo exclaimed and flew down. “Look at it on the All-Seeing Mirror and check.”
+
+“Sure, buddy.” Ren said and took out the mirror and asked it for a top-down view of the work he and Teepo had done. Artemis looked over his shoulder and saw that the park was completed, as well as the full-sized arena that could seat several cities worth of people. The best part was that it was all made from actual materials and not things enlarged or created by magic. It was all real.
+
+“It really is all done.” Artemis said and pointed. “There's the...”
+
+They felt the Panic Aura merge with the artificial one and pinpointed where it was. Ren checked the All-Seeing Mirror immediately and cast a Portal spell while Teepo dissolved into the ring, then Ren and Artemis stepped through to appear right behind Dana and her friend.
+
+Ren saw a guy he didn't know was holding the brooch he had given her, and then gained the Angered condition. “Are you trying to steal from my friends?”
+
+Dana gasped and turned around to see Ren and the tall metal woman behind him. “R-Ren!”
+
+“Are you okay?” Ren asked and dismissed the portal and summoned Teepo.
+
+“Y-yes, I think so.” Dana said. “This guy...”
+
+“...has your property.” Ren said and looked at the guy. “Return it. Now.”
+
+“She held it out to me.” The guy said in an obvious lie and Ren smiled.
+
+“You mean like you're holding it now?” Ren asked.
+
+The guy nodded, so Ren plucked the brooch from his hand and hit the button.
+
+“Hey!” The guy exclaimed. “Give that back!”
+
+“You held it out to me.” Ren said and smiled.
+
+“Listen, you...”
+
+“No, you listen.” Ren said. “I'm warning you to back off.” He said. “In case the flyer you're holding in your hand wasn't clear, my name is Ren and I'm the one that's going to be fighting in the arena.”
+
+“Ha ha!” The guy barked a laugh. “A little guy like you? Are you crazy?”
+
+“Yes.” Ren said.
+
+The guy looked nonplussed for a moment and then frowned. “Don't make me hurt you.”
+
+“Don't make me laugh.” Ren said and lost the Angered condition, because he was amused. “You could use all of your Strength to attack me and you wouldn't dent my normal shield, let alone my platinum one.”
+
+“A... platinum shield?”
+
+“Yeah, this one.” Ren said and equipped a tower shield that covered him from neck to ankle. The platinum sheen of the metal was unmistakable, even in the light of the streetlamps.
+
+“Oh, my god.” Dana whispered. “H-how m-much...”
+
+“I only used about 800 platinum coins.” Ren said. “If I use too much for the mix it could weaken the steel alloy.”
+
+“Steel?” The guy asked.
+
+“I use steel for most of my products.” Ren said. “Unless I'm going for pure aesthetics, then I'll forgo Durability for value.”
+
+No one said anything for several moments, so Ren stored the shield and looked at Dana.
+
+“Can you tell me what happened?”
+
+“S-sure.” Dana said and gave him a quick retelling of the situation.
+
+“So, he was bullying you.” Ren said.
+
+“No, he... well, I guess he...”
+
+“It's okay. It's kind of my fault.” Ren took her hand. “I should have asked you to read the flyer before sending you out on the quest.”
+
+“No, it's our fault for not reading it.” Dana's friend said. “We didn't realize it was for more than the arena fight, and we've been passing them out for hours and hours.”
+
+Ren chuckled. “I've been stuck with tunnel vision a few times myself.”
+
+The guy stood there and watched the exchange, and felt like he was being ignored. He was nearly twice Ren's size and wore thick armor, and he really didn't like being ignored one bit. He took a menacing step forward and then there was a loud bang as Ren appeared in front of him and lightly poked the guy's chest armor with a fingertip. It left a one inch deep dent in the half-inch thick armor as the guy lost 5% of his Health. He gasped for breath because the armor now pressed into his chest.
+
+“Easy there, fella.” Ren said. “I told you to back off.”
+
+“...can't... breathe...” The guy said and dropped to one knee.
+
+“Store your chest plate.” Ren said.
+
+The guy did and started to breathe normally. “You damaged my armor.”
+
+“Yeah, and I was being careful that I didn't kill you by accident, too.” Ren said.
+
+“I'll send you the bill for the repairs.” The guy said and stood up.
+
+“I can repair it.” Ren said.
+
+“Yeah, like I'd trust you to do a good job, especially since you damaged it in the first place.”
+
+“I'd get angry that you're calling my ethics and handiwork into question, but you're acting like an angry child that's not getting their way.” Ren said. “So, go ahead and send me the bill... no, wait. Why don't you just buy a new chest plate and send me the bill for that, then you won't have to worry that I permanently damaged your old one.”
+
+“You really are crazy.” The guy said and started to back away.
+
+“If you don't know where my shop is, ask around.” Ren said. “Everyone here knows where the Hero of Aurora hangs his hat.”
+
+The guy turned and walked quickly down the street.
+
+“That... was...” Dana blinked her eyes at the quickly retreating partially armored figure.
+
+“I'm sorry about that.” Ren said and turned to her. “Bullies bother me, especially if they are doing it for no reason.” He said. “Of course, with all the things I've done so far, some of them could be considered bullying, too.”
+
+“Not you!” Dana exclaimed, and Ren chuckled.
+
+“When you win battles and fights, the other side almost always feels bullied, even if they were warned beforehand.” Ren said. “Sometimes that's not enough and when I deal with them... well...”
+
+Dana stared at him and he could feel her admiration.
+
+“That's not really something that should be admired.” Ren said, and he felt her surprise.
+
+“You can read my mind?!?” Dana asked.
+
+“No, I can feel your emotions, remember?”
+
+“Oh! Right.” Dana said.
+
+Ren held the brooch with the panic button out to her. “How is the quest going?”
+
+“You can keep that.” Dana said and pushed his hand away. “We're done! We just left the last general store!”
+
+“Yeah, that guy was the last one we handed a flyer to.” Gretchen said.
+
+“Excellent!” Ren said. “You used up the travelling fees?”
+
+Dana nodded. “How did you know how much to give us?”
+
+“Thanks to Teepo.” Ren said. “Any real math that needs to be done quickly, I leave to my best friend.”
+
+“That must be really nice.” Dana said, a little sadly. “I can't even remember to log out at the right times.”
+
+Ren chuckled. “Teepo reminds me of that all the time.”
+
+“He does?” Dana asked, surprised. “But... you're...”
+
+“I was recently reminded that I'm not infallible.” Ren said. “So, hand me the remaining flyers.”
+
+The two girls handed him the flyers.
+
+“Do you need one for yourselves?” Ren asked, and they each took one.
+
+“Thanks.” Dana said and stored it. “Um... R-Ren...”
+
+“Yes?” Ren stored the remaining flyers.
+
+“About the maps you gave us...” Dana glanced at her friend, who glared at her.
+
+“You can keep them.” Ren said. “I can always make more.”
+
+“Whew.” Dana said and grinned at Gretchen. “You were right. He wasn't going to ask for them back, so we can sell them if we want to.”
+
+“Dana!” Gretchen exclaimed.
+
+“Sell them?” Ren asked, and both women sighed.
+
+“We took the maps to the Library, and the woman there made us 100 copies for free for giving her maps she didn't have.” Dana said. “We've been selling them in nearly every town we went to.”
+
+“Really?” Ren looked at them both, and they nodded. “That's great!”
+
+“Wh-what?” Dana and Gretchen said together.
+
+“You figured out a way to make money from something so simple!” Ren said, happily. “Artemis, why didn't I think of it?”
+
+“You can't think of everything, Ren.” Artemis said.
+
+“I guess you'll want them back now.” Dana said and took out the handful of maps she had left and held them out. Gretchen took out a slightly bigger handful and held them out, too.
+
+“No, thanks.” Ren said, and both women looked at him. “Although, you seem to be running low.” He said. “On second thought, can I have them back?”
+
+Both women sighed and handed the maps to him.
+
+“Thank you.” Ren said and made one stack about 50 sheets thick, then gripped the stack at the top and tore them in half. He felt the two women's emotions turned to depression, and he grinned at them. He poured Mana into his hands and the page halves formed full pages. Dana and Gretchen stared as he made a stack of those 100 full sheets, then gripped the top and tore the stack in half. He did it again and again until he had a stack of 800 in each hand and reformed them with Mana.
+
+“There you go.” Ren said and handed 800 maps to Dana and 800 maps to Gretchen.
+
+“Did... wait... you...” Dana stared open-mouthed at the stack of maps in her hands.
+
+“I know they're mixed together, but the inventory will sort them for you.” Ren said. “So, are you ready to finish the quest?”
+
+Dana nodded and stored the stack of maps, and just like Ren had said, they sorted into their own stacks. “That actually worked.”
+
+“I was surprised the first time it did that automatically, too.” Ren said. “Now, with that out of the way... I declare the granted quest complete!”
+
+Both women received popups with all the relevant information in it. It listed how many towns and cities they visited, how many flyers they handed out, how many times they haggled, and also the XP and gold they received. Dana caught her breath as she realized the sheer amount of work she and her friend had done.
+
+It had been fun! Dana thought, almost in shock. Really fun!
+
+Ren felt their emotions and smiled. “Now, the final thing is a magical item of your choice.” He said and gave each of them a quick look. “I see you've already run rampant in my shop, though.”
+
+Ren's comment commanded Dana's attention.
+
+“It wasn't like that.” Dana said. “We went in and...”
+
+“I wasn't accusing you of anything.” Ren chuckled. “I was just stating that I can't finish the end quest easily by giving you a Water Walk ring or something.”
+
+“What are you going to give us?” Gretchen asked.
+
+“That depends.” Ren said. “What is it that you want the most?”
+
+Dana didn't even hesitate as she pointed right at Teepo.

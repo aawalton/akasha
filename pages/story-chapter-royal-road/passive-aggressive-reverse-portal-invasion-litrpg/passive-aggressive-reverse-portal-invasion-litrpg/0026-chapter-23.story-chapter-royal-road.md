@@ -1,0 +1,85 @@
+---
+id: f388c6ba-deb0-561d-a2fa-f5180bb11a2b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 23"
+slug: 0026-chapter-23
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 26
+ownLength: 2184
+unit: words
+publishedAt: 2026-06-12
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3527885/chapter-23"
+royalRoadId: "3527885"
+---
+
+Planning wasn’t my strongest suit. If it were, I probably wouldn’t have ended up working a shitty job in Sunderland of all places. That being said, I recognized the need for it. I also recognized that my current state - suffering from a concussion, slashed, pierced and burned, with a mental state that could best be described as ‘primed for explosion’ - was not likely to result in any failsafe long-term plans.
+
+Still, concussion or not, not planning would eventually see me even deeper in the shit.
+
+At first, I took stock of my inventory. That took a lot less time than I’d have preferred. If I’d had an inkling of where I’d wind up, I’d have joined the bastards rummaging through the camps, stealing food and equipment like there was no tomorrow.
+
+Instead, I was left with the sorry leftovers from the rations pack I hadn’t fully devoured – maybe a third of a meal, generously speaking – a water pack, half-filled, a smattering of equipment in the ‘might become useful’ category, including a fire-starting kit, a tarp made from an unknown animal skin and a handful of simple tools. Not much to start with for somebody who never watched any of those wilderness shows in the first place.
+
+My armor and shield weren’t doing much better. The leather of my skullcap had been slightly deformed near my left ear – likely from when that Higher Skreeling gave me a concussion. The rest of my armor was… hanging in there. On the right side of my stomach, literally hanging, ready to be ripped off. What that weird-ass Core Leecher had initially lacerated had taken a few extra cuts along the way, leaving the tatters of my formerly white garment below exposed and equally sliced. The rest of the armor was doing a good deal better. Deformed, burned, slashed and punctured, sure. On my upper back, it also sported a sooty depression in the material and a lingering rank stench that made me think of industrial strength cleaners. Yet, it still held strong. For now.
+
+My shield had seen better days. The leather covering that used to be attached to the bone material was, by now, a pleasant memory and not much else. The bone was burned in places, and a few spots sported places where the bone had taken blows and looked brittle, ready to succumb to the next proper blow. Still, as long as I didn’t go up against some asshole with a sledgehammer, or another rhino-sized Higher Skreeling, it should last me a while longer.
+
+The swordbreaker was still holding up. A few scratches marred the material, but it still worked as intended. Unfortunately, I’d learned the hard way that the spindly thing was relatively useless for bestial opponents. Sure, it might deflect a rapier or some shit weighing in at half a pound, but the paw of a meth-bear or whatever this damn place was ready to fling at me next was more likely to just crack the swordbreaker.
+
+I scouted the horizon in front of me one more time. Then I got up and stretched, hissing at the series of pops cracking down my spine. I winced, as one of my myriad cuts sent a pang of mind my way as a reminder.
+
+I was in deep shit. My health was at a third, and the two debuffs were still active. That led me to the first conclusion of the day. There was no going back. Not yet, at the very least. Yesterday had been… a teachable moment. Not a pleasant one, but educational nonetheless. Any superhero aspirations I might have entertained that included me taking on the bestial horde on my lonesome were pushed well away where they belonged.
+
+We should have seen it coming. Florida had been invaded by intelligent monsters. Monsters with classes, but arriving without any fancy magical gear. But, for some goddamn reason our inflated egos kept us from thinking further, connecting the dots, and reaching the inevitable conclusion.
+
+Back in Florida, we’d been able to beat them back with surprising ease, due to our technological advantage, and because the invaders were left to face us without whatever diabolical magical items they owned here on Ademia. Yet, we hadn’t turned the situation around and realized how it applied to us as well.
+
+Invading Ademia? That put us in an even worse situation than the Ademians invading Earth. Because Ademians, at the very least, had levels on their side. Levels, skills and talents. They arrived with boosted attributes and magic. Arriving to this place? We had jack shit. Sure, in theory, we had a surplus of technology, knowledge and tactics on our side that we’d be able to use to eventually build ourselves an unassailable foothold.
+
+Except, the keyword here was ‘eventually.’ From the get go, we’d be weak. Weaker than our local counterparts, who’d spent their entire lives growing, leveling, earning skills that they’d be able to lever against us.
+
+Also, we’d made one simple rookie mistake. The first week of humanity’s stay on Ademia had been met by nothing but mindless monsters. Somehow, that translated to everybody internalizing that, of course, that was exactly how things would continue.
+
+That… was unforgivable. We’d already known going in that there was at least one additional sapient species in this world. And yesterday, we’d received undeniable confirmation that there were, at the very least, three more.
+
+Sure, the majority of the beasts attacking us had been, for lack of a better word, bestial. However, either the leaders or whomever directed the leaders proved that they were more than that. The way they’d assailed Ever Steady from all sides, how they’d adjusted to our defenses and placed a perimeter of guards and hunters to round up any stragglers? That all attested to intelligence; to a solid sense of strategy and forward thinking.
+
+That, above all else, cemented it for me. I wasn’t going back to the Ever Steady. Not yet. For now, the place was a death sentence, and I wasn’t going to test it until I was a lot stronger.
+
+It wasn’t an easy decision. Not only did it leave me entirely alone in this place. It also required me to accept the fact that humanity was screwed. Not just the suckers like me who’d tried to defend Ever Steady. But also any poor fucker arriving through Portal Home in the coming time – unless of course somebody fled back through the portal to tell Earth what was happening. Hopefully, they had, or it would be diner transportable for the beast armies for the foreseeable future, as humans walked blindly through the portal, only to be scooped up.
+
+I couldn’t see my way to any other conclusion, though. Even if I wanted to fight back against them, it wasn’t happening. Not only because I wasn’t wilderness savvy enough to manage it. But also because the monsters had proven themselves canny enough that they’d simply turn the tables on anybody thinking themselves clever and tough enough to defeat their armies through attrition and guerilla-style attacks.
+
+That left me with a… well. If not a plan, then a general direction: Away! I needed to move farther away from Ever Steady, and I needed to avoid getting spotted by any hunters still searching for human remnants. Especially that goddamn Glimmerscale.
+
+I looked at the sky, trying to judge the direction of the sun. That took a moment. One of the U-Nerds had tried, and failed to explain it to me, but the point was pretty clear. The sun rose in the west and set in the east. Why that was logical and not, say, an east-south pattern, I still didn’t get. For now, I didn’t need to know the reason. I merely needed a direction. And that, I got.
+
+Looking back, I was surprised at the absolute absence of battle scars on the landscape. There were no plumes of fire, no strewn corpses. But then, I’d fled for nearly a third of a night and managed to put a good deal of distance between me and ground zero.
+
+The setting ahead was peaceful. Peaceful, beautiful and slightly mysterious in the soft haze of the morning.
+
+Straight west lay an expansive rocky field, yellow grass interspersed with heavy boulders and dark depressions that promised to be either underground tunnels, some sort of soil erosion or, well, your ordinary potholes, as you’d see ‘em anywhere in Sunderland.
+
+If I veered a bit further south, the land looked like it was turning flatter, but wetter. My eyesight, with the debuff still active, was crappy, but from here, the waters looked stagnant and unhealthy. Since I had no intentions of trying my luck wading through swamplands, that one was right out. Farther northward looked a good deal more promising. The rocky fields turned into a long, flat and scree-covered incline that slowly zig-zagged up its way to a tall ridge bisecting the landscape in an east-to-west direction for as far as the eye could see.
+
+That ridge initially became my best choice. Getting up there would give me the chance to get a proper view of the entire landscape.
+
+Thus, by the ancient practice of elimination, I had my target, as well as my immediate goal. I did not try to aim for long-term planning. That would have to wait at least a day, until my debuffs were totally gone and my head was in a better space. For now, I had two things I needed. I needed some distance between me and any possible bestial pursuit, and I needed sustenance. Hopefully, both could be found along the stretch of rocky fields in these foreign, hostile lands.
+
+I spent a short while second-guessing my decision. There was still the option to just hunker down and hide until my debuffs were gone. Then, I’d be able to take on the world with my health and attributes topped up and a clear mind. Those, and an empty stomach.
+
+In the end, I sent a silent curse at any nearby deities over the lack of proper options and got up. While there was a risk I’d die from not being ready for any engagements, I would definitely die from hunger if I didn’t get off my ass. Besides, there was no certainty that I’d find food right away. At least, I’d slept right next to a stream that granted me what looked, smelled and tasted like clean water. Thanks for small mercies and no explosive diarrhea.
+
+As I strode across the plain, hardened mud flaking off of my body like full-body dandruff, my mind seemed to centre on one thing: how the arrival to a new world had become something entirely unlike what I’d expected. The first day had actually lined up with my expectations, even if my quirk and talent choices had gone seriously awry from my expectations. We’d charged out, fought for gains in an insane rush, competing for space and earnings with hundreds and thousands of others and returned to camp to momentarily celebrate and repeat the process over and over again. We’d expected having to increase the length of our excursions and, at some point, even camp out during the night.
+
+Yet, somehow, we’d taken the existence of a game-like system to mean that the world would be game-like as well, optimized for our convenience. That we’d run into increasingly tough enemies, that they wouldn’t have spent years or decades building their own strength, wouldn’t have builds that could stand up to anything we could come up with.
+
+For a while, it had even seemed like we were right. Except, why would this world be like that?
+
+We could just look in a mirror. Anybody with intelligence and a minimal drive would strive to improve their own situation as much as possible. In our world, that meant earning more, proving yourself at work and earning that gosh-darned promotion your co-worker was trying to steal from under your nose. Here, it meant killing anything that moved, improving your lethal capabilities and earning further levels.
+
+Judging from what we’d seen yesterday? They’d grown pretty fucking capable indeed. Meaning, my plan right now wasn’t merely survival. It was also learning about this new world and the rules that applied here. All while growing strong enough to challenge any takers and, hopefully, taking back the Ever Steady and opening the way back to Earth up again. Oh, and not getting depressed because I might be the only human in Ademia not in a cookpot.
+
+The only windfall at this point was that – as long as the same rules applied as back in Florida - the beasts wouldn’t be able to march through this portal, because it was one-way only.
+
+It was a limited sense of reassurance amidst the crippling taste of defeat. Even if I might have to take everything and everybody who’d already made it to Ademia for lost, the way back home would still be there, still gleaming, ready for me. Now, I just had to earn the strength to take it back.

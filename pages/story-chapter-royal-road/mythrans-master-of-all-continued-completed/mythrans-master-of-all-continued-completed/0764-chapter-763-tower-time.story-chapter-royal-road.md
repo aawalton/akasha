@@ -1,0 +1,281 @@
+---
+id: fedcbcd6-bd68-5d63-81b3-e8a9b7576160
+page-type-slug: story-chapter-royal-road
+title: "Chapter 763 - Tower Time"
+slug: 0764-chapter-763-tower-time
+partOf: mythrans-master-of-all-continued-completed
+position: 764
+ownLength: 3268
+unit: words
+publishedAt: 2018-11-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307241/chapter-763-tower-time"
+royalRoadId: "307241"
+---
+
+They ate breakfast and shared polite conversation. When they were done, they all stood up and Ren used his various skills and techniques to bring out Yuwen's Command Aura. It went fairly quickly, since she had the disposition already, because of her experience with the caravan and being a delegate for her kingdom. She was pleasantly surprised when she gained a related ability called Presence. It was like Ren's Tainted King title, except that her version only worked when she first entered a room. All eyes would focus on her and she would have to be acknowledged in some way.
+
+Yuwen was delighted at the new ability. “I love it!” She exclaimed and gave him a hug, which just so happened to push his face into her cleavage. “Thank you, Ren!”
+
+“You're welcome.” Ren said when she let him go. “Dilseffa, would you like me to do you next?”
+
+Dilseffa's face went red at his words, then she stepped close to him and hugged him to press his face into her modest cleavage. She had changed into a dress similar to Yuwen's, and it pushed her breasts up slightly, just enough to give Ren a good feel of them. That hadn't been what he meant; but, she had been forward with her actions, so he snuggled into her chest and kissed them as he used his abilities to find her hidden Aura.
+
+That's interesting. Ren thought as he found it. Inspiring Presence.
+
+“That's like a better version of your Camaraderie Aura.” Teepo said in the voice only Ren could hear. “That should work great for the head of security.”
+
+It really will. Ren smiled and gave her breasts one last kiss and looked up at her face. “You draw attention to yourself; but, it's not because you're showy or because you want that attention. It's because they know you could be a power to be reckoned with.”
+
+“Wh-what?” Dilseffa stared into his eyes, and she knew he wasn't lying or exaggerating.
+
+“From what I can tell, everyone respects you for your abilities, and even your fighting prowess.” Ren said. “The fact that you're a bunny puts you that much higher than the actual predators you deal with every day.”
+
+Dilseffa closed her eyes and felt his admiration. “I... I am just a bunny.”
+
+“No. You are the bunny.” Ren corrected her and she opened her eyes to look at him. “You are my Second Mistress and Head of my Security, so you are the bunny that has to deal with all of the situations that might come up in that role.” He said and his hands started to glow. The dire wolf emblem above her heart glowed as well, and she felt him doing something to her.
+
+“Ren, what...”
+
+“Do you believe me?” Ren asked.
+
+“I... I do.” Dilseffa said.
+
+“Then say it.”
+
+“I am your bunny.”
+
+“Yes. Yes, you are.” Ren beamed a smile at her and pulled her Aura out.
+
+Dilseffa gasped when her Inspiring Presence Aura popped into place and it was already at 50 feet. “R-Ren! Good god, what... what is...”
+
+“Don't worry. It'll get bigger the more you use it.” Ren said.
+
+“That's not... how can I... I'm not...”
+
+“But you are.” Ren said and let her out of the hug and rubbed the cheeks of her face with both hands. “You are not 'just a bunny'. You had enough Respect to be in the caravan and to perform as a delegate for all of the beast races.” He said proudly. “I am honored to have you be a part of my Dynasty here in the kingdom of Pervaria.”
+
+“I... I'll try not to let you down.”
+
+“As long as you try your best, you can never let me down.” Ren said and gave her another hug, then stepped away and looked at Tiyaphi, the medical professional.
+
+“There's no way I'm going to have any kind of Auras like them.” Tiyaphi said with a sad smile.
+
+“I wouldn't be so sure of that.” Ren said and stepped close.
+
+“I'm only a two stage, Ren.” Tiyaphi reminded him, needlessly. “All my power went into healing.”
+
+“Yes, and that's where your Aura will come into play as well.” Ren took her hands and held them, then kissed the fingers. She was about to say that human custom didn't turn her on in the least, then he gave the back of each hand a long lick. She shivered at the double greeting, then he locked gazes with her. She felt his intense stare and didn't flinch at all.
+
+“Ren, what...”
+
+“You gave up being like everyone else and chose to devote yourself to healing.” Ren said. “It's an honorable profession and I have the utmost Respect for you and the things you do.”
+
+Tiyaphi gasped as she received a large amount of Respect from him.
+
+“Unlike a lot of others, healing people isn't as frequent a task as fighting or doing other jobs; but, that's a good thing. Your skills are usually only needed when things go bad.”
+
+Tiyaphi nodded slightly, and Ren closed his eyes.
+
+“I know there's something here. There has to be.” Ren said, and she felt his confidence and surety. “There's no way someone as powerful as you would lose a transformation stage and it only increased your healing limit.”
+
+“But... not even...”
+
+“Ah, there it is.” Ren said and she felt something touch her deep inside.
+
+“Wh-what... what is it?” Tiyaphi asked as she felt it, too.
+
+“Beholo, the healer I met in the caravan, used an ability I hadn't seen before.”
+
+“Do you mean his 'Reform' skill?” Tiyaphi asked.
+
+“Is that what it's called?” Ren asked, and she nodded. “Well, it got me to thinking. He's not that powerful of a healer if he can't recover quickly, and yet he had that great ability.”
+
+“But, he was...”
+
+“Since you are much more powerful than him, you must have something similar inside of you.”
+
+“Ren.” Tiyaphi talked in the tone of voice that you would use to explain things to a child. “Skills like that can't be learned. You have to have an innate ability for...”
+
+“Tiyaphi, do you trust me?”
+
+“We only just met yesterday.”
+
+“I know.” Ren smiled. “Do you trust me?”
+
+“It's crazy, but I do.”
+
+“Equip your adornments, please.”
+
+Tiyaphi did so, and her body shook as she was filled with the Energize spell, Regeneration, Mana Generation, and a Mana Boost to put her Mana total to one she had only dreamed of.
+
+“Now concentrate on the feeling I'm holding for you.” Ren said, and she did. Her mind turned inwards and she followed his ability deep inside herself until she reached what he had poked.
+
+“Wh-what... what is... it can't be.”
+
+“But, it is.” Ren said and pulled the Reform Aura out of her.
+
+“GAH!” Tiyaphi gasped as the 25 foot Aura popped into place and she felt everyone around her through it. It let her know that their bodies were intact and they felt in good health. “I... Ren...”
+
+“Any medical professional within your Aura will automatically defer to your judgment, too.” Ren said and let her hands go. He hadn't been surprised that each task had been slightly different to get the Auras out of them, since he had experience with the Dark Elf child and getting her Aura out was different, too. On the other hand, the three women were quite surprised that he hadn't handled them the same way.
+
+“Like I told Dilseffa earlier, everyone is different. I didn't think doing the exact same thing with each of you would work.”
+
+“We each received our own attention from you.” Yuwen said, a little stunned.
+
+“I try to do that with everyone in my life.” Ren said and motioned to the table for them to sit again, and he felt how much they appreciated his intention to spend personal time with them. “It's one of the main reasons I have the statue.”
+
+While the three women thought about that, Ren took out a copy of his Stat books. They stared at the books as if they were national treasures, and he felt their dedication to him grow.
+
+“They can be read each day and you will gain one point in your stat for each of them.” Ren said.
+
+Tiyaphi picked up the top book for gaining Wisdom and hugged it. “We know, Ren.” She said and closed her eyes. “The sacred texts can only be read once a day and they go blank, so that the next person can read it the next day.”
+
+“You have access to these already?” Ren asked, and felt their reverence.
+
+“Oh, no.” Yuwen said and touched the next book, which was for Strength. “Only the heads of our families are granted an audience at the capital to use them.” She stopped touching the book. “Sometimes, if they are worthy, the family head gives his turn to a member of his family instead. That you have a whole set for us to use is beyond anything we could have imagined.”
+
+“You shouldn't have said that.” Ren grinned, and the three of them looked at him with wide eyes. “This set of books are yours, Yuwen.”
+
+“WHAAAAATTT?!?”
+
+“As the First Mistress and the head of the household, the first set is yours.”
+
+“My... my...” Yuwen was stunned beyond belief, and a glowing hand touched her shoulder. She calmed down and looked at Tiyaphi, who smiled at her and gave her the Wisdom book she held.
+
+“I... I will guard them with my life!” Yuwen said and hugged the book to her chest just like Tiyaphi had. “I will share them with...”
+
+“You will not share them.” Ren said, and she gasped.
+
+“B-b-but...” Yuwen tried to object, and he felt the dismay and disappointment from Tiyaphi and Dilseffa.
+
+“These books are yours and you will read them every day.” Ren said.
+
+Yuwen took in a deep breath and let it out, and fought her urge to argue. “I... I will abide by your command.”
+
+“Good.” Ren said and chuckled.
+
+“What's so funny?” Yuwen asked. “You gave me priceless treasures and told me not to share them with my fellow Mistresses!”
+
+“You're all reacting to the assumption that I only have one copy of the books.” Ren said and almost blew their minds when he took out a second set. The three women caught their breath as he put that set in front of Dilseffa. “As Second Mistress, this set of books is yours and you will not share them.” He smiled. “Because you don't have to.”
+
+“My King... I... Ren...” Dilseffa put both hands on the stack of books. “You can't... these are...”
+
+“It's all right.” Ren said and took out a third stack of books and put it in front of Tiyaphi. “As Third Mistress, these are your books and you will not share them.”
+
+Tiyaphi was the one that could stay calm and keep the others calm with her abilities, and she was flabbergasted at what Ren had just given her. The three women just sat there and stared at the books, and didn't say anything.
+
+“I'll leave you alone with them so you can start reading.” Ren said and stood up, and motioned for Artemis to follow him. “We'll be in bed.” He said and took Artemis' hand, then went to the bed. He tried not to laugh as he felt the three women try to come to grips with owning national treasures.
+
+“I think it's the 'not sharing them' that's bothering them the most.” Artemis said.
+
+Ren chuckled as he made a wall between the bed and the table that the women sat at. “That's why I said it.” He said and climbed onto the bed and stored his clothes. “It was the best way to get them to accept the books and not make a fuss.”
+
+Artemis shook her head and stored her clothing, and climbed on top of him. “I'm going to steal Lara's words for a moment.” She said and joined with him. “You're so bad.”
+
+Ren grinned as he reached up and caressed her breasts, then they made love as she rode him.
+
+*
+
+“Is he serious? He can't really give us these... these...” Dilseffa couldn't describe the three piles of books in front of them.
+
+“We can't even share them.” Tiyaphi said and touched her copy of the Wisdom book. “I know several healers that would give me their first born for this book.”
+
+“We can't tell anyone that we have them.” Yuwen said.
+
+“Why not?” Dilseffa said. “If people knew that Ren has the sacred texts, his Respect would rise to heights none have seen before.”
+
+“Dilseffa, he gave us the sacred texts.” Yuwen said. “If people found out he had so little Respect for them to give to mere Mistresses...”
+
+“He does Respect them.” Tiyaphi said, and the other two women looked at her. “You could feel it, couldn't you? As he gave them to us, he knew their true value and was giving them to us anyway, so that we could better ourselves.”
+
+Yuwen and Dilseffa closed their eyes and tried to look past their shock to feel the other feelings they had felt in the last few minutes.
+
+“He... he really does know their value.” Yuwen said.
+
+“He wants us to be stronger.” Diseffa said, surprised. “He wasn't exaggerating.”
+
+“It's amazing.” Tiyaphi said. “He only just met us, and we have already become his concubines, gained Countess titles, and own our own sets of sacred texts.”
+
+“Not to mention the wardrobe and jewels.” Yuwen said and pointed to Tiyaphi's diamond necklace. “You're still wearing them.”
+
+“He didn't say I had to take them off.” Tiyaphi said with a smile, and Yuwen chuckled.
+
+“Will you do everything he says?”
+
+“Without question.” Tiyaphi said. “Not because he's done so much for me in so short a time, either.”
+
+“Then why?”
+
+“You felt him when I... when we...”
+
+“Oh, did I ever.” Yuwen said. “I won't balk at the grooming tomorrow morning.” She purred a little. “I hope he does to me what he did to you.”
+
+“Can you hold your change off that long?” Tiyaphi asked, and Yuwen shrugged.
+
+“I wonder if I'll get a turn before he has to leave?” Dilseffa asked, and both women looked at her.
+
+“He pleased me this morning, and he didn't try to grab my ears or my fluffy tail.” Dilseffa said. “I didn't get the chance to give him Respect for it at the time, since... since...”
+
+“You felt too good to do anything else.” Yuwen said, and she nodded slightly. “He said we had two more days, so I think that's why we do.”
+
+“He wants me to have a turn grooming him.” Dilseffa said, a little surprised and a little flattered. “I hope he does, after the two of you do it.”
+
+Yuwen chuckled. “Don't worry, my cute bunny friend.” She said and put an arm over her shoulder. “He's predator enough to gobble the two of us up and still have lots of room for a tasty little morsel like you.”
+
+Dilseffa's face flushed red, and she nodded slightly.
+
+“We better start reading, or we won't finish before lunch.” Tiyaphi said and opened the Wisdom book. “I hope we can finish before lunch.”
+
+Yuwen laughed. “I'm making lunch, so there's no need to worry.”
+
+“Good point.” Tiyaphi said with a smile, and started to read. Yuwen and Dilseffa picked up their favorite stat book, Strength and Agility respectively, and started to read as well.
+
+*
+
+Ren and Artemis stayed in bed for several hours. They played and cuddled and enjoyed each other like old lovers do. Sex was involved occasionally; but, it wasn't the focus of their time. Just being there with each other was what mattered. When Ren felt Yuwen's resolve to make lunch, he called an end to his antics with Artemis and they left the bed and went to the table to see that the books were gone.
+
+“You finished.” Ren said and felt the three women's happiness at completing the task. He went to Yuwen and licked her cheek. “Good job.” He said and went to Dilseffa and licked her cheek. “You did well.” He said and went to Tiyaphi and licked her cheek. “Great work.”
+
+“Are you going to do that every time?” Tiyaphi asked, jokingly.
+
+“If I'm here, yes.” Ren said. “Yuwen, can I help in the kitchen?”
+
+“If you want to.” Yuwen said.
+
+“I can show you some tricks and...”
+
+“We can all help!” Dilseffa exclaimed, and everyone looked at her. “Ren, can we have aprons?”
+
+“Sure.” Ren said and gave them aprons, and they all went to the kitchen and prepared lunch for themselves.
+
+“Throw it, Ren.” Teepo whispered as Ren picked up a thin slice of meat to add to the sandwich he was making.
+
+What? Ren thought to his friend.
+
+“Yuwen's concentrating too hard on making something in front of you.” Teepo said. “Throw it.”
+
+Ren smiled and pulled his hand back and flung the piece of meat across the counter and it made a slapping sound as it splatted onto Yuwen's face and stayed there.
+
+“FOOD FIGHT!” Teepo yelled and flew down to grab a thin piece of meat and flung it at Artemis. It hit her arm and made the same slapping sound as it splatted and fell off.
+
+“Oh, it's on!” Artemis exclaimed and grabbed a handful of lettuce and threw it at Teepo. He flew out of the way and the lettuce hit Ren in the face. “Oops!”
+
+Ren grinned evilly as he picked up his half-made sandwich and threw it at her. She batted it away and its contents sprayed out and hit Tiyaphi on the chest and Dilseffa on the arm. Yuwen peeled the meat off of her face and looked at what was happening, and saw Artemis grab several slices of bread and start to throw them like they were bombs. Ren, Teepo and Artemis laughed as they dodged and grabbed ammunition from the counter, and Yuwen, Dilseffa and Tiyaphi exchanged glances.
+
+“What are you...” Yuwen stopped talking as a piece of bread bounced off her forehead. “Hey!”
+
+“No bystanders in a food fight!” Teepo chittered in laughter and picked up another piece of meat. “Tiyaphi! Catch!”
+
+Tiyaphi turned her head just in time to let the thin slice of meat hit her chin, and it flipped over and landed on Dilseffa's chest.
+
+“Ooo, you little...” Dilseffa grabbed that slice of meat and flung it back at him. Unfortunately, she wasn't great at throwing odd-shaped things accurately, and it went off to the side and slapped the back of Artemis' neck.
+
+“Target acquired!” Artemis chuckled and diverted her next attack to Dilseffa, whose eyes widened as a deluge of salad ingredients flew towards her. Suddenly, Ren was there and jumped up, and all the things hit him in the chest and the salad dressing splattered and made them stick.
+
+“OH, NO!” Ren yelled and put a hand on his chest and fell backwards. “I'm hit!”
+
+Dilseffa caught him and eased him down to the floor.
+
+Ren reached up and touched her cheek with his wet hand. “A-avenge me.”
+
+Dilseffa nodded slightly and put a hand over his eyes to close them, then stood up and grabbed several carrot sticks. “RAWR!” She yelled and jumped into the food fight. Tiyaphi and Yuwen saw her going at it and exchanging blows with Artemis and Teepo. The two women looked at each other, smiled and grabbed some ammunition, then joined in on the fight, too.

@@ -1,0 +1,171 @@
+---
+id: 152cf6e4-fc1c-5f60-bce6-a3d88b29eccf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 664 - Arena Fight: Part 1"
+slug: 0665-chapter-664-arena-fight-part-1
+partOf: mythrans-master-of-all-continued-completed
+position: 665
+ownLength: 3144
+unit: words
+publishedAt: 2018-08-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/242407/chapter-664-arena-fight-part-1"
+royalRoadId: "242407"
+---
+
+Artemis didn't even stand up as she shouted. “FIGHT!”
+
+Notice!
+
+You have entered PvP Mode: Duel
+
+Ren had the ability 'Imposing Figure' that gave his opponent the 'Caught Flatfooted!' condition, which let Ren always attack first in a fight. He activated his party ability, 'Take Them Down', which gave him the Killing Blow special rule. The ability was mastered and added to his Headhunter title, so he had a 75% chance for a one hit kill with his first attack, and would receive a free attack after that. He then activated 'Opportunity Knocks', which doubles the damage he dealt within his Aura, and activated 'Hail Of Arrows' which magically multiplied any friendly projectile fired within his Aura and added 10 copies.
+
+Everyone in the stands gasped in shock as they saw these buffs appear on the large screens, and saw their area of effects. None of them had ever seen this before, and most of the spectators looked at the screen instead of at the real fight in front of them.
+
+Ren activated his platinum shield's small spike-covered cover, and 2,000 metal spikes extended out to a foot in length instantly, then fired. His activated abilities made the projectiles become 22,000 metal spikes as they shot across the 200 feet and stopped a foot away from Glastor, who had erected a Mana Shield Wall and stopped all of the projectiles.
+
+Ren activated the Fireball wand on his right shoulder and used it to shoot a single Giant Fireball. His ability added 10 times as many, so 11 of the 50 foot wide fireballs shot across the short distance and struck the wall as one, then exploded. The enormous ball of Fire stopped moving outwards and slid over the wall onto Glastor. He yelled in surprise and the Mana Shield wall collapsed.
+
+Ren used his ability Possession Restoration to reform his shield covering to its original state and fired it again. His ability added 20,000 magically duplicated metal spikes to the 2,000 real metal spikes and the armor Glastor wore was peppered with the spikes and clanged like rain. Some of the spikes stuck in and some scratched the armor's surface; but, most of them just bounced off or were deflected because despite their speed, they weren't very heavy.
+
+“HAH!” Glastor said and waved his sword, and the Fire around him was dissipated by a harsh wind. “Nice distraction.” He said and pointed his sword at Ren. “You're the first to get by my Mana Shield.”
+
+“They don't call me Ren the First for nothing.” Ren said.
+
+Everyone in the arena, and those who watched at the various places all across the country, saw the Mana Shield information, as well as Ren's title Ren The First.
+
+Glastor smiled and his sword started to glow. “I've been waiting to use this on someone worthy!”
+
+A bolt of Lightning formed and struck the sword, then another and another, and a Ball of Lightning formed at the sword tip.
+
+“NO!” Someone in the crowd shouted. “It's Chained Lightning!”
+
+“Knowing its name doesn't help!” Glastor yelled and swung the sword above his head then whipped it at Ren.
+
+It helps the people watching. Ren thought and pulled his platinum shield in front of himself to block the hit.
+
+“You're wearing metal you fool!” Someone else shouted as the Ball of Lightning struck the shield and exploded into 6 individual bolts. Those bolts formed 6 Balls of Lightning at their ends 10 feet away in a circle around Ren and they slammed into him from all sides. There was a blinding light for a moment as the Lightning discharged, then Ren moved the tower shield out of the way to show everyone that he was unharmed. He had a telescopic pole with guide wires jammed into the earth at his feet and the Lightning swirled around it.
+
+“I think this is yours.” Ren said and picked the pole up and threw it back at Glastor. He dodged out of the way as the pole flew across the 200 feet. Since it was a projectile used inside Ren's Aura, 10 more magic duplicate poles with the same Lightning contained, formed around it. The real one landed right where Glastor had been standing and the 10 surrounding it landed a few feet away in an equally-spaced array around the first. An instant later they exploded as one and a hundred Bolts of Lightning shot out in all directions from each of them. No less than 50 of the bolts had crisscrossed and struck Glastor, which pitted and scorched his golden armor where they struck.
+
+Glastor rolled and tumbled away and skidded to a stop. He was down on one knee, and smoke billowed from him. “I knew coming after you was going to be fun.” He said and stood up, stored his sword and took off his shield. He stabbed the bottom of it into the ground, activated a special ability that Ren saw on the screens called 'Reverberate', then Glastor punched the metal shield.
+
+The shield rang like a wind chime and he punched it again, and again and again. Each punch increased the sound produced, and Ren felt something hit his armor. The ground started to shake and the impacts on his armor came faster and faster. He felt it on his skin, despite the armor's massive protections, and he realized why that was. Ren stored his shield and the hammerpick, brought out two large flat metal plates that he had left over from building materials, and slammed them together over and over as he clapped his hands.
+
+Glastor stopped punching his shield when Ren started to counter his shock waves, and he laughed again. “You're pretty smart.”
+
+“I am Crazy Like A Fox.” Ren said, and the screens showed his Wisdom and Intelligence bonuses that title gave him. “I'm also a Patron of Knowledge, but that's not really the same thing.”
+
+“That's how he gained normal access to the back areas of the Library.” Lara, the Sage of Ages said. “It was the most annoying and best day of my life.”
+
+That made both Elise and Denise laugh.
+
+Glastor picked up his shield and it was slightly bent. “Damn, these things never last.” He said, gripped the edge of it and bent it back into place, then threw it like a discus. Ren watched it sail to the Magical Barrier of Protection, bounce off on an angle and head straight for him. He cast an Iron Wall in front of himself at an angle and cast Bounce on it, a new spell he had gained, then made another wall 30 feet away and put Bounce on that as well.
+
+The shield hit the first Iron Wall with a loud clang and bounced off at twice its normal speed, then hit the next wall and bounced again. Glastor had stood there and watched in fascination at the improvisation, as did everyone else, and they all groaned as the shield missed Glastor by over 50 feet, careened off the magical barrier, and jammed itself down into the dirt 25 feet away from that.
+
+Ren felt the crowd's disappointment, and he turned to them and waved. “I didn't take into account the wobble added from the Bounce spell! Sorry!”
+
+That made a lot of people laugh, including Glastor, until Ren used his Elemental Grenade ability and charged up the two large metal plates he still held in his hands. Ren threw them like a Frisbee on its side and they flew across the space and jammed into the dirt at Glastor's feet. He jumped out of the way as they exploded, and bits of shrapnel covered him and the magical barrier for a hundred feet.
+
+“You're actually enjoying this, aren't you?” Glastor asked as he stood up and wiped off his armor.
+
+Ren nodded. “So are you.”
+
+“Shall we up the game, then?” Glastor asked and held his hands out to the sides at shoulder height. Ren felt his Void Sense Aura vibrate as a shadowy cloud formed behind Glastor.
+
+“What are you doing?” Ren asked.
+
+“Having fun, of course.” Glastor said then smiled. “I call upon the Gates of Hell! Open for me! Let those that worship the Void spring forth!”
+
+“NOOO!” Hundreds of players yelled as dozens of void creatures slid out of the shadow cloud. Ren waited until he felt no more were going to come out before he activated his armor's Light runes.
+
+“Skreeee!” Several of the void creatures screeched and averted their gaze, but a lot of them didn't have eyes.
+
+“I call upon the power of Light!” Ren chanted and held his left hand out to the void creatures. “Dispatch these foul creatures and send them back to where they came!”
+
+The giant wand he had attached to his left shoulder glowed with both Holy Light and Anti-void energy, and he fired. That one large discharge had 10 times as many added to it and combined, and Ren activated his own Anti-void runes in his armor, just in case.
+
+All of the creatures reared back in pain, then they were all struck with the powerfully-charged Ball of Light. Most of the creatures exploded immediately as a good portion of them were hit directly, and the rest had some arms and some legs blown off. The creatures collapsed barely 20 feet from Glastor, and he stared down at them.
+
+“Get up, you worthless degenerates!” Glastor said and kicked the closest one in the head. It disintegrated and he roared a yell. “He's right there! Get him!”
+
+“Too... powerful.” One of them grumbled, and Glastor took out a large crossbow and shot the creature in the head.
+
+“Who are you more afraid of?” Glastor asked and shot another in the chest, but didn't kill it.
+
+“You.” One said. “Either way, we die.”
+
+The ones that were still alive tried to crawl back on their remaining limbs to the shadow they had come from. Glastor dismissed the shadowy cloud, and Ren felt despair from the void creatures.
+
+“Wow, you have no idea how to do that properly, do you?” Ren asked, and Glastor shot at him with the crossbow several times. The bolts bounced off of Ren's Mana Shield that covered him like a dome. “Shall I demonstrate?”
+
+Glastor stored the crossbow and took out another shield and a different sword while Ren took out a round cut diamond that was 4 inches wide and held it up high. Everyone in the crowd, except for the people that knew him, were stunned at the sight. He poured Mana into the jewel and it started to glow.
+
+“I call upon the Blackest Steed!” Ren said in his Command voice. “Come forth from the darkness and do my bidding! I willingly offer this gem for your service! Come forth, my Nightmare! Come forth now!”
+
+The Light his armor emitted had dimmed so he deactivated it, and the void creatures still alive sighed in relief. A swirling black portal appeared 10 feet from Ren and expanded, then a 10 foot tall and very muscular black steed sauntered out of the portal. The eyes glowed red and the mane and tail were the colors of bright blue flame with licks of orange, yellow, and red on the tips.
+
+Even the people that knew Ren were surprised by this, and they watched as the large horse neighed at Ren and tried to take the gem from his hand with its lips.
+
+“Hey, now. You need to do me a favor first.” Ren said and pat its nose, and it clacked its teeth at him, which made Ren laugh. “Don't worry, it's only simple for you.” He said and pointed. “Please dispatch those Void creatures and put them out of their misery.”
+
+The Nightmare glanced at the dozen or so creatures, huffed and nodded, then suddenly it wasn't beside Ren anymore. Bright blue flame spread out from Ren towards Glastor instantly, who was about 150 feet away, then most of the remaining void creatures screamed in pain as they were covered in blue flames and then squished by some unseen force.
+
+The Nightmare reappeared with its face right in front of Glastor, who took a step back as the large horse stomped its hoof on the last void creature at its feet. It then trotted around Glastor in a circle, huffed its derision, then disappeared again. The blue flames flowed back over to Ren and then the large horse appeared in front of him.
+
+“Thanks a lot.” Ren said and took out a bundle of carrots. The Nightmare looked at him with squinted eyes and smoke trails came from its nostrils. “No, no. I'm not tricking you. It's just a bonus.” He said. “I'm giving you carrots...” He lifted the bundle. “...before giving you carats.” He lifted the large diamond.
+
+Several groans came from the crowd, but also some laughter.
+
+“You can't eat them with the diamond in your mouth, so it's your choice what to take first.” Ren said and held both things out.
+
+The Nightmare glanced at the diamond and then at the carrots, huffed acceptance, and took a big bite of the carrots. Ren was careful to keep his hands away from the creature's mouth while it ate. It finished the carrots off quickly, and then it used its lips to suck up the diamond. The black swirling portal opened again and enlarged, then the Nightmare turned towards it.
+
+“Thanks again!” Ren said and waved to the Nightmare. It snorted at him in amusement, then sauntered back through the portal to wherever it had come from.
+
+*
+
+“What the hell just happened?” Dana asked loudly, and several people around her laughed.
+
+“I think the bad guy just got schooled on how to properly summon a creature.” Gretchen said.
+
+“I thought he was here to fight, not show off.” Dana said.
+
+“I think it's both.” Gretchen said, and then she felt like someone was staring at her. She turned her head to look several rows back and saw that the tall Dark Elf woman that had appeared through a portal was looking right at her.
+
+“What do you mean?” Dana asked, and Gretchen turned her head to look at her friend.
+
+“They both want to show what they can do, before they start getting serious.” Gretchen explained, and then she felt a hand on her shoulder. She turned her head the other way and saw the short Dark Elf that had come through the portal with the tall one. Tiatha nodded to her and sat back as she let her shoulder go.
+
+The women nearby gasped at something, so Gretchen looked back at the arena to see Glastor was covered in green flame. She had no idea what had happened, then the guy lifted his sword and the green flame flowed down his arms and covered the blade. He took a swing in the air and the blade of the sword disappeared... then reappeared next to Ren and swiped at him.
+
+Everyone was surprised that it was inside Ren's Mana Shield, and he tried to block with the platinum shield. The blade slid along the shield and sliced the spiked cover in half. Glastor swiped to the side and the blade next to Ren swung to the side as well and cut into the shield covering again.
+
+“How is he doing that?” Dana asked.
+
+“I don't know.” Gretchen said and saw Ren duck as the sword blade swung down onto the top edge of the shield and dug into the platinum surface by almost half an inch. Come on, Ren! She thought, a little desperately. Show him your stuff! Show us all your stuff!
+
+That thought made her think of their encounter the day before, and her face flushed slightly red.
+
+Okay, maybe not all of your stuff. Gretchen thought, and then held in her laugh as she imagined Ren storing all of his clothing and fighting in his underwear. That made her think of the frilly underwear she had worn under her Travelling Clothes, then she imagined him wearing those... and she laughed at the thought... right when the sword blade swiped at Ren from behind and dented his helmet.
+
+Everyone turned to look at her in surprise and her face burned bright red. Gretchen clamped her mouth shut and didn't say anything, and everyone looked back at the fight.
+
+*
+
+Ren dismissed the Mana Shield because it wasn't helping at all against the phantom sword, and the sword's partial intangibility was difficult to fight against. He had tried to dispel it, disenchant it, move it, block it, and deflect it... and none of them worked.
+
+It has to be a skill. Ren thought and jumped 30 feet to the side and out of the way. The blade disappeared from where it had just swiped and reappeared next to him. Let's see if it's based on sight.
+
+Ren cast Obscuring Mist on top of Glastor, and since it was the Master Level spell, it was a cylinder of cloud 50 feet in diameter and 50 feet high. Ren jumped another 30 feet to the side and the phantom sword kept swiping at the spot he had been and didn't change to where he was now.
+
+Ha. Ren thought and cast Obscuring Mist on himself, then used his Displacement ability and made a copy of himself 20 feet away. He turned invisible and took out the Staff Of Earth and activated his Hands of the Gods ability Rocky Hands, and made a series of earth and rock walls in front of Glastor and himself. Using his Heat Sense Aura, he knew exactly where Glastor was and put various obstacles in the way.
+
+*
+
+Glastor couldn't see anything and stopped using his Phantom Sword ability. He stored that sword and took out another instantly, chose the Windstorm effect from it, and swiped the sword at the Obscuring Mist. It cut the mist and pushed it away, dissipating it, and he saw 10 foot high staggered dirt walls in front of him.
+
+Glastor smiled and changed swords again, chose the Earthbane effect, and swiped at the closest wall. He had thought they were Earth-based spells and would disintegrate, so he was surprised when all the sword's effect did was cut a huge gouge out of the wall and it only partially crumbled. He bowed his head in respect and took out another Reverberating Shield, jammed it into the ground, then slid the sword into the slot on the top of it and started to punch the shield like he had before.
+
+This time, the Reverberate effect of the shield combined with the Earthbane effect of the sword, and the vibrations spread out. He didn't target Ren, he targeted the Earth walls... and the resulting shock waves started to shake all of the Earth-based constructs apart.

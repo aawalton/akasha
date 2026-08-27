@@ -1,0 +1,155 @@
+---
+id: 4b0fb823-5d84-5f41-b5c3-5821c2468631
+page-type-slug: story-chapter-royal-road
+title: "Chapter 31"
+slug: 0036-chapter-31
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 36
+ownLength: 2638
+unit: words
+publishedAt: 2026-06-19
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3560262/chapter-31"
+royalRoadId: "3560262"
+---
+
+The dry soil underneath my feet crunched and tore as I flung myself with full speed at Harten, the huge Tavungor.
+
+Judging from the wide-opened eyes underneath his drooping eyebrows, he hadn’t expected that. Of course, if you were outnumbered, outgeared and outleveled, going after the biggest, toughest opponent didn’t seem to be a winning proposition. True – if I planned to actually take him on in a straight-up battle.
+
+Say what you will about the huge, ape-like man. He had experience. Not only was the widening of his eyes the only sign of surprise. Straight away, his posture adjusted, as he stood on his hind legs, rising and rising into the air. At three meters of height, with long, heavy arms spread wide, he was ready for me. Now, I could see that his chest and legs also glinted bronze, adorned with heavy armor of some sort. Walking into that monstrous embrace would definitely lead to broken ribs and an early death.
+
+I noped out. A few meters before Harten, I juked left and then sprinted right, as fast as I could. He roared in surprise, front limbs shooting out to catch me. Too late. He turned to lumber after me, but I was already past.
+
+An arrow nearly nicked my leg, but I saw it coming in low and vaulted over the arrow, rather than slow down.
+
+My actual target was ready for me.
+
+Lassem, the lowest-levelled of the bunch, stood in a low position, bident ready, left hand light on the shaft. He shuffled around, feet moving in a way that showed that he was practiced in swift repositioning. The two-pronged spear flicked out at my midriff, more an attempt to distract than cause real damage, judging from the lack of real force behind the attack.
+
+Unfortunately for Lassem, that was the exactly wrong move.
+
+With a grunt of exertion, I activated two talents simultaneously. Deflect engaged, even as I, shield tilted to the side, took his attack and pushed it away. The look in his eyes as his bident was jerked sideways, tossing him to the ground, was hilarious. He cried out in equal parts pain and shock as my Wave of Reflection responded a split-second later, tearing through his midriff.
+
+Then, I leapt back and readied myself for the real attack. Defense. Whatever.
+
+She didn’t disappoint. In the seconds since I’d flung her kin on his ass, the archer had been repositioning herself to get a clear shot on me. An arrow tore through the air with a crackling sound, straight at me.
+
+If I hadn’t expected it, the shot would’ve torn straight through my throat. But it was the exact point of me getting into close range. Seeing the enemy get himself bogged down in close combat and rewarding him with an arrow to the face? It was the only logical approach for her.
+
+She looked fast and agile, even more so than her kin. However, she was less than fifteen meters away from me. Easily within range of my Wave of Reflection.
+
+The arrow struck the top of my battered shield dead on. My punitive wave of dark energy struck her in the face a second later.
+
+Then I nearly died.
+
+It wasn’t the arrow itself. It did penetrate my shield and got itself well and truly stuck, further ruining the already questionable structural integrity of my shield. Yet, the momentum and damage from the missile itself were negligible.
+
+However, the moment it struck my shield, an overwhelming avalanche of energy tore through me. It rattled my bones, made my teeth taste like metal and locked up every muscle in my body.
+
+I couldn’t tell if I screamed. I could only tell that I smelled my flesh sizzling. Then, I felt another sharp pain, and I was falling.
+
+The spear-wielder saved my life - by stabbing me. That realization didn’t arrive until way afterward. Right this moment, I could only sense my leg giving away under me and my shield flinging me back, even as a shadow fell over me.
+
+I dropped to the ground, rolled frantically twice, and then forced myself back up, ignoring the insidious shooting pain in the leg and in my shield arm.
+
+My mind felt sluggish. Apparently, Harten hadn’t missed me entirely, but since I’d already been dropping to the ground, I had avoided taking the brunt of the blow. Something in my shield arm felt wrong, and my shield was falling apart. But my arm worked. That was what counted.
+
+“Kissal! You killed Kissal, you son of a whore!” Lassem screamed. He was still kneeling, spear outstretched from where he’d stabbed me. All pain forgotten, he leapt back to his feet and charged at me.
+
+His loss of control was my salvation.
+
+Harten, with his massive body, was already running at me, but clumsily had to hit the brakes and pound one massive front limb onto the ground in order to stop himself and avoid knocking the sprinting Lassem over.
+
+Meanwhile, I flung myself back, my left leg barely working as I tried to avoid the flurry of blows coming at me from the completely berserk Adrastian. I sucked in my gut and turned, allowing one prong of the bident to scrape across my stomach instead of impaling my liver. The next strike struck the thick of my right triceps. Two additional blows went completely wide.
+
+Finally, my swordbreaker managed to catch the next attack, and I frantically flung my hurt arm out and to the right. Even with my injured arm, my improved Deflect kicked in, and Lassem flew off his feet again, arms flapping everywhere as he pirouetted twice in the air.
+
+I took one glance at the massive Harten, who’d regained his balance, and was now back up to lumbering after me. Then I ran. Secure in the knowledge that my life depended on it, I sprinted alongside the cliff’s edge, hoping that I wouldn’t stumble and fall, with my mind stuck inside my notifications.
+
+I tripped over a fist-sized rock on the ground, stumbling toward the edge. I caught myself with a graceless windmilling of arms. Then I finally located what I needed.
+
+Perforated muscle (medium)
+
+Your leg muscles have suffered medium damage and will require a period of rest to recover. Exacerbating the damage can cause this debuff to worsen.
+
+- 7 to Agility
+
+47 hours, 59 minutes remaining
+
+Cure debuff? Y/N?
+
+Yes! I slammed that mental button granted to me by the new rare version of Self-Heal as fast as I could, feeling an ice-cold surge rush through my leg and then… nothing. Blessed nothing. My shoulder still hurt like hell, my left arm was injured, and there were other debuffs waiting there – but I could run without issues.
+
+Glancing over my shoulder, I saw Lassem was back up and on the hunt. His purple face, even darker as he abandoned himself to rage, was contorted and inhuman, as he darted ahead, heedless of anything beyond taking me down.
+
+Hartem was a few meters beyond, plodding ahead like a machine, slowly falling further behind. But there was no way he’d be able to catch up to me, if I just managed to deal with the out-of-control spear wielder.
+
+Luckily, I knew just how to do that.
+
+I skidded to a halt. Then, judging the timing to be right, I activated Wheel of Magic, and prepared myself to defend from Lassem.
+
+For a split second, I was afraid the talent wouldn’t activate. Possibly, that stunning arrow that nearly got me killed wasn’t some sort of magical damage, but just a stunning effect or something. I didn’t quite sigh in relief when the bright wheel sprang into life around me, sporting different colours from all four spokes. But dammit, if I didn’t start grinning.
+
+If the raging spear-wielder had retained a smidgeon of self-restraint, he’d have backed off as the first missiles erupted from the colorful skill. Instead, he pressed on even harder, throwing himself at me in an all-in suicide attack.
+
+Five seconds. Five seconds of relentless, unending attacks, as magic sparked and sputtered at him from every spoke of the wheel in retaliation. He drew blood twice from glancing blows, and got me in the side with the blunt side of the spear hard enough that I lost my breath. Then, an errant missile rammed him straight in throat and… faded into the purple flesh. He immediately keeled over and started convulsing.
+
+“Boss.” Harten’s deep voice, for the first time, appeared disturbed, even as he continued his charge toward me. “I need you to help here. He can’t have much health left.”
+
+I started backing away. I was on the home stretch now. As long as I kept my distance from the huge creature, I’d be able to keep Wheel of Magic active and whittle him down, without having to come into close
+
+The tiny elfin character didn’t respond. He was busy rummaging through his backpack.
+
+The missiles flew from me. Red. Yellow. Icy white. Soylent green. Different colors than last fight. At this range, there was no chance of them missing. Still, it didn’t look like they had much effect on the tall Tavungor. Whenever something aimed at his face, he’d raise a huge limb to protect himself. Everything else, he simply tanked, letting it sizzle and slam into his bulk.
+
+For a while, I merely ran circles around the big guy. While I had no intentions of getting in reach of the ‘boss’ and letting him show off whatever he was capable of, I didn’t want to get too far away and let him run away either. Instead, I stayed in a healthy, hundred-meter range of the small figure, and at least a good twenty meters away from Harten to avoid him activating any talents or starting to throw rocks at me or something.
+
+Today, my missiles weren’t the strongest. As the talent description stated, their impact scaled with the magical damage I’d taken or blocked during a fight. Even so, the output was constant, varied through several different magic types, and, for somebody like Harten, pretty much impossible to avoid. I did my level best to concentrate and ensure that the missiles were focused at the centre of his bulk. As a result, very few of them missed.
+
+Harten was starting to look rather rough around the edges, when the elfin creature finally spoke up. In front of him, his backpack lay, emptied and discarded, its contents strewn uncaringly about. In his tiny golden hands, he held a set of what looked like 3d-glasses, but created in obsidian. He held them in front of his face and squinted in our direction. “Relief. I found it. Harten, there is no need for me to interfere. His health, surprisingly, remains above half. His talent, whatever it is, will be inaccessible a few minutes from now, however, since his stamina is running low. Impressive as he has been, his reserves are not unceasing. Your stamina should keep you up for a while still.”
+
+“Boss, I don’t think-“
+
+“Thoughtful. Maybe stop being hit quite so much.”
+
+“Boss, my health-”
+
+“Exasperated. Stop, Harten. I am not wasting precious materials for what is easily handled as is. You can handle this. I’d wager as much.”
+
+I very carefully didn’t respond. Merely kept my distance, took care to ensure that the missiles did their job. I checked my stamina and agreed with the tiny asshole. I would absolutely run out of steam before the big lump fell over, even if Higher Endurance would ensure that it’d be a close thing. Of course, there was one thing the tiny asshole didn’t know. And I was going to drag out his discovering it for as long as I possibly could.
+
+A few minutes later, the fight – or whatever you’d call my scrambling around to avoid clashing with the sentient tank – was drawing to a close. I watched as Wheel of Magic ticked once again, pulling my stamina down into single digits. There was sweat and blood everywhere. My wounds were stinging, and my limbs were aching. I was having trouble breathing.
+
+Harten didn’t look much better. In fact, he looked very much like somebody who’d acted the target board for an unceasing magical onslaught for the past several minutes. At some point, one fiery missile managed to torch the upper left straps of his chest armor, and since then, it hadn’t protected him fully. Hefty scorch marks and a constant stream of blood running from his stomach attested to that. His face was worse. With the constant barrage, he’d been unable to protect from every single missile. One eye was simply gone, the cavity a hollowed-out shell. His left ear had half-melted.
+
+The elfin creature had kept egging Harten on, making him push ahead hard in a bid to reduce my stamina as hard as possible. He’d done an amazing job of it, to be fair. Harten, to my displeasure, started flinging rocks, branches and anything loose and present at me, trying to nail me with a good throw. I had adjusted my distance accordingly. My Dodge skill was up for the challenge.
+
+Clearly, both Harten and I were doing horribly, and I felt like the walking dead. Now, it was time to end this charade! I juked to the side, putting Harten between myself and his boss, and activated the ability from Higher Endurance, refilling my stamina reserves.
+
+What a fucking rush! I’d trained for a marathon once. Never entered an actual race, because I had to move, but I still learned a bit about running and managing your reserves. This felt like pushing past ‘the wall’ on a long run, combined with the mental chill of a double energy drink and the full-body hit of dipping into an ice bath on top.
+
+“Boss?” Harten croaked, even as he fended off another missile.
+
+“Uncertainty. Speak up, Harten.” The small guy yelled.
+
+“Boss. I think. I think there’s something wrong.”
+
+I looked him straight in the eye and didn’t waver. “You bet your ugly ass there’s something wrong. You fuckers jumped me, for no good reason except you wanted to steal from me.”
+
+“Something is wrong. These seem to be… a moment, Harten.” He took off the glasses and frowned at them.
+
+“Boss!” Harten was clearly panicking now.
+
+I couldn’t blame him. I was running backward, facing him, meeting his gaze every single moment. Meanwhile, magical death reached out for him from every spoke of the wheel.
+
+“Help! Now! I-“ Harten turned beseechingly toward his employer. Unfortunately for him, the timing was really bad. Just as he turned, a dark and silver missile spat from a spoke and struck him right behind his remaining ear. His front limbs still moved normally, yet his hind limbs refused to hold him up, and he awkwardly sank to the ground on his side.
+
+I jogged closer, still keeping a safe distance, while keeping an eye on the smaller creature.
+
+Harten tried to defend himself with his front limbs. Yet, his back was defenseless, and enough parts were uncovered by armor that the missiles slowly ate into him with horrible, remorseless progress.
+
+The boss had grabbed a handful of clay items and held them cradled in his left arm. The arm was slowly inching backward, another item in his fist, as if contemplating to throw it at me.
+
+I spoke up, looking him in the eye, even as the missiles kept slamming into the downed Tavungor. “You try anything. Anything. And I won’t hesitate. I’ll move straight onto killing you next.”
+
+He gulped, eyes fixating on his spasming employee, who’d started keening in a surprisingly high-pitched key. “Realization. I have lost this wager.” Slowly, he knelt, placing several clay jugs carefully on the ground. “I surrender.”

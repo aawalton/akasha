@@ -1,0 +1,177 @@
+---
+id: 82ba8bf9-08ba-5f3f-b826-4855e8349605
+page-type-slug: story-chapter-royal-road
+title: "Preparations"
+slug: 0014-preparations
+partOf: new-gam3-plus
+position: 14
+ownLength: 2296
+unit: words
+publishedAt: 2023-11-28
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1424915/preparations"
+royalRoadId: "1424915"
+---
+
+Report for Duty!
+
+A mobilization of all player forces in the area has been ordered. Report to a nearby player forces gathering point to prepare for battle or be labeled a deserter.
+
+Priority 1 Mission: Surveillance is no longer available for the Pentagon Control Point location.
+
+Time Limit: 2 hours
+
+Note: Deserters are automatically hostile to the United World Government faction and will be shot on sight.
+
+Hostile actions detected!
+
+Bob has left your squad.
+
+Charlie has left your squad.
+
+What!? Alan thought.
+
+Answer the phone, Nu sent.
+
+“Hello?” Alan asked.
+
+“It’s Bob.” He sounded different than what Alan remembered—his voice cold and detached.
+
+“What’s going on, why—“
+
+“We have kidnapped Isaiah. In exchange for his release, you or Icewolf will provide a nuclear weapon with a minimum yield of 100 kilotons or 5 million credits in advanced armaments. We will reach out within 24 hours. Do not contact us. If our terms are not met we will torture Isaiah.”
+
+Bob hung up. The look in Ivy’s eyes told Alan she had gotten the same message.
+
+The two guards, meanwhile, converged on the fallen agent and administered a syringe that brought him back to consciousness.
+
+Analyst Woods spoke, “Alan, thank you for your cooperation. However, there is no record of a confrontation with the Emperor. You went to the Imperial Homeworld, Domus, but then returned to Earth.
+
+“Here, you stole three nuclear warheads—we suspect from Russia or North Korea’s stockpiles. One was used to destroy a capital-class Haxlard ship, but the other two remain unaccounted for. I assume you have no knowledge of these weapons or their location?”
+
+Alan shook his head. Icewolf asked if contingencies were still in play. This must be what he meant. Bob’s demands make a little more sense, but how would he know and what does he want with a nuke!?
+
+Ivy strode forward, holding her phone. On it was a picture of Bob—a tall, clean shaven man that looked to be around 200 lbs of muscle. “Do you know who this is?”
+
+Analyst Wood’s eyes flickered.
+
+She recognizes him, Nu sent.
+
+Woods glanced at Alan. She’d noticed his perception. “I may remember him from a classified briefing. Why?”
+
+“Because he took my fucking brother, that’s why!” Ivy shouted. “There’s one person on this planet that I would trade my life for—Isaiah—instantly and without question. He’d do the same for me. I’m not about to let him get cut apart!”
+
+“Ivy, calm down,” Alan said. “Maybe we can contact Icewolf. With his help—”
+
+“You should know better than that. Icewolf would rather do what’s best for humanity,” Ivy said scathingly. “There’s no way he’ll pay a ransom. My messages go unread. How could you let this happen? You were supposed to be protecting us!”
+
+Alan felt this accusation was unfair. Icewolf had been the one to hire the bodyguards.
+
+Icewolf’s intel shouldn’t be inferior to the WBI’s. Perhaps the quest to help the two siblings through the Tutorial was a trap, Nu sent.
+
+“I’m sorry, but I cannot disclose anything without approval,” Analyst Woods said. “The current war game, or actual war if Alan’s claims are true, comes first, and I have been ordered to a support position within the hour. Good day and good luck.”
+
+“I may be able to help, for a price,” Agent Suresh said. He was sitting up on the floor, though he still looked disoriented.
+
+“You can’t—”
+
+“What I do with my free time, with information I learn outside of work, is up to me. That is the law, yes? If the UWG cannot be bothered to pay for the restoration of Mumbai or Delhi, unlike London and New York, then it is up to loyal citizens to gather the funds to make our homeland whole again,” Suresh said.
+
+“It was a financial decision. Simple mathematics,” Woods said. “The invested infrastructure and established institutions meant that the restoration of cities in more developed nations would yield higher returns. It’s better for Earth as a whole. And Indian players when entering the Game—“
+
+“Are now spread out far and wide like so many others. No, no, I understand quite well how the UWG operates,” Agent Suresh said. His phone vibrated, and his eyes moved as if he had received an in-game alert. “I am to report in after all.”
+
+Suresh turned to Ivy. “The man is a member of Humanity First. Start there. If you require my services in the future, contact me, but that was the last free piece of information.”
+
+Ivy took a business card from the suited agent, memorizing the number on it.
+
+Analyst Woods handed over a small metal block to Alan. The miniature device was a data cube—a futuristic USB. “Alan, I know you are beset with problems at every corner. We all are. But you have established yourself as a powerhouse in Cyberspace. Help us find out what has happened to our people there. Safe travels.”
+
+Agent Suresh, Analyst Woods, and the two guards departed swiftly, following whatever orders they had received.
+
+I think they tried to good cop bad cop us, but instead, it was corrupt world agent and analyst with a stick up her butt, Nu sent.
+
+Alan connected to the data cube—the intricate circuitry on its surface lit up. The device contained the information he had requested: an overall lay of the land. It made apparent everyone was scrambling to deal with their own problems and ignoring the Authorities. Not that people were even aware of their existence. There was no information on the cube about what exactly Alan 1.0 had done after the Haxlard Crusade.
+
+Most players on Earth were in the C and D ranks, while most elites were B. Anyone with promise had left the solar system behind—there simply weren’t many powerful threats to level at A rank or beyond near Sol. People mainly gained experience by fighting other humans. Sometimes it was sanctioned and planned—more often it was not. Much of the planet had become like the Wild West, and there was a push to legalize duels. The hangup was not whether the fights should be permitted, but how much people should be allowed to bet and who would referee to maintain fairness.
+
+The United World Government was trying to maintain order, but it was struggling. Wars and other events had ruined multiple countries and countless cities, while higher-level players deserted or demanded outrageous salaries. There wasn’t room in the budget for global security, redevelopment, repairs, and advancement—instead, finances were devoted to purchasing capsules to get as many people into the Game as possible. No one knew what tomorrow would bring or who would even be in charge.
+
+The rights to natural resources in-game were being monopolized by large tech companies and state governments, while everyone invested in personal security. Private armies popped up like new social media accounts and were deleted just as quickly. Militias to defend rural towns were commonplace.
+
+The local makeup of the same area diverged wildly in and out of the game, with the Enforcers following the laws and tax rates of whoever held the control points. More developed countries tended to have a much higher population density in-game, as the people had possessed the capital to enter the Game in the first place and their advantage only grew. This resulted in a large migration of workers in real life to replace all the people now living virtual lives, though overall demand was down.
+
+The Enforcers held the rights to many real-life resources, but they weren’t attempting to collect on Earth, instead policing populated areas and industrial sites. The production of certain tools, foods, leisure goods, and medicines was allowed. Weapons, drones, and spaceships were not.
+
+Nu copied everything over to his own storage, which was connected to the capsule Alan had entered the Game through.
+
+Where am I in real life? Alan wondered. It hadn’t occurred to him until now to ask, demonstrating how low priority reality was.
+
+An Administrative Detention Center on Khersath, Nu sent. Under security, unable to leave your cell, I believe.
+
+“Humanity First,” Ivy said, venom in her voice, “was one of the groups that attacked the Enforcers in reality, and according to the globalnet they were all killed.”
+
+Alan shut his eyes to think. Were the two bodyguards meant to be a lesson from Icewolf? An impetus to push his children forward?
+
+The Capture Test had over 150 hours left, a little more than six days. There were so many paths before him, choices to make. What were his priorities now? The limitless possibilities within the Game felt constraining.
+
+Whatever move he made, it was unlikely to be the optimal one.
+
+Settle for good instead of great, Nu sent.
+
+But I want to be the best, Alan replied. That means surpassing expectations, exceeding the unknown. Reaching infinity—Aleph—must require perfection.
+
+There are hard limits to the scope of reality. No matter how hard you try you can’t put in 110% effort, but if you improve day to day, and don’t let setbacks push you behind, progress is inevitable, Nu sent.
+
+Alan took a few deep breaths—in and out. He opened his eyes.
+
+“Nothing has changed,” Alan said. “We still need to level up—to move forward. They can’t have taken Isaiah far. If we kill him and send him to respawn he’ll be free. Our orders are to mobilize and prepare for battle. Let us do so.”
+
+“You think I care about this stupid game?” Ivy cried, beginning to tear up.
+
+Alan didn’t know how to respond. The Game mattered, but how to communicate that and find the words to make Ivy see it was beyond him.
+
+Try, Nu sent.
+
+“Listen—if we become deserters any effort to rescue Isaiah will become harder. Furthermore, if Icewolf is unwilling to help then either we earn the ransom ourselves or we track down and defeat Bob. Both of those tasks require becoming stronger.
+
+“The Game lets you turn superhuman. There are so many abilities I’m unaware of, advances in technology and psionic abilities and who knows what else that could be the key to unlock a better chance at rescuing Isaiah when an opportunity presents itself. But that requires playing along, pushing yourself as hard as you can.”
+
+Ivy wiped her eyes. “Right.”
+
+I hope that helped, Alan thought.
+
+Effort matters, Nu sent. Ivy is more logical than you think, but there’s no way she’s okay. Her brother was kidnapped. Stop expecting the worst out of people—allies can be stronger assets than material objects, but they require trust.
+
+We were just betrayed, Alan sent, our ‘allies’ abducted a teenager in the hope of attaining a weapon of mass destruction.
+
+So we learned outside help is unreliable. That’s the joy of life—you get to decide who to trust. Sure, you’ll be proven wrong, but long-term you’ll be rewarded more often than not.
+
+I’m not good at connecting with people. I don’t have any idea what Ivy is thinking, Alan sent.
+
+So ask. Stop acting like a whiny child who has no semblance of an idea what a person is. Communication isn’t that hard. You’re people. She’s people. Open your mouth and start yapping, Nu sent.
+
+“How are you feeling?” Alan asked.
+
+“Bad. Obviously,” Ivy said. She sat slumped over on one of the folding chairs, phone still out. “Humanity First has no social media. They’re Luddites—no phones, no computers, nothing other than a handful of in-person interviews proclaiming these are the end times and that people need to rise up against alien invaders. They organized an assault on a real life capsule center, were all wiped out, and never heard of again. None of the anti-Enforcer terrorist groups have ever entered the Game before. Why now? What’s changed?”
+
+“We can’t know,” Alan said. “Maybe Bob does, and we can talk to him. Reason with him. Before you ask, I have no idea where any nuclear warheads are located, so I don’t think we’ll be able to pay the ransom.”
+
+“Sure, let’s bargain with a man connected to a band of resistance fighters that committed suicide by attacking aliens with rifles and homemade explosives. I’m sure Bob will be helpful and forthright,” Ivy said. She let out a groan. “When do you get to turn this game off? Take a break?”
+
+Alan smiled halfheartedly. “That’s the Game. Fights and struggles without end. Isn’t it great?”
+
+“You’re enjoying this?” Ivy asked.
+
+“Sure, it’s a video game,” Alan said. “Any damage can be restored with the push of a button. The universe is alive and evolving. It’s a virtual MMO of extraordinary difficulty—and you have to be willing to do what it takes to win.
+
+“I had this idea in my head that I’d level up and become so powerful that I’d be able to save Earth singlehandedly. I treated the Game like a typical RPG, where you explore zones and try to advance as fast as possible. I’d revisit Earth, wave my hand, and everything would be solved. That didn’t work. So I’m back again, to do a better job.”
+
+“Well, I got the battle map you wanted,” Ivy said, pulling the tablet device out from a pocket. “I ­traded for a spare with some ammo and beef jerky. Got the number of one of the guards too.”
+
+“Thanks,” Alan said. He took the battle map. “Besides, we still haven’t touched the best part of the Game.”
+
+“And that is?”
+
+“Upgrades. Check out the data cube—according to it the player forces gathering points are supposed to have capsules and a mobile armory. Figure out a character build to go for. With an AI as a spotter, an energy-weapon-based sniper worked well for me when I first entered the Game.”
+
+Ivy stood up. “Let’s go. The sooner this is done the better.”

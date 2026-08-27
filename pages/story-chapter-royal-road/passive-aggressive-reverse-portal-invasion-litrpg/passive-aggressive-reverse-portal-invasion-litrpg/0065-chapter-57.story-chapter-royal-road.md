@@ -1,0 +1,109 @@
+---
+id: a2077175-3c68-57ea-827f-af79d7eeaa8d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 57"
+slug: 0065-chapter-57
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 65
+ownLength: 2017
+unit: words
+publishedAt: 2026-08-18
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3829243/chapter-57"
+royalRoadId: "3829243"
+---
+
+“Fuck!”
+
+Cursing is a funny thing. It’s kind of like a spice. To me, it’s like salt. You rarely go wrong if you sprinkle a little on your meal. For some, it’s like pepper. You don’t want it with everything, but you wouldn’t make an omelet without a bit on top. Then you have the weirdos who just don’t like spices at all.
+
+Hearing Steve curse was the auditory equivalent of watching some preppy, upper-class wanker take a nice, fat bite of a Carolina Reaper for his afternoon tea. It had weight.
+
+“Fuck indeed.” Nix repeated, with a deep frown.
+
+I couldn’t even summon the energy to join the choir. I just stared down at the scene before me.
+
+We stood on a small hilltop. Nothing momentous, just a small rise granting us a bit of elevation, and the opportunity to scout out the Ever Steady without getting too close. Steve’s well-rested buff as well as his active buff, set to Perception, were both active, granting us all improved eyesight.
+
+At this moment, I’d rather cancel all the buffs and avoid taking in everything.
+
+The Ever Steady was gone.
+
+That wasn’t right. The bones of the human settlement, the foundations, were still there. Knowing what to look for, I could still see what the settlement had been like.
+
+The walls still stood. So did the captain’s bird tower, hovering above the centre of the settlement like a lone lighthouse holding out against the elements. That part was kind of amazing. A few human elements still prevalent. Yet, everything else had changed to fit the new owners.
+
+The Kadren, apparently, didn’t build. Not as such. They had raised the fallen wall segment back up, but that was the only nod to architecture I could see. Hell, the only nod to any sort of creation, it looked like. Where, before, the tent camps surrounded the walls of the settlement like a tight ring, now, the masses of Kadren flowed all over the place in an uncontrolled mass of shapes. I saw movement everywhere, beasts walking, fighting, copulating, leaving and rejoining the settlement alone, in smaller groups or large war bands.
+
+It was like watching an ant hive, only without the cohesion and organization, and with bouts of unbridled violence erupting everywhere. At the edge of the camp, I saw four Skreelings rolling on the ground, either fighting or engaging in some really non-consensual filth. A hundred meters away, it looked like a large Glimmerscale was eating one of the Riverkin.
+
+We also finally saw that Cuilcis had been right, again, about the Kadren. The fourth Kadren species had joined the mix. Here and there, dotting the area, larger bulks towered over the rest. Huge beasts, with even the lower-leveled ones towering over every other species. I watched a Level 16 one that was slumbering with its back against the settlement wall. Even curled up as it was, its back nearly made it halfway up the wall! Even in its sleep, the four-legged beast looked goddamn impressive. It looked like it should have fur, but didn’t. Rather, it had thick-ass scales covering most of its body, claws for days, and a jagged ridge along its length that looked like it was almost as tall as the body itself. And there were many. I counted at least fifty of them jotting the landscape.
+
+“That is a damn mess alright.” Nix said. “It’s like a frat party going on its seventeenth day, when everybody’s forgotten the original point of the party, and the drugs and alcohol have taken on a life of their own.”
+
+We all turned toward her.
+
+“What? We all have a past. Anyway. Looks like there’s one sort of organized area way back on the other side. Can any of you see what that is?”
+
+Steve nodded and pointed. “Fields. I can barely see where they’ve been tilled. And, if you look closely, you’ll probably be able to see sort of like a pen back there. My guess is that’s where they’re keeping our people.”
+
+I followed his finger, frowning. At first, it didn’t click. Then, I mentally recalibrated what I was looking at. When he said ‘pen’, my mind’s eye hadn’t been prepared for this. It was hundreds of meters on either side, packed with shapes on the inside. There had to be thousands of people crammed in there.
+
+On all sides of the pen, the land, which Steve insisted had been tilled, was empty. Then, regular business resumed, with the Kadren sprawling everywhere around that again. The scope of it was insane.
+
+I scratched my neck. “I know that I said we’d be able to do this. But I’ll be honest. I don’t know where to start here. What kind of numbers are we even looking at?”
+
+“Thousands. Well. Above a thousand, at the very least. I’d say they are somewhere between a thousand and two thousand.” Steve said with no hint of doubt. “It’s hard to say exactly on the other side, but assuming there’s the same number of beasts back there, that’s about where we’ll land. Also, have you noted, that they really act like one species? What I mean is, in nature, even when species cohabitate, they rarely sleep and live together. These do. And it really looks like they don’t gang up on each other. That’s rare.”
+
+I snorted. “Okay. Ignoring the Animal Planet commentary… two thousand! We won’t run out of targets any time soon. Should we sneak closer to look at their levels, get an idea of what we’re up against?”
+
+Steve smiled softly. “No need. My Identify hit the 25 mark a few days back, and I decided to improve my effective range. I can Identify everything I can see clearly, which is… pretty much everything from here and all the way to the bird’s tower.”
+
+Nix whistled. “I’m never dissing Perception again.”
+
+“As well you shouldn’t.” Steve admonished. “And I can confirm there is some sort of organization going on. Or, rather, a sort of hierarchy. It looks like they tend to congregate, not with beasts of their own kind like you’d expect, but with others that hold about the same levels as they do.”
+
+“Oh.” Nix blinked, then nodded. “I get that. I mean, given that they get smarter the more they level, they’ll want to hang out with others who’re at the same level of coherence as they are.”
+
+“You mean like the way the dumbest birds in class all ended selling skin care products on Instagram?”
+
+Steve ignored us. “It’s not like there’s a clear divide or anything. But the ones here on the outer edges are anything from levels one to ten. It slowly goes up, with those close to the walls closer to twenty. I can’t see beyond the walls, obviously, but judging from everything, I’d bet they’ve taken it as their central defense, and that’s where their really powerful fighters are.
+
+“More movement on the outer edges.” Haddock rumbled.
+
+I squinted, watching in silence to see what he was getting at. Steve and Nix debated whether it looked like anything had been added to the walls or not.
+
+Eventually, I saw Haddock’s point. “You’re right. When they come and go in large packs, it looks like those are the low-level ones. Those from closer to the centre go out in smaller groups. What’s that mean?”
+
+“Evolution.” Steve nodded. “Lower-leveled Kadren move and attack as a pack. With what Cuilcis said, I’m sure they wouldn’t move without a clear command from one of their leaders either. Then, as they level and slowly grow more self-aware, they likely form better, more efficient groups.”
+
+“They have fucking strike teams?”
+
+He chuckled. “I doubt it’s that advanced. At least until they evolve. But I’d put my money on them growing more aware of their own limits and advantages. Also, I just spotted one group on the far side that looks just like that. Five of them, all between Levels 15 and 22, ranging out together.”
+
+I scratched my head and stared at the scenery in front of us, trying to solve the equation. The fuzz on my scalp was slowly growing back in and I was happy to feel it. Being bald wasn’t for me. “So, what you’re saying is that we’ve likely got at least a thousand Kadren below level ten, and… maybe five hundred between ten and twenty?”
+
+“Probably more lower-leveled ones than that. If I had to take a guess, I’d say we have three hundred above ten. Except, I bet there’s a lot of strong ones on the inside of the walls.”
+
+“All right.” I rubbed my hands together. “That’s a good start. And it leads us to the real issue. There are just too many of them.”
+
+Nix looked at me with a betrayed expression. “But you said-“
+
+“I know what I said!” I snapped. “One thing is planning for the attack. Another is looking at the actual numbers and being realistic. I… listen. With my new taunt, I’m sure I’ll be able to fix their attention on me and keep it there. Meanwhile, Haddock would be able to build us a nice, defensible structure, and your attacks should be able to slay them in scores. But that only accounts for the low-leveled ones. Once the more intelligent beasts come out and adapt to hit us while we’re bogged down with the endless numbers of trash, we’ll be sitting targets. And that’s even without taking the leaders into consideration.” I flung up my hands in frustration. “I’d expected being able to hit them guerilla style, taking out a leader with an ambush and running away or something. But if we have to wade through hundreds of beasts to face off against the evolved ones?” I left the question hanging in the air.
+
+“But… we can still attack guerilla style.” Nix protested. “The higher-leveled ones still go out, just in smaller groups. We can pick and choose our battles out on the plains, hit them when we want and slowly grind down their numbers!”
+
+“And how’d that go last time?” I shook my head. “Sorry. But that’ll play right into their hands. We’ll succeed for a while, perhaps. But before we know it, the leaders of the Kadren will stick their heads together, and send hunter teams out to find us. I don’t give us good odds of hiding out from any of their high-level trackers. And then, we’ll be the ones getting ambushed.”
+
+Nix huffed. “What do we do then? If we’re too weak, too outnumbered, and can’t pick them apart bit by bit? Where’s that leave us?”
+
+“In need of backup.” Steve said softly.
+
+“Up the creek.” Haddock huffed.
+
+I opened my mouth to say something scathing. Then I gulped and looked at Steve. My gaze swivelled from him, back to the Kadren camp. To the slave pens, filled to the rims with shapes. To the central encampment, holding unknown numbers of high-leveled beasts, and the Captain’s old bird’s tower looking down over everything. Slowly, the very edges of a plan appeared before me. “You know, Steve. You couldn’t be more right. We absolutely need backup. And… well, I might just have an idea of how we’re going to go about it. We’ll get our people to help.”
+
+He looked down upon the camp in disbelief. “Our people? How do you think that would work? You remember Cuilcis saying that the Kadren needs to die in order for the slave bond to break, right? They will not be able to help us, unless that happens – unless you know something I don’t?”
+
+“What he said.” Nix added. “Also, aren’t the Kadren more likely to give the slave bonds to those who’ve already proved themselves? Like, the high-leveled ones? That still leaves us needing to break through the masses to get at the ones we need to kill.”
+
+I waved off their concerns. “Nah. That’s not my idea at all. And those weren’t the people I was talking about. No killing needed here. I just need to take a nice, long run.”

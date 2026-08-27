@@ -1,0 +1,285 @@
+---
+id: 99b203d7-d82b-535b-b92a-b9705545f12b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 764 - Tower Training"
+slug: 0765-chapter-764-tower-training
+partOf: mythrans-master-of-all-continued-completed
+position: 765
+ownLength: 3219
+unit: words
+publishedAt: 2018-11-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/307503/chapter-764-tower-training"
+royalRoadId: "307503"
+---
+
+The food fight ended after about 10 minutes, and Ren, Teepo, Artemis, Tiyaphi, Yuwen and Dilseffa were either sitting or laying on the floor. They were in fits of laughter and covered nearly from head to toe in the remains of their lunch.
+
+“Hooo, that was fun!” Ren exclaimed.
+
+Tiyaphi burst out laughing again. “You sounded... just like... Ocktem!” She said. “Hooo! Hooooo!”
+
+Yuwen and Dilseffa laughed, too.
+
+“Is he an owl?” Ren asked, and they nodded. “Hooo could have guessed that?”
+
+That made them laugh harder, and Ren stood up and stretched.
+
+“All right, time for me to clean up.” Ren said.
+
+“As the head of the household...” Yuwen started to say.
+
+“I started it, so I'll clean it up.” Ren smiled at her and closed his eyes, then stored all the food items in the kitchen. His inventory sorted them automatically, and he put the still usable things back on the counter and dumped the garbage into a very large bowl.
+
+“How did you do that?” Yuwen asked as she looked down at herself, and saw that she didn't have any food on her anymore and there wasn't anything on the floor, either.
+
+“It's just something I thought should be available for Adventurers when they need it.” Ren said cryptically and stored the very large bowl, then stored his sash and shorts combo to clean it and equipped it again.
+
+“Geez, Ren. You don't have to be so mysterious.” Artemis laughed and looked at Yuwen. “It's bulk store, or in the case of loot, bulk loot gathering.”
+
+Yuwen's mouth dropped open in shock. “You... you can store all of something at once?”
+
+“As long as it's within my Aura.” Ren said and held a hand out to her. She took it and stood up, and he did the same for the other two women. “Now, do you want to start training, or do you want to go back to bed and cuddle?”
+
+“Are you giving us a choice?” Yuwen asked. “How would that work if we chose differently?”
+
+“I can deploy a Doppel Ren for training.” Ren said.
+
+“I don't really need any more fight training, since I went through boot camp to get into the garrison.” Tiyaphi said. “I'd like to cuddle.”
+
+“I want training.” Yuwen said. “I would like to test my skills against Doppel Ren again.”
+
+“I... I can't decide.” Dilseffa said. “Can we train first and then cuddle?”
+
+Ren chuckled. “It's not really an 'either / or' situation; so yes, you can do both.” He said. “Not with Doppel Ren, though.”
+
+“Why not?”
+
+“He's just a training dummy.” Ren said, and felt their confusion. “He's not anatomically correct.”
+
+“Oooh.” Tiyaphi said, then laughed. “Can you imagine? Another you running around with...” Her face flushed red. “Ah, never mind.”
+
+Yuwen and Dilseffa covered their mouths to stop from laughing as they felt her naughty emotions. Ren chuckled and took out two Doppel Rens and gave them instructions on what to do, then Yuwen and Doppel Ren 1 went to the floor below, then Dilseffa and Doppel Ren 2 went to the floor below that.
+
+“This way, Mistress.” Ren said to Tiyaphi and motioned to the stairs. When they reached the top of the stairs, Tiyaphi saw the dividing wall Ren had put between the bed and the table where she and the other concubines had read their sacred books.
+
+“Where did the wall come from?” Tiyaphi asked.
+
+“I made it to give you privacy while you read your books.” Ren said and climbed onto the bed. “Also, I figured if Artemis and I had sex right in front of you, it would be too distracting.”
+
+“You had sex?!?” Tiyaphi asked, surprised. “But... but I... I didn't feel anything.” She said sadly and put a hand over her emblem and he felt her doubt her skills.
+
+“Don't be sad.” Ren said and held a hand out to her. “My concern was letting you gain knowledge at the time and I blocked our presences.” He said. “I didn't know you wanted that kind of knowledge, too.”
+
+“I've never seen humans mate before.” Tiyaphi said and took his hand and climbed onto the bed and equipped a thin silky slip that was blue in color. Artemis laid down on the side of the bed and out of the way. She did that so she would be as unobtrusive as possible.
+
+“I'm actually an elfling.” Ren said and swished his hair away from his ear with a hand and pointed to it.
+
+Tiyaphi shrugged. “You look just like a human except for the ears.”
+
+Ren couldn't argue that, so he didn't. “May I touch you?”
+
+“Ren, I'm your concubine and I've submitted to you.” Tiyaphi said. “I've given myself completely to you, so you don't need to ask permission.”
+
+“Yes, I do.” Ren said and cupped the side of her face. “Even though you are a part of my domain, that doesn't mean I can do what I want with you.”
+
+Tiyaphi chuckled. “Ren, that is exactly what it means.”
+
+“What?”
+
+“We are your personal vassals. Our actions reflect directly upon you. Since you are responsible for us, you will be held accountable for the things we do.”
+
+“Oh. Well, I guess I knew that.” Ren said. “I've acted that way when talking to people in my domain and told them to behave.”
+
+Tiyaphi nodded slightly. “Yes, you lead by example.” She said and picked up one of his hands and placed it on her chest. “Now cuddle me as much as I want you to.”
+
+“Just cuddling?” Ren asked and massaged her breast, and she started to purr.
+
+“Isn't that all you offered?” Tiyaphi asked and closed her eyes.
+
+“I could groom you some more.” Ren whispered, and her whole body shivered at the thought. “Is that a yes?”
+
+“Yes... please...” Tiyaphi moaned as he filled her with desire and slid his hands along her shoulders and pulled her slip down to expose her breasts, then he started to suckle. “Mhmm... oh, god...” She panted. “Go... go lower.”
+
+“As you command.” Ren said and felt her startle, then he moved down to her waist and lifted the slip to find that she wasn't wearing underwear. “Oh, you naughty kitty.”
+
+Tiyaphi purred loudly. “I... I am.” She said. “What... will you do... with me?”
+
+“An appropriate punishment, I think.” Ren said and lifted her legs to prop them over his shoulders and she crossed them on his back. He slid his hands under her backside and cupped both cheeks, then wiggled his fingers near the base of her spine to scratch her there and dove between her legs.
+
+“MRRROOOWWWW!!!” Tiyaphi yelled and dug her hands into Ren's hair and did the 'happy cat' movement with her fingers and her hands alternated gripping his hair and letting it go.
+
+*
+
+Yuwen trained with Doppel Ren in various forms of combat from hand-to-hand to all kinds of weapon fighting. She never laid a hand or weapon on him for over an hour, however.
+
+“You... are... too good.” Yuwen panted, covered in sweat.
+
+“Are you done training?” Doppel Ren asked, and she nodded. “Thank you for the Respect, but... I don't deserve it.”
+
+“What?” Yuwen took a breath. “Why... not?”
+
+“I didn't tell you to adorn your accoutrements.” Doppel Ren said, and her eyes widened.
+
+“I completely... forgot about them!”
+
+“Ren told me you would, and then told me that I shouldn't remind you until after you were done.”
+
+“But... but...” Yuwen didn't say anything for a minute, then smiled. “He wanted me to test myself fully without them first.”
+
+“Very good. That's it exactly.” Doppel Ren said. “You got the reason right away.”
+
+“You are still training me.” Yuwen said, and Doppel Ren smiled.
+
+“Please equip your jewellery and we can begin again.” Doppel Ren said.
+
+Yuwen equipped the things Ren had given her and once again, she caught her breath as she was boosted far beyond her normal abilities. She felt refreshed, rejuvenated, and a whole lot stronger. A broad smile appeared on her face and she picked up the wooden training sword that she had just dropped in exhaustion. She held the sword at the ready position, took a deep breath, then lunged to begin her real training.
+
+The scene had been repeated almost word for word by Dilseffa and Doppel Ren 2 on the floor below about 10 minutes later. Dilseffa had much more Stamina than the others and it took a lot longer for her to exhaust herself. Doppel Ren 2 encouraged her and asked her to equip her jewellery, and she recovered much faster than Yuwen did. When Dilseffa attacked, Doppen Ren 2 discovered why 'quick like a bunny' was an appropriate phrase that was given to very fast things.
+
+They trained right up until suppertime, then both Doppel Rens called an end to their training for the day. Both women were worn out and almost to the point of exhaustion at that point, then a moment later, the various items they wore let them recover almost completely. They were amazed they could recover like that, especially after such an intense workout, and they met up on the floor with the kitchen that was below Ren's bedroom on the top floor.
+
+What was funny was that no one questioned how what was once a bedroom had become a kitchen almost instantly that morning. Ren had converted it when Yuwen said she wanted to make breakfast, and they accepted it as if it had always been there. Ren, Artemis, and a very happy and tired Tiyaphi came down the stairs to meet them in the kitchen.
+
+“Thanks, guys.” Ren said. Both Doppel Rens waved to him and he stored them.
+
+“That is both weird and cool at the same time.” Teepo chittered in laughter, and that made everyone laugh.
+
+“So, Yuwen.” Ren said. “What's for supper?”
+
+“Wh-what? I... oh, damn! I was so busy training that...”
+
+“Bwahahaha!” Ren guffawed. “The look on your face! Ha haha!”
+
+“Ren!” Yuwen scowled.
+
+“It's all right, my beautiful minx.” Ren said and hopped up into the air to give her a kiss on the lips. “You can sit at the counter with the other three sexy women and let me do all the cooking tonight.”
+
+Yuwen was too surprised at the beautiful comment to do anything but stare at him, and he laughed again and walked her over to the counter and sat her down.
+
+“Ladies.” Ren said and sat each one down, then jumped over the counter and started to cook.
+
+“What's on the menu for tonight?” Artemis asked.
+
+“Hamburgers and French fries.” Ren said and turned on the grill and the deep fryer.
+
+“How about onion rings, too?” Artemis asked.
+
+“Hey, that's a good idea.” Ren took out the things he needed and quickly prepped everything. “I haven't had onion rings since I was at the amusement park and taught the cooks how to make them.”
+
+Yuwen, Dilseffa and Tiyaphi watched in fascination as Ren made some very odd-looking and very delicious-smelling food. He took out a meat grinder and quickly ground up some meat to make patties and tossed them onto the grill in only a few moments.
+
+Ren moved so fast cutting up the potatoes that he would put a peeled potato on the cutting board and then it was sliced into sticks almost instantly. He tossed several handfuls into the deep fryer and then he cut the onions up just as quickly as he had the potatoes. He battered them up and tossed them into the deep fryer as well, then flipped the hamburgers to cook them on the other side, and used his Fire Manipulation skill to make sure that all of the food was cooked completely.
+
+Five plates appeared on the counter in front of the women and then open-faced burgers and French fries appeared, then a small plate beside each large one and they were filled with onion rings. All of the appliances turned off and cooled instantly, and Ren sat down on the other side of the counter. He put out the proper condiments for them to use, and he showed them how to apply them and assembled his hamburger. Artemis already had hers made and waited for the others.
+
+“You might like some tastes and not others, so you don't have to load up with all of them like me.” Ren said. “I've had them multiple ways, and this is the best one for me; but, that won't be the same for you.”
+
+“How do we find out which ones we like?” Yuwen asked.
+
+“I'd say trial and error.” Ren gave them spoons and told then to taste each condiment. “Don't take too much, because some tastes can be overwhelming.”
+
+They nodded and briefly tried each one, and quickly discovered which ones they didn't like.
+
+“I'm glad I didn't follow your example.” Tiyaphi said and almost gagged as she tasted the mustard. “That's horrible!”
+
+“I thought that was good.” Yuwen said. “I don't like the way this stuff feels on my tongue, though.” She said and indicated the relish.
+
+“It is a bit of an acquired taste.” Ren said with a smile.
+
+“It's all good.” Dilseffa said, surprised. “You're right, though. I don't think we could eat this all the time.”
+
+“It's meant as a treat, so it won't be very often.” Ren said as they assembled their burgers. “Let's eat!”
+
+The 5 of them ate their meals and the three Mistresses enjoyed it much more than they thought they would.
+
+“It's meat, only it's not meat as we would normally have it.” Tiyaphi said when they were done.
+
+“Neither was the food fight we had at lunch.” Yuwen said and everyone laughed.
+
+After supper, they talked for a while and Ren learned a bit more about them and their lives before he had met them. Yuwen only had a small family, with her parents and only one much older brother. If their family land had been a little bigger, her parents could have afforded to have more children.
+
+“Is population based on square footage?” Ren asked, curious.
+
+Yuwen laughed. “No, nothing so draconian as that.” She said. “We just didn't have much room for growing more food or to sell.”
+
+“Is that why you joined the military?” Tiyaphi asked.
+
+“More or less.” Yuwen said. “I wanted to get out on my own, and it let my brother take over keeping our land going with one less mouth to feed.”
+
+“Is he married yet?” Dilseffa asked.
+
+“Jaasom has been talking to Krinca about that very thing.”
+
+“Oh, a match made in heaven!” Dilseffa pretended to swoon, and Yuwen laughed.
+
+“Can I ask what's funny?” Ren asked.
+
+“They're neighbours and hate each other's guts.” Dilseffa chuckled. “Kids growing up so close together either grow very close or grow extremely annoyed at each other.”
+
+“If they married, Krinca gets a hard worker to help tend the family lands, and Jaasom gains Respect for overcoming his hatred for her and settling their differences without violence.”
+
+“Will the two family lands join?” Ren asked.
+
+“When my parents die, yes.” Yuwen said. “If our land was bigger, they would become a part of ours.”
+
+“That's an interesting dynamic.” Ren said. “What if you had stayed home?”
+
+“That would only matter if Jaasom gave up his claim as the older sibling.”
+
+“Then you would be inheriting the land instead, and whoever you married would get you and the land.” Ren said in understanding. “But, as my concubine, that won't apply, right?”
+
+“No. Since they would be your lands.” Yuwen said. “If I get married, since I am a younger sibling, no lands change hands.” She smiled. “If he is also a middle child, none of it matters. We can find our own lands or stay with either family to help.”
+
+“I hope I haven't ruined your marriage prospects.” Ren said and touched her hand.
+
+Yuwen chuckled. “Mires took care of that, Ren.”
+
+“You mean the rumors of your infidelity.” Ren said, and she nodded. “I'll take care of that.”
+
+Yuwen laughed. “Yes, My King. Go into everyone's hearts and minds and change their biased opinion of me.”
+
+Ren laughed, too. “I won't be as nefarious as that, First Mistress.”
+
+“Then what will you do?”
+
+“I'll set up a series of displays in all the towns and cities like I did in the Human Kingdom.” Ren said and stored the dirty dishes to clean them. “You don't have to worry about that for a while, though.”
+
+“I doubt you will get approval for that.” Dilseffa said.
+
+“Why would I need approval?” Ren asked.
+
+“You can't just... wait, you did that on your own in the Human Kingdom?” Dilseffa asked, shocked. “No permits or permission?”
+
+“I did it for free, and no one seemed to object.” Ren said with a smile. “I didn't need permission to set up the Portal Gate Network, either. Town Squares are public and can be used by anyone.”
+
+The three Pervarians caught their breath as they realized he was right.
+
+“Once again, no one seemed to object, especially since everyone could go anywhere they wanted, and didn't have to spend all of their time travelling.”
+
+“You're saying we could have used them?” Dilseffa asked.
+
+“Not with your giant boars and massive carriages.” Ren said. “Only a horse and normal-sized cart can fit through the archway.”
+
+“That would quadruple our caravan size.” Yuwen said as she thought about it. “It also stops us from moving large numbers of troops and siege machines through them.”
+
+“There you go.” Ren nodded to her and gave her Respect. “Normal trade can go through easily; but, military strength is bottle-necked.”
+
+“Wow.” Dilseffa said. “You've thought of everything.”
+
+“Not everything, since there are still ways to abuse the gates.” Ren chuckled. “No, I'm not mentioning them.”
+
+“I think that's wise.” Yuwen said. “Saying something like that usually gives it power.”
+
+Ren tapped the tip of his nose and she smiled.
+
+Artemis stood up and stretched. “Well, I think this was a long day for all of us.” She said. “We should head to bed.”
+
+“We haven't heard much about Dilseffa's home life yet.” Ren said, and he felt her become uncomfortable. “I wasn't trying to pry.” He said and took her hand. “I'm just curious about your family and what brought you to become a part of the caravan.”
+
+“I think... yes, it's better to show you.” Dilseffa said. “During the last stop near the capital where we drop off the carriages and the supplies as we disband the caravan, I can take you home.”
+
+“I would like that very much.” Ren said with a big smile, and she felt that he really did. “Since our talk is over, I agree with Artemis. We should head to bed and get some sleep.”
+
+The five of them went up the stairs and climbed onto the bed, and Yuwen let Tiyaphi and Dilseffa cuddle into Ren's chest and she took up the spot between his legs and used his thigh as a pillow. Artemis laid on the side and took Ren's hand and intertwined her fingers with his.
+
+“Goodnight.” Ren said to everyone. A chorus of 'goodnight' responded, and they all relaxed in each other's embraces and drifted off to sleep.

@@ -1,0 +1,289 @@
+---
+id: f92f68ae-7782-5fe1-a54c-38d069fc7d80
+page-type-slug: story-chapter-royal-road
+title: "Chapter 785 - A Delegate Situation"
+slug: 0788-chapter-785-a-delegate-situation
+partOf: mythrans-master-of-all-continued-completed
+position: 788
+ownLength: 2942
+unit: words
+publishedAt: 2018-12-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312672/chapter-785-a-delegate-situation"
+royalRoadId: "312672"
+---
+
+“You're not going to try and stop them from fighting?” Ren asked as he and Duyu walked to the end of the table, and Duyu laughed.
+
+“No formal eating rules at breakfast.” Duyu said and sat down at her place. Ren served his Mistresses and Artemis and sat down himself, and they all ate a great meal of scrambled eggs and toasted buns.
+
+“Ma! That was delicious!” Doth, the eldest son said. “I'm stuffed!”
+
+“It was Ren's fault.” Duyu said and pointed. “He showed me how to double the portions without having to double the eggs.”
+
+“I knew I liked you!” Doth exclaimed, and everyone laughed because that was not the impression he had given them.
+
+“How much would you like me if I gave you this?” Ren asked and dropped a sandwich in front of him.
+
+“What is it?” Doth asked and picked it up.
+
+“It's an egg, bacon, and toasted bun sandwich.” Ren said.
+
+“I don't know.” Doth said. “I'm pretty full.”
+
+“Then give it to him.” Ren said and pointed at a man two seats away from Doth. “He's still hungry.”
+
+“No way!” Doth said and took a huge bite out of the sandwich. “Mahm moom!”
+
+“You're right. It is good.” Ren smiled.
+
+“What about us?” The still hungry brother asked.
+
+“You all get one!” Duyu exclaimed and Ren dropped sandwiches in front of them all.
+
+“Yay!” The hungry brother almost yelled and everyone laughed as he gobbled it down. Not surprisingly, Yuwen, Dilseffa, Tiyaphi, and Artemis passed on the sandwich and Yuwen told Ren it was time to go.
+
+“Good luck at the debriefing.” Duyu said and gave her daughter a hug.
+
+“Since we're just telling them everything that happened while we were in the delegation, we don't really need luck; but, thank you.” Dilseffa said.
+
+“Sometimes it's better to have it and not need it.” Duyu said with a smile, then looked at Ren. “You be careful.”
+
+“I'll try.” Ren said and grinned at her, and she chuckled.
+
+“Come here.” Duyu said and opened her arms, so he stepped close and hugged her. “Will you be back here tonight?”
+
+“If you'll have me.” Ren said, then he chuckled and corrected the implication. “As a guest.”
+
+Duyu's face flushed slightly red, because she hadn't missed the implication, either.
+
+“I've got everything all set up on my land for what I want to do; but, I don't know if I want to stay there so soon.” Ren said.
+
+“You what?” Duyu blinked her eyes at him, and he looked up at her.
+
+“Old Ben sold me the top of his mountain.” Ren said. “I've got two large resort inns, two dozen magical lifts, and four dozen large ski runs of various lengths and skill levels.”
+
+“What in the world are you talking about?” Duyu asked, confused.
+
+“It's just something that some Adventurers are going to love to have access to.” Ren said. “I've also dug out the center of the mountain for... well, everything else.”
+
+“What do you mean?” Duyu asked.
+
+“Ski resorts need a supporting town with lots of living space. Since I didn't have the room outside of the mountain, I made it all inside the mountain.”
+
+“You're crazy!” Duyu, her daughter Dilseffa, Tiyaphi, and Yuwen exclaimed at the same time. Ren and Artemis laughed and Teepo chittered in delight.
+
+“I'll finish setting up proper transport to get there later, once I decide where to have the entrance portal.” Ren said and let Duyu out of the hug. “Until then, we need to go.”
+
+Dilseffa led him and the others out of the room.
+
+*
+
+Duyu took a deep breath and let it out.
+
+“Ma.” Doth said from the end of the table, and she didn't respond. “MA!”
+
+“Stop yelling, you oaf! I'm not deaf!”
+
+“You always say that and yet you never answer the first time.” Doth said.
+
+“What is it?” Duyu asked, annoyed at herself because he was right. She never did answer the first time.
+
+“How can you hug that guy like that?” Doth asked. “He's not even a rabbit!”
+
+“I... well, it's...” Duyu turned away slightly and stopped talking as she remembered the scene in Dilseffa's bedroom that she had almost walked in on, and her face turned red. “He might not be a member of the beast races; but, he doesn't seem to care that we are.”
+
+“What does that mean?” Doth asked, confused.
+
+It means that he is a lot more accepting of us than we are of him. Duyu thought and took another breath. “It doesn't matter.” She said and her blush faded. “Why don't you take all those tools back to the shed?”
+
+“How did you know...”
+
+“A mother always knows.” Duyu said with an evil grin. “What were you doing with Hisha yesterday?”
+
+“Ah... yeah. Um... okay. I'm... ah... BYE!” Doth ran from the room as fast as he could, and she laughed.
+
+*
+
+Ren and the others came out through the warren's hatch cover and the fancy carriage was waiting for them. The attendant was there, and he didn't have a happy expression or felt particularly happy like he had last night. Ren helped everyone get into the carriage and climbed up to sit beside the attendant.
+
+“Go ahead and tell me about it.” Ren said.
+
+The attendant didn't even try to deny that there was anything wrong and spilled out everything that had happened the night before when he went home and told his wife that he had found a patron. She had been quite upset about it, especially since she had worked hard to establish close connections with the other people under their old patron.
+
+“You know you don't have to leave your other life at all, don't you?” Ren asked. “Your wife doesn't have to leave her family or friends, and you don't have to stop being who you are or give up your job.”
+
+“Sir, I...” The attendant took a shallow breath and let it out. “Being around you is exciting. I'm energized and I feel like I could take on the whole world!”
+
+“You've really acclimated to being in my domain, then.” Ren said and concentrated on the man's mark as he put a hand on his shoulder. The attendant glowed briefly and sat up a little straighter and smiled. His emotions were still churning; but, he could see that focusing on work would help him deal with it.
+
+“Sir, I... as soon as you have lands, I want to move there as soon as possible.”
+
+“What about your wife?”
+
+“She'll come along, since we're a mated pair.” The attendant said. “She won't be happy for a while, since it will take her away from her friends and family.”
+
+“I wouldn't worry about that too much.” Ren said with a smile. “I'll be setting up a Portal Gate Network here in the Pervarian Kingdom and she can travel instantly to any town it's connected to.”
+
+“R-really?!?” The attendant exclaimed. “That's wonderful!”
+
+“I assume you live in the capital?” Ren asked, and he nodded. “Then I'll put the first one there to connect to the town I've already built on my land.”
+
+“You have land already?” The attendant asked, then he gasped. “Did... did you say town?!?”
+
+“Yeah. It's all move-in ready, too. A mansion. A medical building. A Library. Everything a town needs.” Ren said with a smile. “Not counting all the houses and farmland.”
+
+“Where is this wonderful place?” The attendant asked.
+
+Ren looked around, saw the mountain peak and pointed. “It's right there.”
+
+The attendant turned to see where he pointed and caught his breath. “Th-that's crazy Ben's mountain!”
+
+“He sold me the peak.” Ren said.
+
+“But... but... how would... farmland? Houses? A whole town?” The attendant couldn't wrap his head around how he could fit all of that onto a mountain's steep slopes that were covered in ice and snow.
+
+“Don't freak out, now.” Ren said and let his shoulder go. “A mountain is cold and hard on the outside; but, it's all toasty warm on the inside.”
+
+The attendant's mouth dropped open. “I-i-inside?!?”
+
+Ren laughed. “We can go and visit it when I create the portal in the capital.” He said. “I'll hop in the back so we can go.”
+
+“Y-yes, sir. Of course, sir.” The attendant said, and Ren went into the back to sit with the others. The carriage made the journey to the capital city fairly quickly, and when they reached the gates to enter, Ren saw there were two long lines of waiting people and carts.
+
+“Your people are actually security conscious.” Ren commented, and Yuwen chuckled.
+
+“We've been to too many kingdoms where their lack of security showed us the error of not at least giving people a cursory examination before entering our capital.”
+
+“Are we still going to make the meeting like this?” Ren asked, then the carriage swerved and went alongside the two waiting lines and stopped by a third security team.
+
+“I have 2 delegates from the caravan and their guest aboard.” The attendant said in a confident voice. There was a knock on the door and Tiyaphi opened it. She introduced herself, then Yuwen and Dilseffa as the delegates, then Ren as their guest and Artemis as his companion. The security man held a hand up and it glowed for a moment, then he smiled.
+
+“Welcome to Eastlowen Bay.” He said, shut the carriage door and waved to the gate. It opened and the attendant drove the carriage through.
+
+“That went faster than I thought it would.” Ren said.
+
+“He rushed the Detection spell, though.” Yuwen said. “He's lucky he didn't miss anything.”
+
+“Oh? Are you usually smuggling something in?” Tiyaphi asked with a grin, and Yuwen laughed.
+
+The carriage made its way through the city quickly, since the attendant used less used back streets and arrived at the delegation's headquarters a few minutes later.
+
+Ren hopped out and helped out the women, then turned to the attendant. “Excellent work.” He said in praise. “We could have only arrived here quicker if we'd flown.”
+
+“Thank you, sir.” The attendant said and felt proud at doing so well with an unfamiliar carriage. “I'll be waiting in the anteroom for you to finish.”
+
+Ren wasn't sure where that was. Before he could ask, Yuwen took his hand to distract him and waved the attendant on. The carriage pulled away and was gone as quickly as it had arrived.
+
+“It's just outside the gathering area for the delegates, which is two rooms in from the lobby.” Yuwen whispered.
+
+“Thanks.” Ren whispered back and kept a hold of her hand.
+
+“R-Ren.” Dilseffa said and he looked at her. “I... we...” She took a breath. “We need to remove our adornments.”
+
+“I want to say that you don't; but, you're worried that they might not like that I gave you replacements.”
+
+Dilseffa nodded slightly.
+
+“Then you have my permission to store them until you get the others back.”
+
+Dilseffa sighed in relief and stored the items, as did Yuwen. They both felt a little diminished as their boosts disappeared, and Ren took Dilseffa's hand. He poured his emotions out into them, and that boosted them instead.
+
+“How can you do that?” Yuwen asked. “I'm not as strong and I still feel empowered.”
+
+“My awesomeness cannot be contained and must overflow onto you.” Ren said haughtily, and they all laughed.
+
+“We need to get inside.” Dilseffa said as another carriage arrived and two more delegates stepped out. The 5 of them stepped inside the building and into the large lobby, and Ren saw displays of different objects.
+
+“It's like a museum.” Ren said as he quickly looked around. He could see small orbs of blue Mana around each object and he couldn't identify the orbs or the objects they shielded.
+
+“It is a museum.” Yuwen said. “These are some of the first objects we ever brought back from other cultures to be examined.”
+
+“Did you learn anything from them?”
+
+“Not a thing.” Yuwen said and chuckled. “It's pretty much junk.”
+
+“Then why protect it so much?” Ren asked and waved at the closest object as they passed by it.
+
+“It's a part of our history.” Yuwen said and they entered the anteroom. It was about half-full of people, mostly attendants and aides, and they didn't stop or talk to anyone and entered the waiting area for the delegates.
+
+“I'm sorry, they can't be here.” A voice said and they all turned to look. A burly man with only a sash and a sword on his hip walked over to them. “No one but delegates can be in this area.”
+
+“I was invited by the head of the current delegation to participate in the debriefing.” Ren said. “Yuwen and Dilseffa are my Mistresses, as is Tiyaphi.” He continued. “Artemis is my familiar. Who exactly isn't supposed to be here?”
+
+The man just stared at him and didn't know how to respond. Since they don't apologize for making a mistake, he was at a loss for what to do next.
+
+“It's all right.” Tatya said and came over to them. The man's relief was evident as he nodded to her and quickly retreated. “Ren, can I speak to you for a moment?”
+
+“That depends on if we have a moment.” Ren said with a smile. “When is the show supposed to start?”
+
+“Not for another half an hour.” Tatya said. “We need to make sure that everyone is here that needs to be here.”
+
+“Why did we have to show up so early, then?” Ren asked.
+
+“Most people can't be as punctual as you, my friend.” Tatya said. “We're still waiting on 3 of the delegates to arrive.” She waved towards a door. “Please, this way.”
+
+“You mean alone, right?”
+
+Tatya nodded slightly, so Ren took a step up into the air and kissed Yuwen, much to her surprise. He turned and kissed Dilseffa, which turned her face red, and then he faced Tiyaphi. She had a big smile and kissed him before he could kiss her. He glanced at Artemis, and she shook her head. He nodded to her and then followed Tatya over to the door and they went inside.
+
+Ren quickly used his Detect Everything spell and didn't find anything, then waited until Tatya shut the door and cast it again. Part of the wall glowed for a moment and he used his Heat Sense Aura to 'look' behind it to see two people with crossed arms.
+
+It's like an interrogation room. Ren thought as he sat down at the small table.
+
+“I was just about to say that.” Teepo said in the voice that only Ren could hear.
+
+“So, what's this about?” Ren asked Tatya as she walked over to sit on the other side of the small table.
+
+“Ren, I...” Tatya folded her hands on the table and looked at him with pleading eyes. “I want you to show the investigators all of the footage you have during your time with the caravan.”
+
+“Is that required?” Ren asked, skeptically.
+
+“No.” Tatya said. “That's why I wanted to talk to you privately.”
+
+“You don't believe you're lying, and yet you are.” Ren said.
+
+“Wh-what?” Tatya gasped. “I'm not lying!”
+
+Ren sighed and pointed to the wall. “This room isn't very private.” He said and felt one of the two people behind the wall start to panic. Ren cast Dispel Magic on the viewing window and one very surprised person stared back at them, and the other looked at them calmly.
+
+“Jirqym!” Tatya exclaimed and stood as she recognized the calm one. “What are you doing?!?”
+
+“I was ordered to finish observing our guest.” Jirqym said, not shaken at all by the situation.
+
+“How did you know I would use this room?”
+
+“You always use this room.” Jirqym said. “You usually have Kenkoth in there with you, though.”
+
+“I wanted to talk to Ren privately, dammit!” Tatya nearly yelled. “Do you know how much Respect you just cost me by making me a liar?!?”
+
+“You'll have to take it up with Herd if you feel the loss was unjust.”
+
+“Of course I feel it was unjust!” Tatya exclaimed. “You... you...” She stopped talking and took a deep breath. “Why are you hiding behind walls and listening in on private conversations?”
+
+“I told you. I was ordered to finish my work.” Jirqym said. “King Ren said he would let me examine him to learn all of his skills.”
+
+“Infringing on your coworker's privacy and deceiving me, invalidates my implied promise.” Ren said and blocked him.
+
+Jirqym's eyes widened as Ren disappeared from his sight and his feelings, and even from his ability. “Where did he go?” He asked and looked around the room.
+
+“What are you talking about?” Tatya asked. “He's standing right here.”
+
+“No, he isn't.” Jirqym said. “I can't detect him at all.”
+
+Tatya stared at the man for a moment, then looked at Ren. “What did you do?”
+
+“I'm forcing him to ignore me.” Ren said with a smile. “Neat, huh?”
+
+“Ren, he... his ability can detect everything around him.”
+
+“Oh, he's still detecting me.” Ren chuckled. “He just sees it as useless information and disregards it.”
+
+“But... but...”
+
+“Shall I take us to a private area for you to talk freely?” Ren asked, and she looked at the wall with the viewing window that she didn't know existed, and the very shocked person standing next to a frantic Jirqym.
+
+“Yes.” Tatya said.
+
+“Where is he?” Jirqym asked, excitedly. “I can't see him! Where is he? WHERE IS HE?!?”
+
+Ren cast the portal spell and he and Tatya stepped through it together.

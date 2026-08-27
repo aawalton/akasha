@@ -1,0 +1,263 @@
+---
+id: 654fbfcd-c149-56bf-a395-bf9d361542d4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 739 - Wrap That Up"
+slug: 0740-chapter-739-wrap-that-up
+partOf: mythrans-master-of-all-continued-completed
+position: 740
+ownLength: 2927
+unit: words
+publishedAt: 2018-10-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/300373/chapter-739-wrap-that-up"
+royalRoadId: "300373"
+---
+
+Ren wasn't sure what to do about the situation. He didn't receive a popup stating that his quest can't be completed, so he was kind of stumped about what to do next.
+
+“Ren, catch him.” Teepo said.
+
+“What?”
+
+“Do what you did for Renardos!” Teepo said excitedly. “Make a portal and catch Delthid!”
+
+“But...” Ren didn't feel any dissent from either Artemis or Orimihr, so he asked Artemis to hold the All-Seeing Mirror. “Okay, this... is going to be messy.”
+
+“More like disgusting.” Artemis said. “Maybe you should make a hole for it.”
+
+“Good idea.” Ren took out the Staff of Earth and made an appropriately sized depression in the cliff top. “Okay, I can do this.”
+
+“You don't have to be as careful this time.” Artemis said and everyone looked at her. “He's a much bigger target.”
+
+“Oh! I understand.” Ren said. “Everyone step back.” He concentrated and made a normal portal inside the Giant's stomach under Delthid's remains inside the Giant's stomach and the exit appeared above the depression he made in the cliff top. The body, and a lot of other stuff, fell through the portal and into the depression. Ren quickly closed it off to stop anything else from coming through.
+
+“By the gods!” Orimihr covered his mouth and turned away at the awful rotting stench.
+
+Ren thought he heard some aborted throwing up attempts from him. “Well, there's no doubt that Delthid is dead.” He said and knelt by the depression, then used his Water Manipulation skill to try and move the liquid away from the remains. It didn't work.
+
+“How can you ask him about forging if he's dead?” Teepo asked.
+
+“I have no idea.” Ren said. “Nothing I have can possibly... wait.” He activated Serene State of Mind and thought about the problem. If I can't ask him about it, and the quest hasn't aborted because he's dead, then maybe it's his body that can tell me what I need to know. He deactivated his ability and spoke. “Identify Person.”
+
+Name  Delthid Kuldur  Level  N/A
+
+Gender  Male  Class  Blacksmith
+
+Race  Dwarf  Fame/Infamy  10,000 (Famous - Locked)
+
+Titles
+
+Master Blacksmith - Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Legendary Blacksmith - Fame stat locked, grants Special Imbue skill
+
+Backstabber - You cannot be trusted
+
+“Okay, not really useful.” Ren said. “Show info for Special Imbue skill.”
+
+Special Imbue (skill)
+
+During the forging process, you can imbue a weapon with the 'Legendary' description, regardless of the quality of the weapon.
+
+“Ha.” Ren barked a laugh. “He cheated!”
+
+“Of course.” Orimihr said without turning back around. “I told you what he did.”
+
+“No, I mean his ability to make a Legendary Sword after only 5 forgings.” Ren said. “It was just a skill he used and not any kind of epic training or techniques on his part.”
+
+Quest Complete!
+
+You have found the Legendary Blacksmith and discovered his secret.
+
+Rewards: 15,000 XP (Negated: maxed)
+
+Fame: 15,000
+
+Notice!
+
+Excess Fame converted to XP
+
+15,000 Fame x 10 XP = 150,000 XP (Negated: maxed)
+
+“Well, that was a bit disappointing.” Ren said.
+
+“Are you kidding?” Orimihr asked and then started to laugh. “I had planned on hunting the bastard down and killing him for letting me rot in the mines for the last 5 years.” He said. “I finally found him, and he was eaten by a Giant! EATEN BY A GIANT! BWAHAHAHA!”
+
+Ren and Artemis couldn't help it and laughed as well. After a few moments, Teepo spoke.
+
+“Now what do we do?”
+
+“Well, I think Orimihr needs to loot the body.” Ren said.
+
+“No, thanks.” Orimihr said. “I'm not touching it.”
+
+“As long as you...”
+
+“Not. Happening.” Orimihr said. “If he's dead, it's not like he can tell me why he did what he did, or why.”
+
+“But...”
+
+“You got him out of that Giant's stomach, so you can do it.” Orimihr said. “Hurry up, so we don't have to smell it anymore.”
+
+Ren sighed and equipped a gauntlet and touched a relatively clean spot on Delthid's remains to loot it. Nothing was dropped as loot, however.
+
+Notice!
+
+You have looted the remains of a descendant of one of Vasalor's Chosen. Since you gained nothing else from the death, you have the option to claim his unused hidden ability, Title Granter.
+
+Do you wish to claim it? Yes / No
+
+“Yes.” Ren said automatically.
+
+Notice!
+
+You have gained a new ability: Title Granter. This sub-skill under Autocracy allows you to grant appropriate titles to those that you deem worthy. Unlike with Autocracy, they do not need to be members of your Domain to receive titles.
+
+Whoa. Ren thought. I thought being able to grant titles in my own domain was a little overpowering.
+
+“Is that why you haven't been giving them out?” Teepo asked in the voice only Ren could hear. “Except for the Queen of the Ghoul Kissed that you gave to Valercia, I mean.”
+
+Yeah, because I could abuse it so much. Ren stood up and looked down at the stuff left in the hole. “What do I do with this?”
+
+“Put it back.” Teepo suggested.
+
+“Wh-what?” Orimihr almost choked.
+
+“It came from a Giant's stomach. We can't just leave it out here for anyone to find or step in.” Teepo said. “Plus, maybe it'll give the Giant a tummy ache.” He chittered in laughter. “He has been eating dwarves, after all.”
+
+“Then throw in a pile of rocks, too.” Orimihr said, and Ren felt his dwarf loyalty kick in. “If he wants something hearty to eat, then give it to him.”
+
+Ren chuckled. “I'm tempted to do that.” He said and opened another portal to put the stuff back in the Giant's stomach, then shrugged and tossed in the gauntlet he wore and activated his Hands of the Gods ability Rocky Hands and poured a pile of gravel and dirt into the portal. He watched the mirror Artemis held and saw the gravel and dirt partially filled the stomach, then asked the mirror to show the Giant.
+
+The Giant's face made a sour taste motion and he put a hand on his stomach. Ren stopped adding dirt and closed the portal, then made a picture of both the giant and the previous contents of his stomach. He then wrote out a note saying what had happened and why he did what he did, accused the giant of eating little people, then made them giant-sized and opened a portal to the Giant's Library. He slid the paper and photos through to leave them on Fernosia's desk, the Giant Librarian and Ambassador to the Giant refugees, then closed the portal.
+
+“That's about all I can do.” Ren said. “Not without actually confronting the Giant about eating people.”
+
+“It'll have to do.” Orimihr said, then he sighed. “I really hoped to have cleared my name, though.”
+
+Ren took the All-Seeing Mirror back from Artemis and asked to see the place Delthid used to live. A small house appeared on the mirror's surface and Ren asked for it on the map. They climbed back onto Princess and into the cart, then travelled nearly a hundred miles back the way they came and found the little house. It was tucked inside a tree-trunk, since everything in the Giant Lands was giant-sized.
+
+Ren used his Detect Everything spell and several magical traps, physical traps, and two curses popped up. “Boy, did he make sure he was protected, or what?”
+
+“Not that protected.” Artemis said. “Look up at the roof.”
+
+Ren, Teepo, Princess, and Orimihr walked up into the air and looked to see a large hole in the roof, that looked to be about the size of a giant's fist. Orimihr whistled his astonishment and Ren nodded. They entered the house that way, bypassing all the traps and curses, and searched. They found the royal family jewels and the jewel encrusted armor tucked away in a crawl space under the house. It had a Warding enchantment on it, but it was weak and barely hid the lines of the trap door.
+
+Orimihr picked up the crown jewels reverently and held them up to the dim light that the hole in the ceiling provided. “It's them. It's really them.”
+
+“Store them and the armor, and I can deliver you to the Main Keep in the dwarf lands.” Ren said, and made several pictures of Delthid's house, his remains, where the things were stored, and where they had found him. “You'll need this, too.”
+
+“Do I really need to show them the inside of a Giant's stomach?” Orimihr asked and held the picture with the tips of his index finger and thumb.
+
+“Unless you want to get charged with killing him.” Ren said, then made a display box and loaded it with the proper video. “I'm always recording, so this will prove that I didn't kill him, either.”
+
+“All right, all right.” Orimihr said and accepted the evidence. “Who am I supposed to talk to when I get there?”
+
+“I'd say the Scroll Mage, right after you deliver the evidence to the Hall of Records clerk.” Ren said. “In fact, when you go to the clerk, ask her to call the Mage. They might have to take you into custody if the council or even the queen needs to review the case.”
+
+“The queen.” Orimihr almost spat.
+
+“Yeah.” Ren said and pat the man on the shoulder. “I might hold off on telling her you recovered the royal jewels.” He smiled. “I won't say anything to anyone, as long as you inform the clerk at the Hall of Records that the jewels were recovered and that you're keeping them in trust until the heir is of age.”
+
+“Keeping them in trust? You mean... I can...”
+
+Ren nodded. “They rightfully belong to her child, whoever it may be.” He said. “I have no problem letting someone who created them hold onto them until the appropriate time.”
+
+“But... I don't have the authority...”
+
+“Orimihr Juldor. I, Ren the First, hereby grant you the title of Master of the Royal Jewels.” Ren said formally. “It is your duty to ensure the safety of said jewels so they will remain available for the Royal Family when needed for coronations. You will protect them with your life, and no one can remove them from your presence.”
+
+Orimihr started to glow slightly.
+
+“Since the lifespans of dwarves are pretty long, I doubt you will see more than one coronation in your lifetime; so, you will also have the authority to train your replacement.”
+
+“But... what if...”
+
+“No one can change this title, not even me, and you're stuck with it for the rest of your life.” Ren said and he felt how happy Orimihr was about that fact. “Do you accept this responsibility?”
+
+Orimihr put his hand on Ren's shoulder. “My friend, I accept this task wholeheartedly.” The glow faded and he didn't feel any different. “Now what do I do?”
+
+“We need to pop back to the ship and tell the captain you might need a leave of absence for a while to get the charges against you sorted out, then I'll drop you off at the Main Keep to get things started.”
+
+Orimihr nodded and they left the house through the hole in the roof. Orimihr climbed into the cart and Ren climbed onto Princess' saddle, then they travelled all the way back across the continent, across the sea, and made it back to the ship docked near Aurora half an hour later.
+
+After a quick meeting with the short captain, who had no problem giving Orimihr a leave of absence for however long it took to clear his name, they climbed back onto the cart and crossed the sea, again, to go to the dwarf lands. Another half an hour later, Princess stopped just outside the gate to the Main Keep.
+
+Dwarves waiting in line all gasped and hollered at Ren's appearance among them. A lot of them waved, others shouted greetings, and one woman hopped up and down with her hands in the air. That caught his attention, so he dropped Orimihr off to stand in line and hopped off of Princess.
+
+Ren walked through the air to her and he felt how happy she was. “Good afternoon, Ma'am.”
+
+“It's such a pleasure to see you again, King Ren.” Dorhaline the Librarian said.
+
+“Likewise.” Ren said. “I've read all the books you gave me.”
+
+“Oh? What's your Library card at now?”
+
+“I don't think I should tell you.” Ren said, and she chuckled.
+
+“You don't have to be embarrassed.” Dorhaline said. “I've seen it before and even raised you from D to C, remember?”
+
+Ren chuckled. “I'm not embarrassed, I just don't want to shock you.”
+
+“Oh? Is it that bad?” Dorhaline asked with a smile.
+
+“All right, I'll tell you.” Ren said and leaned in close. “My rank is Platinum.”
+
+Dorhaline's mouth dropped open in shock, and he laughed.
+
+“I told you.”
+
+“P-p-platinum.” Dorhaline whispered. “It took me decades to read that much.”
+
+“Me, too.” Ren said, and she looked at him with wide eyes. “I've spent a lot of time in different realms.”
+
+Dorhaline wasn't sure what to say to that.
+
+“What realms?” Someone asked.
+
+“I've been in the Water Realm a few times, and I've been spending my days in the Fire Realm.” Ren said. “My daughter is the Deity of Fire.”
+
+Utter shock and disbelief flowed over the dwarves, and even though they knew he was telling the truth, they didn't want to believe him.
+
+“Oh, right! Sorry!” Ren said and polymorphed into a dwarf right before their eyes and a big fluffy beard grew on his face. “My daughter is the Deity of Fire, and I spend my days being there for her and helping when I can.” He said. “She gave me the day off today so I could be there for the birth of House Neram's heir.”
+
+More disbelief flowed through the dwarves, and Ren took out the form and enlarged it to 5 times its size so they could all see it was official.
+
+“My son's name is Renardos Varthirm Neram, and he's the cutest thing you'll ever see!” Dwarf Ren said and took out a display box and played the video of several women's hands ruffling Renardos' auburn hair.
+
+“Awww!” All the women waiting in line said and Dwarf Ren felt how much they wanted to cuddle his son, then he felt some of the uneasiness from the men.
+
+“Don't worry, everyone!” Dwarf Ren said to placate them. “Nathalia's pregnancy was all perfectly legal, because I had filed the paperwork and had the laws changed to make it so.”
+
+“You're kidding!” A male dwarf said.
+
+“I can't believe that!” Another said.
+
+“I want you to give me a cute baby, too!” A woman's voice rang out, and everyone started laughing.
+
+“I'd say it doesn't work that way, but it did.” Dwarf Ren said. “I stayed for a year with Nathalia in my Sanctuary and we didn't leave until she was very, very pregnant.” He chuckled. “She had the baby this morning.”
+
+“Oh, my!” The woman said and he felt her emotions as her whole body reacted to the news.
+
+“By the gods.” One of the dwarf men said.
+
+“If you keep the beard, I'll do it!” Another woman exclaimed, and everyone laughed again.
+
+Dwarf Ren felt a familiar presence enter his Aura and that person's Aura merged with his. He held a hand up to quiet everyone as he turned towards the Main Keep and they waited in silence. After a few minutes, Ereka came out through the front door and walked down to the gate.
+
+“Lady Ereka.” Dwarf Ren said when she was close enough to hear him.
+
+“King Ren.” Ereka said and held up the receipt as she approached him. “It's finally filed.”
+
+“That took a while.” Dwarf Ren said.
+
+“You know the lines at the Main Keep can be surprisingly long some days.” Ereka said and then smiled. “At least the clerk in the Hall Of Records was ecstatic about the news.”
+
+“I'm sure she was.” Dwarf Ren said as he remembered how much Beryl had enjoyed his visits and how he had changed things for the Dwarven Kingdom each time. “Can I offer you a ride home?”
+
+Ereka looked at him with wide eyes and he felt her misgivings, so he pointed over his shoulder to show Princess as she stood in the air above Orimihr at the end of the line.
+
+Ereka saw her and relaxed. “I'm so glad you're not breaking your banishment by being here.”
+
+“This time I'm trying to clear a falsely convicted man's name, and since it involved the royal family, no one could fault me for being here.” Dwarf Ren said and felt general agreement from the crowd. “Plus, I'm technically not standing on dwarf lands.” He said and pointed at the space between his feet and the ground, which made a lot of the dwarves chuckle.
+
+“Then I will gladly accept a ride, King Ren.” Ereka said and held a hand out to him. He bent over and took the offered hand and cast Permanent Air Walk and Permanent Water Walk on her, then told her how they worked. She smiled again and walked up into the air, they both waved goodbye to the Librarian, then they strolled through the air as Dwarf Ren escorted her to the end of the line. He switched the covered cart for a full carriage on Princess, then helped Ereka step inside.

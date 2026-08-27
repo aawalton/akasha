@@ -1,0 +1,303 @@
+---
+id: 7aa171ba-8c0b-5657-b4d1-aee6390b52dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 681 - Lunch And Dessert"
+slug: 0682-chapter-681-lunch-and-dessert
+partOf: mythrans-master-of-all-continued-completed
+position: 682
+ownLength: 3451
+unit: words
+publishedAt: 2018-08-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285140/chapter-681-lunch-and-dessert"
+royalRoadId: "285140"
+---
+
+Ren and Artemis laughed and watched Gretchen and Dana run around the pen as they tried, quite unsuccessfully, to catch some very fast and pissed off chickens.
+
+“Oooh...oohh!” Ren held his sides. “If I'd known this was here, I would have come here years ago!”
+
+“It's not funny!” Dana said and stopped running to brace her hands on her hips to pout at Ren.
+
+“I don't know why they're so lively today.” The woman who owned the chickens said.
+
+“They wanted me to have a good laugh at the expense of my friends.” Ren said and laughed.
+
+“I guess that's a good enough reason.” The woman said and laughed, too.
+
+“You could help, you know!” Gretchen said and stopped running. “You don't have to just stand there and watch.”
+
+“I don't think interfering with someone else's quest is a good idea.” Ren said as he remembered interfering in Elerlyth's quest and ruining it, and he felt Gretchen's annoyance grow. “But, I guess you're right.” He said, and Dana's and Gretchen's relief flooded out. “I won't catch them for you, but I will make it easier.”
+
+“Any help is better than no help.” Dana said.
+
+Ren hadn't accepted the quest because he was worried that his level would change the circumstances, which would have meant that the chickens might have been nearly impossible for Dana and Gretchen to catch if he had participated. Ren cast Wall of Air and used the Shaper spell to make the one wall into a large trough to surround several of the chickens and pushed them together. He did this two more times and rounded all the chickens up.
+
+“There you go.” Ren said. “Three sets of boxed chickens.”
+
+“How did you do that?” Dana asked and looked at the corralled chickens being held by nothing.
+
+Gretchen reached out to grab the closest chicken and her hand hit something. “What is this?”
+
+“Oh, sorry.” Ren said and cast Color Spray on the Walls of Air and the three troughs he had made became rainbow colored.
+
+“My pen!” The woman who owned the chickens gasped as three large waist-high troughs appeared in her well-maintained yard.
+
+“It's okay, I'll dismiss the spells after the chickens are caught and it will be like they were never there.” Ren assured her, and she relaxed. “Okay, girls. Have at it.”
+
+Dana and Gretchen reached over the waist high walls easily and picked up the chickens to return them to the chicken coop. Some of the chickens started to run around, now that they had more room. Since it was a trough, Dana and Gretchen only had to wait a moment for the chickens to run by them, then they grabbed them and added them to the chicken coop.
+
+“Thanks a lot, Ren.” Gretchen said and closed the coop after Dana put in the last chicken.
+
+“You're welcome.” Ren said and dismissed the Color Spray and Wall of Air spells.
+
+“Good job.” The woman who owned the chickens said and gave Dana and Gretchen their rewards for completing the quest. “I hope to see you tomorrow!”
+
+“We might skip tomorrow.” Dana and Gretchen said at the same time, which made them laugh.
+
+“Now what?” Ren asked.
+
+“Bread deliveries.” Teela said from Dana's shoulder. “After that...”
+
+Ren listened to all the quests Dana and Gretchen did every day, and he was surprised that they did so much every time they got online.
+
+“It didn't start out that way.” Gretchen explained. “We just kept finding all these little quests to do and made some quick money.”
+
+“Yeah, and with Teela to guide us now, we don't even have to try and keep track of which one we should do and in what order.” Dana said. “My great little friend does it all for us!”
+
+“That's my job.” Teela said. “I'm always glad to help.”
+
+“Well, then.” Ren said. “Let's get to it.”
+
+Dana and Gretchen spent the next couple of hours doing all the little quests they had gotten used to doing, and Ren and Artemis followed along and helped out when it was necessary, or when Dana and Gretchen begged them sufficiently. When the girls were done, they were several gold coins richer and their reputations with the Market District shop owners was that much higher. Having Ren along had definitely helped in that regard, too.
+
+“Thanks for letting me come along today.” Ren said. “This was fun.”
+
+“Fun?” Dana chuckled. “We just busted our asses for over 2 hours!”
+
+“Yeah, it was great, wasn't it?” Ren asked, and he felt their surprise. “Come on, admit it. You enjoyed it.”
+
+“Well...” Gretchen started to talk and he smiled.
+
+“The two of you work well as a team.” Ren said.
+
+“We always have.” Gretchen smiled back at him.
+
+“Ever since we met, actually.” Dana said. “How long ago was that?”
+
+“I have no idea.” Gretchen answered. “We've been friends forever.”
+
+Dana chuckled. “It definitely feels like it.”
+
+Silence fell on them for several moments, and then Ren remembered what he had asked them earlier.
+
+“So, have you decided if you want to join us for lunch?” Ren asked.
+
+“Who else is going?” Dana asked, curious.
+
+“I planned on asking my shop manager, and possibly the other workers if they are up for it.”
+
+“So, it's a working lunch?” Gretchen asked.
+
+“Possibly, but not really.” Ren said. “I just wanted to spend a bit of time with Anabelle.”
+
+“Oh.” Gretchen said and took a step back. “We don't want to intrude...”
+
+“There's no intrusion.” Ren said and took her hand. “Artemis and Teepo are always with me, so it's not going to be special alone time with her.” He said. “Plus, like I said, the other workers might come along.”
+
+“Especially Holly.” Artemis said and leaned close to Gretchen to whisper. “She's got the hots for Ren.”
+
+“Wh-what?” Gretchen blinked her eyes for a moment and was pretty sure Artemis was trying to imply something.
+
+“She practically throws herself on him whenever she sees him, ever since he beat up her ex-boyfriend.” Teepo chittered in laughter.
+
+“He WHAT?” Gretchen exclaimed.
+
+“Boy, that sounds really bad when you say it like that, Teepo.” Ren said.
+
+“I know!” Teepo chittered in delight, as did Teela, and Ren laughed.
+
+“Walk with me up to the Artesian District and I'll tell you what actually happened.” Ren motioned with his free hand in the right direction, and Gretchen nodded. Neither of them had tried to let the other's hand go and they started walking side by side. By the time they reached Ren's business, Dana and Gretchen had heard the whole story.
+
+“That is going to make a great episode!” Dana exclaimed, and Ren and Gretchen laughed. Artemis opened the shop door for them and they all went inside. It was a little crowded still; but, since it was approaching lunchtime, it wasn't nearly as bad as it had been earlier that day.
+
+“My King!” Anabelle said loudly from across the shop, and everyone in the shop that hadn't noticed him already, turned to look at him. He gave them all a slight nod and let Gretchen's hand go, then walked over to the counter Anabelle stood behind.
+
+“I've got a couple of tables booked at Nathalia's restaurant for lunch.” Ren said. “Do you...”
+
+“Of course I do.” Anabelle said and cut him off. “I'll deal with these last few customers and we can go.”
+
+“I'll give you a hand.” Ren said.
+
+In less than 10 minutes, Ren, Anabelle, Holly, Katie, and Cherry had the place completely cleared out and Anabelle hung the 'closed for lunch' sign in the left front window by the door.
+
+“Ladies, you're more than welcome to join us.” Ren said to Anabelle's three helpers.
+
+“I have my own lunch plans.” Cherry said.
+
+“Unfortunately, so do I.” Katie said sadly.
+
+“I'm not busy, but I don't want to be the...” Holly stopped talking and counted the people with Ren. “...fifth wheel.”
+
+“Actually, you might be the seventh or even the tenth wheel.” Ren chuckled and she looked at him with wide eyes. “I'm stopping at the house to see if anyone else wants to join us.”
+
+“Then... okay! I'll go!” Holly said and hopped behind him to drape her arms over him. “I can't remember the last time I went to a big sit-down meal.”
+
+“It's been a while for us, too.” Ren said and deftly extracted himself from her loose embrace as they all stepped outside, without making it look like that was what he was doing, and Anabelle locked the door.
+
+“We'll be right back.” Ren said and took Artemis' hand, and they disappeared.
+
+“How does he do that?” Dana asked.
+
+“He's very, very fast.” Anabelle said. “Only when he wants to run or has something that he needs to do quickly, I mean.” She smiled crookedly, and both Dana and Gretchen knew what the smile meant.
+
+“Does he really take his time during sex?” Holly asked out loud, and everyone turned and looked at her in surprise. “What? Most guys rush right through it because they're so enthusiastic about it.” She said, and they had to agree that was most commonly the case. “So, does he go slow or what?”
+
+“He really does take his time.” Anabelle said demurely, then Ren, Artemis, Suniva, and the 4 succubi suddenly appeared in front of everyone.
+
+“GAH!” Gretchen gasped, startled. “Ren! Stop that!”
+
+“Sorry.” Ren grinned at her, and she shook her head at the blatant lie. They all walked down the street as a big group, and Gretchen ended up beside Ren somehow.
+
+“By the way, he's a terrible liar.” Artemis said from behind her, and you could hear the laughter in her voice. “If you have something that you don't really want answered, you better not ask him about it.”
+
+“Geez, give away all my horribly kept secrets, why don't you?” Ren asked, and everyone laughed.
+
+Gretchen was quiet for a few moments, then couldn't help but ask the burning question on her mind. “Ren, who here have you had sex with?”
+
+“Artemis, Suniva, and Anabelle.” Ren said without hesitation.
+
+Gretchen looked at the tall and very beautiful disguised succubi. “Can I ask why?”
+
+“Sure.” Ren said, then didn't say anything else.
+
+“You have inadvertently discovered his other weakness.” Artemis chuckled.
+
+“What do you...” Gretchen thought about it, then nodded. “He answered specifically what I asked and nothing more.”
+
+“You got it.” Artemis said.
+
+When they approached the restaurant, they all saw the line of people waiting outside.
+
+“We have reserved tables.” One of the succubi said to the people in line, then Ren and his large group entered the restaurant unhindered.
+
+“Welcome!” The hostess said. “You didn't say if you wanted a private area, so we put a couple of the tables together over there by the wall.”
+
+“That's fine.” Ren said. “Thank you.”
+
+The hostess led them over to the tables and looked at the large group with Ren. “Um, it might be a little crowded with so many...”
+
+“Don't worry about it.” Ren said and stored the two small tables and took out a huge single table that had plenty of room for everyone. He added a couple more chairs so that everyone could sit down comfortably, and once again, Gretchen somehow ended up by his side and Dana sat across from her with a silly grin on her face.
+
+Anabelle sat across from Ren and Artemis sat beside him. Holly sat beside Anabelle and the succubi scattered themselves around so that their Auras could cover as much of the crowd as possible. Suniva sat beside Artemis and the hostess smiled at them all. She waved two waitresses over to the table and everyone ordered what they wanted.
+
+They all made small talk until the food arrived, and then they all started to eat. Only the sound of utensils hitting plates could be heard over the low murmur of the other restaurant patrons. It didn't take everyone long to finish the great food they had been served, and they all sat back from the table to relax.
+
+“That was delicious.” Anabelle said and slid her foot up Ren's leg, then rested her heel between his legs and wiggled her toes on his private part.
+
+“It's the best food around.” Holly said. “I mean, I know we don't have to eat anymore; but, it tastes so good that I eat anyway.”
+
+Ren chuckled. “That's one of the best reasons to eat here.” He said. “It tastes really good and you enjoy it.”
+
+“Thanks for inviting us.” Gretchen said.
+
+“You let me tag along and you made me laugh.” Ren smiled at her. “The least I can do is feed you after that.”
+
+“Is that all we need to do to get an expensive meal out of you?” Dana asked with a huge smile. “We just have to make you laugh?”
+
+“It's a good place to start.” Ren chuckled.
+
+“That's a dessert laugh right there!” Dana said and pointed at him, and he laughed. “Look! Another dinner!”
+
+“Okay, okay! I get your point.” Ren said and waved to one of the waitresses. She came over to him and he motioned for her to bend down close. He whispered in her ear for a moment, then she stood up and nodded.
+
+“I'll be right back.” The waitress said and quickly walked towards the kitchen.
+
+“What did you say to her?” Gretchen asked.
+
+“You'll find out in a minute.” Ren said with a grin.
+
+Two waitresses came out of the kitchen and they each carried a large covered tray of something. They placed them on the middle of the table and stepped back, then Ren stood up.
+
+“For your eating pleasure, a delicacy known only in the Dwarven Kingdom. I present to you...” Ren nodded to the waitresses, and they stepped forward and removed the covers of the trays. “...the best dessert in the world!”
+
+“Puff Pastries with whipped cream!” Teepo exclaimed as the two large mounds of them were revealed.
+
+“Ladies, please help yourselves.” Ren said and sat down.
+
+No one moved for several moments, then Anabelle reached out and plucked one of the 2 inch wide round puffy desserts and took a small bite. She gasped as the rich flavor hit her tongue, then the succubi gasped from her emotional reaction.
+
+Gretchen took one next and tried it, and she gasped as well. “It's really good!”
+
+Everyone took one and started eating and Ren let their emotions wash over him. He also felt the reactions of the succubi as they fed on both the dessert and the resulting emotions from themselves and the other women at the table.
+
+“I didn't think things like this existed.” Dana said and picked up another. “I can have another one, right?”
+
+Ren chuckled. “No, the rest are just to look at.”
+
+“Ha, ha.” Dana said sarcastically and kept eating.
+
+“You should have one, too.” Anabelle said from across the table and picked another dessert up. “I can't reach you from here.”
+
+Not with your hands, anyway. Ren thought and quickly glanced down and back up at her, and she smiled.
+
+“Say 'ah'.” Gretchen said from beside him, and he turned his head to look at her. Her face was slightly red and she held a puff pastry close to him. Ren opened his mouth and leaned closer, and she moved her hand in closer as well. He very slowly took a bite out of the dessert, and her face flushed completely red.
+
+Ren felt her emotions shift to a need for retreat, so he used a hand to brace hers and held it steady. Gretchen couldn't tell him to let her go, since she had offered the pastry to him, so she didn't try to pull away. He gave her a little smile and took another bite, then he ate the last bit of it to leave her empty-handed, except for some whipped cream on her fingers. He leaned back in and opened his mouth to lick her fingers, and he felt her panic.
+
+“That's okay! I got it!” Gretchen said and pulled her hand back without any resistance from him. She was surprised that Ren hadn't been holding her hand tightly at all, and Ren held in his amusement at her emotional turmoil. He looked at her fingers and then at her with raised eyebrows, and she resigned herself to her decision. She stuck out her tongue and licked her fingers clean, and her face went to an even deeper red as she saw how Ren and the succubi had watched her.
+
+“You liked seeing that, didn't you?” Gretchen asked, a little annoyed that Ren had made her do it.
+
+“I really did, mainly because you actually went through with it.” Ren said.
+
+Gretchen raised her eyebrows at him in a silent question.
+
+“I expected you to just wipe them off, not lick them clean.” Ren said with a big smile. Gretchen's mouth dropped open in shock, because she hadn't even considered doing that, and he laughed.
+
+“That's another dinner!” Dana exclaimed, and everyone laughed.
+
+Ren picked up a puff pastry and held it out for Gretchen. “Please allow me to make it up to you.”
+
+Gretchen's eyes flicked from the dessert to his face and back again, several times. Ren felt her trying to discover what the trick was, so he gave her a happy smile and moved the pastry from side to side. After another moment of hesitation, she sighed and took a bite of it. It was just as delicious as the first time she had taken a bite, and she took another and the pastry was gone. Ren was left with some whipped cream on his fingers and she thought that was the trick he was going for, so she frowned at him.
+
+“That's okay. I've got this.” Ren said, which almost repeated her words, then he very slowly and methodically licked his fingers clean. Gretchen had watched every single flick of his tongue and every movement of his lips as he did so, and she couldn't help herself as she imagined him licking and kissing something else. Her face went bright red from embarrassment as that thought crossed her mind, and then his non-licked hand was suddenly on hers.
+
+“I'm sorry, Gretchen. I was caught up in teasing you and I took that a little too far.” Ren said, his own face was slightly red. “Please don't be embarrassed. It was my fault.”
+
+“Th-that's okay.” Gretchen said.
+
+“No, it's not.” Ren said. “How can I make it up to you?”
+
+“You don't have to do anything to...”
+
+“I think I know what to do.” Ren said and smiled, then turned away from the table and activated his Craft Wondrous Item ability. He edited the recipe for a helm and made it look like what he wanted, then added the appropriate colors and crafted it.
+
+“What are you doing?” Gretchen asked, her embarrassment quickly fading because of her curiosity.
+
+“It's done.” Ren said and turned back to the table as he quipped the new helm.
+
+“BWAHAHAHA!” Dana burst out laughing as she saw that Ren now had the head of a giant chicken.
+
+“I call it the Helm Of Cluck.” Ren said, then the helm let out a loud chicken squawk. “BAKAAWWK!”
+
+Everyone at the table started laughing, as did several people at the next table over.
+
+“Every time I finish a sentence, it will make a noise.” Ren said. “BAKAAWWK!”
+
+“Oh, my GOD!” Gretchen laughed and covered her mouth with both hands.
+
+“Hurry up and finish the desserts.” “BAKAAWWK!” “We need to clear out before we get in trouble with the other customers.” “BAKAAWWK!” “Then again, I think we should take them to go and free up the table.” “BAKAAWWK!”
+
+The whole restaurant was laughing at this point, and Dana and Gretchen had tears in their eyes from laughing so hard.
+
+Ren raised his hand to wave at the waitress. “Check, please.” “BAKAAWWK!”
+
+The waitress came over, her face locked into laugh mode and handed him the bill. Ren took out enough gold to cover the meals, the desserts, the tip, and included a little extra for disturbing everyone. He stood up and quickly dispersed the remaining desserts onto plates and stored them, then he switched out the large table and put the two normal-sized tables back.
+
+“Ladies, it's time to go.” Ren said. “BAKAAWWK!”
+
+The group of women with him could barely stand because they were laughing so much; but, they all managed to walk out of the restaurant without incident.
+
+“Thank you... for choosing... Nathalia's Nourishment!” The hostess said between laughs. “Have a great day!”
+
+“You, too.” Ren said. “BAKAAWWK!”

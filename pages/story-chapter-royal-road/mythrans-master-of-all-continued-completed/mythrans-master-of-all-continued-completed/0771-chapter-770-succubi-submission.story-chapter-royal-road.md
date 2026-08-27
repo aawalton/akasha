@@ -1,0 +1,293 @@
+---
+id: 68bedb75-f094-5c90-b70f-7aef2984789d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 770 - Succubi Submission"
+slug: 0771-chapter-770-succubi-submission
+partOf: mythrans-master-of-all-continued-completed
+position: 771
+ownLength: 3141
+unit: words
+publishedAt: 2018-11-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308747/chapter-770-succubi-submission"
+royalRoadId: "308747"
+---
+
+When Ren was done telling his story, all of the succubi had knelt on their knees and submitted to him. After hearing Katori's explanation earlier about wanting this bond with him, he wasn't surprised that the other succubi would want that, too. Their partners however, were less than thrilled.
+
+“Zunala, why are you kneeling?” Weston asked her in confusion. They had been together ever since they had moved to the county. “He's not feeding you.”
+
+“I've submitted to him.” Zunala said.
+
+“Excuse me?” Weston touched her shoulder and almost gasped at the strength flowing through her. “What does that mean? Are you leaving me?”
+
+“No, she is not.” Ren said sternly, and everyone felt his annoyance. “All this means is that she has a bond with me and is under my domain.”
+
+“If I am ever in trouble and need his help, he will be there for me.” Zunala said.
+
+“What about me?” Weston asked. “I was going to be there for you.”
+
+Zunala took a breath and stood up to face her lover. “If there comes a time when things are so bad that neither I nor those around me can handle it, he will come to my... to our... rescue.”
+
+“Why do I get a sense that we aren't included in that?” One of the other men asked.
+
+“You don't have to be; but, you can be.” One of the succubi said and stood, then the rest did as well. She turned to the man and hugged him. “All you have to do is submit to King Ren and receive the same blessing.”
+
+“So he'll come and rescue me, too?”
+
+“If it's necessary.” She responded.
+
+“What would the conditions have to be like? Almost dying? Stubbing my toe? Will he come and save me from a bad dream?”
+
+“I won't get any kind of feeling unless it's a life-or-death situation.” Ren said, and everyone looked at him. “It's happened only once before and that's how I know.”
+
+“You responded instantly?” The man asked.
+
+Ren nodded. “I opened a portal directly to her when I was notified that she was in mortal danger and I saved her from being killed.”
+
+“Who was it?” Someone else asked.
+
+“I can't say.”
+
+“Ha. That figures.”
+
+“I'm protecting her identity and saving her from embarrassment.” Ren said. “I won't expose her to ridicule, rumors, or speculation.”
+
+“So, you can't actually prove that you'll save them when it might be necessary.” Someone else said.
+
+“How dare you doubt him!” Seldanna said as she equipped her Vampiric Sword and her Terror Aura covered them all. “He is telling the truth! He has always told the truth!”
+
+Ren touched her arm and Seldanna took several deep breaths as his calmness filled her. “You can't blame him for wanting proof.”
+
+“How many times have we seen you use portals to traverse across the land? How many times have you traversed into other realms?” Seldanna asked. “For him to doubt you could be there in moments is preposterous!”
+
+“I know that and you know that...” Ren started to say.
+
+“We all know that.” All of the other succubi said as one, and he felt dismay and a bit of sadness from their chosen mates.
+
+“This isn't how I thought things were going to go.” Ren said, slightly frustrated. “I guess I should have been prepared for something like this.”
+
+“You have mastered Beastiary Control, My King.” Seldanna said. “Even if we did not love you already, we would be drawn to you regardless.”
+
+“Wh-what?” Ren blinked his eyes at her. “What do you mean?”
+
+“You are the master of beasts, My King.” Seldanna said. “Your power flows out and through the dire wolf mark and into our bond. The feeling of belonging to something much bigger than ourselves... to a family... is one we have never felt before.”
+
+“But...” Ren looked around at the people standing beside the succubi.
+
+“Yes, we belong to each of our chosen partners.” Seldanna said. “You, and they, can feel that we do.”
+
+No one could dispute that, because they could all feel it, even the humans.
+
+“Being a part of a family is separate from that. We were close before, since we spent so much time together; but now, we are truly together as a family under your care, My King.” Seldanna said. “This doesn't cheapen our emotional bonds to those we care about. What it does is free us to devote even more of ourselves to living our lives without worry.”
+
+Ren could feel that she believed that with all of her heart, and when he concentrated on the succubi, he could tell that they all felt the same. Unable to refute her words, he had to accept that when she and the succubi submitted to him, it was for their own benefit and not his.
+
+“What does this all mean?” A woman's voice asked, and Ren turned to look at her. She had an arm around Fayeth's waist, and a man stood between them and had an arm around both her and Fayeth.
+
+“I have relieved a worry of theirs that I didn't know they had.” Ren said in understanding. “Or, to be more precise, I've given them peace of mind.”
+
+“Yes, My King. That is exactly what it is.” Seldanna said and hugged Ren from behind, then she sighed in contentment as her breasts rested on his shoulders and his head fit between them. Ren looked up at her and nodded, then he concentrated on his Reassurance Aura and the dire wolf mark as he poured a feeling of family out through them. All of the dire wolf marks glowed on their chests, and the family feeling flowed over them and was returned with both acceptance and appreciation.
+
+*
+
+The attendant and most of the cooks caught their breath as their marks glowed and they were filled with a feeling of family. Yuwen, Tiyaphi and Dilseffa put a hand on their hearts and closed their eyes. They let the feeling fill them and felt appreciation, then the feeling faded and the glow stopped.
+
+“He's using the Vasalor Statue.” Artemis said. “That's why the feeling was so brief.”
+
+“I wonder who else submitted to him?” Yuwen asked.
+
+“Probably the succubi.” Artemis said and closed her eyes. “Yes, it's the succubi.”
+
+“All of them?” Yuwen asked, surprised. “None of them even tried to fight? Not even the Sovereign?”
+
+“She loves him deeply.” Artemis opened her eyes and chuckled. “Well, as much as a succubus can love someone besides themselves, that is.”
+
+“Are they really manipulative?” Tiyaphi asked. “I've heard they are; but, I've never met one.”
+
+“They can be... if they hadn't met Ren.” Artemis said. “He's curtailed their more... dangerous tendencies.”
+
+“That's good.” Dilseffa said. “I've heard that even their touch can corrupt you.”
+
+“It can, as can their kiss.” Artemis said.
+
+“Does he kiss them?” Yuwen asked.
+
+“Yes.” Artemis smiled, and the Pervarians felt her naughty emotions.
+
+“He does that to them, too?” Dilseffa asked, surprised.
+
+“That's all he will do to them, though.” Artemis said, and hid her amusement when she felt the three women relax.
+
+*
+
+“My King, will you be staying for a while?” Seldanna asked.
+
+“Do you want me to, even after getting you to move back here?” Ren asked.
+
+“I will take any time that you want to give me, My King.”
+
+“How about a week?” Ren asked, and he felt surprise from all of the succubi and some of the humans. “You're right, that's not enough.” He said and smiled. “How about a week each?”
+
+“You don't mean for all of us, do you?” Weston asked nervously.
+
+Ren chuckled. “No. Only those unattached qualify for alone time with me.”
+
+“Whew. That's a relief.” Weston said. “You're a good man and you've done a lot for us; but, I don't want to spend a week alone with you, no matter what we were doing.”
+
+Ren laughed. “Before you make any snap judgments, I don't have intercourse with them.”
+
+Shock and surprise from all of the humans burst out. Ren's Emotion Siphon ability absorbed a pile of it and they calmed down almost immediately.
+
+“Are you serious? You don't...” Weston looked at Zunala and his desire flooded out. “How can you resist such beauty and not want to become one with them?”
+
+“I never said I didn't want to.” Ren said, and everyone looked at him with wide eyes. “I only said that I can't and I won't.”
+
+“Why?” One of the other men asked.
+
+“If they meet someone that they want to keep, I have no right to sleep with them and deny their potential partner's enjoyment of their first time with a mortal.” Ren said. “That forms a bond between them in its own right.” He looked at all the human faces. “You've felt it, haven't you? The succubi gave themselves over to you and you took them.”
+
+Their human partners looked at the succubi and the succubi looked back at them.
+
+“You gave yourselves to them in turn, and that is something precious. I won't take that feeling away from who they choose to sleep with.” Ren said.
+
+Seldanna kissed the top of his head. “Even if we really want him to, he won't.”
+
+“You can still only last a few minutes while going down on me, even after this long together.” Ren said with a big grin. “What do you think would happen to you if we tried to have sex?”
+
+Seldanna opened her mouth to say that she wanted it, no matter the circumstances, then she laughed. “All right, you've made your point.”
+
+“Is he really that potent?” Weston whispered to Zunala.
+
+“I wouldn't know.” Zunala whispered back. “I've never touched him like that.”
+
+“On that note, I think we can call this impromptu meeting to an end.” Ren said, and they all looked at him. “Please go back to whatever you were doing.” He said and deactivated the statue and stored it.
+
+“Oh, damn! I'll be late for the morning shift on guard duty!” Weston said. “Alviss, let's go!”
+
+“There's no rush.” Ren said.
+
+“We've been talking for...”
+
+“...only a second.” Ren said with a big smile. “Go back to bed and finish spending the morning with your loved ones.”
+
+“But...”
+
+“He's right. It's only been a second.” Zunala said. “We have another hour before the shift change.”
+
+Most of the succubi and their human partners left, except for Fayeth and the married couple she was with.
+
+“My King, thank you for making me a part of your family and for...mhmm.” Fayeth stopped talking when the woman's hand covered her mouth.
+
+“She tends to ramble and not get to the point quickly.” The woman said with a smile. “It's endearing and a little annoying sometimes.”
+
+“That sounds familiar.” Teepo said and chittered in laughter, then Seldanna, Katori, Ellaria, and Chenoa laughed, too.
+
+“We were wondering...” The woman started to say, then she became very shy and stopped talking.
+
+“Are we eligible for this 'week of time'?” The man asked.
+
+“That depends on what you mean.” Ren said and raised his eyebrows.
+
+“Well, we... with a family to take care of, we can only come here to be with Fayeth once a week, and that's only if we can get a babysitter.”
+
+“Oh, so it's just the extra time and not necessarily spending it with me.” Ren said, then he felt a negative reaction from the woman. He hadn't expected that and shifted his gaze to her, then he felt her desire and need. He blinked his eyes at her for several moments when he understood what she wanted.
+
+“We can't kiss.” The woman said adamantly. “That's what... I've only ever kissed...”
+
+“The only man you want that experience with is your husband.” Ren said, and she nodded.
+
+“I'm devoted to both my wife and Fayeth.” The man said. “Unfortunately, even with your magic rings that give us everything we need to live...”
+
+“You are having a hard time keeping up with two voracious appetites.” Seldanna said, and he reluctantly nodded.
+
+“I've been keeping up with my wife's needs pretty well, since like I said, we barely have time alone to get away from the house and we can only steal appropriate moments once in a while.” He admitted.
+
+“Jay, you're volunteering too much.” The woman said with a bright red face.
+
+“Sorry, Rachel.” Jay said. “Once we started seeing Fayeth, well...”
+
+“They both went into overdrive.” Ren said.
+
+“It's so exciting!” Rachel said happily. “I can't believe we found someone who could love us both, and then when we started to fool around...” Her face stayed red. “...it's like magic.”
+
+“That's because it is magic.” Ren said and activated the Vasalor Statue, then walked over to her. “When you find someone to love and they love you back, there's no better feeling.”
+
+“Don't... don't misunderstand.” The woman said when Ren stood in front of her. “I'm not... we're not... looking for...”
+
+“Rachel, I understand.” Ren said and reached up to cup the side of her face. She was only about 10 inches taller than him. “I don't have the room in my heart to fit anyone else in, either.”
+
+Rachel closed her eyes for a moment as he filled her with good feelings, then she sighed. “We hoped that... since Fayeth trusts you implicitly... you could...”
+
+“Do us a big favor.” The man said. “We know it's a lot to ask, especially since we've all heard about the women you've got on the go.”
+
+“Jay!” Rachel's face burned red from embarrassment and Ren absorbed some of it.
+
+“He keeps them all satisfied, Rachel.” Jay said. “I'd like to know his secret, or at the very least, get some tips from him.”
+
+Ren chuckled. “There's no secret to keep.” He said. “I just really enjoy sex and can keep going.”
+
+“You can what?!?” Rachel asked, surprised.
+
+“I don't need to stop when I finish.” Ren said, and he felt her desire for him flood out and she became weak in the knees. “Easy, now.” He said and cupped the other side of her face. “Don't faint.”
+
+“You... are you magic, too?” Rachel asked, and he chuckled.
+
+“Some people think so.” Seldanna said. “Now, what is it you want My King for?”
+
+“You felt it. My wife wants him.” Jay said. “I love her and will do anything for her.”
+
+“I assume you haven't been able to find anyone else to fill this role?” Ren asked, and Fayeth, Rachel, and Jay, shook their heads. “Just so I understand correctly, you want full intercourse from me, right?”
+
+“I... I do.” Rachel said, her face still a deep red. “As long as you don't expect a commitment from me.”
+
+Ren let her face go and felt her slight disappointment at the loss of his touch. “It's odd that someone else is asking me to not make a commitment.” He said with a smile. “That's usually my line.”
+
+Rachel felt the hope of being satisfied once more. She hadn't felt that hope since meeting Fayeth, and she had been satisfied a lot since then. A moment later, Fayeth's hope joined hers because she wanted them both to be satisfied. They just wanted to be happy, and they were looking for that balance that all good relationships needed. That need had brought them to Ren.
+
+“You would have still asked me, even if I couldn't give out time like this, wouldn't you?” Ren asked, and the three of them nodded. “Do you expect any of the other succubi to participate?”
+
+“Good god, no.” Jay said. “Having two of them is more than I can handle as it is.”
+
+Seldanna and the others laughed, because he had referred to his wife as one of them.
+
+“I assume this is just a one-time thing, since you don't want any kind of commitment?” Ren asked, and the three of them nodded.
+
+“I can't imagine making you agree to do it more than once, especially when we don't know if one time is going to work out or not.” Jay said. “What if we agreed to meet several times and the first time is a disaster, and we have to meet a few times after that?” He chuckled. “What a nightmare that would be!”
+
+Ren smiled. “Is it okay if I take some time to think about it? This is kind of a big decision to make.”
+
+“Of course.” Rachel said, and he felt the underlying current of resignation in her emotions, and she fully expected him to say no. “Take all the time that you need.”
+
+“Thank you.” Ren said and took her hand, then bent over it and kissed the back of it. She caught her breath at being treated like a high class lady, and it flustered her just enough to make her remove her hand from covering Fayeth's mouth. She waved that hand in front of her face instead.
+
+Ren smiled as he let her hand go, turned around and took one step, then turned back around to face her. “I think that's long enough to think about it.” He said, and felt disappointment from the three of them. When someone decided that quickly, it was usually a 'no'.
+
+“I knew I shouldn't have...” Fayeth started to say.
+
+“I would be happy to try and make you happy.” Ren said to cut her protest off, then felt utter joy from Rachel.
+
+“We can use Fayeth's room!” Rachel exclaimed, then she, Fayeth, and Jay walked towards the doorway.
+
+Ren and the remaining succubi followed them out of the room and down the hallway. “Go on in, and I'll be right there.” He said to Fayeth when they reached her room. She nodded and took Rachel and Jay into the room and shut the door. Ren turned to Seldanna and smiled. “You first, or should we share?”
+
+“Wh-what?”
+
+“I promised you a week each, didn't I?” Ren asked. “Let's go to your room.”
+
+“But...”
+
+“They won't even notice that I'm spending time with you first.” Ren said and a step up into the air.
+
+Seldanna smiled and gave him a kiss. “I think we would all have more fun sharing.”
+
+“Yes.” Ellaria said.
+
+“I agree.” Chenoa said.
+
+“I can't believe we still get knocked out because we can't handle it when you finish.” Katori said, and that made them all laugh.
+
+“It's a challenge!” Seldanna said and they went to her room. “One we will meet head on!”
+
+“Head on! Ha ha!” The other succubi said and laughed.
+
+For the next 4 weeks, they did their best to improve their attempts at satisfying Ren and not collapsing into unconsciousness when he finished. When their time was up, he gave them each a big kiss and left the room, then he walked over to Fayeth's room and went inside.

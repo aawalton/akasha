@@ -1,0 +1,201 @@
+---
+id: 58c8da16-cafd-5cb5-a942-4d69179a39ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 713 - Conflict Of Interest"
+slug: 0714-chapter-713-conflict-of-interest
+partOf: mythrans-master-of-all-continued-completed
+position: 714
+ownLength: 2559
+unit: words
+publishedAt: 2018-09-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293944/chapter-713-conflict-of-interest"
+royalRoadId: "293944"
+---
+
+Fire Dancer had watched the interaction between Ren and Zetaya and wondered how they had succeeded in having a friendship for all those years, despite being two different species, and they couldn't even communicate effectively with each other until today. It wasn't until she thought about Ren and how he treated everyone he came into contact with, that she realized he would treat everyone the same way, at least until you proved that he shouldn't.
+
+Ren, Zetaya, and Teepo were comforting presences as Fire Dancer went about her day running the Fire Realm. She tended to the needs of its citizens and maintained any and all Fire requirements in the Earth Realm. She would occasionally get a popup telling her some underbrush or part of a forest needed to be cleared away, and she would open a portal and ignite the chosen targets, consume the resulting energy, and disperse it to her subjects.
+
+The day passed by quickly and she headed back to her bedroom. When she closed the door, Ren and Zetaya jumped out of her hair and walked down to the floor. Ren increased himself and Zetaya to Fire Dancer's size and they both gave Fire Dancer a hug at the same time.
+
+“You did a great job today.” Ren said, proudly.
+
+“Father, I do the same job every day.” Fire Dancer said, and he chuckled.
+
+“That doesn't mean you didn't do it well.” Ren said and let her go. “I felt your emotions the whole time and I know that you were enjoying it.”
+
+“What kind of ruler would I be if I didn't enjoy tending to my realm's citizens?”
+
+“A bad one.” Ren grinned, and she had to chuckle. “I also thought of a good idea for Zetaya's debut party.”
+
+“Oh, what is it?” Fire Dancer asked.
+
+“Do you remember that lush forest I grew for you when I asked to come here?”
+
+“Oh, that fresh and new growth was so tasty!” Fire Dancer said before she could stop herself.
+
+Teepo chittered in laughter at her emotions and then she tried to suppress her emotions. “Deity of Fire, you don't have to hide how you feel.” He said. “We're all family here.”
+
+Fire Dancer looked at Teepo, then at Ren and Zetaya, and sighed. “I'm too used to hiding how I feel from everyone. I can't just turn that off.”
+
+“Well, you don't have to turn it off all the time, just when we're here alone.” Ren said. “Unlike everyone else, we won't judge you for how you feel.”
+
+Fire Dancer thought about it, then looked at Zetaya. “What if I said I don't want her to have a big debut party?”
+
+“I'd ask why you want to hide one of your best creations.” Ren said, and Fire Dancer looked at him with wide eyes. “You've done something that even your mother couldn't do.”
+
+Fire Dancer caught her breath at that realization.
+
+“You've made this realm your own, through hard work and perseverance.” Ren said and cupped the side of her face. “You even created a Fire elemental that had the ability to evolve into a Greater Fire elemental when it was powerful enough, then you helped it to become one of your own race.” He smiled. “You are no longer alone, Honey.”
+
+“I've been Ren's friend for years.” Zetaya said and cupped the other side of her face. “Now it's your turn, Creator of Fire.”
+
+“But... if you're here, then... how will I... Ren can't...” Fire Dancer stopped talking and let her emotions speak for her.
+
+“I have a solution for that.” Ren said, and he felt her hope. “This wouldn't have worked before, because I didn't have the ability to make it then.” He let her face go and took out a Special Sending Ring made of platinum. “It matches this one.”
+
+Fire Dancer saw an identical ring on his middle finger as Ren lifted his hand to show her that it was next to the Beetle Crown ring. He had no other rings on his fingers.
+
+“When you want to talk to me or I want to talk to you, my ring will glow, then drop me into the same time compression as the Fire Realm.”
+
+“Wh-what?”
+
+“I figured we needed some way to talk if I got too busy, or if I was going to be late, or if you had an emergency and need me to come early, or any other kind of situation.” Ren said. “Unfortunately, it won't work for me if I'm on Adventurer's business.”
+
+“F-father, I...” Fire Dancer didn't know what to say.
+
+“It will work to talk to Teepo, though.” Ren smiled, and both Fire Dancer and Teepo gasped. “That's why I'm wearing it on the next finger, so the rings are always touching.”
+
+“Wow, Ren!” Teepo chittered in delight and jumped over to land on his shoulder. “That's so great!”
+
+“I figure you'll let me know what's up if anything happens while I'm gone.” Ren said and once again caressed Fire Dancer's cheek. “I needed you to know that even when I'm busy, I'm still thinking about you.”
+
+“F-father.” Fire Dancer touched the hand on her face and she took in a deep breath. “I hope you don't think that this makes up for you being almost 2 years late this time.”
+
+“No, I have another surprise for that.” Ren said and let her face go. “Can you change into your nightgown?”
+
+Fire Dancer changed her armor into a nightgown, and Ren stepped back a couple of steps and motioned to her bed. She gave him an odd look for a moment, then climbed onto the bed without saying anything and laid down.
+
+“Now relax, or this might hurt a little bit.” Ren said and his hands started to glow.
+
+“What are you doing?” Zetaya asked and changed into her nightgown as well.
+
+“This.” Ren said and pointed both hands at the bed. A hundred giant feathers appeared above Fire Dancer and started to tickle her mercilessly.
+
+“The Tickle Monster!” Teepo chittered in laughter as he recognized the spell Tiatha Miarora, the Dark Elf Queen's healer and attendant, had given Ren. Fire Dancer laughed and laughed as the feathers tickled her all over, and Zetaya laughed as she felt the mirth and happiness Fire Dancer couldn't restrain.
+
+“I think we need to help!” Zetaya exclaimed and gave Ren a conspiratorial look.
+
+“Oh, I definitely agree.” Ren said, and they jumped onto the bed.
+
+Fire Dancer felt a moment of relief at being rescued, then Ren and Zetaya used their fingers to tickle her in the spots that the feathers couldn't reach.
+
+“BWAHAHAHA!” Fire Dancer guffawed as her friends tickled her. Ren dismissed the spell and it was only him and Zetaya tickling her, then he slowed down and stopped as he laid down next to Fire Dancer. Zetaya laid down on her other side, and they put their arms around her and held her. Fire Dancer was panting heavily from laughing so much, and then Ren and Zetaya cuddled in when her breathing evened out.
+
+“I love you, Fire Dancer.” Ren said. “I may be late and I may go missing; but, I never want you to doubt that I will do everything I can to come back to you.”
+
+Fire Dancer turned her head to look him in the eyes, and she felt his sincerity. Ren moved slightly up and kissed her forehead, poured his love into her, then moved back to look her in the eyes.
+
+“Are we sleeping all night this time, or are we doing the nap thing and having fun the rest of the night?”
+
+“I vote for nap.” Zetaya said. “We need to have a dress-up party to decide what I'm going to wear tomorrow.”
+
+“Hey, we can all dress up.” Ren said. “What do you say, Honey?”
+
+Fire Dancer felt their pure and unfiltered emotions, and couldn't say no to them. “Nap.”
+
+“Nap it is.” Ren said and kissed her cheek. “Goodnight.” He activated the sleep function on his Special Sending Ring and gave Fire Dancer one last squeeze, patted Zetaya's arm next to his, then drifted off to sleep.
+
+They woke up an hour later refreshed and ready, then spent several hours playing dress-up and carrying on. Once they had decided on the outfits they wanted to wear for the party, Ren created a magical barrier and absorbed all of the Fire inside of it, then made a bunch of party decorations. He made them indestructible and stored them, then filled the magical barrier with Fire and dismissed the barrier.
+
+Ren excused himself from Fire Dancer's presence and went to the throne room, cast Full Illusion on most of the room to hide what he was doing from the Fire elementals that were still there, then decorated the walls and ceiling with the party decorations. He finished quickly and went back to the bedroom and saw Fire Dancer and Zetaya were whispering back and forth.
+
+“Am I interrupting anything?” Ren asked and walked over to them.
+
+“We were just discussing the best way for Zetaya to enter the throne room.” Fire Dancer said.
+
+“Ow.” Ren winced. “Geez, don't lie to me so blatantly. That hurt.” He said and turned around. “All you had to say was that I was.”
+
+“Ren.” Zetaya said, and he stopped walking. “She wanted to know about...”
+
+“No, that's okay.” Ren said and shrunk himself and Teepo down to their normal size. “If she can't trust me enough to tell me the truth, then I don't want to know.”
+
+“Father...”
+
+“I don't know what else I can say or do to earn your trust, Deity of Fire.” Ren unfurled his wings to fly up into the air. “When you figure it out, let me know. That way I can do it and you can finally start trusting me completely.”
+
+“I... I do trust you.” Fire Dancer said, and he only winced slightly.
+
+“Well, that didn't hurt very much, so you're almost there.” Ren said.
+
+“We were talking about you, all right!?!” Fire Dancer exclaimed.
+
+“I know that.” Ren said. “It was either something personal about me or something you don't want me to know.” He sighed. “I'm tempted to get you to tell me everything; but, I'm going on a survey flight over the surrounding land for a while instead.”
+
+“Father...”
+
+“Go ahead and talk about me all you want, and I won't even ask about what you're discussing when I get back.” Ren said and turned towards the door. “See you in a while.” He flew out of the bedroom and out of sight.
+
+*
+
+“You shouldn't do that to him.” Zetaya said, and Fire Dancer felt her anger.
+
+“I don't want him to know that I'm trying to...”
+
+“I don't want to know, either.” Zetaya said and stepped back. “I don't want to keep secrets from Ren.”
+
+“I made you to tell me everything he did.”
+
+“Yes, and I've told you everything I've witnessed and everything he's told me.” Zetaya said. “What I am not going to do is ruin my friendship with him because you...”
+
+Fire Dancer tried to interrupt her. “As the Deity of Fire, I-”
+
+“Don't finish that order!” Zetaya snapped and cut off her words. “I am under your domain; but, I am under Ren's domain as well and I am also his possession.” She said. “He can countermand anything you order me to do, and I can wait to ask him if it's okay to follow whatever you may order me to do, too.”
+
+Fire Dancer frowned. “What if I ordered you to change clothes?”
+
+“I would wait for Ren to come back and ask him if it's okay.” Zetaya said. “Unlike you, my whole priority is him. I only exist for him. He's my friend and I love him.” She said. “I know that seems to be such a simple generalization, and I know that you know this even better than I do.”
+
+Fire Dancer sighed. “Why can't you just be compliant and...”
+
+“I just told you why.” Zetaya said. “I want to be your friend, too; but, not if it costs me Ren. It's not worth it.”
+
+“Excuse me?” Fire Dancer asked, surprised. “Would you rather be in his good graces than mine?”
+
+“That's not what I'm saying at all.” Zetaya said. “What I'm saying is, I know why Ren feels frustrated with you sometimes.”
+
+“Well, then.” Fire Dancer almost huffed her derision and crossed her arms. “Why don't you enlighten me?”
+
+“You're too frigid.”
+
+“Wh-what?”
+
+“You're cold and confrontational and you don't like things that change too quickly. You fight your own need to adapt to any new situation, and you take it out on those that care a lot about you.” Zetaya said.
+
+“There hasn't been anyone around to care for me!” Fire Dancer practically yelled as her anger bubbled to the surface, and Zetaya put a calming hand on her arm.
+
+“There, did you feel that?” Zetaya asked as she felt the emotional spike from her. “You keep going back to your feelings of being abandoned, even though you know it wasn't Ren's fault.” She said. “Or mine, for that matter.”
+
+Fire Dancer knew she was being unreasonable; but, she couldn't help feeling how she felt. “Staying around for only a few decades, and not even all together in one lump, doesn't make up for millions of years of not being there.” She uncrossed her arms and did her best not to sigh as Zetaya stopped touching her. “It doesn't really matter whose fault it was. It still happened.”
+
+“We can't make up the time, Creator of Fire.” Zetaya said. “Like Ren said, all we can do is be here from now on.”
+
+“But...”
+
+“We have years to work everything, out.” Zetaya said and took her hand. “All you need to do is try to stop yourself from being angry about it.”
+
+*
+
+Ren could feel the range of emotions that Fire Dancer and Zetaya were going through, and he knew there wasn't really anything he could do to help, except give them space. He couldn't really blame Fire Dancer for not wanting to trust him completely, especially since it was so difficult to establish stability in her life when he needed to leave for Adventurer's business.
+
+Ren quickly flew around on his random patrol and he and Teepo looked for anything suspicious. They didn't find anything, not this close to the castle, and Ren landed on the top of the lava fountain in front of the castle to wait for what he thought was an appropriate time. When that time expired, he flew back into the castle and to Fire Dancer's bedroom.
+
+Fire Dancer was in her bed and Zetaya was in Ren's bed across the room. He couldn't feel any animosity from either woman, and he made himself as big as them before crawling onto the bed with Zetaya. She opened her arms to him and he cuddled in, rested his head on her chest, and they both sighed as they felt each other's comforting touch.
+
+“Goodnight.” Ren said.
+
+“Goodnight.” Zetaya responded.
+
+“Goodnight.” Fire Dancer said and held in her sigh.
+
+“Goodnight!” Teepo said happily, and the three people in bed laid there and didn't sleep at all as they waited for morning and the debut event for Zetaya.

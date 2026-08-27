@@ -1,0 +1,241 @@
+---
+id: 2e687944-a3ce-5b83-b40b-b5fba8eb4e34
+page-type-slug: story-chapter-royal-road
+title: "Chapter 676 - Episode 6: Part 2"
+slug: 0677-chapter-676-episode-6-part-2
+partOf: mythrans-master-of-all-continued-completed
+position: 677
+ownLength: 2954
+unit: words
+publishedAt: 2018-08-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283685/chapter-676-episode-6-part-2"
+royalRoadId: "283685"
+---
+
+The show faded in and the soldier camp was already set up. Onscreen Ren walked over to the Captain of the Guard and expressed concern over the lack of backup weapons for the soldiers. When he learned they didn't have any because of weight restrictions, he offered free enchanted daggers to anyone that wanted one.
+
+All of the soldiers gratefully accepted one, since the enchantments let it do its normal damage and enchanted damage, which was amazing for a little dagger to do. Of course, all the players wanted one when they found out that he was giving them away for free. When that was done, he had to repair nearly all of the equipment and weapons the soldiers owned, because of all of the ambushes they had suffered through that day.
+
+Onscreen Ren finished the player repairs as well after that, then went to where his group had camped and took out an old rusted dagger. He had remembered leveling up his Enchanting skill earlier, so he repaired, sharpened and polished it, then enchanted it with a glyph of 2 Fire runes, which ended up tripling the dagger's normal damage.
+
+“Yes!” Onscreen Ren said and Fake Clint asked him what was up.
+
+Once it was explained that he could make more powerful enchantments, Fake Clint handed over his bow bracers and Onscreen Ren enchanted them for him. He then enchanted the weapons and armor of the rest of his group, and word spread quickly of his new abilities. Unfortunately, he was out of Mana by then and had to rest. Once again, Onscreen Ren tried to use Identify on the ring; but, it didn't work.
+
+Everyone went to sleep and the screen faded to black for barely a second, then faded back in. Fake Talon's group stayed back with the soldiers so they could get their equipment enchanted as they travelled. He mentioned that there was a deep bottomless gorge that ran all along the cave system, and Onscreen Ren said he wouldn't want to fall in it. Talon and his group left shortly after and Onscreen Ren enchanted glyphs on all of the weapons and equipment the soldiers had in another montage.
+
+They soon arrived at a large open area and arrived at the 600 foot wide chasm that stretched out from the cave they just left to another cave. All that was between them was a wide stone bridge that looked both sturdy and unsafe at the same time. The Captain of the Guard declared that small groups should cross one at a time to be safe. While Onscreen Ren's group waited for their turn, since they were at the back of the group, Fake Tommy spoke.
+
+“Big ass bridge in the middle of an even bigger ass canyon deep underground, thing just cries out ‘event’ don’t it?” Fake Tommy asked and spit over the edge of the chasm.
+
+“You’ll jinx it Tommy.” Fake Clint said, and then it was their turn to cross.
+
+“Okay, you lot. Who's going first?” The Captain of the Guard asked, then a loud roar bellowed out from the cave behind them. Cries and yells soon followed, as did running boots, and then several people ran past them. Onscreen Ren's group readied their weapons for a fight, then Fake Tristan came from the cave with a massive and obese ogre chasing him, and it carried a wooden club the size of a small tree.
+
+“Okay! Time to run!” Fake Tommy yelled and everyone ran, including the Captain of the Guard. Unfortunately, despite having pretty high stats at this point, Onscreen Ren visibly lacked the speed to keep up with the others. By the time everyone else had run across the bridge and had prepared to fight as a large group under the Captain of the Guard's command, Onscreen Ren was only halfway across the wide expanse and Tristan and the ogre were right behind him.
+
+The bridge on the other hand, didn't like having so much weight on it and started to shake apart as each of the ogre's massive footsteps slammed onto it.
+
+“Leg it Ren! The bridge is gonna fall!” Fake Tommy yelled.
+
+“Oof!” Onscreen Ren grunted as Fake Tristan, with an evil grin, intentionally banged into him and made him trip. Onscreen Ren tumbled to the ground and tried to scramble to his feet, then was savagely kicked by the ogre and sent sprawling onto his back. Most of Onscreen Ren's Health disappeared from that one hit, and he gazed up with a stunned look as the ogre lifted his club to strike the final blow.
+
+The bridge chose that time to make a loud cracking sound and gave away completely. The ogre let out a bellowing roar of rage as it plummeted into the dark depths, and the show ended with a close up of Onscreen Ren's calm face as he disappeared into the darkness, too.
+
+*
+
+“Holy crap!” Ren exclaimed. “That's how they ended the episode?”
+
+“With a literal cliffhanger.” Elise said with a smile.
+
+“There's going to be so many pissed off people.” Ren said, and she laughed.
+
+“Hey, the network just wants to keep the viewers interested.” Barbi said, and she had a predatory smile on her face. “But, you're right.” She said and held up her phone. “There were a lot of unhappy people.”
+
+“Oh, I know.” Ren said. “Mostly because they have to wait a week to see what happens.”
+
+“Not even close.” Barbi said and her predatory smile changed to a very happy one. “Nearly every comment on the fan site and main website are about that guy intentionally tripping you.”
+
+“Wow, really?” Ren asked.
+
+“Tristan was a real dick for doing that.” Lisa said. “That one little bit of revenge he got on you nearly cost us the whole mission.”
+
+“As I was falling, I was praying that he would get what he deserved for causing that.” Ren said. “Then all it did was open the villain path for him.”
+
+Elise nodded. “It sent him right to Shargon Caverns, too.”
+
+“At his level?” Ren asked, surprised. “Wow.”
+
+“It took him a long time to get out.” Elise said. “Of course, he was a lot more powerful by then.”
+
+Ren nodded. “It'll definitely let you level up fast with everything in there.” He said. “Now I wonder how many times he died.”
+
+Lisa let Ren's hand go and touched his face. “It doesn't matter.” She said. “All that matters is you got through that in spite of his effort to kill you 'by accident'.” She said and kissed him. “You've come a long way since then.”
+
+“I've died a few times, too.” Ren said and smiled, then looked at Elise. “I'm going to assume they're going to cut around that particular incident.”
+
+“...and every reference to it.” Elise said. “Showing something like that on an entertainment show would be tantamount to getting it cancelled.”
+
+“Plus, it would then open the question of why it happened, which would then bring into the limelight your mental and physical condition.” Barbi said. “Which we can't do, because this is a game only show, not a reality show.”
+
+“Actually, I think it's an animated reality show.” Ren said, and she blinked her eyes for a moment.
+
+“What?”
+
+“I'm actually doing these things, and the producers are just using the footage and cutting it together to make it less boring.” Ren smiled. “Not that falling to my death is boring.” He chuckled. “You understand what I'm saying, don't you?”
+
+Barbi nodded. “That's... an interesting idea.”
+
+“...and it's Ren's idea.” Elise said immediately. “I'll get with you to write up the proposal, and we'll start doing the research this afternoon.” She said. “If we can hire some programmers for a few hours work, we can have a demo done up by Sunday night and have a full scale proposal ready to drop on the network's desk first thing Monday morning.”
+
+Barbi's face broke into a huge smile. “Co-executive producers?”
+
+Elise nodded. “We can even pitch it to Channel 8 exclusively to give them the first option, mainly because of Ren's other show. If they start to balk at it, we can easily go down the street to Channel 6 and see if they want a new evening entertainment show... that could possibly be competition.”
+
+“Oh, we have to include that in the sales pitch!” Barbi said, and her predatory smile was back.
+
+“You'll be conducting it, so it's up to you.” Elise said. “You know what my weekdays are like.”
+
+“Leave it to me, then.” Barbi said. “I'll have some kind of decision from them by the end of the week.”
+
+Ren turned and looked at Lisa. “Tell me if I'm wrong; but, am I going to sell another show idea to network television?”
+
+“You're possibly not wrong.” Lisa said with a huge smile.
+
+“Lisa, we need an extra set of hands.” Elise said and stood up. “Do you feel up to doing a few net searches?”
+
+Lisa looked from her to Ren.
+
+“I can feel the painkillers kicking in.” Ren said and smiled a little crookedly. “I'm going back into the game early anyway.”
+
+“Are you sure?” Lisa asked. “You know I like spending time with you, even if we're not doing anything important.”
+
+“Spending time with you is always important.” Ren said. “For now, you can help make that new show possible.”
+
+Lisa nodded and gave him a kiss, then Elise kissed him, too.
+
+“If you need ideas for contestants, let me know.” Ren said.
+
+Barbi nodded, then she, Elise, and Lisa left the theatre room.
+
+“Wow, another show.” Barbara said.
+
+“I won't be in it.” Ren said. “This is to let other people shine.”
+
+“You're still going to own it.” Denise said and helped him transfer back to the wheelchair.
+
+“I guess it will be nice to have more money.” Ren said, and she laughed. “You all need raises, don't you?”
+
+“Raises for what?” Stella asked and took control of the wheelchair.
+
+“I've made your jobs a lot harder the last little while.” Ren said. “You should be compensated for that.”
+
+“You don't have to worry about things like that.” Stella said. “We get paid well enough.”
+
+“By whose standard?” Ren asked, and she chuckled.
+
+“I could make a joke about it being the gold standard; but, that's a financial joke and I won't steal Elise's thunder.”
+
+Ren chuckled. “That's clever.”
+
+“Only if you understand financing and what it meant.” Stella said and stopped him beside Barbara.
+
+“I'll see you tonight.” Barbara said and kissed his cheek.
+
+“I'll see you tomorrow morning.” Denise said and kissed his other cheek.
+
+Stella pushed him out of the theatre room and down the hall to the bedroom. “Finance jokes usually go right over some people's heads.” She said and continued their conversation.
+
+“Does that mean it's high-brow entertainment?” Ren asked.
+
+Stella chuckled as she helped him get back into bed. “Pretty much.”
+
+“I think I prefer the easier jokes.” Ren said and Stella immediately covered his mouth.
+
+“Now is not the time.” Stella said, and he licked her hand. “You can lick it all you want. I'm not moving it.”
+
+Ren watched her eyes as he very carefully licked her palm, then he shifted his focus to the space between her middle finger and ring finger and wiggled the tip of his tongue there. Stella took in a quick breath and kept her hand there for only another moment, then moved it.
+
+“Now my hand is itchy.” Stella said and rubbed the spot with her other hand.
+
+“Itchy, huh.” Ren said and smiled.
+
+“And wet.” Stella smiled back.
+
+“That reminds me. I'm going in for...”
+
+“I saw what happened in the arena before the fight.” Stella said. “Let me be frank. Don't take what Elise said for granted.”
+
+Ren took her hand and pulled her in close. “I don't take anything for granted.” He said. “I want you on top of me right now; but, I won't ask because I know you'll say no.”
+
+Stella sighed. “Ren...”
+
+Ren used his other hand to touch her neck. “Your top priority is my safety, and pleasing me or yourself will always take a backseat to that.” He said and eased her in closer. “I find that very appealing and very frustrating.”
+
+Stella didn't say anything as he let her hand go and used both of his hands to cup the sides of her face.
+
+“I can honestly tell you that I don't think I can wait long enough to heal, before I start begging you to do it.” Ren said. “I want to bury my face in you and make you cry out my name.”
+
+Stella caught her breath as that image burned itself into her brain, and Ren used his thumbs to rub her cheeks.
+
+“I don't have the same limits in the game as I do here, so I'm going to the Pleasure Palace.” Ren said, then he whispered. “I'm going to imagine that it's you the whole time and I'm going to fuck them as hard and as fast as I can without hurting them.”
+
+Stella gasped at that. “R-Ren!”
+
+“It's going to be dirty, and messy, and fun.” Ren said. “Elise was right. There's no real consequences, as long as you know going in that's all it is. Just fun.”
+
+Stella looked at his face barely an inch away from hers and didn't know what to say.
+
+“I want you to make a character tonight when your shift is over, so you can join me in the game.” Ren said.
+
+“But...”
+
+“Whatever character you choose, I'll help you in any way I can.” Ren said. “Until then, I need a surrogate. Probably several surrogates, actually.” He smiled. “How else am I supposed to deal with not being able to be with you, the sexiest nurse that ever existed, except by hiring professional surrogates?”
+
+Stella opened her mouth to argue and say that she would do it for him, then closed her mouth because he was right. She wouldn't have sex with him while he was so hurt, because it would only cause him pain and possibly more damage. She closed her eyes and took a breath to sigh, and he kissed her. She was a bit surprised by the tenderness, then she felt the urgency as his lips moved. She kissed him back for a few moments, then she broke the kiss and sighed.
+
+“I've created a monster, haven't I?” Stella whispered.
+
+“Yes, but I'm your monster.” Ren chuckled. “Hand me the VR headset.”
+
+Stella nodded and passed it to him.
+
+“You have my permission to do what you want to my physical body while I'm in the game.” Ren said and put on the VR headset. “Before you ask; yes, I am aware of what that means.”
+
+“Ren...”
+
+“I love you, Stella. Very much.” Ren said.
+
+“I love you, too.” Stella said.
+
+“Flow Login Start.”
+
+“Probably a little too much, because I'm trying to figure out how to get by this.” Stella gently touched the spot that was bandaged, through his pyjamas. “Maybe I'm a monster, too.” She said and prepped him for what he was going to do, then sat down on the chair beside the bed. “I didn't even tell him to go easy on them.” She said and laughed. “Those poor girls don't know what they're in for.”
+
+********
+
+Ren woke up standing by the wall and Artemis turned and looked at him.
+
+“You're back extra early.” Artemis said.
+
+“I have an appointment with the Pleasure Palace that I need to keep.” Ren said and looked at the succubi on the bed. He could feel their emotions and knew they weren't up for another dose yet.
+
+Seldanna felt him nearby and opened her eyes to look at him. “We can wait, My King.” She whispered, and Ren nodded. He checked the All-Seeing Mirror and cast the Portal spell, Teepo dissolved into the Beetle Crown ring, and Ren took Artemis' hand and stepped through the portal into the Pixieland ride.
+
+“REN!” Suniva yelled and flew over to him. “You're back so early!”
+
+“I have an appointment at the Pleasure Palace that I need to get to.” Ren said. “I popped over here to let you know I was back and that I'll pick you up in the morning.”
+
+Suniva nodded and he saw that her Cloak of Fire was much smaller than it had been. Ren used his Hands of the Gods ability Burning Hands and his Fire Manipulation ability to reform it, then he cast another portal to take him and Artemis over to the Pleasure Palace. He hadn't equipped his armor or any of the other Aura boosters he had, so he was just outside the point where his Aura would have covered the Main House and where the maids were. It was pretty close, though.
+
+“Artemis, can you...”
+
+“I'll wait on the battlement wall.” Artemis said and pointed. “I assume you're going in disguise?”
+
+Ren nodded and took a step into the air and cast Full Illusion on himself to make himself into Ugly Ren, then summoned Teepo and cast Full Illusion on him, too. Artemis flew up to land on top of the Pleasure Palace and Ugly Ren stomped over to the front door of the Pleasure Palace and touched the talking square.
+
+“Lemmie in.” Ugly Ren growled, and the door opened right away.
+
+“Please, come right in, sir.” Gina said with a huge and genuine smile.
+
+“Yer a sight for sore eyes.” Ugly Ren grinned and showed her his crooked teeth, and she caught her breath and shivered slightly in anticipated pleasure. He stomped by her and the door shut behind him.

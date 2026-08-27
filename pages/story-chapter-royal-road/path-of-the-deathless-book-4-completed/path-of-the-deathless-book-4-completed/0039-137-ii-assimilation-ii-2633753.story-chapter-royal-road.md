@@ -1,0 +1,145 @@
+---
+id: 448a21de-4d84-54a4-9ef2-06755df218c9
+page-type-slug: story-chapter-royal-road
+title: "137 (II)  Assimilation [II]"
+slug: 0039-137-ii-assimilation-ii-2633753
+partOf: path-of-the-deathless-book-4-completed
+position: 39
+ownLength: 2580
+unit: words
+publishedAt: 2025-09-27
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2633753/137-ii-assimilation-ii"
+royalRoadId: "2633753"
+---
+
+137 (II)
+
+Assimilation [II]
+
+Despite his best efforts, Shiv knew he was going to get along a little too well with Bonk. "You may get a few Toughness levels out of it as well," Shiv said. The orc grinned savagely at that. "And all the more reason for me to get a new Skill Evolution. For Biomancy, it'll help me fix up your wounds afterward, or so I hope."
+
+"Don't worry," Helix said, pinching the bridge of his nose. "It won't remove your absurd little Woundeaters. That capability will still be there."
+
+"But I don't think I'm going to be needing that," Bonk said, as he winked at Shiv. "I heal pretty quick."
+
+"How quick?" Shiv asked. His curiosity was piqued, and his hands were clenching and unclenching in anticipation of a now-certain brawl.
+
+"I think you should find out later for yourself," Bonk said, a taunt in his voice.
+
+"Bonk," another orc cut in. "Before someone distracts him again, I think that we Heroes and the Insul here should have a proper meeting and go over what we expect of each other—and other potential topics.”
+
+Shiv turned and saw a large orc standing on what looked to be a huge, flying origami bird. The orc wore black, scholarly robes, and he had one of those graduate hats Shiv had seen in newspapers on him. Weirdest of all, he was holding what looked like a large, golden egg under his arm.
+
+"We're always going to have time for that, Bookworm," Bonk called out. "Besides, the Insul told us earlier about how the Gate Lord intends to give us a briefing. How about we wait for that and do everything all at once?"
+
+Bookworm grimaced. "That seems terribly inefficient. Besides, the Insul is but one person, and certain orcs," Bookworm lifted his nose at Helix, who barely regarded him with a faint harrumph in return, "are colonizing all his attention. While some of us are going to be more useful for the Insul, others will simply waste his time with meandering things and pointless trivialities. Besides, the Insul barely understands his own greatest Magical Skill. What do you think you're going to get from him in terms of theory or strategy?"
+
+"Hey," Shiv said, slightly offended.
+
+Helix narrowed his eyes. "Oh? You have something to say? But please, Insul, do tell him. What can you offer in terms of theory and strategy? What scholarly topics are you truly versed in? For me, what formations will be most conducive to our efforts in battle when we finally take the field? I understand we'll be fighting on the surface, yet where? What's the terrain? What do you know about the airspace? What does the meteorology imply about the weather? Who are the critical enemy commanders our shadows, assassins, and thieves are to dispatch?"
+
+With every sentence, Shiv's mouth closed tighter and tighter. “I… I can figure some of that out.”
+
+Helix let out a sigh. "Do you see, Bookworm? We face one problem after another. We must resolve one limitation after another. He is untrained and ignorant. His attention span is broken and stuttering. His focus is questionable and easily parted."
+
+"And your Toughness needs work," Shiv reminded him. “Not the only one with flaws.”
+
+Helix coughed as the fear-chain between him and Shiv thickened. "But he has no truly bad habits, and he is perfectly moldable, like clay. And mentally—”
+
+"I'd prefer a sculpture," Shiv corrected again, "because clay indicates that you're going to shape me however you want. You can kill that thought if you think you're going to change me into an orc."
+
+"You're already kind of like an orc," Bonk noted. "That's the reason the Challenger decided to do this with you. You must be blinder than Helix thinks if you're missing that."
+
+"I’m not," Shiv said, slightly annoyed.
+
+"Regardless," Helix continued, "this is the perfect opportunity for us to build him up, and for him to be as optimally built and evolved as possible when he leads us into the next pit of chaos that finds him. That way we can all benefit."
+
+Shiv looked between Helix, Bonk, and Bookworm, and he thought about why they were all trying so hard to occupy his attention. He then noticed all the other orcs as well. Their interested stares, their unwavering smiles. The Heroes and the Masters aboard the Court Leviathan weren't just here to join in on a fun war. No, they had a much more personal interest in the matter.
+
+Shiv sneered as he finally made the connection. “You bastards want in on the System's favor.” It was the only thing that made sense. They knew he was favored among System-favored, and by staying close to him, they were hoping for some of that favor to infect them as well, as it had Adam and Uva.
+
+All the orcs around him let out laughs, and glowing chunks of mithril exchanged hands once more. Mortar threw up his hands. "By the Challenger's infinite wisdom, he's not blind or stupid, he's just incredibly slow."
+
+"Think about the bright side," Whisper said as he suddenly appeared beside Shiv. The orc placed a warm arm around his shoulder and moved his other hand through the air like he was trying to make Shiv imagine a scenic view. "If we all start advancing at just half the pace you are, consider what an effective army we'll be once it's time for the big fight."
+
+Shiv thought about that. He thought about a few hundred hyper-powerful orcs, and then he thought about them being right next to the gate.
+
+Ah shit, Shiv thought. This is… He wanted to say it wasn't good, but they were going to war against a Legendary Mage and his incredibly powerful army soon. A few hundred of him? Yeah, that might be enough to do some serious damage to the Vicar's forces. More importantly, with what they had now, maybe it was already enough to utterly overwhelm and destroy the Inquisition. Adam said they only had a hundred thousand troops, Shiv recalled, and right now I've got just under three million orcs.
+
+"Now," Helix said, snapping his fingers in front of Shiv's face again and pushing Whisper off of him. The Deathless blinked. "Are you ready to try one more time?"
+
+Shiv regarded his Woundeater level, and he clenched his teeth. "Yeah, let's see if I can get over that limit."
+
+And that brought a wide smile to the orc Biomancer's face. "Good human."
+
+Once more, the Court Leviathan swallowed him. This time, Shiv felt its mana splash against his own immediately. His field still felt tender, barely recovered from the last time. That was the point, though. He was one of the few people in existence that could be strained repeatedly, have his field broken time and time again, and continue. It was a mixture of his constantly regenerating cognition and the benefits provided by his Path.
+
+Shiv rolled his neck as he pressed back with his Biomantic field. This time, instead of waiting, he intercepted. As particulates of red mana splashed against his, he briefly let his outer field soften before he clenched it tight again. The mana shrapnel got stuck within him. The Court Leviathan's particulates were in his grasp once more.
+
+The orc Biomancers began to bombard him with spells. He held against them but used only a fraction of his focus. He ignored the pain as they ripped his field open once more, tearing it where his previous wounds had barely come back together.
+
+While they did that, Shiv decided to prepare a surprise of his own. As the orcs lashed at him, he pieced the Court Leviathan's mana together, assembling its particulates into something the size of a pebble. He couldn't crush them; they were too solid for that, but he could move them, and so he moved them together.
+
+And as one of the orcs launched their field against his, he pushed the pebble of mana out beyond the exterior of his field in the direction from which the orc's spell came. It crashed against his field, and the orc's spell did Shiv's desired work for him. It shattered the pebble into motes of mana, and the leviathan let out a shriek. Its body trembled, it twisted from side to side, and the Deathless laughed as he heard orcs shout and howl with laughter as they were rocked in their seats.
+
+Deception 18 > 20
+
+From above, he heard a muffled cry. "Oh! Trickery! Deception! Well done, Shiv!" For the first time Shiv could recall, Helix sounded genuinely and truly proud. The other Biomancers laughed as well. Of course, a moment after, they began striking at him again, and they tore at him with renewed vigor.
+
+He heard Helix command the other orcs to redouble their efforts. "Rip at his being! Rip his field apart! Pull it asunder! Let the Court Leviathan flow all the way and settle deep. We want him to be changed this time. We need another monster of Biomancy in our midst! We need him ripe and strong for what is to come!”
+
+And the orcs began to strike at him in ways they never did before. Their Biomancy did not come from multiple directions. Instead, they pulled together, becoming enormous constructs of deepest red. These constructs were unleashed upon him like falling bombs. They washed over him in a confluence of mana, a confluence that sheared through his own like a wilting wind. His external layer was swept clean by brutally dense concentrations of mana. Then came the subtle touches. They splashed against his damaged field as salt would against an open wound.
+
+Shiv let out a hiss. The pain he felt here was unique and novel. It was a pain he was unfamiliar with, and so he welcomed it. He relished in it. He learned from it. Shiv felt his Woundeater level just then as he fought back. He tried to push the orcs away, but their overwhelming barrage crashed through him utterly. Devastated him.
+
+And as he was being ravaged, Helix finally took action himself. The orc's mana speared into him.
+
+As it did, Shiv's eyes widened. The Heroic Biomancer’s mana was unlike all the other orcs'. It was subtler, yet it hardened at the final moment. It formed into a solid shape once it had already pierced deep into Shiv. It struck so suddenly that he barely had time to react, and it spread all the way through before he could blink. It, like the orc’s wings, resembled his namesake, the helix. But rather than being a concentration of crimson energy, it expanded through Shiv, twisting in multiple directions, weaving itself, and cleaving his very magic in twain. With a single move, Helix unzipped Shiv's magic utterly.
+
+His field came apart in spewing motes of brilliant red. The Court Leviathan sank into him thereafter, infesting him. And then all the other orcs hammered into him as well. They fed diseases into his bones. They accelerated his metabolism. They unleashed chaos upon every organ, every function sustained by his biology.
+
+His age accelerated forward. He grew old, and his Plaguefueled, already exposed to such an ailment, swallowed it immediately. His body grew larger, so big that his cage of bone and flesh couldn't encompass him anymore. But as he pushed out, the Court Leviathan accommodated, expanding the chamber and squeezing tight.
+
+At the same time, Helix did something to Shiv, something so subtle that the Deathless didn't feel it at first. But he kept his focus on his body, for he knew his mana had already been compromised. Death was coming. The question was, what aspect of biology would kill him first? And the answer, once more, was the blood code; his genes. They betrayed him from within, a rapid onset of tumors and a cascade of other diseases that swept through him. His Plaguefueled ate the diseases, and it leveled as well.
+
+Plaguefueled 74 > 75
+
+But his genes still collapsed, his body began to melt, his bones crumbled, his skin peeled away, falling away in layers. Layers that came to life a moment thereafter, as they were promptly assimilated into the Court Leviathan itself.
+
+And it was in that chaos, as Shiv was dying, that he felt a flash of inspiration wash through him. He felt connected to the Court Leviathan on a whole other level. And just then, he froze time. He held this instant so that he could better understand what was happening to himself, to his utterly shredded mana field.
+
+As he saw a chain of mana motes fusing together, he noticed how fine the grains between them were. It was almost as if a stream of dust particles pouring into his body. But the stream was twisting through him, solidifying within him in ways he saw, ways he perceived. He turned his gaze away from physical reality entirely and studied only the magic, feeling it as deeply as he could.
+
+The sediment wasn't sediment at all. No, it was countless small spell patterns. They were finer than he could conceive, yet he noticed the shapes at their center. They resembled his crystallized wounds somewhat, but they were minute, barely more than dots. Each one was a spell or a micro-spell, and each one was connected to another along chains of glowing mana-grains.
+
+The particulates he held in himself earlier were also made up of these small spells, and he finally realized he was looking at it the whole network wrong. It was not just particulates, not just something he could move around. Helix hadn't been fully transparent when describing the Court Leviathan's magic.
+
+No, the Court Leviathan's Biomancy was like a body unto itself. It was a simulated biosystem shaped from magic. Every single spell, no matter how small, was a simulated representation of blood, of sinews, of bone, and more, and it was connected to Shiv, spreading through him and assimilating him just as was being done to him on the physical plane.
+
+Awareness 27 > 29
+
+Practical Metabiology 41 > 42
+
+And there, at the point where it was bleeding into his body, he noticed there were other micro-spells. Spells the color of Biomancy that were only halfway lit. And that was when Shiv realized what he was looking at again. This was what Helix described as the potential mana, the mana that hadn't been used yet.
+
+It was always there, and it needed to be colored, colored by him. He was joining the network, joining the great cloud, and so it was shaping him using its spells. He was becoming a spell unto himself, and that was how it wielded him. That was how it changed him. That was how it intruded into his mana field in the first place.
+
+Cracks spread across his temporal shell, but Shiv just laughed. It was beautiful.
+
+Magic is felling awesome, Shiv thought to himself. And just then, he let everything go. He let time resume, and he let the Court Leviathan swallow him whole. Death came, and with it, notifications. More than anything, Shiv received an epiphany, not just about Biomancy, but magic itself. Magic was symbology.
+
+Magic was lore.
+
+It was the representation of existence reinterpreted.
+
+And now, he was—
+
+Woundeater 99 > 104 (Skill Evolution Reached)
+
+Awareness 29 > 33
+
+Multi-Tasking 15 > 18
+
+Plaguefueled 75 > 76
+
+Skill Evolution: Woundeater (Master) > Aegis of Assimilation (Heroic)

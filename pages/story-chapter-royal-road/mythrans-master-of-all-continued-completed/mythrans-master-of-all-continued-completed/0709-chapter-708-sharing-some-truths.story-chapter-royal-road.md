@@ -1,0 +1,251 @@
+---
+id: 151e7d3e-d0c9-55e8-95bd-9b94fb475cc1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 708 - Sharing Some Truths"
+slug: 0709-chapter-708-sharing-some-truths
+partOf: mythrans-master-of-all-continued-completed
+position: 709
+ownLength: 2928
+unit: words
+publishedAt: 2018-09-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292718/chapter-708-sharing-some-truths"
+royalRoadId: "292718"
+---
+
+“So... what you're saying is, I am... a composite?” Xuunah asked. “Is that the right word?”
+
+“Technically, yes.” Ren said. “Actually, practically everything in this world is. Now, anyway.”
+
+“I'm me, but I'm not really me?”
+
+“No, you're still you.” Ren tried to explain again. “I just took parts of a younger you, from before the ghoul event, and used most of that information to fix the damage that was caused to you.”
+
+Xuunah rubbed her forehead and paced back and forth. “Does this younger me still exist?”
+
+“Yes. I didn't destroy that version of you. I only copied what I needed.”
+
+“This is very confusing.” Xuunah said. “Somewhere out there...” She waved at everything and nothing. “...is a younger version of me... of everyone... that you can visit whenever you like?”
+
+“Yes.”
+
+“So, why did you save me?” Xunnah asked. “If this other me is there for you, why bother to...”
+
+Ren stepped close to stop her pacing and took her into a hug. “Because I love you.” He said, and she felt his sincerity.
+
+“Ren, it doesn't make sense. If you can retreat to your own private world, what do you need this version of me for?”
+
+“Xuunah, this is you.” Ren said and moved one of his hands to her chest and touched the glowing Maker's Mark there. “When I met the younger you, I realized what a colossal mistake I had made when we had bonded too soon.” He said. “I had the chance to correct that mistake before I made it, and I took that chance. It worked. You are not ostracized by your people or exiled.”
+
+“H-how...” Xuunah closed her eyes and thought about that. “...no. You didn't... you couldn't have...”
+
+“I talked with Vasalor for a long time, and he gave me permission to right the wrong that I did to you and your people.” Ren said. “You told me that making myself the villain, that your people would need to come together to fight, wouldn't work... and you were right. All I did was increase the animosity between Light beings and mortals, the very ones that the Light beings were meant to help.” He sighed. “I felt... I feel... so guilty about it.” Ren said and he poured it into her.
+
+Xuunah caught her breath as she relived in an instant everything he had felt as he fixed the damage that was done to her. When she saw for herself that Vasalor had assumed a humanoid shaped avatar, she also saw Ren's Mana connection to the all-powerful being.
+
+“R-Ren... you... you and Vasalor...”
+
+“We spent eons together, Xuunah.” Ren said, and he let her feel a fraction of that time. “It took that long to repair all the damage to his creation.”
+
+Xuunah's breathing had sped up as she felt and saw that Ren and Vasalor had helped every single being that existed in the mortal realm. They had looked at each of them, and their lives, and tried to put things back to the way they were before it had all been messed up. Her heart filled with all the joy that helping people gave her, and it was multiplied by the sheer number of people that Ren and Vasalor himself had stepped in to help.
+
+“So many...”
+
+“You were included in that.” Ren said, and she caught her breath. “As was everyone in the Light Realm.”
+
+“R-Ren...”
+
+“Vasalor said that he didn't want the Light Realm to hate or fear mortals, so we helped all of them to look past the mistake I made.” Ren said and he felt her churning emotions, so he moved his hand up from the glowing mark above her heart to cup the side of her face. “Don't worry. They still distrust mortals, and you all still have the same mandates and beliefs.” He said. “We didn't change anything fundamental about who you are, only that one experience.”
+
+“B-but...”
+
+“Yes, experiences can shape who we are; but, Vasalor said that he didn't want you all to live with that experience and gave me permission to change it.”
+
+“Y-yes, it... it still happened, but...”
+
+“All that changed were the circumstances.” Ren said and let her face go and put his arm back around her. “Oh, and I removed the 100 foot tall phantom statue of me that kept telling them to be nice to each other.”
+
+Xuunah snorted a laugh at that. “At least you didn't enter the realm to do that.”
+
+Ren chuckled. “No, I won't make that mistake again.” He said. “I learned my lesson, thank you very much.”
+
+Xuunah took in a deep breath and let it out. “Ren, I...”
+
+“I know I shouldn't... I mean, I don't deserve forgiveness for...”
+
+“Hush.” Xuunah said and leaned down to kiss him. She ran her hands through his hair and they made out for several minutes, and Ren felt her become very aroused. He broke the kiss and looked at her.
+
+“Xuunah?”
+
+“Become one with me again, Dearest.” Xuunah said and let him go. “We are within a magical barrier and need not fear the consequences.”
+
+“Are you sure?” Ren asked as Teepo hopped off of his shoulder and hovered nearby.
+
+“I need to shed this body for a moment to stop myself from breaking my people's mandates.” Xuunah almost moaned. “Please.”
+
+“I can only do it for a few minutes.” Ren said and equipped the polymorph helm. It disappeared and he activated its function and chose to be a Light being.
+
+“Minutes can seem like hours, or even days, Dearest.” Xuunah said and transformed herself. She hadn't felt any pain from Ren as he transformed just as quickly as her, and when they were both beings made of only Light, they floated close and their Light changed color to yellow. They both gasped as they merged and shared each other very intimately, and Xuunah lived all of Ren's time with Vasalor.
+
+“Ren... please...”
+
+“Are you sure that...”
+
+“I would like nothing more.” Xuunah said.
+
+“But... I don't know how.”
+
+“Dearest, I will do all the work.” Xuunah said and her color changed from yellow to blue, and Ren shifted to match.
+
+“Oh... oh wow.” Ren said as he and Xuunah experienced hours and then days together in only moments. He felt sensations he had never felt before during that time, and then something was plucked from him. He gasped as his blue glow faded, then he slowly drifted away from Xuunah. When he was no longer touching her, her blue glow changed and shifted to red.
+
+Ren thought something had gone wrong and started to panic; but, then he felt a huge burst of happiness from Xuunah. He felt the strain of maintaining a not-really-physical form and changed back into his elfling form, equipped his special armor bodysuit, then sat on the ground and stared at Xuunah. He felt her emotions shift around from wonder to amazement, and back to happiness.
+
+“Xuunah?” Ren reached a hand out to her, and her color didn't shift back to white as she started to change to her physical form. Her hand grabbed his as her body completely formed and she was nude. “Um... Xuunah...”
+
+“It's all right, Dearest.” Xuunah said with a huge smile and turned to the side. “I just wanted to show you this.”
+
+Ren looked at her and wasn't sure what she meant, then she took his hand and put it on her slightly extended belly.
+
+“No way!” Teepo chittered in delight.
+
+Xuunah nodded. “I'm pregnant.” She said happily. “It's not much right now; but, in 10 years...”
+
+“WHHHHAAAAATTTT?!?” Ren yelled, and she laughed.
+
+“It's barely a blink of time in our long lives, Dearest.” Xuunah said and rubbed his hand over her belly. “Don't worry. The time will pass by so quickly that you will wonder what happened to it all.”
+
+Ren stood up and kept his hand on her belly. “I guess this means you can't be my personal guard anymore.”
+
+“Nonsense.” Xuunah said and moved his hand, formed a nice pants and shirt outfit around herself, then put his hand back on her belly. “I can still guard...”
+
+“Now it's my turn to say nonsense.” Ren said and smiled. “You are going to relax and take it easy, and I'm going to take care of you, just like I'm going to take care of Frikara and the others.”
+
+“Ren, I am a warrior and I do not need to be coddled.” Xuunah said.
+
+“Need to be? Of course not.” Ren stepped up into the air and gave her a kiss. “I'm going to, and you're going to like it.”
+
+Xuunah shook her head. “Ren, you can't just...”
+
+“Your priority now is what you carry within you, Xuunah. My safety is secondary to your precious bundle.”
+
+“It...” Xuunah felt his resolve and sighed. “I shouldn't have told you so soon.”
+
+Ren chuckled. “You were too happy to hide anything, My Angel.”
+
+Xuunah wrapped her arms around his neck and gave him a kiss. “Shall I be relegated to a Lady In Waiting, then?”
+
+“Only if you can't listen to logic and reason.” Ren chuckled and kissed her back, which made her laugh. “We need to get back.”
+
+“Of course, Dearest.” Xuunah said, and took his hand as he cast a portal. Teepo landed on Ren's shoulder, then Ren and Xuunah stepped through the portal and appeared back in the apartment of the Main House.
+
+“Welcome back.” Frikara said, and she felt something different in Xuunah. It took her a moment to realize what it was, then all of the maids gasped.
+
+“It seems we don't need to tell them after all, Dearest.” Xuunah said
+
+“H-how... how did...” Frikara stammered.
+
+“It's a Light being thing, apparently.” Ren said. “We only have to wait 10 years to see what happens.”
+
+“WHHHHAAAAATTTT?!?” All 5 maids yelled, just like Ren had, and he and Xuunah laughed.
+
+“The time's going to pass quickly, so there's no need to worry.” Xuunah said.
+
+“But... but...” Frikara tried to express her feelings over Xuunah being pregnant.
+
+Ren stepped to her and touched her face. “Before you start freaking out about it, I have something to show you.” He said and took out the All-Seeing Mirror. He whispered something to the mirror, then turned it to show Frikara.
+
+“Wh-what is that?” Frikara asked as she saw a sonogram.
+
+“That my dear, is the inside of your belly.” Ren said and pointed. “That's the head, and those are the legs.”
+
+Frikara's mouth dropped open in shock. “You... that... it can't be!”
+
+“He's only about this big.” Ren said and held his fingers apart a couple of inches. “Since I don't know anything about dwarf pregnancies, I have no clue how long you've been pregnant.”
+
+“But... but...” Frikara couldn't put her feelings into words as her hand reached out and touched the mirror. A huge pile of love and acceptance came from the other maids, and Ren whispered to the All-Seeing Mirror again.
+
+“Andrela, this is you.” Ren said and turned the mirror to show her a similar image. “He's quite a bit bigger than Frikara's, so I'm sure you were the first to get pregnant.”
+
+Andrela gasped at the thought, and her hand touched the image. Feelings of regret and sadness started to permeate Ren's Aura, and he quickly touched the other three maids to get their attention.
+
+“Don't react so soon.” Ren said and asked the mirror to split the images and show all 5 of them. “I apparently did my work well, because you are all carrying my child.”
+
+They all caught their breath at the truth in his words, then they all started to cry. Ren felt how happy they were, and he gave each of them a tender kiss and a hug.
+
+“Oh, now I've done it.” Ren said and took out a golden statue of Vasalor. He activated its inherent and heavily modified Sanctuary spell and time slowed down to a crawl. “I won't be able to stop kissing you for a long time.”
+
+“R-Ren... what...” Frikara asked.
+
+“I'm going to spend the next two months with you.” Ren said and smiled at their reactions. “I hope you can stand to have me around so much.”
+
+“T-t-two MONTHS?!?” The maids yelled, and Ren nodded as Teepo flew up to land on the ceiling.
+
+“Before I do anything else, like head to the Fire Realm to apologize to the Deity of Fire, I'm making sure that I spend some quality time with you.”
+
+“But... but if we're...”
+
+“I'll be careful.” Ren said and took Frikara into his arms. “We'll only be having sex for fun.”
+
+Frikara thought about laughing, then changed her mind. “Do you still want... I mean, since I'm...”
+
+“Yes, even though I've given you what you wanted, I still want to have sex with you.” Ren said and looked at the others. “All of you.”
+
+“You don't know how much I regret that I'm not included in that.” Xuunah said, and Ren turned to look at her.
+
+“Who said you weren't?” Ren asked, and he felt her surprise. “You don't think I only wanted to share-bond with you only twice, did you?”
+
+“But...”
+
+“We all have the next two months to spend together.” Ren said and looked back at Frikara. “I need to make up for lost time, and there's no time like the present to do that.”
+
+Frikara caught her breath as Ren let her feel how much he had missed her since he had been forced to leave her and the other maids, and her passion for him ignited like a bonfire doused in gasoline.
+
+“If you would be so kind as to join me on the bed, we can get started.” Ren said.
+
+“Ren? What about Artemis?” Teepo asked.
+
+“I asked her to wait outside for me.” Ren said.
+
+“That's not what I meant.” Teepo said. “Isn't she in pain right now because she's separated from you?”
+
+“Nope.” Ren smiled and stored his clothing. Everyone looked down at his very ready state and caught their breath. “I fixed her, too. She doesn't have to suffer if we get separated by a portal, either.”
+
+“By the gods.” Frikara whispered and her hand caressed his hardness. “I missed you so much.”
+
+“I missed you, too.” Ren said and tugged on her dress. Frikara stored it and he picked her up, then laid her down on the bed. He joined with her and pleased her right away, careful of her delicate state, and then he did the same to the other maids. Because it had been so long for them, they were all sated quickly, and Ren climbed off of the bed and walked towards Xuunah.
+
+“R-Ren, we... we can't.” Xuunah said, but her eyes never left his ready state.
+
+“My Angel, I told you a long time ago that I would never make you compromise your people's mandates or beliefs.” Ren said and as he came closer, he polymorphed into a Light being. “Be with me, as we were meant to be.”
+
+Xuunah gasped as his Light touched her skin, and her body dissolved almost immediately and she was still a red color. Ren's color changed to yellow, and they floated together as one for nearly three minutes. When Ren's time was up, Xuunah was reluctant to let him disengage.
+
+“We have a lot of tme to spend together, My Angel.” Ren said. “There's no need to be greedy this time.”
+
+“Ren, I... I never want you to let me go.” Xuunah said. “You changed the world for me.”
+
+“You've discovered my motivation so quickly.” Ren said and pulled back, changed to a white color, then changed back to his elfling form. He activated his Hands of the Gods ability and chose Restoring Hands, then poured pure Light from his hands and touched the oddly shaped ball of Light that was Xuunah. She flickered at his touch and her red color shifted slightly towards a pink shade, and Ren ran his hands over her. He had lots of time to find her sensitive spots in this form, and he found them quickly and used them.
+
+“G-great V-Vasalor!” Xuunah exclaimed and she flickered to yellow for an instant, then her color shifted back to red. “R-Ren, h-how... how did you...”
+
+“I love you, Xuunah.” Ren said. “I need to make up the time I've been away with you, too.”
+
+“Oh, Dearest.” Xuunah sighed and shifted back into her mortal form. Ren caught her and picked her up before she collapsed, and he carried her to the bed and laid her down. “D-do with me as you wish.”
+
+“I wish for you to get some sleep and relax.” Ren said and smiled at her surprise.
+
+“Ren, I... I'm giving you permission to... to...”
+
+“Hush.” Ren said and kissed her. “Go to sleep and we can have more fun when you wake up.”
+
+Xuunah was too exhausted to deny him, and she drifted off to sleep without another word.
+
+“Wow.” Frikara whispered. “What... what just happened?”
+
+“I kind of combined how Light beings share-bonded with how we do foreplay.” Ren said and smiled at her, and she chuckled.
+
+“No wonder she reacted like that.” Frikara said. “You can do foreplay like there's no tomorrow.”
+
+“What a great idea!” Ren said and moved down to her special place.
+
+“It really is.” Frikara moaned as he showed her, then he showed the other maids. After an hour of pleasing them like that, he climbed into the pile of them and they all went to sleep like Xuunah.

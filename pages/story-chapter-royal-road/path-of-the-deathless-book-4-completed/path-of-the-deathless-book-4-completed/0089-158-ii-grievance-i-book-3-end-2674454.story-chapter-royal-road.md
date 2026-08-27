@@ -1,0 +1,195 @@
+---
+id: a75803e6-c304-5744-970a-a3bab390595c
+page-type-slug: story-chapter-royal-road
+title: "158 (II) Grievance [I] [Book 3 End]"
+slug: 0089-158-ii-grievance-i-book-3-end-2674454
+partOf: path-of-the-deathless-book-4-completed
+position: 89
+ownLength: 3290
+unit: words
+publishedAt: 2025-10-13
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2674454/158-ii-grievance-i-book-3-end"
+royalRoadId: "2674454"
+---
+
+158 (II)
+
+Grievance [I]
+
+That wasn't something Roland wanted to hear. He was in bad condition. And a battle between him and Jessica Hawgrave would have been a desperate struggle in the best of times, even with Starhawk's Perch feeding him divine power. But a Tarrasque…
+
+A Tarrasque was a beast on another level of danger. Worse yet, this Tarrasque could resurrect like a certain Omenborn Roland knew. It had taken him searing his very soul, over-channeling his being to destroy it before. And it simply recovered thereafter.
+
+Roland had no idea how they were going to kill this creature. Over and over again. Tarrasques could adapt to specific attacks as well. Over time, its resistances became more like immunities. A juvenile one had been a nightmare enough.
+
+"Starhawk," Roland rasped. His soul was damaged, but the skill connecting him to his god was still there. "Starhawk," Roland said again, louder.
+
+Something stirred in the depths of his soul, and the divine essence leaking from the cracks of Starhawk's Perch stilled. A large shadow emerged behind Roland. It possessed four arms, and a wide expanse of wings flared behind it. But it was ultimately colorless, shapeless, aside from its eyes, searing shapes glaring from the contours of a helmet. "Roland, my champion. I had feared you fallen after the feat you just performed."
+
+"Almost," Helix said, looking the Starhawk up and down.
+
+The god regarded the orc for the briefest of instants, and then he turned away. The orc responded in kind, huffing at the god, as if the Starhawk was a lesser noblewoman who spurned his advances.
+
+"I need…" Roland choked on his own pain. "I need your power. I need…"
+
+"Roland," the Starhawk interrupted him. "No."
+
+It was like his patron lord had slapped him across the face. Roland couldn't accept it. He just couldn't. "My god, please!"
+
+"Roland," the Starhawk said, not as a master or divine, but more as a pleading father. "You must stop. You cannot do any more. You are wounded, inside and out. If you even channel the slightest amount of my power, of my grand Blessing, there will be nothing left of you. You will be ashes cast to the wind."
+
+Roland heard another scream rise into the air, and the sheer magnitude of suffering in that note made the Town Lord shudder. "I need to do something. I need to!" Roland begged. "My people—I need to help them!"
+
+"There is nothing more you can do, Roland," the Starhawk continued, trying to comfort him. "You have done all you could, more than anyone could ask of you. But sometimes… sometimes, the world is unkind. Too often, the System will simply take."
+
+Roland's eyes misted, and he felt more wounded than ever before. Blackedge had served as more prison and place of exile for him, rather than a desired refuge or a realm to rule. But in time, Roland had come to care for the people there, had fostered communities away from the capital, and learned the value of even the weakest Pathbearer. He'd vowed to protect them, to guide them, to make their lives as good as he could.
+
+And his vows were all meaningless now, for he couldn't even spare them from the weight of his bygone sins.
+
+"Tell me what to do," Roland begged. He looked at the Starhawk as a student would his master. "Tell me what to do, what I have to give, and I will do it."
+
+"There is nothing more you can give, Roland," the Starhawk said. "It is not a question of your devotion or your power. You have already given everything you possibly could, everything and more."
+
+"Then what about me?" a resolute voice cut in.
+
+Roland's eyes widened, and he looked at Adam. The Young Lord was standing tall. His gaze was fixed upon the Starhawk, and rather than awe, there was an expression of grim devotion upon his features. "What about me? If my father cannot carry your divine burden, then let me stand in his stead."
+
+The Starhawk gazed upon Adam, and the shadow of the Ascendant sighed. "I do not doubt you in any capacity, Adam Arrow. You are your father's son, and you are your mother's son. But most importantly, you are a good man, despite being System-favored."
+
+"System-favored?" Roland whispered. Dread consumed him. Now he understood why Adam was a Hero, how he'd grown so powerful in so little time.
+
+"Then why?" Adam asked, clenching his fists. "Why? Is it because I'm not powerful enough? Is it because I lack the proper skill?"
+
+"You found the point," the Starhawk replied. "You lack the proper skill, but more importantly, you lack the uniqueness of that skill."
+
+And Adam's mouth fell open. "The uniqueness? Then my father's ability to channel your blessings…"
+
+"My Blessing is not like that which swells within your friend. I am bestowing my power directly upon Roland. I am using him, in effect, as an outlet for my true might. This allows him to operate at the very limits of your world's ambient mana threshold. And it is only possible due to the years we have amassed together, due to the histories and legends we have composed. He has served me for long ages, for campaign after campaign, and the devotion he expressed toward me, and in my name, is unrivaled by any other Pathbearer in all Integration."
+
+Recognition dawned on Adam's face, and the Starhawk sighed. "I am sorry, Adam," he said. "But for every field you might be able to surpass your father in, his devotion to me is not one of them."
+
+"I can swear vows. I can offer years of service," Adam hissed, his expression tightening in desperation. “Centuries!”
+
+"And the System would see that for what it is," the Starhawk replied. "Bargaining. I know the truth inside your heart. Your faith is shaken. You do not know who to trust. You do not even know if you can trust me, and I do not blame you."
+
+Still, Adam looked ashamed. "Do not quail before my words, little hawk. This is not your fault. It is simply the inevitable outcome when we, greedy Pathbearers desperate for power, make ourselves into unworthy gods. We thought we could gain wisdom and truly forge a better tomorrow. But ultimately, we are what we do. Such is how our skills are shaped, and such is how our legends grow." But then the Starhawk paused, and a hint of melancholy entered his voice. "And our legends are not truly our own, not in their entirety."
+
+"But there are other sacred relics here," Adam said. "Surely they can offer something!"
+
+"Not when those linked to them remain forgotten and slumbering—when their owners are trapped within our own progenitor," the Starhawk replied. "They will only become conduits once more if they are allowed to be reborn from the Great One—the only entity that could bring them back into existence. And besides that, you will not want the power of my former comrades. They would demand more than your soul, more than you can offer in a thousand lifetimes. Some were forgotten for a reason."
+
+"Alright, great, fine, we can't do any of that. So what in the fuck can we do?" Rose hissed.
+
+Adam's jaw dropped at his mother's casual profanity before the divine, and Roland just sighed. Ever since Rose was exposed to truly foul language by Vera, there was no going back. Not when speaking this way made the late Lord Van Erren incomparably furious.
+
+"Wait," the Starhawk said. "Wait for an opening. Recover. And prepare to flee thereafter. The blade is strong, but its wielder is foolish. Hawgrave and the Descender cannot overcome the Undying Tarrasque by themselves. This dimension will be sheared through, and when that happens, it will be time to disconnect the Perch from the rest of the town and take flight.”
+
+Roland closed his eyes. “Lord. You cannot ask that of me. You cannot ask me to abandon them.”
+
+“I must, Roland,” the Starhawk replied with a somber breath. “Gather what survivors you can. But you must flee. There is no survival left here. And scant thousands remain. Blackedge is slain.”
+
+“But the false-god-Ascendant-bastard offers only one path.” A new voice interrupted the Starhawk. All heads turned to its source, and all eyes settled upon the only Umbral in the room. Yet her mouth was unmoving. Her helmet had been removed, revealing ghostly-pale features and hair to match, and the voice was coming from her eyes. A slight hint of fear lined the Umbral's face.
+
+Roland examined her for a moment. A series of thin scars ran vertically over her mouth, and her features were sharp and rather fierce for that measure. But ultimately, it was her eyes that were her most prevalent trait. Her eyes, containing the colors of the Outside, which were now seeping into Integration.
+
+The Starhawk's shadow took a single step toward the Umbral. "Dreamtaker," the deity said. He sounded like a man noting a cockroach infestation in his home. "You dare sully my sacred relic with your presence?"
+
+"Fear. Loathing. Scorn. Hate for us. Irrational right now. You need every option-choice-escape that you can have. And you yourself are out of power, servants-divine, mana-slaves."
+
+The Starhawk fell silent for a moment, and the Dreamtaker continued. "This place is no cage for me or my light. Dimensionality is rules based on patterns, patterns that entrap you, but patterns that you can pierce-exceed-bypass. You have the skills, and you have the power. The power to open a way for a few, or potentially to save yourself, alone."
+
+And the Umbral hesitated. Her posture shifted to one of discomfort. Suddenly, her mana strand shot out through the air and splashed into Adam's mind. Roland moved, trying to intercept her, but his body screamed with pain, and he doubled over.
+
+"Father, no!" Adam gasped as he caught Roland before he could fall over. "She's with me! She's a friend." And Roland knew that was at least somewhat true, because as the Umbral's Psychomancy locked itself in place within Adam's mind, he wasn't laid low in any form or fashion. He didn't even seem to be compromised. In fact, Adam looked comfortable, as if he had done this many, many times before. What had happened to his son in his month of absence?
+
+"Uva, we can talk directly," Adam said, a slight hint of exasperation lining his voice. "There's no need for telepathy."
+
+“Isn’t there?” Uva said. Her posture was tense, and her eyes jumped between the Starhawk, Roland, and even the orcs.
+
+“I mean you no harm, Sister Uva of the Arachnae Order,” the Starhawk said. “But know this: I will not allow the taint you carry within you to touch my champion or my Phylactery.”
+
+“Words are not truths,” Uva replied. Her voice was cold, and her guard remained high.
+
+“Uva—” Adam began.
+
+“I trust you, Adam. You are a battle-brother. You. Valor. Shiv. Can Hu. My Sisters. The Mothers.” But she didn’t mention anyone else, and Roland got the message. He had the explicit feeling she didn’t much like him in particular for some reason. “But there isn’t the time. We cannot wait. Shiv struggles alone beyond this place, and we must aid him.”
+
+“Agreed,” the midnight-robed orc said, nodding appreciatively at the Umbral’s aggression. “To delay is to surrender our fates to the System. And we all know how that ends.” The orc smirked at Roland. “The Starhawk seeks to preserve his Perch. And from the sounds of things, it might be capable of flight under its own power. Isn't that true, Town-Lord?”
+
+Roland didn’t answer, but the Starhawk did.
+
+“It will not rise on your whims, spawn of the Challenger,” the deity said with a rough growl. “Banish whatever vile schemes you are concocting.”
+
+“Oh, but I am not the one scheming here.” The orc turned to Uva. “Sister. What does your Outsider benefactor desire?”
+
+Uva hesitated. But the Dreamtaker didn’t. “I wish to fill-fuse-bless the Starhawk. I wish to taste the wrongness of his ascension—and merge my offspring with his divinity-anchor-phylactery. The Gate Lord cannot sustain his power. His soul is wrong-shaped. But we are shapeless, and the Seeker’s potential can be unbound.”
+
+“Impossible,” the Starhawk replied. His voice was calm but resolute. “I know what you desire—to infest Integration so that you can colonize the System as much as it colonizes you. But your colors will never settle within me. You will never have me. Not in this life. Not in any life.”
+
+The Dreamtaker just hummed melodically. “But that is not up to you. Your champion is spent. No more flames can pass through his burned channel. And you are parted from the world without his presence, without his will. Too much power—and not even your own. The System will not allow you to reach through directly. And so you are vulnerable. And desperate. No lies from us: we want you. And we want to give you colors. And through you, the Great One themselves.”
+
+And that drove a breath from Uva’s lungs. “No. I will not accept that.”
+
+“But why?” The Dreamtaker genuinely sounded confused. “Why not—”
+
+“I will not betray the progenitor of my Lady Arachnae to your influence. Even if you have come to my aid in my time of need. Even if you can offer me all the power in the world.”
+
+“Beyond the world,” the Dreamtaker corrected. “And not the power to corrupt. To change. The Great One dreams. But this dream is so crude-broken-sad-ephemeral. Why can things not improve? Why do the weavers have to suffer their maladies? Why do you have to live in fear of the other Faiths? Why did your mother have to die?”
+
+Uva flinched, and for the first time, Roland’s protective instincts extended toward her as well. He had a hard time telling her age, but with the way she stiffened in hurt, he knew she had to be young. Too young for the brutality of this world.
+
+“Never use that against me again,” Uva hissed. Her fury was cold, and the Dreamtaker’s response was devoid of rancor.
+
+“Apologies-confusion-why? I do not swear falsehoods. I want change-mutation-new colors. But that can be up to us. We have an opportunity. A bridge for proper power. The Starhawk’s champion is wounded. But the source of his power remains. We can sustain the source if the Starhawk allows it. And you can carry this skill as a betweener. Your presence is perfect. The System will smile on this arrangement. And so will we.”
+
+“I do not,” the Starhawk replied again. “And I will not let you perform any action that will jeopardize what must be done. The fate of the Republic—and this world—is paramount above all.” He glided across the room and came to hover before Uva. Yet, before the Starhawk reached her, Adam leaned his father against a wall and stepped between them.
+
+“Adam,” Roland choked.
+
+But the Young Lord was unshaken by his act. The Starhawk looked upon Adam with surprise as well, but waited for him to respond.
+
+“I have bled alongside her, and she has given nearly all for me,” Adam said, staring both his father and god down. His nervousness was plain, and his doubt was deep, but his resolve shone brighter than the dawn rising within his eyes. “That is more than iron. That is more than anything I can put in words. I trust her. And I would respectfully ask that you refrain from even thinking about threatening her, my Lord Ascendant.”
+
+The Starhawk regarded Adam, and he nodded. “I will grant your request, Gate Lord Adam. Within reason.”
+
+“And I can ask no more from you, Starhawk,” Adam replied.
+
+A look of gratitude flickered on the Umbral’s face. For a moment, Roland wondered if there was something more between them—feared it. And that brought another uncomfortable thought to the forefront of his mind.
+
+I haven’t even told Adam about his fiancée. She contracted one of the plagues unleashed by Sullain, and I had her placed within my personal infirmary. But I haven't checked on her in…
+
+“Thank you, Adam,” Uva said quietly.
+
+He offered her a weak smile. “Now. Please tell me you’re not even remotely thinking about the Dreamtaker’s mad plan.”
+
+“Why is the plan mad-insane-incomprehensible?” the Dreamtaker asked in confusion. “It is simply efficient.”
+
+“And unwanted by the Starhawk,” Uva replied on the Ascendant’s behalf. “There is no path to achieve your mutual colonization if the Starhawk himself refuses to lend you his might.”
+
+“Why?” the Dreamtaker asked again.
+
+Uva frowned. “There are times when you seem beyond divine, and others when you have the awareness of a toddler. Do you know this?”
+
+“Perhaps it might seem so to you,” the Dreamtaker answered.
+
+“Right. Fine. But—”
+
+Just then, a small mob rose into shape in the corner of Roland’s vision as the elevator connected to the top of the Perch arrived. The Town Lord turned to find a group of people huddled together. They were guardsmen, and all of them sported brutal wounds. Among them were several orcs. Most of them were armored in organic material, and they were actively healing the survivors.
+
+At their front stood Roland’s Captain of the Guard, Master Leinen François—recently promoted after Roland’s former captain died to a plague. With him was Chris, Roland’s personal Psychomancer, and beside her was someone entirely unexpected. A lich hovered at the center of the group, his body a faint, illusory outline of corrosive mana. Within his right hand was a half-burned skull. Roland recognized the make of the melted helmet around the skull. It was an Inquisitor’s full-plate helm.
+
+The Town Lord’s first instinct was to call out to his own people, confused as to why they were so relaxed with the lich and orcs around them. But he was interrupted by a whisper of misery that came from the skull in the lich’s hand. “No more of us… You have slain us all, Great Valor. You have taken the only thing I have left that matters to me. Please… Release the shadow of my spirit. Please…”
+
+“So be it,” the lich intoned. He closed his right fist, and the skull shattered. Necromancy crackled around him, and then it faded. Finally, he turned to regard the others in the room. “Ah. The Town-Lord has survived.” The lich’s burning eyes fell on Roland, and he involuntarily shuffled back. The Abyssal recognized him. But then his eyes fell on the Starhawk's manifestation. “And you have been summoned as well, Matthew.”
+
+“Matthew?” Roland breathed.
+
+The lich regarded the Town Lord for a beat. “And you never bothered to tell your faithful servant your true name? How cruel. Truth be told, it eluded me until I laid eyes on you just now…”
+
+The Starhawk turned away from Uva, and his shrouded form tightened with tension. “Legend Valor Thann. So. The town is cleansed of all remaining Necrotech holdouts?”
+
+The name pierced Roland’s mind like a blade from the sky. “Thann. Valor Thann! Udraal Thann’s father?” he gasped.
+
+“The very same,” Rose whispered to him. “But he hasn’t harmed me. He’s been with Adam all this time, and he hasn’t harmed him, either.”
+
+“It is,” Valor said to the Starhawk, and he glided over to face him. “And now, finally, we get to speak. Speak about your original sin. About how you and your ilk inflicted all this madness upon us, you Light-Cursed worm. I want to know what you have done—how you became a god, and what you did thereafter. And I want to know just what you took from the Great One to pervert your nature so.”

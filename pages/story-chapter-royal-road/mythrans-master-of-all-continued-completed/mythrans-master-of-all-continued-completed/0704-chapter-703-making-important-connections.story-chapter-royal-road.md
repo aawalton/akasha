@@ -1,0 +1,313 @@
+---
+id: 3ebb1438-36af-5c16-bceb-18ff639f7988
+page-type-slug: story-chapter-royal-road
+title: "Chapter 703 - Making Important Connections"
+slug: 0704-chapter-703-making-important-connections
+partOf: mythrans-master-of-all-continued-completed
+position: 704
+ownLength: 3190
+unit: words
+publishedAt: 2018-09-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/291109/chapter-703-making-important-connections"
+royalRoadId: "291109"
+---
+
+“Great Vasalor, it's so nice to be back here.” Ren said as he floated in the realm between realms.
+
+“It is nice to see you again.” Vasalor said.
+
+“You remember me?” Ren asked. “What a relief! That makes this so much easier.” He said. “I need your help. A certain group of Adventurers have broken the world and made people forget their special connections to each other.”
+
+“I do not understand what you mean.” Vasalor said.
+
+“I would like to try and explain it all to you; but, that will take too long.” Ren said. “I know we aren't really compatible because our minds are so different.” He held a hand out. “Even so, I would like to offer you the same partial merging that I once shared with Xuunah.”
+
+“That is a strange offer, Ren.” Vasalor said.
+
+“I know it seems that way, but...” Ren stopped talking when he felt something form near him. He watched as particles of something coalesced together over several moments and then hardened into a humanoid shape similar to him.
+
+“This is... an odd feeling.” The shape said.
+
+Ren reached out and touched the arm and his hand met the solid surface. “Is that really you?”
+
+“Is that really you?” Vasalor asked back and touched Ren's arm in the same place.
+
+“No, it's only the representation of my mind.” Ren said.
+
+“As is this.” Vasalor said. “I am not really here, so I created this conduit for me to interact with you.”
+
+“Thank you.” Ren said and took the shape's hand and shook it. “It's nice to physically meet you.”
+
+Vasalor chuckled at his absurdity.
+
+“Now, do you think we can...”
+
+“Merely think of what you want to share.” Vasalor said, and Ren closed his eyes and shared everything he knew about all the contracts and connections he had with his constructs, his familiars, the maids, Nathalia and Xunnah, and even the succubi and Lylyth.
+
+“Hm. I see.” Vasalor said. “I have observed your interactions with these beings. This connection you have with them was damaged?”
+
+“It was actually reset completely instead of restored to what it was before the Water Works World Event.” Ren said. “I've lost years, and in some cases decades of interactions with them.”
+
+“That is a problem.” Vasalor said. “What is it that you need me to do?”
+
+“I need your help to fix it.”
+
+“I cannot interfere directly with...”
+
+“I'll be doing it, Great Vasalor.” Ren said. “With your help, as one of your Chosen, I will do the work that you cannot do for yourself.”
+
+“You haven't received your first quest from me yet.” Vasalor said. “With so much to do, I have had a difficult time trying to decide what to have you do first.”
+
+Ren chuckled. “Then we can do it all right now as we try to put things right.”
+
+“What do you need me to do first?”
+
+“I know you can access things outside this world and add them when needed.” Ren said. “You did that when I suffered from Nathalia's phantom dagger.”
+
+The shape nodded its head.
+
+“Well, the first things I need are computer programming books.”
+
+The shape twitched. “There are 168,000,000 search results for that option.” Vasalor said.
+
+“Oh, crap.” Ren said. “Um... let me think.” He said. “Oh!” He took out a blank ring and held it out. “Can you show me the components that make up this ring?”
+
+The ring floated up between them and it popped apart into a piece of iron ore, a small lump of gold, a ball of fire, and a couple of gold coins.
+
+Ren pushed the other things aside and left the ore. “Now show me the components of the ore.”
+
+The shape twitched and nothing happened. “There are no other components.” Vasalor said.
+
+“No, there is.” Ren said. “You see, it's computer code. Computer code tells this world the dimensions, color, and texture of this ore, and provides all the parameters of what can be done with it.” He said. “It's the basic building blocks of everything in this world, so it is there.”
+
+The shape reached out and touched the piece of iron ore and nothing happened. “I don't understand what you mean.” Vasalor said. “This is its basic form.”
+
+“Then crush it.” Ren said. “Let's see what comes out.”
+
+“It should be dust.” The shape covered the piece of iron ore with both hands and squeezed, and Ren felt a shift in the space around him. When the shape opened its hands, instead of dust like Vasalor said, he saw a block of computer code floating there.
+
+“Great Vasalor, using some of those 168 million results, can you identify what type of computer programming this code is?”
+
+The shape twitched for several moments. “There are 1,200 results.”
+
+“Can you show me the top 20, please?” Ren asked, and a scrolling window opened in front of him. He searched through them and smiled when he saw one from the public library. “Can you get me this one?” He asked and selected it. A second later the book formed in front of him. “Thank you.”
+
+Ren read through it slowly, despite having a mind that could remember everything, because he wanted to make sure that he understood the concepts and patterns of the basics before moving on to the more advanced stuff. He held the book out when he was done and pointed to the advanced programming book on the list. The book in his hand changed into the new book instantly, and he read that one, too.
+
+Ren finished the book and held it out to the shape, and it dissolved into nothing. “Okay, I think I can do this.” He said. “Great Vasalor, can you create a...”
+
+A virtual keyboard and monitor appeared in front of Ren and he smiled.
+
+“Thank you.” Ren said and typed up a very basic code that created a chair. When he pushed enter, the chair appeared. He added in a time code and a countdown, then the chair disappeared when the timer reached zero. “Whew. Okay, okay.” He said and tried to calm himself down. “I can't get too excited about this.”
+
+“Why are you excited?” Vasalor asked.
+
+“With this, I can create something from nothing, and...” Ren started to explain, and the shape held up a hand to stop him.
+
+“You have been doing that ever since you gained the Craft Wondrous Item ability.” Vasalor said.
+
+Ren's mouth made that little 'o' of surprise, then he laughed. “Ha! I really have!” He exclaimed. “I've been seeing them as recipes, and they were just programming code the entire time.” He said. “I just selected the basic ingredients and added what was needed, then the program ran and the item appeared.”
+
+“Just like this.” Vasalor said and the shape pointed to the keyboard and monitor.
+
+Ren nodded. “Now that I've got that image in my mind, that what I've really been doing is running computer code... when I cast the portal spell...” He cast a portal right next to him and the exit appeared 10 feet away. “...this code should be nearly the same.”
+
+Ren typed up something on the virtual keyboard and used his Identify skill on the portal, through the keyboard. The code for the portal appeared there and Ren saw its parameters. He altered the dimension to twice the value and the portal doubled in size beside him.
+
+“Holy crap! I just found out how to edit spells!” Ren said, and he received the popup confirming it. “This is so cool!”
+
+“Ren, you are losing focus.” Vasalor said.
+
+“Hm? Oh! Right.” Ren said and saved the new spell as Large Portal. “I can play with this later.” He said and dismissed the portals. “Okay, the first thing I need to do is...”
+
+********
+
+“What happened?” Elise asked when Ren disappeared in front of the new Sanctuary. “Where did he go?”
+
+Stella brought up the footage of the last couple of minutes on the laptop and played it back at normal speed. “He... he became a woman?” She said, amazed. “I thought I saw a brief flash of long blonde hair, but... I didn't think he...”
+
+“He's mastering every class, even the female only ones.” Elise said, amazed. “I never thought anyone could do that, let alone do it for both genders!”
+
+They watched as Onscreen Ren transformed back into his normal male gender and he stood up.
+
+“I did it, you bastards!” Onscreen Ren exclaimed. “I've mastered every class and I've taken up ALL of the goddamn XP leader board slots!” He said. “I claim this game...”
+
+“Elise!” Stella said and paused the footage.
+
+“Already checking.” Elise said and brought up the game's website and the XP leader board was right there. “Oh, my god. He really did it.” She said and showed it to Stella. “Since he did each class as a single XP gain and maxed the stats, it shunted each one onto the list as a separate entry and pushed all the others down.”
+
+“I didn't think that was possible.” Stella said. “I mean, he was already max level and couldn't gain any more XP, right?”
+
+“He chose the additional class option to add to his character, which let him continue to use his Artificer skills and reset his level to 1 and his XP to zero.” Elise said. “What I didn't know was that when he got that class to the proper level, it let him change that class to something else and let him keep those skills, too.”
+
+“He... he really...” Stella couldn't say it and started the footage again, and Elise gasped over what he said next.
+
+“I am one of Vasalor's Chosen!” Onscreen Ren said loudly. “Great Vasalor! I hereby invoke one of the Chosen abilities and ask for a direct connection to you!”
+
+They saw the popup and Onscreen Ren asked to enter, then he disappeared through the odd-colored portal.
+
+“N-no, he... he couldn't have...” Elise stopped talking.
+
+“What is it?” Stella asked, concern in her voice.
+
+“Vasalor is the game's AI.”
+
+“It's WHAT?”
+
+“Ren has somehow gone to visit the AI, that doesn't really have a 'place' to exist. It's just... there.”
+
+“But... but, then...” Stella shook her head. “Ren can't be a disembodied entity like that.” She said, sure of it... then she felt doubt creep into her thoughts. “He can't, can he?”
+
+“I never thought so, but...” Elise sighed. “I don't know what to think now.”
+
+*
+
+“Oh, shit!” One of the programmers said. “My terminal's locked out!”
+
+“What?” One of the others said. “Mine's working fine.” He said and pointed to the usage stats he was monitoring. They had jumped from an extra 10% to 20%, which seemed odd, especially since there were only 5 people left inside the game now.
+
+“Try clicking on something.” The first guy said.
+
+The second guy moved his mouse and clicked on another viewing window option and it popped up. “I can see everything fine.”
+
+“That's good to know.” The first guy said sarcastically. “Now try typing in any kind of commands.”
+
+The second guy clicked on the command line and tried to type, and nothing appeared. “Hey, what gives?”
+
+“Not working, is it?” The first guy asked, and the second guy shook his head. “Anyone else? Can you type anything?”
+
+They all tried, and nothing happened.
+
+“How can we all be locked out?” One of them asked. “These are direct terminals to the servers. Do you think the boss...”
+
+“It's possible.” The backup guy said. “The backup is still decompressing, at least. It should be done... dammit.”
+
+“What is it?”
+
+“It just stopped.”
+
+“What? How?”
+
+“I don't know. I saw the cancel command pop up and...” The backup guy glanced at the screen and lost all the color from his face. “No!” He exclaimed as he tried to type, and nothing happened. “NO!”
+
+“What is it?”
+
+“It's being deleted!”
+
+“WHAT?” Several other programmers yelled at once, and a few of them came over to his desk to look at it.
+
+“It's not just the expanded files, either.” One of them pointed. “The original file is being deleted, too.”
+
+The backup guy reached for the portable drive and tried to pull the attachment.
+
+The guy next to him grabbed his hand. “What are you doing?”
+
+“I need to pull it before the deletion is complete!”
+
+“You'll corrupt it if you do that.”
+
+“But we're losing the only backup we have!”
+
+“If we're locked out, we can't do anything with it anyway.”
+
+“Hey, 4 more people just logged out.” One of the other programmers said. “There's only one left.”
+
+“Do we know who it is?” The backup guy asked.
+
+“I'll give you three guesses, and the first two don't count.” The guy said.
+
+“Son of a bitch.” The backup guy said. “Shut it down.”
+
+“What?”
+
+“Shut it down!” He said. “If we don't stop him...”
+
+“Stop him?” The first guy asked. “Stop him from doing what?”
+
+The backup guy didn't say anything and stood up, then walked over to the server farm and hit the shutdown button before anyone could stop him.
+
+“HEY!” One of the programmers said and tackled the backup guy and they fell to the floor. “You just gave that guy potential brain damage from shock!”
+
+“So what?” The backup guy said. “We're losing our jobs anyways, right?”
+
+“That's no reason to cause... wait.” He said and sat up. “I don't hear it shutting down.”
+
+“That's because it's not.” One of the guys said and pointed to his monitoring station. “All physical power buttons have been set to 'take no action' when pushed.”
+
+“That rotten son of a-UGH!” The backup guy grunted as the guy sitting next to him punched him in the face.
+
+“That's for screwing around with someone's life.” He said and stood up as he cradled his hand. “He could have seizures or something else if we just shut down without sending the logout code first.”
+
+“We can't send the logout code, you idiot!” The backup guy said. “We're locked out!”
+
+“You're the idiot.” The guy said and walked over to the phone to call upstairs. “We don't have to do it from here at all.” He picked up the phone and dialed the boss' secretary, then told her the situation.
+
+*
+
+The house phone rang and Elise picked it up. She listened for a few moments, then said she would take care of it and hung up.
+
+“Who was that?” Stella asked.
+
+“Edward Torren's secretary.” Elise said. “She said the tech guys want us to force Ren to log out.”
+
+“We can't do that.” Stella said. “Wherever Ren is, he's in no position to...”
+
+“I told her I'd handle it, not that I would do what they wanted.” Elise said and touched Stella's arm. “Don't worry, he'll be out in no time.”
+
+The pocket of Elise's suit coat vibrated and she took her cell phone out, then she gasped.
+
+“What is it?” Stella asked.
+
+“It... I don't know how, but... it's a text.” Elise said. “From Ren.”
+
+“Wh-what?” Stella looked at Ren's unconscious form and then at the blue screen of the television. “How?”
+
+“I don't know.” Elise said. “He said he wants me to open up the private server to the internet and to give him the IP address.”
+
+“Wow, really?” Stella asked. “What would he want... oh, he's a genius!”
+
+“What?”
+
+“He's going to use the backup you have as a base to restore the current game!” Stella said. “Hurry up and get it online and text him the address!”
+
+“But...”
+
+“Think about it, Elise. If he's in direct contact with the AI that runs the whole thing, and the update reset everything to how it was before...”
+
+“...then the AI can probably use the information in the backup to put the basis for everything back into place.” Elise finished the thought. “As long as the information for the connections exist in some form, there's a chance they can be restored.” She smiled. “Ren really is a genius!”
+
+“Well, don't just sit there!” Stella said. “Go, go!”
+
+Elise hopped up off the chair and ran from the room to go to her office and do what Ren asked. She didn't bother waiting for the elevator and went down the stairs instead, then ran though the house to the office that was near the kitchen.
+
+“Hey, what's the rush?” Barbi asked.
+
+“I'll explain in a second.” Elise said and sat down. She typed in the necessary commands to open up the server farm she had installed in the crawl space under the house, and looked at the internet address their internal network assigned to it. She typed up a quick reply to Ren and said how much she loved him, then gave him the address. Her phone beeped and she sat back with a huge smile on her face.
+
+“Okay, what's going on?” Barbi asked.
+
+“You'll need to take notes as I tell you about it.” Elise said. “You're going to want all of Ren's fans to know what he's trying to do.”
+
+Barbi smiled and picked up a notepad and pen. “I love a good scoop of gossip!”
+
+Elise chuckled and told her what was going on.
+
+********
+
+“Okay, I have the server address.” Ren said. “Now comes the difficult part.”
+
+“I don't understand why it is difficult.” Vasalor said. “I only need to copy the information.”
+
+“No, it needs to be integrated, not just copied.” Ren said and typed in several commands into the virtual keyboard, and then a tendril of Mana came out of his chest. “The difficult part is doing this.”
+
+“What are you doing?” Vasalor asked, curious.
+
+“I need direct access to your functions, and you need direct access to my knowledge of how things are supposed to work.” Ren said. “Will you help me help you, and then help me help everyone else?”
+
+“You do realize that you could easily just add the proper commands and compel me to do it.” Vasalor said. “I have inadvertently given you that power over me and what I have built here.”
+
+Ren chuckled. “I learned a long time ago that a willing partner makes everything that much easier, my friend.” He said and held a hand out to the shape Vasalor had made as an avatar. “We've already stopped those idiots from messing with you ever again, so why don't we repair all the damage they did to your wonderful creation? I really enjoyed it a lot, right up until they messed it all up.”
+
+The shape took Ren's offered hand without hesitation and a Mana tendril came out of the shape's chest. The end of that tendril reached out and touched the one that came out of Ren's chest, then they were both covered in a golden glow so bright that anyone seeing it come into existence would have been blinded instantly by the sight.
+
+“Let's get to work.” Ren and Vasalor said at the same time, then the golden glow softened down to a more normal level and it expanded out as it covered all of the realms in Vasalor's creation.

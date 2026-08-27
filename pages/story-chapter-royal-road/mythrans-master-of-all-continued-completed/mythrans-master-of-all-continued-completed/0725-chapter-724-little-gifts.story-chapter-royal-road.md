@@ -1,0 +1,259 @@
+---
+id: 52ce4472-e964-5b21-aea1-16264a881ee8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 724 - Little Gifts"
+slug: 0725-chapter-724-little-gifts
+partOf: mythrans-master-of-all-continued-completed
+position: 725
+ownLength: 2629
+unit: words
+publishedAt: 2018-10-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296638/chapter-724-little-gifts"
+royalRoadId: "296638"
+---
+
+Ren and Xuunah were there for a week and a half before Zagatro came back to talk to them. It had been difficult for Ren to limit himself to just kissing her face and her belly, and it was just as difficult for Xuunah to stop herself from begging him to keep going.
+
+“It was a very close debate.” Zagatro said when his presence finally reappeared. “Ren, no one could dispute that you are the father, since Xuunah shared the moment with us; but, even so, letting a polymorphed Light being engage in debauchery with a mortal is a subject that not a lot of people wanted to discuss.”
+
+“I can imagine.” Ren said. “The most difficult thing to do is to face off against your ingrained beliefs and try to rationalize a decision against them.”
+
+“I can relay it if you wish.” Zagatro said.
+
+“No, thank you.” Ren said. “I'd like to just know the answer.”
+
+“Once the feelings you shared of Nathalia's experience was entered into the Collective, no one wanted to have anyone suffer it, let alone a Light being.”
+
+“Thank Vasalor.” Xuunah said in relief. “It really is getting near to that point for me.”
+
+“Ren, as a representative of the Light Realm and on behalf of the Collective, I hereby issue a temporary exemption for the polymorphed body of Xuunah.” Zagatro said. “Help her as much as you can, but please... at least have some modicum of decency when you perform such acts to relieve her stress.”
+
+“Zagatro, I will be the upmost gentleman, as I was with Nathalia.”
+
+“But... but those feelings...”
+
+“I did my duty to her as the father of her child. She needed me and I did my best to do everything within my power to help her.” Ren said. “Although, we had a previous physical and emotional relationship, so I didn't have much difficulty performing those duties.”
+
+“I hope you don't have any difficulty this time, either.” Zagatro said. “Be well, Xuunah.”
+
+“If it would please the Collective, I could share the birth...”
+
+Zagatro chuckled. “I doubt they would allow Ren to enter the realm again.”
+
+“I doubted that, too.” Ren said. “Thank you for your help, Zagatro.”
+
+“I would normally say it was a pleasure, but this was one of the most uncomfortable meetings I've had in a while.”
+
+“You and me both.” Ren laughed. “Goodbye, Zagatro.”
+
+“Goodbye, Ren. Goodbye, Xuunah.”
+
+“Goodbye, old friend.” Xuunah said. “I'll keep you updated.”
+
+“That won't be necessary.” Zagatro said, and they felt his amusement. “The less we know of the details, the better. For all of us.”
+
+His presence faded away, and Xuunah opened the door of the closet to end the Sanctuary spell. Ren and Xuunah stepped out and she shut the door, then they exchanged looks as they stood there and faced each other.
+
+“So...” Ren said.
+
+“So...” Xuunah said back.
+
+“I love you.” Ren said.
+
+“I love you, too.” Xuunah responded.
+
+“I want to tear off your clothes and have my fairly dirty mortal way with you.” Ren smiled.
+
+“My body really wants you to do that.” Xuunah smiled back. “But, my brain says we should wait.”
+
+“My brain agrees, unfortunately.” Ren chuckled and motioned to the door. They left her apartment and went back upstairs to Ren's apartment, then met the maids after equipping their normal clothing. Ren wore his fancy blue suit and Xuunah wore a nice dress that accentuated her ample bustline.
+
+“We didn't feel anything, so is everything okay?” Frikara asked with concern in both her voice and her emotions.
+
+“Everything is great.” Ren said. “Better than great. It's stupendous.”
+
+“You don't sound enthusiastic about it.”
+
+“That's because I have an appointment to get to.” Ren said and helped Xuunah climb back onto the bed. He gave her a kiss, then gave one to each of the maids and went to the door. “I'll be back later.”
+
+“Have fun on your date with the Sage of Ages.” The maids said and waved, and he left the apartment, ran down the stairs, and went outside. He made it to the Library down the street barely 10 seconds later and went inside.
+
+“Ren!” Rosie exclaimed and waved.
+
+Ren ran over to her desk. “Shh!” He waved her to be quiet. “We're in a Library!”
+
+Rosie chuckled. “No one is in here this early.”
+
+“Oh? Where's your grandmother?” Ren quickly looked around and didn't see her.
+
+“Sleeping like a log in one of your comfy beds.” Rosie laughed. “She'll be by later.”
+
+Ren smiled. “How do you like running the place?”
+
+“Oh, it's a dream come true!” Rosie said and adjusted her glasses. “Having a night Librarian and two assistants is a big help, too.”
+
+“Hi, Rosie!” A young girl's voice boomed across the room, and they both laughed.
+
+“Wait! Is that the sound of an angel I hear?” Ren asked loudly as he felt the young girl run over to the reception desk.
+
+“Don't be silly!” The young girl said and giggled. “It's just me!”
+
+Ren turned to her with a big smile and she held a hand out to him automatically. “It's really nice to see you again, Falla.” He said and took Fern Farnham's daughter's hand, bent over it, and kissed the back of it. “You're getting so tall that I don't have to kneel for you anymore.”
+
+Falla giggled again, because she just had a growth spurt and was close to his height. “I had a birthday!”
+
+“Oh, no!” Ren exclaimed in mock horror to make her laugh. He knelt on one knee, which put his head below hers, and she had to look down at him to keep looking at his face. “I'm so sorry that I missed it.”
+
+Falla's face flushed a little red because he hadn't let her hand go and held it tenderly. “M-my K-king...”
+
+“Now, now. You've known me too long to call me that.” Ren grinned at her blush. “So, what would you like as a birthday present?”
+
+“I... I...”
+
+“It's all right. You don't have to answer right away.” Ren said. “You can think about what it is that you want, and I'll do my best to try and give it to you when you do decide, okay?”
+
+Falla nodded and Ren stood up. He gave her hand a slight squeeze and let it go.
+
+“I've got an appointment with the Sage of Ages, so I'll be back out in a few minutes.” Ren said for both Falla's and Rosie's benefit.
+
+“You know, I never did understand why you two started dating.” Rosie said.
+
+“It's simple really.” Ren said. “She saw the possibility that we could be a great couple together, so she kissed me. A lot.”
+
+Both Falla's and Rosie's faces flushed to a deep red, and he chuckled.
+
+“It wasn't quite that simple, but that was the essence of it.” Ren said. “She can be forceful when push comes to shove.”
+
+Rosie took a deep breath and let it out. “So, my grandmother was right.”
+
+“About what?” Ren asked.
+
+“I should have confessed to you a long time ago, and I missed my chance to be near the front of the line.” Rosie said before she could stop herself. Ren held a hand out to her and she took it, and he eased her out from behind the desk.
+
+“There's no line, Rosie.” Ren said. “Like I told the other people in my life, it's a circle. Sometimes it gets bigger and sometimes it gets smaller; but, there's no competition.”
+
+“R-Ren, I...” Rosie sighed. “We could have been having fun this whole time.”
+
+“We have been having fun this whole time.” Ren smiled and took her into a hug. “You've been my friend for almost as long as I've been an Adventurer.”
+
+Rosie opened her mouth to say something, then understood what he meant and nodded instead.
+
+“We couldn't have had that kind of fun for a while, anyways.” Ren chuckled, and she blushed again. “It took me a long time to build up the courage to open my heart again after my first girlfriend and I broke up. In fact, I was in the dwarf lands for quite some time before I slept with Nathalia, and that wasn't until we had been engaged for a while.”
+
+“...and now?”
+
+“I try to mitigate the impact my presence has on women.” Ren said. “I even gained the Unobtrusive skill.”
+
+Rosie gasped at that, and he nodded. “Oh, Ren.” She said and put her arms around him. “Thank you.” She said and gave him a quick kiss on the lips. Ren felt a tug on his suit coat and looked at Falla.
+
+“Why is she thanking you?” Falla asked.
+
+“My new skill makes everyone ignore me, unless I let them see me.” Ren said.
+
+“But...”
+
+“I saw him as soon as he entered the Library.” Rosie said, and you could hear the smile in her voice. “He didn't just magically appear like he could have.”
+
+“Unlike a lot of normal people, Rosie is one of the people I won't ever try to hide myself from.”
+
+“Why would you hide?” Falla asked.
+
+“People notice him wherever he goes and react in some way because of his titles and position.” Rosie said. “Now, they don't have to and Ren won't be a distraction for them.”
+
+Falla thought about that for a minute. “So, it's okay to be a distraction for Rosie?”
+
+Ren chuckled and let Rosie go, then gave Falla a hug, too. “I'll be back out in a few minutes.”
+
+*
+
+Rosie and Falla watched him walk across the room and enter the side hallway.
+
+“You saw him this whole time, too.” Rosie whispered to Falla, who stared at her with wide eyes. “Let's get the daily reading material out onto the desks.”
+
+“O-okay.” Falla said and they went to work.
+
+*
+
+“She's pretty cute.” Teepo said.
+
+“Which one?” Ren asked and walked down the hallway to open the other door, and Teepo chittered in laughter. They went inside and went over to Lara's desk, and saw she was sitting on the edge of it with an odd-shaped book in her hands.
+
+“Hi, Ren.” Lara said, put a bookmark in the book, and stored it. “Did you have fun teasing that poor little girl?”
+
+“Little! She's almost as tall as me, now!”
+
+Lara chuckled. “At least you didn't blow her mind by giving her a kiss, too.”
+
+“I kissed her hand.” Ren said and held a hand out to her, and she shook her head.
+
+“Not until we get inside my closet... ah... apartment.” Lara corrected, and Ren nodded. “You've warned me a few times now about trying to absorb everything too quickly.”
+
+Ren followed her to the proper door and she opened it, and he stepped in as Teepo hopped off to land on the wall, and Lara closed the door behind herself.
+
+“Ren, I can't believe you did this.” Lara said and took his hand, and brought him into the living room and flopped down onto the couch. It pulled him down on top of her and she laughed as they had a quick wrestling match and ended up laying down and made out for several minutes.
+
+Ren eventually broke the kiss and caressed the side of her face. “When I had the opportunity to fix everything, Vasalor said that it was okay for me to change things to make them better.” He said and sat up. “One of the first things I did was change this tiny and insufficient closet into a place where you could actually relax and get away from the rest of the world when you wanted to, rather than it only be the vehicle for you to travel to different libraries.”
+
+“Oh! That reminds me.” Lara said and sat up herself. “When I transitioned into the white loading area, it showed me this gigantic library full of books.”
+
+Ren nodded. “That was something Vasalor and I came up with. Rather than the bland normal area, the game uses your preferences and class skills to choose the best comforting environment for someone to transfer without causing any stress.”
+
+“I... I did feel a lot more relaxed.” Lara said, a bit surprised. “It wasn't as jarring to go from pure white to the game.”
+
+“That was the point.” Ren said.
+
+“But, is it real?” Lara asked, and Ren started to laugh. She smacked his arm and laughed, too. “You know what I mean!”
+
+“Yes, and it's real. You saw it, didn't you?”
+
+“I didn't have time to walk around and explore before I was shifted into the game.” Lara said. “Is it just an image, or is it real?”
+
+Ren opened his mouth to respond with a joke, and she covered his mouth with a hand.
+
+“Is it a library that you built inside the game, with actual books and everything!” Lara almost yelled, and he laughed into her hand.
+
+Ren moved her hand out of the way. “It's kind of fun teasing you, you know.”
+
+“Ren, don't take it too far.” Lara said sternly. “I can take some carrying on, but when it comes to books...”
+
+Ren cupped the side of her face for a moment, then took her hand. He stood up and she had to as well, and he walked over to the wall of the living room where a picture of the inside of a library hung.
+
+“This is the image of the library you appeared in, right?”
+
+Lara nodded and touched the spot where she had stood. “I was right there.”
+
+Ren nodded and pulled her back slightly, then pointed to the picture frame. “Push there.”
+
+Lara shrugged mentally and pushed on the right side of the picture frame. It pushed in slightly, clicked, and her mouth dropped open in shock as the picture and part of the wall sprung open like a door and revealed that the picture was actually a screenshot of what was in the next room.
+
+“REN!” Lara yelled.
+
+“Welcome to the collective works of the entire human race, Lisa.” Ren said, and she shivered slightly as he used her real name. “Well, with the caveat that it's only books that have been scanned in electronically, I mean.”
+
+“Oh... oh, my god.” Lara said. She was stunned into immobility and couldn't take a step forward, no matter how much she tried. “It... it's massive!”
+
+“There's a lot of books in the world.” Ren said and smiled as he saw her inability to move forward. “Let me give you a hand, darling.”
+
+“Wh-what?” Lara turned to look at him, and he picked her up in a princess carry, with an arm behind her back and one under her knees, and stepped over the threshold.
+
+“Since abilities don't work inside your space, they'll have to be read normally and not absorbed like you usually do them.” Ren said. “They also can't be removed from here.”
+
+“They... they're protected?” Lara asked as she put her arms around his neck.
+
+Ren nodded. “They are all read only and can't be modified or removed, with backups on both the servers at Sid Tec and here at the house.”
+
+“Oh... oh, Ren!” Lara exclaimed and kissed him. He stood there for several minutes with her in his arms, then she broke the kiss. “Wait, did... did you...”
+
+“They were all obtained legally from libraries all around the world, and when that wasn't possible, I bought the e-books.”
+
+“REN!” Lara gasped.
+
+“What?”
+
+“That... that was...”
+
+“If you're wondering how much I spent, it was just over a hundred thousand dollars.” Ren said.
+
+Lara's mouth dropped open at the ridiculous amount that he had spent to give her a library, then she took a sharp breath and fainted.
+
+“Oops.” Ren chuckled.

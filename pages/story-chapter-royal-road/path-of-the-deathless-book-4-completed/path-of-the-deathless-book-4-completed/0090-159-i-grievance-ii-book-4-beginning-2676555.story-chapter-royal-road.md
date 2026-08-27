@@ -1,0 +1,163 @@
+---
+id: d082011b-4955-59e5-a0ad-4b20c8ba43dc
+page-type-slug: story-chapter-royal-road
+title: "159 (I) Grievance [II] [Book 4 Beginning]"
+slug: 0090-159-i-grievance-ii-book-4-beginning-2676555
+partOf: path-of-the-deathless-book-4-completed
+position: 90
+ownLength: 3032
+unit: words
+publishedAt: 2025-10-14
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2676555/159-i-grievance-ii-book-4-beginning"
+royalRoadId: "2676555"
+---
+
+Most Legends don't live long enough to experience the fullness provided by their newfound power and skill. This is because the Post-Legend Mortality Phase, effectively the most dangerous period for one to become a Legend, is the point immediately after you gain a Legendary-Tier Skill.
+
+This is due to a number of reasons. The first is internal. Most people start thinking of themselves as invincible once they become Legends. Becoming a Legend, however, often negatively affects their cognition and behavior, prompting them to be more reckless or more careless. And careless is the last thing one can be upon becoming a Legend.
+
+Secondarily is the danger posed by the outside world. There are rival Legends, rival Heroes, and the moment immediately after your evolution is the last good window they will have to make you easy prey. A Legend of Physicality will be beyond most warrior-category Pathbearers to contend with, and so they will have to muster everything they have to slay you before you fully understand the depths of your new power. The same can be applied to Mages or even scholarly Pathbearers.
+
+Upon reaching Legend, most people are no longer threats compared to you, at least not alone. Your adversaries will become the divine, grand disasters, monsters that shake entire regions or even worlds, and more often than not, rival Legends.
+
+And the last reason why Legends most often die immediately after they acquire a Legendary-Tier skill is that Legends usually despise suffering another Legend. For Legends, more than any other Pathbearer, have the opportunity to truly enjoy the fruits of extended longevity, but only if they stand alone at the apex of their culture or their environment.
+
+The plural of Legend is war.
+
+-The Falsehood of Immortality, by Valor Thann
+
+159 (I)
+
+Grievance [II]
+
+"Back away from him, now!"
+
+The words escaped Roland as a growl, and he didn't even realize he'd spoken them until a second thereafter. Flaring embers danced around his hand, and the outline of a longbow appeared. However, Valor ignored him altogether, and the Starhawk turned, uttering a single word.
+
+"Stop."
+
+Roland's body stiffened. The Starhawk's voice was somewhere between a command and a plea, and the Town Lord stood down, but kept his gaze locked on Valor Thann. The lich, for that matter, remained utterly focused on the subject of his loathing, the Starhawk himself.
+
+"I understand the reasons behind your ire, Legend Valor, but right now…"
+
+"Right now is the only chance I might get to understand what you have done, to understand what you have taken from the Great One." Valor Thann’s interruption was cold and immediate, and the Starhawk just sighed, sounding too exhausted for someone so powerful.
+
+"It matters not that we are caged within this dimension or in grave danger. Before anything can be decided by anyone,” Valor briefly looked at Uva, and especially the colors seeping out from her eyes, "I need to know what your relationship with the Great One is. How you and the other Ascendants became divine. I am a shattered remnant of myself, Matthew, but I still remember certain things, and being in your presence has brought other memories back to me, few of them pleasant."
+
+A brief silence settled between them, and the tension in the room rose. Just then, the Dimensionality outside quivered. It was like something was trying to tear through the static manner lining the space around them again.
+
+"As much as I appreciate the drama," the bespectacled orc began, "it's best that we deal with this as soon as possible. I will be very upset if this run of mine ends at the hands of the Tarrasque just as the Starhawk is about to emotionally admit his great wrongdoing."
+
+The Ascendant hesitated. He shot Roland a brief glance, and then he began to speak. "It is true, I did transgress. Before my fellows and I were Ascendants, we were rebels. Rebels from separate communities, smaller kingdoms, and meager villages. We stood against the encroachment of the Dust Lord and his empire, but it proved futile, and after we were beaten, we were exiled for our troubles."
+
+"But why?" Uva asked. Her eyes narrowed in confusion. "Why not simply have you executed or enslaved?"
+
+"That was not the Dust Lord's way at the time, for in those years, the Abyss was a great mystery to the surface, and expeditions descended constantly, seeking valuables and more. My fellow exiles and I were all considerable Pathbearers, champions of our community. The Dust Lord had sustained great losses defeating us, and as he did not wish to suffer an extended insurrection, we were granted our lives. But the penalty for that was exile, an exile into the Abyss, no less. This way we would technically survive, as there were caravans descending and ascending the Abyss. And through this method, we could still serve the Dust Lord's interest by destabilizing the under-kingdoms. It was also a form of retaliation, as the Five Faiths would often raid the surface at night."
+
+Just then, a gap opened up in the Dimensionality beyond, and a deafening roar shook the world. It started as a low growl and finally died down as a screech, and something about that voice reminded Roland of the Omenborn somehow. Judging from the look on his son's face, Adam was thinking the very same thing.
+
+"Yeah, you might want to speed this up," Georges commented, looking nervous. "And we might want to figure out our own way out of here as soon as possible right after. I'm sure as shit not looking forward to finding out what that thing's diet is."
+
+"Anything it can fit in its mouth," the automata-clad orc helpfully provided.
+
+"We spent many years in the Abyss," the Starhawk continued. "We established new lives there, took on new roles as mercenaries, as warriors, as artisans, and as scholars, serving the Five Faiths as they warred against one another. But we all shared a common dream, to return to the surface, to liberate our homes, and to bring down the Dust Lord. We tried striking pacts with our benefactors in the depths, gaining allies, gathering forces of our own, but the Light-Curse was our greatest impediment then. Even if we managed to build an army of our own, we couldn't wage a war on the surface. Not easily. Not like the surface could descend and assault the Abyss with impunity."
+
+"Wait, the Light-Curse existed then?" Adam asked.
+
+"Yes," the Starhawk said, "it existed long before even my forefathers could even recall. As to who placed the Curse on the Abyssals and why, that remains a mystery to me as well. I suspect it has something to do with the Great One."
+
+"And the Great One," Valor said, bringing the topic back on point, "what did you do with them? How did you become an Ascendant?"
+
+"We joined the Descenders," the Starhawk said. "All of us. We partook in their expeditions. We did so to reach the very depths of the Abyss, for we heard of a legend that there were places of immense power there. Places that would allow us to advance our skills beyond the limits of the time, were we to reach them." The Starhawk paused then, considering his words. "There is too much to explain concerning what truly happened. But the simple truth is that we were all reborn, but not as ourselves."
+
+"And what does that mean?" the orc Biomancer asked, seeming genuinely curious now.
+
+"The Great One lies dreaming. The Great One lies dead." The Starhawk drew in a shuddering influx of mana, flickering in and out of existence. "But the Great One dreams. That, above all else, is true. And so, we made the Great One dream that it was us."
+
+"What?" Adam breathed.
+
+“It is perhaps a crude explanation," the Starhawk noted. "We made the Great One think that we were its true form. That it was all of us at the same time. And because it dreamed of us as such, we were reborn in its body. It birthed us. It fused us as if skills locked within its soul. But we are not skills, we are Pathbearers ourselves. And so, to depart the cage that we found ourselves in, we created something. Something that we learned from you, Valor. You and your fellow Necrotechs.”
+
+"Phylacteries," the lich spat. "The ritual of the dichotomous soul. That is why you have created them; to part the Great One's power."
+
+"More than that," the Starhawk said. "The Phylacteries are meant to be our personal anchors. For initially, the Great One remembered itself as all of us at the same time: twenty individuals and only one at once. We began to bleed into one another. Madness threatened to overtake us. And we needed something to keep our stories our own."
+
+"So that is why you've been gathering other sacred relics. Other Sacred Phylacteries," Uva muttered. "The Forgotten Ascendants are not dead. They cannot be dead. The Great One remembers them, albeit in a confused fashion. If you return the Phylacteries, perhaps they could be fully remembered and thus resurrected once more."
+
+"That is my theory, yes," the Starhawk finished.
+
+"Your theory," the dark-robed mused, cocking his head. "You are not sure, great god."
+
+"I am ultimately uncertain," the Starhawk admitted. "A great many things leave me uncertain, but it is the most likely outcome, judging by the nature of our creation."
+
+"You, miserable, damnable fools," Valor seethed. He drifted closer to the Starhawk, and Roland took a step toward Valor. Adam froze, unsure how to respond, but Uva didn't.
+
+She directed one of her strands at Roland. "Give them time. This must be settled."
+
+The Town Lord regarded the Psychomancer's mana and met her eyes. She looked as resolute as he was, and the nervousness on Adam's face reached new heights. Slowly, Roland offered the Umbral the slightest of nods, and she returned it. A soft breath left Adam, and he calmed somewhat.
+
+"Have you any idea what you have done, what you yet risk?" Valor pointed his right hand at the Starhawk, and the crystalline limb glistened briefly with Necromancy. "The Great One lay dead, having spent ages slumbering, dreaming calmly, until you managed to defile its dreams. You have interrupted and reshaped the mind of a sleeping god. And for what? Your own selfish gain, your own power."
+
+"We did it to retake a home, to overthrow a tyrant and protect what is ours."
+
+"And now you lead an empire masquerading as a Republic, and your protection has become expansion." Valor let out a snort of disgust. "And you struck at the very people who let you into their homes and offered you hospitality. How often this turns out to be the case."
+
+"We have lost our way. That, I do admit," the Starhawk said. "And I have never declared my innocence. Everything I do now, I do to set things right. For that which you fear is becoming true."
+
+Valor drifted back slightly. “You mean…”
+
+“The Great One is beginning to notice the incongruities in its dream. I can feel this. The other Ascendants can feel this as well. Our presences were easy to hide early on. Our deception was a small one, considering the sheer amount of legends the Great One has amassed. But as we siphoned its power, as we used its being as a broader receptacle for our own, our own legends have bled over into its narrative.”
+
+The Starhawk looked down in shame. "And thus: madness. Madness is swelling through the Great One. Madness is consuming it from the inside, from the depths of its soul, and from the remnants of its mind. And I must make this right. I must return to the depths and bring back my fallen, forgotten comrades. And thereafter, we must subdue the other Ascendants and properly return what we have taken. For we soon may reach a point where the Great One sleeps no more, dreams no more, and decides it wishes to be dead no more."
+
+And as if to add weight to the Starhawk's statement, something smashed against the veil of Dimensionality again. Once more, the Tarrasque's primal bellows shook the ruined town of Blackedge.
+
+"So you were not intending to make your champion, Roland Arrow, a god?" Uva asked with a frown on her face.
+
+Roland did a double-take at that. "What? Why would you think that?"
+
+"Because that is what Master Inquisitor Sijik stated as his assumed truth when I interrogated him," she answered.
+
+Roland's surprise was doubled. "You captured Master-Inquisitor Sijik? When?"
+
+"The Inquisitors decided to take a little detour toward the gate currently occupied by your boy," the wand-wielding orc said, his grin growing. "Tragically, instead of facing a mob of incompetent Vultags, they were assailed along the way by a small army of…" The orc couldn't help but giggle. "...gray-skinned Necrotechs."
+
+Roland's mouth opened slightly. Adam let out a brief sigh. "A lot has happened, Father. I'll explain everything later. If there is a later."
+
+"The other Ascendants, do they know?" Valor asked, ignoring the interruptions.
+
+"They know as well," the Starhawk confirmed. Then his body shook. "They know, and they have decided that they wish to keep their power, by any and all means."
+
+"And what does that entail?" Valor pressed.
+
+"The Ascendants seek to perform a ritual, one that will cost a good percentage of the Republic's citizenry."
+
+"They can’t possibly—" Adam gasped. "What do you mean by cost? Do you mean the Ascendants… They can't possibly be thinking about sacrificing our people, can they?"
+
+"That is not how the Ascendants would phrase it," the Starhawk said, though it was clear that he disagreed. "They view it as an offering, an investiture of sorts. Many in the Republic have skills relating to faith. It allows the Ascendants to reach through them, to channel our so-called divine power through their beings. But it also lets them serve as a reinforcing mechanism for our powers. For years, we have been trying to understand how to advance the creation of Phylacteries on our own, to create a grand Ritual of the Dichotomous Soul, of a shared soul.”
+
+Valor's skeletal hands tightened into fists, but the god continued without pause. “My intention was something of communal divinity. No more Ascendants. Or rather, that everyone can be an Ascendant unto themselves. That they could tap into the divine wellspring of power we all share. Power of the people, to the people. A unified skill that they could draw upon. But the other Ascendants were not interested in such a thing. They wished to make their faithful into Phylacteries. Phylacteries to reinforce them. Sacred Phylacteries that they could devote to the Great One, to further cement themselves as an unchangeable truth."
+
+"Unchangeable truth?" Valor snapped. The Legendary Pathbearer sounded livid. "You are trying to usurp the very mind and being of a fallen god. One even its children don't understand. One that has provided the Abyss with everything!"
+
+"I know," the Starhawk said, his voice filled with mourning. "And it is worse than you think, Legend. For my fellow exiles are turning on each other due to this very fact. Because though we are all Ascendants, we are not equals. We all have different numbers of faithful connected to us. Right now, it is most likely that Kathereine the Songbringer will be the priority personality that takes hold of the Great One. In function, this will make her the First. First among Ascendants, first above all others."
+
+"Broken Moon," Adam whispered. His gaze swayed from face to face until he found his eyes locked with his father. And in that moment, both Arrows shared a look of sour misery.
+
+"It's true," Roland said. "It's part of the reason why you were born at Blackedge. Why I've been here for so many years." And Roland clenched his jaw before the next words finally left his mouth. "It is the reason why I descended into the Abyss with the Eclipsebreakers, why I disobeyed a direct command from the Republic, from the other Ascendants. It's why I escalated the war and sacked Submission."
+
+"I don't… I don't understand," Adam muttered. His hand was beginning to shake. “Sullain was not lying?”
+
+"No," Roland said softly. "He wasn't. I didn't intend for…" The Town Lord stopped himself and closed his eyes. "It doesn't matter what I intended. A city was burned. Countless innocents were killed. All so that I could steal a few Sacred Phylacteries stored in the Vicar's vault."
+
+Adam looked ill when Roland finished. He turned away from his father entirely, and that ripped Roland's heart wide open.
+
+"Wow, this was quite the story," the orc Biomancer said, sounding pleased that he managed to hear the entire accounting before getting killed. "The Challenger applauds the audacity of your comrades, and he commends you for your willingness to stand against them. It must wound your soul so terribly.”
+
+"I care not what the orc god praises," the Starhawk said, derision heavy in his voice. "I care only to make things right. To make right what I should have made right years ago." He held out a hand, gesturing pleadingly at Valor. "They were my family. To stand against them takes more from me than I can offer. Many days, most days."
+
+And for the first time, the lich's posture softened. He looked away from the Starhawk and nodded in understanding. "It is a weakness that you are not alone in. It is a weakness that I understand as well. But still, it changes nothing."
+
+The Starhawk nodded in agreement. "The past is set in stone. The legend has been written. Only the future awaits. And it is only in the future that I can make things right. So, with this spoken, with these truths revealed, what say you, Valor Thann? Are you satisfied?"
+
+"Satisfied? No, I will not be satisfied. Not after all I've learned. But I will aid you, Starhawk. I will aid you regardless of the wrongs you have committed. For you alone seem to be still trying to do something right."

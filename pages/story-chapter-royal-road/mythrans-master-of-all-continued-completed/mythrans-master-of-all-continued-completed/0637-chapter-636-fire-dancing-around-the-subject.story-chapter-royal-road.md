@@ -1,0 +1,243 @@
+---
+id: 9846ba10-52d9-5b76-b18d-9dd61e9c63c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 636 - Fire Dancing Around The Subject"
+slug: 0637-chapter-636-fire-dancing-around-the-subject
+partOf: mythrans-master-of-all-continued-completed
+position: 637
+ownLength: 2624
+unit: words
+publishedAt: 2018-07-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233245/chapter-636-fire-dancing-around-the-subject"
+royalRoadId: "233245"
+---
+
+“Oh, my god.” Elise covered her mouth with both hands.
+
+“Ren, who was it with?” Stella asked.
+
+“HOW?!?” Barbara yelled.
+
+Ren raised his hands in a stop motion gesture. “Let me explain.” He said. “It all started when I maxed out my Fire Affinity and Resistance...”
+
+The three women stared at Ren and listened to his story about meeting the Fire Deity, about her predicament, and about saving the element from being lost and how her plan involved him. He then explained what happened when the plan worked, that she had died and gave birth to the new deity, raising her until she was old enough to accept the power, then leaving her there.
+
+The three women exchanged glances, then started laughing.
+
+“That's what happened!” Ren exclaimed.
+
+“Oh! Ohh!” Elise hugged herself. “I can't believe... I thought you were... hahaha!”
+
+“What's so funny?” Ren asked, confused.
+
+“You were so serious!” Stella said. “We thought you had a real daughter!”
+
+“Fire Dancer is my real daughter.” Ren frowned.
+
+“Ren.” Barbara put a hand on his arm, and he looked at her. “We thought you meant in real life, and how that would impact your life here.” She said. “If it's just in the game world, then...”
+
+“Go ahead and say it.” Ren said without inflection.
+
+“It's not that important.” Barbara said, and he pulled away from her. “Ren, we're not saying it's not important, just that it's not as serious as you made it out to be.”
+
+“So, the fact that I have a child already isn't as important as where I had it.” Ren said and sat back without finishing the last piece of toast. “Okay, then.” He said and looked at Stella. “I'd like a shower, please.”
+
+“Ren, don't take this wrong...” Stella tried to explain.
+
+“Is there a right way to take you dismissing this like it was nothing?” Ren asked and looked at Elise. “I've been holding it in all this time because I thought it was going to upset you.” He said. “I guess I shouldn't have worried about it.”
+
+“Ren, it's not like that.” Elise said. “We're just relieved you weren't taken advantage of in real life, that's all.”
+
+“Yeah, that's great.” Ren said. “Now that you know, it doesn't seem to be bothering you, either.”
+
+“Ren, that would have been a significant event in the game, and I don't remember anything happening for the Fire Realm.” Elise said. “I think Max might have had something planned for it a while ago; but for some reason, the plans fell through and he didn't implement...” She stopped talking. “Oh.”
+
+“Now you get it.” Ren said. “Creating a new Fire Deity and stabilizing the element changed things.” He said. “It kept the game environment from becoming unbalanced.”
+
+“I'm sorry that you think we're not giving you enough credit.” Stella said. “That's not true.”
+
+“I didn't want credit for it.” Ren said. “If I did, I would have written a general message to everyone and announced it right after I received the Father of Fire title.”
+
+“That's how you got that?” Elise asked. “I thought it was because you gained the Absorb Fire and Fire Manipulation abilities.”
+
+“No. Fire Dancer's mother gave me the title and it gave me those abilities.” Ren said. “I needed them while raising our daughter.”
+
+“In two weeks.” Stella said, and Ren nodded. “That's not possible, even in accelerated time.”
+
+“I think she's the exception to the rule.” Ren said. “The realm needed a new ruler as quickly as possible, and she grew up fast.”
+
+“Elise?” Stella asked.
+
+“I've never heard of it before, but it was a special circumstance.” Elise said and sighed. “If I still worked there, I could pull up the proper files and...”
+
+“If they didn't do or say anything at the time, trying to look back now isn't going to bring up anything new.” Ren said. “Believe me, if the tech people had any inkling that I'd created the new Fire Deity, they would have used it against me a long time ago.”
+
+Elise thought about denying they would do that, and nodded instead.
+
+“It's bad enough that they cut off my access to her. I can't imagine what they would do if... no, actually, I can imagine, and I'm glad I couldn't visit her.” Ren said. “The problem I have is that I waited too long to try and contact her.” He sighed. “I have no doubt that she's angry, because it's been millennia since I've seen her, and I'm sure she thinks I abandoned her.”
+
+“Ren, I'm sure that...”
+
+“From her perspective, I have.” Ren said. “She can watch me from the Fire Realm, and if she has followed my adventures as much as I think she has...” He sighed again. “I messed things up and I don't know how to make it up to her.”
+
+Elise, Stella, and Barbara exchanged looks again, and none of them knew what to say.
+
+“Actually, talking about connections, now that I've got you here I want to discuss the situation with Artemis, Teepo, and the maids.” Ren said to Elise, then explained that their mental connection had been blocked or cut. He said that he assumed it was to stop them from reacting to his Sea Dweller status. The problem was, if they left it that way when they fixed the update, he would lose a major part of the benefits it conveyed.
+
+“I'll contact Mr. Torren and let him know of your concerns.” Elise said.
+
+“I'm a little worried that if I complain, they might leave them detached, just for spite.” Ren said. “So, you don't have to do it right away, since the update won't be ready until next week.”
+
+“No, I'll tell him as soon as I go to the office.” Elise said and smiled. “That sounds odd, considering the office is only downstairs.”
+
+Ren smiled. “Thanks, Elise.” He said and looked at Stella. “Stella, please help me take a shower.” He stood up and started to walk towards the bathroom.
+
+“Hey, wait.” Stella said and went over to him. “You can't just get up and go in your condition.”
+
+“I just did, didn't I?” Ren said as she took his arm and made it easier for him to walk. She took him to the bathroom and gave him a shower, and she was very careful of his chest and the damage there. By the time they came out, Barbara and the food cart were gone, the bed sheets had been changed, and Elise stood by the closet fully dressed in a fresh business suit and skirt.
+
+“I'm sorry you missed me getting dressed.” Elise said, correctly interpreting Ren's facial expression.
+
+“You're a busy woman. I can't expect you to pander to my whims all the time.” Ren said, and she chuckled.
+
+“Not all the time, no.” Elise walked over to him and gave him a kiss. “See you later.”
+
+“Just a second.” Ren said and climbed onto the bed with Stella's help. “Does it really not bother you that I've had a child already?”
+
+“I think Stella's right. If it had happened in real life, it would have...” Elise closed her eyes for a moment, then opened them and looked at him with pain in her eyes. “...it would have hurt me deeply if you had been used like that at such a young age.” She said, then the pain disappeared as she smiled warmly. “I was actually relieved that you made the conscious choice to do it in the game.”
+
+Ren was surprised to hear this. “Really?”
+
+Elise nodded. “You were responsible enough to weigh the consequences of that decision and chose to go through with it, then took the time to take care of her, even though you didn't know what you were doing.”
+
+Ren took in a deep breath and let it out. “I've felt guilty for hiding it, and now I feel guilty for not revealing it before now.”
+
+Elise chuckled. “You thought it was going to be a big problem for us to handle and admitted it anyway, so you don't have to feel guilty about it.”
+
+“I agree.” Stella said. “Knowing it was just in the game is kind of a relief.”
+
+“Does that mean I can have more kids in the game?” Ren asked, and both women laughed.
+
+“You've already told us about fulfilling the maid's contracts, if that's what you mean.” Stella said.
+
+“Technically.” Ren said and smiled.
+
+“What are you planning, you little sneak?” Elise asked.
+
+“Building a bridge between two races.” Ren said. “I didn't think it was a good idea until now.”
+
+“Ren, you keep asking us for permission to do things in the game, and you agonize over those decisions when you do.” Elise said. “I'm sure I speak for everyone when I say that you can do whatever you want in the game.”
+
+“Wait, what?” Ren blinked his eyes and looked at Elise, then at Stella, then back at Elise.
+
+“You've put a lot of pressure on yourself the last little while, and I'm tired of seeing you struggle with keeping your promises.” Elise said. “What was that thing Gloria said after you met so long ago?”
+
+Ren thought about not answering, then sighed. “What happens in the game, stays in the game.”
+
+“I know that's a bit too broad of a blanket, considering how several of us met; but, I think everyone knows that the things you are worrying over are nowhere near as important as your happiness.”
+
+“But... I swore that...”
+
+“Yes, and you've kept that so far. You haven't brought anyone new into our lives without telling us first.” Stella said. “You even told us you've been playing with the succubi and with that 1 foot tall pixie...”
+
+“Suniva.” Ren said.
+
+“Yes, her.” Stella said. “Plus that elfling in the elf kingdom, and the one in the starter city...”
+
+“Oh crap!” Ren said. “I forgot to feed her before I left!”
+
+“Relax.” Elise chuckled. “You said how well you fed her the last time, so I doubt she's starving right now.”
+
+“But...”
+
+“You can check on her as soon as you log back in.” Stella said and held out the VR headset. “Elise is right, though. You kind of overloaded her, so she should be fine for a while yet.”
+
+Ren nodded. “Thanks.” He said and looked at his watch, to see there was still 8 hours left in the game night.
+
+“That's what I'm here for.” Stella said and helped him put on the headset. “Reassurance.”
+
+Ren chuckled. “You are a lot more to me than just a source of reassurance.” He said. “I'll see you at lunch.”
+
+“Don't have too much fun.” Elise warned him, and he laughed.
+
+“Is that even possible?” Ren asked. “Flow Login Start.”
+
+*
+
+“Was that wise?” Stella asked.
+
+“He's been doing his best to not break his promise; but, you know as well as I do that it's only a matter of time before he breaks it with all that temptation around him.”
+
+“You're worried that he's going to feel so badly about it that he'll do something rash?”
+
+Elise nodded. “We can definitely keep the same restriction in real life, but in the game? He doesn't need the additional pressure.”
+
+“I'm not so sure about that.” Stella said.
+
+“I don't want him to push us away with his guilt, if something does happen.” Elise said, and Stella had to agree.
+
+“Make sure to let the others know when you see them.”
+
+“I will.” Elise said and put a hand on Stella shoulder for a moment, then left the bedroom.
+
+Don't overdo it, Ren. Stella thought and sat down by the bed to watch the television and the game feed.
+
+********
+
+Ren woke up in his spot next to the wall and saw Artemis, Suniva, and the 4 succubi cuddled up in the bed. He thought about the odd mix of personalities and the odd mix of bodies. A metal one, one accustomed to Fire, and 4 designed to illicit as much sexual desire as possible.
+
+Well, I think Artemis can be categorized with the succubi. Ren thought in amusement.
+
+“Hi, Ren.” Teepo whispered when he flew down to hover in front of Ren. “You were gone for a while.”
+
+“Sorry, buddy.” Ren whispered back. “I had some important things to take care of.”
+
+“Did you tell them about us?” Teepo asked.
+
+“I did, and I hope they can handle it without making things worse.” Ren whispered.
+
+“Yeah, I miss talking to you without having to talk to you.” Teepo said.
+
+“Me, too.” Ren said sadly.
+
+“R-Ren?” Artemis stirred and lifted her head to look at him.
+
+“Yes, it's me.” Ren said and stepped over to the bed. Suniva lifted her head from Artemis' chest and looked as well.
+
+“You're back.”
+
+“I am.” Ren climbed onto the bed and stored his clothing. The succubi felt the bed move and started to wake up, then they startled and jumped when they felt Ren's emotions. “Easy, now.” He said and touched each of them. “I don't need to sleep, so how about we cuddle for a while.”
+
+“Yes, please.” Seldanna said and lifted her arm and a wing for him. Ren smiled and slid in between Suniva and Seldanna, then started his best cuddling technique on them. They giggled and laughed as he touched them teasingly and provocatively. After a short while, he asked them to change positions so others could have a turn being cuddled, and he continued this for over an hour.
+
+“Artemis.” Ren said when it was her turn again, and she didn't need any other indications that he wanted more from her than a cuddle. She felt his need and straddled his waist, and it was at this point that she noticed he hadn't had underwear on the entire time.
+
+“R-Ren... you...”
+
+“Wanted you to be first, yes.” Ren said. “I've been gone for a couple of days, and I didn't have a chance to please you before I had to go.”
+
+“We spent all that time together in the Sanctuary, Ren.” Artemis said. “You know I didn't feel slighted when...” She gasped as she sat down. “...oh, god! How... how can you be...”
+
+Ren eased Suniva and Ellaria aside, then stood up on the bed while still joined with Artemis. “I was told I didn't have to hold back anymore.” He warned her, and her eyes widened as she took a hold of his shoulders and wrapped her legs around him.
+
+“You... you don't mean...”
+
+Ren gripped her hips and moved her up and down as fast as he could. In only 2 seconds, she finished.
+
+“AHHH!” Artemis yelled, and the succubi froze as Ren's Aura was filled with her pleasure. She let her head fall forward and rested her forehead on his. “R-Ren...”
+
+“Seldanna, as the succubus I've known the longest, I give you the main position underneath us.”
+
+“M-my King!” Seldanna said and scrambled to kneel right below where he and Artemis were joined.
+
+“Ren, wh-what...” Artemis tried to speak.
+
+“Lick the both of us as much as you can.” Ren ordered Seldanna, and he felt her utter joy.
+
+“Of course, My King!” Seldanna said and then started moaning as she licked, her own pleasure entered his Aura, and Artemis started to pant from the extra attention. Ren slowly moved Artemis up, then back down again.
+
+“Suniva.” Ren said, and she didn't have to ask what he wanted. She climbed up his back, turned around and positioned her special place in front of his face like she had many times before.
+
+“What about us?” Ellaria asked, and indicated the other succubi.
+
+“Don't worry.” Ren said and smiled. “We've got all night.”

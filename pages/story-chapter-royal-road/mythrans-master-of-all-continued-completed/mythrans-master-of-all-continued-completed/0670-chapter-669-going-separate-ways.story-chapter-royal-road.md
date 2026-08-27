@@ -1,0 +1,335 @@
+---
+id: fc413f03-12ff-5905-bd8d-2cc555f6ba5b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 669 - Going Separate Ways"
+slug: 0670-chapter-669-going-separate-ways
+partOf: mythrans-master-of-all-continued-completed
+position: 670
+ownLength: 3077
+unit: words
+publishedAt: 2018-08-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243874/chapter-669-going-separate-ways"
+royalRoadId: "243874"
+---
+
+Ren noticed the look Selene gave the fighter as they passed each other, and with the emotions he felt from them, he knew they were 'having fun' with each other.
+
+“Thanks for the assist.” Selene said.
+
+“I was just making a point. You chose to capitalize on it.” Ren said.
+
+“It's nice seeing you again, too.” Selene chuckled.
+
+“It's nice to see that you're enjoying yourself.” Ren said and glanced at the retreating fighter, and Selene's face went red as she blushed.
+
+“How did you...”
+
+“You were looking at him when he passed and not the prisoner.” Ren grinned, and she laughed. “When you come back, you and your group members get a cotton candy stick each, on the house.”
+
+“C-cotton candy?” Selene asked, surprised.
+
+“It's an amusement park. It's got to have amusement park food, right?” Ren asked, and the whole arena reacted as nearly every woman in the audience gasped.
+
+“Cotton candy!” “Hot dogs!” “Ice cream!” “French fries!” “Cupcakes!” “Onion rings!”
+
+“So, fellas.” Ren said and looked at the criminals. “Like I said. Keep your noses clean on my lands, and I have no problem with you.”
+
+“You're not going to use your magic thingamajig to turn us all in?” One of them asked.
+
+“Do you want me to?” Ren asked.
+
+“Hell, no.” One of the others said. “You won't get any trouble from me.”
+
+“Same here.” Another said. “You leave us alone and you won't even know we're here.”
+
+“Good.” Ren said. “Selene, Mistress of Dance, I bid you good travels.”
+
+Selene smiled. “What's with the formality?”
+
+“I'm just making sure your jealous boyfriend doesn't have a reason to come after me again.” Ren said, and she chuckled.
+
+“See you later, Ren.” Selene said and walked away, and Ren turned to Tristan.
+
+“I hereby command you to stop being stupid.” Ren said in his command voice. “Everyone is allowed to go to my water and amusement parks, as long as they behave themselves.”
+
+“I don't want any favors from you.” Tristan said.
+
+“Do you want me to ban you right here in front of the entire country?” Ren asked.
+
+“I don't care what you do.”
+
+Ren sighed and looked up. “Forgive him, for he has the sense of a baby chick trying to enter a crocodile pond.”
+
+Several people laughed at that, especially the criminals.
+
+“Look, Tristan. I'm not going to ban you, because I'm sure that some woman out there wants you to take her on a date to the best place that has ever existed in this world.” Ren said. “I'm not going to make her suffer, just because you're being stupid.”
+
+“I said not to do me any favors!” Tristan nearly yelled.
+
+“I'm not doing it for you, you idiot.” Ren said. “I have no idea why you can't understand that.” He walked over to the center of the arena. “Ladies and gentlemen, beasts and creatures, everyone both big and small.” He said and raised his hands as he dismissed the Full Illusion spell and then the Iron Wall spell that he had used to block the view, then the displays around the arena, and the entire country, changed to the view inside the amusement park.
+
+“Welcome to 'I Didn't Know What To Name It' World.” Ren said, and he felt everyone's surprise and disbelief. He laughed and waved. “I'm just kidding. It's a wonder that it can exist in this world, so I simply called it Wonder World.”
+
+*
+
+“That's our cue!” Someone shouted as the Iron Wall spell disappeared. “Start them up, everyone!”
+
+All of the operators on all of the rides activated them at the same time, and the screens showed them all going.
+
+“Mages! Gust of Wind, please!” One of the cooks said, and the 6 mages cast the Gust of Wind spell in front of the food vendor booths, then the smells from the booths quickly covered the arena and everyone caught a whiff of the wonderful aromas.
+
+“That'll bring them running!” Another cook said, and they all laughed.
+
+*
+
+“Thank you all for coming, and have fun!” Ren said as he felt everyone's reactions to the smell of food, waved to them all, then walked over to his support section and dismissed the Magical Barrier of Protection. An armored figure appeared in the stands and lunged at Ren, then he yelled as he was caught in a giant spiderweb and quickly rolled up into a web bundle.
+
+“I will entertain him for a while, dearest.” Lylyth said as her giant spider familiar pulled the bundle over to the wall.
+
+“As long as you don't scare him too much.” Ren said. “I promised no one would be harmed, remember?”
+
+Lylyth chuckled. “It will be taken care of.”
+
+“I'd ask you to stay around and try some of the rides, but I can't stay myself.” Ren said. “I need to get back to the Fire Realm.”
+
+“You're really going to stay there?” Lara asked.
+
+“For a little while at least.” Ren said. “I'll be back to log out for meals; but other than that, I'll be staying there.”
+
+“What about us, My King?” Seldanna, the Sovereign of the Succubi asked, and he felt her deep sadness.
+
+“I managed to convince the Deity of Fire that I have Adventurer's business to take care of, and that includes you and the others.” Ren said as he took her hand and filled her with reassurance. “She's allowing me some leeway, but I won't abuse it.”
+
+Seldanna sighed. “What will we do with you gone?”
+
+“Survive.” Ren said. “How did you enjoy the show?”
+
+“It was... overwhelming.” Seldanna said, and he chuckled.
+
+“I warned you not to get used to the small sampling of feelings from the water park.”
+
+“I thought it was quite fulfilling.” Lylyth said. “Especially when I tasted...” She smiled. “Listen to the Sage of Ages, Ren. Be careful of her.”
+
+“Don't worry, I will.” Ren said and looked at Lara. “Thanks for watching out for me.”
+
+“You didn't listen to me.” Lara said. “You... she...”
+
+“Easy, now. Relax.” Ren said and put his hands on her shoulders. “I'm not going to do anything rash.”
+
+“You literally just did that by going to her!” Lara exclaimed, and he laughed.
+
+“I told you I had to do it.” Ren said and pulled her in close. “I'll see you at lunch.”
+
+“O-okay.” Lara said and then he gave her a gentle and lingering kiss.
+
+Gretchen watched as Ren kissed yet another woman, and it was still a different technique. She thought he might be running out of ways to kiss someone when he stepped up into the air and kissed the barbarian for a moment, then he turned and kissed the amazonian redhead.
+
+He really does kiss them all differently. Gretchen thought, amazed.
+
+“I need to set up living space for the Marilith Demon before I go back.” Ren said, and they all looked at him like he was crazy.
+
+“You're actually going through with that?” Denise asked.
+
+Ren smiled at her. “We have a contract, so yes.” He said. “Otherwise, why would I bother going through all the trouble?”
+
+Denise shook her head. “This is all Elise's fault.”
+
+Ren chuckled and caressed her cheek. “I planned this ever since I was in Shargon Caverns, long before Elise gave me permission to do what I want.”
+
+“Ever since...” Elise shook her head. “How much more are you planning to do?”
+
+“Don't worry, I'm pretty much done.” Ren said. “I need to wait until after the update and see what changes they make before I can proceed, so why shouldn't I spend some time with the Deity of Fire until then?”
+
+“You could spend some of it with us.” Gina said. “Your ban expired last night.”
+
+Ren turned to look at her and saw all the dancers gathered around her, and he felt their hope and their swirling emotions. None of them knew what to make of everything that just happened, not even Jennifer, and she was the only player that could have understood.
+
+“I need a rain check.” Ren said. “I'm pushing my luck as it is.”
+
+They all sighed, and Ren went to each of them and kissed the backs of their hands.
+
+“I have Adventurer's business to deal with tonight; but, if I can sweet talk the Deity of Fire, I promise that the first place I'll stop when I come back is the Pleasure Palace.”
+
+“It better be.” Jennifer said. “Make sure you bring Mr. Ugly, too.”
+
+Ren snorted a laugh. “I don't think that's his name.”
+
+“I don't care what his name is.” Jennifer said and glanced at the other dancers. “None of us do.”
+
+“Wait, none of you do?” Ren asked, surprised. “But...”
+
+“Just bring him along.” Gina said. “Or if you can't make it, send him instead.”
+
+Ren opened his mouth to respond, then he realized she had given him a great reason for people to not expect him to go himself. “I'll pass the message along.” He said instead. “I'm sure he's looking forward to it, even more than I am.”
+
+“He shore is.” Clint said. “Ya shoulda seen what he did before tha fight.”
+
+“He's got big balls, man.” Tommy said and his girlfriend Jaime took his hand. “They're not as big as yours, though.”
+
+Ren chuckled. “I'm not the guy that stood up in the middle of a crowd of thousands and expressed his opinion of my unfairness.”
+
+Tommy chuckled, too. “I wasn't really thinking about the venue.”
+
+“Well, everyone in the country saw you object to my tactics.” Ren said and motioned to the displays. “I'd say you guys are going to be getting a lot more quests soon.”
+
+“You think?” Tommy asked and looked up at the screens.
+
+“After that fight, definitely.” Ren said. “Plus, with the Portal Gate Network, you can pretty much go anywhere to do quests.”
+
+“Ah don' know how ya did tha'.” Clint said.
+
+“Trade secret.” Ren said, and he laughed.
+
+“Ya always were full of surprises.”
+
+“I hope you don't think I've shown them all.” Ren said and turned to Seldanna. “Will you be staying at the roost, or do you want to come back to the house in Aurora?”
+
+“I have that option?”
+
+“Of course you do.” Ren said. “I'll be going back there for Adventurer business anyway.”
+
+“Then I will, as will the others.” Seldanna said.
+
+“Me, too.” Suniva said and flew over to him and hovered in front of his face.
+
+“Thank you.” Ren said and pat his shoulder. “I've got an idea and I may need your help with it.”
+
+“I'll do anything for you, you know that.” Suniva said as she sat down. The only one that hadn't come over to greet him was Artemis. Ren walked over to her and touched her shoulder. She looked up at him and her eyes were full of tears.
+
+“I didn't feel it when you went through the portal without me.” Artemis said.
+
+“I know.” Ren said. “I suspected our connection was damaged after the last patch; but, I couldn't take you with me anyway.”
+
+“I know. I would have melted and died.” Artemis said sadly. “What... what about after this update?”
+
+“Don't worry about that.” Ren said. “I've got the solution already.”
+
+“What do you mean?” Artemis asked.
+
+“I'll show you in a few minutes.” Ren said and took her hand. She stood up and Ren turned, then stopped when he felt a pang of something like envy. He turned to look at where it came from, and saw Dana and Gretchen. “Oh, hi!” He said and walked over to them. “I'm glad you made it.”
+
+“Like we would miss the fight of the century.” Dana said, and Ren chuckled.
+
+“Are you sticking around and going to the amusement park?” Ren asked.
+
+“I had my taste for the week.” Dana said. “Maybe we'll come back on Sunday.”
+
+“We can't.” Gretchen said. “We have that party, remember?”
+
+“Oh, right.” Dana said. “Well, we won't have much time Sunday, so maybe Sunday night.”
+
+Ren smiled. “You sound like you're going to be just as busy as I am.”
+
+“We're not going to be staying in a fiery hell, so we're not quite as busy as you.” Gretchen said.
+
+“It's a dry heat.” Ren said and laughed, and so did Gretchen and Dana.
+
+“That's a horrible joke.” Gretchen said.
+
+“Well, I know a few other-mfph!” Ren stopped talking when Artemis covered his mouth.
+
+“We need to go, remember?”
+
+“Hmm mhm.” Ren mumbled and she let his mouth go. “I need to go.”
+
+“Wai-” Gretchen stopped herself when her hand twitched to reach for him. Ren felt the spike in her emotions and saw her reaction. He let Artemis' hand go and stepped close to Gretchen. He cast a Full Illusion spell around them of a Chinese folding screen, so that no one could see what they were doing, and she looked at him with wide eyes.
+
+“I overheard someone say that it was okay for friends to kiss.” Ren whispered.
+
+Gretchen's heart beat so fast that it almost jumped out of her chest as he took a step up into the air to put his face right in front of hers. He moved in close and kissed her for several moments, then stepped back and dismissed the Chinese folding screen illusion.
+
+“What do you think?” Ren asked.
+
+“I think you have some weird friends.” Gretchen said, and he laughed.
+
+“That I do.” Ren said, happily. “See you later.”
+
+*
+
+“Bye.” Gretchen said, and watched as Ren walked over to Artemis and took her hand, then wasn't surprised when he went right over to the scary and tall Dark Elf, and the multi-armed snake woman.
+
+“What was that?” Dana asked in a whisper as she leaned in conspiratorially.
+
+“He kissed me.” Gretchen whispered back, almost in disbelief.
+
+“With all the women he just kissed, he came over and kissed you, too?” Dana asked, a little surprised. “He really is a player.”
+
+Gretchen was going to respond, then a portal opened near Ren. She stared at the giant spider as it opened the portal up a lot wider, then the Dark Elf, the snake demon, Ren, the metal woman, the succubus, the redheaded amazon, the barbarian, the Sage of Ages, and the short Dark Elf stepped through it.
+
+“He said that someone told him it was okay for friends to kiss.” Gretchen said as the large spider went through the portal with the web bundle on its back, then the portal disappeared.
+
+“I guess that makes you one of his weird friends.” Dana said.
+
+Gretchen gasped, then she smiled. “He kissed you too, remember?”
+
+“I... that wasn't... well, damn.” Dana said, then both of them looked at each other and laughed.
+
+*
+
+It didn't take long for Ren to convert Ruck's old room in the house in Aurora to fit the Marilith Demon's needs.
+
+“Is that all you need?” Ren asked her when he was done. “If you think of anything else, let me know when I come back.”
+
+“I will.” The Marilith Demon said and curled up on her very soft and very warm heated bed. “You can make such amazing things.”
+
+Ren smiled. “I'll have a couple of cows delivered for you, until the Sustenance ring kicks in.”
+
+“I'd rather hunt for my own food.” She said.
+
+“Well, cows aren't fast runners.” Ren said, and she laughed. “Pigs are pretty quick though.”
+
+“I'll look for pigs, then.” She said. “Are there farms nearby?”
+
+“No.” Ren said. “Like I said, I'll have them delivered.”
+
+The Marilith Demon frowned. “That's not much fun.”
+
+“You've never tried to catch a greased pig.” Ren chuckled. “I didn't say anything about feeding them to you, so don't worry. You'll have fun... or lots of frustration.”
+
+The Marilith Demon nodded her acceptance and looked at her sister. “I hope you will be visiting a lot.”
+
+“Well, Ren has secured the Dark Elven Kingdom's future, so I don't have much to do besides running two kingdoms.” Lylyth said.
+
+“Two?” The Marilith Demon asked, and Lylyth nodded.
+
+“I'll tell you more when I visit tomorrow.” Lylyth said and opened a portal back home. Her familiar made it bigger for her and scampered through, and she knelt for Ren. “Thank you, Royal Consort.”
+
+“I'm just glad I could make you happy again.” Ren said and kissed her top lip.
+
+“You have.” Lylyth said and kissed his lips and his chin. “Goodbye, dearest.” She stood and stepped through the portal.
+
+“Goodbye, My King.” Tiatha, the Dark Elf healer said. “Thank you for inviting me to see you fight.”
+
+“I'm sorry we didn't get to spend any time together.” Ren said, and she felt his sadness.
+
+“Don't fret, heart of my heart.” Tiatha said. “I will see you again and we will have more personal time.”
+
+“I look forward to it.” Ren said and kissed her. She wrapped her arms around him and her passion flooded into him. He responded as he remembered their last encounter, and she caught her breath as he fed her those emotions.
+
+Tiatha broke the kiss and stared at him. “I look forward to it as well.” She let him go and stepped through the portal, then it disappeared.
+
+“I need to go as well.” Ren said to the Marilith Demon. “I'll be back to see you tonight for a few minutes.”
+
+“That's not nearly long enough.” She said, and he laughed.
+
+“It will be.” Ren said. “See you then.” He left the room and went downstairs to meet Elise, Lara, and Denise. “Thanks for coming and supporting me.” He said, and they each hugged him.
+
+“Remind us to never piss you off.” Denise said. “In the game, anyway.”
+
+Ren laughed. “I will.” He said. “You're welcome to stay...”
+
+“No, it's pretty damned crowded in here.” Denise said. “I'll go find an inn or something.”
+
+“Just stay at the Refugee Center I had built behind the house.” Ren said. “It's for people that don't have anywhere else to go.”
+
+“That's a good idea.” Denise said. “I'll do that.”
+
+“Before you go, take this with you.” Ren said and took out a crate from inventory.
+
+“What is it?”
+
+“Everything that an Amazonian Barbarian will ever need.” Ren said. “Thousands of bikinis and shoulder plates.”
+
+Denise laughed and shook her head. “You're incorrigible.”
+
+“I'm just joking.” Ren said and grinned. “There's only about 30 bikinis.” He said, which made them all laugh.

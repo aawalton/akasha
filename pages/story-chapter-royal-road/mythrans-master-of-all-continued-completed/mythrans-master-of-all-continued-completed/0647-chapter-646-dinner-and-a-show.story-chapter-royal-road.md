@@ -1,0 +1,293 @@
+---
+id: 236492db-2f25-50fb-b87c-fdf807be6c83
+page-type-slug: story-chapter-royal-road
+title: "Chapter 646 - Dinner And A Show"
+slug: 0647-chapter-646-dinner-and-a-show
+partOf: mythrans-master-of-all-continued-completed
+position: 647
+ownLength: 3222
+unit: words
+publishedAt: 2018-07-22
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236687/chapter-646-dinner-and-a-show"
+royalRoadId: "236687"
+---
+
+Ren and Lisa entered the dining room and saw it was slightly different. The large table had been shifted to the end of the room and the kitchen table was in it's place. Stella had been smart and had put out the table settings on either side of the end of the medium-sized table. What she hadn't anticipated was that Lisa's parents had chosen to sit on either side of the table instead of on the same side.
+
+It didn't matter where Ren or Lisa sat now, because either empty chair let them sit beside both parents. Ren led her to the closest one and she sat, and he walked around to the other side and sat down. He did his best not to groan like an old man when he did, despite the sharp pain he felt from his chest. He didn't quite hide his wince, and suspected that Lisa's father had noticed; but, at least her mother had been looking at Lisa instead.
+
+“So, Mr. and Mrs. Everest.” Ren said.
+
+“Please, I'm Mary and my husband is Jim.”
+
+Ren smiled at her. “Did you enjoy the drive here?”
+
+“It was damn long.” Jim said.
+
+“It was pleasant enough.” Mary said at the same time.
+
+“I had a hard time finding the place.” Jim continued as if his wife hadn't spoken. “I hope the food is good. I've worked up quite an appetite.”
+
+“Stella is a great cook!” Lisa said with more enthusiasm than she felt. “It's going to taste great!”
+
+Jim grunted and Mary smiled.
+
+“I'm sure it's going to be fine, dear.” Mary said and pat Lisa's hand.
+
+The word 'fine' reminded Lisa of the acronym Ren had told her and she barked a laugh in her nervousness.
+
+“Are you all right?” Mary asked her daughter.
+
+“I'm fine.” Lisa said automatically, then laughed again.
+
+“Lisa.” Jim said sternly, and Lisa's face lost all of it's expression.
+
+“Excuse me.” Ren said, and the three of them looked at him. “If Lisa wants to laugh at a joke, she can laugh as much as she wants.”
+
+“No one made a joke.” Jim said.
+
+“It's an inside joke, one recently shared with people in this house.” Ren said. “I'll prove it when Stella comes in.”
+
+A moment later, Stella came into the living room with the service cart. It was covered in fancy cloth and doilies, and the trays were all sterling silver. She picked up the large bowl and put it in the center of the table, then removed the cover. Inside was finely whipped mashed potatoes and butter, and they looked delicious.
+
+“Stella.” Ren said, and she looked at him. “Lisa's mother said the food is going to be fine.”
+
+“HA HA!” Stella laughed and put the cover for the potatoes inside the cart. “It's going to be much better than that.”
+
+Ren glanced at Jim and Mary and saw their slightly bewildered faces. He had proven his point and smiled at them. Stella put a serving tray in front of Ren, then Mary, then Lisa, and then Jim.
+
+Stella grabbed the handle in front of Ren and lifted the silver cover. “Ta-da!”
+
+The most delicious smell assaulted Ren's nostrils as he looked at the well-cooked game hen and saw traces of bacon mixed into the crispy coating.
+
+“You have got to be kidding me.” Ren said and took in another deep breath through his nose. “Stella, you're a genius!”
+
+“Oh, you.” Stella waved his compliment away and stored the cover, then took the other covers and stored them inside the cart as well. “I wasn't sure what vegetables everyone liked, so there's a smorgasbord in a train around the base of the bird.”
+
+Ren moved the plate and saw she was right. “Wow, Stella. Thank you.”
+
+“Wait until you taste it.” Stella said. “Then you can thank me.”
+
+Ren chuckled. “I'll be too busy eating then.”
+
+Stella nodded and added a gravy bowl with ladle to the table, then moved the cart back out of the way and put fresh glasses of water on the table next to the wine glasses. Ren noted that Jim's wine glass was already half empty and they hadn't even started eating yet.
+
+The meal started officially when Jim reached for the mashed potatoes, and that made Ren relax. He knew Lisa wasn't religious at all; but with the way she talked about her father, it was hard to tell if the man was going to spout scripture from the bible or verses from the Book of the Dead. Ren smiled at that, and Lisa smiled back.
+
+We will get through this. Ren thought to her, and she nodded slightly as if she had heard him. Everyone put potatoes and gravy on their plates and started eating the great food Stella had prepared.
+
+“Okay, I have to admit this is good.” Jim said and took a big bite out of a chicken leg. “Great gravy, too.”
+
+“I love gravy.” Ren said and ate a spoonful of potatoes and gravy. “It's best over french fries, in my opinion.”
+
+Jim grunted and kept eating. Ren glanced at Lisa and she gave him a slight shrug because of the aborted attempt at small talk, then the four of them kept eating. Eventually Ren had to push his plate away and sat back in the chair. Lisa wasn't far behind him, but Mary and Jim kept eating. Ren and Lisa watched as they helped themselves to more mashed potatoes and gravy, and Jim was almost done of his second glass of wine.
+
+Stella hadn't refilled it, though. Jim had taken the one by Lisa before she had a chance to stop him. Ren had his in his hands and had pretended to take a sip from it, then placed it on the table as far away from Jim as possible. Mary had almost all of hers gone, too. Jim and Mary eventually had their fill of food and sat back in their chairs like Ren and Lisa had.
+
+Stella brought the cart over and loaded it up with all of the dishes, including the glasses of wine. Jim downed the last of what was supposed to be Lisa's wine and Stella took that glass as well.
+
+“I'll be right back with dessert.” Stella said.
+
+“Oh, none for me. I'm stuffed.” Mary said and looked at her husband.
+
+“What is it?” Jim asked.
+
+“Golden pound cake with a crumble topping, strawberry filling, and a semi-sweet chocolate sauce as a glaze with white sprinkles.” Stella said, and saw everyone's eyes widen.
+
+“Sure.” Jim said.
+
+“It sounds delicious.” Ren said, and Lisa nodded.
+
+Stella looked at Mary and saw her struggling with the decision. “I'll bring a small piece in case someone changes their mind.”
+
+Mary's face turned slightly red and Stella left with the serving cart. She was back less than a minute later with a large serving tray and four plates. Three of them were full-sized desserts and one was cut in half. She served the desserts and stepped back from the table to wait.
+
+They all ate the very tasty dessert and Ren fought his urge to lick the plate and eat the spilled toppings. He glanced at Stella, and she had a huge smile on her face and shook her head at him. Ren sighed and pushed the plate away, then Lisa, Mary and Jim slid their plates away, too.
+
+“I would really like the recipe for that.” Mary said as Stella came over to clear the second set of dishes away.
+
+“I'm sure something could be arranged.” Stella said and gathered the plates and utensils up quickly and piled them on the tray. Ren was glad that Jim had waited for Stella to leave before he spoke.
+
+“Lisa told us you were 19, so I can't complain that she's living with some kid; but, you look younger than that and you're really short.” Jim said. “What's wrong with you?”
+
+“JIM!” Mary yelled.
+
+“What? It's an honest question.”
+
+“Ren, don't answer him.” Lisa said and glared at her father.
+
+“It's okay.” Ren smiled at her and looked at her father. “I was experimented on by my parents since I was a little boy. The doctors said that they weren't sure if it was a genetic defect, a freak of nature, or because of the experiments. All they did know was that I'll never get any taller or look any older.”
+
+“That's a crock of shit.” Jim said. “They can do a simple DNA test, can't they?”
+
+“They did, and a chromosome analysis, and every other blood and fluid test you can ever imagine.” Ren said and tried not to get angry. “It was almost as bad as what my parents did to me, actually.”
+
+“Ren...” Lisa tried to tell him to stop, and he held a hand up.
+
+“I need to get this out in the open.” Ren said and looked at Mary, then back at Jim. “They did every test they were legally allowed to do... and a few not so legal ones.”
+
+Mary caught her breath and Lisa's eyes started to tear up.
+
+“They didn't find anything.” Ren said, and Mary relaxed. “I've gone over my own medical records since then and I agree. No DNA tampering, no extra or missing chromosomes, and nothing suspicious... except for my faster beating heart and increased blood production.”
+
+“What would that do?” Jim asked.
+
+“I can get hurt and bruise much easier than normal, and physical exertion really drains my stamina.” Ren said. “The degenerative damage to my tendons and ligaments was from the experiments, though.”
+
+“Degener-what?”
+
+“I have weak joints and they sprain and break easily.” Ren said.
+
+Jim turned to Lisa. “What the hell are you doing with this freak?”
+
+“JIM!” Mary yelled.
+
+“What? He just said he's a wreck.” Jim said. “How is he going to make her happy?”
+
+“He's already made me happy!” Lisa exclaimed. “I love him!”
+
+“Why?” Jim asked. “What makes him so likeable?”
+
+“That's who he is!” Lisa said. “He's caring, loving, and all he wants is to make me happy!”
+
+“How much is he paying you?” Jim asked.
+
+“EXCUSE ME?!?” Lisa stood up and threw her napkin down.
+
+“It's not like he can have a physical relationship with you.” Jim said. “There must be another reason why you left home and are living in a mansion rent free.”
+
+“You are such an asshole!” Lisa nearly yelled.
+
+“Shut your mouth, young lady!” Jim said and stood up.
+
+“Actually, she was just recently hired as the Assistant to Household Affairs.” Ren said, and the three of them turned their heads to look at him. “You see, I know all about her home life, her academic life, and her work history.”
+
+“R-Ren...” Lisa's tears started to flow. This dinner was going exactly the way she thought it would.
+
+“I gave her a place to live because I cared about her welfare. I gave her a warm and welcoming environment so she knew I cared about her. Even with that, it took a long time for love to develop between us.” Ren said. “I knew then that what I was doing wasn't going to be enough to keep helping her.”
+
+Lisa sniffed and wiped at her eyes.
+
+“So, I came up with a job for her.” Ren said. “It was some of the things she was doing without thinking about it anyway, until I tried to mention it to her.” He smiled. “I almost blew it right there.”
+
+“Ren, I...” Lisa took a quick breath and let it out.
+
+“I didn't try to push or even mention the job after that; then thankfully, she settled back into the routine of helping everyone when they needed it. It was great seeing her talking, laughing, and being happy.” Ren said. “If you're happy doing the work, why not get paid for it?”
+
+“But... I haven't...” Lisa covered her mouth.
+
+Ren chuckled. “Payday is always on Fridays.”
+
+“T-tomorrow?” Lisa asked as she sat down, and Ren nodded.
+
+“Normally, an employer can keep the first two weeks as a deposit to ensure consistent service; but, since you've only been recently hired and don't really have any other income, my financial advisor decided that we can forgo that policy.”
+
+“Financial advisor?” Jim looked like he was chewing on something as he sat back down, too.
+
+“You don't think I could run this place without one, do you?” Ren asked and chuckled again. “I have a financial advisor, a public relations specialist, three full time nurses, one of which doubles as the Head of Household Affairs, and now I have an assistant for her.”
+
+“You... have a... staff.” Mary said.
+
+“Of course I do.” Ren said. “Not to mention all of the security outside.”
+
+“What is that for?” Jim asked.
+
+“Protection, obviously.” Ren said. “Why else would you need security?”
+
+No one said anything for several moments, and Ren looked at Lisa.
+
+“Lisa, can you go to the kitchen and ask Stella to make some coffee?” Ren asked. He saw Mary's wince out of the corner of his eye. “Maybe a small pot of tea, too.”
+
+“Sure.” Lisa said. “I'll be right back.”
+
+Ren waited until Lisa had left the room and the door had shut, and he looked at Jim. “Why haven't you told her?”
+
+“Told her what?” Jim asked.
+
+“Please, don't insult me again.” Ren said and looked at Mary. “Is that why he kept beating you both constantly?”
+
+“Wh-what?!?” Mary looked like a deer caught in the headlights. “I... I don't know what you're talking about.”
+
+Ren sighed and looked back at Jim. “Look, I know you know.”
+
+“I don't know what you're talking about.” Jim repeated the line his wife just said, and frowned.
+
+“It's taken me this whole meal to work it out.” Ren said. “I've been comparing both of your facial structures and matching them up to Lisa's. Mary has quite a few similarities, and I can see why Lisa is so cute.” He said, and Mary's face flushed a little red. “Jim on the other hand, has absolutely none in common with Lisa. That can't physically happen unless Jim is not her father.”
+
+“Now look here, you!” Jim said and stood up. “I am her father!”
+
+“Not biologically.” Ren said. “Unfortunately, not in the other consideration, either.”
+
+Jim reached down and grabbed Ren by the front of his shirt and easily picked him up.
+
+“JIM!” Mary stood as well. “Let him go!”
+
+“Listen, you little pipsqueak.” Jim growled into Ren's face. “I'm her father. No one else. Me.”
+
+“You asked me earlier what was wrong with me, and I told you honestly.” Ren said. “Will you answer the same question? What is wrong with you?”
+
+Jim's grip tightened and Ren felt pain in his chest. He didn't show it, though. He knew it was very important that he didn't.
+
+“Why beat such a beautiful little girl?” Ren asked him. “What could she have possibly done to a big, strong man like you?”
+
+Jim just stared at Ren and still didn't respond.
+
+“She didn't do anything at all, did she? It was who she was that made you so angry; or I should say, who she wasn't.”
+
+“SHUT UP!” Jim said and shook him several times.
+
+“JIM!” Mary yelled.
+
+“What's all the yelling...” Stella tossed the tray of coffee and tea aside when she saw that Jim held Ren up off the floor by his shirt. “Let him go right this instant!” She said and shoved her hand into her pocket and hit the panic button.
+
+“DAD! WHAT ARE YOU DOING?!?” Lisa yelled from behind Stella, and Stella turned and pulled Lisa to the side of the room and held her.
+
+“I'm trying to get this little shit to shut up about things he doesn't understand.” Jim said through gritted teeth. A moment later, a man's gruff voice broke into the silence.
+
+“SIR! I suggest you put Mr. Haddon down right now.” The gruff voice said. “Very, very gently.”
+
+Jim turned to look at where the voice came from, and saw two security guards in the doorway. One stood and the other knelt on one knee, and both had their guns drawn and pointed right at him.
+
+“Don't shoot!” Lisa and her mother Mary cried out at the same time. The tears on their faces that flowed in a constant stream matched as well. Two more guards appeared in the hallway behind the two in the doorway, then the two windows in the side of the room opened up and an armed guard peered into each of them.
+
+“You are surrounded, sir.” The gruff voice said. “Let. Him. Go.”
+
+Jim didn't take his eyes off of the two security guards and opened his hands. Ren had been prepared for this and braced for what was going to happen. His feet hit the floor and he bent his knees to try and lessen the impact; unfortunately, he was too close to the table leg and whacked his knee. Everyone winced at the loud wooden thump sound it made, and Ren grunted from pain and tried to sit down.
+
+Unfortunately, since that knee could no longer support his weight properly, Ren overcompensated when trying to balance and plunked down hard on the wooden chair. He gasped loudly from that impact and took in a huge breath, which hurt his chest even more than being held up by it did. He coughed in response, which made it worse, and he grabbed onto the table to hold himself steady and to stop himself from sliding off of the chair. However, all he really wanted to do was curl up in a little ball.
+
+“REN!” Lisa yelled.
+
+“I'm... fine.” Ren managed to say through the pain; but, neither Stella nor Lisa laughed at the joke.
+
+“Step away from the table, sir.” The gruff voice said, and Jim stepped back and away from Ren. Stella and Lisa went over to him.
+
+“Ren, can you sit back and let go of the table?” Stella asked as she knelt by the chair.
+
+“M-maybe.” Ren said, and she helped him ease back to rest on the back of the chair. She saw a little bit of blood on the side of his shirt.
+
+“Oh, damn!” Stella said and took off his tie and started to open his shirt.
+
+“What is it?” Lisa asked.
+
+“I think one of those tiny rib fractures became a break and...” Stella pulled his shirt out of the way and saw a small wound. “Yes, it punctured the skin.”
+
+“The police are on their way.” One of the guards in the hallway said.
+
+“P-police?” Mary looked around frantically.
+
+“Call an ambulance, too.” Stella said. “I can't set this without knowing how much damage there is.”
+
+“Oh, god.” Lisa said.
+
+“I didn't do that.” Jim said as the security guards handcuffed him.
+
+“Yes, you did.” Stella said. “Lifting Ren up by his shirt compressed his chest.”
+
+“How was I supposed to know that?” Jim asked. “He didn't yell or anything.”
+
+“I... didn't want... to give you...” Ren panted. “...the satisfaction of... hurting me.”
+
+“Ren don't talk.” Stella said. “Depending on if that rib shattered or not, a piece of bone might get in your lung.”
+
+Ren nodded, and they all waited for the police and the ambulance to show up.

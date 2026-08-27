@@ -1,0 +1,229 @@
+---
+id: 807d5ca9-8ef8-5321-9e30-589d90d0d2e7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 684 - Stoke The Fire"
+slug: 0685-chapter-684-stoke-the-fire
+partOf: mythrans-master-of-all-continued-completed
+position: 685
+ownLength: 2998
+unit: words
+publishedAt: 2018-08-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285908/chapter-684-stoke-the-fire"
+royalRoadId: "285908"
+---
+
+“I... I felt them.” Fire Dancer said and let the merged Aura lapse. “They... they're all dead.”
+
+Ren nodded and stopped concentrating on the artificial Aura. “I think it only corrupted 1 out of every 10 elementals that you made; but, that's still...”
+
+“My defenses are sorely lacking, as is the population.” Fire Dancer said. “It's going to take a long time to replace them, and I'll be under constant attacks by rogue elementals.”
+
+“I'm not going anywhere for the next 4 years.” Ren said. “I'll do everything I can to help you.”
+
+Fire Dancer nodded and relaxed.
+
+“There's just one more thing I need to do first.” Ren said.
+
+“What's that?” Fire Dancer asked.
+
+“This.” Ren said and turned her around so that he could sit on the bed and bent her over his lap. “This is going to hurt me more than it's going to hurt you.” He said and held her steady with one hand and lifted the other up into the air. “Bad, Deity of Fire.” He said and spanked her backside.
+
+“NOOO! LET ME GO!” Fire Dancer yelled and struggled as she tried to break free; but, Ren held her steady with his hand and Fire Manipulation ability.
+
+“You tried to kill my familiar.” Ren said and spanked her again. “You didn't even consider what would have happened to me if Artemis had died.”
+
+“That wasn't me! It was the Void creature!”
+
+Ren winced from the lie and spanked her again. “Don't lie to me young lady!”
+
+“Father, STOP!”
+
+“I will when you apologize.” Ren said and spanked her again.
+
+Fire Dancer held in her tears as her backside was slapped very hard. She took two more spanks, then relented. “All right! All right! I'm sorry!” She exclaimed. “I'm sorry, okay? Please stop!”
+
+Ren's heart wilted at the pain he had caused his daughter, and she felt his reaction.
+
+“You will remember this day, Father. I will never let you forget it.” Fire Dancer said, scornfully.
+
+“Don't worry, I'll never forget doing this to you.” Ren said, sadly. He gently placed his hand on the sore spot on her backside and Fire Dancer hissed at the touch.
+
+“I'm sorry I had to do it, Honey.” Ren said and poured Mana into her. The redness and the soreness faded and he let her go. Fire Dancer quickly got up and stepped away as she rubbed her backside, then she discovered that the pain and the damage wasn't there anymore.
+
+“Wh-what? What just happened?” Fire Dancer tried to turn and look at her backside while her hand kept rubbing the spot. “I thought it was just numb or something! It's really gone!” She stopped rubbing and looked at Ren. “You did something like that when... when...” She put a hand over her heart and remembered him tearing open her chest.
+
+“It's my Possession Restoration ability. Anything that's mine I can pour Mana into and...”
+
+“I am not 'yours', Father!” Fire Dancer snapped at him angrily.
+
+“You are, and always will be, my daughter.” Ren said and stood up. “No matter what happens, or how angry you get, that will always be true.”
+
+“You. Spanked. Me.” Fire Dancer said. “I'm the Deity of Fire and you spanked me!”
+
+“Somebody had to.” Ren said and reached a hand out to her. When she moved back out of reach, he sighed. “You need someone to keep you from taking your whims too far.”
+
+“Oh? Bending me over your knee and spanking me wasn't taking a whim too far?”
+
+“Deity of Fire, that was the minimum of what I could do to teach you a lesson.” Ren said.
+
+Fire Dancer squinted her eyes at him, because she felt the truth in his words. “What else could you have done?”
+
+“I hope that neither of us has to find that out.” Ren said and stepped away from the bed. “You can go back to bed now.”
+
+“Do you really expect me to sleep after all of that?” Fire Dancer asked.
+
+“Yes.” Ren said and took out a bed, placed it next to the wall across from her bed, then equipped a set of Spider Silk pyjamas. “Goodnight.”
+
+*
+
+Fire Dancer watched as Ren climbed onto his bed, slid under the blanket, and relaxed. For several minutes she stood there and thought he was just playing around; but, his breathing evened out and she felt his emotions decrease until he lost consciousness. She walked over to the nightstand and the spawn point building, and it was still covered in the magical barrier.
+
+Fire Dancer thought about using her abilities to break it open, just for spite, then she caught a glimpse of Artemis. She was in bed just like Ren was, and she was slightly curled around something.
+
+What is she doing? Fire Dancer asked herself and looked at Ren, then back at Artemis, and realized why it looked odd. She's sleeping as if he was beside her! She thought in surprise and reached out to touch the magical barrier, then pulled her hand back. No, this is a test. She thought and climbed onto her bed and tucked herself under the blanket. She reactivated her Sustenance ring and closed her eyes.
+
+*
+
+Ren hadn't summoned Teepo before falling asleep because he didn't want Teepo to become another target for Fire Dancer to be angry at. He was glad that what he had done had worked; but, he was also sad that it hadn't removed the hatred and anger she felt. She was still angry at him, and all that the removal of the Void creature did was remove the glue that held her various negative emotions together.
+
+Ren slept for the hour and didn't open his eyes when he woke up. He laid there and felt the emotions of those around him and used his Heat Sense to pinpoint where they were. Fire Dancer was in her bed and Artemis was in the bed inside the spawn point building. He was a bit surprised that his Heat Sense would work in a world that was essentially all Fire, then thought beings would register differently from their surroundings no matter what the surroundings were made of.
+
+Of course, that made Ren wonder about the Ice Realm and if whatever beings lived there would even be indistinguishable from the surroundings at all. He felt Fire Dancer wake up and her calm and peaceful emotions faded to almost nothing and her other emotions rushed forward. She opened her eyes and sat up, then looked right at Ren. He felt her intense scrutiny and then she scoffed.
+
+“I can tell you're awake, Father.” Fire Dancer said.
+
+“That's excellent.” Ren said and didn't open his eyes. “Did you use the type of emotions I'm expressing or their strength?”
+
+Fire Dancer huffed. “Their strength.”
+
+“You should try to determine what kind of emotions as well, so you'll know the difference between someone sleeping or someone holding their emotions in check.” Ren said. “Oh, I'm... still tired.” He yawned and slowly pushed his emotions down to a low trickle. He felt Fire Dancer's curiosity rise, then after a couple of minutes, he felt her move off of her bed.
+
+“F-father?” Fire Dancer whispered and crept over to his bed. She saw and heard that his breathing was low and even as if he was asleep, and his emotions were at the same level when he had drifted off earlier. “Are you really asleep?” She asked softly, barely above a breath, as she moved up to the side of the bed to the headboard and leaned over to peer closely at his face.
+
+Ren didn't move or react as her hand reached out to touch him. Fire Dancer lightly touched his fluffy hair, barely more than the touch of a feather, and she remembered her mother's utter fascination with it. She had never seen or touched hair like it before, and the memory of her fingers going through that hair for the first time was one of the best memories that Fire Dancer had of her mother.
+
+“I made her laugh when your mother did that.” Ren said.
+
+Fire Dancer stopped moving her hand in surprise and looked at his peaceful face. She saw that it hadn't changed and neither had his emotions, and his eyes were also still closed.
+
+“I was tempted to reach out and grab you, so I could pull you onto the bed and hug you.” Ren said. “I know how much you would hate being startled like that, though.”
+
+Fire Dancer didn't say anything, and she also didn't remove her hand from his hair.
+
+“I can lay here like this all night.” Ren said, then took a deep breath and let it out. “With you by my side, I think I can accomplish anything.” He said, and he felt her surprise at the truth in his words. “We cleared the entire realm of the Void influence that had infected it. Neither of us could have done it on our own so quickly.”
+
+Fire Dancer's anger flared briefly when he said that she couldn't have done it on her own, then it shrank back at the 'quickly' qualifier. “You know just what to say, don't you?”
+
+“No, I don't.” Ren said, sadly. “I can't tell you that my heart aches for my arms to hold you and comfort you, and I can't tell you that everything is going to be all right.” He said, and she caught her breath at the truth in his words. “I can't even tell you that things are going to be easy from now on.”
+
+“F-father...”
+
+Ren opened his eyes and looked at her, and saw fiery-red eyes look back at him. “I can only say that I'm here and that I'll help you in any way I can.”
+
+Fire Dancer took a breath and let it out, then she sighed and climbed onto the bed. Ren was under the blanket, as were his arms, and she laid on top of the blanket on her side, and kept her gaze locked onto him. He didn't move or try to take his arms out from the blanket to hold her, and she felt how much he really wanted to.
+
+“I'm never going to forgive you for spanking me.” Fire Dancer said softly.
+
+“I won't ever forgive myself, so that's fair.” Ren said.
+
+“It really hurt.” She said. “In more ways than one.”
+
+“I know.” Ren responded. “You felt my emotions at the time, so you know that it really hurt me, too.”
+
+They both fell silent and thought about what had happened.
+
+“I never thought you would ever raise your hand to me in anger.” Fire Dancer said a few minutes later.
+
+“It wasn't in anger, Honey.” Ren said and gave her a warm smile. “I did it with love.”
+
+“That's really harsh love.” Fire Dancer said and a small smile touched her lips.
+
+“Love has to hurt sometimes to make things better.” Ren said. “Case in point, Summon Teepo.”
+
+Teepo appeared on his chest and Ren cast the spells to make him solid and give him his voice. “Hi, Ren.” He said. “How long was I out for?”
+
+“Almost two hours.” Ren said. “Sorry, buddy.”
+
+“That's okay.” Teepo said. “What happened?”
+
+Ren cast Permanent Enlarge and Reduce Anything on Teepo 8 times, which made him the proper scale. “Get comfortable and I'll tell you what happened.”
+
+“N-no.” Fire Dancer said, and Ren and Teepo looked at her. “I... I don't want...”
+
+“Hey, it's okay.” Teepo said and opened his carapace to unfurl his wings, then tried flapping them. “Wow, being massive makes it really hard to fly.” He said and fluttered haphazardly off of Ren's chest and landed on Fire Dancer's arm. He skittered up to her shoulder and reached out with a front leg to touch her face. “Believe me, I've seen some bad things. Nothing that happened will make me love you any less.”
+
+“But... I...” Fire Dancer closed her eyes and a tear came out. It hit the bed and became a baby Fire elemental and joined the others as part of her clothing. “I tried to hurt Artemis.”
+
+Teepo thought about that for a minute. “Do you still want to?”
+
+“I... yes... no... I...” Fire Dancer sighed. “I don't know.”
+
+“Then let me hear what Ren has to say about it, before you expect me to stop comforting you, okay?” Teepo asked, and she nodded.
+
+Ren told him the story of what had happened, and as he did, Teepo slowly moved from her shoulder and closer to her face as he hugged her with each successive limb, until he stood completely on the cheek of her face and had hugged her with all 6 of his limbs.
+
+“You poor thing.” Teepo said. “I'm so sorry that happened.”
+
+“Wh-why aren't you mad at me?” Fire Dancer asked, because she could only feel concern from Teepo.
+
+“Having that Void creature inside you doesn't excuse all of your actions, just like Ren said.” Teepo said. “But, I can't fault you any more than Ren can for what you went through.”
+
+“Uncle Teepo...”
+
+“Ren also punished you for what you tried to do.” Teepo said and moved back to her shoulder. “I can't say that I disagree with his choice, either.”
+
+Fire Dancer took in a breath and let it out.
+
+“You can't just lash out at the things you don't like, Deity of Fire. If you keep doing that all the time, there will be nothing but chaos in this realm.” Teepo warned her. “You need to think about what you're doing and about the consequences, then you can act accordingly.”
+
+Fire Dancer reached up and scratched the middle of his carapace, and Teepo chittered with happiness.
+
+“You're the only one that can do that properly.” Teepo said.
+
+“Uncle Teepo.” Fire Dancer said and looked at Ren. “Father, I...”
+
+“Don't say it because you think we want to hear it.” Ren said, and she closed her mouth. “I can feel your emotions... I can always feel your emotions... and I don't want a platitude from you.”
+
+Fire Dancer's anger rose and she scowled at him. “How dare you accuse...”
+
+Ren's hand was suddenly out from under the blanket and cupped the side of her face. Fire Dancer caught her breath in surprise at the speed of the movement and at the flow of love that accompanied it.
+
+“If you're going to apologize, I want you to actually feel the emotions that go with it. Sorrow, regret, and maybe even a little remorse would be nice.” Ren said. “I didn't expect an apology right away, and neither does Artemis.”
+
+Fire Dancer squinted her eyes for a moment at the mention of his toy.
+
+“No, I'm not going to force you to do it.” Ren sighed as he felt her emotional reaction to him mentioning Artemis. “I told you, I don't want a platitude. Artemis wouldn't want a platitude, either. You need to actually be sorry when you apologize, otherwise there's no point.”
+
+“What if I never apologize?” Fire Dancer asked.
+
+Ren caressed her cheek and moved his hand away, which cut off the direct flow of emotions from him, then he rested his arm above the blanket instead of tucking it back under.
+
+“Like Teepo said, that's your choice to make.” Ren said and closed his eyes.
+
+“Father, what...”
+
+“I'm just going to lay here and relax.” Ren said and took in a huge breath and let it out. “I've been trying to get into the habit of doing that. I've always been on the go, doing things and going places for a long time, and I don't have to do that anymore.”
+
+Fire Dancer felt the truth in his words and she wasn't sure what to say in response.
+
+Ren chuckled. “No, Deity of Fire. Being here does not count. I want to be here.”
+
+“Not enough to come back when you were supposed to.” Fire Dancer said automatically.
+
+“I told you I was gathering video for you.” Ren said.
+
+“...and I told you that you could have done it instantly.” Fire Dancer responded. “I know how the boxes work, Father. You made sure of that.”
+
+“I wasn't retrieving video, I was making it.” Ren said, and used his Fire Manipulation ability to pick up the display box in her bedroom and turned it so they could see it from his bed. “Shall we watch it together?”
+
+“You're really going to like it, Deity of Fire!” Teepo chittered in laughter. “We had so much fun!”
+
+“It started out as just a walk.” Ren said and took out his personal recording device and pointed it at the display box. He added the video he had made that morning in the Earth Realm and it started to play. “It wasn't until the walk was almost over that I felt Dana and Gretchen nearby...”
+
+Fire Dancer slid a little closer to him and Ren couldn't put his arm back down onto the bed. He stored his personal recorder and moved his arm out and around her head, and she moved a fraction closer. It was just close enough that he could put his arm down behind her without it being awkward and he almost had her in a hug.
+
+It's a start. Ren thought happily.
+
+They laid on the bed and watched the footage of Ren spending the morning with his friends. Fire Dancer enjoyed watching the quests just as much as Ren had when he filmed it, and then they went to lunch. Her emotions shifted to annoyance at some of the interactions, especially the dessert exchange with Gretchen. Ren was about to ask her why it bothered her so much, and then he saw himself making the Helm of Cluck and put it on, much to the delight of everyone around him.
+
+Fire Dancer couldn't stop herself and laughed just as hard as everyone else did in the video.

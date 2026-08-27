@@ -1,0 +1,227 @@
+---
+id: b4a30e10-7d34-58a9-8ce5-eca78caf9c70
+page-type-slug: story-chapter-royal-road
+title: "Chapter 622 - Issac's Shop Again"
+slug: 0622-chapter-622-issacs-shop-again
+partOf: mythrans-master-of-all-continued-completed
+position: 622
+ownLength: 2683
+unit: words
+publishedAt: 2018-06-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228567/chapter-622-issacs-shop-again"
+royalRoadId: "228567"
+---
+
+“Now that I'm done with this part of the shop.” Ren said and walked over to the front counter and then behind it. “You can take me into the back room and show me the rest of it.”
+
+“Wh-what?” Issac said with wide eyes.
+
+“You told me that I could look around as much as I wanted.” Ren said and opened the door that was there. “You didn't say I was limited to looking at the part of the shop that everyone else can see.”
+
+“No! You can't go back there!” Issac exclaimed and ran over to the counter.
+
+“Really?” Ren asked and stood in the doorway. “Are you going back on your word? Did you lie?”
+
+Issac came to a stop at the counter and stared at Ren. “You know full well that I only meant the front of the shop and the items I have on display.”
+
+“...and you know full well that nearly all of them are things I can make already. I only found four interesting things in the whole display.” Ren said. “So, did you lie? Was it all a ruse just to sell me the book?”
+
+“I...” Issac sighed. “Yes, it was a...”
+
+*KRACKOOOOOM!*
+
+The thunderclap shattered every piece of glass in the shop as a thick bolt of Lightning shot out of the lie detector on the ceiling. Ren reacted instantly and equipped his full set of platinum armor as he jumped forward, then activated the Anti-lightning runes in his armor and reached over the counter to grab Issac and put him in a bear hug. Unfortunately, this wasn't enough to stem the bolt's power. It struck Issac in the back and shocked him before the armor could negate it fully.
+
+“N-no.” Ren said as Issac slumped in his arms. “Issac! ISSAC!”
+
+“Can't... hear.” Issac whispered. “Too... loud.”
+
+“Issac! What happened?” Ren yelled. “The amulet doesn't have that much damage capability!”
+
+“Lie... was too... big.” Issac said. “Too... long to... tell truth.” He gasped in pain. “Saved up... energy.”
+
+“It's not supposed to scale like that!” Ren said and tried to cast a Major Healing spell.
+
+“Healing... won't work.” Issac said when he felt the tingle of Mana flow over him and dissipate. “Too... late.”
+
+“NO!” Ren exclaimed.
+
+Issac slumped in his arms, and Ren laid him down on the floor.
+
+“Here.” Issac said and held out a thick book. “In... in... inventory.”
+
+“What?”
+
+Issac dropped the book on the floor and held out a scroll. “Take.”
+
+“Issac, what...”
+
+“Don't... no back room.” Issac said and shook the scroll at Ren. “TAKE!”
+
+Ren took it and received a popup.
+
+Notice!
+
+You have gained a new business. Issac's Enchanting.
+
+Do you want to change the name at this time? Yes / No
+
+“NO!” Ren yelled and the popup disappeared as the key appeared around his neck. Another popup appeared that had the business information and he dismissed it without reading it. “Issac, what are you doing?”
+
+“I can't... I... made mistake.” Issac said. “Keep... keep...” He stopped talking and coughed up blood. “Back room... off... off limits.” Issac said. “Not... you... not ready.” He said and took out another book. This one was similar in size to one Ren already had in his own inventory, and his eyes widened as Issac held it out to him. “Take... useful...”
+
+“Issac, I can't take your Book of Runes!”
+
+“Use... use...” Issac tried to catch his breath and panted. He tried to speak again; but, nothing came out except the last of his breath. His hand dropped to the floor and he let go of the book.
+
+“No.” Ren said and tears came to his eyes.
+
+Suniva ducked her head against his ear and her own tears flowed. “I'm so sorry, Ren.”
+
+“I killed him.” Ren said and didn't try to wipe his face.
+
+“No, he killed himself.” Artemis said, coldly.
+
+Ren looked up at her, and he saw her angry face and felt her burning emotions. “Artemis...”
+
+“You saw where he stood!” Artemis said and pointed to the counter. “He made sure he was between you and the lie detector!”
+
+“But...”
+
+“The counter was between you, and he knew you couldn't move at full speed with it in the way.” Artemis said. “You would have bounced right off of it if you tried!”
+
+Ren opened his mouth to deny it, then he considered the situation and couldn't deny it. He did have to reach over the counter to hug Issac, and that split second delay could have changed the outcome.
+
+“Why?” Ren asked and shook Issac's body. “I don't understand! Why?!?”
+
+“Ren, he can't answer you.” Teepo said. “He's gone.”
+
+“Not yet he isn't.” Ren said and took out the Book of Isis. “I still have time left to ask him.”
+
+“Ren, you can't talk to...” Teepo started to say, then he saw the contents of the book. He quickly turned on Ren's shoulder and jumped as hard as he could to jam his mandibles into Ren's neck and bit him.
+
+“GAH!” Ren yelled and froze still. He was completely immobilized and couldn't move.
+
+Notice!
+
+You have gained the Paralyzed condition. You cannot move, speak, or use abilities.
+
+“TEEPO!” Artemis yelled. “WHAT are you DOING?”
+
+“I won't let Ren do it!” Teepo exclaimed, and Artemis reached for him. “If you grab me, Ren might be permanently paralyzed!”
+
+Artemis stopped moving and slowly let her hand fall to her side. “Teepo...”
+
+“I don't care if he hates me after this.” Teepo said, and you could hear the sadness in his voice and feel it in his emotions. “I won't let him do to Issac what my uncle did to me.”
+
+Artemis gasped and looked at Ren, then down at the page of contents. She saw where his finger was on the page, and saw that it was a recipe to make a Soul Bound item.
+
+“Ren, you... you wouldn't have...” Artemis started to say, and she felt his emotions. “I... Ren, you can't.” She said and turned away. “Even if you only want to ask a question and then release him, I... I agree with Teepo. You can't be allowed to do it.”
+
+Ren watched helplessly as Artemis took the book from his hand and turned to the page with the recipe, then tore the page out of the book and crumpled it up.
+
+“Suniva.” Artemis said and held the ball of parchment paper out.
+
+“Ren...” Suniva said through her tears. “...you can't give in to the darkness, no matter the temptation.”
+
+Fire leaped from her small hands and hit the dry parchment. It burned up in a flash and Suniva pulled her Fire back.
+
+“I am so sorry that your old mentor is gone.” Suniva said and kissed his cheek as her tears doubled, then they evaporated as her Fire burned hot. “I have to agree with Teepo as well.” She said and sobbed. “I won't let you succumb to it, even if... you... you hate me.”
+
+“It will only be for another 5 minutes, Ren.” Teepo said, and his sorrow was evident in both his voice and his emotions. “Then I'll let you go.”
+
+Ren couldn't respond because of the paralysis, so Suniva, Teepo, and Artemis waited. When the time expired, Teepo pulled his mandibles out of Ren's neck. It took another minute for the paralysis to completely wear off, however.
+
+Notice!
+
+You have lost the Paralyzed condition.
+
+Warning: You are now susceptible to being paralyzed in the same fashion. It will be easier to immobilize you in the same way from now on.
+
+“Ren, how do you feel?” Artemis asked, and Ren gained the Angered condition.
+
+“Betrayed.” Ren said and made his hands into fists. “Betrayed by my best friend, who I've known for nearly as long as I've been an Adventurer.” He said and glanced at Teepo, who sighed and crouched down on Ren's shoulder. “Betrayed by someone I have deep feelings for and had planned to have sex with.” He said and looked at Artemis, which made her gasp, then he glanced at his other shoulder. “Betrayed by a new friend, who I thought shared my view on things.”
+
+“I... I'm sorry, Ren.” Teepo said. “I'll go back into the ring.”
+
+“Why? Do you want to run and hide?” Ren asked.
+
+“You hate me now.”
+
+“No, Teepo. I don't hate you. I could never hate my friend. I just hate that you didn't trust me.” Ren said and looked at Artemis. “I hate that none of you trusted me.”
+
+“We just wanted to protect you from making a mistake.” Artemis said.
+
+“Yes, but it was you three that made the mistake.” Ren said. “Open that book and look at the contents, then tell me what the entry above the Soul Bind Item was.”
+
+Artemis opened the book to look at the contents and found the Soul Binding Item in the list, and right above it was an entry for a Dying Wish enchantment. She caught her breath and looked at Ren with tears in her own eyes.
+
+“Ren, I'm sorry!” Artemis exclaimed.
+
+“So am I.” Ren said sadly as he took the book from her and stored it. “The three of you made me miss my only chance to ask Issac why he did what he did.”
+
+“Ren...” Teepo started to apologize.
+
+“Be quiet, Teepo.” Ren said. “This is the third time you have interfered without being asked.” He said. “That my own friend would turn on me like that, without even asking me what I was doing...” He shook his head. “...you promised after the last time that you would always help me, Teepo.”
+
+“Ren, I...”
+
+“I said to be quiet.” Ren said, and Teepo fell silent. “I don't want to hear an apology from you.” He said. “In fact, I don't want to hear an apology from any of you. Doing something like this to me, when you know what I've been through...” He shook his head again. “You don't deserve my forgiveness. Not for this.”
+
+“Ren, I don't know what you went through!” Suniva protested. “You can't hold that against me.”
+
+“Don't get me wrong, I know you only went along with the others because you couldn't be sure that Teepo wouldn't cripple me. I don't hold that against you.” Ren said. “What I do hold against you is that I was held immobile for nearly 10 minutes and you didn't say anything or protest it at all.”
+
+Suniva sobbed and pulled her legs up to rest her arms on her knees, then rested her head on her arms and kept crying. Artemis wasn't sure what to say. She could feel his emotions, but she couldn't tell what he was thinking.
+
+Ren walked over to the front door of his new business and made a closed sign to put in the window, then cast Permanent Full Illusion behind the window to show the lights were off and no one was inside. He walked back over to Issac's now useless corpse and knelt on one knee, picked up and stored Issac's Book of Runes and the inventory book, then looted his body.
+
+Ren received 3 platinum coins, all of which were the special ones given as compensation, and he stored them in inventory. He also found a Necklace of Ambivalence and a scroll of parchment. He stored both things and stood up, then walked over to the door behind the counter and shut it. He locked it and looked under the counter.
+
+There was a chest there that he identified as the money storage and opened it, then dumped the money into his coin pouch. Underneath the money was a small wooden box, and Ren sighed as he opened it and saw that it was only half-filled with Shadow coins. Ren stored the box and closed the chest, then walked across the shop to the front door.
+
+“I'm locking it up.” Ren said and motioned for Artemis to leave ahead of him. She stepped by without saying a word and he stepped out of the shop and locked the door.
+
+“Are you going to open it tomorrow?” Artemis asked.
+
+“No, it won't ever be open again.” Ren said. “This business is mine and still active, and I am leaving it here so that it won't ever be replaced.”
+
+“Ren...”
+
+“Everyone will know Issac was the enchanter here and he's no longer here.” Ren said. “I'm tempted to leave a sign to explain it to people, but it doesn't matter how he died.” He said. “He's gone and everyone will remember him because of his absence.”
+
+Artemis stopped talking, and Ren walked up the street to the edge of the district. He didn't say where he was going, and Artemis didn't ask. It was her job to stay with him no matter where he went, and that's what she did. Because she kept thinking about what Ren had said, she couldn't help herself and let her sad emotions out. Ren didn't try to cut them off, because he knew it would hurt her if he stopped sharing.
+
+Artemis felt his reluctant acceptance, and that made her emotions change from sad to morose.
+
+Ren walked on without saying anything, and they arrived at Nathalia's Restaurant. He saw the line of people waiting to go in and ignored it as he bypassed it. No one said anything to him as he entered the restaurant until he passed the woman that sat people.
+
+“Sir! You're supposed to wait in line!” She said.
+
+“I don't care.” Ren said and walked across the crowded restaurant without stopping. Artemis followed wordlessly as he entered the kitchen and he walked right over to Nathalia.
+
+“Ren? What...” Nathalia caught her breath as she concentrated on their personal connection. “Oh, Ren!” She exclaimed and put a hand over her heart. “I'm so sorry!”
+
+Ren didn't say anything as he put his arms around her and gave her a passionate kiss. Nathalia resisted at first, then she felt his desperate need for comfort and she kissed him back just as passionately. All of the cooking staff stopped working to stare at them, and after several moments, Ren broke the kiss.
+
+“As a King, I greet you formally to establish a cordial relationship, Lady Neram, Head Of House Neram.” Ren said in a monotone voice. “From this point forward, I invite you to call me Ren.”
+
+Nathalia stared at him with her mouth open in surprise.
+
+“That is all I can do for now, but I will continue my campaign to establish a closer relationship between our two peoples.” Ren said and took her hand, then leaned in and kissed her cheek to give her Honor. “Be well, Lady Neram.” He said. “I will visit again.”
+
+“R-Ren!” Nathalia finally managed to say, then she touched her lips that he had kissed publicly. “Wh-what... what is...”
+
+“When you return home, have Lady Erika contact the Hall of Records.” Ren gave her a slight smile.
+
+“I will.” Nathalia said, then frowned. “Now get out of the kitchen.”
+
+Ren grinned and gave her a bow of his head, which increased her Honor even more, then he left without saying another word.
+
+*
+
+“I thought dwarves couldn't do things like that in public.” One of the kitchen staff commented to another in a loud whisper.
+
+“I thought so, too.” Nathalia answered, even though the statement wasn't directed at her. “I... I don't feel...” She took a deep breath and let it out. “It didn't feel wrong.” She said and smiled warmly at her staff. They smiled back, because they hadn't seen her smile like that in a long time.
+
+“Hey, what's going on in here?” One of the waitresses said as she came into the kitchen. “Back to work, everyone!” She said and clapped her hands once. It broke the lull in activity and everyone got back to work, including Nathalia. She was in a much better mood, and she felt that Ren was as well. That made her happy and it let her cook faster, and her hands flew as she chopped things up and continued to work.

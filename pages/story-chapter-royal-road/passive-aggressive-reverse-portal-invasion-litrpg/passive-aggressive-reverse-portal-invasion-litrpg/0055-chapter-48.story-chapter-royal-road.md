@@ -1,0 +1,141 @@
+---
+id: b79853df-a702-518e-b4e1-e7187c7046ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 48"
+slug: 0055-chapter-48
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 55
+ownLength: 2283
+unit: words
+publishedAt: 2026-07-28
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3736336/chapter-48"
+royalRoadId: "3736336"
+---
+
+“I expect that you are well-rested and ready to move on. Today, I will explain higher rarities in skills. Then you will choose the two skills each of you want to unlock higher rarities for. Following this, I will explain exactly what is needed for you to unlock said skills. Mind you, if you are unable to complete the requirements, that is not my problem.”
+
+“And a good morning to you too.” Nix smirked. “Just a quick one before we continue. Did we actually receive a full and complete skill list for Crisiuns, including all the skills you Tethered folk know they can earn? Or did you hand off the cheapskate version along with a cleverly worded turn of phrase to make us think we got access to all skills?”
+
+The mood in the room instantly froze. Cuilcis looked at Nix with a deadpan expression.
+
+I shrugged. “You might as well just answer outright, mate. We know you’re capable of trying something like that. We just want to be sure you’re not cheating us here.”
+
+“I gave you the full list, showing every skill I know Crisiuns can earn. There may be others out there, but none that I know of. This skill list, I have spent years to amass, at great cost.” The words arrived like shots fired out of a rifle, inflectionless and deadly.
+
+Nix grimaced and scratched her neck. ”Whew. Didn’t expect that. Okay, Cuilc, my man. That was our mistake and we are, all of us, very sorry. Now, you were saying before?”
+
+Tibidi might have trouble showing emotions. Yet, there was no doubt about the clipped notes of his words or the way he kept staring at Nix when he continued. “These are the effects of what you’ll get from unlocking higher rarities from skills: You may earn quantitative leaps in the usefulness of a given skill, added side-effects to a skill or bonus gains from a certain skill. All are possible. Also, as you know, each of these are available to be unlocked when a skill reaches twenty-five, fifty, seventy-five and a hundred. There are-”
+
+“Goddammit!” Nix’s outburst had us all turning, and staring at her.
+
+My mind was still playing catch-up, trying to take in the impact of Cuilcis’s words, when I remembered. This was the code. The code we’d agreed to, if something happened that had a risk of revealing just how very not-Ademian we all were.
+
+“What is it, love?” At least Haddock knew how to keep his cool.
+
+“It’s that damn debuff. You know, in that awkward place. It’s gotten worse. I need you to apply the ointment, or It’s going to be horrid.”
+
+“Oh. Of course. Let’s take a five-minute break and pop out of here. Then we can continue with everything.”
+
+I still wasn’t quite sure why she went with something as potentially graphic as this. My rehearsed excuse was a lot more boring. She’d argued that something like this was a surefire way to make any male refrain from any questions whatsoever.
+
+Clearly, those sentiments didn’t apply to Tibidi. That, or he was still miffed about the accusation from earlier. “There is no need to pause the education. You may do it right here.”
+
+“I can’t. I need privacy for this! Listen. We’ll be right out, and be back in five minutes.”
+
+I shrugged and looked at Steve, standing up. “Let’s take five as well. I wanted you to tell me how you got Meditation in the first place.”
+
+“Frustration. This is very unprofessional. You realize I am not expanding the time you have available?”
+
+“That’s fair. See you in five, mate.”
+
+Thirty seconds later, we were out of direct view from his office, and Nix reeled on us. “Sorry. I had to pull us out.”
+
+“You absolutely did.” Haddock nodded.
+
+“Sorry, I’m slow.” I shrugged. “What was going on?”
+
+“It’s what he just said. He just revealed the reason why there are no superhero skills? It’s because the damn skills transform into superhero skills automatically when they hit the right value.”
+
+“Wait.” I played back what Cuilcis had said, then eventually came to the right realization. “Holy shit. I hadn’t realized that. That means that in just two skill levels, Shield is going to become more powerful?”
+
+“Same goes for Mana Efficiency for me. And Construction for Haddock. Just a few more skill levels and they’ll receive some… quantitative improvement, like he said, whatever that means. And we need to act cool like we already knew most of that. I’m sure Cuilcis was already suspicious about us. But if he learned that we had no clue about anything past skill level twenty-five? He’d know for sure there was something shady going on. How would we have grown up without knowing something that’s absolutely natural to this place?”
+
+“Oh. Oh!” I slapped my forehead. “Good thing you called a time-out. There’s no way I would’ve been able to get through that realization without giving the game away.”
+
+Two minutes later, we were back in our chairs, Cuilcis observing us with folded arms. “Are you ready to continue?”
+
+“Yup. Sorry for the inconvenience. That was… not nice.” Nix said with a grimace.
+
+“Dismissal. I was talking about higher rarities. Uncommon. Rare. Epic. Peerless. These are, of course, the known rarities. Stories insist that you may still evolve your skill past 100 and a theoretical final rarity exists, yet they are just that. Stories. The number of living people who have reached the Peerless stage with a skill are less than a dozen, from what I know.
+
+“I’d heard that there were way more than that, people living among us who just didn’t talk about their prowess.” Nix said.
+
+Quick thinking, that. Make us seem like we know shit.
+
+“That, of course, is a common opinion. It talks to the dreamers in us. It is, however, also very unlikely. Not only would they have to manage avoiding anybody with secrecy-divulging talents. They would also have to not care about the prestige, fame and riches that automatically are bestowed to anybody who reach that level of competence.”
+
+He blinked, then continued. “But I digress. The important part here is our agreement. You required information about accessing rarer versions of your skills. If you follow the natural process and reach Level 25 in any skill, you will automatically be rewarded – your skill will evolve into something stronger, longer-lasting or more convenient. There is a wide plethora of available rewards. Yet, if you manage to unlock a higher rarity of your skill before the natural skill cap of that rarity, your next evolution or reward will be more effective.”
+
+“I think I understand it, but I’m not sure I get it. Like, completely.” I shrugged at the others. “I know I’m dumb. Could you explain it to me in a simpler way?”
+
+“Disappointment.” He blinked, seeming to choose his words. ”You haven’t unlocked any higher rarity skills, have you?”
+
+“Sure.”
+
+“Surprise. That is good. Which rarity?”
+
+“Rare.” If he was fishing for something, I couldn’t tell what it was.
+
+He nodded. “Is that skill still below 25?”
+
+“Yup.”
+
+“In that case, I bid you congratulations. Should you live to evolve that skill to Uncommon and then Rare, both upgrades will result in better rewards than if you had not unlocked the higher rarity already.”
+
+I blinked. “Ah. Okay. I think maybe somebody told me before. I just didn’t understand it.” It was also fucking insane. It would mean that both Higher Self-Heal and Higher Endurance would become even more powerful than otherwise, once they hit 25, and again at 50.
+
+“So… that is the basis of the Tethered, then? Interesting.” Nix mused aloud. “You accept those who can afford to pay to get a head start on the rest. On top of that, you of course abuse the hell out of the higher rarities yourselves, and make sure that your own ranks are as strong as possible. How many higher-rarity skills do you have yourself?”
+
+Cuilcis didn’t answer straight away. When he did, his reaction was unexpected. “Amusement. You see to the heart of things. It is interesting to see that not all of your group are dimwitted.” He spread his hands. “Of course, I can and will not divulge any information about the Tethered or myself. I will, however, do my job as we agreed upon, and explain what the Tethered know.”
+
+For a while, that was all he did. Explain what the Tethered knew. From what he said, that encompassed just about everything in the world. Only, with him as a lousy junior trader of knowledge who wasn’t quite trusted to not piss his pants, speaking proverbially, he wasn’t let in on any of the real inner-circle stuff. Yet, the basic stuff was still good enough for us to learn a lot.
+
+In short, the “bonus” you got when you unlocked a higher-rarity skill was always twofold: An improvement to the effect of the skill itself, and a bonus skill or effect that typically had something to do with the skill you got it for. For instance, the uncommon unlock of Digging would let you simply carve out a specific measure of soil simply by mentally activating the effect and where you wanted it applied. Was it nice? Of course it was. It’d save you a load of manual labour. But it didn’t actually improve your Digging skill. That was for the upgrades themselves, which was where the real fun started.
+
+Anybody with the Bow skill, for instance, might get the option to improve their damage drastically. Or be able to shoot way farther, faster, or more precisely. While the unlocking bonuses were always the same, the rewards for upgrading weren’t. Meaning, you could actually tailor the reward to your style. Of course, you only gained two options every time. Yet, the options were never bad to begin with – and if you’d already unlocked the higher rarity of the skill, they would always be better. Always.
+
+On top of that, the higher a rarity you unlocked and the earlier, the better. Quite simply because, if you unlocked a skill at Epic early on, you’d enjoy three eventual skill upgrades with improved rewards for each one. Using the Bow example from earlier, a person might learn to shoot farther, faster and more precisely with their three upgrades. And every upgrade was progressively stronger.
+
+Eventually, the picture became clear, and the conclusion as well. The skills we selected for upgrade would have to be the ones we relied on the most. On top of that, we should absolutely shoot for unlocking those we’d be able to unlock at the highest rarity. An Epic skill we used now and again might, in the long run, become way more powerful than an Uncommon skill we used often.
+
+When he finally brought out the list for us to peruse, we were practically salivating. Nix had the wherewithal to put the complete list of skills next to it for us to compare, and we crowded each other as we tried to get at the goods first.
+
+Eventually, Steve spoke up. He couldn’t quite keep the disappointment from his voice. “I thought you’d have all skills. You don’t even have any higher rarities in the Spear skill here.”
+
+“Frustration. I already informed you that my offers were limited. This is all I know. I have already been generous in offering two skills to each of you. My peers would never have offered more than one.”
+
+“So.” Nix started. “We tell you which ones we want. You describe the process for unlocking the higher rarity. And that’s it? We’re done?”
+
+“Exactly. Then remain the two days of work you owe me, as well as the future favour. I am still debating whether to save the favour or use it now. I will acknowledge that we might end up collaborating in the future.”
+
+“How’s that… Oh.” I slapped my forehead. “If you thought we were going to get ourselves killed in the next short while, you’d call in the favour right away. That’s… nice of you?”
+
+“Nice is not part of this consideration.”
+
+Nix snapped her fingers in front of my nose. “Focus. Which skills are we taking? They should be the most impactful ones.”
+
+Steve added. “Or ones that we can all learn. Personally, I am in favour of Resilience. It’s only an Uncommon, but it’s one that could do all of us a world of good.”
+
+“I like that.” Haddock rumbled. “How about this? One for ourselves, and one for the group. Since my crafts actually work based off Construction, that’s the one I’ll pick for myself. Then… Mana Efficiency. Sorry. I know that’s not the best for you, Liam-“
+
+“Forget about it, man. I’ll learn it. And it’ll be great for the rest of you.”
+
+“Piercing Weapons and Resilience for me.” Steve said. “Piercing Weapons is Rare. That is promising.”
+
+“As for me, I’ll go with Magical Damage. That one and Mana Shield. They’re both Uncommon, but they sound like a winning combo.” Nix’s finger stabbed with satisfaction at the scroll.
+
+Cuilcis looked back and forth at the scene without saying anything. Finally, he burst out. “Puzzlement. You sound as if you’re certain you will unlock each and every one of these. That is not how it works. I hold all of this knowledge, yet I have only unlocked…” He caught himself. “I know I will never unlock all of these skills myself.”
+
+“Eh. We’re optimists.” Nix beamed. “Liam?”
+
+I didn’t answer. Couldn’t answer. I stared at the list, looking at the opportunity staring me in the face. “Soooo Cuilcis. How do you like trading for knowledge?”

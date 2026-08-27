@@ -1,0 +1,257 @@
+---
+id: d77c0740-3d26-5b8a-83d6-91c250d2b32d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 661 - Training The Workers"
+slug: 0662-chapter-661-training-the-workers
+partOf: mythrans-master-of-all-continued-completed
+position: 662
+ownLength: 2984
+unit: words
+publishedAt: 2018-08-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241420/chapter-661-training-the-workers"
+royalRoadId: "241420"
+---
+
+Gretchen was relieved when Ren landed and let her go, and she walked over to Dana. They waved to him as he, Artemis, Valercia, and the three cooks climbed onto the cart they had arrived in and drove away towards the amusement park. Dana took Gretchen's hand and walked over to stand near the bottom of the water slides so that the rushing water would drown out their conversation.
+
+“Okay, what happened.” Dana asked.
+
+“N-nothing.” Gretchen said.
+
+“Don't give me that.” Dana said. “We've been friends long enough that I can tell when you're horny.”
+
+“I... I'm not horny!” Gretchen exclaimed, and Dana laughed.
+
+“There's the guilty voice, too.” Dana said. “Come on, spill it.”
+
+Gretchen opened her mouth to say that nothing happened, and then sighed. “All right.” She said, then told her what had happened.
+
+“No. Way.” Dana said, completely surprised. “Was he a grower or a shower?”
+
+“B-both.” Gretchen said and blushed.
+
+“No way!” Dana exclaimed, then leaned in close. “How big was he?”
+
+Gretchen looked to the right and to the left, to make sure no one was looking at them, and she held her hands apart at the approximate distance.
+
+“You're kidding!”
+
+Gretchen shook her head.
+
+“You lucky bitch!” Dana laughed and put her arm over her friend's shoulders.
+
+“We're just friends.” Gretchen said.
+
+“What kind of friends does he have that he lets them touch his dick, huh?”
+
+“I don't think he let me... he just didn't stop me.” Gretchen said.
+
+Dana rested her head against hers. “Look at you taking charge.”
+
+Gretchen laughed. “It... it was surreal. We were inside a house... in the middle of the sky... and he was naked.” She said. “He asked me for my opinion, and I... I couldn't lie, you know?”
+
+“I can imagine.” Dana said.
+
+“It was like... he really needed the reassurance.” Gretchen said after she thought about it for a moment.
+
+“Come on.” Dana said and took Gretchen's hand. “Let's lounge beside the pool for a little while, then we can head over to the amusement park and see what they're doing over there.”
+
+They laid beside the pool for about half an hour and just watched the succubi and the off-duty guards play in the water, then they equipped their Travelling Clothes and walked over to the amusement park. It took them a while to find the large group of people, and they had identified a lot of the rides along the way; including carousels, gravity drops, pendulum swings, normal slides, game booths, and even a large roller coaster. Teela used her skills when they reached the crowd and told Dana and Gretchen that there was 150 general workers, 30 cooks, 10 healers, and 50 city guards present.
+
+Ren and Valercia stood on a raised platform and showed them the operation of the ride they stood beside. Ren called one of the workers up to the platform and asked them to operate it, and the man easily used the simple controls and activated the ride, and then everyone gasped as the ride lifted up into the air.
+
+“Dana!” Gretchen grabbed her friend's arm. “That's...”
+
+“A double Ferris wheel.” Dana said in amazement as the two Ferris wheels reached the proper height, then started to rotate around the central axis. “They spin normally, and also spin around each other.”
+
+“H-how? How is that possible?” Gretchen asked.
+
+“I don't know.” Dana said. “I didn't think things like this would even work here.”
+
+They watched as the ride was brought back down, and Ren showed them how to load and unload the passengers.
+
+“He's really doing it all.” Dana said. “He's making it a real amusement park.”
+
+“Dana, is that a pirate ship?” Gretchen asked and pointed off to the side, and Dana turned to look. “I mean, you can't attach an actual ship to a swing, can you?”
+
+Dana chuckled. “Apparently you can.”
+
+“This place is amazing.” Gretchen said.
+
+The lesson for the double Ferris wheel ride ended and the crowd moved on to the next ride. This one was a gravity drop, and Dana and Gretchen were surprised when Ren explained it was a modification of a magic elevator, and that it wasn't an enchantment at all. The lesson for its operation was simple and quick, since it was almost entirely self-contained and all the operator had to do was limit how many people got on each time.
+
+They moved on to the next ride, and it looked like a giant spider with mining carts on its feet. The explanation took longer, since it was a bit more complicated, but once they turned it on, the legs moved up and down as the carts spun on the feet, and then the whole thing spun around as well.
+
+Neither Dana nor Gretchen had seen anything like it before, and they were amazed how quickly the workers learned their jobs. The carousel was the easiest, since you just turned it on and waited 5 minutes, then turned it off. The workers laughed and said that they wouldn't even have to stay nearby to operate it, and then the entire crowd gasped as they felt Fear for an instant.
+
+“Please don't take these jobs lightly.” Ren said. “Yes, some of them are easier to do than others, but they are all important. Safety is paramount, and the healers will be on constant patrol with the guards to help maintain that.” He said and let his gaze travel across the crowd, and each person felt like they had locked gazes with him. “Take pride in your work and keep the customers safe. If they feel safe and have fun, not only will they come back, they will bring their friends next time.”
+
+“I hear that!” Someone hollered, and a chuckle ran around the crowd.
+
+“I was tempted to charge a fee to get in, but that would defeat the whole purpose.” Ren explained. “I can't charge one fee to pay for everything, because then no one would want to come here more than once or twice.”
+
+“Gouging the customers is not the best way to start a business.” Valercia said, and Ren nodded.
+
+“Just like the Portal Gate Network, each ride will only cost a single copper coin to use.”
+
+“Just once, right?” Someone asked, and Ren nodded again.
+
+“They can't give you a silver and ride a hundred times in a row, either.” Ren said. “One ride for a copper, then back of the line so that everyone can ride.” He said. “Now, if business is slow, you can take a handful of copper coins and let them ride for longer, but that's at your discretion.”
+
+“That's fair.” Someone said.
+
+“I can't tell you not to take bribes for more rides; but, you have to know that with so many people coming through here, there's no real need to take more money upfront.” Ren smiled. “Believe me, there's going to be plenty of money for everyone.”
+
+“Is that why we get to rotate on the ride operations?” Someone else asked.
+
+“Exactly.” Ren said. “Some rides will be more popular, so some of you would make more than everyone else if you only operated one ride each. If you all get a turn to operate the popular rides, then everyone is happy. Both you and the customers.”
+
+“What about the food?” One of the cooks asked. Ren looked and saw that it was the female cook and she was back in her normal uniform.
+
+“I've got three more special rides to showcase, then we'll head to the food section and you'll all get quick lessons in carnival food.”
+
+“Carnal food?” She asked, then her face went red. “Um, never mind.”
+
+Lots of people laughed, and Ren smiled as he held his hands up for silence.
+
+“Car-ni-val.” Ren enunciated. “It's the very fast food served at similar parks where Adventurers come from.”
+
+“Sir?” Some one said and raised their hand, and Ren nodded to them. “Can the townsfolk come here, too?”
+
+“The park is open for everyone, so yes.” Ren said. “I had flyers distributed to every general store in the entire country.”
+
+A low murmur of surprise ran through the crowd, and someone else put up their hand.
+
+“Why isn't everyone here already?” They asked.
+
+“Good question.” Ren said. “I made the flyers for my arena fight tomorrow, and when it's over, the flyers will change automatically to advertise the amusement park.” He said. “After that, this place will be officially open and you'll all have jobs for as long as you want them.”
+
+There was another general murmur that covered the crowd, and then they fell silent.
+
+“No other questions?” Ren asked, and no one said anything. “Then follow us to the last couple of rides.”
+
+Dana and Gretchen went along with the crowd and watched the last couple of lessons, one of which was the pirate ship that swung nearly vertical as it went forward and back on the swing. Ren had saved the best for last as they reached the roller coaster. He gave them all an in-depth lesson on the proper operation and safety protocols. He called up another random worker and prepped him for starting the ride, then walked over to the first cart on the track.
+
+Ren opened the door and lifted the safety bar, then helped Valercia climb in and turned to the crowd. “Hey, Dana! Gretchen!”
+
+Both women gasped as the entire crowd turned to look at them. They didn't realize that Ren had known they were there.
+
+“Want to join me for the inaugural ride of the Screaming Thunder?” Ren asked.
+
+“Are you crazy?” Dana nearly yelled, and he laughed.
+
+“Don't worry. This thing has every safety feature I could cram into it.” Ren said and sat down, closed the cart's door and pulled the safety bar down to lock it into place over their laps.
+
+“What do you think?” Dana asked her friend.
+
+“Why not.” Gretchen said. “Having the first ride is pretty cool.”
+
+They walked over to the ride and the operator pulled up the safety bar and opened the door on the next cart. They got in and he closed the door and pushed the safety bar down and locked it into place, then went back to the controls.
+
+“Sir, do I say a countdown or something?” The man asked.
+
+“It's your ride at the moment.” Ren said. “If you want to count, you can count.”
+
+The man smiled. “Okay, sir. Get ready.” He paused for a second. “One...” He smiled and pulled the lever to activate the magical lift. The row of mining carts shot forward and up the tall incline, and Dana, Teela, Gretchen, and Valercia screamed in both shock and a little horror, while Ren laughed and Teepo chittered in delight. The row of mining carts slowed down as they reached the top of the very high first hill, then it plunged down the other side at twice the speed it had gone up it.
+
+“AHHHHHHH!” The three women screamed as they reached the bottom and hit the first inclined turn, then went up another hill, then down and through a short tunnel, up another large hill, then down the other side and through a 360 degree loop. That made them pick up speed and they went through a corkscrew turn, three very quick and short hills, then another inclined turn and another hill.
+
+They started to slow down and hit the last inclined turn, which reduced their speed even further, and the row of mining carts applied their brakes evenly and slowed them down to come to a stop right where they had started the ride. The operator walked over and pulled up the safety bar and opened the door in each cart to let the passengers out, and Ren hopped out and turned to look at the three women.
+
+“What did you think?” Ren asked, and didn't give his opinion, because he didn't want to influence theirs.
+
+“N-never again.” Dana said. “I... I thought I liked a good rush...” She tried to stand up and wobbled, and Ren caught her arm and held her steady with a hand on her back. “We have very different thoughts of what a good rush is.”
+
+Ren nodded. “Gretchen? What about you?”
+
+“That... that was...” Gretchen met his gaze and then she grinned. “...totally awesome!”
+
+“I don't know what 'awesome' means, but it was a very enjoyable ride.” Valercia said and stood up. “After the first initial shock and surprise.”
+
+Dana stepped out of the mine cart with Ren's help, and Gretchen got out as well.
+
+“Three out of four humanoid passengers enjoyed it.” Ren said and kept his arm around Dana to brace her. “What do the beetles say?”
+
+“I want to go again!” Teepo said from Ren's shoulder. “That was great!”
+
+“It was fun, but not fun enough to go again.” Teela said from Dana's shoulder.
+
+“So, one and a half out of two beetles approve.” Ren said, and both beetles chittered in laughter.
+
+“I'd call that a success, My King.” Valercia said, and he nodded.
+
+“On to the food vendor booths!” Ren declared.
+
+The whole crowd shuffled off down the fairway towards the food section of the park.
+
+“Dana, how do you feel?” Ren asked her, and she took a breath and let it out.
+
+“I'm okay.” Dana said. “You can let me go.”
+
+Ren moved his hand away from her back and she wobbled a little, so he put it back and held her steady. “It doesn't seem like I should.”
+
+“I'm just a little in shock, that's all.” Dana said and motioned to a nearby bench. “I'll just sit down for a few minutes to recover.”
+
+Ren helped her over to it and she sat down with a sigh.
+
+“I don't think I can eat anything right now, anyways.” Dana said, and Ren smiled.
+
+Gretchen sat down next to her friend and pat her knee. “I'll stay with her to make sure she's okay.”
+
+“Thank you.” Ren said, and his sincerity made Gretchen's face turn a little red.
+
+“They won't wait long, My King.” Valercia said and pointed at the large crowd as they spread out and the cooks picked the booths that interested them the most.
+
+“Right.” Ren reached out and put a hand on Dana's shoulder, and one on Gretchen's. “Rest here for a while, then come over to see what surprises await those that want to eat between rides.”
+
+Both women nodded, and Ren stepped back and up into the air, held an elbow out for Valercia, and she took it gracefully. Dana and Gretchen watched Ren and the woman on his arm walk towards the crowd. They moved quickly and casually, which was a surprise; since you would think they would be mutually exclusive things.
+
+“I'm sorry you didn't like the roller coaster.” Gretchen said.
+
+Dana chuckled. “It's not like that's your fault.” She said. “Or Ren's.”
+
+“What was it that bothered you the most?” Gretchen asked.
+
+“The constant shaking and the sound of the wheels hitting the metal tracks, I think.” Dana said. “There wasn't a moment of relief where it didn't happen, except right at the top of the first drop off and then at the end.”
+
+Gretchen laughed. “That was kind of the point.”
+
+“Really?” Dana asked, and Gretchen nodded.
+
+“I screamed so hard when it started!” Gretchen exclaimed.
+
+“Me, too.” Dana said.
+
+“Me, three.” Teela said. “So did Valercia.”
+
+“Well, he did call it Screaming Thunder.” Gretchen said, and they laughed. They waited for about 10 minutes, and then the most wonderful smells hit them.
+
+“Is that popcorn?” Dana asked. “It can't be popcorn.”
+
+“I smell hot dogs.” Gretchen said and looked at her friend. “Where the hell did he get hot dogs?”
+
+“I smell something sweet.” Teela said from Dana's shoulder. “I've never smelled anything like it before.”
+
+“We have to go see what's going on.” Dana said and stood up, and she didn't wobble. “Let's go.”
+
+As they approached the food section of the park, they quickly discovered what the sweet smell was.
+
+“Cotton Candy!” Dana and Gretchen said at the same time, and went to the booth.
+
+“How is that possible?” Dana asked, and saw one of the cooks add colored sugar to a large metal bowl, and then used a long thin piece of wood to roll around inside the bowl. Little bolts of Lightning crisscrossed and shocked the sugar, just as a real cotton candy machine would, and after several swirls around, the cook produced a big bundle of cotton candy on a stick.
+
+“It's food magic!” The female cook exclaimed and handed Dana the stick and quickly did another and gave it to Gretchen. “Quick! Quick! Try it!”
+
+Dana looked at Gretchen for a moment, and then they both took a bite. They felt the instant sugar rush and gained +1 to their Endurance for the next minute. They dismissed the popup at the same time and looked at each other again.
+
+“It's an energy booster.” Dana said, and Gretchen nodded. “I wonder how much...”
+
+“It's +5 Endurance for half an hour when you finish it.” A man said from nearby, and tossed his empty stick into the trashcan beside the stall. “I don't know how he did it, but it's amazing.”
+
+Dana and Gretchen nodded, and the man turned to the next stall to try one of the hot dogs.
+
+“Oh!” Gretchen said and turned back to the cook making the cotton candy. “How much do we owe for these?”
+
+“Everyone gets one for free while I'm practising.” The female cook said happily. “My King is a great man!”
+
+Dana and Gretchen ate their delicious and beneficial cotton candy as they looked around at the biggest and most elaborate amusement park that ever existed anywhere, and had to agree with the cook. Ren had definitely done some great things.

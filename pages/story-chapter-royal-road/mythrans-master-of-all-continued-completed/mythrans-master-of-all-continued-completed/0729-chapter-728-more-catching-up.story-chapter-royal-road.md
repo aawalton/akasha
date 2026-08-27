@@ -1,0 +1,303 @@
+---
+id: 6c417f50-83c2-52f9-abff-a002d6394e7e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 728 - More Catching Up"
+slug: 0729-chapter-728-more-catching-up
+partOf: mythrans-master-of-all-continued-completed
+position: 729
+ownLength: 3301
+unit: words
+publishedAt: 2018-10-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297597/chapter-728-more-catching-up"
+royalRoadId: "297597"
+---
+
+Ren, Teepo, Fire Dancer and Zetaya spent their vacation both wisely and casually. They read every book Ren had put inside the room extension, tried on and wore all of the clothes he had given Fire Dancer, then he made hundreds more for her and Zetaya. They played games, carried on, and just enjoyed their time together. None of them had any responsibilities to attend to, since they were inside their own little time compressed space, and that alone let them enjoy things that much more.
+
+As the time for their vacation to end approached, Fire Dancer didn't have as much fun as she used to. It was during one of their chase games that Ren felt her resignation. He called a halt to the game and took Fire Dancer into his arms. She blinked her eyes at his forceful action and stared at his face, and he let her feel how much he liked that she didn't even think of trying to fight or get away. The Fire under her skin swirled at that, and he kissed her forehead.
+
+“Yes, this vacation is coming to an end and we have to go back to dealing with the every day things that need to be dealt with.” Ren said, and it wasn't even a guess on his part, because he felt the same way she did. “I'm going to enjoy this time as much as possible before we need to go back.”
+
+Fire Dancer sighed. “It... it was so much fun doing all of this.” She said. “I don't want....” she shook her head. “Never mind.”
+
+“Hey, you can feel any emotion you want about this.” Ren said and gave her a squeeze. “It's not wrong or bad to want to stay here.”
+
+“But you won't let me.”
+
+Ren chuckled. “I would if I thought we could both get away with it.”
+
+“You... you would?” Fire Dancer asked, surprised.
+
+“Slacking off sometimes is the best feeling; but, it's only a good feeling because we're taking a break from what has to be done.” Ren said. “If all we did was slack off, we'd be bored pretty quickly, I think.”
+
+“Yeah, half the fun is shirking your responsibilities.” Teepo chittered in laughter as he flew by.
+
+“At least you have me here to help you now.” Zetaya said and walked over to them.
+
+“You're leveling up pretty quickly, so you can take on more of the lesser duties.” Ren said and held an arm out to hug her, too. “I hadn't planned on that, though.”
+
+“You just didn't want me to be alone when I'm not working.” Fire Dancer said.
+
+“Honey, you can be in a room full of people and still be alone.” Ren said, and he felt that was true for her as well as for him. Even though she had hundreds of Fire and Greater Fire elementals in the throne room all the time, they weren't really there for her in a personal sense.
+
+Zetaya felt their feelings and touched both of their cheeks to get their attention. “Now I'm here and I can be that for you.”
+
+Fire Dancer's arm slid out from around Ren and went around Zetaya. “Thank you.”
+
+“You don't have to thank friends for caring about you.” Zetaya said and gave them a hug, then stepped back and smacked Ren on the side of the head. “You're IT!”
+
+“Ow!” Ren said automatically, even though it hadn't hurt, and Zetaya ran away. “Hey! Get back here!”
+
+Teepo chittered in laughter as Ren ran after her, then Fire Dancer shook her head and joined in on the chase.
+
+Their vacation ended and they returned to the normal time in the Fire Realm, and Ren stored the Vasalor Statue. Ren, Teepo, and Zetaya felt Fire Dancer's emotions change to those she had when she ran the realm and she became serious. Ren shrunk himself and Zetaya back to their normal sizes and tucked themselves into her fiery hair, and Teepo stayed his large self and landed on her other shoulder.
+
+Fire Dancer formed her armor around herself and she took a deep breath. “Let's get to work.” She left the bedroom and started to walk down the hallway towards the throne room, and Ren turned his head to her ear.
+
+“We can take a short vacation before I have to leave for Adventurer's business.” Ren said, and he felt her spike of need. “It's only just under 14 years away.”
+
+“What do you want in return?” Fire Dancer asked.
+
+“I want the next Earth Realm day off tomorrow.” Ren said. “Nathalia's going to pop soon.”
+
+“Do you think...”
+
+“According to Xuunah, she can hold off for today, but that's just about it.” Ren said.
+
+“Very well.” Fire Dancer said and stopped before opening the throne room door. “Why didn't you ask when we were on vacation?”
+
+“I wanted you back in command of the realm and in your serious mood before asking, that way I could get a real answer from you, and not one influenced by us having fun together.”
+
+“What if I had said no?” Fire Dancer asked.
+
+“I would probably wait for a decade before reminding you that I'd asked and see if you might have changed your mind.”
+
+“What if...”
+
+“But, you did say yes.” Ren said to derail her negative thoughts. “I can also feel your concern. You're just as worried as I am about your first mortal sibling being born.”
+
+Fire Dancer took a deep breath and let it out. “I won't be your only child anymore.”
+
+Ren chuckled and leaned over to kiss her cheek. “You'll always be the first.” He said. “Now imagine what's going to happen when they find out that their big sister is the Deity of Fire.”
+
+Fire Dancer took in a sharp breath when she realized what he meant, then smiled. “You sneaky little devil.”
+
+Ren laughed and pat her cheek. “Now that you understand, get your ass into the throne room and get to work.”
+
+Fire Dancer shook her head and opened the doors, then started her working day with a lingering smile that she just couldn't hide. The time passed by quickly. Days, weeks, and years, and then they went on another vacation for a year before Ren had to leave.
+
+“I think Suniva might have had the right idea. I am sick of having you around.” Zetaya joked as she hugged Ren.
+
+“You wound me deeply, dear lady!” Ren gasped and put a hand over his heart. “The... the pain!” He dropped to his knees and put his arms around her legs and fake cried. “How will I live without you for all the time I will be away?”
+
+Zetaya laughed and ran her hands through his hair. “I think you can take not seeing me for 2 days.”
+
+“But, I can't!” Ren pleaded, then his eyes widened. “Wait, it's only 2 days? Oh, okay.” He said normally and stood up to give her a kiss. “I'll be back as soon as I can.”
+
+Fire Dancer shook her head at the overly-dramatic scene. “Geez, Father.”
+
+“Oh! Deity of Fire!” Ren let Zetaya go and jumped over to hug Fire Dancer. “Don't fret, dearest one! I'll miss you, too!”
+
+Fire Dancer laughed and hugged him back. “You better go if you're going to do your statue trick for the others.”
+
+Ren checked the player menu and saw that she was right. “All joking aside, I will miss you.”
+
+“I... I know you will.” Fire Dancer said.
+
+“Oh, before I forget.” Ren took out the little recorder box he had and hit the button, and all of the files he had recorded transferred over to the big display by the wall. “There's all of the footage I've ever recorded.”
+
+“Thank you.”
+
+“Have fun.” Ren said and kissed her forehead, gave Zetaya another kiss on the lips, then shrunk himself and Teepo down to their normal sizes and they flew over to the spawn point building. Ren opened a portal and they went through it. He transferred through the underground chamber and absorbed the Everlasting Fire, then used a portal to go to the house in Aurora.
+
+“Hi, everyone.” Ren said to the succubi and Artemis. “Do you...”
+
+“Yes.” They all said as one, and he chuckled.
+
+Ren opened a portal to the Sanctuary and they all went through, and he spent a good amount of time with each of them. When they came back, he went to see the Marilith Demon and he had been right. She didn't want to see him again so soon, so he gave her a hug and a kiss and told her he would be back in a few days.
+
+“I might be ready by then.” The Marilith Demon said.
+
+Ren smiled and gave her another kiss, left her room, then opened a portal to the apartment in the Main House in his county. He stepped out and was greeted by 5 very enthusiastic maids and one shy polymorphed Light being. He took out the Vasalor Statue and activated it, then gave them a month of his time. He went all the way with the maids and let Xuunah share in those feelings; but, Xuunah was still reluctant to do more than have her breasts groped.
+
+Ren was perfectly okay with that and let her feel how much he liked doing just that. She wasn't sure why he liked touching and playing with them, and soon discovered that they were two of his favorite things. Once she realized that he wasn't humoring her, she let him play with them as much as he wanted and they both enjoyed his enjoyment.
+
+Ren stored the statue and left the apartment and went downstairs to see Patty in her office. “Good evening, Patty.”
+
+“Ren! It's nice to see you.” Patty said and sat back in her chair. “What can I do for you?”
+
+“I was just wondering how everything's going in the county.”
+
+“It's unbelievable.” Patty said happily. “Our food production has skyrocketed, our businesses have increased sales, and the people have never been happier.”
+
+“I detect an underlying tone of discontent there.” Ren smiled, and she sighed.
+
+“I knew I couldn't hide it from you.”
+
+“What is it?”
+
+“Some of the older residents are expressing concern over all the people coming here for the parks you created.” Patty said. “I've tried to tell them that you made it far enough away that the noise shouldn't bother them...”
+
+“But?”
+
+“...those people roam all over the place to look at everything.” Patty said. “It's like the town itself is a tourist attraction.”
+
+Ren chuckled. “That's because I think it is.”
+
+“Wh-what?”
+
+“What I've built here isn't the way most towns are set up.” Ren said. “No one has housing sub-divisions. No one has a cement building like this one.” He waved to her office. “Except in the Dwarven Kingdom, and I built both of them there, too.”
+
+“Did you intend it to be like that?” Patty asked, and he shook his head.
+
+“I was only thinking about efficiency and getting everything done as quickly as possible.”
+
+“So, what do we do?”
+
+“Wait.”
+
+“Excuse me?”
+
+“The novelty should wear out pretty fast, since it's not really that interesting past the layout and the sheer number of houses.” Ren smiled. “There's still going to be occasional stragglers, because I don't think every Adventurer has come to the parks yet; but, other than that, the lookie-loos should stop in a little while.”
+
+“The lookie-whats?” Patty laughed.
+
+“Gawkers?” Ren asked, and she kept laughing. “Rubberneckers? Nosey-holes? Sidewalk Snoopers? Offending Oglers? Peeping Toms?”
+
+Patty laughed and laughed at the nonsensical words Ren spouted at her, then she pointed to him. “I... recognize... that one!” She laughed. “Peeping Tom!”
+
+Ren fake gasped. “Don't tell me you have one!”
+
+“One! Hahaha!” Patty held her sides and tears rolled down her face from laughing so hard. “There's... Hundreds!”
+
+Ren walked around her desk and sat on it, then he laughed with her until she calmed down.
+
+“Oh... oh, my sides.” Patty panted. “I haven't laughed... like that in...” She took several breaths and sat back in her chair. “Ren, thank you.”
+
+“That's me. Comic relief.” Ren said and grinned at her, and her left hand reached out and touched his thigh.
+
+“Is it true, though? Will they stop looking around so much?” Patty asked, and he could feel her need.
+
+“I guarantee it.” Ren said and he concentrated on his Reassurance Aura and her.
+
+Patty felt better about the situation and her right hand touched his other thigh. “That makes me feel so much better.”
+
+“I can make you feel...”
+
+“No.” Patty said and her hands slid up his thighs. “Please, let me.”
+
+“Patty...”
+
+“You did so much for me yesterday.” Patty said, and his Heat Sense saw her face, breasts and private place grow very hot. “I... I want to...”
+
+Ren took out the Vasalor Statue and put it on the desk, then activated it. “You know I didn't come here to...”
+
+“I know.” Patty said and touched him through his pants. “I want to do this.” She said and rubbed it a little. “I still haven't seen it yet.”
+
+“That's because I was trying not to tempt you.” Ren said, and she looked up at his face with wide eyes.
+
+“Is... is it...” Patty started to ask a question, then Ren stored his clothing and underwear and she saw his ready state. “It is too good to be true!” She said and looked back at his face. “I... I want to... to...”
+
+Ren cupped the sides of her face and kissed her. Patty responded in kind and kissed him back, then she broke the kiss and started to kiss him somewhere else.
+
+*
+
+“So, do you think he'll come here?” Caramel asked the other dancers that had just logged in to go to work.
+
+“No idea.” Candy said. “I haven't been online since they shut down for the update yesterday.”
+
+“Wait, what?” Caramel turned to look at her. “Don't you know what's been going on?”
+
+“What do you mean?”
+
+“Girl, have I got a story to tell you!” Caramel said and tried not to laugh. “I thought everyone knew it already!”
+
+“Knew what?” Jennifer asked as she came out from the curtain behind the main stage.
+
+“It was Ren! He fixed the game!”
+
+“What was wrong with it?” Jennifer asked.
+
+“Geez, are you both out of the loop or what?” Caramel laughed. “Listen...”
+
+Caramel told them all about how the game was messed up from the latest update and they gasped when they heard Ren had taken it upon himself to fix the damage.
+
+“Wow, so he... he put everything back together.” Spice said when Caramel was done telling the story.
+
+“I missed all of that.” Jennifer said. “I forgot to turn my cell phone on.”
+
+“Was it really that hard for Ren to do?” Candy asked. “He did it pretty fast, didn't he?”
+
+“I listened to his interview.” Caramel said. “It's enormously complicated, apparently.”
+
+“Then I don't know if he'll have enough time to visit us.” Jennifer said. “If he had to fix everything, he must be running around and checking to see if it all worked.”
+
+“Hey, I think you're right.” Apple said. “Now I can't believe I'm disappointed that I won't be seeing a man tonight.”
+
+That made the other dancers laugh, and then they all had that feeling of disappointment.
+
+*
+
+Patty pleased Ren, and because she was enthusiastic about it and he could feel how much she really liked doing that to him, he didn't hold himself back. He warned her when it was time, and she leaned back as he finished. She was surprised at first, then she was very flattered that she had made him go so much. Ren felt her emotions and cupped the sides of her face again and kissed her, and she like that a lot, too.
+
+Patty broke the kiss and leaned back again and looked at the mess they had made. “You're amazing.”
+
+Ren chuckled. “I think you were the amazing one this time.” He said and equipped his blue suit to clean up, and she equipped another suit outfit to clean up, too. It removed the evidence of what they did, and Ren stood up. “Thank you, Patty.”
+
+Patty's face flushed red. “You're welcome.”
+
+Ren kissed her again and deactivated the statue and stored it, then left the office. Teepo, how's my time?
+
+“You were only busy for a few seconds, so lots.” Teepo chittered in laughter. “You could probably visit the Pleasure Palace and still have lots of time to go on Adventurer's Business.”
+
+Actually, that's a good idea. Ren said. I just have to stop in to see Janice first. He ran across the road to the Glassworks shop with the house attached and knocked on the door of the house. His Heat Sense Aura showed him that she was inside, and his eyes followed her to the door and she opened it.
+
+“Ren! Oh, my god!” Janice exclaimed and grabbed his hand. “Get in here!”
+
+Ren chuckled and walked in past her, and she slammed the door shut. “I know it's been a while.”
+
+“It's all true, isn't it?” Janice asked and put her hands on his shoulders.
+
+“I could play coy and ask what you mean; but, I don't want you to get mad.” Ren grinned. “I'm not sure what rumors and things are floating around after the press release, though.”
+
+Janice tried to shake him by his shoulders, but he didn't move. “Ren! You fixed everything!” She said. “I lost my business and my house! The key was gone! GONE!”
+
+Ren stared at her with wide eyes for a moment, then he put his arms around her and gave her a hug. “I'm really glad it worked.”
+
+Janice tried to keep her tears held in for only a few seconds, then she started crying and put her arms around him and held on tightly.
+
+“Shh, it's okay.” Ren said and rubbed her back. “I'm sorry that stupid update scared you like that.”
+
+“I... I thought... I lost it all.” Janice sobbed. “Th-thank you.” She kissed the top of his head. “Thank you for giving it back to me.”
+
+“You are more than welcome.” Ren said and leaned back to look up at her tear-streaked face. “I hate to say this; but, crying is not a good look for you.”
+
+Janice barked a laugh through her tears and leaned down to kiss him on the lips. “Have a share of my slobber, dear friend.”
+
+“Thanks.” Ren said and kissed her back. “You're right. That is slobbery.”
+
+That made her laugh, and her emotions went from their negative feel to have a more positive tilt.
+
+“If I had stolen the kiss, would it be highway slobbery?” Ren asked.
+
+Janice groaned. “Ugh, bad pun.”
+
+“Well, if...”
+
+Janice covered his mouth. “Nope, just nope.” She said. “If you want to keep that mouth busy...”
+
+Ren licked her palm and she didn't flinch like he thought she would. Instead she slid her other arm down his back and gripped his backside.
+
+“You know where the bed is.”
+
+“Muh.”
+
+“Someone needs to be properly thanked, and you are not leaving here until you are.” Janice said.
+
+“Mum muh.”
+
+“As your friend, I humbly request that you pound me until I finish so hard that I'll have to stop thanking you.”
+
+“Meh mum muh mum.”
+
+“Yes, it's a challenge.” Janice said, and a PvP popup appeared. She was surprised at first, then she grinned as she read the win conditions. “Oh, you're on!” She said and accepted the duel. Ren picked her up and carried her over his shoulder to her bedroom, and she laughed the whole way.

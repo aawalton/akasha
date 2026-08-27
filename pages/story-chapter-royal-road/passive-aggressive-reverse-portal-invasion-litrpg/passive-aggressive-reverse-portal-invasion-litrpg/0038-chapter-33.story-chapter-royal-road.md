@@ -1,0 +1,117 @@
+---
+id: 26888f29-734f-5e87-a917-f6b6405ff687
+page-type-slug: story-chapter-royal-road
+title: "Chapter 33"
+slug: 0038-chapter-33
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 38
+ownLength: 2350
+unit: words
+publishedAt: 2026-06-23
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3578785/chapter-33"
+royalRoadId: "3578785"
+---
+
+We didn’t go straight away. Cuilcis argued that we should, that we were risking our lives the longer we stayed out here, where anybody could stumble upon us.
+
+I didn’t care. Not only had my health taken a battering, I drastically needed to do something about my gear. Even if I admitted that I’d need help to survive in the long run, I wasn’t about to waltz into what could be hostile territory without being as prepared as I could become.
+
+“Are you sure that this is the right thing to do?” I watched, frowning, as Harten’s corpse ever-so-slowly scraped across the ground toward the edge of the cliff.
+
+Cuilcis focused, squinting as he slowly walked behind the heavy corpse, a short wand pointed at the corpse, while drops of sweat broke out on his face. “Certainty. A lot of beasts, and people, have excellent noses or other senses. If you insist on healing up before continuing, we need to remove the corpses. I will remove whatever scent remains from the blood up here.”
+
+“That wasn’t what I… Ah. Never mind.” Clearly, they had no hang-ups about any sort of burial rituals and the like in these parts. Besides, he’d already had me remove the extra-heavy slabs of armor on the big guy, stating that, even battered as they were, he’d be able to re-purpose them.
+
+I’d gone through their gear. I’d never have thought myself squeamish back on Earth to begin with, and certainly not once I’d spent a week fighting for survival here on Ademia and eating goddamn Marmots! Yet, something about the act of rifling through the equipment of people felt wrong. Like, purple or not, these Adrastians were actual people who, if I’d met them in a bar, I might have actually gotten along with. Now, I’d killed them and was picking through their stuff.
+
+Still, I wouldn’t deny that I was the better off for it. Lassem, the spear-wielding Adrastian, had been the source of a nearly full set of armor. I had to stick with my own completely battered chest armor for now, given that they were rail thin compared to me. Yet, their adjustable arm, shoulder and leg armor fit decently once I got the straps adjusted. Well. It didn’t restrict my motions too much, at least, even if I predicted chafing in my near future. On top of the quality, the soft, subtle leather armor with intricate black inscriptions was actually enhanced, granting me +1 to Agility and +1 to Strength.
+
+Besides that, rummaging through the female Adrastian’s pack revealed a small buckler that I eventually decided to pick as a replacement for my own shield. It was a sad affair. I really shouldn’t be that attached to a simple piece of crafted bone that the U-Nerds had themselves deemed to be beginner gear. Yet, I couldn’t deny that – even though the damn thing had saved my life several times over – it was beyond salvage. Harten’s single blow to the shield had practically broken the damn thing in half above my arm. The upper half still hung on for dear life, flapping sadly when I walked. It was time. It needed to be put to rest.
+
+The new buckler… wasn’t going to be a keeper. I could tell that straight away. It was circular, made of some sort of hardened leather, reinforced by a metal rim. The material wasn’t the issue. It was the size. It was way too small, maybe thirty centimetres across, with a handle to grasp onto, rather than having it strapped onto the forearm. This was a buckler made for fast movement and exquisite control, rather than something big you could hunker down behind. In short, it was not for me. Still, it would do for me until I managed to replace it with something properly big and solid – even if it did feel like I was waving a goddamn potlid around.
+
+I also got some money. All the money that the three recently deceased protectors had on them by rights had become mine. Cuilcis was actually strangely insistent about it.
+
+Money in Ademia, apparently, was weird. Because they weren’t, in any shape or style, uniform.
+
+“How’s that even work? You’re telling me that this is worth the same as this?” I held up two disparate pieces. One was some sort of circular ceramic piece, polished, with a dark red glaze. If you looked at it at the right angle, it might be mistaken for a coin, except it was shaped more like a cookie. The other was some dark metal, flattened and triangular, with only the slightest effort put in to ensure the sharp edges didn’t draw blood.
+
+“Denial. There is no way that, wherever you come from, can be that backward. Do you not have money?”
+
+I backtracked, tried to find an explanation that didn’t give away exactly where I was from, and ended up with a weak excuse. “Yeah. I guess we were kind of backward. It was more of a barter economy.” That, by chance wasn’t even a lie, as long as we were talking about the Ever Steady.
+
+He scoffed. “Well, money in actual civilization is simple.” He pointed at the piece of metal. “Hold that in your hand. Then concentrate on the sensation, and picture inhaling, but from the metal.”
+
+I started protesting.
+
+“Exasperation. This is easier done than discussed. Just try.”
+
+Rolling my eyes, I did. I closed my eyes and tried to focus on the metal. I… felt nothing. Nothing, except a growing suspicion that I was being trolled. “There’s nothing.”
+
+“Some are slower to catch it than others. Sincerity. Anybody can do this.”
+
+I growled, but continued. After a few minutes, I was surprised to realize that there actually was sort of… a presence in my hand. I closed my eyes and tried to investigate the sensation. It felt like a reservoir of sorts, a glowing aperture, but in the world itself. Frowning, I wondered where the fuck I got that impression from. There was no helpful description or anything, that was for sure. “What is this?”
+
+“Try to open your mind to it. Picture opening a gate inside yourself, letting what is in the coin enter.”
+
+I tried. It took several minutes, and I increasingly believed I was too dumb for whatever this was. Then, slowly, a sensation came over me. “What the fuck?” I was filled with energy. The world tasted like ozone and power.
+
+He nodded. “Satisfaction. There you go. Check your overview.”
+
+It took me a moment before I found what he was talking about.
+
+Mana: 170/70
+
+“This is mana?” I croaked, still trying to contain the energy within.
+
+“Just so. Mana, solidified into any material that will accept it, adjusted to fit the standards. Minor coins, like these, are worth a hundred mana. Then you have regular coins, worth two hundred fifty mana each, while large coins are worth five hundred mana. Any merchant worth their trade will have an instrument to check that the mana is still sealed and accurate.”
+
+That was intriguing. I looked at the flattened piece of scrap metal with a newfound respect. Then I watched my mana, as it dropped down a point. Damn. So, it was temporary if I went over my limits. That had been too good to be true. “Who uses that much mana, though?”
+
+He scoffed. “Besides high-level Mages, you mean? Crafters like myself are known to churn through a lot of mana in a day. Creating something exquisite is costly. Yet, as you know, all classes can gain mana-expensive talents. Just… don’t try to internalize any larger coins yet. Holding too much mana with limited Mental Power can be… damaging.”
+
+I blinked at that. Point absolutely taken. Also, it wasn’t like I had any talents that cost a lot of mana. I did enjoy the fact that now, I had a bag of around a hundred and fifty of the smaller mana coins, and twenty-two of the medium mana coins. I wasn’t sure how much that was in the whole scheme of things, but I didn’t feel poor.
+
+After we got rid of the bodies, I got Cuilcis to tell me about his own plans and specialty. That turned out to be an exercise in futility. Why? Because he was a generalist Crafter.
+
+“I am aware that my kind are rare, and often looked upon with scorn. Without specializations, we might not reach the heights that specialized Crafters can. Yet, there is one thing I can do, that specialized Crafters cannot. I can adapt. I can craft potions, weapons, armor, food, any sort of thing, with ample bonuses compared to somebody without the Crafter class. In larger cities, my kind will be wasted and overshadowed by better, more specialized competition.” His short arm waved in the direction of Last Chance. “In a place like that, where competition is limited? I will flourish.” After a moment, he added, almost as an afterthought. “Besides, crafting is not my real specialty. Knowledge is. The gathering of facts and gossip, dissemination of truths and how to use it.”
+
+That, if anything, confirmed to me that I would be better off keeping Cuilcis alive. Not that I trusted him, or even believed him when he said his kind couldn’t lie. Yet, the simple fact that he gathered knowledge and I was fucking clueless, promised a match made in heaven. For me, at least.
+
+On top of that, I imagined that, once I got to know the area a bit, I’d need a whole lot of additional gear crafted. Especially some armor that wasn’t made for somebody half my weight. These damn leg protectors chafed like a motherfucker.
+
+I didn’t sleep that night. Sure, I’d made my peace with needing to stick around Cuilcis. I also didn’t expect him to try to jump me during the night. Yet, I wasn’t taking any chances. If I actually survived the next few days, I might be able to find a spot where I’d be able to lower my guard and relax a bit. But not yet.
+
+I did get a chance to look over my gains from the battle. The single level I gained, raising me to eighteen was a bittersweet reward. Sure, it felt a bit iffy to be rewarded for slaying sentient beings – but mostly, I’d have to admit, I was growing increasingly frustrated by how I was constantly set back from my decision to earn Burgeoning Aggression. Again, I was down to almost nothing. I had a single talent point and attribute point ready to use at whatever I needed them for. But I wasn’t going to second guess myself. Deflect had worked wonders in the battle.
+
+My skills earned a serious workout. My main contenders, to no surprise, were my Shield, Piercing Resistance and Resilience skills which all increased by two. Having yourself run through multiple times, having your shield wrap around your goddamn arm because you’ve been hit so bad and getting yourself electrocuted would do that. That last punch from Harten earned me two new, interesting debuffs – a medium bone contusion debuff that gave me a -5 to Fortitude, and a minor internal injuries debuff adding on another -3 to Fortitude.
+
+I realized that those types of debuffs were actually really dangerous to me, given the knock-on effects from my quirks and talents. My max health, usually topped out at seven hundred and seventy with my latest addition to Fortitude, now rested at five hundred fifty. I really needed to avoid this sort of debuffs.
+
+Then we had the rest. The chaotic mess of a battle had earned me a single increase in pretty much everything else. Say what you will about Ademia, it put truth to the age-old saying about things not killing you making you stronger. And my Shield skill was absolutely taking the lead by now, having reached an impressive nineteen. I believed I could feel it too. The heft, the solidity of it. When I wore my shield, I felt like it would take overwhelming force to knock me off my feet.
+
+Finally, the fight netted me two new skills, as well as an answer to a fresh mystery.
+
+You have earned a new defensive skill:
+
+Lightning Resistance
+
+Passive skill
+
+Some believe lightning magic to be the same as air magic. That could not be further from the truth. Where air magic is versatile, adaptable and can be subtle, lightning magic is a force of nature, powerful, overwhelming and stunning. You have survived what could have been a lethal encounter with it. Every level in Lightning Resistance will marginally decrease the damage received from lightning magic.
+
+That one came as no surprise. The payload from the arrow? Yeah, that one surprised me. But I’d been tazered before. I knew what electricity felt like. At least I didn’t wet my pants this time.
+
+You have earned a new general skill:
+
+Secrets of the Self
+
+Passive skill
+
+Everybody has secrets. Everybody. Yet, not all care to spend the energy needed to guard them. This skill, when triggered, will help you guard the details of your level, class, health and whichever other details that others might divulge through the use of Identify or similar talents. Every level in Secrets of the Self will be added to your level when calculating whether Identify or other skills are successful, and potentially warn you of anybody using Identify on you.
+
+Cost: 5 stamina per trigger
+
+The description confused me for a bit. Was the skill active or passive? A few seconds of mental spelunking netted the answer. I mentally had to activate the skill. Following that, it’d be working in the background and, supposedly, only cost stamina whenever somebody used Identify on me. Then, I’d have to activate it again.
+
+I absolutely adored it! Not only was it a passive, increasing its effects, it would also help keep my stamina down, and Higher Endurance increasing. Oh, and the part where potential enemies wouldn’t be able to suss out my weaknesses was nifty too.

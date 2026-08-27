@@ -1,0 +1,567 @@
+---
+id: 6db952c8-9a23-5283-af44-8ba6339b9868
+page-type-slug: story-chapter-royal-road
+title: "Chapter 650 - Training Is Fun"
+slug: 0651-chapter-650-training-is-fun
+partOf: mythrans-master-of-all-continued-completed
+position: 651
+ownLength: 5862
+unit: words
+publishedAt: 2018-07-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237923/chapter-650-training-is-fun"
+royalRoadId: "237923"
+---
+
+Teepo woke Ren up at first light, because he knew his friend needed to eat breakfast before doing whatever work needed to be done.
+
+“Uhhh.” Ren moaned and then sighed. “I can't wait for my Sustenance ring to kick in again.”
+
+“Why don't you just pop into the Sanctuary for a few seconds?” Teepo suggested, and Ren's mouth dropped open.
+
+“Son of a...” Ren stopped himself before he cursed. “I am so stupid!”
+
+“So, you are fallible.” Artemis chuckled and kissed his cheek. “You can't think of everything.”
+
+“Something so basic.” Ren shook his head. “I can't believe I missed it.”
+
+Teepo chittered in laughter. “I'm sorry, Ren. I only just thought of it myself, or I would have said something sooner.”
+
+“It's okay, buddy.” Ren said. “On the plus side, I got to cuddle for most of the night.”
+
+“Yes, that is definitely a plus.” Seldanna said. She hadn't moved her head from listening to his beating heart.
+
+“Suniva's still asleep.” Ellaria said and poked the 1 foot tall pixie that was still hugged up to Ren's ear.
+
+“It's more of a trance, I think.” Ren said. “She really loves having access to pure Fire.” He let go of Katori's breast and reached up to gently stroke Suniva's legs, since that was all he could see of her.
+
+“She almost goes catatonic when you're not here.” Artemis said.
+
+“Really? Why?” Ren asked.
+
+“Because of your Fire.” A pixie from the shelf above the bed said. Ren looked up and saw Rainie looking down at him. “She can't get enough of it and she feels cold when you aren't here.”
+
+Ren felt that was true. “I'm sorry about that.” He said as the other pixies looked down from the shelf. “I didn't realize she was that in tune with me.”
+
+“It's not that.” Artemis said. “She's using you to charge herself up.”
+
+“So, she really is converting it to XP.” Ren said. “Her ability must have mastered the last time we were in the Sanctuary.”
+
+“That's what I'm thinking, too.” Artemis said. “Are we heading back in for a few seconds?”
+
+“Not yet.” Ren said and let go of Artemis' breast and use that hand to pat Chenoa's head that was on his abdomen. “Do you feel up to trying again?”
+
+Chenoa knew instantly what he meant, because she had been staring at his private place all night. “M-my K-king, I... I failed so horribly the last time! I don't deserve another try!”
+
+Ren chuckled. “If at first you don't succeed... try, try again.”
+
+“My King... you... are too kind.” Chenoa said as she stroked him through his underwear. “Another chance.” She whispered. “I couldn't ask for anything more.”
+
+Ren stored his underwear and she didn't hesitate to start pleasing him. Her body started to glow right away and the other three succubi were touching Ren directly, so they were getting a direct feeding of the sensual pleasure Ren and Chenoa were feeling.
+
+“Good... good...” Ren said as she worked on him. “Use my reactions... my emotions... make use of... oh, yeah... that feels good, Chenoa.”
+
+“Mmm hmm.” Chenoa moaned around him, and he throbbed for her. Her technique faltered in that instant as she felt his spike of pleasure, so she paused and tried to not be overwhelmed by it, then continued. “Mhmm!” She moaned for him, and she didn't falter this time and kept going.
+
+“Y-yes, adapt... and... and tongue... oh, damn.” Ren closed his eyes and let the feelings flow over him. All four of the succubi were glowing at this point and were along for the ride. It took several more minutes before Chenoa got Ren close, and then she hesitated.
+
+“You must learn to accept the failure.” Seldanna said and touched the top of Chenoa's head and shared her strength. “As Ren says, adapt. Grow strong.” She said, and they all felt Chenoa's resolve as she continued. Ren's emotions spiked as he finished and Chenoa gasped as she tried to accept it. After a couple of seconds her eyes rolled into the back of her head and she collapsed.
+
+“My King?” Seldanna looked at Ren.
+
+“Just... wait a few seconds.” Ren said and took several deep breaths. “Okay. Katori is closer.”
+
+Seldanna smiled and nodded. “Katori.”
+
+Katori rolled Chenoa onto her side and took her place, then tried to clean Ren up.
+
+“Ellaria.” Seldanna said and Ellaria moved down the bed to quickly take over. They felt Ren's emotions spike again and then Katori reacted just like Chenoa. Ellaria didn't wait, however. She eased the other succubus aside and continued for nearly 5 seconds, then collapsed as well. Seldanna waited several seconds before she made the attempt.
+
+Seldanna knew she was going to fail and she faced the task confidently, because she knew that with enough practice, one of these days, she wouldn't.
+
+The Wind Pixie cast Silence around the shelf. “Are we really seeing what we're seeing?” She asked the others. “He's letting succubi feed from him willingly?”
+
+“Apparently.” Shanna said. “Rainie, what do you think?”
+
+“Mm muh.” Rainie mumbled.
+
+“What was that?” Shanna asked and looked at her friend. She saw that Rainie was breathing heavily and was touching herself. “Rainie, what are you doing?”
+
+“I... can't you... feel... oh, OH!” Rainie gasped as she finished with Ren, then collapsed onto the shelf as Water poured out of her.
+
+“Rainie!” The other pixies rushed to her through the flood and Shanna turned her friend over so she wouldn't drown in her own ability. The other pixies stared as the Water floated up into the air above them, then it changed into rose petals and covered them.
+
+“What... what is this?” Shanna asked.
+
+“R-Ren.” Rainie panted.
+
+“He can do that?” One of the others asked. “He changed one element into another?”
+
+“Water... to Earth.” Rainie said. “He... he's mastered his... affinities.”
+
+“How?” Shanna asked. “I figured he at least had Fire because of Suniva, and maybe Water because of the Sea Dweller Princess and everything.” She said and stroked her friend's face. “Now he has them all?”
+
+Rainie nodded. “Felt it.” She took a breath and let it out. “So... powerful.”
+
+“Are you okay?” Shanna asked. “I've never seen you lose control of your element before.”
+
+“I couldn't hold it.” Rainie said with wide eyes. “For the first time, I couldn't hold it back.”
+
+“That's really scary.” One of the others said and rubbed her arms.
+
+“It is.” Suniva said, and they all turned to look at her. She was flying in front of the shelf with her full wings deployed and fluttering. “It took years for Ren to let me share his emotions.”
+
+“Y-years?” One of the other pixies asked.
+
+“Hey, wait.” The Wind pixie said. “How did you hear us talking?”
+
+“We all heard you.” Suniva said and waved down at the bed, and all of the pixies looked over the edge of the shelf and saw everyone looking up at them. Ren had cast Energize on the succubi to wake them back up and had equipped his High Elven Court Uniform.
+
+“Well, damn.” The Wind pixie said, and Ren chuckled.
+
+“I felt the Mana when you cast the spell and dismissed it.” Ren said.
+
+“Does that mean we won't have any privacy?” One of the others asked.
+
+Ren laughed. “I just wanted you to know that you need to be careful.” He said. “What if you're outside and try to talk privately and cast the Silence spell? Would you still talk completely openly and not even check to see if the spell is in effect?”
+
+The pixies exchanged looks and then looked back down at Ren.
+
+“You weren't just trying to listen in?” Shanna asked.
+
+Ren shook his head. “If I wanted to keep an eye on you, I have other ways to monitor you.”
+
+“That's... not a comforting thought.” The Wind pixie said.
+
+“Neither is having someone trying to hide their conversation in plain sight.” Ren said. “I have to assume you're talking about me when you do that.”
+
+The Wind pixie sighed. “It's just...”
+
+“I can feel that you're not comfortable with just talking normally with so many new people around.”
+
+“That's Ren's polite way of saying 'non-pixies'.” Suniva said, and the pixies giggled. “How are you, Rainie?”
+
+“I'm okay.” Rainie said. “That was... how can you stand it?”
+
+Suniva landed beside her friend and helped her stand. “It's taken a while to just enjoy the feelings without letting them overwhelm me.” She said. “Of course, sometimes I just let Ren worry about it and let everything go.”
+
+Rainie and the other pixies gasped. “Suniva!”
+
+Suniva chuckled. “Honestly, it's not that big of a deal.”
+
+“You just said that... that you...”
+
+“Yes, I surrendered myself completely to him.” Suniva said.
+
+“I don't think I can do that.” The Ice pixie said, and they saw her cold breath.
+
+“He will never ask you to.” Suniva said. “Even if you decide for yourself that you want to, with all of your might, he will still ask and make sure you want to.” She chuckled. “It's quite frustrating, actually.”
+
+“Hey!” Ren said.
+
+“It really is.” Artemis said, and the succubi laughed.
+
+“All right.” Ren said and climbed off of the bed. “I've got work to do.”
+
+“In the Sanctuary?” Teepo asked. Ren nodded and Teepo dissolved into the ring.
+
+Artemis equipped her jeans and t-shirt and stood next to Ren.
+
+“Rainie, would you like to come with me?” Ren asked.
+
+Rainie blinked her eyes for a few moments. “You... you want me to... to...”
+
+“No no!” Ren waved his hands no. “You're more like my family, remember?”
+
+Rainie nodded. “We're like cousins. There's no... well, there's some sexual tension now.” She said and the light blue skin of her face went to a darker blue. “I felt really good, but... it also felt a little weird.”
+
+Ren chuckled. “I know. I felt the same thing about you.”
+
+“Then... how...” Rainie looked at Suniva. “The two of you...”
+
+“Our relationship started that way.” Suniva said, and her Fire came out and danced around her hands. The pixies watched in fascination as the flames moved around and formed shapes. “I've always wanted him to please me, and he eventually did.” She said and absorbed the Fire. “Oh, he sure did.”
+
+All the pixies giggled and their faces flushed to the darker colors of their skin.
+
+“I give my word that I won't do that with you, Rainie.” Ren said and held a hand up. “The last thing I want is to ruin our friendship with sex.”
+
+“I don't think it would ruin it.” Rainie said and walked off the shelf, through the air, and stood on his hand. “It sure would strain it a lot, though.”
+
+Ren smiled and activated his Hands of the Gods ability, Refreshing Hands. “How about I just give you something that you might like better?” He asked and pooled the pure Water around his hand and used his Water Manipulation ability to make it into a waist deep pool.
+
+“OH!” Rainie gasped at it's coolness and sat down, which put the pool of Water up to her neck. “Ren, this...”
+
+“Take as much as you want.” Ren said, and Rainie ducked her head under the water and started to suck it in through her mouth. The hidden gills in her cheeks opened up and fluttered as the Water flowed into her. Ren stood there and held her for several minutes, then she burst out of the pool and gasped for air.
+
+“Too... much!” Rainie said, and Ren deactivated his ability and absorbed the Water.
+
+“Easy, now.” Ren said, and held her gently.
+
+“You need to pace yourself.” Suniva said and flew down beside Rainie and pet her hair. “Small bites make a better meal than gorging.”
+
+Rainie looked at her and nodded, and Suniva pat her head.
+
+“Put this on, Rainie.” Ren said and took out a tiny necklace that Suniva had once worn. “It will help you adjust to the time dilation.”
+
+Rainie put it on and felt instantly better. “Thank you.”
+
+“What about us?” Shanna asked.
+
+“I'm sorry, the Sanctuary can only hold one extra person at a time.” Ren said and cast the Portal spell. “We'll be back in about half an hour.”
+
+“Oh, that's not long.” The Dark (Gravity) pixie said.
+
+“See you soon, Rainie!” Shanna said and waved, and Rainie waved as Ren and Artemis stepped through the portal and it disappeared.
+
+“I hope everything goes well.” The Wind pixie said.
+
+“Don't worry. They won't be gone long.” Shanna said.
+
+“Only for a year.” Suniva said.
+
+“WHAAAAT?” The pixies shrieked and Suniva laughed.
+
+*
+
+Rainie had a great time once Ren and Artemis explained the time difference. She was very happy that Ren didn't push her or try to make any sexual advances, despite her being the only other female around. She knew that Ren could make her big if she wanted, but she wasn't sure she would like being so tall. It would also make their limited space that much more cramped, and she didn't want to reduce Ren's available space.
+
+Rainie had watched him working and wondered what he was building, and it had taken her a week to build up the courage to ask him. “What are you doing?” She asked timidly.
+
+“I've got a huge fight coming up and I want to make other attractions besides the water park to reveal afterwards.” Ren said. “How is Pixieland coming along, by the way?”
+
+“Oh, it's great!” Rainie said. “We've all got our designated control areas and we've got things set up to trick, harass, beguile, trap, and fool anyone that comes in!”
+
+Ren laughed. “That's great, Rainie.” He stopped working and stored whatever it was he was working on. “Feel up for another dose?”
+
+“Yes, please.” Rainie said, and Ren picked her up and hugged her to his chest. Rainie hugged him back and wallowed in his comfort and warm feelings. Ren activated his Hands of the Gods ability Refreshing Hands and covered her in pure Water. Since she had taken Suniva's advice to heart, she only opened her mouth and took in a couple of mouthfuls, then closed her mouth and waited. She felt so relieved that Ren wasn't trying to rush her or force her to take as much as she could.
+
+Rainie had been worried he might try that, since that was what he was doing with the succubi; but, all he did was hold her with care and kept true to his word. She could take as much as she wanted, and even if that was only a mouthful once and a while, he never complained that she was wasting his time. When Ren felt that she was done, he stopped and absorbed the Water. He felt her happiness and kissed the tip of his finger, then pressed the finger to her cheek.
+
+“Thank you.” Rainie said and held onto his finger.
+
+“You're more than welcome.” Ren said. “Now, do you feel like playing a game?”
+
+“That depends.” Rainie said and let his finger go. “What is it?”
+
+“Tag.” Artemis said as she came into the room. “Teepo? Are you in?”
+
+“I was born ready.” Teepo said.
+
+Rainie looked at them. “But, there's only a few rooms...”
+
+Ren chuckled and put her on the floor. “ Allow me to ease your fears.” He said and nodded to Artemis. They both equipped armor bodysuits and activated the Store Spell rune that held the Permanent Enlarge or Reduce Anything spell. They both shrank to half their normal heights, then did it again. Ren was only one foot and a couple inches tall, and Artemis was one foot and six inches tall. Rainie stared at them in shock, and they laughed.
+
+“We needed to do something to make this place not seem so cramped.” Artemis said and pat Rainie on the shoulder. “Once you're here for a while, you need to figure out ways to not be bored.”
+
+“We started playing Tag, and we nearly wrecked the place the first time.” Ren said and grinned. “Teepo suggested shrinking to pixie size, and now this is how we always play.”
+
+“Always?” Rainie looked at them. “You like being this size?”
+
+“It's great!” Ren said. “Plus, it gives everyone an almost equal footing.”
+
+“What do you mean, almost?” Teepo said and landed beside them on the floor. “I catch you practically every time.”
+
+“Only because you won't let me use portals.” Ren said.
+
+“How would that be an equal footing?” Teepo chittered in laughter.
+
+“You're serious?” Rainie looked at them. “You all play games like this?”
+
+“Sure.” Ren said and took out a bundle of cloth. “Here. Put this on.”
+
+Rainie took the armor bodysuit that looked similar to the ones Ren and Artemis wore.
+
+“Of course, it took us a few tries to get the hang of being so small, but now we're well-practised.” He smiled. “Artemis was it the last time, so we start with her.”
+
+Artemis smiled and Rainie looked at Artemis' hand on her shoulder.
+
+“You tricked me!” Rainie gasped.
+
+Artemis gave her head a pat and flew up into the air.
+
+“Get back here!” Rainie almost yelled and equipped the armor bodysuit, then used her Permanent Air Walk ability to run up into the air after her.
+
+“We were right here in front of her and she completely ignored us.” Ren said to his best friend.
+
+“Don't worry about that.” Teepo chittered in laughter. “She just caught Artemis.”
+
+“What?” Ren looked up and saw Artemis flying towards him. “Oh, crap!” He and Teepo jumped away from each other and Artemis slammed into the floor at full speed. She left a huge crater in the thick wood floor and the stone block underneath.
+
+“Go! Go! GO!” Teepo chittered in delight as he flew away and Ren sprouted his leather wings and took off in the other direction.
+
+Artemis stood up and brushed off the dust. “You won't be so lucky this time!” She exclaimed and took off after Ren.
+
+*
+
+“We're coming up on half an hour.” Suniva said.
+
+“Suniva, why aren't you all cuddled up in a ball?” The Ice pixie asked.
+
+“Ren's here.” Suniva said. “It doesn't matter where he is while he's here, as long as he's here.”
+
+“That doesn't make sense.” The Dark (Gravity) pixie said.
+
+“If you knew Ren, it would make perfect sense.” Seldanna said. She and the other succubi had equipped their bikini tops and were lounging on the bed while they waited. “Just the thought that if you try hard enough, you can reach him, is a balm to the heart.”
+
+“That's it exactly.” Suniva said. “When he goes on Adventurer's business, nothing we can do could ever bring him back here before he comes back on his own; but, if he's already here, there's always a chance you can get him to return or go to him instead.”
+
+“Being his has it's own perils, however.” Seldanna said. “Like this upcoming fight.”
+
+“I overheard some Adventurers talking about it.” The Lightning pixie said. “When is it?”
+
+“It's in two days.” Seldanna said. “We will stand by him and face this threat together.”
+
+“W-w-we?” Shanna the Earth pixie asked.
+
+Suniva laughed. “She means the succubi.”
+
+“Oh.” Shanna said. “That's a relief.”
+
+Seldanna didn't stand up, but her presence in the room increased tenfold. “Would you not give up your life for him?” She asked in a deadly voice, and Shanna shivered.
+
+“That... that's not...”
+
+“Seldanna, please calm down.” Ellaria said and touched her arm, then gasped as she received her direct emotions. “I meant no disrespect.”
+
+Seldanna sighed. “Yes, you're right. I can't expect pixies to be brave.”
+
+“What did you say?” The Dark (Gravity) pixie asked and held a hand out to Seldanna, who now felt twice as heavy. “Succubi are the ones who are cowards by nature! You always run from a fight!”
+
+Seldanna held her wings in close to her body and stood up, and the Dark pixie was surprised and lost her concentration. “Yes, pixie. Succubi normally would run from a fight, but only because we want to avoid fighting directly, not because we are cowards.” She said and unfurled her wings. “Ren gave us resolve! Courage and unity! Weapons and abilities far beyond what we normally have!”
+
+Everyone looked at her and she glowed slightly.
+
+“Because of him we are more than what we were, and as he keeps helping us, we will become even stronger than this!” Seldanna said, and her presence in the room doubled.
+
+“Ugh.” The pixies felt like the room was growing smaller, too small for them to fit in it, and they started to kneel.
+
+“Seldanna, please stop.” Suniva said, unaffected by Seldanna's ability. “They understand.”
+
+“I hope so.” Seldanna said, and her presence vanished. The pixies caught their breath and stood up straight. “Ren is a good man and he takes care of his people.” She said. “He won't ask you to fight unless he knows you can handle it.” She smiled. “We have gone through a lot together, and I am more grateful to him than I thought I could ever be.”
+
+“Also no contracts to bind us.” Ellaria said. “That alone made me fall for him.”
+
+Katori chuckled. “His emotions being so pure had nothing to do with it, did it?”
+
+“Not a bit.” Ellaria said, and the other succubi burst out laughing. “What? That wasn't a blatant lie.”
+
+Seldanna pointed to the shelf and the pixies were giggling. “You made them laugh.”
+
+“Oh, damn.” Ellaria said, and they all laughed harder.
+
+Right then a portal opened at the side of the room, then Ren, Artemis, and Rainie stepped out. Ren summoned Teepo and Rainie caught sight of Suniva flying near the shelf the pixie beds were on.
+
+“Suniva!” Rainie exclaimed and jumped into the air as she shrunk two sizes and became her normal 1 foot height. She ran through the air and stopped beside her friend to give her a hug. “It's been so long!”
+
+“For you.” Suniva chuckled and gave her a quick hug back. “Shanna's right there.”
+
+“Shanna!” Rainie exclaimed and ran over to the shelf and hugged her other friend.
+
+“You look great for being a year older.” Shanna said and Rainie giggled.
+
+“You can't imagine what it was like.” Rainie said and let her go. “If we didn't have Teepo keeping track of the time, we wouldn't even know what time of day it was, let alone how long to stay in there!”
+
+“That sounds scary.” The Wind pixie said.
+
+“I knew what day it was, but I can't keep track of everything like Teepo.” Ren said and pat the beetle on his shoulder.
+
+“Are you all done, My King?” Seldanna asked.
+
+“I'm tempted to say yes, since I have all the things I wanted made for the county ready.” Ren said. “Unfortunately, I have something else I need to do.”
+
+Seldanna nodded. “I assume you came back to gather resources.”
+
+Ren smiled. “You're very astute. We just came from the warehouse.” He said and looked at the pixies. “Like I said before, I know Rainie and Shanna. I think it's time the rest of you introduced yourselves.”
+
+The pixies walked to the edge of the shelf and stood at attention, and the closest pixie put her hand over her heart.
+
+“I am Luparia Winterborne.” The Ice Pixie said. She had sharp features and a cold demeanor.
+
+The next pixie put her hand over her heart. “I am Breeze Cloudytwist.” The Wind pixie said.
+
+“I am Indigo Sparkshard.” The Lightning pixie said, and electrical sparks flickered between her fingers.
+
+The last pixie moved slowly and put her hand over her heart. “I am Isle LeChoufall.”
+
+Ren looked at them all, and he felt their emotions. “Ice, Wind, Lightning, and Dark.” He said and nodded to them. “With Shanna, Rainie and Suniva, Earth, Water and Fire respectively, it's almost a full set.”
+
+“That was our intention.” Luparia said, coldly. “We assumed it would amuse you and put us into your good graces.”
+
+“Luparia!” Indigo said. “Too much information!”
+
+Ren chuckled. “Actually, if Shanna isn't too upset by it, I'd like to take you this time, Miss Winterborne.”
+
+“What?” Luparia and Shanna said at the same time.
+
+“You assumed correctly, but not for the right reason.” Ren said and smiled. “I enjoy meeting new people. Especially brutally honest people.”
+
+The pixies looked at each other, because they knew he was telling the truth, and looked back at Ren.
+
+“Will you accompany me?” Ren asked and held his hand out.
+
+Luparia glanced at Shanna, who shrugged. “Very well.” She said and walked through the air to stand on his hand.
+
+“I'll be back for the others in due course.” Ren said, cast a Portal spell, and Teepo dissolved into the ring. Artemis took Ren's other hand and they stepped through the portal.
+
+“Rainie.” Shanna said. “Can you tell us what you did in there?”
+
+“What didn't I do!” Rainie giggled, and saw their reactions. “No! Not... not that.”
+
+Suniva laughed. “There's no guarantee he'll do the same things with you.” She said, and the other pixies looked at her. “We're tied to different elements, remember?”
+
+“We are.” Rainie said and a thin film of water formed around her. “He knows so much.” She said and the water extended to form a sword and a shield in her hands. A second later, they were solid and stronger than steel, as was the layer of water around her.
+
+“You learned that in a year?” Suniva asked, and Rainie nodded. “Dammit. It took me three.”
+
+Rainie giggled. “Ren told me you might be upset.” She said and took something out of her inventory. “He said to give you this.”
+
+Suniva took the scroll and opened it. She read the contents, then read them again. The other pixies stared at her as she hugged the piece of parchment to her chest and a tear came to her eye. She took a deep breath, the parchment burst into flame and disintegrated, and she exhaled.
+
+“What did it say?” Shanna and Rainie asked together.
+
+“N-nothing... that concerns my friends.” Suniva said and smiled. “Rainie? Did they let you play tag?”
+
+“It was great!” Rainie giggled. “Ren and his friends are so much fun!”
+
+Yes, they are. Suniva thought as Rainie started the first of many stories about the games they played.
+
+Half an hour later, a portal opened up in the same spot across the room, then Ren and Artemis stepped out. Ren summoned Teepo and then carried a bundle of Ice over to the shelf.
+
+“L-Luparia? LUPARIA!” Indigo yelled.
+
+Ren walked up into the air and laid the solid block of ice onto the bed behind where Luparia had stood. Indigo pet the ice block and tears formed in her eyes, then she turned to look at Ren as tiny Lightning bolts sparked out of her shoulders.
+
+“What. Did. You. Do. To. Her.” Indigo ground out through her clenched teeth. Ren kissed his fingertip and touched Indigo's face with it. She gasped and put a hand over the spot he had touched and her Lightning disappeared.
+
+“Luparia said to give you that, and that she wanted you to go next.”
+
+“Wh-what?” Indigo stared at him for a moment, then looked back at the block of ice. “She... she said that?”
+
+“She said, and I quote, 'Help her hold her temper'.” Ren said. “Then she made these odd noises like ice scraping and formed this thing around herself.”
+
+“When?”
+
+“Two months ago.” Ren said.
+
+“Two months!” Indigo glared at him. “Why didn't you bring her back right away?!?”
+
+“She told me not to.” Ren said honestly, and Indigo didn't know what to say. “If you need more convincing, I recorded it.”
+
+“Wh-what?” Indigo said.
+
+Ren took out a tiny box and cast Full Illusion and chose the message Luparia had wanted Indigo to have. Everyone watched the cold plea from the Ice pixie to her good friend, and Ren put the box away.
+
+“I had hoped she might have... well... melted before now.” Ren said. “She's still alive. Suniva, Rainie, Artemis, Teepo, and the succubi can attest to that.”
+
+“I... I don't... want to leave...”
+
+“Maybe she'll be out by the time you get back.” Artemis suggested. “You saw her. She was pretty adamant that you had to be next.”
+
+“How could you tell?” Suniva asked. “She seemed the same cold as always.”
+
+Ren smiled and pet the ice block. “There are many degrees of cold, and she could express more in a glance than most people can in a whole conversation.”
+
+“Th-that's true.” Indigo said and touched Ren's hand on the ice block. “If she said I should go, I will.”
+
+“Thank you.” Ren said and turned his hand over.
+
+“I won't forgive you for putting her through this.” Indigo said. “Or me.”
+
+Ren held her gently to his chest after giving her a pendant. “I won't ever ask you for something I don't deserve.” He cast another Portal spell, and Teepo dissolved into the ring as Artemis followed Ren back inside the Sanctuary.
+
+“What just happened?” Shanna asked.
+
+“You got passed over again.” Suniva smiled, and Rainie giggled.
+
+“That's not what I meant!”
+
+“They know.” Seldanna said and touched the ice block. “Ow.” She said and her fingertip was partially frozen.
+
+“Allow me.” Suniva said and generated some Fire, then used her Fire Manipulation ability to form a ball of Fire around Seldanna's fingertip. After a few moments, Suniva absorbed the Fire and Seldanna's red finger was no longer partially frozen.
+
+“Thank you.” Seldanna said and flexed her fingers. “I wonder why Indigo could touch it without injury?”
+
+“She didn't actually touch it.” Rainie said and held her solid water covered hand up. “She has a Lightning field over her whole body just like this.” She was tempted to keep telling them stories about what she and Ren did for a whole year, but it didn't seem as fun with Luparia stuck in a block of Ice.
+
+Half an hour later, a portal appeared and Ren, Artemis and Indigo stepped out. Ren summoned Teepo and Indigo walked over to the shelf. She looked really angry, then shrunk down to a pixie's normal size and made a fist.
+
+“That's enough!” Indigo said and Lightning formed a ball around her fist. “I figured it out, so stop hiding!”
+
+The ice block didn't react, and she didn't feel any difference in Luparia's emotions.
+
+“All right, then. I warned you!” Indigo said and slammed her fist down onto the ice block. It shattered into thousands of pieces and started to fly in every direction, then they stopped moving barely an inch away from where the block used to be. The ice flew up and then over to Ren so he could absorb it.
+
+“It's growing back!” Shanna said and pointed as the ice block started to reform.
+
+“Stop it, Luparia!” Indigo said and grabbed her friend by the neck and picked her up. Ice started to form on her hand, and she sent a bolt of Lightning out and broke it apart. “Stop it!” She shook her friend. “You can have more than one friend! Do you understand? More than one! We both can! We can have more than ONE FRIEND!”
+
+The ice that was starting to reform stopped, then faded away. Luparia took a breath and opened her eyes.
+
+“You will always be my very good friend, just like I hope that I can always be yours.” Indigo said. “We can, and do, have more than one regular friend.”
+
+“Indigo.” Luparia said coldly. “I'm sorry.”
+
+“So am I.” Indigo said angrily.
+
+“You didn't work on your anger.” Luparia said and ice fog came from her mouth.
+
+“I did! I made it into a tool and I can control my Lightning much easier with it!” Indigo spat at her.
+
+“That's very good.” Luparia said frostily and ice formed on her lips. “I missed you very much.”
+
+“I missed you, too!” Indigo almost yelled, then a moment later, they hugged.
+
+“I believe Shanna is next.” Ren said and held a hand out to her. “I'm sorry you got shuffled down a couple of spots.”
+
+“Well, at least you came back.” Shanna said and stepped onto his hand. “What do I have to look forward to?”
+
+“I have no idea.” Ren said and smiled at her surprised expression. “We'll find out together.”
+
+Shanna nodded and Ren cast another portal, Teepo dissolved into the ring again, then Ren and Artemis stepped through the portal. They were gone for another half an hour and came back, and Shanna was covered from head to toe in dirt.
+
+“Shanna, what's going on?” Rainie asked her friend.
+
+“You were right, Rainie! It was so much fun!” Shanna said and hugged her friend, but the dirt didn't shift or make a mess on her friend.
+
+“I mean about the dirt.”
+
+“Oh! Its my armor.” Shanna said and turned around. “Isn't it great?”
+
+“But...”
+
+“It's just like yours! Except it's solid Earth and not solid Water.”
+
+“Will armor made of dirt be of any value?” Seldanna the succubus asked.
+
+“It's quicksand!” Shanna said happily. “Can you imagine it! It's quicksand armor!”
+
+“That's amazing!” Rainie said.
+
+Ren took Breeze the Wind pixie next. They disappeared for half an hour and came back with Breeze surrounded by solid Wind around her for armor.
+
+“Miss LeChoufall, you are last in the pixie lineup, but not least.” Ren said and held a hand out to her.
+
+“Do you think you can hold me?” Isle the Dark (Gravity) pixie asked, and Ren chuckled.
+
+“Let's find out.” Ren said and she stepped onto his hand as she activated her abilities. She caught her breath when he didn't even struggle to hold her up, then he held her close to his chest. Ren left with her and after another half an hour, they were back. Ren walked over to the shelf and sat Isle onto her bed.
+
+“Isle, what's wrong?” Rainie asked.
+
+“I kind of blew her mind.” Ren chuckled. “I didn't really think that was possible; but, she was beyond surprised when I showed her what she could really do with her abilities.”
+
+“Is she going to be okay?” Shanna asked.
+
+“Sure. She's just trying to figure out how I made her completely weightless before coming through the portal.”
+
+“You made her weightless.” Suniva said, surprised. “How?”
+
+“I cheated of course.” Ren said. “I'll show her how I did it, if she can't figure it out by the time I come back.”
+
+“You're going again?” Seldanna asked. “You have more work to do?”
+
+“Yes, and if you would do me the honor, will you please accompany me?”
+
+“You want me to go with you into your Sanctuary?” Seldanna asked.
+
+“I've taken almost everyone else. It's only fair that you have a turn.” Ren said.
+
+“My King, it is I who would be honored.” Seldanna said and took his arm as if he was escorting her somewhere very important. Ren cast another portal and led Seldanna and Artemis back through it.

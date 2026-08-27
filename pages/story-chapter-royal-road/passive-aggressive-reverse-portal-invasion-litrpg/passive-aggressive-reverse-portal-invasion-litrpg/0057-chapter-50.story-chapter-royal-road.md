@@ -1,0 +1,179 @@
+---
+id: 922a1e46-0ba6-5c5d-8d58-bb027293c2c1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 50"
+slug: 0057-chapter-50
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 57
+ownLength: 2949
+unit: words
+publishedAt: 2026-08-03
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3762114/chapter-50"
+royalRoadId: "3762114"
+---
+
+For a split second, the world crystallized. Everything froze, and it seemed like I had all the time in the world to take in the sight of what was coming at me. A woman, yes. But one who was a head and a half taller than me, quite a bit wider around the shoulders, and who probably weighed at least twice what I did. Judging from her bloodshot eyes, she was also fully and entirely out of control. Her four fists pumped in concert as she ran, flinging herself at me.
+
+Nix’s talent activated first.
+
+I never saw Haddock’s construction. It probably materialized somewhere well up in the air above and behind me, tethered to the ground by a long pole or something. Yet I felt the remnants of the barrage of water from Nix’s Flash Flood thrumming down on and around me. And I definitely didn’t miss the vision as the remainder of the talent, imbued with all the force of Nix’s impressive Mental Power and further sped up and directed through Haddock’s funnel struck the charging maniac dead on.
+
+One moment she was racing toward me, looking like she was just going to plow right through me. The next, she was flung back end over end, as a barrel-wide seemingly unending spout of water struck her with the force of an industry-strength pressure washer.
+
+The water eventually cut off, and she slid the last few meters across the ground as the wave tapered off.
+
+I held up a hand. “Ready for another one!”
+
+As the Gold-Rot got to her feet, the sheer malice in her face threatened to kill me dead right on the spot. As she sped back up, a ferocious howl bursting out of her, I realized with a burst of relief that she wasn’t actually that much faster than me.
+
+Right on the top of that realization, however, came a more inconvenient fact. Sure, one of her sleeves had been torn right off and was hanging around her wrist. Yet, her armor looked entirely unharmed – if anything, the water had given it a bit of a shine – and so did she. If she’d been hurt, she was hiding it well.
+
+Another Flash Flood emerged. This one was even thinner than before. Maybe Haddock was playing around with the thickness of his funnels, trying to add some sort of cutting effect to the water. I’d never know. Because it shot out the air behind my head, aiming straight for her and – missed. Entirely.
+
+The stream was dead on. But one moment, the Gold-Rot was right there. The next, she bent and leapt, and a shimmering sheen of energy flung her supernaturally fast two meters to the side, well out of the range of the Flash Flood.
+
+I groaned. That was clearly a talent. As long as she spotted any attacks coming at her, she’d be able to avoid them. On top of that, if she was tough enough to take a hit like that and keep going, we’d be hard pressed to hurt her in the first place.
+
+She raced toward me, without any intention to stop for anything.
+
+I had no clue how we were supposed to protect Cuilcis from her. I hefted my shield and wondered if she’d even bother facing off against me or just zoom right past with that talent. Then, I recalled something about one of Haddock’s talents. “Put us in the ground! Both of us!”
+
+A week ago, he’d never have been able to do it, especially this fast. He simply didn’t have the Mental Power and Control needed to handle such a speedy and massive effect. Yet, now, my heart tried to leap into my throat, as the soil disappeared below me, depositing me on my knees in a roughly circle-shaped earthen pit, maybe seven meters below the edge of the ground.
+
+Right in front of me in the pit, taking a single half-step to catch her footing, was the Gold-Rot. And boy, she did not look happy. She took a single, hard glance at the edge of the pit above her. Then her gaze slowly lowered toward me. And the angry lady went a-murdering.
+
+I made the best decision of my life in a split second. It wasn’t anything I’d even thought about beforehand. Some heretofore unused part of my brain simply looked at the four fists on the enraged woman bearing down on me and went ‘Nope. One shield isn’t enough. We need more.’ And before I knew it, my right hand was holding onto the Adrastian’s tiny buckler, in an attempt to help stave off my death.
+
+Having four fists would have to play hell on your balance. That, and you’d probably not be able to apply the same level of strength and momentum to your blows, since your body couldn’t apply the same level of torsion and force to two strikes at once.
+
+This, of course, wasn’t anything I had time to consider as fists flew at me from everywhere.
+
+The number of attacks coming for me were insane. My Perception wasn’t up to the task of following along. My Agility just barely helped me adjust my shield and buckler in order to evade the worst of the onslaught.
+
+Fighting a four-armed woman is weird. We aren’t exactly equipped with the muscle memory to anticipate how she’s supposed to move. Also, what do you even call the arms? The two upper arms were more muscular than the lower ones, but they were all clearly fully functional and trying to get to me.
+
+A dozen attacks pummelled me in seconds, pushing me back and off balance.
+
+Reeling under the onslaught, I found the wherewithal to spot the single attack arriving with true momentum out of the myriad of feints and cheap punches.
+
+Whoever that pissed-off lady was, she didn’t know me either.
+
+Her heavy blow struck the corner of my shield. It had enough strength and momentum behind it, that the force nearly bashed my shield back into my own head. But it also activated my Deflect talent. And my Wave of Reflection.
+
+Deflect jerked back her upper right arm, with a crapload of extra momentum added for inconvenience. She didn’t pull anything, but the backlash threw the rest of her punches off.
+
+I rewarded her with all the punishing damage from Wave of Reflection, straight to the face!
+
+Taking several cubic meters of pressure-washer-strength water to the face hadn’t done anything beyond pissing her off. Yet, the dark wave of damage coursing straight through the Gold-Rot’s head seemed to sober her up slightly. She rocked back, beyond what Deflect by itself had managed. Then she seemed to see me for the first time. With a snarl, she took two steps to the side, and leapt to escape the pit.
+
+Fighting the Adrastians had proved to me the value of Agility. Even the young man, who’d seemed like he was barely beyond his teenage years, had moved with the epitome of grace. They’d flowed, rather than moved, a product of natural adroitness and plentiful Agility.
+
+The Gold-Rot didn’t truck with that crap. Her hands slammed into the sides of the pit, and she flung herself upward with sheer strength and unstoppable energy. She didn’t need handholds. She made handholds.
+
+I… couldn’t do shit. She hadn’t hit me with any magic to activate my Wheel of Magic, and even if she had, there’d be no way for me to stop her before she got out.
+
+Steve stepped in where I couldn’t. Mid-leap, the Gold-Rot suddenly screeched and let go, flinging herself backward and away from the wall with her legs. Steve faded into existence above her, spear outstretched, tip wet with blood.
+
+She hit the ground hard, rolled, and flung herself up with a growl, panting hard.
+
+“That’s right.” I snapped. “You’re not getting out of here. You’re caught down here, with me. You want trouble? You found it! Now fucking talk to us!”
+
+By now, I’d eked a way to survival through extremely varied struggles. One thing they all had in common, however, was the fact that nobody had managed to understand what they were up against.
+
+The Gold-Rot was different. Blood-shot eyes, unhinged attitude and furious rage aside, she did something my other enemies hadn’t.
+
+She observed. She tested me. And then she adjusted.
+
+The next series of strikes against my shield was weaker. Testing. I still unleashed a Wave of Reflection against her and made her pay.
+
+Then, she got inventive. She started feinting, dodging and weaving, moving back and forth between graceless stumbling and powerful bounds that moved her farther than I’d imagined she could. Her hands were everywhere. My Deflect worked overtime, trying to keep her off balance.
+
+Nix was shouting encouragement and advice down from above. It was likely well-meant, but it was also absolutely useless. I heard the words “Hit her!” more than once.
+
+Haddock, meanwhile, had added a spike-tipped edge to the upper half of the pit. As long as she couldn’t use that leaping talent of hers to escape somewhere she couldn’t see, there’d be no escaping for her. However, that also meant there’d be no escape for me.
+
+She feinted. Two attacks landed on the left, but softly, causing no real damage. On the right, her upper hand managed to snake around the edge of my shield and get a good grip on the edge of the shield.
+
+Her grip was steel. Whatever her Strength was, it was way above mine.
+
+I heard a voice from above. “Oh, fuck it. I cast Fireball.”
+
+“Nix, no!” I growled, even as another hand grabbed at the edge of my shield. I got my smaller buckler in place and managed to fling the hand away with a well-timed Deflect.
+
+Out of the corner of my eye, an orange sheen started pulsing.
+
+“Nix, dammit! My poor balls.” I shouted.
+
+The Gold-Rot looked confused. Her hands still grabbled for the edge of my shield, slowly gaining control.
+
+I twisted to the side, hiding myself behind the shield and the woman. That got me nearly in range of her grasping arms.
+
+She reached out, now behind the shield.
+
+The Delayed Firebomb exploded.
+
+For a short, painful while, there was nothing but fire and pain. Then, the world resumed, and I scrambled away from the Gold-Rot, shield in my hand again.
+
+I was down a hundred and fifty health. Still plenty left in the tank. Yet, trapped in this small pit, where the fire had nowhere to escape, the burning energy had really gone to town on me. The silver lining of this crap sandwich was that, now, I’d been damaged enough to activate Wheel of Magic. Which I did. Instantly.
+
+The battered woman had been flung off her feet and lay against the side of the pit. She was still climbing to her feet when the first spoke fired a blob of dark green energy at her face.
+
+She went insane.
+
+Before, she’d been in control. Now, she flung herself at me, shrilly howling at the top of her lungs, ceaselessly grasping, carving, trying to punch me, pull at me, tear at my shield, my armor, anything.
+
+I dodged and weaved, leapt and repositioned, trying to avoid her hands. But they were everywhere. Another orange sheen emerged behind her, but our chaotic struggles took us straight through the fiery primer, and the damn talent cancelled.
+
+One large hand grasped around my tiny-ass buckler and pulled.
+
+I tried to hold against it, but her Strength was overpowering, and it didn’t count as an attack that would allow me to activate Deflect or Wave of Reflection.
+
+The buckler hit the wall of the pit with a thud, clattering to the ground. Meanwhile, the Gold-Rot took three of my magical missiles to the face and chest and barely blinked.
+
+Her next charge managed to nudge my shield out of the way, and one fist hit me in the liver, with enough force to make me see read and drop my health by at least eighty points. I did manage to activate Wave of Reflection – barely – making her pay for it. But it looked like, even with the percentages stacked up in my favour, she’d outlast me.
+
+The realization hit me. She was like me. Somebody who’d built herself around Fortitude, and increased her resistances and defense, to the point where she’d be able to shrug off attacks that would kill lesser people. Her talents, apart from that leaping thing, were likely the same, boosting defenses and her fist fighting skills. Of course! That was how she survived collecting materials in the wilderness by herself. She outlasted them, and slowly ground them down.
+
+That was supposed to be my fucking shtick! Except, she did it better. She was stronger, slightly faster, and worse, she’d somehow seen through what I could do and adjusted accordingly. “I need some help here. I’m not surviving this on my own!” I gritted my teeth and extracted my good old swordbreaker from my Personal Universe. Then I set myself and prepared for a long, painful grind.
+
+Seconds later, I was forced to re-evaluate. This didn’t seem like it was going to last long at all. Not only had the Gold-Rot nearly stopped attacking my shield entirely, she’d started incorporating minute, twitching movements that helped her take the missiles from my Wheel of Magic mostly on her patchy armor.
+
+The Delayed Firebombs kept appearing, but we were in an enclosed enough space, it was hard for them to go unnoticed for the full time they needed to erupt. It was just a matter of time before the Gold-Rot realized that she could avoid them entirely by hitting the primer, if she hadn’t seen it already.”
+
+“Help incoming! Brace yourself. This might be… weird!” Nix’s voice was strained, but elated. Eager.
+
+I felt it. Something settled around my chest. My feet rose, nearly leaving the ground.
+
+Once, as a kid, I’d had trouble sleeping through the night. Nightmares, bedwetting, the lot. The foster family I was with at the time was the one that actually cared. They’d gotten me one of those weighted blankets for sleeping, that should, theoretically, help provide calmness, comfort and all sorts of benefits. For me, it had just felt like I was being forcibly held down. NOT a fan. I’d ended up waking up to push the blanket off of me, and then shivered with cold for the rest of the night.
+
+This was like that sensation, only all around my torso, at once. Meanwhile, a huge fist was flying straight at my face. I tried to fling myself back, but my balance was off, my movement restrained. This was going to-
+
+My whole body was dragged back, feet scrambling to keep myself standing. I found my balance again, shocked, seeing the Gold-Rot equally confused, blinking in front of me. A fiery bolt took her straight in the solar plexus, and she grimaced in pain.
+
+I looked down and blinked. A huge, brown and red fist that looked like it was made out of clay and hatred had its fingers tightly clutching my entire midsection.
+
+“Okay. We’ve got this!” Nix’s happy voice shouted out, sounding only mildly panicked.
+
+I centred myself, keeping my attention on my survival and trying to ignore the goddamn giant fist holding me like a toddler with a sharpie. Shield up, I readied myself for the next attack.
+
+The Gold-Rot didn’t let me down. She kept up with her methodical, controlled onslaught.
+
+Only, now, I had a helper. And that helping hand didn’t just nudge. It controlled, aimed and flung me and my shield around, so my shield would always be in the way of her otherwise controlled attacks.
+
+It wasn’t perfect. The fist wasn’t powerful enough to take my entire weight. But it did manage to ruin her control of the battle. And every time I managed to get my shield in place and fire off a Wave of Reflection, it tore into her, worsening the damage.
+
+She tried climbing up again, once. This time, my Wheel of Magic pummelled her from behind as she climbed, but she ignored me entirely. Once she reached the spikes on the walls, she grasped onto two of them, ignoring the blood pouring from her hands, and flung herself into the open air. She was clearly planning to activate that movement talent of hers when she was high enough up.
+
+Haddock beat her to it. A large, wide plank shimmered into existence, reaching from one side of the pit to the other, right above the trajectory of her vault. She slammed into it, shoulder-first, hard, momentum stopping to nothing. One flailing arm caught, and for a split-second she hung there, disoriented.
+
+Steve’s spear carved deep into the shoulder that held her up.
+
+She cried out and let go. The weapon stuck in the arm and fell along with her.
+
+She hit the floor of the pit hard, rolled to the side and stopped as the spear halted her momentum, widening the wound even further. Even then, she didn’t stop. Didn’t give in. She merely gritted her teeth and flung herself back up.
+
+The Delayed Firebomb hit first.
+
+This one got me bad. With my entire focus on the Gold-Rot trying to escape the pit, I’d missed the moment where the fist faded away and was replaced by Nix deciding once again to blow me up. I barely managed to fling an arm in front of my face to save my eyes.
+
+But when the explosion settled and the flames faded, the notifications told me that we had won. The Gold-Rot was dead.

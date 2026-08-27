@@ -1,0 +1,229 @@
+---
+id: 931e9726-d7c8-54b6-a3e2-34509d5bc12d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 674 - Temporary Goodbyes"
+slug: 0675-chapter-674-temporary-goodbyes
+partOf: mythrans-master-of-all-continued-completed
+position: 675
+ownLength: 2926
+unit: words
+publishedAt: 2018-08-19
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283075/chapter-674-temporary-goodbyes"
+royalRoadId: "283075"
+---
+
+“I'm really sorry that I need to leave.” Ren apologized to Fire Dancer as the time he had to leave approached. “I'm going to be gone for a while, too.”
+
+“I know, Father.” Fire Dancer said, grumpily. “You've told me this already.”
+
+“I don't want to be away from you for that long; but, I have things I need to take care of.” Ren said as he hugged her cheek. “I want you to know that I'm going to miss you, and I'll be back as soon as I can.”
+
+Fire Dancer rolled her eyes as Ren kissed her cheek. “Yes, Father. You've told me that, too.”
+
+Ren pat her cheek and stepped back. “I'll make a quick hop out and then back to get you the new videos first.” He said. “That should at least keep you slightly occupied for a while.”
+
+Fire Dancer sighed. “You do realize that the more you apologize for having to leave, the more I want you to go?”
+
+Ren managed to not wince at the partial lie and chuckled instead. “I can feel your emotions, remember? I know you're going to miss me just as much as I'm going to miss you.”
+
+“That... I...” Fire Dancer closed her mouth and wouldn't speak.
+
+“It's time, Ren.” Teepo said.
+
+“Okay! One quick trip coming up.” Ren said and landed by the spawn point, then cast the Portal spell as Teepo dissolved into the ring.
+
+“See you soon!” Suniva said and went through the portal.
+
+“I'm sorry you don't like me very much.” Artemis said.
+
+“It's not that I don't like you, Artemis. It's just...” Fire Dancer didn't know how to finish that sentence.
+
+“She's only ever seen you as my plaything and not as the ranged combat specialist you really are... that I have sex with.” Ren said and grinned.
+
+“Father!” Fire Dancer gasped.
+
+“Ren!” Artemis exclaimed at the same time, and he laughed.
+
+“She knows we do it.” Ren said and motioned to the portal.
+
+“That's because you tell her where we're going and what we're doing.” Artemis shook her head and stepped through the portal.
+
+“You really didn't have to tell me every single time, Father.” Fire Dancer sighed.
+
+“I'm not going to hide or sneak off without telling you what I'm doing.” Ren flew up close and kissed her cheek again, then flew back to the portal. “I love you, Deity of Fire.” He said. “See you in a couple days.”
+
+Fire Dancer nodded and Ren stepped through the portal. She knew that it would only be a minute in the Earth Realm but it would be almost 4 days for her. She took several breaths and relaxed, then went to bed. She hadn't realized that she liked feeling someone nearby as she slept, even if it was only for an hour. She woke up after an hour and looked at the library and decided she would wait before going back in there. It seemed too lonely without having someone else there.
+
+The days crawled by and Fire Dancer wasn't sure why. Her work day wasn't any different, and yet... her view of the work day had changed. She had looked forward to going to her room at night, just so she could spend time with her father, even though he had only been around for a short time. She closed her eyes and held in her sigh, then a portal opened near her in the throne room.
+
+Ren stepped out of the portal and caught his breath at the emotions he felt from her. “I'm so sorry.” He said and flew over to her. “I knew this first break was going to be hard on you.” He said and stopped himself before he touched her, then he ignored propriety and hugged her cheek and kissed it. “I'm not going to tell you that it gets easier, because when you miss the ones you love, it never gets easier.” He pat her cheek and floated back slightly. “I've got the new footage for the day.”
+
+Ren took out the little box and pointed it to the large one on the floor and clicked the button. All of the screens changed and showed people riding the rides in the amusement park and having fun.
+
+“You can change and select the different things to show, including more footage of the Marilith Demon, as well as the townsfolk in all the towns and cities around the country.” Ren said.
+
+“Did she catch a pig yet?” Fire Dancer asked, and Ren could feel that she didn't really want an answer and only asked because she was supposed to.
+
+“I don't know.” Ren said. “When you feel like it, watch it and let me know.”
+
+Fire Dancer nodded, and he felt her emotions had shifted to despondence.
+
+“I need to get back.” Ren said and he flew over to her ear and whispered. “Look under your pillow tonight.”
+
+Fire Dancer felt his teasing emotions and she turned her head to demand that he tell her what he did. He deftly flew out of the way before she could, though.
+
+“Even though I've explained countless times that for me on Adventurer's business, it's only going to be a few hours, it doesn't compare in the least to the handful of years you need to go through.” Ren said. “I deeply regret that, and you should know that I've experienced it as well.”
+
+“How?” Fire Dancer asked.
+
+“I'll explain when I return.” Ren said and floated close. “I will always return to you, Deity of Fire.”
+
+Fire Dancer didn't try to move as Ren kissed the tip of her nose, nor did her anger flare, because she felt the strength of his conviction. She only nodded and he beamed a smile at her.
+
+“Enjoy your present.” Ren said and cast another Portal spell, then stepped through it.
+
+Fire Dancer managed to get through the rest of the day without having her thoughts linger on Ren and went to her bedroom. She glanced at her night stand and at the empty spawn point building. She felt a pang of loneliness at that emptiness, then remembered that if anything happened to him, he would reappear there with her. That made her smile as she climbed onto the bed, because even in death, he wanted to be with her.
+
+Fire Dancer paused with her hand on the pillow, because she knew that if she looked at whatever it was, there would be nothing new until Ren returned in 7 years, assuming he stayed away for the entire Earth Realm night. She took in a deep breath and let it out, then let her curiosity get the better of her and moved the pillow aside. Underneath it was a large Solid Fire square and she recognized the enchantment emblazoned on its surface.
+
+Fire Dancer picked the square up and placed it in the middle of the room and activated the Stored Spell rune. The Full Illusion spell inside was cast and a 1,170 foot tall Ren appeared in front of her. Since Fire Dancer was 1000 feet tall herself, she was quite surprised at its appearance.
+
+“Deity of Fire, if you're seeing this, then my leaving on Adventurer's business must be bothering you just as much as it bothers me.” Illusion Ren said and ducked his head slightly. “You know I can cast the Permanent Enlarge and Reduce Anything spell as many times as I want. This size is what I would be if I cast it 8 times upon myself.”
+
+Fire Dancer stepped forward and reached out to touch the image, then stopped herself before she did.
+
+“I didn't think making myself this large so soon would be good for you, because I didn't want to insult your divinity or diminish the struggles you went through to become so powerful.” Illusion Ren said. “However, I did tell you that I would defy you to comfort you, so I wanted you to know that when I come back, I will assume this size whenever you want me to.”
+
+“F-father... I...” Fire Dancer tried to speak; but, the words became caught in her throat.
+
+“It's all right, Deity of Fire.” Illusion Ren said. “Before you know it, I will be back by your side. I love you and I'll see you soon.” He said and smiled. “You can activate this at any time as a reminder... both of my love and my promise.”
+
+Fire Dancer caught her breath as the Full Illusion ended and he faded away. “Father.” She said and activated it again. Illusion Ren appeared and started to speak, and she ignored it as she reached her hand out and touched it. It was completely solid and had no give to it at all, so she sighed and dropped her hand from the surface.
+
+He couldn't have had enough time to make it completely real. Fire Dancer thought and watched it deactivate. It's just a message and nothing more. She picked up the large Solid Fire square and put it inside the Library on the floor next to the large desk, then went back to her bedroom and laid down to go to sleep. She glanced at the ring on her finger and deactivated its sleep function, so that she would sleep through the night... and the time she would have normally spent with Ren.
+
+*
+
+“I really hate leaving her like this.” Ren said and absorbed the Everlasting Fire inside the Magical Barrier of Protection that the portal had ejected.
+
+“You have friends that need you, and you need to go on Adventurer's business.” Artemis said. “We've been telling her for years...”
+
+“It still hurts.” Ren said.
+
+“I would have stayed.” Suniva said, and he took her hand.
+
+“No, even after all this time and despite all of our efforts, I can feel her anger just below the surface. She could hurt or kill you if you say something she doesn't like or if you upset her.” Ren said. “I don't want you there without me to protect you by becoming the focus of her irrational anger.”
+
+Suniva sighed. “I'm going to miss her, even if it is only overnight.”
+
+“She's definitely missing us right now.” Ren said and let Suniva feel it.
+
+“That poor girl.” Suniva said as tears sprung to her eyes.
+
+“You're right.” Ren said. “She might be thousands of years old in age; but, she's still only a teenager at heart. With no one around to guide and help her deal with things...”
+
+“She's been stuck in perpetual adolescence.” Artemis said, and Ren nodded.
+
+“She won't be that way for long, though. We are going to make sure she matures into a proper adult.” Ren said confidently.
+
+“I can't believe we're helping you raise the Deity of Fire.” Suniva said in surprise, and Ren chuckled.
+
+“I know, right? You wouldn't think anything like that was possible, and yet... here we are.” Ren said as he checked the All-Seeing Mirror and cast another Portal spell. “Ladies, after you.”
+
+Artemis stepped through into the big bedroom of the house in Aurora, then Suniva and Ren did so as well.
+
+“My King.” Seldanna, the Sovereign of the Succubi said.
+
+“Hi, Seldanna.” Ren said and stepped into the air and kissed her. “Would you like to be first?”
+
+“I would be honored, My King.” Seldanna said and Ren opened a portal to the Sanctuary, then Ren, Seldanna, and Artemis stepped in. The portal disappeared for only 15 seconds and reappeared, then the three of them stepped out.
+
+“That was fast.” Suniva said with a big grin.
+
+“I had no other purpose than to spend time with Seldanna.” Ren said and smiled.
+
+“Over 3 days of direct attention from My King was all I could take.” Seldanna said, both happily and sadly. “I needed a break.”
+
+Ren laughed and looked at the other three succubi. “Who's next?”
+
+“Me!” Chenoa said and raised her hand before the other two could even move.
+
+“After you.” Ren said.
+
+Chenoa hopped up and jumped through the portal almost instantly. Ren laughed again and took Artemis' hand, then stepped through the portal. Once again, barely 15 seconds had passed when the portal reappeared.
+
+“Whew!” Chenoa stumbled out of the portal and flopped onto the bed. “Hee hee hee!”
+
+“What did you do to her?” Katori asked Ren as she felt the giddy emotions coming from Chenoa. “It's like she's drunk!”
+
+“Come with me and find out.” Ren said with a smile and held his hand out.
+
+“Yes, My King.” Katori said and took his hand without hesitation. He lifted her up into his arms, which made her laugh, then they entered the portal. They were back barely 12 seconds later, and Katori was unconscious.
+
+“My King, you really should pace yourself.” Seldanna said.
+
+“I am pacing myself.” Ren chuckled and wiggled his fingers at Ellaria, the last of the succubi. She hopped up off of the bed and tried to dodge around him, and he grabbed her sides and tickled her. She laughed and broke free, then jumped through the portal. Ren and Artemis followed her a moment later. The three of them were back after 16 seconds. Ellaria had walked out of the portal and exuded confidence for almost 5 seconds, then she clutched onto Seldanna and her legs gave out.
+
+“My brave little warrior.” Seldanna said. “Good work.”
+
+“Th-thank you.” Ellaria managed to say, then she passed out.
+
+“I was actually tempted to give them each a full minute in the Sanctuary.” Ren said. “I didn't want to completely exhaust them too many times, though.”
+
+“My King, you are too good to us.” Seldanna said. “We merely expected a cuddle for the time you have to spare before your Adventurer's business.”
+
+“I was going to do that, then I thought it was better for some one-on-one time instead.” Ren said and helped put the succubi to bed and into comfortable positions. Chenoa had passed out by this time as well, and he gave them each a kiss. “I'll be back in the morning.”
+
+“We will be ready for another session by then, My King.” Seldanna said, with the three unconscious succubi around her.
+
+Ren nodded and gave her another kiss, then he looked at Suniva. “Are you staying here or do you want a portal back to the county?”
+
+“I'll stay.” Suniva shrank down to her normal 1 foot size and flew up to the shelf Ren had made for the other pixies. “I made my contributions to the Pixieland traps already. They don't need me there.”
+
+Ren used a fingertip to touch her cheek. “They will always need you, Suniva. They're your friends, remember?”
+
+Suniva touched his fingertip and nodded. “If you promise to come and get me when you come back...”
+
+“Of course I will.” Ren said and activated his Hands of the Gods ability Burning Hands and covered her in a very thin layer of pure Fire and made it solid. “Until then, let this Cloak of Fire keep you warm in my stead.”
+
+Suniva put her hand on the cloak. “Thank you, Ren.”
+
+“When you absorb it all, I'll make you another one.” Ren said and cast a portal to the plot of land that the pixies owned. “See you in the morning.”
+
+Suniva darted to his face and kissed his top lip, then flew through the portal.
+
+“Only one more to go.” Ren said and dismissed the portal, then he and Artemis went down the hall to the Marilith Demon's room, and Ren knocked.
+
+“What? Who's that?” A woman's harsh voice asked.
+
+“It's me, Ren.”
+
+The door was ripped off the hinges a second later and the Marilith Demon's tail whipped from side to side and she looked very angry. She was still covered from head to tail in mud, and most of it was dried and caked on.
+
+“You... you...” The Marilith Demon tossed the damaged door aside and grabbed Ren with all 6 of her arms, picked him up menacingly, then hugged him like a little girl with a teddy bear. “I've never had so much fun!”
+
+Artemis just stared at her in surprise as the Marilith Demon rocked Ren like a baby.
+
+“Who would have thought those tiny little things would be so much sport!” The Marilith Demon exclaimed and hugged him tightly. “Thank you!”
+
+Ren reached up and pat the side of her face. “Hey, I've got a couple of minutes to spare. Do you feel like spending them with me?”
+
+“After a gift like that, I would do anything for you!” The Marilith Demon said happily.
+
+“Can I shrink you down to half your normal size?” Ren asked.
+
+“For how long?”
+
+“For about 5 seconds. Just long enough to go through a portal.” Ren said.
+
+“Where are we going?” She asked and put him down.
+
+“A special place where we can spend some time alone.” Ren said, and she looked at Artemis.
+
+“I assume she needs to come.”
+
+“Yes, that would be best.” Ren said. “I need to get back into the habit of taking her everywhere.”
+
+“I won't share my bed with her.” The Marilith Demon warned him and stored her new heated bed.
+
+“That's fine.” Ren said and gave the Marilith Demon the amulet to help her adjust to the time difference. He then cast the spell to make her half her size and cast the Portal spell to the Sanctuary. The Marilith Demon slithered through the portal easily, and Ren took Artemis' hand and stepped through as well.

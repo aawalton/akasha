@@ -1,0 +1,245 @@
+---
+id: 6c8a51ff-cc2d-5914-9ef1-accf4ffd1c99
+page-type-slug: story-chapter-royal-road
+title: "Chapter 651 - Are You Sure That's Training?"
+slug: 0652-chapter-651-are-you-sure-thats-training
+partOf: mythrans-master-of-all-continued-completed
+position: 652
+ownLength: 3020
+unit: words
+publishedAt: 2018-07-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238257/chapter-651-are-you-sure-thats-training"
+royalRoadId: "238257"
+---
+
+“What has he been doing all this time?” Suniva asked when the portal disappeared.
+
+“I know what he's making, but I'm not telling!” Rainie said and giggled.
+
+“Rainie.” Suniva said sternly, and Rainie laughed.
+
+“All I can tell you is that it is taking him a lot longer than he thought it would to make it.”
+
+“I suppose I can't threaten to light you on Fire, can I?” Suniva asked and smiled at her friend.
+
+“You could, but that's an empty threat.” Rainie said and hopped up and kissed her cheek, then used her hands to pinch both cheeks of Suniva's face. “You love me too much to hurt me.” She said, then tapped the top of Suniva's head. “TAG!” She laughed and jumped off of the shelf, dropped several feet, then started to run through the air with her Permanent Air Walk ability.
+
+“Get back here, you little brat!” Suniva exclaimed, then lunged across the shelf and touched Shanna's shoulder. “Tag! You're it!”
+
+“What?” Shanna looked at Suniva as she flew away. She turned her head to look at the other pixies on the shelf. “Can you believe...”
+
+The other pixies scattered immediately, and Shanna sighed. She hated it when the others got a head start. The three remaining succubi were as still as statues while the various emotions from the pixies washed over them. Since they weren't moving, the pixies considered them obstacles to hide behind and used them appropriately.
+
+The pixies giggled constantly, because with so many of them playing, the one who was 'it' changed every few seconds. The succubi fed on their exuberant emotions as the pixies ran around with abandon. The game lasted for almost 10 minutes, then Suniva shot a Fireball into the air and detonated it.
+
+“Time!” Suniva said, and all the pixies stopped running, walked over to the shelf and flopped down onto their beds, exhausted. “Who's it?”
+
+Indigo raised her hand.
+
+“We'll resume after a good rest.” Suniva said and propped herself up on an elbow.
+
+“Hey, why are you in charge?” Breeze, the Wind pixie asked, and Suniva raised her eyebrows at her. “Yeah, okay. Immolate us, burn us to the ground, blah blah blah.”
+
+The other pixies giggled and Suniva smiled.
+
+“Actually, it's because I have the most experience.” Suniva said and laid back down. “You can be in charge if you want, though. I don't mind.”
+
+“Okay, who are you and where is the tyrant we all hated and tried to ignore?” Breeze asked, and everyone giggled, including Suniva.
+
+“I'm still me, but...” Suniva propped herself up onto her elbow again. “After spending so much time with Ren, I realized that even though someone might be stronger than everyone else, that doesn't mean they should be in charge.” She said and the other pixies looked at her. “I don't think that's his philosophy. It's just...”
+
+“That's what he does.” Rainie said. “He could rule everything if he wanted, either by force or coercion, and he doesn't.”
+
+“Do you know why?” Luparia asked coldly.
+
+“It's no fun.” Rainie said. “It would be boring for him if all he did was rule a kingdom. He also wouldn't have time to spend with his friends, and that's something he would never give up.”
+
+The pixies fell silent, because they had inadvertently discovered that they had a similar philosophy. Above all else, they liked having fun and being with their friends, too. They started talking about the different things they did while inside the Sanctuary, and then a portal opened up. Ren, Artemis, and Seldanna stepped out, and the other three succubi gasped as they felt her.
+
+Seldanna wore a platinum and steel two piece bikini, with platinum bracers on her forearms and platinum greaves on her calves. The armor pieces had large glittering diamonds embedded in them, and she wore a necklace of diamonds around her neck. Her body pulsed with a slight glow from the feelings of awe she felt from those that saw her, and she smiled.
+
+“Thank you, My King.” Seldanna said and turned to Ren, then bent down and kissed him. She wrapped her arms around him and pulled herself in close, and then the 6 pixies he had just helped realized that they hadn't thanked Ren for what he had done for them. They ran through the air and stopped several feet away from him and waited for Seldanna to finish her kiss.
+
+It took a few minutes.
+
+When Rainie started to giggle at the emotions passing between Ren and Seldanna, Seldanna broke the kiss and stood up. She turned to the succubi that were still lounging on the bed and pointed to Ellaria.
+
+“I appoint you to be next.” Seldanna said in her command voice, and the succubi gasped at her power.
+
+“M-me?” Ellaria said, surprised. “But... I'm just...”
+
+“You are no less important to him than I am.” Seldanna said. “Go with him and let him raise you up to new heights.”
+
+“Of course, Sovereign.” Ellaria said and stood up. “I am honored to be next.”
+
+“As you should be.” Seldanna said and stepped aside to let Ellaria pass.
+
+“Ren! We're so sorry!” Rainie said on behalf of the other pixies beside her. “We forgot to thank you for teaching us so much!”
+
+Ren chuckled. “Friends don't really have to thank friends for their help.” He said. “Plus, I only had a year to give you as much information as I could.” He looked at the shelf where Suniva sat, and she smiled at him. “If I had more time, well...”
+
+“We will study our books every day!” Rainie promised for everyone.
+
+Ren reached out and touched her cheek with a fingertip. “I hope that you will.” He said and felt her resolve. “If you all keep improving, that would make me happy.”
+
+“We will.” Rainie said and put her hand over her heart. “We vow it!”
+
+“Rainie! No!” The other pixies exclaimed, then a tiny Mana tendril shot out from all of their hearts, which made them catch their breath, and the Mana hit Ren's chest. He felt a very tiny Connection form to each of them, then the Mana tendril faded.
+
+Suniva flew over to them and stopped beside her friend. “Rainie, be more careful of your words.” She said and pat her shoulder. “At least you only promised to read.”
+
+“Even that small vow has tied us to him.” Luparia said frostily. “I don't mind calling him...” She glanced at Indigo. “...a friend. Tying myself to him is not desirable.”
+
+“Don't worry, Miss Winterborne.” Ren said, and he felt the appreciation from her for not abusing the use of her first name. “If you stick to the letter of the vow, after two days, it will expire.”
+
+“Really.” Luparia said coldly.
+
+“Yes. Just prove you can keep improving, and it will end.” Ren said. “When you read the books tomorrow, you will establish the improvement. When you read them the next day and improve by the same amount, you will establish 'keep improving' and it will be over.”
+
+“That... is a very simple view of the problem.”
+
+Ren chuckled. “You can ignore it and stay tied to me forever if you want.”
+
+“No!” Luparia said and Ice shot out of her hands, then a moment later she absorbed it. “No, I agree that your idea will complete the vow.”
+
+The other pixies nodded, except for Rainie.
+
+“That's not what I m-mhmm!” Rainie mumbled when Suniva covered her mouth with a hand.
+
+“I'll explain what it means to speak for others.” Suniva said to Ren, and he smiled.
+
+Ren cast another portal and he, Artemis, and Ellaria stepped through it and the portal disappeared. He came back half an hour later and dropped off a powered up Ellaria and took Katori next, then Chenoa. When they all had a turn and had been armored up and improved as much as possible, even Princess, Ren still had to go back in to keep working.
+
+“This is going to be a long trip.” Ren said as he held a hand out to Suniva, who didn't hesitate at all and flew over to him and hugged him. They stepped through the portal and didn't reappear again for the rest of the day.
+
+With that much time on their hands, the pixies had plenty of time to talk to each other about their experiences with Ren and the different things they had gone through and accomplished while inside the Sanctuary. The succubi on the other hand, never said a word. They laid on the bed with Seldanna in the middle, and the other three huddled up to her. Their bodies varied in their glows as each of them fed on the emotions of those around them.
+
+The day seemed to pass quickly, despite not a lot going on, then that night a portal opened and Ren, Artemis, and Suniva stepped out. The three of them practically glowed in the dim light and Ren summoned Teepo, then quickly made him solid and able to speak again.
+
+“M-my K-king.” Seldanna whispered as she felt Ren's restrained desire for her. “You always know what to give me as a present.”
+
+Ren laughed a full-throated laugh, and all 4 succubi shivered from pleasure. “I haven't seen you in over five decades, Sovereign of the Succubi.” He said in a slightly deeper voice, and the other three succubi caught their breath as she was officially titled by their Tainted King. “I have no lands to offer, except to share what I have already given to you and your kind.”
+
+“What 'kind' is that, My King?” Seldanna said as Ren stored his clothing and climbed onto the bed with her.
+
+“Those loyal to me and mine.” Ren said and kissed her. Artemis and Suniva climbed onto the bed as well. They could feel the needs and desires of the succubi through Ren, and they cuddled together and let the succubi feed as much as they wanted on their desire for Ren and each other.
+
+The pixies that didn't want to feel what was going on ended their Aura connection with each other and with Ren, and those that didn't mind what was happening laid down on their beds and went along for the ride. Since no one was touching them or forcing them to participate, they could do what they wanted, and Rainie ignored her connection to Ren and concentrated on her friend Suniva instead.
+
+“Rainie? What are you doing?” Shanna asked, because she had cut off all the connections and couldn't feel what was going on.
+
+“I'm... oh, Suniva really... really likes...” Rainie closed her eyes and let the emotions wash over her. “So... so nice.”
+
+“Rainie?” Shanna leaned over her friend with concern. Rainie opened her eyes and looked up at Shanna, and saw her plump lips.
+
+“Friends can kiss, right?” Rainie asked dreamily.
+
+“Wh-what?”
+
+“Just... nothing sexual... just... friends.” Rainie reached up and stroked her friend's hair. “Good friends.”
+
+“Yes, we're good fr-mmm.” Shanna stopped talking as Rainie pulled her down and kissed her. She struggled a little at first, then she unblocked her connection to Rainie to make sure she was okay, and caught her breath.
+
+Rainie only wanted to feel what it was like to kiss her, with nothing sexual involved. She was still floating on all of the other emotions that filled everyone's shared Auras and just wanted to know why Suniva liked kissing Artemis. Shanna always had a hard time saying no to her best friend, so she gave in and kissed Rainie like she wanted to be kissed.
+
+The funny thing was, no one had any overt sexual thoughts in their heads as they enjoyed sharing their emotions. Caresses were exchanged in some cases, a gasp here and a moan there; but, no one pressed anyone or tried to cross the line into sex. After about 10 minutes, a feeling of relaxation and contentment washed over them and they all sighed after they stopped kissing each other.
+
+Shanna had climbed onto Rainie's bed with her and cuddled with her while they kissed, and they just stared at each other with slightly embarrassed expressions when the kiss ended.
+
+“Shanna, I...” Rainie tried to apologize and Shanna giggled.
+
+“It's okay, Rainie. Now we know why Suniva likes kissing Artemis so much.” Shanna said.
+
+Rainie giggled, too. “Girls lips are soft.”
+
+“Most times they are.” Ren said. “Although, I've seen a few women around that had small thin lips.”
+
+“Wouldn't they be harder to kiss?” Seldanna asked.
+
+“That depends on the woman, I think.” Artemis said. “If she's in a good mood, that is.”
+
+“Oh, yes.” Ren chuckled. “They definitely have to be in a good mood or the kiss is never happening.”
+
+“I'm in a good mood, My King!” Chenoa the succubus said and raised her hand, and the other succubi laughed.
+
+“I think that is her not-so-subtle way of asking for a kiss.” Seldanna smiled.
+
+“I suppose I can't refuse an honest request.” Ren said and held a hand out to Chenoa, and she slid over Katori and Ellaria to position herself next to Ren.
+
+“Hey, you don't have to be so rough.” Ellaria said, but she smiled at Chenoa.
+
+“I'm sorry.” Chenoa said sincerely.
+
+“Well, I did have the lion's share of his kisses the last few minutes, so it's okay.” Ellaria said, and Chenoa pat her shoulder and looked at Ren expectantly.
+
+“Would you like one of your favorite emotions?” Ren asked.
+
+Chenoa shook her head. “Just the kiss, please.”
+
+Ren beamed a smile at her, and her face flushed to a darker red. “One clean kiss, coming up.”
+
+The other succubi chuckled at his choice of words, and then Chenoa leaned in and their lips met. Ren caressed her cheeks as they kissed, and Chenoa started to glow.
+
+“What... what's happening?” Katori asked.
+
+“It's her own enjoyment.” Seldanna said, proudly. “She has learned that there is always two sources of power during any exchange.”
+
+Chenoa broke the kiss, a little breathless, and looked at Seldanna. “May I offer...”
+
+“Always.” Seldanna said as she leaned close and briefly kissed her. “Mmm, thank you, Chenoa.”
+
+“You're welcome, Sovereign.” Chenoa said and moved back over Ellaria to her previous spot.
+
+“Time for sleep.” Ren said and touched Artemis, who moved closer to lay her head against his, but didn't crowd Seldanna at all. Suniva on the other hand, shrunk down to her normal 1 foot height and laid down by Ren's face.
+
+“I don't need any Fire, Ren.” Suniva said and hugged his ear, and kissed it. “Just you.”
+
+“Can I say goodnight, even though we're only going to sleep for an hour?” Ren asked.
+
+“You can say whatever you want, My King.” Seldanna said and kissed his cheek.
+
+“Supercalifragilisticexpialidocious, everyone.” Ren said, and they all laughed.
+
+“Okay, maybe not 'anything', My King.” Seldanna went to kiss his cheek, then bared her teeth and bit him lightly instead. “You can say anything appropriate.” She said, kissed the spot she had just bitten, then laid her head on his chest.
+
+“Have a good nap, everyone.” Ren said, felt everyone's agreement, and closed his eyes and relaxed. They all did the same thing, then drifted off to sleep.
+
+********
+
+Barbara came into Ren's bedroom and shut the door, then saw Elise and Lisa as they held each other on the bed. She was going to say something, then realized they weren't close enough to Ren to put him in danger of being rolled on or banged if they moved. Denise came into the room right behind her and stopped. She wore a small pair of shorts and a t-shirt two sizes bigger than she normally wore.
+
+“Hey, Barbara.” Denise whispered. “It looks like they dozed off.”
+
+“I just got here, so probably.” Barbara whispered back. “I think Stella's taking a shower.”
+
+The bathroom door opened and Stella came out wearing the t-shirt Elise gave her.
+
+“Hi.” Stella said and finished drying her hair as she checked the television, and it was still on a blue screen. “He's either got someone naked or he's back in the Sanctuary.”
+
+“He's in the Sanctuary.” Elise said as she lifted her head and looked at them. “He's been giving the pixies visits.”
+
+“I thought you were asleep.” Barbara said.
+
+“No, I'm watching Ren.” Elise said. “Lisa's out like a light, though.”
+
+“Poor thing.” Barbara said. “Imagine having to grow up with that... man... as a father.”
+
+“I think she's turning out remarkably well, despite that.” Stella said. “Did she sign the paper?”
+
+“Without hesitation.” Elise said and gently stroked Lisa's hair.
+
+“Good.” Stella said and tossed her towel on top of the one Elise used. “At least there's lots of room so I can hug her, too.”
+
+Elise smiled as Stella laid down beside Lisa and snuggled in.
+
+“I'll just lay down over here.” Denise said and pat the far side of the bed.
+
+“I just said there's lots of room.” Stella pat the bed beside her. “Climb aboard.”
+
+Denise climbed onto the bed and laid down beside Stella, then they all relaxed. Barbara turned the lights down and sat on the chair beside Ren's side of the bed, then turned down the volume on the television so that if anything did pop on, the sound wouldn't wake anyone.
+
+Barbara watched the television flicker every 7 minutes and watched Ren continue to take pixies into the Sanctuary. He moved onto the succubi and gave them each a turn, then took Princess in, and then another pixie. After a while, she was a bit surprised that he hadn't come back out, then shrugged and waited until he did come back out at the end of the day.
+
+Barbara watched as Ren climbed onto the bed and the blue screen didn't appear for several minutes, then the 4 succubi reached for their tops and the view cut off. She shook her head and held in her chuckle.
+
+Yes, this is definitely an easy night for me. Barbara thought as she heard the even breathing of the women in the bed with Ren.

@@ -1,0 +1,159 @@
+---
+id: cbe7a667-aaac-5607-8bb1-e27e00f5f269
+page-type-slug: story-chapter-royal-road
+title: "Chapter 37"
+slug: 0044-chapter-37
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 44
+ownLength: 3075
+unit: words
+publishedAt: 2026-07-02
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3620976/chapter-37"
+royalRoadId: "3620976"
+---
+
+The collection process was demanding, time-consuming and entirely out of the reach of somebody like me. I asked. Apparently, you’d need something like fifteen Mental Control in order to be able to handle the mana flow needed to use those absorbers properly.
+
+That left me half-naked and bored, with a body that had once again been abused far beyond what anybody could generally consider acceptable. Oh, and bereft of any proper defensive items, of course, bar the few patchwork-like pieces of armor still hanging on, and the small buckler I’d taken from the Adrastian.
+
+I decided I might as well do something with my time, and went about skinning the Rastlers. Even in death, their shapes were cute and fuzzy, trying to make me feel bad for what I’d done to them.
+
+I had to admit to myself that I relished the karma of it. The little fuckers, cute as they were, would’ve delighted in subjecting me to the slowest, most anguished death possible. It was just fair if I got revenge on them after their deaths. The activity earned me twelve acceptable, soft skins, two points to Skinning and an unhealthy sense of satisfaction.
+
+We had to camp out that night. They didn’t finish collecting all the acidic spit until late in the evening, and nobody relished a seven-hour trek back in darkness. Fortunately for me, they’d prepared for the eventuality, bringing along plenty of food, bed rolls and everything needed to camp out. They’d even been optimistic enough to pack extras for me. Also, Lure wormed his way back into my good graces by having packed an extra set of clothes in my size. They were basic clothes, scratchy as hell, made by whatever the local version of burlap was, and didn’t really help with cold or heat. But they kept me from hanging free, exposed to the elements, and that was a godsend.
+
+The night, morning meal and return trip to Last Chance were, by and large, as uneventful as the resulting debate with the high-leveled Crafter. Apart from an additional two increases to Higher Self-Heal and one to Higher Endurance and Stamina Regeneration, nothing interesting happened.
+
+The ensuing discussion with Stalwart was equally uneventful. Oh, he readily admitted that the acid collection task from the Rastlers had gotten a couple others killed. Yet, he also showed a frankly alarming lack of compassion about that fact. He did agree I’d held up my end acceptably and took my measurements in order to start working on the armor and shield.
+
+The most emotion he showed during the whole process was when I tried to unload the fresh batch of Rastler furs on him. He got practically heated, in that his nostrils flared, while his tone stayed bereft of emotion. Yet, he barely listened to what I wanted to trade them for, insisting that the only deal I was getting from him was a trade for proper skinning and fleshing knives, so I would stop ruining materials.
+
+Surprisingly, I think I actually got the best of that deal. Despite his lack of, well, regular people emotions, it did seem like he at least cared about craftsmanship.
+
+That left me back in Last Chance, late afternoon, with few cash reserves to hand, with at least three days of downtime until I had proper equipment that should be able to keep me safe for a while. Being the clever, thoughtful type I’ve always been, I of course decided to take that money and go on a bender.
+
+***
+
+I barely got the chance to get a good buzz going. I was distracted, derailed and drawn elsewhere. It was Kimzi’s doing.
+
+“You need to wise up.” The short, glowing Larian’s words came from behind as I was busy admiring the first of what I hoped to be many wonderful beers to come.
+
+“Says you and every single teacher I’ve ever had.” I drawled. Then I took a good, long drag of the beer and sighed in satisfaction.
+
+“You’re not going to ask?” She plopped down onto a stool next to me.
+
+I squinted at the wall in front of me. There was some sort of chemical process going on within the see-through glass apparatus that I couldn’t quite understand. It was like a wave of golden froth constantly emerged from one side, being contained and devoured by a dark liquid lying dormant on the other side. It was better than a lava lamp. Lava lamps didn’t make beer. “No. I find that people who feel the need to tell me about my flaws are like vegans and those fancy fucks who listen to classical music. It doesn’t matter that I don’t care. They’ll tell me anyway.”
+
+“I don’t know what that means. But I’m not sure I’d agree anyway. You don’t care about your life?”
+
+“Course I do. It’s what keeps me alive. What’s your point? And what’ll it cost me for whatever answers you’ve got hidden up in your sleeves?”
+
+She waved my concerns away. “It’s not about the money.”
+
+“Okay, now I’m scared.”
+
+She rolled her eyes. “Okay, yes, it is about money. But I won’t charge you anything. I’ll just tell you what I know. Then you’ll handle the rest.”
+
+I’d give her that. She knew how to dangle the bait. “Colour me interested. What are you selling?”
+
+“Knowledge.” She tapped her head.
+
+“Erm. I know. You said that last time.”
+
+“Your mouth tends to run away from your head, does it not?” She asked. “Never mind. What you need to consider is this: You listened to me, last time around. Yet, clearly, you did not listen. You need to start learning about your surroundings, ask questions about what you walk into and who you do deals with. Then you might not find yourself half-dead and three-quarters-naked after your next fight.” Her words were light, but her eyes were grave.
+
+I snorted and took another pull. “Word travels fast around here, doesn’t it?”
+
+“Helped along by a few coins, it sure does.” She smirked. “Now, that was for free. So is the next piece of advice: don’t make any further deals around here. Not without coming to me to learn whether the deal is likely to get you killed or robbed.”
+
+I mulled that one over for a bit. “That’s… actually not horrible advice. Paying you a few coins could save me from messing up something fierce.”
+
+She took a deep breath. “Agreed. And that leads us to my final piece of advice.”
+
+“Ah. Now, the bill comes due. What’ll it cost me?” I raised an eyebrow.
+
+“Nothing. This is different. It’s a referral.”
+
+“I am so confused. What’s going on?”
+
+“You went on that trip with Lure. Lure is kind. He’s also observant, fast, and… something of a blabbermouth.”
+
+I squinted at her. Suddenly, I wasn’t sure I was liking the direction this was heading. “What’s your point?”
+
+“The point is that you went into a match-up against Lyrian Rastlers without knowing what they were. Also, if Lure’s estimates are to be trusted, without a single point to Acid Resistance. There is something off about you. You know too little, don’t have knowledge that most people should have learned, and your talents are… weird.”
+
+“This is getting a bit close. Too close, in fact. Do people normally put up with you being all up in their business?”
+
+She shook her head. “I’m not trying to dig into your secrets. I’m just saying – you need help. You need knowledge and skills that most people around here already have, and I know who can help you with that. I want you to persevere and survive – because if you don’t, I won’t be able to sell you any future gossip.”
+
+I ground my teeth and glared down at her. Regardless, as much as I loathed the idea, I couldn’t find it in me to disagree. I needed to wise up, and I did start behind the curve in Ademia, as did all other humans who hadn’t grown up gaining skills as they struggled. “Okay. Say I agree. Say I might be interested in something more advanced – a crash course on skills and the dangers around Last Chance. Who would you be referring me to?”
+
+She told me.
+
+I started cursing. Then I went to see Cuilcis.
+
+“Surprise. Did you regret leaving me alive? Are you here to finish the job?” Cuilcis’ voice was dry and unemotional. However, he did shake his head softly, when one of the two guards stationed at the door reacted to his words.
+
+Ignoring his comment, I said. “You have definitely been working hard. How on… how did you manage to get Kimzi working for you?”
+
+The room was looking impressive as hell. It was almost incomprehensible to me that he’d only been in Last Chance for as long as I had. The entire building, small though it was, was clearly one raised by Denetar himself. It looked sturdy, and all outside walls were adorned with fancy carved details within the clay. On the inside, it was well-arrayed with quality furniture and fancy talking pieces.
+
+I had a suspicion that most of the central items had no purpose beyond swirling colours and distraction. A few side tables were loaded down with items that looked more like something you might buy than the intriguing central pieces. Cuilcis himself was seated on a high chair behind a heavy counter. A good scrubbing and expensive set of robes had the tiny traveller looking regal and mysterious in all his elfin fragility.
+
+He shrugged. “Kimzi is clever. She recognized that her skills and mine complement each other. She knows a lot of local gossip and is a shrewd judge of character. Not so for me. My areas of expertise are more esoteric.” He paused. “Understated mirth. Of course, I do not hate seeing you again. But I am also busy. Are you looking for anything in particular? I do not provide jobs, should that be your understanding – but if you want to buy something, or have something crafted, you are more than welcome.” He spread his arms wide.
+
+I took in the few items available on the rough shelves on either side of the central counter and smirked. “See, that’s the thing, Cuilcis. I might have an order for you – a large one – but it requires a question answered beforehand.”
+
+“Intrigue.” He said, tapping the counter in front of him. “Engaging with my sense of curiosity to earn an answer for free.” He nodded. “Depending on the question, I might grant it.”
+
+“Okay. The thing is, before I ask for information, I need to know who I’m dealing with. Who are-“ I leaned forward and tapped him on the arcane symbol attached to his robe. “You? At first, you introduced yourself as a Crafter. Yet, the more I see and hear, the more I believe that to be a front, at best.”
+
+“I am a Crafter. And a rather qualified-“
+
+“Yes, yes.” I waved off his protests. Judging from everything I’d heard, the Tibidi really couldn’t lie. That didn’t mean that he couldn’t obfuscate to match an Aes Sedai, of course. “But Kimzi didn’t join you because you’re able to craft, erm, whatever those potions are. She joined you, because you hoard knowledge. This is also the respect in which I would want your services. But, for me to trust those, I need to know who you and your organization are.”
+
+He didn’t hesitate. “Acceptance. Besides, if you insist that you need to know about the Tethered, you should hear it straight from the source, rather than from some of the biased, tainted liars out there.”
+
+Huh. If it was that bad, I probably should’ve asked some more people for opinions before going straight here.
+
+“The Tethered are, as you have likely already heard, purveyors of knowledge. We buy and sell knowledge. Sometimes, we deal in coinage, sometimes in secrets, and on rare occasions, in favours. We do employ all sorts of classes among our ranks. I am, as I already told you, very junior, and this, my journey to Last Chance, is my chance to prove my worth.”
+
+Glorified librarians. That sounded a lot better than what I’d expected, and perfect for my purposes. “Okay. And do you hoard all sorts of knowledge? What’s the point of the Tethered in the first place?”
+
+“Starting with the latter, our goal is the same as for every organization in Ademia. To grow in power, to overtake all others, to level and make all of Ademia ours.” He shrugged. “We, the Tibidi, have a weakness that has already spread world-wide – our inability to lie. Hence, our forefathers and the founders of the Tethered decided to turn our weakness into an advantage. People come to the Tethered, because they can trust our knowledge.” He hesitated, as if considering how to press on. “As to the knowledge that we seek… No. We do not hoard all kinds of knowledge. That would be pointless. One of the core tenets of our people is the differentiation between untethered and tethered knowledge. Untethered knowledge is knowledge for its own sake, information that has no logical or realistic application. Worthless knowledge. Tethered knowledge, meanwhile, is something worthwhile. Something which, with the right consideration, may become useful and valuable. Which will aid the Tethered.”
+
+“Not sure I’m getting it. Could you give me an example?”
+
+He shrugged. “The information that a particularly hated warlord has never learned Poison Resistance. Two separate sources confirming the arrival of Ceaseless Horde scouts in an area which has never seem their presence before. Information on how to push the improvement of classes at Level 25. All these could very well be useless in the wrong situations, yet, tethered to, combined with the right people, presented just right? They are invaluable.
+
+“Oh.” I did get it then. And that… was a fucking issue. First, chatting with Kimzi, and then asking others in the bar, I’d gotten confirmation. Yes, they were taking Cuilcis seriously. Yes, they believed he’d have answers for pretty much anything, which had to stem from the reputation of his faction, the Tethered. However, where at first I’d seen them more like glorified librarians, buying all sorts of information, Cuilcis straight up confirmed that they were in it for themselves. They took the old ‘Knowledge is Power’ adage and hyperfocused it for their own advancement.
+
+I cleared my throat. “Okay. I appreciate the explanation, Cuilcis. Now, as for my question: I’ve found that my education when it comes to the nearby area, talents and skills in general is sorely underwhelming. What would it cost me to earn a full description of the knowledge you have available on basic skills, along with higher-rarity skills and how to unlock them?”
+
+He blinked. Then dismissed me entirely. “More than you can afford, unless you have uncovered something truly massive in the past few days.” He bowed his head. “I apologize. That would be an extensive commitment on my part, and I know how little money you have.”
+
+Goddammit. I’d had plans. Or, vague ideas, at the very least. The part where he’d allowed his guards to attack me still rankled in the back of my mind. Yet, before his explanation, I’d allowed myself, for a second, to consider that I could trade secrets with him, extract some promises that he’d keep it secret or something.
+
+Back on earth, librarians were perhaps the only type of people you could trust without reservation. Sure, they might lead you wrong every once in a while, or inadvertently traumatize you by giving you a book with a lovely, precious horse named Artax. Yet, there was rarely anything mean-spirited in it, and they did it to the best of their knowledge. They were the type of people you might entrust with the knowledge that there was a whole other world out there.
+
+This was something else. If I told him all about the Ever Steady, what were the odds that would stay between us? Absolutely non-existent. He and his Tethered friends were going to milk that for all it was world.
+
+I needed another approach. “Cuilcis. You remember how you attacked me, and I let you live?”
+
+“Suspicion. We already decided that you were not the type to apply torture to get what you wanted. Is this a veiled threat, or are you hinting at a friendship that does not exist in actuality?”
+
+I rubbed the bridge of my nose. “The latter. The point is, I really do need that information. I know right now I’m not exactly rolling in money. But I think we could build a proper working relationship. If you help me with this, I’ll make sure that I pay you more than it is worth over time.”
+
+“Disdain. I don’t know what things are like where you are from. But I can tell you beyond a doubt, that the Tethered do not operate on credit. I am not-” He stopped himself, blinking at the open door. “Kimzi? Do come in. I am done with my barter with this gentleman.”
+
+I turned to see, true enough, Kimzi standing in the door opening.
+
+She was panting for air as if she’d sprinted here. She waved a hand at Cuilcis and spoke up, short of breath. Pointing at me rather than Cuilcis. “I’m actually here on my own business right now. I’ve got a piece of gossip for you that’s just way too juicy. And you’ll want to pay through the nose for it.”
+
+I didn’t quite snarl at her. But I did turn a none-too-friendly glare at Cuilcis. “Sorry. Your boss here has already told me that I’m too poor to pay for the good stuff.”
+
+She took my arm and pulled me outside, waving gleefully at Cuilcis. Then she lowered her voice. “Sorry. I find there’s no need to involve others when you’re discussing secrets. And you’ll want to hear this one.”
+
+“Okay. Hit me with it. What are we talking about. I didn’t lie, though. I don’t have that much money left.”
+
+“Ah, that’s okay. I’m sure we can come to an agreement. The boss operates at a more expensive level than I do. But I’ll let you judge for yourself. What would you pay, if I told you that I know where there are others of your kind… and that they’re probably in danger?”

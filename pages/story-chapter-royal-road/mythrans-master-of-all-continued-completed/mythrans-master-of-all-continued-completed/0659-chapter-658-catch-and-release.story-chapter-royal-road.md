@@ -1,0 +1,225 @@
+---
+id: 229159d6-6d81-50fd-9ddb-73daa6bfb5ec
+page-type-slug: story-chapter-royal-road
+title: "Chapter 658 - Catch And Release"
+slug: 0659-chapter-658-catch-and-release
+partOf: mythrans-master-of-all-continued-completed
+position: 659
+ownLength: 2732
+unit: words
+publishedAt: 2018-08-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240729/chapter-658-catch-and-release"
+royalRoadId: "240729"
+---
+
+“This was really fun.” Dana said. “Thank you.”
+
+Ren turned his head to see her and Gretchen looking at him. “You're welcome.” He said. “I'm glad you enjoyed it.”
+
+“So did you.” Gretchen said with a knowing smile. “Having so many beautiful women cavorting around must be like a dream come true.”
+
+Ren chuckled. “I liked the sight, that's true; but, not in that way.” He said, and she raised her eyebrows at him. “It didn't get me excited or turn me on, if that's what you meant.”
+
+“Aww.” Seldanna said and turned onto her side on her lounge chair and propped herself up on her elbow. “Seeing us playing around in the water didn't do it for you?” She asked, teasingly.
+
+Ren laughed. “Come on, you know it would if I wanted to look at it that way.” He said. “I was pretty much just enjoying how happy everyone is. I wasn't even thinking about my own happiness until a few minutes ago.”
+
+“I know.” Seldanna said. “It's getting close to bedtime.”
+
+Ren smiled. “I was waiting for Teepo to let me know.”
+
+“I was waiting for Teela to let me know.” Teepo chittered in laughter.
+
+“I was waiting for Dana to fall asleep first!” Teela chittered in delight, and everyone laughed.
+
+“How much longer, Teela?” Dana asked.
+
+“About 20 minutes.” Teela said. “That should be enough time to undo the spells and then walk over to the shops to put the towels back and get changed.”
+
+“You can keep the towels, so when you come back, we can hang out again and you won't have to wait in line to get them.” Ren said and stood up, then stretched his arms over his head and flexed nearly every muscle he had. “Yeah, I'm going to enjoy this hour of sleep.”
+
+Dana and Gretchen had watched him as he moved, and the contained power in those movements made them think of other things. Things that would make good use of those muscles.
+
+“Okay, everyone!” Zunala said and stood up. “Time to go!”
+
+“Thanks a lot, sir.” Weston said as he stood up beside Zunala. “This place is great.”
+
+“Right now it is, but I suspect it's going to be pretty crowded the day after everyone realizes that it's here.” Ren said, and Weston nodded. “It won't be open 24 hours a day, though.”
+
+“You must be joking.” One of the other guards said. “Are you implying that we can come here on the off-hours?”
+
+“I'm leaving the Water on all the time, since I can't be here to turn it on and off, so as long as you're careful, you can come here whenever you want.” Ren said. “The rides and things in the amusement park won't work without an operator, though.”
+
+“Sir, just having access to this place is more than generous enough.” The guard said. “Thank you.”
+
+“I built it on the succubi roost, where I assume most of you are now living.” Ren said and looked at the humans next to the succubi, and most of them nodded. “I'm not going to tell you that you can't use it.” He chuckled. “How unfair would that be?”
+
+“What about the other guards, sir?” Another guard asked.
+
+“It's the same deal. Off-hours are free use for the water park.” Ren said. “Try not to abuse it, though.”
+
+“Sir, no sir.” The guard said happily. “The word will be spread discretely.”
+
+Ren nodded and turned to Dana and Gretchen. “Where can I drop you off after you get changed?”
+
+“Are you going back to Aurora?” Dana asked and stood up.
+
+“No, I'm staying here at the roost this time.” Ren said. “That's the best part about only needing to sleep for an hour. I can pretty much do it anywhere. I'll be going back to stay in Aurora tonight.”
+
+Gretchen stood up as well. “We've got a room at the Snoozing Bear Inn.”
+
+“Really?” Ren smiled. “It wouldn't happen to be a room at the top of the stairs, would it?”
+
+“Nope. It's not the room with the unicorn poster, either.” Gretchen said, and he laughed.
+
+“One direct portal not to the unicorn room. Got it.” Ren said and took out the All-Seeing Mirror and checked the room, then stored the mirror. “Ladies, it's been a pleasure.” He said and went to Dana and took her hand, bent over it, and gave the back of it a kiss.
+
+“L-likewise.” Dana said, a little thrown off by the odd gesture.
+
+Ren let her hand go and went to Gretchen, and he felt her emotions waver slightly. He started to reach out to take her hand, and she tried to take a step back. She was right beside the lounge chair and tripped, then suddenly she was in Ren's arms and her arms were around his neck.
+
+“Are you okay?” Ren asked as he knelt on the lounge chair. He had one hand behind her back and the other held her by the waist.
+
+Gretchen's face went completely red with embarrassment because no one had held her like that before. “I'm fine.” She managed to say without stuttering, and she was terribly aware that all she had between his hands and her skin was a thin bathing suit.
+
+Ren smiled at the inside joke about being fine. “You tripped with the same foot you stepped on the rock with, too.”
+
+“I guess I did.” Gretchen said, almost completely composed. “You can stand me up now.”
+
+“Sure.” Ren eased her back into a standing position. He felt her reluctance to let him go for only an instant and then she took her arms from around his neck.
+
+“Thank you for catching me.”
+
+“I'm sorry I made you trip.” Ren said, and she caught her breath.
+
+He noticed that? Gretchen thought in surprise.
+
+“I was trying to be gentlemanly and treat you the same as high class women from the local branches of government.” Ren said.
+
+“Is that what that was?” Dana asked, and he saw her rub the back of her hand.
+
+“Yes, it's part of the Etiquette skill for treating them properly.” Ren said. “I didn't mean to offend you.” He said. “Either of you.”
+
+“I wasn't offended.” Dana and Gretchen said together, then they looked at each other and chuckled.
+
+“It was just...” Dana tried to explain.
+
+“...I didn't know how to react.” Gretchen finished the thought, and Dana nodded.
+
+“Then I'm sorry to put you in that position and I won't make that mistake again.” Ren said, and he felt their emotions flicker between annoyance and relief. He held in his smile because he knew the annoyance was because he wouldn't try to kiss their hands again, and held a hand out to Dana. “May I borrow your Water Walk ring for a moment?”
+
+Dana nodded and handed it over, and Ren activated his Craft Wondrous Item ability and put the ring on it. He made it into a modified Sustenance ring and added the Water Walk enchantment to it, then passed it back. He had just started to hold his hand out to Gretchen when she had taken his hand and held it as she placed her ring on his palm. He smiled at her as her hands lingered for a moment, then he activated his ability and changed her ring as well.
+
+“It's going to take a day for it to acclimate to you; but after that, you will only need to sleep for an hour to get a full night's sleep.” Ren said and gave Gretchen her ring back. “You also don't need to eat. You can, since food tastes really good; but, it's not necessary... unless you take it off or store it. It will take another day to acclimate to you if you do that and you'll need to eat to maintain your Health.”
+
+“Thank you, Ren.” Dana said.
+
+“No need to thank me. It's an apology for my mistake.”
+
+“I made a mistake, too.” Gretchen said. “I'm sorry.”
+
+“Thankfully, you didn't get hurt, so it's all good.” Ren said and beamed a smile at her.
+
+“That's not...” Gretchen paused and smiled back. “Yes, it's all good.”
+
+“Then I'll see you later.” Ren said and cast a Portal spell.
+
+“How much later?” Dana asked before she could stop herself.
+
+“I've got to get the park up and running tomorrow and then I've got that fight the next day.” Ren said. “If you pop back tomorrow after you get some sleep, you can play in the pool again and we can all have lunch together.”
+
+“Sounds like fun.” Dana said.
+
+“Bye, Teepo!” Teela said and waved one of her front legs at him.
+
+“Bye, Teela! It was nice meeting you!” Teepo waved back.
+
+Dana smiled and stepped through the portal.
+
+“See you later.” Gretchen said and stepped through, too.
+
+Ren checked the All-Seeing Mirror to make sure they were safely on the other side and dismissed the portal. “Is everyone ready for bed?” He asked and stored the mirror, then heard and felt agreement from everyone.
+
+Artemis came over to him and put an arm around his shoulders as they started walking towards the roost and up the stairs.
+
+“Thanks for giving me some space while they were here.” Ren said and put an arm around her waist.
+
+“Like I had a choice.” Artemis laughed. “Their jealousy and envy was quite strong until I moved away and out of their immediate area.”
+
+“For me as well.” Seldanna said. “Although, those emotions were quite tasty.”
+
+Ren chuckled. “I sometimes forget that any emotion connected with sexuality tastes good for you.”
+
+“No, you don't.” Seldanna said, and he laughed.
+
+“Okay, not really. It's more like I don't think about it.” Ren put an arm around her waist, too.
+
+“Remember how they felt when Zunala and the others came out of the roost?” Artemis asked. “I thought they were going to die from shock!”
+
+All the succubi laughed, as did some of the humans. A lot of them couldn't share emotions yet, so they didn't get the full meaning of the amusement.
+
+“At least they know you aren't keeping us all to yourself.” Ellaria said.
+
+Ren nodded. “I felt their relief when almost all of you paired off and did your own thing after coming down the slides the second time.”
+
+“I think you surprised them, too.” Seldanna said. “Especially Gretchen.”
+
+“She definitely seemed to react a lot more to me than Dana did.” Ren said.
+
+“I think that's because she had further to go to start liking you.” Teepo offered. “Dana already likes you a lot.”
+
+“Yes, I believe Teepo is right.” Seldanna said. “Gretchen fought against her own emotions for quite some time before she realized that you were just being you and it wasn't just an act.” She said. “Dana was trying her best not to get angry at her, or you, over Gretchen getting your attention.”
+
+“She hid it well.” Artemis said.
+
+“I think I caught a trace of that, but it was all mixed in with her other emotions.” Ren said and they reached the top of the roost. “She handled it well, just like Artemis said.” He dismissed the Full Illusion spell and the Magical Barrier of Protection, then everyone entered the roost. “She gets flustered and recovers quickly, too. It's a good quality to have.”
+
+The other succubi and their significant others went back to their own areas and Seldanna led Ren, Artemis, Ellaria, Katori and Chenoa to her apartment inside the roost. Ren had to add another bed and they all climbed onto it as Teepo flew up to land on the ceiling. Ren felt several hands caress and feel the Speedo, and he rolled over so they could feel the back, too. He sighed at their gentle touch and their satisfied and happy emotions, then rolled back over to lay on his back.
+
+“Sleep first.” Ren said as Katori's hand tried to pull the Speedo down. The hand stopped and he felt her disappointment. “It's only an hour, and you can go first when I wake up.”
+
+Katori kissed the skin right above the top edge of the Speedo and rested her head on his abdomen. “Goodnight.” She said as her happiness flooded into him and everyone cuddled in close.
+
+“Goodnight.” Ren said and closed his eyes, then drifted off to sleep.
+
+*
+
+Dana stepped out of the portal into their room and waited for her friend. Gretchen stepped through and then the portal disappeared.
+
+“Okay, what was that?” Dana asked with her hands on her hips.
+
+“What was what?”
+
+“That pretend fall.” Dana said. “You sucked him right in with that one!”
+
+“It wasn't pretend!” Gretchen said adamantly. “He took your hand and kissed it, and I wanted you to have that experience all to yourself!” She said, then calmed down. “He's been trying to give us both the same treatment all night and giving us equal time, and I didn't want to take that away from you. I tried to move away, and my foot hit the lounge chair and then...”
+
+“...he was right there to catch you.” Dana sighed. “Will you be angry if I said that I wish you had fallen?”
+
+Gretchen laughed. “Well, I wish I had fallen, too.” She said. “Being caught like that was really embarrassing!”
+
+“You mean like this?” Dana asked and put her arms around her friend and dipped her back as if they had been dancing.
+
+“Ah!” Gretchen grabbed onto her neck at the sudden movement, and Dana realized it was the same hold she had used on Ren.
+
+So, it was genuine. Dana thought happily, then started to lose her balance. Both women's eyes went wide as they tipped all the way over and crashed to the floor in a heap.
+
+“Ow! Ow! Ow!” Gretchen said and rubbed her head and her butt at the same time.
+
+“I'm sorry.” Dana said as she rubbed her own knee and elbow, because she had landed on them. There was a knock on the room's door a moment later.
+
+“It's none of my business what you're doing in there, but damage to the room costs extra.” The inkeeper said through the locked door, then he walked back down the stars. Dana and Gretchen stared at each other at the outrageous comment, then started to laugh.
+
+********
+
+At least he had fun. Barbara thought after watching Ren go into the succubi roost after all their playing in the water park. After 15 minutes, Ren and the other occupants of the bed started to stir, and then the blue screen protocol kicked in. Now he's having a different kind of fun. She thought and made sure everything was in place so that he wouldn't make a mess.
+
+It didn't bother Barbara at all to do that for him, since she had learned years ago to disconnect herself when taking care of things like necessary bodily functions for patients. She didn't realize that it was the same mechanism that mothers eventually learned themselves while taking care of children. With all the expulsions children made, if you didn't learn how to deal with them and not be bothered by it, it was going to be that much harder to raise that child.
+
+Barbara sat back down and a minute later the blue screen protocol ended. Well, that was fast. She thought and checked on Ren, and everything was fine. She gave him a quick cleaning with a baby wipe and tossed it in the trash, then watched as Ren left the roost and went back to the walled city. It didn't bother her to watch things sped up like they were, at 4 times normal, and she watched as Ren and Artemis visited hundreds of the city's residents for the next 45 minutes.
+
+********
+
+It took 3 hours for Ren to finish the lists of workers and visiting everyone to have them come to the amusement park that afternoon for lessons on how to run their booths and rides. Once that was done, he headed over to the mansion in the center of the city for his meeting with Valercia. He apologized to the receptionist for not making an appointment with her earlier, and she laughed and held up Valercia's schedule.
+
+The only thing on it was 'Meeting with Ren' for the whole day, and he laughed.

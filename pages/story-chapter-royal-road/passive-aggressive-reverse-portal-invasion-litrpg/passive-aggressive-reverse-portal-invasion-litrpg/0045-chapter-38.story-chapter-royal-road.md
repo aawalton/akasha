@@ -1,0 +1,117 @@
+---
+id: fb06c884-3c26-54c9-bfd2-642fb23d7d08
+page-type-slug: story-chapter-royal-road
+title: "Chapter 38"
+slug: 0045-chapter-38
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 45
+ownLength: 2303
+unit: words
+publishedAt: 2026-07-04
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3630649/chapter-38"
+royalRoadId: "3630649"
+---
+
+Kimzi, I noted, was looking more than a tiny bit frazzled. Her glow was oscillating in intensity, her usually steady smile flaking behind a deep frown. She cleared her throat. ”Usually, my information isn’t life or death. But, in the case where they are, I find it’s best to just… lay it out there. Tell you what I can offer, what the price is, and what I don’t know.”
+
+I didn’t respond. I still wasn’t sure that this actually had anything to do with me. Sure, there might be others like me, but Cuilcis had already said there were species looking just like me.
+
+She shattered that illusion straight away. “Nearly four hours ago, just around noon, one of my informants spotted three people of your species. She’s got a high Identify skill, and could see everything about them. Species, Levels, Classes, Health. They were healthy, yet talking to somebody about a job. This is the reason why she told me. Because she realized that this job is likely to see them dead.” She steeled herself and faced me. “I know. This isn’t much to go on. But I do know that you’ve been alone and expect you would like to be among others of your kind. If you hurry, you might be able to reach them in time for them to survive. If not… well, I apologize for taking you away from Cuilcis.”
+
+I looked down on her. Didn’t snap at her. Didn’t snarl. Just looked, shocked by what she was saying. I knew this was a strange world, but I wasn’t sure the fact of just how bloody it was hit me before this very moment. “You’re telling me, you know how to save some of my kind, but you’ll let them die, if I don’t pay.”
+
+“I know enough to give you a chance to save them. There are no guarantees. And yes. If I don’t earn coin, I starve. I would rather your kin die, than be forced to starve myself. So, there you have it.” She looked me unflinching in the eye. “If we can reach an acceptable price, I will tell you everything I know, nothing held back. Then the rest is up to you. What’ll it be?”
+
+I didn’t hesitate. Didn’t haggle. I simply grasped into my Personal Universe and extracted every single mana coin I had, regardless of size, spilling them into my hands. “You’re entirely sure they’re humans and not just something that looked like my kind?”
+
+She nodded and looked at the stack of coins. Her grimace built into a grudging nod. “It’s on the low end, but… okay.” She oriented herself in the street, squinting up at the sun. “Humans. Three of them. Levels 12 to 14. A Mage, a Crafter and a Scout. They were haggling for a job with one of the self-proclaimed merchants. Only, afterward he bragged about setting them up. Apparently, some of them had interesting gear on them. So, he sent them into a nest of Ghastlings to get them killed and take their gear for himself. Their odds of survival are… not good.”
+
+I took a deep breath. Then nodded, making an effort to keep calm. “Will my presence change everything? Those Ghastlings… are they certain death for anybody? Also, will I be able to catch up with them?”
+
+“This is why I’m out of breath. I ran here as fast as I could. I doubt you’ll be able to catch up in time. They sounded like they were going to leave immediately. I’ll give you directions so you can find it. As for survival…” She hesitated. “I doubt it. But if you can take on a pack of Lyrian Rastlers and live, I guess it could be possible.”
+
+“Okay. I… thanks, I guess. Anything I need to know?”
+
+“Yes. Ghastlings are wildly territorial, speedy, and reproduce fast. They’re also insanely aggressive. They’ve been a thorn in the eye on Last Chance for a while. Yet, nobody, not even the untouchables, have been able to entirely clear out their infestation. You will need to get anybody still alive out of there. Toughing it out is not a chance.”
+
+I took a deep breath. Then I considered my own state of being. My armor was a joke. My only shield was that ridiculously tiny buckler. My helmet was fine. My health was… astoundingly, almost maxed out. Okay. I might be able to actually do this. “Directions, please.”
+
+Two minutes later, I was leaving Last Chance at a run. Apparently, the Ghastlings made their lair only about four hours north west of the settlement, which made them a constant nuisance, as they preyed on local travellers who veered too close.
+
+Four hours. That meant that, if the humans had left directly, or hurried in the slightest … they were already there. About to get themselves killed.
+
+I groaned and entered my system. Then I took a long, mournful look at the three talent points available to me, before I spent them all. Really. This was on me. I should’ve known I’d never have been able to actually get to spend them all on the taunt skill I needed.
+
+Improved Run Speed
+
+Passive talent. The best things in life are simple, as is this talent. Your natural run speed, whether jogging, running or all-out sprinting, is improved by 30%. This bonus is applied after any other modifiers.
+
+3/3 talent points to unlock
+
+I sensed the difference immediately as my new talent kicked in. And right that moment, I knew that this was no misclick. Delay or not, this was a wonderful choice, and I should’ve gone with it ages ago.
+
+The change was insane. Every movement I performed simply shot me forward faster, as if my legs were nudged along by a divine wave. Yet, it didn’t feel unnatural. Rather, it simply felt like what you got on the best of running days, when the winds were at your back and your body was just firing on all cylinders.
+
+I loped across the plains like a gazelle, like a goddamn cheetah. What was even better, I realized through a wide-ass grin, I’d be able to keep this up. My stamina use was negligible, especially considering that I was probably going as fast as my flat-out sprint back on Earth.
+
+The first few minutes, I took in the changes and allowed my mind the time for it all to comprehend the new state of being. Then, I sped up. I was on the clock, and arriving with all my stamina intact wouldn’t help me any, if my fellow humans were already dead.
+
+My run was uneventful, if gruelling because of the pace I set. The only change in the scenery came when I passed by a trio walking in the same direction I was racing. Two Tavungor and one Moagie, the heavily armed travellers waved and smiled, seeming to be quite happy with their day.
+
+***
+
+I heard the roars way before I spotted them. I’d never been one to boast of my innate sense of direction, mostly because I didn’t have one. Yet, this was surprisingly helpful, because the roars did guide me in the right direction.
+
+Into a damn abattoir.
+
+Okay, that was exaggeration. The large hill growing out of the surrounding grasslands really didn’t look too special by itself. Also, it wasn’t like the place was overflowing with blood or anything like that. Yet, there were the occasional bones flung about, littering the otherwise flat area. And whoever lived there were not getting their deposit back, because they’d absolutely wrecked the place.
+
+There’d been nature there, at some point. Large trees reaching for the heavens. What looked like a smattering of berry bushes. A lake the size of an Olympic swimming pool with a tiny stream rushing down the hill.
+
+Now, it looked like a hurricane had torn through the place. The trees were carved apart, some split midways down the trunk, others torn into with long, deep furrows. The bushes were flattened or torn apart, and the lake sported an unhealthy, oily sheen.
+
+I’d been warned. I already knew who was responsible for the mess. Yet, if I’d had any doubts, I needed to do nothing else than look up, up the hill.
+
+“Oh, you stupid fuckers.”
+
+I knew. The instant I saw the sharp, refined construction rising from the hillside, I knew. These weren’t just any people. The tiny walled enclosure, less than ten metres from wall to wall, was built with a tiny, narrow bridge leading up there. The bridge was currently being overrun by a number of large, furred shapes. And up there, on the walls, I saw, of course, nobody but the large shape of Haddock, alongside the vivid blue colours of Nix’s unruly locks. One slender person was holding the bridge, a long spear flashing out to impale all the beasts trying to rush up the questionable approach. Meanwhile, the walls were hard pressed on all sides, with hundreds of beasts circling, growling and slashing at the walls.
+
+It wasn’t too hard to picture what had happened. The number of unmoving, furry shapes a ways off from the walls attested to that. Clearly, they’d moved in to kill the Ghastlings. Then, either they’d set up shop to have a safe place they could retreat to, or they’d seen the beasts and realized they were going to be attacked soon and created the fort as a defensive mechanism. Following that, they’d made the wise choice and holed up, trusting in Nix’s area of effect damage, combined with Haddock’s terrain adjustment talents to be able to slay anything trying to come at them.
+
+Except, they hadn’t known. They hadn’t known about the ferocity or the numbers of the Ghastlings. Nor about the absolute infestation of them. Otherwise, they would’ve placed themselves somewhere that would allow them a clear line of escape, instead of getting boxed in like absolute fucking morons!
+
+I was a mite frustrated with their decisions. Not because I thought they were completely to blame. I definitely wasn’t in a position to throw stones about people acting without investigating fully. It was simply that my job, getting their asses safely away, was looking extremely difficult right this moment. Especially given that any attempt to grind down the numbers of the attackers would just result in attracting more of their kind.
+
+I identified one of them from afar. A straggler, circling the area near the bridge, waiting for its chance to power its way past the other Ghastlings and charge up the precarious bridge toward the circular walls and eat its fill.
+
+It looked like a badger. Not the European cutey-pie ones. The American ones that looked like they were going to piss on the floor, beat you up and hit on your girlfriend, in that exact order. One of those, only twenty kilos heavier, with a body that looked to be covered in razor wire rather than fur, and a head that was all teeth atop a perpetual grin that would make sharks and clowns alike piss themselves in fear. On top of that, something fuzzy was going on around its claws. They were… hard to spot. Enveloped in some sort of haze. I was sure that wasn’t a good sign.
+
+Ghastling
+
+Level 12
+
+Health: 130/130
+
+Further information locked
+
+Not the loveliest of discoveries. Sure, a good Wave of Reflection would definitely finish that one off in one go, if those ugly claws got a good swing in at me. But the hundred-plus of its brethren crowding their fortress might be a bit of a problem. Heh. Understatement of the fucking century.
+
+How should I approach this, though? Should I try to lead them away and then run away from them? That idea might be sound – only, the beasts didn’t exactly look like they were going to leave Haddock’s play fort alone any time soon. Who’d go out for takeaway, when the dinner was already cooking?
+
+Maybe – oh. I paused my considerations, as I noticed that they’d spotted me. In fact, Nix was jumping up and down on the wall like a maniac. Heh. They probably thought the cavalry had arrived. Only-
+
+I paused and frowned.
+
+Nix stopped jumping up and down. Now, she was waving one arm in exaggerated movements, clearly indicating for me to come their way.
+
+Did she intend for me to get myself eaten? I stood up and waved both hands dismissively. Racing through the bulk of beasts wasn’t going to do anything but get me slain in the press.
+
+She repeated the gesture, exaggerating the movements even further.
+
+I gritted my teeth and had a decision to make. I’d spent less than a full day in Nix and Haddock’s company. I honestly didn’t know any of them at all. They’d seemed like nice people. But did they seem like people who actually knew what they were doing? Would I put my life in her hands, just like that? What would the wise choice be?
+
+I snorted. Okay. The wise choice had long ago up and left the station, a handful of foster homes ago. I was so far onto the path of stupidity, that that argument didn’t hold any weight. Hence, in all honesty, the argument should be whether I was willing to put my life on the line to save them.
+
+To my surprise, I found myself running forward before I even had the chance to think about it properly. Even more surprising, I found that I was grinning as I did.
+
+Bearing down on scores of deadly beasts, racing straight at a nigh-on overrun position, aiming at joining the people to entrench myself within said position. Well, it might be suicidal. But it sure as shit beat getting punched for a living.

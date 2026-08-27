@@ -1,0 +1,227 @@
+---
+id: d9590c48-3835-50c2-aa46-3edba7ccf0ce
+page-type-slug: story-chapter-royal-road
+title: "Chapter 777 - Separate Ways"
+slug: 0780-chapter-777-separate-ways
+partOf: mythrans-master-of-all-continued-completed
+position: 780
+ownLength: 2900
+unit: words
+publishedAt: 2018-11-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310446/chapter-777-separate-ways"
+royalRoadId: "310446"
+---
+
+Ren wasn't in any rush while he made out with Dilseffa, then Teepo spoke to him in his head.
+
+They've got everything packed up and are attaching the giant boars to the carriages, Ren.
+
+Thanks, buddy. Ren thought back to him, then he slowed his kissing motions and broke the kiss. “The caravan's ready to go.”
+
+Dilseffa smiled. “I thought I felt a short burst of unhappiness from you.”
+
+“You weren't paying enough attention, then.” Ren said to make her laugh, gave her another kiss, then they walked back to the rest stop. Artemis and Teepo floated down to meet them at the carriage. Ren helped the women be seated and stepped back out of the carriage.
+
+“Where are you going?”
+
+“I'm going to give the carriages another boost, like I did to get them across the Gnome lands.” Ren said and shut the carriage door. He talked to the driver, who gladly accepted the Air Walk and Speed Boost spells, as did all the other drivers when Ren went to them. Gremkor, the First Attendant, nodded Respect to him as Ren applied the spells to his carriage, the last one in the line.
+
+“You didn't have to do that.” Ren said.
+
+“I neglected to do it the last time you did this. It saved so much wear and tear on the carriages while we travelled home to our lands, and I should have thanked you.” Gremkor said. “We hadn't been introduced then, though.”
+
+Ren looked at him with slightly raised eyebrows. “Giving me Respect then would have been a bit of a social misstep?”
+
+“Something like that.”
+
+“I'll keep that in mind.” Ren said and went back to his carriage and climbed aboard. The caravan pulled out of the rest stop and lifted up into the air, travelled up above the treetops, then the giant boars ran as fast as they could.
+
+It was supposed to take until suppertime for the caravan to reach the capital at their old improved speed. At the enhanced speed, they did it in half that time. The caravan came in for a landing at the large compound where the carriages were kept, to the utter surprise of the workers there, and the attendants on the carriages quickly took out food for the giant boars to feast on.
+
+Everyone stepped out of the carriages and Ren helped his women out as well. After that, he went around to the giant boars to put several drops of a Full Health potion into each of their feed bags. The attendants gave Ren nods of Respect, and he dismissed the extra spells that he had cast on the giant boars and the carriages.
+
+Ren left the enchantments he had put on them and told the drivers and the workers taking care of everything about attaching the fast boars to only these carriages, unless they could enchant all of the other carriages to be the same and then they wouldn't have to worry about damage or extra repairs. They thought that was an odd requirement; but, they didn't question him about it and took him at his word.
+
+“Okay, everyone!” Kenkoth said loudly to get everyone's attention. “For some reason, we have arrived quite a bit earlier than we were supposed to.” He joked, and several people laughed. “The debriefing won't happen until tomorrow morning, so you're all on your own until then.”
+
+“Yeah!”
+
+“That's great!”
+
+“I can't wait to see my wife again!” One delegate exclaimed.
+
+“Don't go celebrating just yet.” Tatya said. “We have a lot of things we need to share, so try not to get too rowdy tonight.”
+
+“Good luck stopping us!” One of the attendants said, and everyone laughed because they could feel his amusement.
+
+Tatya looked at the other delegates. “Make sure you put your delegate-related provisions and acquisitions into the proper storage cart, marked under your name.” She said. “They'll be recorded, examined, and returned as quickly as possible.”
+
+All of the delegates did so, including Beholo the healer. He put both the wand and the Bracelet of Magical Boost into it, which annoyed Ren. Ren didn't want them to examine either of those items, so he absorbed the enchantment on the bracelet and absorbed all of the charges out of the wand and deactivated it. The diamond was still fused to the handle, so he figured that would at least give them some trouble with salvaging it. Unfortunately, Yuwen and Dilseffa walked over to do the same thing.
+
+“Excuse me.” Ren said, and Tatya looked at him. “I believe being my concubines puts both Yuwen and Dilseffa beyond that requirement.”
+
+“King Ren, any and all acquisitions must be submitted.” Kenkoth said.
+
+“I've heard from several people that being my Mistress supersedes all other concerns.”
+
+“King Ren, that is meant for social standing, personal positions, and in some cases, jobs.”
+
+“I know that.” Ren said. “So, it supersedes their delegate jobs.”
+
+Tatya took in a breath and let it out. “I said 'in some cases'.”
+
+“Okay.” Ren said. “That means you can tell people one thing, and as long as they don't understand the nuances of your culture's understanding of those nuances, you can twist and change people's perceptions and expectations to fit your needs.”
+
+“That's not what I'm doing.” Tatya said, and he felt her annoyance.
+
+“I meant that in a general 'you', not you specifically, even though you literally just did that.” Ren said. “Since I won't take back the gifts I've given to my Mistresses that is due their stations, what gives your people the right to remove those gifts from them?”
+
+“It's not a right. It's just always been done.”
+
+“So, it doesn't matter if it violates their personal requirements to wear them all the time as I've ordered them.”
+
+“Wh-what?” Tatya blinked her eyes at him.
+
+“I ordered them to wear their adornments at all times, whether I am here or not.” Ren said.
+
+“Why?”
+
+“I don't need to answer that, since it's immaterial to the problem at hand.” Ren said. “If you had told me before that anything I gave to you or your people would be confiscated, I would have waited until after the delegation disbanded before giving them their due.”
+
+Tatya didn't know what to say to that.
+
+“Wait a minute.” Ren said. “Does that mean you're going to confiscate the hooves and horseshoes I've added to the giant boars?”
+
+“We aren't confiscating them.” Tatya said, her annoyance back in full force. “They are being taken to qualified personnel to be examined, then they will be returned.”
+
+“No, I don't think so.” Ren said and stored them.
+
+There were immediate squeals of protests from the giant boars at the loss of their newly acquired abilities, and they started to thrash around in their pens.
+
+“What did you do?” Tatya asked as the mount handlers tried to calm the beasts.
+
+“I didn't give them to you or to the delegation.” Ren said. “I just took back my property, and you can clearly see how upset that made the giant boars.”
+
+Tatya closed her eyes and took another breath, then opened them to look at Ren. “Please put them back.”
+
+“I will not just hand over my enchantments or magic items without so much as a 'do you mind'.” Ren said and waved his hand over Yuwen and Dilseffa, and they gasped as all the enchantments and buffs he had put into their items was absorbed. “There. Now they can hand over the normal jewellery they wear, since its significance is meaningless to your people, unless it suits your purpose.”
+
+“Why didn't you just take them back, too?” Tatya asked, angrily.
+
+“I told you. I gave them their adornments for a reason. The reason is immaterial, since their importance can be ignored in order for their powers and secrets to be stolen.”
+
+“That is NOT...” Tatya started to yell.
+
+“Calm down.” Kenkoth said and put a hand on her arm.
+
+Tatya took another deep breath and let it out, then she nodded at him.
+
+“You aren't helping to clear up this situation.” Kenkoth said and turned to Ren. “If we had just asked...”
+
+“...or told me what was happening.” Ren added.
+
+“Then...”
+
+“The answer is no.” Ren said without a hint of anger or annoyance. “I've been nice. I've been accommodating. I've helped out where I could and I've even brought you all back home weeks before you could have gotten here on your own.”
+
+No one said anything, and he smiled.
+
+“I see now that you were all more than willing to accept my help, because you knew you would gain a lot more from it than I had intended.” Ren said and walked over to the first carriage. “I won't be as accommodating from now on.” He opened the door to the carriage and cast Sleep on Rimsoh and Mires before they could react, laid them on the floor they were chained to, then pulled the entire clear floor out of the carriage, much to everyone's surprise. It hadn't been attached.
+
+Ren took out a cart and carefully put the floor with the prisoners on it inside, put a top on it, then cast a Phantom Steed to haul it. The animal handlers caught their breath at the strong black horse that had appeared. Its hooves and mane were made of black smoke and Ren pet its head.
+
+“Hold on.” Tatya said. “You can't just take the prisoners.”
+
+“I'm not. They obviously can't stay in the carriage, and they still have to be taken into the capital from here. This is a transport I am providing to do that.” Ren said. “It's not enchanted or anything, so there's nothing for you to examine.”
+
+Everyone looked at the horse, and Ren chuckled.
+
+“It's just the Phantom Steed spell. It will end as soon as the cart reaches its destination.”
+
+“I suppose you want to go along with it.” Tatya said. “Where are you and your Mistresses going to sit?”
+
+“You can put your own driver on it because I've got my own carriage.” Ren said and took out the fancy carriage he had in inventory and created 4 more Phantom Steeds and attached them. “All I need...”
+
+“I'll drive it!” The attendant for the delegate carriage Ren had ridden in, exclaimed.
+
+Ren didn't ask if he was qualified to do that, since Gremkor the First Assistant had stated that all the attendants had training in everything to help and to take over if anyone else couldn't perform their duties.
+
+“Then hop aboard and take control.” Ren said and the attendant climbed up into the driver's seat and familiarized himself with the workings of the carriage, which impressed Ren. “Take it easy on the corners, since the carriage is much lighter than normal.”
+
+“I felt that when I sat down.” The attendant said with a smile. “This thing must fly like the wind.”
+
+“It does, so take it easy until you get a feel for it.” Ren said and turned to Tatya. “Kenkoth said to meet tomorrow morning for the debriefing. Am I still invited?”
+
+Tatya was sorely tempted to say no and revoke her invitation for him to come, then she felt his Mistresses emotions and that they believed that Ren was being treated unfairly. “Yes.”
+
+“I'm going to assume Yuwen and Dilseffa know where to go.” Ren said and turned to face Yuwen and Dilseffa. “Please put your adornments into the proper delegate storage spots, then I'll help you into my carriage.”
+
+Both women went over to the storage area and started to take off their adornments, and everyone could feel them become sadder as each one was removed. Surprisingly, they had each waited to remove the diamond necklace second last, and that had almost hurt them physically to do it. When they reached for their crowns, both of them stopped and tears came to their eyes.
+
+Yuwen took a deep breath and slid the diamond tiara out of her hair and placed it into the storage space carefully, as if it was made of glass. Dilseffa let out a sob as she took hers off, and she put it into her storage space with just as much care. She wiped at her eyes and like Yuwen, took a deep breath to try and calm down. Both women turned away from their unenviable task and walked over to Ren.
+
+“Thank you.” Ren said, to everyone's surprise. “Now they all know how unfair it is to make you give up your rightful items, and how much it hurt you to defy my order.” He stepped up into the air and gave them each a kiss on the lips. “Allow me to escort you to the royal carriage.”
+
+Both women took a step back to assume their place, and Ren smiled as he walked around behind them, took Yuwen's left hand with his right and Dilseffa's right hand with his left, then started to walk. They both walked automatically to stay beside him, then they caught their breath when they realized what he was doing.
+
+“K-king R-Ren...” Dilseffa managed to say.
+
+“Yes, my Mistress?” Ren asked and didn't stop walking until he reached the side of the fancy carriage, then he let their hands go and opened the door for them.
+
+“I... it... it's n-nothing.” Dilseffa said.
+
+Ren helped Yuwen into the carriage first, since she was his First Mistress, then Dilseffa second and Tiyaphi third. He didn't have to escort her, since she was already beside the carriage.
+
+“I would have escorted you, too.” Ren said.
+
+“And take away from you rubbing their faces in their treatment of their own delegates?” Tiyaphi smiled. “No, thank you.”
+
+Ren chuckled and helped Artemis climb in next, then he went to the driver. “Do you know where Dilseffa lives?” He asked, and the attendant nodded slightly. “Take us there at a moderate pace, please.”
+
+“Of course, My King.”
+
+Ren climbed into the fancy carriage and closed the door, then the attendant flicked the reins. The Phantom Steeds reared up onto their hind legs, neighed their displeasure at the things surrounding them, then trotted out of the carriage storage area with their heads held high. When they reached the road, the carriage turned at almost a right angle, something that no one there had seen before, then it poured on the speed.
+
+*
+
+“It didn't shake or bounce going over the rough patches.” Gremkor commented absently. “How in the world did he do that?”
+
+“You're not amazed at the corner it just took?” One of the other attendants asked.
+
+“No. He just used some kind of swivel hinge between the horse sets and between the horses and the carriage.”
+
+“If you know about it already, why don't we have things like that?”
+
+Gremkor chuckled. “The hinges keep breaking every time we test them.”
+
+“Oh.”
+
+“If I get the chance, I'll ask him about it before we go into the debriefing tomorrow.”
+
+“Do you think he's going to show up?”
+
+“He has to.” Gremkor said. “After the initial introductions and summary of our trip, they move on to any infractions committed during the trip.”
+
+“Did anyone tell him that?”
+
+Gremkor opened his mouth to say that someone must have, then he sighed. “It seems that we keep failing our guest every chance we get.” He said sadly. “What he said was right, wasn't it?”
+
+“What's that?”
+
+“We only tell people enough to give them an idea and never expand it to include all of the information that they would need.” Gremkor said.
+
+“We can't spill all of our secrets about our culture each time we meet someone new.”
+
+“I didn't say to do that with everyone.” Gremkor turned away from the road and looked at the large piles of supplies he needed to arrange to get to the capital city just down the road. “I'm saying it's unfortunate that none of us even thought of doing it for him.”
+
+“Are you saying we intentionally kept him in the dark?” The attendant asked, surprised.
+
+“We always intentionally keep everyone in the dark.” Gremkor chuckled. “I'm just sad that even after seeing everything he's done for us these last few days, it wasn't enough to convince us to not do the same thing to him.” He waved over one of the animal caretakers. “I know this is short notice; but, we need a cargo container and the heavy sled.”
+
+“We've been prepping it since you arrived.” The caretaker said.
+
+“Good man.” Gremkor said and turned to the attendants. “When it comes out, we pack in priority. Least important is first in, last out.”
+
+The sled was brought out a few minutes later and all of the attendants got to work loading it up. What Gremkor didn't realize was that Tatya and the delegates had been gathered nearby. They had overheard everything he had said and they all felt bad about it. Even though she hid it well, it was Tatya that actually felt the worst. It wasn't because she was the head of the delegation, it was because Gremkor was right and she never considered telling Ren anything at all that wasn't absolutely necessary.
+
+Tatya closed her eyes and tried to hold her regret in, then she felt a consoling hand on her arm. She opened her eyes and saw Kenkoth's sad expression, and she knew that he regretted it, too.

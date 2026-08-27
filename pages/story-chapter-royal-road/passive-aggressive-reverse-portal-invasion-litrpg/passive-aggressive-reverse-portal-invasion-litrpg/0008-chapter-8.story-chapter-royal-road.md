@@ -1,0 +1,183 @@
+---
+id: c7d06015-7605-5a18-b7f5-ad79f6816710
+page-type-slug: story-chapter-royal-road
+title: "Chapter 8"
+slug: 0008-chapter-8
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 8
+ownLength: 1909
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463450/chapter-8"
+royalRoadId: "3463450"
+---
+
+Talent trees. They were and a source of much speculation and not a few conspiracy theories back on Earth. They also kept Redditors, podcasters and amateur spreadsheets nerds consistently busy trying to make the best predictions, the most accurate overviews. And they were the source to real power here on Ademia.
+
+Attributes and quirks could make you stronger than Eddie Hall, faster than IShowSpeed and better at knitting than Auntie Gertrude. Skills would make you ever so slightly better at whatever you did. Yet, your talents were what could take you from insanely powerful into outright superhero territory. They could provide you with the magical arsenal to make you stand out from anybody and everybody.
+
+And some sorry fucker had gone and cut off access to half their prospective talents from the get go.
+
+I stared wistfully at my offensive talent tree, now entirely greyed out and inaccessible in front of me. Then I shook my head and focused on the defensive talent tree. I’d made my bed. Now, I was going to make it the most kick-ass defensive pillow fort ever!
+
+First, however, I was sidelined by the return of that tremor, followed by the strange sensation. That weird non-scream re-appeared, making my bones thrum and my inner ear confused by what was happening. A group of newcomers stopped in their tracks and looked at each other, fear and insecurity in their eyes. Then, seconds later, the sensation faded like it had never existed, the newcomers shrugged and continued, and veterans acted like it hadn’t even happened. I returned to my plans.
+
+One thing, everybody agreed about, back on Earth. The first few Tiers were mostly filler. Yet, they often contained a few must-haves or at least choices that would work well with your chosen path and grow along with you. One of my Tier 2 options shouted to the heavens:
+
+Improved Defense
+
+Passive talent. Adds to the effectiveness of your Fortitude, armor and shield. +5% per talent point.
+
+0/5 points
+
+Yes! Of course, I was going to choose that one. Eventually. It was going to have excellent synergies with my sky-high Fortitude and my positive quirk adding a fifty percent efficiency increase to all passive skills and talents.
+
+For now, I needed my killing talent. I moved on, laser-focused on my target, on my need to find the right choice.
+
+I laughed in stark relief. There. Tier 2. Shield Bash. Simple. Straightforward. Just what the doctor ordered. I grinned. Also, too weak. I was allowed to go for the top Tier. Why would I ever not do it?
+
+Tier 5. Yes please. This was the stuff. I was practically salivating. And there we had it. I nearly shed a tear.
+
+Force of the Elements.
+
+Passive talent. For a full minute after activation, each corner of your shield will be imbued with the elements. Any subsequent shield bash will activate one of four different effects; burning, freezing, knockback or a localized dust storm. 5 points to unlock.
+
+0/5 points
+
+Wonderful. It looked powerful as hell, versatile, and since it was passive, it’d fall under the umbrella of my positive quirk and be stronger! I grinned and selected the talent in order to spend the talent points and unlock it.
+
+A pop-up derailed my train of thought, like somebody tearing your headphones away, mid-track.
+
+Warning: A shield bash counts as an offensive attack. As such, it will be made inactive by your negative quirk, Enforced Anti-violence. Continue? Y/N?
+
+What? I re-read the notification twice. Then I started to sweat. No! This couldn’t be true. It was completely counter-intuitive. Of course, a shield bash was striking somebody. But it was still with a shield. And the talent was under the goddamn defensive talent tree! They couldn’t do this to me! I cancelled the selection and returned to the rest of the talents.
+
+A few minutes later, my panic was devolving into horror. They could, and were, doing this to me. Tier 2 Shield Bash? Offensive. Tier 1 Taunt? Mental attack, hence offensive. Tier 4 Dome of Pain? A 30-second ongoing burst of damage surrounding the Fighter, aka me. Offensive as hell. Just like that, a full four of my twenty-one total available talents had been made ineligible – and my plan for survival had been shot to shit.
+
+I panicked for a while. Well, first I spent at least five minutes trying to find a cancel button, the restart, any way to take back my stupid choice and get a do-over. Then I panicked. I also cursed a lot. Blamed whoever invented the system. The U-Nerds for urging people to choose quirks. And, obviously, myself for being the dumbest fucker alive.
+
+Eventually, I found some semblance of broken calm, and realized that the deed had been done. I’d messed up and would have to try to salvage the situation. It was either that, or go back through the portal, and be penniless in the middle of nowhere.
+
+I slapped myself on the cheeks to calm down, then started going through the Tiers, one by one, to see if there was anything that could be done. Most talents, it seemed cost five talent points to max, with a few exceptions.
+
+Tier 1
+
+Hardiness
+
+Improved Leap
+
+Improved Stamina
+
+Taunt
+
+Tier 1 was mostly crap. Improved Leap was impressively useless. It also only cost two talent points, where most others cost five to max, but still. Hardiness granted health, and Improved Stamina gave stamina. Both slightly useful – but neither were an issue for me. Taunt was useless, hot, steaming garbage.
+
+Tier 2
+
+Improved Defense
+
+Dodge
+
+Improved Resistances
+
+Shield Bash
+
+Tier 2 got a bit better, but not much. Improved Defense, as mentioned, would be an excellent choice, but not just yet. Dodge was an active skill, hence not as good as any passives for me. Improved Resistances? Yeah, no. Shield Bash was offensive and not an option.
+
+Tier 3
+
+Burgeoning Aggression
+
+Improved Run Speed
+
+Life Steal
+
+Slow Missiles
+
+All lovely choices. All useful in their own right. All utterly useless for what I needed. Life Steal sounded promising, but it was a passive that would convert a percentage of any damage I did to health. Which, at this moment, was zilch. Improved Run Speed was a bit better, being a passive, and also only cost three talent points. It still didn’t give me a way to fight back! I did find Burgeoning Aggression intriguing.
+
+Burgeoning Aggression
+
+Passive Talent. This AoE debuff affects all enemies in range, slowly ramping up any aggression already there until hostiles all focus on you and attack you in melee.
+
+Cost: 5 stamina per minute.
+
+Maximum duration: 20 minutes
+
+5 points to unlock.
+
+It was fun to see that an AoE debuff was not considered offensive, while the targeted Tier 1 Taunt absolutely was. Maybe because it didn’t discriminate and only affected what was already there? Anyway. It sounded a super effective talent, that would allow me to majorly piss off any enemy in sight and keep them on me instead of any Mages or Scouts. Except, it’d be the only thing I had points for.
+
+Ah, well. At least, if all else failed, I could choose this one and earn my pay as a monster magnet, letting others kill enemies without any danger. Well. Any danger to them. They’d still be trying to dismember me.
+
+Tier 4
+
+Burst of Power
+
+Dome of Pain
+
+Deflect
+
+Moment of Grace
+
+Wheel of Magic
+
+Burst of Power was incredible, massively increasing my attributes for a full minute and a passive to boot. Still no good for offense. Deflect… well, it was the first choice I’d found that could theoretically be used for offense.
+
+Deflect
+
+Passive talent. When parrying or blocking a physical attack, deflect or parry with an added 50 % force per point.
+
+Cost: 5 stamina per activation.
+
+0/5 points
+
+With my positive quirk, that would allow me to block or deflect an attack with an added - I slowly did the numbers in my head – three hundred and seventy five percent force. It wasn’t a real attack, but applied well, it could definitely break some monster arms or legs.
+
+Dome of Pain was a no-go. Moment of Grace was a lifesaver, literally, cancelling any damage and restoring thirty percent health. Wheel of Magic? Well, that one got my attention.
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, unleashing magical damage at enemies. Damage caused scales with damage suffered to a maximum of 20% of your health, and the magic types are randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+0/5 points
+
+Fucking finally! Something that would actually work even with my… issues. This clearly wasn’t an attack. It was also passive, which would… well, improve it by fifty percent, however that’d work. Hopefully it increased the damage.
+
+There was just one, very glaring, issue with this Wheel of Magic. It wouldn’t do jack against a regular old attack. A raging bear. A good old undead skeleton. Either of those would leave me hiding behind my shield, good for absolutely nothing. Hell, a regular dog could tear me apart. Yet, it was an option – and one that might actually make me earn my spot in a group, however inefficiently.
+
+I moved on to the final, ultimate choices.
+
+Tier 5
+
+Internal Scourge
+
+Personal Universe
+
+Shield of the Elements
+
+Wave of Reflection
+
+Internal Scourge was a lot less bloody than it sounded. It was actually a passive effect that would course through your body and work on cleansing all poisons and afflictions. You could also get it for just one talent point, though you could invest up to five for added efficiency. That one, and Personal Universe, were absolutely on the top of my personal list. It would grant me a personal storage space, allowing me to carry things along with me, just for one talent point! Meanwhile, Shield of the Elements, of course, was utter dogshit – and Wave of Reflection was my salvation!
+
+I couldn’t believe it. I stared at the description, mentally drained, reading the text, unable to take it in properly.
+
+Wave of Reflection:
+
+Passive talent. Any damage inflicted on you may be redirected as a wave of physical damage in any direction you choose. Also applies if the damage is blocked, absorbed or shielded. 15% of damage reflected per point.
+
+Cost: 15 stamina/second
+
+0/5 points
+
+Sure, the stamina cost looked prohibitive. But still – I had more than three hundred stamina, and hopefully it would be possible for me to activate it just for a single second or two, when I was attacked. However, if I managed to block an attack, and, on top of that, activate the talent in time, I’d be able to reflect… Okay, the exact math escaped me, but at least a hundred and ten percent of the original strike. Meaning, I could cause some actual damage, and still survive it.
+
+There were a lot of potential issues here, and it wouldn’t do anything at all, if an enemy decided to, well, not attack, or just grapple me or something. But I finally had it. I’d be able to fight back!
+
+I slammed all five talent points into Wave of Reflection.
+
+Now, I had to find myself some nerds and grow stronger!

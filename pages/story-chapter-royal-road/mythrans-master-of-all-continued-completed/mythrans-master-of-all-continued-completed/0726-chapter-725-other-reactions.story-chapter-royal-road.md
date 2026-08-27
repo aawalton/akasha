@@ -1,0 +1,275 @@
+---
+id: c06962c8-562a-537c-883d-317a81342f86
+page-type-slug: story-chapter-royal-road
+title: "Chapter 725 - Other Reactions"
+slug: 0726-chapter-725-other-reactions
+partOf: mythrans-master-of-all-continued-completed
+position: 726
+ownLength: 2887
+unit: words
+publishedAt: 2018-10-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296894/chapter-725-other-reactions"
+royalRoadId: "296894"
+---
+
+Ren brought Lara back out to her apartment and laid her on her bed, then closed the door to her library. “I probably shouldn't have told you how much it was.” He said and climbed onto the bed with her to wait. He was tempted to use a few potions to wake her, then figured it would be better to let her sleep and then wake up on her own.
+
+*
+
+Elerlyth was in the bakery and eating some of the tastiest fried dough pieces she had ever had, when she felt Ren appear, then his presence disappeared again.
+
+“Goddammit.” Elerlyth said, and the woman serving her looked at her with wide eyes. “Sorry, I just felt Ren appear and then disappear.”
+
+Ramona laughed. “He used to do that all the time, you know.” She said. “He's been gone for a while, though.”
+
+“Do you know why?” Elerlyth asked, curious if the NPC would know.
+
+“Of course. Patty heard from both the maids and Xuunah that his presence was causing them harm because of this Sea Dweller nonsense.” Ramona said.
+
+“That crazy stuff?” Betsie asked as she came over with the next order of fried dough. “I'm really glad Ren took that ambassador back before it all happened.”
+
+“Oh, I know!” Ramona chuckled. “I'm so glad that Babylon is keeping all the riffraff out!”
+
+“Riffraff?” Elerlyth asked.
+
+“Knight and soldier patrols from the surrounding counties.” Ramona said. “Babylon will let visitors in, but not people with wicked intent.”
+
+“Wait, that's the second time you've said Babylon. Who's that?” Elerlyth asked.
+
+“He's the sentient wall around the county.” Betsie said.
+
+“He's the WHAT?” Elerlyth exclaimed.
+
+“Why wouldn't you know that?” Ramona chuckled. “You live here, right?”
+
+“I... haven't been around much the last little while.” Elerlyth said a little sadly.
+
+Ramona nodded and pat her arm. “Do you know about the starter city full of ghoul kissed?”
+
+“Ren brought the High Elves here?” Elerlyth asked.
+
+“High Elves?” Ramona laughed. “Of course not! They're all humans from the Human Kingdom.” Ramona said. “The city is nearly full to bursting, too.”
+
+“But... when...”
+
+“Wow, you really haven't been around in a while.” Ramona said. “I've only heard the story a couple hundred times now...”
+
+“...not counting overhearing it.” Betsie said and laughed from the next table where she served another plate of fried dough pieces.
+
+“Oh, nearly a thousand if I count that!” Ramona laughed, too.
+
+“I'd like to hear it if you have the time.” Elerlyth said.
+
+“I can do you one better.” Ramona said and turned to the counter. “Nessie! I've got a hot one for you!”
+
+“Ooo! Fresh ears!” A woman came over to the counter, picked up a loaf of bread, a knife, and a plate with butter on it, then jumped the counter like it wasn't there and slid across the floor to end right beside Elerlyth's table and sat down. “The bread's on me!”
+
+Ramona laughed and pat Nessie on the shoulder, then left her to tell her fantastical tale to Elerlyth. Nessie expertly cut several slices of bread off the loaf, buttered them, then handed a piece to Elerlyth. She took it and Nessie started to tell her all about how Ren had come into the hospital ward and rescued her from the most horrible fate she had ever imagined for herself.
+
+Drudgery.
+
+********
+
+Dana and Gretchen sat beside each other in class and stared at Dana's cell phone at all the notifications, message postings, and updates from Ren's fan site and the game's main web site.
+
+“Can you believe it?” Gretchen whispered and tried to lean in closer to look at the small screen. “Ren couldn't have fixed the game.” She said, disbelief in her voice. “He... he couldn't have... could he?”
+
+“Considering it's all over the net, and even posted from the official site as a press release, he would have had to do it.” Dana whispered back. “I didn't think he had that kind of smarts, though.”
+
+Gretchen chuckled under her breath. “Dana, did you expect him to just be some blonde airhead?”
+
+Dana's mouth made that little 'o' of surprise, and Gretchen covered her own mouth to stop from laughing. There was another vibration from her cell phone and Dana checked the message popup and gasped.
+
+“Do you have something to add to the class, Miss Harrison?” The teacher asked, and Dana looked up at her with wide eyes.
+
+“No, miss.” Dana said. “I just need the bathroom.”
+
+The teacher sighed, then waved a hand towards the door. “Then hurry up and go. You're disturbing the rest of the class.”
+
+“Sorry, miss.” Dana said and stood up, grabbed her things. No one said anything, then she grabbed Gretchen and hauled her to her feet. She grabbed her things as well, and the two of them quickly left the classroom.
+
+“What was it?” Gretchen asked when they were part way down the hallway.
+
+“An audio interview from Ren.” Dana said and opened the door to the bathroom. They entered and checked the other stalls, then Gretchen leaned against the wall and Dana sat down on the closest sink, then hit the play button.
+
+“So, Ren.” Barbi's voice said. “How do you like being a celebrity?”
+
+Ren's laugh sounded genuine, even on a cell phone's speaker. “I'm not famous or a celebrity...”
+
+Dana and Gretchen listened intently as Ren was interviewed, and commented as new tidbits of information were revealed.
+
+“Ren has a toy line coming?” Dana asked. “I'm entering that draw!”
+
+Gretchen chuckled and they kept listening.
+
+“The show's cancelled, so they're going to stream the next episodes!” Gretchen said excitedly, and listened some more.
+
+“He admitted he helped fix the game.” Dana said. “I wonder how...”
+
+They kept listening as the interview went on, and their eyes widened as Ren described going through each individual file to repair the damage from the Water Works update, and they were amazed at the detail he gave.
+
+“He... he must have done it.” Gretchen said. “I don't know any programming stuff, but he sure sounds like he knows what he's doing.”
+
+Dana nodded and then they both gasped as Ren said how monumentally stupid the network had been for cancelling the show on a cliffhanger.
+
+“Oh, my god! He's right!” Dana exclaimed. “He fell into the bottomless pit at the end of the last episode!”
+
+“That station is so screwed.” Gretchen said, and they both laughed.
+
+“What's going on in here?” A girl asked as she stepped into the bathroom.
+
+“Do you watch Ren's show?” Dana asked, and the girl nodded.
+
+“Then you need to listen to this.” Dana said and hit play again. More girls came into the bathroom at the sound of Ren's voice, and they quickly forgot their indignation of having a boy in their bathroom and joined the impromptu audience.
+
+*
+
+The judge came back from lunch and saw that most of the people that usually sat in the audience were now missing, and the space behind the plaintiff's table had a few more people wearing suits. He looked at them for another few moments and recognized several of their faces.
+
+Well, damn. I know what that means. The judge thought as he opened the next folder and the new lawyer at the desk handed a thumb drive to the bailiff. He humored himself about automatically ruling in Ren's lawyer's favor, just so he wouldn't have to sit through another section of that horrible video, then pushed that absurd thought from his head. He hadn't dismissed that first case because he didn't want to be known as a prejudicial judge, so he wasn't going to do it now. He wanted them to prove their case, like the good judge that he was, and if they didn't meet their burden of proof... he could censure them for wasting his time and for making him watch that poor boy again.
+
+Fortunately for Ren's lawyers, they were very good at their job. For the rest of the day, none of them lost a case or were censured, and the judge had the distinct benefit of watching the entire video and seeing all of the paper evidence. The photos were the worst, since they weren't stills of the video and were actual photos taken at the time of the experiments and in the hospital after Ren had been rescued.
+
+*
+
+“Hey, aren't you going to call the police?” Trisha Takinawa asked.
+
+“No.” One of the guards said as the van pulled out of the driveway and then left Emerald Estates.
+
+“Where are you taking us?” The camera man asked.
+
+“To the special task force headquarters.” The guard said.
+
+“Wh-what?”
+
+“You see, we know all about the police chief being involved in this mess, and the mayor, and the senator for the state.” The guard said, and Trisha's eyes widened. “That's right. If we delivered you to the police, you'd be out on a technicality by tonight, and we can't let that happen.”
+
+“You... you can't just hold us for no reason!”
+
+The guard laughed. “No reason?” He pointed to the fake camera that another guard was working on. “You were gathering information about Mr. Haddon's associates and downloading all of the computer information you could get your hands on.”
+
+“That... that's not...” The camera man stopped talking, and the guard laughed.
+
+“Yeah, it's difficult to protest innocence with it right in front of your face.” The guard said. “Oh, and before you tell us that we can't hold you for more than a certain time limit, people who commit domestic terrorism can be held indefinitely, or until formally charged.”
+
+“But... but...” Trisha stammered, and he smiled.
+
+“Don't even think about arguing that it's not terrorism.” The guard said. “You know for a fact that boy is going to be hurt by whatever information you gathered today.”
+
+Trisha closed her mouth, because she couldn't argue that the information wasn't going to be used.
+
+“You even violated the code of ethics of your profession when...” The guard stopped talking when they went over a particularly hard bump. “Ah, we're here.”
+
+The doors at the back of the van were opened and the two prisoners were removed.
+
+“You can't just... keep us.” The camera man said.
+
+“That's where you're wrong.” The guard said as he stepped out behind them and tapped the side of the van. “This is a Faraday Cage.”
+
+The camera man opened his mouth for a moment, then closed it.
+
+“Yeah, no tracking device will work through it.”
+
+“What about my car?” Trisha asked.
+
+“It's being delivered to your house as we speak.” The guard said. “As far as anyone knows, you went home after going to Mr. Haddon's.”
+
+The two prisoners were escorted across the large underground garage and to an elevator that went down instead of up. No one said anything as the doors opened into what looked like an office building, and the people there turned to look.
+
+“Wh-what is this place?” Trisha asked.
+
+“The best personal security firm in the country.” The guard said. “Well, we're trying to be the best.” He smiled. “Our current client has shown us that we need to change how we do some things.”
+
+“These the new people?” A man asked, and the guard nodded. “Put them in cells across from each other.”
+
+“Are you sure that...”
+
+“We can't have them in the same cell, especially if the guy tries to kill the weaker link.” The man said, and Trisha's eyes widened at his casual dismissal of her potential murder, then she glanced at Bob and saw that he wasn't looking at her. She shivered slightly and kept her face blank. They were brought to the holding area and had their handcuffs removed, then left in cells across from each other. When the guards left, Bob tried to talk to her.
+
+“Trisha, look.” Bob said. “It's not like that...”
+
+Trisha didn't respond and sat down to face away from him, because she didn't want to see Bob's indifferent face anymore.
+
+********
+
+Lara woke up on her own and saw that she was laying down on her soft and comfy bed.
+
+“Good morning.” Ren said, and she quickly sat up.
+
+“REN!” Lara yelled.
+
+“Shh, it's okay.” Ren sat up himself and rubbed her back.
+
+Lara turned and looked at the picture on the wall and looked back at him. “Did... did you really...”
+
+“I knew you'd like it; but, I didn't think it would make you faint.” Ren said, concern in his voice.
+
+“I... I...” Lara took several deep breaths and covered her face. “Ren...”
+
+“I can block it off if you want...”
+
+“NO!” Lara gasped, then dropped her hands. “No, I... it was just...” She took another breath. “Why did you spend so much?”
+
+“Actually, you mean 'why did you spend so little'.” Ren corrected her, and she looked at him with surprise on her face. “Corporations get a deal when buying items from companies they own stock in.”
+
+“Wh-what... what...”
+
+“Do you remember my last birthday when Elise gave me that stock portfolio?” Ren asked, and she nodded. “One of the stocks she gave me was for an e-book publisher.”
+
+Lara's mouth dropped open in shock.
+
+“She knows how much I liked reading books when I was younger and had lots of free time on my hands.” Ren said. “I also suspect she remembered my reaction the first time I stepped inside the Aurora Library.”
+
+“R-Ren...”
+
+“I didn't think it would benefit me much, then when all of this happened with the game, I realized what I really had access to when Vasalor and I spent so much time fixing things.” Ren chuckled. “I gave new meaning to the word 'volume discount' when I bought the e-book company's entire content library.”
+
+“But... but...”
+
+“I got them for pennies on the dollar.” Ren said. “Of course, once I did a few inquiries to other companies and they discovered I could drop a significant amount of money into their accounts right away...”
+
+“Good god.” Lara whispered.
+
+“Yeah, making 10,000 or 20,000 dollars instead of 2 or 5 dollars, really makes people want to give their stuff away.”
+
+“Ren, you... you shouldn't have...”
+
+“I know you aren't as fussy on using electronic devices to read as you are using real books, so I figured this would be the best compromise.”
+
+“W-wait.” Lara turned and put a hand on his chest. “Did you say electronic devices?”
+
+Ren nodded. “You can access the library from the real world.” He said. “It's even sorted by-mhmm!”
+
+Lara kissed him hard and pushed him back down onto the bed, then she stored her clothing to show that she was very ready for him. He stored his own clothing and she saw that he was just as ready for her.
+
+“I love you so much, darling.” Lara said and joined with him. Neither of them spoke, except for moans of pleasure, for longer than either of them could have imagined.
+
+*
+
+“That's a great story, right?” Nessie asked Elerlyth as she finished off the loaf of bread. “The liberation of the sick and injured from a life of drudgery, and brought to the promised land!”
+
+Elerlyth snorted a laugh, and Nessie laughed.
+
+“Yes, I exaggerated that last part, but...” Nessie leaned in conspiratorially. “...getting to choose where you want to live and where you want to work, or even start something new, has been the best thing for everyone.” She said and sat back. “I never imagined I'd get to work in a real bakery, and this place is better than any bakery I've ever seen!”
+
+“I think you've used up your break.” Ramona said as she came over to the table.
+
+“You're right! I just finished my loaf!” Nessie said and stood up. “Thanks for letting me talk your cute pointy ear off.” She said and grabbed the plate and knife, took a quick run towards the counter and hopped over it like it was nothing again, then slid across the space to the sink and tossed in the dirty dishes. She took two steps over to the giant mortar and pestle and sat down to crank the mechanism. The thing whirled around quickly and she pulled the lever to add more wheat to it to make more flour.
+
+“Holy crap.” Elerlyth said, and Ramona chuckled.
+
+“Yeah, she's a lot stronger than you'd think by just looking at her.” Ramona said. “She also loves working here as much as we do.”
+
+Elerlyth looked up at her, and Ramona smiled.
+
+“Is there anything else we can get for you?”
+
+“No, thank you.” Elerlyth said and held out a gold coin.
+
+Ramona chuckled and closed Elerlyth's hand over the money as she leaned in close. “Residents don't need to tip.”
+
+“It's not a tip, it's a thank you.” Elerlyth said and opened her hand, then put the coin in Ramona's hand and closed it. “Thank you.”
+
+“It's always nice to meet someone new.” Ramona said. “Have a great day.”
+
+“I will.” Elerlyth said and left the bakery to walk back across the road and took out several fried dough pieces to feed to her steed, Etheria. I wonder how long Ren's going to be? She asked herself and let her Emotion Siphon ability take some of her steed's enjoyment of the treats.

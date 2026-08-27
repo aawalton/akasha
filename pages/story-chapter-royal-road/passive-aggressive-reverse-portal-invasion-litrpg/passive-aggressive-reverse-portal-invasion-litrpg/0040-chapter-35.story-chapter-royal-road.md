@@ -1,0 +1,79 @@
+---
+id: 642f35a1-8a21-5160-a3ea-94c4f6cbc312
+page-type-slug: story-chapter-royal-road
+title: "Chapter 35"
+slug: 0040-chapter-35
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 40
+ownLength: 1924
+unit: words
+publishedAt: 2026-06-27
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3598153/chapter-35"
+royalRoadId: "3598153"
+---
+
+Half an hour later, I was relaxing. I’d been deprived of about a third of my precious coin so far, and I was regretting nothing at all.
+
+Kimzi, the glowing Larian who currently earned her living pointing people in the right direction and harnessing the power of gossip, had been a godsend. Not only did she deliver on everything, she also helped warn me about some rookie mistakes I was pretty certain I would’ve committed otherwise.
+
+First off, I learned about the untouchables. By that, Kimzi indicated the four people here in Last Chance who were absolutely not to be messed with unless you wanted to stop breathing. There was a monster slayer, a smith, a Crafter with his cadre of underlings and a fighting Collector. That last one, it appeared, was a rather badly-tempered Gold-Rot Collector who went out solo to collect materials and fought off anything that got in her way. The others were, by and large, easily explained, and I got a nice physical description to go with all of them, so I didn’t inadvertently piss them off.
+
+Then I learned how people went about getting work here in Last Chance, and the best way to not tick off or get conned by the people who actually went about providing the jobs.
+
+To my surprise, there wasn’t too much actual lawlessness going on. Or, rather, there was no law. But not a lot of people went a-murdering, trying to set up their own little kingdom or treating others like dirt. Why? Well, because when the place held less than five hundred people, you didn’t get to act like a dick for long before you managed to annoy somebody who knew somebody powerful. And that was not a survival strategy.
+
+On top of that, because the place was lawless, there was no infrastructure in place to keep some above the law. No crooked magistrate, no Supreme Ruler wielding absolute power. So, young masters or nobleman’s sons running amok was not a thing. At least not for long, because they’d be put in their place by somebody stronger.
+
+One final thing, I learned, by absolute coincidence. The system, in Ademia, was called ‘kismet.’ So that was what it meant. No explanation why, no reason. It just was. Good to know.
+
+Following that, I got myself settled. And by settled, I meant renting a place I’d be safe in. That was also my first experience with mana attunement, which was duller than expected. Basically, a fingerprint scanner, only magical. Regardless, I got myself a single room with a bed and a large chest, which ostensibly should be inaccessible to anybody who wasn’t me. Obviously, I’d still keep my important goods in my Personal Universe but… worth it.
+
+I got my bath. It was a simplistic clay bathtub, placed out in the open for all to see, next to three other rows of tubs of different sizes and shapes. Two Adrastians, a Larian and one of the ugly bird-people were occupying their own tubs. Sprawling… all over the place. Apparently, nudity was not taboo here in Ademia – that, or the type of people who lived in Last Chance had other concerns.
+
+Flapping or not, it was an amazing setup. Actually, it was handled and arranged by that one Crafter and his apprentices who I definitely shouldn’t mess with. Tenethor.
+
+There was no monopoly on business in this place. But the guy had been quick to go in and secure a huge part of the business for himself. He was a Crafter, focusing on constructing with the elements, and all his apprentices followed his footsteps, in one way or another. This meant, if you wanted, say, a room in one of his large, brick-shaped buildings, or a clay bath tub with water summoned from nowhere and heated by magical fire? Tenethor’s apprentices were the ones who prepped the area, heated the water and collected all your hard-earned mana-coinage. Only if you had a proper order, like a custom-made wizard’s tower pulled from the soil would you get to talk to Tenethor himself.
+
+I floated in steaming water that had just been re-filled at an extra cost, after I’d scrubbed off all the horrid reminders of the gory details of my travels. Free to consider my situation and what to do with myself.
+
+Some of the heat from the water seemed to fade as I realized just where I was. I grimaced and dipped below the surface, holding my breath for as long as I could. When I surfaced, I shook my head and steeled myself, facing facts.
+
+The past week and more had been one long life-threatening experience with me running for my life and fighting for survival. I hadn’t given myself the time to really think about my situation, or I might have just laid down to die. I snorted. Okay, that wasn’t an option. I’d always been too stubborn to quit.
+
+But now… now I was actually safe, for a given value of ‘safe’. I’d be able to find myself some proper equipment, learn about my surroundings to avoid inadvertently stumbling into my doom. Meanwhile, humanity’s surviving representatives to Ademia were likely toiling away, enslaved to the bestial Kadren. What should I do? What could I do?
+
+I crossed one option off of the list right away. Even with better equipment, I was not going to try to take on the Kadren forces by my lonesome. That’d be insanity, as it was. Right now, I was still one against hundreds, thousands, even, and the beasts were clever enough to adjust to anything I could throw at them. On top of that, I was still vastly underleveled compared to the leaders of their forces. That Higher Glimmerscale had been nearly twice my current level.
+
+At least I’d realized, after the fact, that somebody was bound to have fled through the portal and informed Earth what was going on. They weren’t going to keep feeding the beasts with fresh slaves. And, beasts or not, they weren’t likely to just chow down on the surviving humans, because free labour, right? At least I hoped I was right in that.
+
+Perhaps the answer lay in there somewhere. Level up enough, grant myself enough automatic retributive damage and healing, and I’d be able to stand tall against anything this world would throw against me. Even go up against an army on my lonesome. I nodded slowly to myself, waves sploshing against the edge of the tub. Yes. The answer to everything in this sanguine new world seemed to boil down to power. I needed equipment. I needed knowledge. Then I’d go out and earn the power to take everything else for myself. In the meantime, humanity was going to have to fend for itself.
+
+***
+
+The smith was known only as Stalwart, which was either a joke or alluded to some hidden quality. He was the first of the untouchables I talked to in person. He was neither big, nor gruff, like I expected from a smith. Rather, he was another glowing Larian, who simply employed a bunch of big, tough people for the grunt work while he himself took care of the finer details. The short, middle-aged man with the pinched face and receding hairline would’ve fit right in as a pawnshop broker in a movie, y’know, except for the glowing.
+
+From behind his counter in another huge earthen warehouse-like building clearly crafted by Denetar, he and his underlings ruled the scene. One end, open to the outside, held the smithies; sparks, smoke and racket surrounding the actual work. The other end was filled with stands and racks showcasing pieces of armor and weapons. I never saw Stalwart at work. Instead, he commanded the shop like he was a king, and his workers were peons.
+
+“Two minutes. That is what I will spare for you.” His tone managed to be curt, business-like and dismissive all at once, and yet not overly hostile.
+
+I’d released every material I’d gathered so far from within my Personal Universe onto the counter, and was now receiving Stalwart’s verdict. It wasn’t pretty.
+
+“You want a shield and armor made from this? No. You know not of which you speak, and I will not let my name be sullied by crafting something as subpar as that.” He tapped the front of the Millipede skin with a nail, nodding at the ringing sound from the nearly rock-hard outer shell. “This skin is extraordinarily hard and absorbs sunshine, which helps harden the material even further. While parts have been marred by the amateur who skinned the beast, the structure remains sound. Even so, using it for any sort of shield would be ridiculous.” He moved down the counter, shaking his head as he looked at the Marmot skins. “These… I can use to craft some leather armor. They will add some Agility, a slight movement improvement, and I can work in added durability, since it looks like you do not pay proper care to your equipment. Yes?”
+
+Was he asking if I was mistreating my equipment, or… “Yes, that would work just fine for me. And I would’ve maintained my equipment better-“
+
+“I care not. That is your problem. I have two possible offers. One: I will take the Millipede skin and the Marmot skins, and craft your leather armor for you. The result should be good for somebody of your level, and you will receive the rest of what is salvageable from the Marmot skins for eventual repairs.”
+
+I sighed and extracted my sadly deceased shield from my Personal Universe. “This is what’s left of my old shield. I need a new one.” I really didn’t care to be stuck with just the tiny buckler for protection.
+
+He looked at the shield, let one glowing finger run across the bite marks still showing from the upper, broken part of the shield freely flapping about. His eyes widened, as his finger continued to explore the punctures, scorch marks and multiple other damages. His voice didn’t change, though, as he continued his listing. “Two. I am in need of specific materials. Materials which would work well for a new shield for somebody of your bulk. Yet, my helpers are Collectors, not Fighters. Judging by your health, if not your levels, I believe you should be able to handle the job. Protect them, keep them safe from harm and bring me my materials, and I shall craft your shield as well. To the utmost of my capabilities.”
+
+His demeanour never wavered. I’d grant him that. He was one unflappable son of a bitch.
+
+“I’m in!”
+
+That night, I slept like shit, even if my mattress was surprisingly soft, made from some sponge-like material that looked like moss had hardened into something soft and bouncy. I knew exactly why I wasn’t sleeping. A good person – hell, a decent person – wouldn’t be here, chilling in luxury, aiming to slowly build up themselves, haggling in comfort, drinking good beer, while their kin languished in slavery a hundred kilometres away.
+
+I knew I wasn’t a hero, or whatever you’d call somebody demented enough to up and throw themselves into the sort of suicidal charge taking on an entire beast army would be. Still, my ridiculous head just wouldn’t shut up about it. So, I did the only sensible thing. I tossed and turned and cursed the fact that, somewhere along the way, I’d gotten myself a set of morals, tarnished as they might be.
+
+Maybe they’d go away eventually.

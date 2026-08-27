@@ -1,0 +1,148 @@
+---
+page-type-slug: story-chapter-royal-road
+title: "Chapter 61"
+slug: 0069-chapter-61
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 69
+ownLength: 2942
+unit: words
+publishedAt: 2026-08-27
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3871042/chapter-61"
+royalRoadId: "3871042"
+---
+
+The second day brought the ambush.
+
+To begin with, the day promised more of the same, with few differences. A few additional tactical discussions on the go, pretty much retreading known ground. The initial mood of greed and eagerness in the groups was softly veering toward nerves and fear, as the prolonged march allowed us just a bit too much time to consider exactly the kind of attack we’d embarked on.
+
+We spent a good deal of time between the four of us, debating all the poor human slaves in the camps and what, if anything, we could do about it. At this point, the general mood among the people of the Last Chance was that the slaves were an unknown best left to themselves, and that any slave bonds being released mid-battle would just help tilt the battle further in our favour.
+
+We didn’t disagree. We’d never lied to Cuilcis. But we damn sure didn’t tell him that all those slaves were our own species, or about the portal. There was no way to guess what he’d use that knowledge for, but… well, in his own words, that was sure to be ‘tethered’ knowledge. So, we agreed with the others that the slaves should just be left alone, and hoped the battles wouldn’t roll over them. If we got the chance to help them mid-battle, we’d absolutely take it, but odds were good that we’d never even go near them.
+
+Haddock continued his quest to fill his Temporary Storage with pre-made constructions, now with thought to any future alterations he might make once shit hit the fan. Steve continued working on his Stealth and Spot skills, mixed in with a little sparring. Meanwhile, Nix and I switched it up a bit and worked on both Water and Fire Resistance. Not because we were planning for Water Resistance to be used in the battle, but because the damn skill was still at one. Also, she really wanted to get her Water Magic skill up.
+
+There was one detail we’d discussed a lot between the four of us. The premise of the battle to come was simple. We were going to monopolize the attention of all the tough enemies. Meanwhile, the good people of Last Chance were going to get to work grinding down the massive number advantage held by the Kadren. Only, we didn’t truly know about the competence of our allies, and what little we knew about their general tempers and dependability did not speak to their advantage. In the end, it didn’t matter, though. The dice had been rolled. We’d locked ourselves on the path. If we tried to change things up at this point, people were going to be slightly upset.
+
+Entirely unplanned, we did get a chance to experience their competence for ourselves. A bit past noon, our forces were just unfurling from a break and launching into motion like a particularly confused Roomba, moving in stops and starts, heavily accompanied by groans and mutters.
+
+We’d taken our downtime in a bowl in the landscape, certain that our scouts would look out for us. That made the shock even more physical, as a large group of Kadren barrelled over the edge of the bowl less than a kilometre ahead.
+
+For a few seconds, there was nothing but stunned silence on both sides. Nobody on our side was ready for anything. I saw a few weapons emerging from out of nowhere, as people hurriedly equipped themselves from their Personal Universes. On the Kadren side, it was stunned silence. There were at least two dozen of them. A mix of Riverkin and Glimmerscales, with just a few Skreelings thrown in. As one, the Kadren erupted in louds clicks, hisses and howls. They turned on their heels, likely in an attempt to flee our forces.
+
+Our scouts struck first.
+
+From one second to the next, the edge of the bowl behind the Kadren filled with people, every single one of them wielding some ranged weapon or throwing some sort of talent-assisted ranged attack. On top of that, a few attackers burst out of hiding right next to the beasts, engaging in close combat.
+
+Belatedly, I raced forward, buckler in hand, cursing as I realized there wouldn’t be any time to strap on my shield. As I moved, I identified every enemy I could see, trying to get a grasp on what we were up against. Level 18 Riverkin. Level 16 Skreeling. Level 22 Glimmerscale. Level-
+
+With a massive roar, Jaggor’s shape emerged right in the middle of the fleeing Kadren. It had to be a talent. His oversized shape had moved fast enough my eyesight painted him as a half-conceived, blurry shape. Now, he was right there, large, over-telegraphed movements showing exactly where his armored limbs were going to impact next.
+
+The lack of finesse didn’t matter.
+
+I watched a Level 23 Skreeling rise on its hind legs, claws stretching out to meet Jaggor’s attack.
+
+Jaggor’s strike tore the claws aside, and caved in the skull of the Skreeling. It flopped onto the ground, rolled once before standing back up, drunkenly reeling, trying to evade and escape his massive reach.
+
+His next attack grasped onto one clawed leg and pulled it right off in a spurt of blood.
+
+All across the board, the Kadren were falling. One Riverkin downed a scout with some dark blue, intangible wave of energy and a Glimmerscale abandoned the idea of running entirely, instead sending fiery bolts coursing right into the midst of our numbers.
+
+Yet, they couldn’t compete. The ranged damage of our scouts was taking a toll, one Kadren after another falling, born down by hostile talents or studded with missiles. And when the lighting-quick Riverkin tried to race for home and safety, a line of mostly Agility-based scouts blocked the way.
+
+It was a slaughter. An entirely one-sided slaughter, leaving no real chance for the Kadren. Oh, there was no actual co-operation here. The scouts had agreed on the ambush, but beyond that, it was every man to themselves. They’d ignore others who were in danger, if they saw an opening to kill an enemy to themselves, caring more for experience than actually ensuring that the Kadren were kept from fleeing.
+
+It was enough.
+
+The Kadren, surprised, and stuck between a rock and a hard place, (The rock being Jaggor.) were slaughtered. In less than two minutes, the ground had become churned up and blood was vitalizing the soil.
+
+A while later, Steve rejoined us. He was surprisingly surly for how well the ambush had been pulled off.
+
+“Well done, mate!” I called. “You guys really did a good job of ambushing those Kadren. I feel quite a bit better about our part now.”
+
+He grimaced and walked closer, responding in a low voice. “Yeaaah. Maybe tone down the praise.”
+
+“What? This was totally one-sided. Our scouts proved that they’re bad-asses and able to do some decent ranged damage. On top of that, Jaggor’s a goddamn menace, and we managed to take down a decent part of their higher-leveled beasts. How is this not a win?”
+
+Slowly, Steve extracted his spear, showed us the tip, still dripping with dark blood. Then he crouched and started wiping it in the soft grass. “The scouts didn’t think. When one of them spotted the Kadren, they agreed on the ambush in seconds, and didn’t think to consider that the Kadren are thinking creatures too!” His voice was thick with frustration. “Sure, they’re beasts. But we know that they grow smarter the more they level. So, I decided to hang back, invisible, and see what happened. Right enough. A few hundred meters behind everybody else, a Level 23 Glimmerscale followed, with some sort of stealth effect hiding it. When the others ambushed, it high-tailed directly for home.”
+
+“But you stopped it?” Nix asked.
+
+Steve nodded. “Yes. It was too distracted running for its life, and I got in a cheap shot. Earned myself a level, too. But this just goes to show. Yes, the people from Last Chance might be efficient fighters. All of them have likely fought for their lives and are used to doing what it takes to survive. But, clearly, not a single one of them is able to think tactically beyond the first move. Meaning, not only do we not have the advantage there… the Kadren are bloody likely to have a step up on us.”
+
+I was ready to disagree, but forced myself to think about it. That very first attack on the Ever Steady had shown us a good deal of things. Not only were the Kadren able to adjust on the fly. They also had several different steps planned out right from the get go, with additional contingency plans in place. Not just for the attack itself, but thinking ahead to make sure they’d catch any human managing to flee the battle. “That’s a disturbing point. And you’re right. Nobody here’s ever planned out any large-scale action, while the Higher Kadren are used to it. It doesn’t change anything, though, does it?”
+
+Steve wrinkled his nose, looking off in the distance at where the Collectors were busy skinning and de-scaling the downed Kadren. “No. This is the best chance we’ll ever get to take them down. Beyond that, they did prove that they can hold their own in a fight. As long as we keep the Higher Kadren focused on us, we should be able to pull this off.”
+
+“Hope so, mate.” I lowered my voice. “Besides. I’m not proud of this, but if they’re the cost we need to pay for humanity to earn our freedom again? I’ll pay it a hundred times over.”
+
+We considered the Kadrens’ next move. Obviously, there was no way to be certain that this was the only team of Kadren sent out to check on Last Chance and their missing group of low-leveled fighters – but if they were, we’d just earned us enough time to complete our mission. It would be at least four days before the Higher Kadren should wonder at the absence of the group. Unless they had some sort of magical alert system, the conflict should be over and done with by then.
+
+Early in the evening, we arrived at the same hilltop we’d used the last time to scout out the place. Guided to the place by Cuilcis, the people of Last Chance took every precaution to ensure we weren’t caught in the act. Scouts were everywhere on the outskirts of our forces, nervously squinting at every single grass stalk. The rest of us didn’t dare move beyond what they informed us would be acceptable.
+
+Every single person who wanted to join the final discussion about the assault spent a while painstakingly sneaking up the hill before returning to talk. Even Jaggor made the effort, creeping the last part on his knees, which looked extremely awkward for the big quadruped.
+
+Eventually, we sat down on the far side of the hill. Our numbers had grown again. Now that it settled in everybody’s minds that this was actually happening, people wanted to get in on the planning, or at least make sure that they knew exactly where they were supposed to be.
+
+Jaggor toned down their expectations right from the get go. “Right. Now that things are heating up, you all want a say? Well, you should have joined up earlier. We told you the stakes and you opted out. You’re free to listen, but you’re also going to shut up!”
+
+“Who’re you to decide that?” A tall Larian shouted, hand on a long, curved sword. “Last Chance don’t work like that.”
+
+Jaggor spoke on like he hadn’t said anything “Anybody who disagrees can get up here, and I’ll discuss things with ‘em one by one, best I know.” His huge front limb thumped the soil, making no secret of the method he was going to use.
+
+The Larian piped down. There were no other takers. What a big, fat surprise.
+
+“We’re planning to attack at dawn. First rays of sun peek out, we strike. Our distraction hits first. Then we go in. Combined forces, charging in from the west. Hit hard, all the way to the walls, then we pull back and defend. Any of you have any new arguments to change that?”
+
+“There’s that big, fat Soil Scourer-“ Denetar started talking.
+
+“Get to that in a second.” Jaggor interrupted. He waited for a moment, to see if anybody else had anything to say, then nodded. “Good. Everybody groups up as they please. Don’t save your talents. That first charge is going to cause some real damage – but only if we hit them as hard as we can.”
+
+“What’s the signal?” A short Adrastian asked. She looked like a damn teenager to me, even if she was more composed than a lot of the older people present.
+
+“You’d have known if you’d paid attention, Itta.” Jaggor growled. Then one elephant trunk-thick limb pointed straight at us. “The signal’s those folk pissing off all the high-level bastards on the inside of the walls. Right?” He raised one huge, drooping eyebrow at us.
+
+I nodded in return. “Odds are, you’ll be able to hear their howls way back in Last Chance.” I shrugged. “If you can see us on the tower, when they start making noise, you know we’ve gotten the plan off as we hope to. If you don’t see us?” I let my eyes glance around at everybody, trying to act relaxed, even as my heart was beating a mile a minute. “Then we messed up, and you’ll probably want to start running.”
+
+Jaggor grunted. “Leaves only the last tiny detail. Big, ugly bastard of a Soil Scourer. He wasn’t in the plans. What do we do about him?”
+
+With a certainty I did not feel in the slightest, I cracked my neck. “Leave him to me.”
+
+For a moment that stretched until it felt like forever, Jaggor hesitated. Then he pounded the soil again. “So be it. Unless there are any final changes, this is it. Scouts will keep a close watch on everything all night, kill anything they find. Make your preparations. Choose your talents. Make peace with your gods. Tomorrow, Last Chance attacks – and we either die or grow strong enough to challenge the entirety of the Torn Divide!”
+
+***
+
+Of course, it wasn’t as easy as that. Just like in any other job, a lot of people needed things explained two or three times. A few tried complaining or debating the points of the plan. Jaggor actually did end up pummelling one particularly belligerent, drunk Tavungor. But finally, we found ourselves back at our own part of the grasslands, in our bed rolls, looking up at the alien night sky.
+
+“Is this a mistake?” I asked.
+
+“We should sleep.” Steve said. “We need to be fully relaxed for tomorrow.”
+
+Feeling my upper lip curl in amusement, I asked. “Can you actually sleep right now?”
+
+“Well… no.”
+
+“Right on. So… is this a mistake?”
+
+Nix spoke up. “Not for me, it isn’t. I’m not spending my life on the run. Besides, I’ve got my favourite niece back home who needs to know I’m still alive. If that means I need to risk my life, then so be it.” She tittered. “Besides. Back on Earth I was planning to earn a living by streaming and becoming famous. Saving humanity on Ademia should help with that fame, don’t you think?”
+
+Haddock grunted in agreement.
+
+I waited, but apparently that was all the philosophizing we were getting from him.
+
+Steve eventually chimed in. “I’ve already gotten what I came to Ademia for. I’ve seen sights and experienced things I never imagined. But… I’m nowhere near done. This place is so filled with wonder and magic and mythical things to see.” He paused, an ineffable smile playing on his face. “I have no doubts I’ll go out like my namesake, Steve Irwin. Killed and possibly eaten by some beast. But I am planning to see and live as much as possible until then. And for that, I need a home base. Somewhere to relax and recuperate. Is that worth risking my life for? Dunno. But I’ll try anyway.” After a while, he added. “You?”
+
+“I don’t much like people.” I started.
+
+“Hey!” Nix said.
+
+“Present company excluded. Except for Haddock and his farts.”
+
+“Offense taken.” Haddock grumbled.
+
+“Okay. Serious now. I… really don’t care about Earth. Sorry, but there it is. Earth hasn’t exactly been a wondrous place for me. That’s why I didn’t mind dropping everything I owned to get here. On top of that, the entire thing, where humanity sees this as yet another colonization, where we scramble to outpace each other and loot the place, while we put the indigens in their place? Not a fan. There are a few people here and there back on Earth I’ll miss, but all told, I don’t really care if the portal burns.” I paused. Nix’s eyes met mine, and I looked away from the compassion in them. “But, after a while with you guys, I don’t mind admitting that I’ve reconsidered, a bit. I don’t think humans should be allowed to run amok on Ademia. But I don’t want to do this alone either.”
+
+“Aw. That’s sweet.” Nix said. “We’ve been nice enough, you’re willing to let humanity live.”
+
+We bickered and made fun of each other for a while. Eventually, we fell asleep, grabbing whatever rest we could, in what very well could become the last day of our lives.
+
+Haddock’s farts were truly pestilential.

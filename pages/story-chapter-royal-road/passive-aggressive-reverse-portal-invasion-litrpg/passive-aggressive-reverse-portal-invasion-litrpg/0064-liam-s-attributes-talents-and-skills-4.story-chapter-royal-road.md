@@ -1,0 +1,329 @@
+---
+id: a3f5d5b9-f252-5e8d-824f-7c8f3d6975dd
+page-type-slug: story-chapter-royal-road
+title: "Liam's attributes, talents and skills 4"
+slug: 0064-liam-s-attributes-talents-and-skills-4
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 64
+ownLength: 1204
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3816874/liams-attributes-talents-and-skills-4"
+royalRoadId: "3816874"
+---
+
+This chapter sums up Liam’s current status, quirks and talents. If you prefer, it can be skipped in its entirety, without losing any part of the story.
+
+Liam Berg
+
+Level: 25. Progress to next level 41%
+
+Classes: Fighter, Passive Specialist
+
+Path: Path of Fortitude
+
+Quirks: Enforced Antiviolence, Tier 5. Passive Power, Tier 4.
+
+Traits: Starved Growth (Temporary)
+
+Affinity: Passive
+
+Health: 771/930
+
+Stamina: 728/930
+
+Mana: 100/100
+
+Health regeneration: 27,9 health/hour
+
+Mana regeneration: 110 mana/hour
+
+Stamina regeneration: 213,9 stamina/hour
+
+Attributes:
+
+Strength: 15 (17)
+
+Agility: 15 (19)
+
+Dexterity: 8 (10)
+
+Fortitude: 34 (93)
+
+Perception: 13 (15)
+
+Mental Power: 8 (10)
+
+Mental Control: 9 (11)
+
+Five attribute points available
+
+Talents:
+
+Defensive Talent tree:
+
+Tier 2:
+
+Improved Defense 5/5
+
+Tier 3:
+
+Life Steal 2/5
+
+Improved Run Speed 3/3
+
+Tier 4:
+
+Deflect 4/5
+
+Wheel of Magic 4/5
+
+Tier 5:
+
+Internal Scourge 1/5
+
+Personal Universe 1/1
+
+Wave of Reflection 5/5
+
+Passive Specialist Talent tree:
+
+Tier 1:
+
+Mirror of All (Anger) 5/5
+
+Skills:
+
+General:
+
+Athletics, Level 13
+
+Balance, Level 11
+
+Climbing, Level 10
+
+Concentration. Level 11
+
+Higher Endurance (R). Level 17
+
+Higher Self-heal (R), Level 20
+
+Identify. Level 24
+
+Leaping, Level 12
+
+Pain Tolerance, Level 9
+
+Higher Running (R), Level 18
+
+Secrets of the Self, Level 8
+
+Skinning, Level 12
+
+Spot, Level 13
+
+Stamina Regeneration, Level 13
+
+Stealth, Level 2
+
+Defensive:
+
+Acid Resistance, Level 5
+
+Air Magic Resistance, Level 6
+
+Arcane Resistance. Level 2
+
+Armor. Level 22
+
+Blunt Damage Resistance. Level 13
+
+Improved Dodge (U), Level 20
+
+Fire Resistance, Level 13
+
+Frost Resistance, Level 7
+
+Improved Resilience (U), Level 19
+
+Lightning Resistance, Level 1
+
+Parry, Level 7
+
+Piercing Resistance, Level 8
+
+Poison Resistance, Level 15
+
+Shadow Resistance, Level 1
+
+Slashing Resistance, Level 4
+
+Higher Shield. Level 28
+
+Water Resistance, Level 1
+
+Detailed quirk, talent and high-rarity skill description:
+
+Tier 5 negative quirk:
+
+Enforced Anti-violence
+
+Some people are against violence. You take it one step further. You cannot attack, learn offensive skills or use weapons, may only select defensive and passive talents, and cannot share a group with somebody who attacks enemies. Access to your offensive talent tree is lost and future talent tree expansion is adjusted.
+
+Tier 4 positive quirk:
+
+Passive Power
+
+Any passive or defensive damage inflicted by the Fighter is doubled. Any gains from passive talents, where possible, are improved by 50%. Your fortitude is effectively doubled.
+
+Talents:
+
+Defensive Talent tree:
+
+Tier 2:
+
+Improved Defense
+
+Passive talent. Adds to the effectiveness of your fortitude, armor and shield. +5% per talent point.
+
+(Current total, improved by Passive Power quirk: 37,5%)
+
+5/5 points
+
+Tier 3:
+
+Life Steal
+
+Passive Talent. This talent converts any damage you inflict on enemies into lifeforce, which you can make your own.
+
+3% Life steal per point
+
+(Current total, improved by Passive Power quirk: 9% lifesteal)
+
+2/5 points
+
+Improved Run Speed
+
+Passive talent. The best things in life are simple, as is this talent. Your natural run speed, whether jogging, running or all-out sprinting, is improved by 30%. This bonus is applied after any other modifiers.
+
+(Current total, improved by Passive Power quirk: 45% improved run speed)
+
+3/3 points
+
+Tier 4:
+
+Deflect
+
+Passive talent. When parrying or blocking an attack, deflect or parry with an added 50 % force per point.
+
+Cost: 5 stamina per activation.
+
+(Current total, improved by Passive Power quirk: 300% added force)
+
+4/5 points
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, throwing magical damage back at enemies. Damage caused scales with damage suffered and the magic type is randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+4/5 points
+
+Tier 5:
+
+Internal Scourge
+
+Passive Talent. This talent converts mana into an internal presence roaming your body in its entirety, scouring it of hostile presences like disease and poison.
+
+20% efficiency per talent point.
+
+1/5 points
+
+Personal Universe
+
+Passive Talent. You unlock a personal space, in which you are able to safely store items by mental access alone. Only the storing and removal of items has any cost associated with it. The size of the Personal Universe will increase with every level after Level 25.
+
+(Current total, improved by Passive Power quirk: 1,5 cubic meters)
+
+1/1 points
+
+Wave of Reflection:
+
+Passive talent. Any damage inflicted on you may be redirected as a wave of physical damage in any direction you choose. Also applies if the damage is blocked, absorbed or shielded. 15% of damage reflected per point.
+
+Cost: 15 stamina/second
+
+(Current total, improved by Passive Power quirk: 112,5% damage reflected)
+
+5/5 points
+
+Passive Specialist Talent Tree:
+
+Tier 1:
+
+Mirror of All
+
+Passive talent.
+
+A Passive Specialist incorporates his chosen path, so deeply that it may mirror onto those around him. This talent enhances a single fixed emotion in selected targets around you. The impact of the talent depends on the attribute of your selected path, pitched against the Mental Power of your target.
+
+Cost: 1-10 stamina/minute
+
+5/5 points (Anger)
+
+This talent can be chosen multiple times for different emotions.
+
+High-Rarity skills:
+
+Higher Endurance
+
+Rare Passive skill
+
+You are no stranger to toil or long hours watching your stamina slowly drain. Every level in Higher Endurance will moderately reduce the stamina consumed by non-talent use.
+
+In addition, once a day, you may use Stamina Surge, and refresh your Stamina fully.
+
+Higher Running
+
+Passive skill
+
+Rare
+
+Running is an art form. One with a nigh-unlimited limit for improvement. Every level in Running will improve your running speed by a moderate margin and reduce stamina use.
+
+In addition, once a day you gain the ability to double your running speed for a full minute.
+
+Higher Self-Heal
+
+Rare Passive skill
+
+Pain is something well-known and familiar to you. You can take the hits and keep on fighting, for days on end. Every level in Higher Self-Heal will improve the speed at which you regain your health, and moderately reduce the duration of temporary debuffs. The healing rate of Self-Heal cannot be affected by quirks or other talents.
+
+In addition, once a day, you may fully cure a single debuff up to ‘medium’ without any lingering effects.
+
+Higher Shield
+
+Rare Passive skill
+
+You have used your shield to save your life several times over. Practice and continued usage will improve your odds of continuing the streak. Every level in Shield will moderately improve the defensive capabilities of your shield and decrease the stamina drain of its use.
+
+In addition, once a day, you may ignore the effect of a single non-magical attack.
+
+Improved Resilience
+
+Uncommon Passive skill
+
+Others may try to dodge what life throws at them. Meanwhile, you face it head on, and keep going. Every level in Resilience slightly improves the overall toughness of your body, reducing any damage done to you.
+
+In addition, once a day, you may double the effect of Resilience for a full minute.
+
+Improved Dodge
+
+Uncommon Passive skill
+
+Survival is an art form. One you had better hone in order to stay among the living. Every level in Dodge will slightly improve the speed and accuracy of your dodging actions and reduce the stamina used.
+
+In addition, once a day, your Dodge will count your Agility double for the duration of a full minute.

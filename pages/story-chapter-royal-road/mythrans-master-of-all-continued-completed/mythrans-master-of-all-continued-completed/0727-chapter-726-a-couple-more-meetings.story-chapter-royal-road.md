@@ -1,0 +1,251 @@
+---
+id: a7a6ec17-65ef-5d34-b595-578f50b99f0e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 726 - A Couple More Meetings"
+slug: 0727-chapter-726-a-couple-more-meetings
+partOf: mythrans-master-of-all-continued-completed
+position: 727
+ownLength: 3109
+unit: words
+publishedAt: 2018-10-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297132/chapter-726-a-couple-more-meetings"
+royalRoadId: "297132"
+---
+
+Ren sat up in bed and opened the player menu. “I guess I better go.”
+
+“Hm? What?” Lara rolled over to put a hand on his back.
+
+“Despite how tempting it is to stay here with you for a lot longer, I need to get back so I can spend the day in the Fire Realm.”
+
+Lara sighed and sat up. “I suppose I could let you out of my sight for a while.”
+
+Ren chuckled. “Just pop out to your desk and I'll only be gone for a day.”
+
+“Are you kidding?” Lara asked and gave him a hug. “With all these books to wade through?!?”
+
+“Hey, now. Don't overload on them.” Ren said. “You need to meet me for supper, remember?”
+
+Lara slid her hands down to his chest. “Wait, how can I tell what time it is? I was used to the time compression before; but, since you changed it...”
+
+“Just open the player menu.” Ren said.
+
+Lara let him go and did so, then saw the different time codes at the top. “Ren! You added real time displays!”
+
+“Thinking of Teepo while I was with Vasalor gave me the idea.” Ren said. “I've been so used to having Teepo keep track of time for me, that I figured the least I could do is show people what time it is in the real world and in the Earth Realm.”
+
+“Will everyone have the third option?” Lara asked as it showed her the time inside her closet.
+
+“No, that only displays if you're inside a time compressed area.” Ren said. “That way, you can keep track of when you need to leave.”
+
+“Wow.” Lara said and closed it, then leaned close and gave him a kiss. “What other little tidbits did you add to make the game better to play?”
+
+“I'm sure you'll find them all eventually.” Ren said. “Walk me out, will you?”
+
+Lara nodded and they equipped their clothing, then she led him to the door of her apartment. “I really can't thank you enough, Ren.” She said and wrapped her arms around his neck.
+
+“I'm pretty sure you made a lot of headway in that regard.” Ren said and waggled his eyebrows at her.
+
+Lara laughed and gave him a kiss, let him go, then opened the door. “See you later.”
+
+“Bye, Baby.” Ren said and stepped out without kissing her goodbye, because he knew not to touch her with the door open. He didn't want to overwhelm her with everything he had done, so he just waved to her and Teepo dropped onto his shoulder.
+
+Ren walked across the storage area to the door, opened it, then walked down the hallway. He stopped in the break room and made two cups of coffee, stored the milk and sugar with them into his inventory, then left the side hallway to see Rosie was back behind her desk and Falla was putting some books back on one of the shelves.
+
+“You weren't joking when you said you would only be a few minutes.” Rosie said.
+
+“I couldn't stay because I have an appointment to get to.” Ren said and glanced at Falla before whispering. “Do you have any idea what she would like for her birthday?”
+
+Rosie shook her head. “She hasn't mentioned needing or wanting anything since she started coming here.”
+
+“What's her reading rank?”
+
+“She's already up to B.” Rosie said proudly.
+
+“Oh, wow.” Ren said. “I'm really far behind.”
+
+“Are you?” Rosie asked, and Ren looked at her with a single raised eyebrow. She smiled sweetly and touched the side of his face. “I don't believe that the Creator's Assistant didn't read any books.”
+
+Ren took in a quick breath and let it out. “Rosie...”
+
+“I'm not even going to ask you to prove the knowledge you have.” Rosie said. “Library Card, please.”
+
+Ren took it out and gave it to her, and she held onto his hand. His eyes widened as she took out a short knife and cut his palm with it, then pressed the card onto the wound. The card glowed for a moment and changed color from white to red, so she lifted it to see that his palm was already healed and smiled.
+
+“There you go.” Rosie said and handed him the card back. “I don't know how many times you read your stat books; but, each and every time you did gave you one little notch on the card.”
+
+Ren looked at the card and examined it.
+
+Library Car Holder - Ren
+
+Rank: Platinum
+
+Books Read: XXXXXX
+
+“Re-reading the same book can still give you reading experience?” Ren asked, surprised.
+
+“It's still reading, isn't it?” Rosie asked, and he had to admit that it was. “It's not the same as reading new material, since you're not gaining new knowledge, but it still counts.”
+
+“Thanks a lot, Rosie.” Ren said. “Is there anything...”
+
+“One of these days, can we go to the amusement park together?” Rosie asked. “I'm a little too scared to go there by myself.”
+
+“I'll talk to the Fire Deity and see if I can get a day off.” Ren said. “I've got a few quests I need to finish, and they can only be done during the day. I think.”
+
+“You think?” Rosie asked.
+
+“I could try them at night, but if almost everything closes down at night...”
+
+Rosie nodded. “You better get going if you want to keep your appointment.”
+
+“Bye, Rosie.” Ren said and walked over to Falla. “My Lady, it was a pleasure seeing you again.”
+
+“R-Ren...”
+
+“When you decide what you want for your birthday, let Rosie know. She'll get the word to the maids and they'll tell me.”
+
+“B-but...”
+
+“I have an idea of what you want, but I don't want to disappoint you.” Ren said. “Take your time, think about it, and I'll do my best to give it to you.”
+
+Falla nodded and held her hand out. Ren smiled and took it, kissed the back of it and gave her a regal bow, then left the Library.
+
+*
+
+“Oh... my... god.” Elerlyth panted as she felt Ren appear. She rested her head against her Phantom Steed and tried to catch her breath as she fed the last treat to Etheria. She tried her best to stop her ability from reaching out and consuming Ren's emotions, then she felt him running towards her. She stepped back from her mount and stood in front of the door to the Main House, and Ren came to a stop right in front of her.
+
+“Elerlyth, I'm glad you're still here.” Ren said. “I was just about to message you.”
+
+“You were?”
+
+Ren nodded. “I've got a couple of minutes before I need to go to the Fire Realm, so I figured I could spend them with you and listen to what happened to you in real life today.”
+
+“It's going to take more than a few minutes to...” Elerlyth stopped talking when Ren took out the Vasalor Statue. “What is that?”
+
+“A heavily modified Sanctuary spell.” Ren said. “Shall we go inside and up to the meeting room? We can relax and chat there without anyone coming around to disturb us.”
+
+“O-okay.” Elerlyth said, a little uncomfortable.
+
+Ren chuckled and held an elbow out to her. “Relax, I changed it to remove the potential danger it posed to those not used to it.”
+
+“B-but...”
+
+“I can set the time dilation to any factor when I turn it on.” Ren said and led her inside and up the stairs. “I won't activate it until we sit down, though.”
+
+Elerlyth let him lead her over to one of the comfy couches and they sat down close together; but, not too close together. Ren smiled at her and put the statue on the table beside the couch and activated it.
+
+“Now, tell me all about what happened.” Ren said.
+
+“Ren, I...”
+
+“It's all right.” Ren said and took out the two cups of coffee, milk, sugar, and utensils. “Thanks to my quick visit to Tiatha, she taught me how to buffer my emotions before sharing them.” He said, and added a bit of milk and several sugars to his cup.
+
+“How did she do that?” Elerlyth asked and took hers black with nothing in it.
+
+“Lots and lots of practice.” Ren said with a smile.
+
+Elerlyth recognized that smile, and sighed because he would never have that smile because of her anymore. “I'm really sorry.”
+
+“I know you are.” Ren said and held out his free hand to her. “I won't even try to overload you with emotions, even though I've had eons to deal with what happened.”
+
+“Ren...”
+
+“We can only ever be friends, Elerlyth.” Ren said and waggled his hand. “It's your choice to take it or leave it.”
+
+“I... I can't believe I'm on the receiving end of this dilemma now.” Elerlyth said.
+
+“Yeah, being friends with someone you've had intimate relations with is a lot more difficult than breaking everything off cold turkey and never seeing them again.” Ren said. “But, since I figured we'd be seeing each other a lot in the game, especially with the parks here and the undeniable smorgasbord that all those emotions provide, I couldn't in good conscience ignore you or your needs.”
+
+“But... you said...”
+
+“I won't ever have sex with you, so you won't get that euphoric rush feeling from me.” Ren said. “I can still share a lot with you as a friend, though.”
+
+Elerlyth thought about saying no. She wanted to tell him that she couldn't sit there and not kiss him to get those tasty emotions he always had, then she thought about her situation and how everything was up in the air for her. She sighed and put her hand in his, then closed her eyes. She sat there for an unknown period of time and just sucked in everything he offered. Underneath it all was a distinct feeling of unrequited love and denied desire, and she did her best to not react as she fed on it.
+
+“So, can you tell me about what happened this morning?” Ren asked.
+
+Elerlyth opened her eyes to look at him, and she saw his desire for her in his eyes. “S-sure.” She said, and relayed everything that had happened at the garage with the mayor, Frank, and Stella's brother.
+
+“Wow.” Ren said. He had kept a hold of her hand and fed her a steady flow of emotions the whole time. “I thought I'd have good news for you to cheer you up, and then you tell me that you might not have a job at all.”
+
+“What do you mean?”
+
+“The law firm that handles my affairs, managed to get injunctions filed today against the company you wanted to work for.”
+
+Elerlyth's mouth dropped open and he felt her shock. “But... but... but...”
+
+“Yeah. I figured it would be weeks before they would bring it up when the court case came up; but, Elise showed me that the law firm managed to get all of the pending cases to be heard today.”
+
+“Wh-what? H-how?”
+
+“The head of the law firm is brothers with the head of the Supreme Court.” Ren said and smiled. “Oh, and it's an election year next year.”
+
+Oh, my god. Elerlyth thought. I... I was really, really stupid! Imagine if I'd taken that job!
+
+“You're really lucky that you didn't take that job.” Ren said, parroting her thoughts. “If what I saw from the results of that case is any indication, everyone involved is going to be raked through the mud by the news media.”
+
+Elerlyth nodded several times and drank her coffee, then he gave her hand a squeeze.
+
+“Now I suppose it's my turn to tell you what happened to me.” Ren said and took a drink of coffee himself.
+
+“Wait.” Elerlyth let his hand go and put her cup down. “Can... can you...”
+
+“You don't really want to feel that, do you?”
+
+“It scared me, Ren.” Elerlyth said. “Not the fake stuff we can cause in others. I was genuinely afraid.”
+
+Ren opened his mouth to tell her no, then sighed and put down his coffee cup down, too. He thought about everything he felt while with Vasalor and made a gun shape with his hand and pointed with his index finger. He very slowly moved it towards her face, and as it approached, he felt her fear burst out past her control. She started to tremble as his finger came closer and closer to her forehead, and she felt the immense pressure of his emotions.
+
+“Oh... oh, god.” Elerlyth whispered. Just before his finger touched her, she told him to stop. Ren moved his hand away and stopped thinking about those emotions and heard Elerlyth panting heavily. She also looked like she had exhausted herself by fighting her reactions.
+
+“Are you all right?” Ren asked and touched her face, and her whole body jumped as all of her muscles contracted at once. It had been automatic, because she had expected to feel all of those emotions in one rushing moment, then her body flopped down onto the couch as she relaxed from the scare.
+
+“W-wow.” Elerlyth managed to say.
+
+“I'm sorry, I didn't mean to scare you.” Ren said and tried to take his hand back. “I was just...”
+
+“Concerned, I know.” Elerlyth caught his hand and put it back on her face. “You're only the second person to ever cause real fear in me, Ren.”
+
+Ren remembered when she had been almost completely drained by that Dark Elf hunter that time, and he brought all those feelings up to give to her.
+
+“Oh, god!” Elerlyth closed her eyes and trembled as her ability sucked in everything he offered, then she gained another level. She held her own emotions in check as his emotions flooded into her like a river, and she closed her eyes to let her ability handle it without having to think about it. After staying like that for nearly 10 minutes, Ren eased the flow down to a trickle and she opened her eyes to look at him.
+
+“That was an apology.” Ren said and slowly slid his hand down her face to her neck, across her shoulder, then let her go. “I won't scare you like that again.”
+
+“But... Ren, I...”
+
+“Yeah, I know you liked it.” Ren said. “I also know you hated it.”
+
+Elerlyth thought about denying it, then didn't say anything.
+
+“I'll let Elise and the others know about what happened to you.” Ren said and picked up the Vasalor statue, deactivated it and stored it, then stored the coffee cups and things. “I'll see you later.”
+
+“See you later.” Elerlyth said, and watched as he walked over to his apartment and went inside. She stood up, a bit shakily, then walked over to the stairs. She made it down them without incident, without realizing Ren was watching her the whole time, and she went outside to her mount.
+
+“Let's go have some fun.” Elerlyth said and climbed onto Etheria's saddle, and they flew up into the air and disappeared from sight. Ren put away the All-Seeing Mirror, turned back to the apartment door, and opened it.
+
+“Hi, Ren.” Frikara said. “Wait, shouldn't you be going to the Fire Realm?”
+
+“I am.” Ren said. “I just came back to give you all a kiss goodbye.”
+
+“Aw, that's so sweet.” Frikara said and equipped her cut-out shirt. “Belly first!”
+
+Ren chuckled and kissed her belly, then kissed her on the lips as he hugged her. He repeated this for the other maids, then did it for Xuunah. She held him a little longer than she normally would, and he could feel her need starting to build.
+
+“I'll be back tonight, assuming Nathalia doesn't do anything drastic.” Ren said, and she chuckled.
+
+“She'll be fine.” Xuunah said. “I've watched her ever since I discovered she was still alive, and she's one of the strongest women I've ever met.” She smiled. “Her child won't come out until it's good and ready.”
+
+Ren tapped his chest where his Maker's Mark was, that matched the one on both Xuunah and Nathalia. “We'll both know when it happens, and I'll come and get you.”
+
+Xuunah nodded and he gave her another kiss, touched each of the maids briefly, then opened a portal over to the Pixieland ride. Suniva still wasn't ready to spend more time away from her people, so he gave her a kiss and used a portal to the underground chamber, then opened one to the Fire Realm.
+
+He stepped through into the spawn point building and checked the player menu to discover that it was nighttime.
+
+Ren unfurled his wings and flew out of the building and up into the air to see that Fire Dancer and Zetaya were tucked into the same bed, with what looked like the right space between them for him to fit into, so he landed on the floor and made himself and Teepo the appropriate size. Teepo flew up to land on the wall and Ren used his Fire Manipulation ability to split the blanket of Eternal Fire apart, equipped his red silk pyjamas, then carefully climbed onto the bed between them and laid down on his back without disturbing them.
+
+Ren formed the blanket back over them and took several shallow breaths, held in his sigh, and closed his eyes. He quickly drifted off to sleep. After a few minutes, Zetaya rolled onto her side and put her arm over his waist. Not long after, Fire Dancer sighed and rolled over towards the middle of the bed and her hand rested on Ren's firm chest. She opened her eyes at the odd feeling and saw that it was him. Her hand gripped his pyjama top tightly and she was tempted to kick him out and make him go over to his own bed, then changed her mind and let the cloth go.
+
+“...love... you...” Ren whispered in his sleep and moved his arms out to rest them around both women's shoulders. Fire Dancer looked at his face and could feel that he was deep asleep, so she sighed softly and rested her head on his shoulder. She looked over at Zetaya and saw that she had already done that and was cuddled in as tightly to his chest as she could be.
+
+I think she missed him almost as much as I did. Fire Dancer thought in amusement and closed her eyes, then let sleep take her again. Everything always seemed to be better when Ren was around.

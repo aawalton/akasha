@@ -1,0 +1,289 @@
+---
+id: 9775c522-06be-5436-b046-dd9b6834d957
+page-type-slug: story-chapter-royal-road
+title: "Chapter 769 - Moving Home"
+slug: 0770-chapter-769-moving-home
+partOf: mythrans-master-of-all-continued-completed
+position: 770
+ownLength: 3216
+unit: words
+publishedAt: 2018-11-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/308525/chapter-769-moving-home"
+royalRoadId: "308525"
+---
+
+Everyone was quickly served breakfast and a stack of pancakes was left on a plate in the middle of the table. Helena finished hers first, since she had started eating first, and she eyed the stack.
+
+“Go ahead.” Frikara said. “Ren's stack is over there.”
+
+Helena looked at the counter and saw the large stack of pancakes. “Won't they get cold?” She asked as she took one from the middle plate and quickly ate it. “Where did he...”
+
+A knock on the apartment door interrupted her.
+
+“He's never going to stop doing that.” Frikara laughed and turned towards the door. “We're naked in here! Come back later!”
+
+The maids and Helena winced a little and Ren opened the door with a laugh.
+
+“Ow.” Ren said and started to step inside.
+
+“Hold it, mister!” Frikara admonished him. “You're dirty.”
+
+“Hm?” Ren looked down at himself and realized he was covered in dirt and mud. “Oh, sorry.” He said and equipped his armored bodysuit to clean up, then equipped the red suit again.
+
+“That's better.” Frikara said. “Now get over here and greet us properly.”
+
+“Yes, My Lady.” Ren said and walked across the apartment. As he did so, he took in how Frikara looked and let his desire and need for her fill his emotions. She shivered in anticipation, then Ren bent down and gave her a passionate kiss.
+
+Helena stayed perfectly still while it happened, in case her moving might distract them. Maybe there's only one real Lady, and... Her thoughts cut off when Ren walked around the table to each of them and gave them passionate kisses while he filled his Aura with his need and desire for them. He loves them all. She thought in surprise.
+
+Ren kissed Andrela last, then he looked at the healer, who looked up at him with anticipation. “It will be your job to look after the Ladies of this House.” He said and he felt her regret that she wasn't going to be next to be kissed like that. Helena nodded and Ren dismissed the Honor popup because his Honor stat was locked. He picked up his plate of pancakes from the counter and covered them in syrup.
+
+“There are lots of people around here, as well as in the starter city not far away.” Ren said and started eating. “I'm not sure if any of them are viable staff for you to hire, though.”
+
+“Wh-what?” Helena stared at him.
+
+“You're the Head Healer, so you're in charge.” Ren said. “If you know of other healers in the Dwarven Kingdom that would willingly come here to help, tell Lady Frikara. She will get word to House Neram and they will contact your choices. I'll pick them up the next chance I get.”
+
+“You're serious.” Helena said, then she didn't know what else to say.
+
+“You can contact your friends and family the same way.” Ren said and kept eating.
+
+“I don't have any.” Helena said. “My father died in the mines two years ago and my mother died not long after that.”
+
+“I'm sorry.” Ren said and walked over to her to briefly put a hand on her shoulder.
+
+“It's okay.” Helena said, and she appreciated that he really was sorry. “My friends won't miss me, because we barely saw each other while we were working in different posts most of the time.”
+
+“That's going to change.” Frikara said. “For the better, especially if you want to invite those friends to move here.”
+
+“Can I?”
+
+“If you think they would want to.” Ren said and finished his stack of pancakes. “I assume they are healers, too?”
+
+“Two of them are.” Helena said. “Can I invite non-healer friends?”
+
+“Are they as unfulfilled as you?” Ren asked with a smile.
+
+“Not really; but, they like a challenge just as much as the next dwarf.”
+
+Frikara and the maids chuckled, and Ren nodded slightly in approval.
+
+“Yes, taking care of five women and their babies is quite the challenge.” Frikara said. “I hope you're up to the task.”
+
+“Definitely.” Helena said confidently.
+
+“Then let me show you to your new apartment.” Ren said.
+
+Helena gasped. “But... but...”
+
+“I was tempted to just attach a room for you, then I figured I might as well go all out and make the whole third floor.”
+
+“The whole third WHAT?!?” Helena yelled and everyone laughed.
+
+“Come on.” Ren said and held a hand out to her. She took it and he helped her stand. “There's four large apartments, so there's lots of room.” He said and led her from the room.
+
+*
+
+“Is she going to become another Lady for the House?” Lusinia asked.
+
+“No.” Frikara said. “Even if something develops between them, as she so clearly wants it to, she's now a member of the House and they can't do anything except fool around.”
+
+“Are you okay with that?” Andrela asked. “I don't know if I like having another woman around that he can... when we start to...”
+
+Frikara leaned across the empty seat that the healer had vacated and put a hand on Andrela's shoulder. “If you didn't notice, he didn't kiss her, despite her anticipation.”
+
+“I know, but...”
+
+“He's going to love us even when we're all fat from bearing his children.” Navruth said. “Considering where we were when we met him, I'm completely overwhelmed that we've all gotten what our hearts desired.”
+
+“Me, too.” Andrela said and relaxed. “Me, too.”
+
+*
+
+“This is amazing!” Helena said as she saw her apartment. She took the one that was closest to the stairs that Ren had installed beside the apartment door. “It's even fully furnished!”
+
+“I can make things really quickly now.” Ren said.
+
+Helena sat down on the comfy couch and sighed in contentment. “Oh, wow.”
+
+Ren chuckled. “You're not going to be needed for too much for the first little while; but, after that...”
+
+“Can I invite my friends over, even though we won't have a lot of work to do?”
+
+“Of course.” Ren said and walked over to her bedroom. “It will give you time to settle into your new lives.” He said and opened the door. “This is your bedroom.”
+
+Helena got up from the couch and walked over to him, and saw the large and comfy bed. “By the gods.”
+
+Ren put a hand on her lower back and eased her into the room and over to the large wardrobe cabinet. “Your uniforms are in here.”
+
+“I've only needed the one so far, My King.” Helena said and opened the door to see an entire mass of outfits and things for her to wear. Her mouth dropped open at the sight of all the beautiful clothes.
+
+“A second one like the one you are wearing so you can just equip it to clean it and no one will know.” Ren said. “There's one for more formal occasions, in case we have guests or something.” He smiled. “That almost never happens, so it's more of a frivolous thing on my part.”
+
+“By... by the gods.” Helena ran her hands over the silky cloth of the fancy healer uniform. It looked like something royalty would wear.
+
+“There are also different hats for you to wear, for no other reason than I had the patterns and hadn't made them before.” Ren chuckled. “I've got so many patterns that I haven't made yet.”
+
+Helena picked up one of the healer hats that was so much nicer than the one she wore. “I will wear them with pride, My King.” She said and pulled her current hat off. Ren was shocked when a huge mass of thick curly blonde hair popped out, almost like magic. She felt his reaction to her hair and turned to look at him.
+
+Ren caught his breath at the sight. What he thought was a nondescript woman became framed by a large mass of blonde curly hair that went halfway down her back.
+
+She almost looks like a king cobra snake. Ren thought. “How did you get all of that wonderful hair into that tiny little hat?”
+
+Helena chuckled and was very flattered that she had gained his attention. “Magic, obviously.” She said and held up Ren's hat above her head. Her hair glowed slightly as she lowered the hat to her head, and her hair slid up and inside the hat in an almost complete reversal of how it had fallen out of the other one.
+
+“Wow.” Ren said, captivated. “Is it a spell?”
+
+Helena nodded. “My mother taught it to me when I was a girl.”
+
+“Wait, you've always had hair like this?” Ren asked.
+
+Helena nodded slightly. “It's the same as my mothers.” She said. “The spell has been well worth its cost in Mana.”
+
+“What about combing or brushing it?” Ren asked.
+
+“It is combed and brushed.” Helena said, then laughed at his surprise. “The curls are all natural and no matter what I try to do to them, they will always stay curly.”
+
+“Ponytails?”
+
+“I look like I have puff balls on the sides of my head.” Helena said and smiled. “No, I am not going to show you.”
+
+“Aww.” Ren grinned at her. “Now that you've seen the place, you can head downstairs and see if the Ladies need you for anything.”
+
+“At the minimum, I can find out what duties I'll have to do for the impending baby arrivals.”
+
+“That's the spirit.” Ren said. “May I escort you downstairs?”
+
+“Can I have a few minutes alone?” Helena asked.
+
+“We just had a few minutes alone.” Ren joked, and she laughed.
+
+“I meant alone alone.” Helena said.
+
+“I know.” Ren said and stepped close to her. She stopped breathing as he invaded her personal space, and she didn't mind it at all. “Let me fix your outfit for you.”
+
+“Of course, My King.” Helena said, then in one smooth motion, untied the sides and slipped the long white tunic up and off of her head to reveal a very thin and well-worn blouse and tight pants. Ren could tell that she was also quite turned on, because she wasn't wearing a bra and he could clearly see her through the practically non-existent cloth.
+
+“Helena.”
+
+Helena caught her breath as he used her given name. Even though she knew nothing like that could happen between them, she was still extremely excited and flattered to hear her name from such a powerful man.
+
+“Thank you for showing me your hair.” Ren whispered as he touched her tunic with the Master Tailor Sewing Needle and restored it to its original condition. Helena blinked her eyes at the brand new tunic and looked into his eyes. He moved the needle to touch her blouse, and she caught his hand.
+
+“You don't want to do that” Helena said, and he smiled.
+
+“No.”
+
+“Then leave it. When you come back to this House each day, I'll wear it for you and you will always know that this is what's under my tunic.”
+
+Ren closed his eyes for a moment and basked in her emotions, then opened his eyes and looked at her.
+
+“You need to go.” Helena said, and he nodded. “Then I will see you when you get back.” She said and took her tunic back and slipped it over her head. She tied it just as quickly as she had untied it, took a shallow breath, and nodded slightly. Ren nodded slightly back, took her hand, and leaned in to kiss her cheek. She accepted the gesture with much more composure than she had when he had done it to her in the royal apartments. He let her go and walked across the apartment and left.
+
+*
+
+Helena waited until the door had shut before she started to shake and shiver from the intensity of the situation. By the gods. She thought and stumbled over to her bed, then flopped down onto it and hugged herself. I really thought he was going to make fun of my hair. She closed her eyes and thought about everything that had happened to her, and she barked a laugh. This all happened so early in the morning! I've still got a whole day to get through!
+
+Helena took several minutes to compose herself, straightened her uniform and made sure nothing was wrinkled or out of place, then left her apartment to go downstairs.
+
+*
+
+“I'm just popping over to the house in Aurora to pick up the succubi and the Marilith Demon.” Ren said when he entered the apartment.
+
+“So that's why you were covered in dirt.” Frikara said, and he nodded.
+
+“I made her a lair under the Main House, with the entrance under the left staircase.”
+
+“I hope she likes it.”
+
+“She will. I've embedded Heat runes all over the place and made her a nice heated Jacuzzi to relax in.” Ren said. “When I come back, I hope you're all ready to be pampered!”
+
+“Are you going to give us another month of your time?” Andrela asked.
+
+“Only if you want me to.” Ren said, and Andrela walked over to him. He felt her desire to jump up into his arms, so he carefully picked her up instead and held her tenderly, then kissed her.
+
+“Hey, that can wait.” Frikara said with a smile. “He's got things to do.”
+
+Andrela broke the kiss and laughed. “Yes, me.”
+
+“I'll be back in a few minutes.” Ren said and put her down, then checked the All-Seeing Mirror and cast a Portal spell. He stepped through into the bedroom and felt an immediate reaction from Seldanna and the other succubi as they hopped off the bed and knelt on the floor.
+
+“My King.” Seldanna said and bowed her head.
+
+“What are you doing?” Ren asked.
+
+“Your Tainted King title was upgraded.” Seldanna said. “I submit myself to you, wholeheartedly.”
+
+The dire wolf mark on the back of Ren's left hand glowed and Seldanna put a hand over her heart as one formed there.
+
+“Why?” Ren asked, confused. “I thought...”
+
+“You have given me everything, and I am yours, My King.”
+
+“Seldanna...” Ren paused and sighed. “I didn't want this kind of requirement between us.”
+
+Seldanna stood up and stepped close to him. “I am yours for as long as I exist.” She said and bent over slightly to kiss him. She broke the kiss a moment later. “Through this mark, all of the succubi in my domain are yours.”
+
+“I thought you were already mine.” Ren said.
+
+“We are, My King.” Seldanna said. “This mark gives us a metaphysical bond as well as an emotional one.”
+
+“But...”
+
+“It is done.” Seldanna said. “I assume you are taking us back to the roost.”
+
+“I'm dropping you off there, yes.” Ren said.
+
+“Then we should go.” Seldanna said and the other three succubi stood up. Ren looked at the others and saw Katori's smile on her human face. He stepped over to her and motioned to her top, so she stored it to show him the dire wolf mark above her heart.
+
+“I'm so glad I could join your domain officially.” Katori said. “I was worried when you helped me get rid of my corrupted body that I would be set adrift.”
+
+“We would never abandon you.” Ren and Seldanna said together, then they both smiled.
+
+“I know; but, now I know.” Katori said. “You will always be there for me when I need you.”
+
+Ren stepped up into the air and took her into a hug.
+
+“Spending all this time with you has been so wonderful, My King.” Katori said. “From the bottom of my heart, I thank you.”
+
+“This isn't goodbye.” Ren said to her, then let her out of the hug and looked at all their faces. “I'm still going to visit.”
+
+“We look forward to it.” Seldanna said, and Katori equipped her top.
+
+Ren didn't say anything, because there wasn't really anything else to say, and motioned to the door. They followed him out of the bedroom and down the hall to the Marilith Demon's room, then he used his polymorph helm to return to normal and knocked. The door opened and the Marilith Demon slithered up to her full height and looked down at him.
+
+“I won't submit to you, Tainted King of the Predators.”
+
+Ren walked up into the air and put his face right in front of hers. “I would never ask you to, my snickety-snake.” He said and cupped the sides of her face with his hands, then gave her a kiss. She was a little stiff at first, then her arms wrapped around him and she kissed him back. It was a little odd, since her mouth was twice as big as his; but, they had learned a long time ago to accept it for what it was. A sign of affection.
+
+“I assume we are moving.” The Marilith Demon asked, and Ren nodded. “What about my pigs?”
+
+“How many are left?” Ren asked.
+
+“Four.”
+
+Ren chuckled. “You started with four.”
+
+“They are slippery little devils.” She said and smiled.
+
+“It's a good thing I built a pen for them at your new place, then.” Ren said. “Shall we go?”
+
+The Marilith Demon nodded and opened the roof door, then slithered out and down to the ground and the pig pen there. Ren and the succubi were surprised when the Marilith Demon made two brief whistling sounds, then the pigs came right over to her. She reached down to pick up the smallest one, and it slipped right out of her hands.
+
+“You see?” She said and tried again, with the same result, and the pig made a snorting sound as if it was laughing at her.
+
+“All right.” Ren said and jumped down to land beside her, then cast a huge portal. “Go on, now.” He said to the pigs.
+
+“I should go first, so they know it's safe.” The Marilith Demon said and went through the portal, and sure enough, the pigs went right in after her. The old sow was last in line to go through. She stopped for a moment and sniffed at Ren's face, snorted, then went through the portal. Ren checked the All-Seeing Mirror and saw they were safe on the other side, and he dismissed the portal.
+
+“Shall we fly there?” Seldanna asked and floated down to him.
+
+“No time.” Ren said and cast a huge portal to take them to the top floor of the roost.
+
+“He's pushing his luck as it is, and he still hasn't spent quality time with either you or the maids yet.” Teepo said.
+
+Seldanna and the other succubi floated through the portal and Ren stepped through himself and dismissed it. Once again, he felt an immediate reaction from the other succubi in the roost and used his Heat Sense to watch them coming up to see him. It didn't take long.
+
+“What happened, My King?” Zunala, the oldest succubus asked as she came into the room with her mate, Weston.
+
+“I'll explain when the others... there they are.” Ren smiled as the rest of them came into the room with their partners. He took out the Vasalor Statue and activated it, then he told them what had happened and how his Tainted King title had changed again.

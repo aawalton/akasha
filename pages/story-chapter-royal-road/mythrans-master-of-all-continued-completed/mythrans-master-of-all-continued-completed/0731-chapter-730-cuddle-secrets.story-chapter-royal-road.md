@@ -1,0 +1,257 @@
+---
+id: 9c76ef78-9029-516d-a5b5-4cd29c4ec34b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 730 - Cuddle Secrets"
+slug: 0731-chapter-730-cuddle-secrets
+partOf: mythrans-master-of-all-continued-completed
+position: 731
+ownLength: 2923
+unit: words
+publishedAt: 2018-10-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298124/chapter-730-cuddle-secrets"
+royalRoadId: "298124"
+---
+
+Ren slipped off the VR headset and was greeted by a pleasant sight. “Do my eyes deceive me?”
+
+“Yes.” Lisa chuckled and put the headset aside. “I'm not Stella.”
+
+Ren took in a deep breath and lifted his arm to make a fist in the air. “Stellllaaaa!”
+
+Lisa laughed and several chuckles were heard.
+
+“Geez, Ren.” Stella said from across the room as she put plates of food out on the table. “I'm right here.”
+
+“Oh, there you are.” Ren said and slid back to prop himself up on his pillow. “Hi, everyone.”
+
+Elise, Barbara, Donald, Barbi, and Denise said hello back.
+
+“You've got a choice.” Lisa said. “Stay in bed and eat, or traverse the dangerous floor and attempt to sit at a crowded table with your leg stuck out like it is.”
+
+“There's not much choice there.” Ren said and took her hand. “Assuming you're staying here with me.”
+
+Lisa nodded and slid the rollaway table over and climbed onto the bed with him.
+
+“I can't believe we need to buy a bigger table for your bedroom, just in case we have a family meal here instead of the dining room.” Denise said.
+
+“Hey, I'm not complaining.” Ren said and smiled. “It's nice having you all here.”
+
+Stella came over with the cart and put two plates of food, 2 drinks, and Ren's supplement drink on the rollaway table.
+
+“Thanks.” Ren said.
+
+“You had a lot of blue blips today.”
+
+“I sure did.” Ren said. “You wouldn't believe how many people were so happy that I helped fix the game.”
+
+Lisa smiled. “Made the rounds did you?”
+
+“I did.” Ren said and started eating. “I didn't sleep with the succubi, Patty, or the elfling emotion siphon, though.”
+
+Stella chuckled and sat down with her own plate after changing the channel of the television. “It's getting crowded in your life if you're telling us who you didn't sleep with.”
+
+“I didn't do anything with Rosie, either.” Ren said. “Or Symmetra.”
+
+“Symmetra?” Stella asked.
+
+“Well, I kissed her and she really liked that... after she got over the shock of me doing it out of the blue like I did.” Ren said and grinned, which made Stella and Lisa laugh.
+
+“I guess I did unleash a demon on the game world.” Elise said, and everyone laughed.
+
+“Oh, definitely.” Ren said and blew her a kiss. “I think Gloria was right, though.”
+
+“How so?” Elise pretended to catch the kiss in her hand and touched her lips.
+
+“She warned me that the game creates logic loops to keep people playing and tied to certain areas.” Ren said. “I've definitely landed in a bunch of loops that keep me grounded.”
+
+“No doubt.” Lisa said. “The maids aren't too bad, since they would pack up at a moment's notice and go anywhere you want them to.” She took another bite of food. “Some of the others in your life, though...”
+
+“The giants and Yllana, you mean?” Ren asked.
+
+“Not just them.” Lisa said. “The ghoul-kissed in your domain. The people in your county. The dwarves.”
+
+“The dwarves?” Ren asked, a little surprised.
+
+“Even though you haven't been there, a lot of your time has been spent trying to fix them.” Lisa put a hand on his and he gave it a squeeze. “You also narrowly avoided tying yourself to the Human Kingdom with the impending war with the Sea Dwellers.”
+
+Ren nodded. “Yeah, that would have been a mess.” He said. “Who do I fight for? Who do I save and who do I kill?” He shook his head. “If fights do break out and I find out about it, I'll intervene and stop it and not take anyone's side; but, other than that, I'm staying out of it.”
+
+“You don't have to.” Elise said, and he looked across the room at her. “You've changed the entire course of the game by just being you and helping people.” She smiled. “It might have made the programmers angry for messing up their narrative; but, that's their fault, not yours.”
+
+“Uh huh.” Ren chuckled. “You keep telling yourself that.”
+
+“All right.” Elise grinned. “It's all your fault for being so awesome.”
+
+“There you go!” Ren said, and everyone laughed.
+
+They all finished eating and Barbara said she would be back later for her shift, then she and Donald left after clearing up the dirty dishes, despite Stella's protests.
+
+“I've still got a bit of work to do.” Elise said.
+
+“Aw! I wanted to cuddle your luscious mounds!” Ren said.
+
+Elise walked over to him and opened up the top of her blouse, then leaned in and gently wedged his head into her cleavage.
+
+“Mhm hum moo!” Ren mumbled into her breasts, and she laughed as it tickled.
+
+“I think that should keep you happy until tonight.” Elise said and let him go. She saw his big grin and bent down to give him a kiss. “What did you say?”
+
+“I love you.” Ren said and gave her another kiss. “Now go and make me another bundle of money.” He said and caressed her face. “I need it to pay your exorbitant and completely justified salary.”
+
+That made her laugh, and she kissed the palm of his hand.
+
+“You're darn right it's justified.” Elise joked and turned her head to look at Barbi as she let Ren's hand go. “It's a good thing I have a stand-in for this, though.”
+
+“Wh-what?” Barbi blinked her eyes.
+
+“Ren needs another cuddle buddy, and you're on deck.” Elise said.
+
+“M-me?” Barbi said and stared at her.
+
+“You need to get changed into an appropriate outfit so you can unleash your boob powers, though.” Elise said and took her hand. “Come on, I'll help you.”
+
+Barbi stumbled along behind her as Elise dragged her across the room to the bedroom door and left.
+
+“Barbi's getting thrown into the deep end by the sharks instead of with the sharks.” Stella chuckled.
+
+“Ren, is that okay?” Lisa asked.
+
+“As long as you're here.” Ren said. “Do you need to get changed and grab a book?”
+
+Lisa grinned and gave him a kiss. “I'll be right back!”
+
+“Always so eager for some book cuddling time.” Stella chuckled as Lisa's form went out the bedroom door.
+
+“Yeah, even after years of it in her own place.” Ren said. “Stella? Can you get Elise to order a couple of those electronic book readers?”
+
+“Sure.” Stella said and took out her cell phone and typed up a quick message. “She wants to know what one.”
+
+“Tell her not to get the most expensive, since they probably jack the price up by using more expensive parts that have the same functionality of the mid-range ones.”
+
+Stella laughed. “How would you know something like that?”
+
+“They did it with the new VR headsets, remember?” Ren said. “Oh, and make sure they can connect to the server here, wireless or otherwise.”
+
+Stella nodded and typed up another message. “Okay, how many?”
+
+“Better make it an even dozen.” Ren said. “We need to allow for accidents and maybe tech failures.”
+
+Stella chuckled. “First it was a couple, now it's a dozen.” She said and typed a message. “She says they should be here in a few days.”
+
+“Nice.” Ren said. “Thank you.”
+
+“I'm back!” Lisa nearly yelled and ran into the bedroom. Her t-shirt was barely pulled down at all and her jogging pants were hanging off her hips.
+
+“What did you do? Jump into your clothes?” Ren laughed.
+
+Lisa went around the bed and put her book down, then adjusted herself to look more presentable. “Is that better?”
+
+“You look great, even dishevelled.” Ren said and pat the bed. “I wasn't complaining, by the way. I just wanted to know how the hell you got to the third floor and back again before Barbi, who's only in the next room, and she hasn't even changed yet.”
+
+Lisa laughed and climbed onto the bed and pulled a couple pillows over to prop up for Barbi to lean in on Ren's other side, then she put one down for herself and laid down to rest her shoulders on the pillow and put her head on his lap. The bedroom door opened again and Barbi came in.
+
+“Holy crap.” Ren whispered. “Look at that.”
+
+Lisa turned her head and saw Barbi. She wore a thin baby-blue colored t-shirt that hung just past her waist, and she had on a pair of matching boxer shorts with slits up the sides. It highlighted her long legs as she walked, and both Ren and Lisa watched her approach the bed. She wasn't wearing a bra.
+
+“I wouldn't really call that a cuddling outfit.” Stella joked and saw Barbi's face flush red, and she stood up and took her hand. “That was a joke.” She said and motioned to the bed. “Your place has been prepared, M'lady.”
+
+Ren snorted a laugh as Stella helped Barbi climb onto the bed. “Okay, now I understand why some people think I'm being insincere when I use my Etiquette skill in the game.”
+
+Lisa laughed and he looked down at her. “Just wait until...”
+
+Ren covered her mouth with a hand as he leaned forward to let Barbi replace his pillow with herself, then he leaned back. “That was close.”
+
+Lisa nodded and he let her go. “Thanks.”
+
+“I know it's tempting; but, I don't want you to get another warning.” Ren said and Barbi put her arms around him and rested her hands on his abdomen.
+
+“You're really going to like what's coming and I can't even tell you what it is.” Lisa said and sighed.
+
+Ren chuckled and pet her hair. “It's only fair that I need to find out what it is on my own.” He said. “Once I do, though...”
+
+“I'll tell you all about it!” Lisa said happily.
+
+“We've only got 2 and a half hours before I need to log back in.” Ren said, and he felt Barbi's arm stiffen slightly. “Is that okay, Barbi?”
+
+“You want me to... hold you like this... for 2 hours?” Barbi asked, a little surprised.
+
+“I always try to make the most of the limited time I have with the people I care about.” Ren said. “It's okay if you don't want to.”
+
+“No, no.” Barbi gave him a little squeeze. “It's nice to... just hold someone.”
+
+Ren reached a hand up as he leaned to the side a little and looked at her face as he caressed it. “It really is nice.” He said and her face went a little red. He smiled and let her face go and moved back into the proper cuddle position. “Let me know if you need to readjust or something.”
+
+“I will.”
+
+Ren nodded and he pet Lisa's hair with one hand, then he rested his other hand on the outside of Barbi's bare thigh. “Thank you for this.”
+
+Barbi wasn't sure what he meant. Does he mean me hugging him, letting him touch my leg, or not saying no?
+
+After about half an hour, Barbi asked for a change in position. Ren was going to ask what she wanted, and then she showed him instead. She propped the pillows up to lean against them like a recliner, then eased her legs apart. He looked at her with wide eyes as she pat her belly. He slid over and tried to lay down, and she did the same little trick she had done before and grabbed his hips and pulled. She had to raise her knees to fit him in close, and he laid back against her abdomen and her breasts rested on the top of his head.
+
+“This is actually comfortable.” Ren said, surprised.
+
+Barbi chuckled and her boobs bounced a little on his head and she crossed her arms just below his neck to hold him. “It's also not straining your wrapped knee or putting pressure on your chest.”
+
+“But, what about...” Lisa looked at them, and Ren eased his legs apart and pat his own belly. She had doubt on her face for a moment, then shrugged and did her best to lay down. She had to prop her arms over his thighs so she could hold her book; but other than that, it really was comfortable.
+
+“Okay, I'm amazed.” Lisa said. “You didn't even have to bend your knees for me like Barbi did for you.”
+
+Both Ren and Barbi chuckled, and Ren took the cue from Lisa and put his own arms over Barbi's thighs, then rested his forearms on the sides of her legs and put his hands on the underside as he practically hugged them. Barbi expected him to start stroking them to try and get a response from her, then she was surprised when he took a deep breath and relaxed instead.
+
+“I think I could fall asleep like this.” Ren said and let a yawn out.
+
+“You've still got about two hours left before you need to log back into the game.” Stella said as she flipped through the channels to find something to watch. “Go ahead and take a nap.”
+
+“No way. I'm not missing a moment of this.” Ren said. “No one's ever held me like this before.”
+
+Barbi wasn't sure why that made her happy, though. “R-really?”
+
+Ren nodded and it rubbed the underside of her breasts. “This is definitely a first for me.” He looked down and expected Lisa to comment, then saw she was lost in her book already.
+
+Barbi slid her hands out slightly, gripped his shoulders for a moment, then slid her hands back around him. Ren took another deep breath, and despite Barbi's expectations of what a normal man would do when given access to her body, he never once tried to grope her or caress her thighs more than moving his hands to adjust where his arms rested.
+
+Barbi didn't feel dirty or exploited, despite the compromising position she was in, and it touched her deeply that Ren wouldn't take advantage of her, even though he very easily could have and she pretty much presented herself for him to do it. Another hour and a half passed by quickly, especially since Barbi had anxiously waited for Ren to prove her normal assumptions were right, and he never did.
+
+Lisa closed her book after she finished the next chapter and smiled contentedly. “That was great.” She said and looked up at Ren.
+
+“It really was.” Ren said and let Barbi's thighs go and cupped Lisa's face. “Come here and kiss me.”
+
+Lisa rolled over and crawled up to press her lips to his for a moment. “I don't expect you to visit me for a while, okay?”
+
+“For a while, huh?” Ren asked. “That's awfully specific.”
+
+Lisa laughed and gave him another kiss. “I'll see you later, handsome.”
+
+“You better believe it, baby.” Ren said and saw her eyes flicker. He gave her another kiss, because he knew what that flicker meant, and she climbed off the bed and left the room.
+
+“She must love you a lot.” Barbi commented. “I don't think I could leave my boyfriend alone in a bed between the legs of another woman.”
+
+“That's because if that was all you told someone, they would assume that sex would be happening soon.” Ren said as he wrapped his arms back around her thighs and sighed. “You feel so nice.”
+
+“I do?” Barbi asked, a bit surprised at his forwardness, despite knowing he was always like that.
+
+“The warm weight of your breasts on the top of my head, your special place pressed into my lower back, and my hands on your strong thighs.” Ren gave her thighs a firm squeeze and she caught her breath. “You sat here and held me so I could hold Lisa and let her enjoy her book.”
+
+Barbi didn't say anything as he moved his hands partway up her thighs in a gentle motion, then slid them back down close to her knees.
+
+“You could crush me with these things.” Ren said and pat them lightly. He didn't grope or try to go any further than that, though. “All you did was comfort me, and I appreciate it.” He said and closed his eyes as he moved his hands up to her arms that she had wrapped around his neck, and hugged them to his chest. “Thank you.”
+
+Barbi wasn't sure what to say to that, because no one had ever thanked her for just holding them.
+
+“You can doze off if you want.” Stella said and yawned. “Half... an hour left.”
+
+“Okay.” Ren said and took another deep breath, then was out like a light. His arms flopped down and slid to his sides and Barbi looked at Stella with wide eyes.
+
+“What was that?” Barbi whispered.
+
+“Sometimes he just needs someone to tell him to relax.” Stella whispered back. “He'll be awake in about twenty minutes, give or take five minutes.”
+
+“How do you know?” Barbi asked.
+
+“He has boobs nearby.” Stella smiled. “You remember he sleep gropes, right?”
+
+“I...” Barbi looked down when she felt Ren shift his weight and turned his torso, then like magic, her t-shirt was up and over her breasts and he snuggled in between them. She stared down at him and what he had done so quickly, mainly because she hadn't felt him do it and he had even used both hands. Barbi looked back at Stella with her mouth open.
+
+“Surprise.” Stella chuckled and went back to watching television.

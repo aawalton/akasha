@@ -1,0 +1,379 @@
+---
+id: 44bfbb98-668a-5629-b94e-8b4eb127dfed
+page-type-slug: story-chapter-royal-road
+title: "Chapter 690 - Garden Party"
+slug: 0691-chapter-690-garden-party
+partOf: mythrans-master-of-all-continued-completed
+position: 691
+ownLength: 3459
+unit: words
+publishedAt: 2018-09-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/287553/chapter-690-garden-party"
+royalRoadId: "287553"
+---
+
+“There's the man of the house!” Barbi said as Ren was brought out the patio door in the wheelchair, and his wrapped knee rested on the leg extension. “How are you today?”
+
+Ren saw that there wasn't many people around the immediate area and relaxed a little. “After overreacting and being a bit of an ass to the people that care about me, I feel terrible.” He said and heard someone catch their breath. He couldn't tell who it was, though. “Physically, I feel even worse.”
+
+Barbi just stared at him, her glass of punch forgotten in her hand. “Um...”
+
+“Don't worry, I've got some watered-down painkillers kicking in.” Ren smiled at her and looked at the two women standing with her. “May I ask who these two lovely ladies are?”
+
+“Oh! These are your two immediate neighbours, Mrs. Johnson and Miss Harrison.” Barbi said. “Mrs. Johnson lives on your left, and Miss Harrison lives on the right.”
+
+Ren reached a hand out to the first woman. “Hi, Mrs. Johnson. It's a pleasure to meet you. I'm Ren Haddon.” He said and she bent over slightly to shake his hand. He turned his hand slightly and held her hand as if he was going to kiss the back of it, then gave it a slight shake. “Can I ask where Mr. Johnson is?”
+
+“Work.” Mrs. Johnson said, a little sadly. “It's always work.”
+
+“I'm terribly sorry to hear that.” Ren said and let her hand go and held his hand out to the other woman. “Miss Harrison, it's a pleasure to meet you as well.” He said and she took his hand. He turned it the same way and gave it a shake. “Is it impolite to inquire if you had a Mr. Harrison?”
+
+Miss Harrison smiled. “Slightly.” She said. “We're divorced.”
+
+“Recently?” Ren asked.
+
+“No, I've been living here for a few years on my own.”
+
+“Any children?”
+
+“I have two.” Miss Harrison said and turned to look for them. “Now where... oh, there's Randy.” She said and pointed, and Ren looked to see a 5 foot 8 inch tall fairly handsome dark haired guy. “He's 22 years old and just turned 35 emotionally.” She said and chuckled, then her eye caught the long hair of her daughter. “Here comes my daughter and her friend.”
+
+Ren turned his head to look, and his eyes widened as the two young women approached.
+
+“Mom, they've got a bigger pool than us.” Dana said. “It has an attached Jacuzzi, too.”
+
+“Oh, dear!” Miss Harrison said in mock horror. “Whatever will we do?”
+
+“Ask to come over more often.” Dana said and laughed.
+
+“Geez, Dana.” Gretchen said and rolled her eyes. “What makes you think they would let you come over, let alone all the time?”
+
+“Maybe because we're friends.” Ren said, and both girls turned to look at him and gasped at the same time.
+
+“Oh, my god!” Dana exclaimed. “Ren!”
+
+“Hi.” Ren smiled at them. “This is certainly a surprise.”
+
+“You're the neighbour nobody's met since they moved in?”
+
+“I guess so.” Ren said and looked at Gretchen. “Hi, Gretchen.”
+
+“H-h-hi.” Gretchen said and her face was red.
+
+“I'd say something about this being a small world, or that the odds I'd meet someone from the game should have been astronomically high... but, I've met a couple of people from the game now and they live in the city, too.”
+
+“R-really?” Gretchen asked, and he nodded.
+
+“Surprisingly.” Ren said. “Although, I didn't realize they were so close until meeting them.” He smiled. “Just like you two.”
+
+“What's this game thing?” Miss Harrison asked.
+
+“It's the VR online thing.” Dana said.
+
+“Oh, that.” Miss Harrison said. “I told you not to use that thing too much.”
+
+“I don't, Mom.” Dana said.
+
+“You were on it a lot the other day, and then yesterday.”
+
+“It was my birthday then, and Gretchen stayed over so we could go adventuring, remember?”
+
+“Oh, right.” Miss Harrison said. “What did I get you?”
+
+“A new skirt and blouse, with a sweet pair of earrings.” Dana said and did a little twirl, which fluttered her skirt out. It gave Ren, who was sitting down at the time, a very nice view of Dana's cute pink panties, both front and back. They didn't cover much, either. Dana stopped turning and pulled her long blonde hair back from her ears and showed off the nice earrings.
+
+“Well, at least I have great taste.” Miss Harrison said with a smile, and Dana laughed.
+
+“You do!”
+
+“I'm glad you're happy.” Miss Harrison said and gave her a hug. “You're so hard to buy for.”
+
+Dana nodded and looked at Ren. “Anyways, who's that behind you?”
+
+“The statuesque redhead is my girlfriend, Elise Stanford.” Ren said and pointed to her. “Stella is my primary nurse and she's pushing my wheelchair.” He said and then pointed to his other side. “Denise is my secondary nurse, and she works every other day, because taking care of me is a full time job.”
+
+Dana, Gretchen, Miss Harrison and Mrs. Johnson stared at him.
+
+“Barbara is my night nurse, and I'm sure she's around here somewhere.” Ren said and looked at Barbi. “Barbi, any idea where she is?”
+
+“She's probably over at the snack table.” Barbi said and motioned around the side of the house. “She said that she really liked the baby cucumber sandwiches.”
+
+“Blah.” Ren said and stuck his tongue out, which made Dana and Gretchen chuckle.
+
+“I guess that means you won't be visiting the snack table anytime soon?” Barbi asked.
+
+“Not right now.” Ren said and heard the patio door open behind them.
+
+“Hey, you came out without me.” Lisa said as she stepped around Denise and bent over to give Ren a kiss.
+
+“I thought you were out here already.” Ren said and looked at her outfit. “Are those new jeans?”
+
+“They are.” Lisa said and turned around to show him her backside. “They fit great, too.”
+
+“They really do.” Ren said appreciatively, and she laughed.
+
+“I know how much you like denim.” Lisa turned back around and looked at Stella, Denise, and Elise. “It looks like something's wrong.” She said. “What's up?”
+
+“It's my fault.” Ren sighed. “They were joking around and I took it wrong.”
+
+“Ren...” Elise put a hand on his shoulder.
+
+“No, it really is my fault.” Ren looked up at her. “I didn't mean to make you feel bad about carrying on like that.” He said and put his hand on hers, then looked at Stella and Denise. “I'm sorry.”
+
+“Let's just forget about it and have fun.” Stella said. “Ren, why don't you introduce Lisa to everyone?”
+
+“Sure.” Ren said. “Miss Harrison, Mrs. Johnson, Dana, Gretchen.” He said. “This is my girlfriend, Lisa.”
+
+“Hi.” Lisa said and smiled at them.
+
+“Wait, what?” Dana looked from Lisa to Elise, then at Ren. “But, I thought... didn't you say...”
+
+“Elise and I started dating first; but, after I bought this place, I asked Lisa to move in and...”
+
+“She lives here?” Gretchen asked, surprised.
+
+“We all do.” Elise said.
+
+“Wh-what?” Miss Harrison blinked her eyes at them. “What did you say?”
+
+“Well, technically Stella and Elise still have their own places, but they pretty much stay here all the time.” Ren said. “Denise and Lisa live here officially.”
+
+“But...”
+
+“My night nurse Barbara lives in the guest house with her husband.” Ren said. “I couldn't have her trying to sleep inside the house during the day, not with everyone else up.”
+
+“Let me get this straight.” Mrs. Johnson said. “You have two live-in girlfriends?”
+
+Ren nodded. “Unfortunately, I'm too hurt right now to... mhm mmh!”
+
+Stella and Denise covered his mouth with a hand each. “Date!” They said at the same time.
+
+“It's difficult to go on a date with a dislocated kneecap...” Stella started to say.
+
+“...and bruised ribs.” Denise finished for her.
+
+“That... would make dating more difficult.” Miss Harrison said. She gave Ren a stern appraising eye, then looked at Lisa. She nodded her head slightly because it seemed like a good pairing, then she looked at Elise. Her eyes widened as she tried to imagine the over 6 foot tall woman with a very short man in a wheelchair... and she couldn't do it. It just didn't make sense to her.
+
+Elise smiled at her, because she had seen that look before. “I assure you, it's true.” She said and bent down to give Ren a thorough kissing, and Stella and Denise moved their hands to let her.
+
+“You didn't have to do that.” Ren whispered to her when she broke the kiss.
+
+“Yes, I did.” Elise said, gave him another brief kiss, then stood up. When she turned around, she saw surprise on the 4 women's faces.
+
+“Didn't I tell you the owner of the house was something special?” Barbi asked and laughed. “Let's go over to the drinks table. It's over by the trees.”
+
+“Y-yes, that is a good idea.” Miss Harrison said and started to walk away without waiting for the others. “I definitely need a refill.”
+
+Everyone watched her walk around the corner of the house, exchanged glances, then followed her.
+
+“I can't tell if that's denial or shock.” Mrs. Johnson said. “It's not like she's never met anyone that had two girlfriends before.”
+
+“I think it's because of me.” Ren said, catching on quickly. “I think when I said Elise was my girlfriend, she thought I was either joking or exaggerating, then she readily accepted it without question when I said Lisa was.”
+
+Mrs. Johnson looked down at him. “I think I did that, too.”
+
+Ren chuckled. “I don't believe it myself sometimes, then I remember her coming to my rescue.” He looked at Elise with love in his eyes. “She saved my life.” He said. “She also does things for me that no one else can, and I can't tell her enough how much I appreciate it.”
+
+“You already apologized for earlier, so you don't have to keep buttering me up, Sweetheart.” Elise said, and he chuckled. Everyone walked on for a few moments, then Mrs. Johnson spoke.
+
+“How did you save his life?”
+
+“Ren used to stay in the long-term care ward of a hospital.” Elise said. “I can't really discuss the specifics of what happened; but, I can say that he was attacked and I got him out of there and into a temporary care facility.”
+
+“I was unconscious at the time.” Ren said and held a hand out to her. “I found out later she acted quickly and efficiently to get me to safety and into hiding before anything else could happen.”
+
+Elise took his hand and smiled.
+
+“That started me thinking about what my life was like, and it made me realize that I didn't want that kind of life anymore.” Ren said as they passed a small group of people. “It wasn't long before I bought this house and offered rooms for my nurses, since I didn't want them commuting across the city to get here. Asking Elise to stay over was a big decision at the time, since I've never lived with anyone before, and it's been a gradual thing ever since.”
+
+They arrived at the drinks table and met up with Miss Harrison, who already had half of another glass of wine gone. Lisa handed out glasses of fruit punch to Ren, Denise, Stella and Elise while everyone else helped themselves. There were several different kinds of juices, wines, soda pop and beverages scattered over the well-decorated table.
+
+Ren looked at his glass of fruit punch and then at the several bottles of soda. “Hey, can I...”
+
+“Not first thing in the morning.” A stern voice said from behind them, and everyone turned to see Barbara. She wore a flower covered summer dress and a large straw hat with a big bow on it.
+
+“Oh, come on!” Ren said. “When was the last time I had some soda?”
+
+“That doesn't matter.” Barbara said. “You need a counter-balanced meal when you have it.”
+
+Ren sighed. “All right.” He said and took a drink of punch. “I miss the bubbles.”
+
+Barbara chuckled. “If I tell Denise what you can handle from the snack table to eat for lunch, you can have one glass of pop.”
+
+“It's a deal, as long as there's no cucumbers mixed in.” Ren said.
+
+Barbara nodded.
+
+“Then I'll stop whining for now.”
+
+“Good.” Barbara chuckled and looked at Barbi. “I can't believe you hired a magician for a garden party.”
+
+“He's an illusionist, not a magician.” Barbi said and smiled. “Is he set up yet?”
+
+“Almost. He said he'll be starting the show soon.”
+
+“I'll go around and let everyone know.” Barbi said and walked away towards the next group of people.
+
+“I think I'll head over there, too.” Miss Johnson said. “It was nice meeting you, Mr. Haddon.”
+
+“Likewise.” Ren said and they watched her walk away again.
+
+“I'm sorry about that.” Dana said.
+
+“About what?” Ren asked.
+
+“Mom can be...” Dana stopped talking and Ren reached out and took her hand.
+
+“If you need someone to talk to about it, I'm sure you can find someone in the phone book.” Ren said and grinned at her.
+
+“Ren!” Several of the women around him gasped, and he laughed.
+
+“I'm joking, of course.” Ren said. He kept a hold of Dana's hand and looked deep into her eyes. “I'm kind of an expert on the 'mom is avoiding me' problem, so if you need someone to talk to about it, please don't hesitate to talk my ear off.” He said and rubbed his thumb on the back of her hand reassuringly. “You know, when you call because you want to come over and sit in the Jacuzzi.”
+
+Dana chuckled. “I'll keep it in mind.”
+
+“That's all I can ask of you.” Ren said and let her hand go.
+
+“Hey!” Someone shouted. “The show's about to start!”
+
+“I want to see this.” Denise said.
+
+“I wouldn't mind checking it out.” Stella said.
+
+“I'm curious, too.” Elise said.
+
+“You can leave me right here.” Ren said, and everyone looked at him. “I'm sorry, but I can't watch it.”
+
+“Why not?” Lisa asked.
+
+“I can always see how it's done and I won't enjoy it.” Ren said. “I don't want to ruin it for everyone, so go ahead and watch it.”
+
+“We can't just leave you out here.” Mrs. Johnson said.
+
+“I'll stay with him.” Dana said. “I don't like magicians, either.”
+
+“Are you sure?” Mrs. Johnson asked.
+
+“There's some chairs and a table right over there.” Dana said and pointed. “We'll be okay.”
+
+“Ren, do you really...” Elise tried to ask if he was okay with them leaving, and he gave her a big smile.
+
+“Just make sure you close your eyes and cover your ears at random times, in case he's trying to hypnotize you.” Ren said, and everyone looked at him again. “What? You didn't know that they perform temporary hypnosis on the audience?”
+
+Everyone exchanged looks and then looked back at him.
+
+“I guess not.” Ren said. “It lets them perform special tricks and makes you think you didn't see anything.”
+
+“Oh, that make sense.” Mrs. Johnson said.
+
+“You all go and have fun watching the charlatan. I'll stay here with two of my friends and have a better time than you.”
+
+“Two friends?” Stella asked.
+
+“Yeah, Gretchen's staying here with us, too.” Ren said. “She doesn't want to leave Dana alone with a scoundrel like me.”
+
+Stella, Denise, Lisa, and Elise all snorted in laughter, and Mrs. Johnson looked at them in surprise.
+
+“Okay, he's convinced me.” Stella said and pushed his wheelchair over to the table. “We'll be back later.”
+
+“Thanks.” Ren said, then Dana and Gretchen sat on either side of him. “Have fun, and don't forget what I said!” He told them as they walked away.
+
+“We won't, you scoundrel!” Denise exclaimed, and that made them all laugh.
+
+“Wow.” Dana said as they disappeared around the corner of the house. “You're this hurt and your nurses left you all alone.”
+
+Ren chuckled and pointed. Dana turned her head and saw two security guards about 20 feet away. One was facing towards them and one was facing the other way.
+
+“Oh.”
+
+“Don't worry. My nurses know what's going on all the time around here.” Ren said and looked at Gretchen. “Go ahead and ask.”
+
+“Wh-what?” Gretchen blinked her eyes at him.
+
+“You've been dying to ask me something since you saw me, so go ahead.”
+
+“I... I don't know what you mean.”
+
+“Eeennnh!” Ren made a buzzer sound. “Wrong answer!”
+
+Dana laughed. “I'll ask if you don't want to.”
+
+Gretchen opened her mouth to tell her to go ahead, then she remembered boldly asking him a personal question in the game. “Are both of them your real girlfriends?”
+
+“Yes.” Ren said. “Now ask the real question.”
+
+Gretchen took a quick breath. “Are you having sex with them?”
+
+“Like I tried to say earlier when my nurses cut me off, I'm too hurt to have sex right now.” Ren said. “But, I have with both of them.”
+
+“At the same time?” Dana asked.
+
+“Dana!” Gretchen exclaimed.
+
+“Hey, it's the next logical question.” Dana said.
+
+“No, not at the same time.” Ren said and smiled crookedly.
+
+“Oh! I see a sly smile!” Dana said. “You have had a threesome!”
+
+Gretchen looked at Ren and saw his nod. “In the game?”
+
+“There, too.” Ren admitted.
+
+Both Dana and Gretchen sat back in their chairs and just looked at him. They weren't sure why this subject seemed so interesting to them; but, they wanted to learn more.
+
+“Will you tell us who?” Dana asked.
+
+“No, since that's not my secret to tell.” Ren said. “I won't cause potential embarrassment to anyone.” He said and smiled. “Except for myself.”
+
+“Is that why you told my mom that you had two girlfriends?” Dana asked. “Because you don't mind being embarrassed?”
+
+“I'm not embarrassed to say they are my girlfriends.” Ren laughed. “Have you seen them? They're both gorgeous and they love me.”
+
+“Then what did you mean?”
+
+“I'm a bit of a sex addict.” Ren said, and they looked at him with wide eyes.
+
+“You're what?” Dana asked, surprised.
+
+“A bit is kind of an understatement.” Ren said, and sighed. “I just love the feel of a woman when... well...” He looked from Dana to Gretchen and saw their surprised expressions. “It's just... you taste so good when I go down on you.” He said. “It gets even better when you squirm and moan...”
+
+“S-stop.” Gretchen said and took a shallow breath and let it out. “Why are you telling us this?”
+
+“You asked.” Ren said, and their surprised expressions didn't change. “It's a little embarrassing for me to admit that I have a problem, and that's what I meant about potentially embarrassing myself.”
+
+Dana and Gretchen looked at each other, then looked back at Ren.
+
+“So, you really are...” Dana started to ask if he was addicted to sex.
+
+“Yeah.” Ren answered before she did.
+
+“Do you really like...” Gretchen started to ask.
+
+“More than anything.” Ren smiled. “I could do it for hours.” He said, dreamily. “The texture when I lick, the taste on my tongue, looking up at a woman's face as she...”
+
+“S-s-stop!” Gretchen closed her eyes and took several deep breaths as she rested her head on the table. Her long brown hair covered her embarrassed face.
+
+“Gretchen.” Dana said and leaned over the small table to lift up some of Gretchen's hair. “Did you just...”
+
+“N-n-no.” Gretchen said and turned her red face the other way to hide it.
+
+“Damn, girl.” Dana said and let her hair go as she sat back down. “Hearing it made you that horny?”
+
+“N-no.” Gretchen lied, and Dana chuckled.
+
+“I hope it was only a small one.” Ren said. “Otherwise, you might need to check your skirt because you're sitting down.”
+
+Gretchen gasped and quickly stood up. “Dana!”
+
+Dana nodded and walked around her and checked her skirt. “Nothing.”
+
+“Oh, thank god.” Gretchen said. “I... I need to go back to your place and...”
+
+“There's 6 bathrooms in the house.” Ren said, and they looked at him. “The main one is through the kitchen and beside the large living room. If you see the workout room, you went too far.”
+
+“We'll be right back.” Dana said and took Gretchen's hand. “Will you be okay?”
+
+Ren nodded and motioned for the security guard that was watching him to come over. “There's replacement pads and sanitary napkins in the drawers beside the sink.”
+
+Dana nodded back and quickly took her friend into the house that was very different from hers.

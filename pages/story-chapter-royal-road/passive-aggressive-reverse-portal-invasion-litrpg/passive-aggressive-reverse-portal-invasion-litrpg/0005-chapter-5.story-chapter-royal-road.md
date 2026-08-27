@@ -1,0 +1,129 @@
+---
+id: 815921e3-484e-5e0c-a42c-2e1eb1a79dcd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 5"
+slug: 0005-chapter-5
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 5
+ownLength: 2779
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463435/chapter-5"
+royalRoadId: "3463435"
+---
+
+I was about to blow my lid. It had been about forty-eight hours since I last sucker-punched somebody and I really felt like I was ready for repeat service.
+
+When the woman with the sunglasses told us to find a group that would work for us, she didn’t tell us what to be prepared for. She didn’t tell us that they were going to be just like humans back in the real world. That is, elitist, racist and just the fucking worst!
+
+Currently, six dominating powers resided in the Ever Steady. Each of them was awarded the honor of erecting a large, fur-covered tent where they’d pitch their recruitment speeches. There were other, smaller groups, of course, and bands of people looking to create groups outside of the established powers, but those were delegated to a roped-off enclosure at the far end of the tents, making it abundantly clear that they were secondary in everything.
+
+I hadn’t known what to expect. But the introduction to the first group took whatever limited expectations I had, tore them into pieces and took a steaming dump all over them. The uniformed Asian man with the strict demeanour didn’t quite sneer as he looked at me. But neither did he smile, or even treat me like a human being. And he interrupted me just three sentences in, when I admitted I hadn’t had any military training. Apparently, the HBBVJ Coalition (whatever that stood for) wanted those with military experience first, Asian natives second, but would settle for those who could follow orders unquestioningly. I failed on all three counts.
+
+It only went downhill from there.
+
+Shield of the Titan did offer me to enter their group. They’d also grant me what equipment they could offer. But they made it abundantly clear that they were centred around their leader, the Titan, adoring him with superhero-level worship. They offered solid growth and decent safety, rotating followers into his group on a strict rotation. Yet, there was never any chance of standing out, of seeking success for yourself. They were there for the Titan, not the other way around.
+
+Expanding the States were just what they sounded like. Mostly American, mostly ready for violence and expansionist as hell. They were going to dominate this damn place and get there first. They were also working hard to introduce actual technology to this world, though that was harder than they’d expected. By technology, of course, they meant guns. Honestly, I might not have minded joining them, if it weren’t for the contract. A goddamned contract, hand-written with a damn quill of all things. And it said all the quiet parts out loud. Expanding the States wasn’t just pro-gun and pro-military. It was the military. The contract was a draft agreement, letting the American military get their grasp on you for a ten-year period, regardless if you came from the Queen’s own country. I could’ve argued. I could’ve signed, half-certain that there was no way the contract could be legal. Instead, I left the tents with two middle-fingers raised at the scheming asshole.
+
+The Star Chasers was… everything that telekinetic Mage with the sunglasses warned us about. She might as well have named their group outright. As a group, they were high-risk, high-reward. They took in those who weren’t afraid to take chances and gave them a home where they’d be able to shine. I’ll admit, the sales pitch caught my attention, touting glory, riches and power.
+
+Unfortunately for the recruiter, he kept speaking. And the more he spoke, the more I realized this was an MLM scheme. They had ‘redistribution of rewards’ to make sure that rewards went to those with the right build. They had unspecified rewards for reaching specific milestones in levels, attributes and talents. They even had ‘buy-in-options’ that would earn you bonuses for choosing classes that the group needed. The final red flag was how he presented that you’d even get bonuses for recruiting new members. I noped out so fast, he was still talking when I left the tent.
+
+The SCA Seven were a colourful lot. They’d been founded by a tight-knit group of medieval reenactment enthusiasts – seven originally, five surviving – who were no strangers to medieval tactics and weaponry. One of them, The Colonel, was already world-famous back on Earth for his fuzzy moustache and ridiculously pumped physicality. Their approach, I truly liked. They took what they knew about medieval combat from Earth and expanded from there. Unfortunately, they also favoured those who had prior experience with weaponry and armor, which would turn me into a second-class combatant – and they openly admitted awarding the most challenging and promising fights to the original members, under the justification that they needed a strong front.
+
+It had been hours at this point. Every single tent had a line, and all the while, the queues kept increasing as more people arrived. When I entered the final tent, I was in a foul mood. Watching the inhabitant sitting on a high-backed chair with his feet on a rickety wooden table, I didn’t quite snarl. But I was absolutely in the mood for violence.
+
+He looked up at me. I looked back, unblinking and wide-eyed. This recruiter was undoubtedly the most unsuitable person to enter a newly-fledged, dangerous world I’d ever seen. Twenty-two at most, he was skinny and bald, tall, with that gangly, looming look some tall people got when they slouched to appear shorter. He was also so very thin and unhealthy-looking, veins standing out from his pasty-white skin. With all the foster homes, I’d been bullied quite a bit during my childhood. But this kid would’ve gotten it worse, anywhere in the world. He just lacked the glasses.
+
+His laugh caught me off guard. It was high-pitched, tittering and completely disarming. He wheezed and shook his head, holding up a hand until he caught his breath. “God. So sorry. But you ought to look at yourself. You look like you’re about to murder somebody. Did you just visit the Star Chasers?”
+
+I wasn’t going to be suckered in and taken by some happy nerd. I folded my arms. “The Star Chasers… and all the others in succession.”
+
+He whistled softly. “My condolences. Just wondering. Would it surprise you horribly to hear that the leader of the Star Chasers is a former crypto bro?”
+
+I snorted. Couldn’t help it. “Not in the least. Explains it all, really. So. What’s the damage with you guys? The Un-Erds, was it? Like, leaving the Earth, is that the point? Am I signing over my firstborn to join up?”
+
+“You have any?” He countered. “Good eating on those.” He tittered again. “Sorry. Our boss tells me I’m not allowed to make jokes. My name’s Will.”
+
+“Liam.”
+
+“Liam.” He inclined his head, then squinted. “At a guess, you look… Dutch?”
+
+I shrugged. “Close enough. Born in Sweden, raised and lived in four different countries in Europe. UK, most recently.”
+
+“Alright. I’ll try not to talk about Brexit too much.” He sniggered. “Okay. First off. It’s not Un-Erds. It’s U-Nerds. It’s supposed to stand for United Nerds. But the Major insists on phrasing it, just so he can call us all ‘you nerds.’”
+
+I raised an eyebrow. “Really?”
+
+“Really.” He groaned. “I mean, I know what I’m like, but the Major makes us look bad!”
+
+I snorted. “And how do you think you’re doing on the whole recruiter pitch thing?”
+
+“Well, you don’t look like you’re about to stab me anymore, so… not too shabby, I guess?”
+
+My laughter filled the tent, and something inside me eased up a little. “Point. Okay. Hit me with the real pitch then.”
+
+He nodded, easy-going charm taking the backseat to something fiery inside his gaze. “Okay. You don’t look like the sort to appreciate me ranting on, so I’ll hit you with the short version. And if you don’t like it? Don’t despair. There’s always a bunch of decent blokes in the enclosure at the end. Those are the smaller groups. Less resources, but also less pricks. Go talk to them.” He cleared his throat and launched into it. “It’s like this. You know about the history of the world.”
+
+“This is the short version?” I interrupted. “Also, no, I don’t. Not really. I’ve had more school changes than girlfriends.”
+
+He winced, and decided to ignore my comments. “You know who’s changed history over the millennia? Forget about Hitler, Djengis Khan and whatnot. Us nerds, that’s who. You think Djengis Khan would’ve been able to dominate without recurve bows and proper saddles? That Hitler would’ve been able to take over half the world without his Panzer tanks?”
+
+“I’m sure you’ve got a point in there, man.”
+
+“Of course I do. Every single huge accomplishment in history, has been made possible by discoveries made by some huge nerd. What would Earth even look like without industrialization? Without electricity and guns?“ He held up a slender finger in the direction of the nearest tent. “All those other groups out there? They might be trying to figure out the system. But they’re not going to push it. They’re not curious, not looking to really see how far you can go. That’s what we’re all about.” He shrugged and settled down in his chair. “We’re a rising-tide-lifts-all-ships sorta bunch. We don’t force people into specific classes based on their attributes like the HBBVJ Coalition does.”
+
+“Wait. They do that?”
+
+He nodded. “That’s how they have so many Crafters and Collectors. We, on the other hand are definitely playing catch up in that department. We’ve got a couple of Crafters, but they tend to veer toward the more experimental side of crafting.”
+
+“Meaning, there’s no equipment for me if I join up?”
+
+“No. Meaning, we trade our weird shit for some of the basic crap that the HBBVJ Coalition churns out. You’ll be outfitted, no worries. It just won’t be impressive. And we’re definitely behind the SCA Seven when it comes to stuff like magical food and enchanted protective items with buffs.”
+
+“…Those are actual things in this world? I seriously thought that was fake news.”
+
+“Would I make that up?” He blinked and then rubbed his face. “Sorry. You’ve just talked with recruiters for hours. Mea culpa. Yes. Potions and magical items and food are very real. Now. Getting back on track. Crafting is not our main thing. We don’t go for streamlining and indoctrination, like the military freaks, and we’re definitely not trying to found the fifty-first through sixty-seventh American states, or raise some sort of superhero, like Shield of the Titan. What we do? Is experiment. Try to figure out what works, and then go all-in!”
+
+Will took a deep breath, red tinting his cheeks, and settled back in his chair. “Incidentally, that’s also our only true requirement for joining up. What do you know about the induction?”
+
+I blinked, momentarily lost. Seemed like his rant had reeled me in after all. “Erm. Induction? Not sure I know that word. Sounds like a cult thing.”
+
+He laughed. “Harh. I forget myself. Apparently, that isn’t common verbiage back on Earth. Choosing your class and all, is what I mean.”
+
+“I… well, I’ve read and listened to everything that gets back to Earth. That’s not saying too much, though. But I know I get to choose a class, that I’m awarded attributes based on what I’m like – meaning, I’ll probably not be the cleverest bastard ever – and that I can choose some quirks to twist my build if I want to. That last part’s optional.”
+
+He nodded. “See? That’s what I’m talking about! Nobody wants to experiment!” He pointed at me. “Picking a class? All well and good. The system will walk you through the basics, the second you access that blinking little dot. Applying your free attributes? Also a piece of cake. When you start leveling up, the talents in all their glory will be revealed to you. It’s all easily grasped, even if the intricacies of mixing and matching your talents as you level can become complex.”
+
+I squinted at him. “But?”
+
+“But! That’s like… like netdecking for Magic! Like choosing a cookie cutter build for Diablo.”
+
+“I have no idea what that means.” I admitted.
+
+“It means, that making a simple choice to begin with is easy. And it might even have been already proven to work. But it ignores the endless adjustment possibilities that are made available to you through the quirk system, along with the bonuses that’ll give you. Now, I’m not going to harp on about the positives about going with quirks, or try to downplay the often insane negatives. I won’t go into the nitty gritty of it either. The system will handle that for you. Just know, that if you want to join up with the U-Nerds, you need at least a Tier three negative quirk.”
+
+“That’s all?” I frowned.
+
+“That’s all. Listen, we’re not interested in deciding how you should live your life or build your class. What we want is to explore and find the most insanely powerful possible combinations of this crazy world. Then, once you do that, we want you to either go out there, kick ass and represent us well, or group up with a bunch of other nerds-”
+
+I snorted at the idea that somebody would mistake me for a nerd.
+
+“-so you can create a group that complement each other.” He stabbed a thumb at the tent behind him. “Just for inspiration: right now, some of the up and comers out in our camps are…” His brows furrowed as he thought. “Giancarlo and Lisa. A wonderful duo. Giancarlo is a Scout. Archer. He has a negative quirk that gives him negative damage output, the closer a target is, and vice versa, alongside a positive quirk that lets him shoot further.”
+
+“Sounds bad.” I imagined how easy it’d be to wind up in an unfortunate situation.
+
+“Sure does. Until you consider Lisa. Another Scout. Her negative quirk? She can’t do ranged damage at all. But her positive talents amplify and improve the attacks of others. Including.” He raised a finger. “Nearly doubling the distance of any friendly ranged attacks, and adding damage on top.”
+
+I blinked in appreciation. That sounded like somebody who’d be able to take out an enemy before they even realized they were there.
+
+“Or we have Ben Stiller. Not that Ben Stiller, no. Our Ben is a Collector who prefers to travel solo. His Tier three quirk halves his running speed. An absolute pain for him, I don’t mind telling you. But his positive quirk makes enemy monsters not see him as hostile, as long as he doesn’t attack. Meaning, when he’s out gathering, he just waltzes right by any monsters and does his thing. Balls of steel on that guy, I tell you that much. He’s also the reason why we know so much about local monsters and deposits.”
+
+I shook my head in equal parts awe and dismissal. That sounded like a damn lunatic. But if it worked, who was I to judge?
+
+“We do attract the nerds. Some of the nutjobs too, I’d wager. But, often as not, we end up with something that’s worth the pain. And from your reactions, it doesn’t look like you’d be the worst fit for our merry bunch. If you decide to take the leap, go to our encampment, that side of town,” He pointed in a specific direction. “and tell Major Pain I’ve vouched for you.” He took a deep breath. “Yes. I know how the name sounds. I hate it even more than you, because I have to say it hundreds of times a day!”
+
+I asked a few follow-up questions, regarding food, equipment and any gear needed for excursions. The two former were provided by U-Nerds, no questions asked, as long as it wasn’t anything outlandish. The latter hadn’t been relevant yet, because nobody stayed out at night. Then I thanked him and took my leave. Both he and I knew that my decision had already been made. Of course, some of it was due to the lack of proper alternatives – but dammit if I didn’t like the idea of the negative quirks. All my life, I’d paid whatever price had to be paid, without getting anything to show for it. Now, I’d be rewarded for any cost, and as long as I thought things through, any choice would be more than worth the cost in the end. I just had to not mess up.
+
+It was time for me to finally choose my path in this new world. Time to get strong!

@@ -1,0 +1,255 @@
+---
+id: 070cf812-412e-5946-ad01-f8561ccc7d2f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 660 - Playtime Is Over"
+slug: 0661-chapter-660-playtime-is-over
+partOf: mythrans-master-of-all-continued-completed
+position: 661
+ownLength: 3272
+unit: words
+publishedAt: 2018-08-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241394/chapter-660-playtime-is-over"
+royalRoadId: "241394"
+---
+
+Ren, Dana, Gretchen, Artemis, Valercia, and the three cooks joined the other people playing on the water slides and in the pool. There was an inordinate amount of time frolicking in the pool after each slide, however. The first time it was Valercia that pretended to need Ren's help, which he was glad to provide as it allowed them to cuddle in front of everyone. The downside was that everyone noticed, so the next time they went down the water slides, Dana did the same thing.
+
+Unable to say no, since Ren could feel Dana's need for him to do the same for her as he had for Valercia, he 'helped' her in the water and out of the pool while he cuddled her. Just like Valercia, Dana had no problem running her hands over the thick strong muscles of his chest and arms as much as she could, until he put her down beside the pool.
+
+“Thank you for your help.” Dana said, and looked at him through half-closed eyes.
+
+“You're welcome.” Ren said.
+
+“Hurry up, you two!” One of the male cooks said. “I want to try that twirly slide!”
+
+“We don't have to wait for them.” The other male cook said.
+
+“Hey, we're enjoying spending our off time with royalty.” The first cook said. “This is something we can tell our grandchildren about!”
+
+“I don't think this is that important to make it a generational story.” Ren chuckled. “Thank you for the thought, though.”
+
+Both of the male cooks laughed and started to climb the stairs, and everyone followed.
+
+The female cook stepped close to Ren. “My King, can I ask a question?”
+
+Ren turned his head slightly towards her and nodded, and refrained from making the joke that she just asked a question.
+
+“May I be next?” She asked.
+
+“Next?” Ren asked, then smiled. “Oh, I see.” He said. “Of course.”
+
+“Thank you.” She said, and kept pace with him all the way up to the top. “Which one...”
+
+Ren put a hand on her lower back and eased her over to a double-wide slide that was intended for much larger people. “Why don't we ride this one together?”
+
+“T-together?” She asked, surprised.
+
+“If you don't want to...” Ren started to say, and she put her arms around his neck. He moved his hand from her lower back and put it around her waist, they took two steps and jumped together. The slide had several twists and turns and they rolled around a few times, yelled and laughed the entire time, then they splashed down into the pool.
+
+It was at this time that Ren 'rescued' her and lifted her out of the water. Just like Dana and Valercia, the female cook had no problems with caressing his chest and arms as he helped her out of the pool. Ren stood her up on the side, and he felt her gratitude.
+
+“You really did handle me very carefully.” She said, and her hand lingered on his arm.
+
+“I was about to say the same thing.” Ren said and smiled.
+
+“My King.” The female cook said and ducked her head for a moment, let his arm go, then went over to the other two cooks. They had enjoyed their slides almost as much as she did.
+
+“You indulged her fantasy.” Seldanna said, and Ren turned to look at her. “That was very nice of you.”
+
+“We both know nothing will happen between us, so there was no harm in letting her pretend.” Ren said with a smile. “Where have you been hiding?”
+
+“In plain sight.” Seldanna said and motioned to everyone around them. “It's not even open and this place is already very popular.”
+
+“I figured it would be.” Ren said. “How are the feedings?”
+
+“Unbelievable.” Seldanna said and they walked over to the stairs to join Dana, Valercia, Gretchen, the three cooks, and several other succubi who were still disguised as humans. “It's like a constant euphoria.”
+
+“I'm glad you're all enjoying it, but don't get too used to it.” Ren said.
+
+“Why not?” One of the other succubi asked.
+
+“This is only a small sample size of the people that are going to be here during the day.” Ren said. “You'll probably be cutting yourselves off occasionally when the full emotional impact of this place hits you.”
+
+“I'll be moderating that as much as I can.” Zunala said. “I'm still good for that much.”
+
+Seldanna laughed and put a hand on her shoulder. “Second in command isn't so bad, is it?”
+
+“I tried to be in command and I blew it.” Zunala said. “Being second in command, like I was when Murdrasu was alive, is much better than being useless.” She put her arm around Weston. “Weston and I are in the same positions.”
+
+“I'm not useless.” Weston joked, and they laughed. “I'm second in command of the county's forces, and she's second in command of the succubi.” He said. “Of course, neither of us expected that when all of this started.”
+
+“Things always change. In most cases for the better.” Valercia said from behind Ren. “Sometimes horrible things need to happen for that change to occur; but, after that things generally do get better.”
+
+There was a general feeling of agreement and they reached the top of the slides. Ren turned to Seldanna and she reached back and touched Gretchen.
+
+“I believe this one is next in line for your help.” Seldanna said and pulled Gretchen to the front of the group.
+
+“Wh-what?” Gretchen looked at Seldanna in surprise.
+
+“Oops.” Seldanna chuckled and gave Gretchen a little shove on the back. Gretchen took one stumbling step forward and slipped down the closest slide.
+
+“AHHH!” Gretchen yelled and disappeared around a turn.
+
+“Seldanna!” Ren exclaimed.
+
+“Rescue her, My King!” Seldanna said excitedly and pushed him head first down the same slide.
+
+“Not Ren, too!” Dana almost yelled and slid down after him. Artemis jumped down another slide, the cooks went down their own slides, and then the succubi all followed, which left Seldanna and Valercia alone at the top.
+
+“Was that really necessary, Sovereign?” Valercia asked.
+
+“The poor girl was hiding her envy really well, until the cook got to ride on the same slide as Ren.” Seldanna said. “I had to do something to help her.”
+
+Valercia nodded. “She won't believe what you did was a good deed, though.”
+
+Seldanna chuckled. “Queen Valercia, she already sees me as a bane for her friend. Being the bad one that pushed her is nothing.”
+
+Valercia laughed. “You make a good point.” She said. “Shall we go and see the carnage?”
+
+“The fourth and sixth slides are approximately the same length.” Seldanna said and approached the fourth one. “We should arrive not too long after them.”
+
+Valercia nodded and they jumped at the same time.
+
+Gretchen flailed her arms as she quickly slid around several turns during the pretty long slide and then she splashed down into the water on her side. She was completely unprepared for the shock when it happened and started to panic as she sank. Ren hit the water only a moment later. Because he had been pushed head first, he dove into the water and cut through it like a hot knife through butter. He angled himself down and wrapped his arms around Gretchen to grab her without hurting her, and she grabbed onto him with her arms and legs like a vise.
+
+Ren activated his Water Walk ability and they popped up to the surface of the pool an instant later. He put a hand under Gretchen's backside to hold her steady and ran to the side of the pool, put a towel down, and knelt on it with her. She was spitting and sputtering and didn't lessen her grip on him at all. He thought she was speaking nonsense until he started catching curse words and promises to get revenge.
+
+At least she's not crying hysterically. Ren thought in relief and started to rub her back with his other hand in a very soothing manner. “It's okay, Gretchen. You're okay. I've got you.”
+
+Gretchen's wild emotions eased away as she started to calm down, then the shock of what happened hit her and her body started to tremble. She closed her eyes and rested her head on his shoulder and took several deep breaths. There was a splash in the water behind them and a few moments later, Dana popped out of the pool because she had activated her own Water Walk ability.
+
+Dana rushed over to where Ren knelt. “Gretchen, are you okay?” She knelt by them and her hand joined Ren's on Gretchen's back and did similar consoling movements.
+
+“That... that was really scary.” Gretchen managed to get out, and she winced as several more splashes hit the water.
+
+“I'm really sorry.” Ren said. “I don't know what Seldanna was thinking.”
+
+“She was trying to get rid of the competition.” Dana said seriously, and that made Gretchen bark a laugh.
+
+“Yeah, right.” Gretchen said. Her trembling slowed down as Ren's and Dana's caressing hands on her back made her feel better. “Look at me and look at her.” She said and tightened her grip on Ren. “I'm the ugly girl next door and she's the perfect supermodel.”
+
+“You are not ugly.” Ren and Dana said together, and had even emphasized the same word. They exchanged smiles and Dana stopped rubbing her back.
+
+“How many times do you need to stare in the mirror before you believe that?” Dana asked, and Gretchen chuckled.
+
+“At least a few more times.” Gretchen said and lifted her head from Ren's shoulder. Her face was right in front of his now, and she stared at him right in the eyes. “You saved me.” She said. “You really saved me.”
+
+“Unlike the play ones we've been doing, you mean?” Dana asked, and Gretchen nodded.
+
+“Thank you, Ren.” Gretchen said and her eyes glanced to the side to Dana.
+
+Dana rolled her eyes and then smiled. “Go ahead. He deserves it.”
+
+“Thank you very much.” Gretchen said and smiled.
+
+Ren wasn't sure who she was talking to, and then she closed her eyes and kissed him. He was a bit surprised at her enthusiasm, then he felt her need mixed in with her gratitude. Of course, he immediately responded to that need and started to kiss her back with the same enthusiasm, then felt her jolt of surprise.
+
+He's a really good kisser! Gretchen thought as every other thought flew out of her head and she threw herself into the impromptu make-out session and kissed him in earnest. Dana's eyes widened as she watched her friend kiss Ren. It wasn't the quick peck on the lips she had thought it was going to be, either. She knelt there and her disbelief grew as the kiss went on and on.
+
+Ren's grip on Gretchen's backside tightened and she moaned a little into his mouth. He really liked that sound and his body reacted to that. With her pressed so tightly to the front of his body, she felt his reaction grow between them, and that made her so much more enthusiastic.
+
+Artemis, Seldanna and Valercia had come out of the water not long after Dana had, and they sat nearby.
+
+“I think that's enough thanks.” Artemis said with laughter in her voice, and Gretchen felt like a bucket of cold water had been dumped on her. She gasped and broke the kiss, and everyone could hear that she was breathing heavily.
+
+“Oh... oh, god.” Gretchen whispered. “I... I...” She looked like a deer caught in headlights. “I... I'm sorry.” She said finally. “I'm so sorry!”
+
+“I'm not sure why you're apologizing, Gretchen. That was a great kiss.” Ren said, and she blushed hard as her face went to a deep red, because she had thought it was a great kiss, too.
+
+“D-D-Dana.” Gretchen said and turned her head to look at her friend while she still had her arms and legs wrapped tightly around Ren. With what was pressed between them, she suspected that if she tried to let him go, even a little bit, everyone would see how excited she had made him. That thought made her face go just a little bit redder.
+
+Ren turned his head and looked at Dana, too. “Actually, you're right.” He said. “An apology is in order.”
+
+Dana stared back at them with her mouth hanging open and didn't know what to say. Ren moved the hand he had on Gretchen's back and reached out to Dana, who didn't react as the hand snaked around her neck, then Ren pulled her in close for a kiss. It was Gretchen's turn for her mouth to drop open as Ren kissed her friend, and her blush faded as she realized that Dana was finally getting what she had been trying to get for the last little while.
+
+Dana was more surprised than anything else as Ren kissed her and she moved her mouth in response to it; but, Ren could feel that she didn't have anywhere near the same enjoyment or enthusiasm that Gretchen had experienced.
+
+When Gretchen recovered from the shock of Ren kissing Dana barely inches away from her, she noticed that it wasn't the same technique that he had used to kiss her. She also saw that neither of them were as into it as she had been... or as Ren had been while he kissed her. She wasn't sure what to make of that, and then Ren broke the kiss and let Dana go.
+
+Dana blinked her eyes for a moment, and then she sighed. “Wow, that was...”
+
+“...kind of terrible.” Ren said and put his free hand back on Gretchen's back.
+
+Dana chuckled. “Yeah, I didn't get much out of that.”
+
+“I know.” Ren smiled. “You were so worried about being stuck as just friends that it didn't cross your mind that we might not be able to be more than that.”
+
+“That's it exactly.” Dana laughed as she thought about all the schemes and stalking she had done to try and get close to Ren. “What a fool I've been this last week!”
+
+Ren laughed, too. “Sometimes it just doesn't work out, no matter how much you want it to.”
+
+Dana put a hand on Gretchen's shoulder. “I'm sorry I dragged you all over the place, too.”
+
+“Th-that's fine.” Gretchen said. “I'm your friend and I'll do anything for you.”
+
+“Including making out with the guy I'm interested in?” Dana teased, and Gretchen's face went back to a deep blush.
+
+“D-Dana, I...”
+
+“I'm just joking.” Dana laughed. “You've cheered me on all this time so it's only fair that I cheer you on this time.”
+
+Gretchen shook her head. “That's not...”
+
+“Ren, we need to go.” Teepo said. “The first appointment is coming up in a few minutes and we need to get over to the amusement park.”
+
+“Right.” Ren said and went to let Gretchen go, and her worry spiked as she held on even tighter. “Gretchen?”
+
+“R-Ren, you... I'm... we...” Gretchen mumbled and then her eyes quickly glanced down and back up at him.
+
+“Hm?” Ren raised a single eyebrow at her, which made her giggle, and then he understood. “Ohh.” He smiled. “Thank you.”
+
+Gretchen was going to respond, then he gripped her backside slightly harder and used his other hand on her back to keep her tightly pressed to him. She couldn't quite remember what she was going to say after that.
+
+“Excuse us for a moment.” Ren said as he stood up and unfurled his wings, then he flew straight up.
+
+“Hey!” Dana exclaimed and stood up. “Where are you going?!?”
+
+Ren stopped a hundred feet up and cast a small Magical Barrier of Protection, then cast the Full Illusion spell of a house to fill it.
+
+Gretchen gasped at the sudden change in their circumstances. “What... how...”
+
+“It's okay. No one is around and no one can see or hear us.” Ren said and furled his wings away. “You can let go now.”
+
+“B-but...”
+
+Ren moved his head in and gave her a gentle kiss. “You held onto me this whole time because you were worried people would see me poking out of my Speedo.” He said. “I normally wouldn't reveal myself like this; but, because you used your body and protected my modesty with all those people around, I don't mind if you see it.”
+
+Gretchen's blush was back in full force, and he chuckled. “Are... are you sure?”
+
+“Let go and find out.” Ren said.
+
+Gretchen took a deep breath, then uncrossed her ankles from behind his back. Her legs dropped down and she put her feet on the floor, but her height didn't change. She looked at him with wide eyes, and he nodded.
+
+“I'm standing a foot above the floor so you can stand up without bending your legs.” Ren said.
+
+Gretchen nodded and took her arms away from his neck. Ren still held her backside and her back, though. She looked at him with a question on her face, and he let both hands go. She caught her breath as his firm hands no longer held her to him, and she took a step back. She stared into his eyes for only a moment more, then she looked down.
+
+Gretchen stopped breathing at the sight, because she hadn't realized her movements had pulled the tiny Speedo down. “Is that real?” She asked and blinked her eyes, rubbed them for a moment, then looked again. “It's not real.” She looked at his face. “Are there game mods for these things?”
+
+Ren chuckled. “No, it's real.”
+
+“How?” Gretchen asked and stared at it. “I mean, I know it's there and... and it works.” She smiled. “I'm assuming it works.”
+
+Ren laughed. “It does, because my heart pumps blood really fast.” He explained and stored the Speedo to give her the full view. “Now that you've seen it...”
+
+“...are you going to kill me?” Gretchen asked and laughed.
+
+“What do you think?” Ren asked, and she knew that he didn't want a joke for a response.
+
+“It's out of proportion to your body.” Gretchen said and knelt to get a closer look. She leaned to the side and then to the other side. “Despite that, it's very pretty.”
+
+“It's pretty?” Ren asked, surprised at the description.
+
+“Handsome doesn't fit.” Gretchen said. “Telling you that it's nice wouldn't be a fair description, either.” She lifted a single finger and touched it just under the tip. Ren caught his breath and it throbbed for her, and she held in her laugh at his reaction. She slid her finger down its length slowly, then she stood up and ran her finger the other way. “The only real description is pretty.”
+
+Ren felt her confidence in that answer, so he held a hand out and cupped the side of her face. “Thank you for your honest opinion.” He said sincerely, and she covered his hand with hers.
+
+“Did it really mean that much to you?” Gretchen asked.
+
+“Oh, yes.” Ren said and equipped his blue suit and felt her slight disappointment. “It means more to me than I can ever say.”
+
+Gretchen rubbed her face on his hand. “You can try.”
+
+Ren chuckled. “Maybe some other day.” He said. “I need to get to work.”
+
+Gretchen nodded and let his hand go. Ren took her into a hug and unfurled his wings, dismissed the Full Illusion spell and the Magical Barrier of Protection, then floated back down to the crowd waiting for them.

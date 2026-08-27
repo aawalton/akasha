@@ -1,0 +1,273 @@
+---
+id: 87edc0aa-c5b2-50f5-834c-4036dd5895bc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 780 - Rabbit Punches"
+slug: 0783-chapter-780-rabbit-punches
+partOf: mythrans-master-of-all-continued-completed
+position: 783
+ownLength: 3177
+unit: words
+publishedAt: 2018-12-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311311/chapter-780-rabbit-punches"
+royalRoadId: "311311"
+---
+
+“That's one hell of a story.” Drikon said. He had eaten two bowls of the soup and had 4 buns while Ren talked.
+
+“I can show you...” Ren started to say that he had recorded it all.
+
+“No, thank you.” Drikon said. “Your words, and the truth they hold, is more than enough for me.”
+
+“Dad.” Dilseffa said, and her father looked at her. “Don't.”
+
+“Don't what?”
+
+“Don't challenge him to make him prove his worth.” Dilseffa said. “You don't know what...”
+
+“I can't just hand my only daughter over to a man who isn't even one of the beast races.”
+
+“Dad, he...”
+
+“I don't care what he did.” Drikon said and stood up. “He will fight me or he will leave here without you.”
+
+“What are the rules to this pointless fight?” Ren asked and stood as well.
+
+“Until one of us can't fight anymore.” Drikon said.
+
+“That's all?” Ren asked, to everyone's surprise, except Dilseffa's.
+
+“We have a training room nearby.”
+
+“That won't be necessary.” Ren said. “Right here is fine.”
+
+“I won't have you idiots destroy the place.” Duyu said, angrily.
+
+“I won't move or even lift a finger.” Ren said to her, then looked at her husband. “You can start whenever you want.”
+
+Drikon looked down at Dilseffa when he felt her sadness. “Do you doubt that I can fight him?”
+
+“You're being stupid, so I don't doubt you will try and fight him.” Dilseffa said in dismay. “If you do this, I'm going to leave and I won't be back.”
+
+“Dilseffa...”
+
+“Have you looked at his sash?” Dilseffa asked. “Have any of you?”
+
+“It has nice decorations.” Her mother said.
+
+“Those aren't decorations, Mom. They are the teeth of the creatures he's killed.”
+
+“Only some of them.” Ren corrected. “I didn't gain teeth from everything I've killed.” He looked down at the sash. “I don't have any Ogre, Troll, or Giant teeth for example.”
+
+“You hear that, Dad?” Dilseffa asked and then she pointed at the largest tooth at the end of the sash. “Do you know what that large fang-like tooth is from? Do you?”
+
+Drikon looked down at it and identified it, and his eyes widened. “It's a tooth from an Abyssal Terror.”
+
+“Yes, it is!” Dilseffa said and stood up. “He went into their lair and he killed one of them, Dad!”
+
+“It is an impressive feat.”
+
+“He also killed the embodiment of Anansi!” Dilseffa exclaimed. “A 40 foot tall humongous spider! By himself!”
+
+“Like I said, it doesn't matter what he's done.” Drikon said and unsheathed his sword. “Step aside.”
+
+“She doesn't have to.” Ren said. “I told you. I'm not going to move or even lift a finger.” He looked up at the tall man. “I can feel your resolve, and I'm telling you that this isn't worth losing your daughter over. She said if you start this fight, she will leave and not come back.”
+
+“She always exaggerates.” One of her brothers said.
+
+“Even if that were true, she isn't this time.” Ren said. “As her Inamorato, it's my duty to protect her. If she says she won't come back, she will not come back. Ever.”
+
+“You can't be her Inamorato if I don't approve of it.” Drikon said.
+
+“You apparently don't have any say, since we've already completed the Ritual of Acceptance in front of the whole delegation for the Kingdom of Pervaria.” Ren said. “This fight is still pointless if that's your reason to fight.”
+
+“Are you afraid?” One of her brothers asked, and Ren sighed.
+
+“You know what?” Ren said and activated all of his Auras, except for Hatred, Submission, Inspiring Presence, and Ultimate Terror, which made everyone catch their breath. “Apparently, being myself is not getting through to you.” He said and added in the first boost to his Aura, and the men all flinched. “Do you want me to activate all of my abilities?” He asked and added in the rest of the Aura boosts he had equipped and he felt all of the brothers drop to the floor on their knees. “If you want me to actually fight you with everything I have, then you will be shocked.”
+
+“R-Ren... s-stop...” Dilseffa said. He was protecting her from feeling it; but through him, she could feel all of the pressure that everyone else experienced.
+
+“In a second.” Ren said and equipped his platinum armor and the strength of his Aura increased by ten times. Her father wavered where he stood and had to brace himself on the edge of the table, then everyone gasped when Ren stored the armor and deactivated everything except for his personal Aura. He waited for a moment, then activated his Reassurance Aura and pushed good feelings out to them.
+
+“As you felt, I don't have to move or even cast a spell to stop you from fighting.” Ren said and looked up at Dilseffa's father. “Did that satisfy you?”
+
+“You made my wife suffer through that.” Drikon said angrily.
+
+“No, I didn't.” Ren said. “I would never subject someone to my full effects if I knew that they couldn't handle it.”
+
+Everyone was surprised at that truthful admission and they looked at Duyu and saw that she was completely unharmed by Ren's display.
+
+“King Ren... no, Ren.” Duyu said as she stood up. “Ignore that fool for starting this idiocy and come over here to give me a hug.”
+
+“But...”
+
+“That wasn't a request.” Duyu said sternly.
+
+Once again, Ren knew not to argue and walked around the end of the table to her. He put his arms around her as he rested the side of his head on her cleavage. She chuckled as she hugged him tightly and felt his emotions about how much he liked being hugged.
+
+“I've never seen anyone stop them from fighting before.” Duyu said.
+
+“I was tempted to knock them out or put them to sleep; but, that wouldn't let them understand that I don't have to fight them to win.” Ren said.
+
+“Can you teach me how to do that?” Duyu asked with a laugh, which jiggled her chest and Ren liked the feeling of it on the side of his face.
+
+“Kind of.” Ren said. “With your permission... and your husband's permission if it's required... I can try something.”
+
+“After that little display, he can't really say no, can he?” Duyu said.
+
+“Of course he can.” Ren said and lifted his head from her cleavage to look up at her. “So can you.”
+
+“But...”
+
+“Just because I'm this powerful, it doesn't mean that I get to do what I want.” Ren said.
+
+“Yes, it does.” Duyu said and leaned down to kiss his forehead. “What's the point in being so strong if you can't just do what you want?”
+
+“I didn't make myself become like this so I could do what I wanted. I did it to prove a point and then I changed the world.” Ren said to everyone's surprise. “Once I did that and actually accomplished what needed to be done, all I want to do now is have fun and enjoy life to the fullest.”
+
+“Which includes taking my daughter.” Duyu said with a smile.
+
+“It wasn't supposed to be that way; but, she's mine now and I want her to be happy, too.” Ren said. “Like any starting relationship, there are hiccups and problems to get through. One of which was coming here to meet her family before anything more serious happened between us.”
+
+“You... you came here to... to...”
+
+“Ask permission, of course.” Ren said to her slightly red face. “I know I'm not a member of the beast races, even though I can change into different anthropomorphic forms, so I figured I needed to come and see you first.”
+
+“Y-you can change into different forms?!?” Duyu asked, shocked.
+
+“I have a polymorph helm.” Ren said.
+
+“What... what can you...”
+
+“I can become anything that I added to the helm when I created it.” Ren said. “When someone asked me about a dire wolf, I foolishly activated the helm to show them.”
+
+“So, that's why her mark is a dire wolf.” Duyu said. “She submitted to your Uberbeast.”
+
+“To my what?”
+
+“Uberbeast.” Duyu said and one of her hands reached for his hair. “It's a term we use for the embodiment of the ultimate predator.” She ran her fingers through his soft and fluffy hair while her teeth made a brief grinding sound.
+
+“Do you have werewolves here?” Ren asked, curiously. “I have wolf in it, too.”
+
+“We do have them here; but, they keep to their own province and don't intermix with the rest of the population of Pervaria.”
+
+“I'm tempted to ask why you didn't call them an Uberbeast.”
+
+“All they have are Alpha predators.” Duyu said as her other hand joined the first in combing Ren's hair. “I think if they did find an Uberbeast among them, their neighbours would be quite upset over the ruckus it would cause.”
+
+Ren chuckled. “I'll make sure to stay clear of their lands, then.”
+
+“I doubt you would count.” Duyu said as her face flushed to a deeper red. “Um... Ren...”
+
+“Yes, Duyu?”
+
+“Did you...” Duyu took in a shallow breath and let it out, then stopped playing with his hair because it was getting her excited. “Did you... happen to have...”
+
+“Let me stop you before you ask.” Ren said, and he felt her disappointment as he let her out of the hug and stepped back. “Only Dilseffa can ask me about that, assuming I have your permission to keep her.”
+
+“You... you have it.” Duyu said as her face turned bright red.
+
+“Duyu!” Drikon exclaimed.
+
+“HUSH!” Duyu yelled and waved him to sit. “This whole thing has gotten out of hand because of your foolish pride.” She said, then calmed down. “He hasn't come in here and claimed her as property, has he?”
+
+Drikon opened his mouth to say that he did, and then closed it.
+
+“That's right.” Duyu said. “He came here as if he was petitioning to be her mate and not her owner.”
+
+“That's because I thought I was petitioning to be her mate.” Ren said, and both Dilseffa and her mother gasped. “I'm not restricting her from seeing or finding someone else, though.”
+
+“R-Ren... you... you don't understand.” Dilseffa said. “Rabbits... we... we...”
+
+“We mate for life.” Drikon said in an angry voice.
+
+“Well, that's not true.” Ren said, and he felt an immediate reaction from everyone in the room.
+
+“Did you just call our father a liar?” Doth, the eldest son asked as he stood.
+
+“Of course not.” Ren said. “I only said that his statement isn't true.”
+
+“That's calling him a liar.” Doth said and put his hand on his battle axe as all of his brothers stood up.
+
+“Stop.” Ren commanded, and the men froze. “Do you, or do you not, mate with others before you get married?”
+
+No one answered, and he sighed.
+
+“Dilseffa and the magic user were having sex and they weren't mated for life.” Ren said. “So, the statement that you 'mate for life' is wrong.” He looked at all of their faces. “Can you honestly tell me that it's true? If it is, then Dilseffa, and apparently all of you, are now mated to the people you have already had sex with.”
+
+They all stayed quiet and didn't say anything.
+
+“You can move now.” Ren commanded, and the men all took deep breaths and sat back down. “Once again, the subtleties between what you say and what you mean are two very different things.” He looked at Dilseffa, then at her mother. “I'll speak in short sentences so I can be perfectly clear. We already had the acceptance ceremony. Dilseffa said that she is my bunny. I want to have sex with my bunny. Lots of hot and steamy sex. For hours and hours at a time.”
+
+Both Dilseffa's and Duyu's faces flushed bright red at Ren's stark admission.
+
+“We are not getting married. She is free to look for and date someone else. I like her a lot, despite not wanting to show her preferential treatment over the other two Mistresses.” Ren said and let those repressed emotions out. He felt surprise from everyone, then a moment later, Dilseffa was beside him and took his hand.
+
+“Ren.” Dilseffa said and he turned to face her.
+
+“I'm pretty sure you think I should be all over Yuwen, because she's a minx and flirts all the time.” Ren said, and Dilseffa nodded almost imperceptibly. “I'm interested in her and Tiyaphi, mainly because this is all new and a little exciting.” He admitted. “I'm drawn to you more than them, though.”
+
+“Why?”
+
+“You're cuter? Your emotional reactions? The way you respond to a simple touch?” Ren asked and used a hand to cup the side of her face. She closed her eyes for a moment and took a shallow breath as she felt his emotions strongly, then she opened her eyes and looked at him. “You also cried when you had to give up your crown to the delegation.”
+
+Her mother Duyu caught her breath at that, and Ren felt anger from everyone else.
+
+“I actually wouldn't have objected to them taking everything and learning what they could from it, right up until they said that you couldn't keep your adornments.” Ren said to Dilseffa. “Even after I told them that I ordered you to wear them at all times, whether I'm here or not, they still confiscated them.”
+
+“Those bastards.” Someone said, and Ren looked at the table and saw their angry faces.
+
+“They told me before that being my concubine supersedes all other concerns, then later told me it didn't in some cases.” Ren shook his head. “Since they didn't actually lie, all I could do was accuse them of misleading me.” He took a breath and let it out. “Then we came right here, and look at what happened... or almost happened.”
+
+Their anger faded as they thought about that.
+
+“I came here to meet her family. To see how she grew up and how she became who she was. I didn't expect this to happen.” Ren sighed and looked back at Dilseffa. “I'm not sure what I could have done differently, though.”
+
+“You could have come in here, all high and mighty, and just told us how things were going to go.” Dilseffa said and shivered as she felt his shock, then she felt his emotions change to sadness.
+
+“It's come out to be that way, though. Hasn't it?” Ren asked and put his arms around her. “Here I am, using my abilities to show off how powerful I am, when all I wanted to do was to spend some time with you and your family.”
+
+“You weren't alone in making that error in judgment.” Drikon said. “I came home to have a meal with my family, and I discovered an outsider here and that my daughter had been claimed.”
+
+“Sir, I didn't claim her.” Ren said. “She fell under my domain, and in order to keep her Respect intact, I made her my concubine.” He explained. “It wasn't until she made her declaration that she accepted the position officially, and I accepted her in return.”
+
+“You're telling the truth, and yet I find it hard to believe.” Drikon said.
+
+“I have proof.” Ren said and took out a display device and chose the part where he became the Dire Werewolf. The screen appeared and covered the entire wall, so that everyone could see it clearly.
+
+“Oh, my god.” Dilseffa and Duyu whispered as Ren transformed into an Uberbeast.
+
+“It took me a while to come back to myself, then even longer to change back.” Ren said.
+
+The scene played out and he changed the display to show him recovered and going to Yuwen's carriage. They heard him get the explanation about making the women concubines to save their Respect, then it showed him meeting Dilseffa for the first time and making the concubine offer to Yuwen and her.
+
+“It wasn't until yesterday that we had the ceremony.” Ren said and changed the display to show Dilseffa walking backwards towards him, then her voice could be heard.
+
+“...in his domain he rescued personally. He's even saved this world several times now.” Display Dilseffa said as she stopped walking backwards.
+
+He really didn't hear my conversation with Rimsoh. Dilseffa thought, and gave Ren a squeeze as her image on the display exclaimed her thanks to Ren, then she made her declaration.
+
+“I, Countess Dilseffa Dreikhyth, publicly acknowledge King Ren as my Inamorato.” Display Dilseffa paused for a second. “I am Second Mistress of his Royal Concubines, and I will do my best to earn him Respect.” Display Dilseffa said in a strong voice, which surprised her brothers and not her parents. “I am his, and he is mine, both formally and informally. I dedicate the rest of my life to his service, and that of my family members who so choose to join me in that service. I do so swear.”
+
+“Oh, my god.” Her mother Duyu whispered as the bright beam of light connected Display Ren and Display Dilseffa.
+
+“I humbly accept your pledge of loyalty, Countess Dreikhyth.” Display Ren said. “Please, allow me to adorn you properly.”
+
+Dilseffa's whole family watched in surprise as she was given a string bikini, which left her nearly completely naked, then she was given platinum jewellery worth more than anything they could have ever imagined.
+
+“Now for your crown.” Display Ren said.
+
+“My WHAT?!?”
+
+“Royal Mistresses are a part of my Dynasty in the lands of Pervaria.” Display Ren said and asked her to kneel. He put the diamond tiara into her hair, welcomed her to the Ren Dynasty, then gave her a tender kiss to end the ritual. The video ended there and Ren stored the display device. Duyu had tears in her eyes because her daughter had been crowned in front of the country's whole delegation.
+
+“He did the same ritual with Yuwen and Tiyaphi after that.” Dilseffa said and looked down at Ren.
+
+“They weren't as moved by it as you were, though.” Ren said with a smile and looked up at her.
+
+“Their beam of Light wasn't as bright, either.” Dilseffa said in a soft voice and started to comb his hair with her fingers, like her mother had done to him, and she discovered that she liked it. “I didn't notice it at the time.”
+
+“Me, either.” Ren said, just as softly and let her feel that he liked her touching him like that. “I think it was because you were a lot more receptive to it than they were.”
+
+Silence fell in the room as Ren and Dilseffa stared at each other, and no one said anything for several moments.
+
+“All right. If no one else will say this, I will.” Doth, the eldest brother said, when no one else volunteered. “Dilseffa, why the hell did you pledge your whole family to lifelong service?”

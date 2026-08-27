@@ -1,0 +1,165 @@
+---
+id: af5d9432-636a-57eb-bb0d-936fd33e54fd
+page-type-slug: story-chapter-royal-road
+title: "Chapter 49"
+slug: 0056-chapter-49
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 56
+ownLength: 2503
+unit: words
+publishedAt: 2026-07-30
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3745256/chapter-49"
+royalRoadId: "3745256"
+---
+
+“Trading. Are you stating…”
+
+“Well, I can’t help but see that you’ve only got Self-Heal here as Improved Self-Heal at Uncommon. What would you offer us if somebody were to, say, offer you the Rare version? Higher Self-Heal?”
+
+He didn’t quite drool. But his gaze fixed on mine with an intensity that felt absolutely unhealthy. “Intrigue. Well. That would, of course, depend on just how hard it is to unlock.”
+
+I barked out with laughter. “Oh, come on, dude! You’re really trying to make me give up the details for free? You’re better than this.”
+
+He pivoted instantly. “Ah. But the value of my information is indisputable. I cannot lie. These are tested and found to be true and functioning. We only have anecdotal evidence that you even have yours.”
+
+I shrugged. “Says here Improved Self-Heal gives you the ability to cure a minor debuff once a day. What I got manages up to medium. You hit me with a debuff, I’ll cure it as proof.”
+
+He went silent for a while. “Two additional choices.” As I started talking, he spoke over me. “That is the highest I will offer. This is not an entirely new skill for me to own, only a higher rarity. And since you said you will share among you, those two will become a total of eight improved skills among your group, should you all learn them!”
+
+I grimaced, but nodded. “Deal. In that case, I’ll take Shield and Athletics, as I said. And I’ll top them up with Dodge and… Running.”
+
+Nix groaned.
+
+“Sorry, Nix. It’s for the better good. It’s even Rare!”
+
+She groaned even harder.
+
+Once we’d made our picks, Cuilcis nodded. “I will be writing down the requirements for all of you. Then I wish you luck in unlocking any of them. As to you, Liam, I am ready to note the requirements for Higher Self-Heal now.” He looked straight at me, quill hovering over an empty piece of parchment.
+
+I told him.
+
+He kept staring. Now and again, his gaze dropped to look at my body. Eventually, he spoke up again.
+
+It might just be my imagination, but I felt like there was a bit of tremble in his voice.
+
+“Polite inquiry. How much healing are we talking about? Would any wound suffice, as long as you stayed wounded for the full week?”
+
+I grimaced, thinking back to my adventures. First the escape from the Ever Steady. Then the encounters with the Vicious Millipedes, followed by the slaughter of the Ethereal Marmots. “It’s hard to tell exactly, because I was fighting for my life a lot of the time. At the best of times, I was maybe eighty percent healed. The worst occasions had me at… maybe a sixth of my total health. But that only happened twice.” I shrugged. “Sorry, mate. It’s probably not going to be the most fun to experiment with.”
+
+To my surprise, he didn’t complain. He merely nodded. “Appreciation. You did not need to add those details. Besides, I am not going to be the one experimenting. That is what coin is for.”
+
+***
+
+We were inside the tavern at our own table, at a decent distance from any possible listeners. Eating. Celebrating. Steve didn’t drink alcohol, but he was enjoying the hell out of whatever a Thorious Shatter was. Said it tasted like cherries and love. We were also bitching.
+
+“Seriously. How is this even a real demand? Create a construction that meets the minimum level quality required by the skill, without a single break throughout the construction process. Which minimum level? How do they define a break? And which kind of construction?” Haddock was uncommonly loud and verbose for him.
+
+“It’s not that bad. You’ll be able to practice as many times as you want, friend. Even if you fail, you can just rest and start over. The glory of creation is in its infinite diversity.” Steve smiled sadly. “Meanwhile, Piercing Weapons will be harder. Listen to this. “Kill three beings of your level or above with three different types of piercing weapons in one fight.” He snorted. “I’m getting better at wielding my spear, but… those are pretty damn bad odds, especially with unfamiliar weapons.”
+
+I frowned. “You know, I think we can improve those odds. It doesn’t say you need to beat them alone. Just that you need to kill them. Together, that sounds doable.”
+
+He blinked, and then clinked his mug to mine. “Together, it is! How about you, then?”
+
+I snorted. “Oh, Shield’s going to be all sorts of fun. Fend off a hundred attacks with your shield in one fight. Dodge isn’t that different either. Looks like, I’ll be risking my life left and right. Hey. Do you think we could wrangle this in a practice match? Like, you wailing away on me with a spear?”
+
+“Eh. I’m not too sure. Worth a try. This kismet thing, whatever it is, might frown on friendly matches.”
+
+“True.” I mused. ”If it were that easy, lots more people would be able to unlock their higher rarities. Let’s see. Well. Athletics and Running are just going to be lots and lots of sweat and effort.” I hesitated, then asked. “Nix?”
+
+“Why’d you go and pick Running? Now I have to earn it! We can’t return to Cuilcis a week from now with all of you sporting Higher Running and me just shuffling about behind you like a lapdog. A lame lapdog, with patchy fur.”
+
+I mouthed. ”Is she okay?” at Haddock.
+
+”This is like Kallor’s betrayal all over again.” He mumbled. ”Love. You know that change isn’t all bad. We’ll get through this. You will adapt and overcome.”
+
+***
+
+”I’ll be honest. This isn’t what I was expecting.” Steve said. He leaned on his spear, a thin, spindly-looking thing with a barbed, carved bone spearhead, looking at the people shuffling about Last Chance.
+
+“Me neither.” I admitted. “I was absolutely expecting to be thrown into all the life-threatening situations Cuilcis could summon for two full days. Guard duty was… a surprise.”
+
+“Well, he does seem to care quite a bit about money. Maybe he thinks that paying his guards is as much a threat to his well-being as anything else he could come up with.”
+
+I grinned. “Sounds about right. Also, I guess, with just a day and a half, it might be tough to find the perfect target for us in marching range. It’s not like we’d be able to reach anywhere in the Torn Divide – and I sure as hell ain’t working a single hour more than I absolutely need to for him.”
+
+That being said, I didn’t mind the work at all. For sure, I couldn’t quite forget that we were just chilling while humanity served as slaves, suffering who knew what kind of depravities and degradations in the hands of the Kadren. Yet, we also needed the downtime. We’d all been fighting for survival with little to no chance to relax in between. A day and a half of just standing around and looking tough? It was just what the doctor ordered!
+
+We’d served the first half day after returning from the tavern, only slightly buzzed from the beer. Following in our footsteps, Cuilcis kept his regular guards on night duty. Then, we’d taken over early morning.
+
+The work hadn’t contained any actual work. To my surprise, the Tibidi was a decent employer. He didn’t act up, and clearly outlined our jobs – which boiled down to protecting him. No more, no less. We were to make sure he didn’t get killed, and screen anybody before allowing them entry. There was no need for patdowns or cavity searches – we just had to check with Cuilcis that they were cleared to enter. Easy peasy.
+
+Too easy.
+
+In fact, I’d been leary enough of the job, I’d asked permission to sprint to the smith and finally pick up the armor and shield I’d been waiting for.
+
+"That is some soft-looking fur.” The words were low and loving. “May I touch it?”
+
+“Haddock. You’re wife’s flirting with my… armor, I think.”
+
+“No judgement.” The big man rumbled distractedly. “Let her play with your fur.” He was leaning against the building, eyes fixed on something glowing in between his hands.
+
+I relented. “Just don’t stroke against the direction of the fur. The hairs are actually hardened, somehow. I think it’s some smith magic.”
+
+The armor felt good on me. Sure, the over-abundance of fur on the leather probably made me look like some Davy Crockett-impersonator, but I didn’t care. It didn’t restrict my movements, gave me two points to Agility, and the material was tough. It likely wasn’t going to last forever, but neither did it feel like it’d literally drop off of me in the first handful of conflicts like the stuff I’d nicked from the Adrastians. I didn’t feel sexy, but with this, and the well-rested buff from Steve, I damn well felt in control of my movements in a way that I could get used to.
+
+Oh, and my new boots were amazing. Tough, hard-wearing, rigid in that way that really good leather has, when it hasn’t been broken in yet. Like, you know it may cost you a few blisters, but then the damn things would mould to your footsies and be perfect for years.
+
+Okay. One thing, I wasn’t getting used to. Nix was stroking my arm in a way that felt disturbingly possessive. “Nix. You’re going to have to let my arm go. The animal’s dead, and you’re still upsetting it.”
+
+“Mine now.” She growled.
+
+Behind us, Haddock’s hands flashed, and an elaborate creation appeared on the ground. He looked expectant for a moment, then cursed. “Not big enough? Or not elaborate enough. Dammit.”
+
+Reluctantly letting go of my arm, Nix moved to Haddock and patted him. “There, there.” She turned to the rest of us. “He’s barely slept, the silly bear. Keeps trying to unlock Rare Construction.”
+
+“Ah. Keep going, mate. You’ll absolutely get there.” I said.
+
+Steve mused, watching the crate-sized construction slowly fade away into nothing. “Was that… Starship Enterprise?”
+
+“It absolutely was.” I snorted. “Frigging nerds and their toys.”
+
+“It was beautiful.” Steve breathed.
+
+“You’re one to talk about toys, are you?” Nix smirked. “I’ve seen the way you caress that new shield of yours.”
+
+“I absolutely do not.” I said. “Don’t listen to her, Manon, Protector of Worlds. She’s a bad person.” I patted my new shield.
+
+As the others broke down laughing, I raised my shield again, smiling in admiration. I hadn’t been involved in the creation of the shield, though Stalwart had taken my wishes into consideration concerning the general shape and how to wield it.
+
+It was a tower shield. Or, so I thought, at least. Steve would likely have the exact terminology down pat. It was tall, rectangular and slightly curved on both sides. It was also big enough somebody without seriously long arms or claws would have trouble trying to reach around it. No goddamn Ghastling was going to try to eat this one. Finally, it had spikes on either corner, both for catching and deflecting enemy attacks and slamming the shield into the ground for extra purchase. It was perfect.
+
+I caressed the soft, cold surface of the shield. The metal was so damn smooth. And the metal itself… whatever alloy Stalwart created almost made up for how he’d tried to sacrifice me in the process. It looked like an oil spill on an undisturbed lake surface. A silvery sheen with a myriad blue-toned colours lurking underneath the surface. I was sure, if he’d demanded that I should come up with the decoration, I’d have gone for broke and picked something stupid, but traditional, like a deformed lion on its hindlegs. This was like… I could lose myself, just looking at the swimming, swirling colours as I tipped-
+
+“Heads up!” Steve’s voice was loud and demanding, serious way beyond his normal behavior.
+
+It broke me right out of my reverie. I looked up from my shield and noticed a shape walking up the street.
+
+No. Not walking. Striding. Or, rather, striding, if striding went on a twenty-four-hour bender and sniffed a couple of lines to keep going. Identify wasn’t doing me any favours. I couldn’t even see her level.
+
+Gold-Rot
+
+Further information locked
+
+Gold-Rot. Cuilcis had mentioned those in passing. Some organizationally strong empire. The humanoid marching toward us through the scattered mess of buildings that constituted Last Chance looked like her preferred approach to organization was to tear everything into equally-sized bits with her bare hands. Her four bare hands.
+
+She would’ve looked right at home in a post-apocalyptic movie. The eclectic smattering of dirty leather and spikes on her body blended effortlessly with the rest of her ensemble of stained, rough clothing. She had that particular blend of slim and strong going, which usually only existed on people with training podcasts and eating disorders.
+
+Her face was what really made me grasp my shield and check my footing. I’d seen that expression before, in the ring and outside. Thankfully, just a few times. Her eyes were blood-shot, darted every which way, searching. Her nostrils flared. This was a woman in search of a target.
+
+“Cuilcis!” Her voice tore through the regular low noise of everyday life in Last Chance.
+
+Oh. She had a target. Great.
+
+“Defend me!” Cuilcis’ voice squeaked out through the doorway. Then the door slammed behind us.
+
+I gritted my teeth. Both because I knew what was about to happen, and because I realized who we were facing. A Gold-Rot. I’d only heard about one in Last Chance. A person who single-handedly went out, fighting monsters and collecting materials. The fighting Collector. One of the goddamn untouchables.
+
+“She is too strong for us.” I spouted. “We don’t want to fight her.” Even as I said the words, I knew that we weren’t going to be given the chance to avoid it.
+
+Nix tried. I’d give her that much. “Excuse me. Slow down, and let’s talk about-“
+
+“Cuilcis!” Her words went from a shout to a full-throated roar. “Golden-tongued peddler of filth and lies! Come out and face your verdict!”
+
+Yeah, no. This wasn’t going to end peacefully. I stepped forward, hefting my shield, placing myself solidly in the Gold-Rot’s path. I flung out a series of commands as fast as I could. “Steve. Buff and fall back. Haddock. Nix. Hose her down. Haddock. Ready to block her path.” Then I set my feet, feeling the solid, reassurance of the ground underneath my feet, and the sensation of Steve’s buff kicking in and improving my Strength, making my grip feel just a bit more solid. “Lady. You will stop, or I will stop you!”
+
+The Gold-Rot heard my voice. How could I tell? Well, by the way she scoffed and rolled her eyes. Right before she sped up and launched herself right at me, her wordless howl tearing through the air.

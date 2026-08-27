@@ -1,0 +1,205 @@
+---
+id: c00c4a8f-d1b2-5513-bdaa-5d97ba35b8c4
+page-type-slug: story-chapter-royal-road
+title: "Chapter 679 - Nothing To Do Except Cuddle"
+slug: 0680-chapter-679-nothing-to-do-except-cuddle
+partOf: mythrans-master-of-all-continued-completed
+position: 680
+ownLength: 2849
+unit: words
+publishedAt: 2018-08-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284555/chapter-679-nothing-to-do-except-cuddle"
+royalRoadId: "284555"
+---
+
+Ugly Ren met Artemis on the roof of the Pleasure Palace and dismissed the Full Illusion spell. Teepo dissolved into the ring as Ren checked the All-Seeing Mirror and cast another Portal spell to hop over to the Pixieland ride. He picked up Suniva and they all went back to the house in Aurora. Once there, Ren did the same thing he had done at the beginning of the night and took each of the succubi into the Sanctuary for a quick trip to give them some devoted time.
+
+When that was done, he took Suniva and Artemis in for almost 6 full minutes, or 2 months of relative time. After that, he brought in the Marilith Demon and gave her another 3 minutes of fun. He left her in her room all curled up on her heated bed and went back to the big bedroom after summoning Teepo.
+
+“Now that I've got all the new flyers done, should I deliver them myself or offer another quest?” Ren asked.
+
+“I don't think doing it yourself would be much quicker, unless you wait until the businesses are open and just portal in.” Teepo said. “Of course, these flyers are for Adventurers only, so no one except them will see them.”
+
+“Hmm.” Ren thought about it. “I don't want to cut into other similar businesses; but, the girls need the revenue from tips.” He said. “I wonder if I can even advertise the Pleasure Palace in non-adult areas?”
+
+“Only one way to find out.” Artemis said. “Hand me a flyer.”
+
+Ren gave her one and she walked over to the window and tossed it out. “Hey, what...” The flyer flipped over in the middle of the street and flew right back in through the window. “Okay, that was cool.”
+
+“Want to try putting one on the town square portal?” Artemis asked, and he nodded.
+
+“Suniva? Want to come with us?” Ren asked.
+
+“Yes.” Suniva said and flew over to land on his shoulder, opposite of Teepo. Ren and Artemis left the house and flew to the town square in Aurora and landed beside the Portal Gate. Ren took out a flyer and stuck it to the side of the stone archway, and it stayed there.
+
+“Teepo, I need about 30 minutes or so.” Ren said.
+
+“Not a problem. See you soon.” Teepo said and dissolved into the ring.
+
+Rather than cast the portal spell, Ren just used the Portal Gate Network and attached several flyers to the stone archways on either side of them. Once that was done, he thought about posting them in the Adult sections of the cities that had those sections. He and Artemis flew over to the one in Aurora and saw a kind of billboard inside the Adult section. On it were various wanted posters, advertisements for services, and quest and job postings for players.
+
+“I had no idea this kind of thing was here.” Ren said and stuck his flyer on it, slightly off to the side, so that it didn't cover the things already posted there. “According to the maps I made for Dana and Gretchen, these sections should all be identical.”
+
+Ren checked the All-Seeing Mirror and cast the Portal spell. He and Artemis jumped to the next city's Adult Only section and put up another poster, then jumped to the next one and the next one. He did 12 of them in total, which counted Aurora, and he thought it was neat that the number matched the number of Lords in the Human Kingdom, not including himself. They popped back to Aurora and Ren summoned Teepo again, then they flew back to the house.
+
+“Okay, bed time.” Ren said as they entered the bedroom. He stored his clothing and climbed onto the bed, Teepo flew up to land on the ceiling, and Suniva hugged Ren's ear. Seldanna and the succubi shimmied apart a little to let him and Artemis cuddle into them, then they all drifted off to sleep. The hour passed by quickly, and Teepo said that it was time to get up.
+
+“Nope. I'm staying in bed.” Ren said and kept his hands on Seldanna's and Artemis' breasts. “I literally have nothing that I need to do right now.”
+
+“Th-that's true.” Seldanna said, surprised at the truth in his words. “Do you really want to...”
+
+“I'm going to lay here for no other reason than to cuddle with a bevy of beautiful and sexy women.” Ren said. “Is that okay?”
+
+“It's more than okay.” Seldanna purred and her hand slid down to his underwear.
+
+“Um... I said cuddle.” Ren said, but he didn't try to stop her.
+
+“You didn't say what part I could cuddle.” Seldanna said and gave him a kiss, then moved down close to it. Ellaria and Chenoa had their faces very close to what Seldanna wanted to cuddle and decided they wanted to cuddle him there, too.
+
+“I... should have... said no.” Ren panted as they 'cuddled' him and then Katori got in on the action.
+
+“You didn't want to say no.” Artemis said and kissed him to distract him, and he used both hands to hug her and make out with her while the 4 succubi pleasured him.
+
+“He's ready.” Seldanna said several minutes later.
+
+Artemis rolled on top of him and they joined together, then the succubi 'cuddled' both Ren and Artemis at the same time. After several more minutes, she was panting heavily from all the extra attention.
+
+“How... their tongues... I feel... AHH!” Artemis gasped and finished, as did Ren, and the succubi fed very well on both of their heightened pleasures.
+
+“So delicious.” Seldanna moaned and moved back up to Ren's face and kissed him deeply so that he could have a small taste of what she meant. She started to pull away, and he caught her hand.
+
+“May I?” Ren asked.
+
+“You always ask and never demand, even though you could command us so easily.” Seldanna said and straddled his face. “You have always been such a gentleman.”
+
+Artemis held her hands out to the succubus, who took her hands and they used each other for balance as Ren pleasured them and himself.
+
+“I am really going to miss this.” Seldanna said, and Ren felt her sadness. “Us. Together. Sharing everything we are.”
+
+Ren stopped moving and tapped her thigh, and she moved back slightly to look down at him. “Why are you going to miss it?” He asked her.
+
+“You said our time together will end next week.” Seldanna said.
+
+“Our time here at the house is going to end.” Ren said. “I never said that I was going to stop feeding you like this.”
+
+Seldanna stared at him with wide eyes and her utter surprise flooded into him, then the other three succubi stopped doing what they were doing and stared at him, too.
+
+Ren reached his hands out and touched them. “I'm sorry you misunderstood.” He said and caressed each of their faces briefly. “Please, don't be sad over something that's not going to happen.” He smiled. “I'm not going to cut you off or claim I don't have the time to feed you when I go back to the Main House in the county.”
+
+“But... but...” Seldanna didn't know what to say.
+
+“Why do you think I've been trying to get you used to spending some alone time with me in the Sanctuary?” Ren asked. “I can't take more than one of you at a time, and I was showing you how quickly the time can pass here while we can spend whole days together.”
+
+“You're not abandoning us?” Ellaria asked.
+
+Ren lifted his head to look at her and gave her a reassuring smile. “I'll never abandon you.”
+
+Ellaria's relief was quite strong, and it was joined by the relief felt by the other succubi. Seldanna moved out of the way and motioned to Ellaria to take her place, and then eagerness replaced her relief. Anticipation came from the other two, Katori and Chenoa, then Seldanna put a hand on Artemis' shoulder and one on Ren's.
+
+“I'm sorry for causing the interruption.” Seldanna said. “Please, continue.”
+
+“You didn't finish.” Ren said.
+
+“That can wait.” Seldanna smiled as she bent down to rest her head at the point where Ren and Artemis were joined. “It is more important to treat you as the benevolent king that you are.”
+
+“But...” Ren tried to speak.
+
+“Ellaria.” Seldanna said and Ellara sat down to stop Ren from talking.
+
+“I'll try, Sovereign.” Ellaria said and she started to pant right away. “He... he is very... skilled with... ohhh.”
+
+“Do your best.” Seldanna said and then started to lick him.
+
+Ren couldn't fight the sensations they were giving him. Suniva licked and played with his ear, Artemis rode him, the other 3 succubi licked and kissed him in other places, and he licked Ellaria. It was almost too much for him to keep straight. His body fought to react to each tender touch as the touch deserved, then another touch would distract him and he wanted to react to that one. He also had to concentrate on Ellaria so he could pleasure her, too.
+
+They stayed that way, locked into a pleasure cycle, until he and Artemis finished again. Then Suniva decided she couldn't wait anymore and she and Artemis switched places. The succubi knew she didn't like their attention, so they shifted to only touching Ren. Neither he nor Suniva minded that development and they pleasured each other for quite some time.
+
+Eventually, Suniva collapsed from the pleasure and slid off to cuddle with Artemis, and the succubi caressed Ren all over. They could barely move themselves from the wonderful meal he had given them, and he touched Seldanna's hair. She looked at him and he nodded, so she cleaned him up diligently. Seldanna always enjoyed this part, because they both knew that he could easily clean himself up by equipping some clothing, and she was flattered that he trusted her to do a good job despite that.
+
+Plus, it was like icing on a delicious cake for her. It gave her that extra little emotional burst that seemed to be the tastiest part of every exchange of pleasure they had. Neither of them expected it to go further than that, and it was also a relaxing post-coital ritual. When they had started their pleasure exchanges so long ago, she never imagined that something so simple could fulfill her emotional needs so much.
+
+Seldanna took her time and finished cleaning him without rushing, and Ren had pet her hair the whole time. She gave the tip a kiss when she was done and moved up the bed to lay beside him, and she saw that Artemis, Suniva, and the other succubi had already dozed off and were asleep.
+
+“Thank you.” Ren whispered and gave her a kiss, then he cuddled in close and rested his head on her ample chest.
+
+“You know as well as I do that it was my pleasure.” Seldanna whispered back, and took a deep breath for him to press his face into her soft mounds. He held in his chuckle and let her feel his amusement and appreciation.
+
+“Mine, too.” Ren kissed her breast and sighed as he closed his eyes. “This is nice.”
+
+“It truly is.” Seldanna breathed softly and pet his hair, then closed her own eyes. She imagined the emotions around her as a large warm bath and let herself sink into them. She had done some very bad things in her life, and she knew that he honestly didn't care about that. She fell asleep full of gratitude, because she was cuddled up with a man that she believed she did not deserve to have in her life, and she knew that he would be adamant that she did deserve it.
+
+*
+
+“Wait, we can do the first Water Works quest again?” Dana asked as she and Gretchen overheard the same rumor in town about a husband going missing at sea, and they had gone back down to the docks to find the same woman looking for help. “Is that possible? We already saved him, right?”
+
+“Maybe it resets every day.” Gretchen said.
+
+“Oh, wow.” Dana said and gripped her friend's arm. “We have got to do this again before the update Sunday night.” She said. “They might change the frequency or reset the requirements!”
+
+“A thousand gold each time is pretty hard to resist.” Gretchen said and looked around. “I don't see anyone else here, though.”
+
+“Maybe they think once it's done, you can't do it again.” Dana said.
+
+“That might actually be true.” Gretchen said. “Let's find out.”
+
+They went to the woman and the same quest popped up. They exchanged surprised looks and accepted the quest, then went to rent a small boat. With the both of them rowing, rather than taking turns, they arrived at the stranded ship fairly quickly. They tied up the boat and dropped down into the water and rescued the sailors, then brought back the crate of goods and the woman's husband to the dock. They received the same rewards they had before and left the docks very happy.
+
+“I can't believe it.” Dana said, then she stopped walking. “Wait! Hold on!”
+
+“What is it?” Gretchen stopped and turned to her.
+
+“What if it doesn't reset every day, but every game day?”
+
+Gretchen thought about that and what it would mean for them. “Oh, wow.”
+
+“That's right! We can do it a few more times before we have to log out in the morning!”
+
+“Should we, though?” Gretchen asked.
+
+“Wh-what?” Dana looked at her with wide eyes. “What are you saying?”
+
+“Should we exploit it like that? Isn't it like cheating or something?” Gretchen wondered.
+
+“I doubt we're the only ones that figured out we can go back to do simple quests over again.” Dana said. “How often did we go out to the newbie field and harvest those foxes after they regenerated?”
+
+“More times than I can count.” Gretchen laughed. “It really sucked that we couldn't keep the bunnies we caught, though.”
+
+“I know! They were so cute and cuddly, too!” Dana almost squealed, then a manic look appeared in her eyes. “Let's go get one right now!”
+
+“We're still not going to be able to keep it, and the foxes don't give us XP anymore.” Gretchen said.
+
+“We're just doing it for fun.” Dana said and took her hand. “Don't you want to pet the bunnies again?”
+
+“I guess so.” Gretchen said, not very enthusiastically, and Dana laughed as she dragged her through the city towards the West Gate and the small field of starter animals.
+
+“We've got to waste time until the next quest becomes available anyway.” Teela said.
+
+“I can't believe you've got all of the small quests around here timed like that.” Gretchen said, surprised.
+
+“It's kind of what I do.” Teela chittered in laughter.
+
+“She's fantastic!” Dana said. “Aren't you, girl?”
+
+“I sure am!” Teela boasted from her shoulder. “I can't wait to see the bunnies, either!”
+
+Dana laughed as they went through the gate, then they took a left turn into the starting player's field. “Gretchen, can you give the bunnies some room?”
+
+Gretchen took out her bow and arrows and quickly shot all of the foxes that she could see. Luckily, there weren't any other players there and the foxes were easy targets. The bunnies hopped around, agitated by all the activity, then calmed down after a few moments and started munching on the leafy plants that were scattered throughout the field.
+
+Dana tackled the closest bunny and rolled around on the grass. “You're so CUTE!” She exclaimed and cuddled the bunny in her arms.
+
+Gretchen laughed at her friend. “You have fun and I'll go loot the foxes.” She said and went around the field to each carcass and looted them. She only received a copper coin from each one of them, and also a few mangy and mangled pelts. That's new. I've never found an animal pelt before. She thought and stored the pelts. They must be useful for something.
+
+“Gretchen! Come quick!” Dana hollered and waved to Gretchen to come over.
+
+Gretchen ran over to where her friend was crouched down in the field. “What is it?”
+
+“It's a demonstration of what you want to do with Ren!” Dana said and pointed, and Gretchen looked over to see two bunnies going at it like... well, bunnies.
+
+“DANA!” Gretchen yelled angrily, and Dana laughed and laughed. “I'll get you for that!”
+
+Dana saw her reach for her, so she rolled out of the way before Gretchen could grab her. “Oopsie! You missed!”
+
+“Get back here!” Gretchen said as Dana started to run, then she ran after her. “You're not getting away from me! I know where you live!”
+
+“Ha ha ha!” Dana laughed. “I know where you live, too!” She goaded, and Gretchen doubled her efforts to catch her and make her pay, before they had to go to the next available quest.

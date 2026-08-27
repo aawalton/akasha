@@ -1,0 +1,263 @@
+---
+id: 012710fe-010d-5a4e-938f-bfcd55e09929
+page-type-slug: story-chapter-royal-road
+title: "Chapter 670 - Setting Up Home"
+slug: 0671-chapter-670-setting-up-home
+partOf: mythrans-master-of-all-continued-completed
+position: 671
+ownLength: 2705
+unit: words
+publishedAt: 2018-08-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/244248/chapter-670-setting-up-home"
+royalRoadId: "244248"
+---
+
+Denise stored the crate, gave Ren a kiss and left. He took out another crate and gave it to Elise. She stored it and kissed him, then left herself to go to her house to log out. He turned to Lara, and she didn't even try to hide her sigh.
+
+“I can't believe you're doing this.” Lara said.
+
+“Don't worry.” Ren said and gave her a kiss. “I won't be spending all of my time there.”
+
+Lara sighed again. “Ren.”
+
+“If you stay in your closet, maybe we can chat with the mirrors.” Ren said. “We'll be at the same time frame, at least.”
+
+“Extra stuff doesn't work in my closet.” Lara reminded him. “Even if you could take the All-Seeing Mirror out without having it melt, we couldn't talk anyway.”
+
+“Damn, you're right.” Ren said. “Oh, well.” He gave her another kiss. “Want me to portal you to the Library?”
+
+“Please.” Lara said. “I'll log out and make sure lunch is ready after I check on a few things.”
+
+Ren cast a portal for her and she stepped through, and he dismissed it. Then he opened another portal and stepped through himself and appeared at a farm halfway across the country. He walked up to the farmhouse and knocked on the door. The door opened and the older woman there looked at him with squinted eyes.
+
+“Who're you?” She asked.
+
+“My name is Ren, and I was wondering if I could buy your fastest and orneriest pigs and hogs.”
+
+“What for?”
+
+“A quick chase and probably a barbecue if they're caught.”
+
+The woman stared at him for a moment, then she smiled. “It's nice to meet someone honest for once.” She said and stepped back. “Come right in.”
+
+“Thank you.” Ren said and bowed slightly, then entered the house.
+
+“Most people try to say they want them as pets, or to grow their own.” She said as he followed her into the kitchen. “They don't realize all the work that goes into that, so I usually just shut the door in their faces.”
+
+“That's understandable.” Ren said and held a chair out for her, and she sat. “Will you be negotiating the price, or will your husband?”
+
+“There's no man of the house, I'm sorry to say.” She said, and saw his reaction.
+
+“I... I'm sorry.” Ren said and sat in the chair next to hers and took her hand, consolingly. “Did he pass away recently?”
+
+The woman laughed. “He didn't die. I just never met him.”
+
+“Oh.” Ren blinked his eyes for a moment. “Um...”
+
+“Don't tell me I made you speechless after you had a fight like that and wouldn't stop talking?” She asked, and he raised his eyebrows at her. “I just came back from town and saw the whole thing.”
+
+“It's not that, I just...”
+
+“Do you want me to tell you how desirable you are?” She asked. “Want me to fawn all over you?”
+
+“What?”
+
+The woman laughed again. “You're much cuter in person, so no one would blame me.”
+
+Ren opened his mouth to respond, and didn't know what to say.
+
+“Ha ha! I did make you speechless.” She said and pat his hand that held hers. “I've got three, maybe four pigs that fit your needs. One of them is an old breeder that's past her prime, though. She's pretty tough.”
+
+“As long as you mean in both temperament and hide.” Ren said, and she chuckled.
+
+“That's exactly what I mean.” She said. “Now, about the price...”
+
+“Name it.” Ren said.
+
+“Marry me.” The woman said.
+
+“E-excuse me?” Ren asked, shocked.
+
+“Bwahahaha!” She guffawed and slapped the table. “The look on your face!”
+
+Ren sighed. “I'm sorry if this sounds rude; but, I really don't have time for this.”
+
+“The big bad fighter can't take a joke?” She asked. “All right. It's 3 platinum. One for each pig and I'll give you the old sow for free.”
+
+“Sold.” Ren said and took out 3 platinum coins and 15 gold for the tip.
+
+“Wait, what?” She was surprised when he put the money on the table. “I was...”
+
+“You'll have to point them out to me.” Ren said. “Oh, just a second.” He said and opened a portal right there in her kitchen and disappeared for a moment, then stepped back through and dismissed it. “I made a good-sized paddock for them and an obstacle course.”
+
+The woman just sat there and stared at him.
+
+“Are you okay?” Ren asked her.
+
+“I... I'm fine.” She said, and Ren chuckled at the joke.
+
+“Ma'am, please direct me to my pigs.”
+
+“But... you... you paid...”
+
+“Exactly what you asked for.” Ren said and opened the back door. “Is it this way?”
+
+“Y-yes.” The woman said and stood up, walked to the door, then stopped. She quickly turned and went back to the kitchen table and picked up the money and shoved it into her pocket. How in the world am I going to break this up to pay the farm hands?
+
+“I forgot to ask if you had a coin pouch.” Ren said and held out an array of them for her as she came over to the back door. “What color would you like?”
+
+“Are you for real?” She asked, and he chuckled.
+
+“Pick a color. Any color.” Ren said.
+
+The woman ran her hand along the pouches and felt their silky smoothness. She picked a brown one to match her belt and pants, equipped it, then dropped the money into it.
+
+“You can take out any denomination of money you have access to.” Ren said. “Copper coins, Silver coins, Gold coins, and Platinum coins.”
+
+“I know how coin pouches work.” She responded.
+
+“I'm just making sure. Some people needed help when I gave them one, since they didn't have one before or forgot how they worked.” Ren said and motioned out the door. “Please, after you.”
+
+The woman nodded slightly and Ren followed her out of the house and to the pig corral. As she pointed to each pig, he opened a portal and sent it to the corral he had made beside the house in Aurora.
+
+“The old sow is in the barn.” She said and they went to the barn, and Ren saw one of the biggest pigs he had ever seen.
+
+“You have got to be kidding me.” Ren said. “She's huge!”
+
+“...and really strong.” The woman said. “Good luck getting...”
+
+“Squeeee!” The old sow squealed as Ren picked it up like it was nothing and shoved it through a portal.
+
+“How the... no, never mind. I'm forgetting what happened during the fight.” She said.
+
+Ren chuckled. “Thanks for the unprocessed bacon.”
+
+“Unprocessed... hahaha!” The woman laughed. “You're funny!”
+
+“I try.” Ren said and gave her a bow. “Goodbye.”
+
+“Come back and visit!” She said as he opened another portal. “I still need a husband! Ha ha ha!”
+
+Ren laughed and shook his head, then stepped through the portal into the pig corral and greased them up from head to hoof, even the big sow, who didn't mind him rubbing her at all. He then used a portal to go into the Marilith Demon's bedroom, rather than tracking mud all through the house.
+
+“You smell like...” She sniffed. “Already? You have them already?”
+
+“I cast Full Illusion on the area so no one will see you chasing your dinner around the district and think that you're rampaging in the town.” Ren said and she laughed.
+
+“That was very thoughtful of you.”
+
+“I was told to be careful of the old sow because she's pretty tough.” Ren said.
+
+“Tough to chew I hope.” The Marilith Demon said, and Ren nodded. “Excellent.”
+
+“The large external door is right there, and there's a handle on the outside so you can...” Ren hadn't even finished speaking and she was already out the door and it swung shut. “...get back in.” He laughed and left her room and equipped his Travelling Clothes to clean up, then went into the large bedroom.
+
+“I assume you had something important to do?” Artemis asked.
+
+“Kind of, and it was quick.” Ren said. “The Marilith Demon should have enough to eat for the day... assuming she can catch them.” He grinned.
+
+“This I have to see.” Seldanna said and went to the door.
+
+“Wait.” Ren said, and she turned to him. “Thank you for loaning me your sword.” He said and took out the Vampiric Sword and handed it to her hilt first.
+
+“I swore that the succubi would assist you in taking down that Minor Demon.” Seldanna said and stored the sword. “Since we couldn't fight by your side, we let you fight with the power of our might.” She stepped close to him and bent over to put her face right in front of his. “Plus, you helped me gain the sword. Since I and everything I am is yours, I would never refuse any request you make of me.”
+
+“I would normally object to that; but dammit, you're too sexy to get angry at.” Ren said.
+
+Seldanna gave him a quick kiss. “Ladies, let us watch our old foe slither around in the mud.”
+
+“Yay!” Ellaria said. “She's really scary!”
+
+“Those poor pigs.” Chenoa said and smiled. “I can already feel their Dread and Terror.”
+
+“We're missing it!” Katori nearly yelled and ran from the bedroom, then the other succubi followed her.
+
+“Wow.” Suniva said. “They really get off on emotions, don't they?”
+
+“When they want to.” Ren said. “Artemis, want to come with me for a couple of minutes?”
+
+“Ren, I... I don't feel like...”
+
+Ren took her hand and poured all of his love into her. “Everything should be fixed soon, so come with me into the Sanctuary. I have some work to do.”
+
+“What about me?” Suniva asked.
+
+“You, too.” Ren said and cast the Portal spell, then they entered the Sanctuary together. When the portal reappeared a minute later, Ren stepped out with Suniva on his shoulder and Artemis stepped out, too.
+
+“I can't believe she taught you that spell.” Artemis said. “I only have one question.”
+
+“What's that?” Ren asked and dismissed the portal.
+
+“Did you have to cast it on everything?”
+
+Ren laughed. “I am going to be supremely bored if all I can do is sit in a cell like I did for the 2 weeks I was there the last time.” He said. “I am not doing that again.”
+
+“But...”
+
+“Yes, I went a little overboard.” Ren said and grinned at her. “It's for a purpose, though.”
+
+“Well, I know what one purpose is.” Artemis said.
+
+Ren chuckled and held out a 6 inch wide cube he took from inventory. “Enlightenment!”
+
+“Do you really think she'll like meeting me?” Suniva asked from his shoulder.
+
+“She should, since the only other being she has met besides me is Teepo.” Ren said.
+
+“Should we spring the both of us on her at once?” Artemis asked, unsure. “It might be too much for her to handle if we're both there to surprise her.”
+
+“I'll keep you inside my spawn point; but, there's a reason I didn't add a door or windows.” Ren said.
+
+“You don't want to hide anything from her.” Artemis said.
+
+“You didn't even have to guess at that answer. Well done.” Ren said and stored the cube. “Let's go.”
+
+“Where are we going?” Suniva asked.
+
+“Just to the arena for a second.” Ren said and opened a portal. They went through and appeared in the air above the arena. He took out a small box and used the function to copy any other recording device's contents. “Okay, I think that's everything.”
+
+“Where are we going to next?” Suniva asked.
+
+“No man's land.” Ren said as he opened another portal and they entered it, then they appeared in the space between the Human Kingdom and the High Elven Kingdom. They were also well away from the High Elven starter city, and Ren used the Staff of Earth to make a trench. They walked down into it and he activated his Hands of the Gods ability Rocky Hands, and covered the inside of the space with stone, and made a ceiling with it. He used the Staff of Earth to cover up the improvised room and cast a Permanent Magical Barrier of Protection that covered the inside of the room.
+
+“You're not taking any chances that it might fail.” Suniva said.
+
+“I couldn't do this in the arena, because no one would have seen how dangerous it is to open a portal to the Fire Realm without proper precautions.”
+
+“So that's why you did it in front of everyone.” Suniva said. “That's pretty smart.”
+
+“I doubt people recognized it was a lesson on a conscious level. They just know it's pretty dangerous.” Ren said. “Artemis, if this doesn't work...”
+
+“I'll get behind the portal and scream in pain.” Artemis smiled.
+
+“Okay, here goes.” Ren said and took out the All-Seeing Mirror and checked the inside of his spawn point, then opened the portal to the Fire Realm. Everlasting Fire gushed out of the portal, and Artemis didn't scream as it covered her extended arm.
+
+“That's a relief.” Artemis said, and then the room was filled and the pressure on both sides of the portal was equalized. Ren took her hand and they stepped through the portal. They appeared in the spawn point and Ren summoned Teepo right away. No one was in Fire Dancer's bedroom, so Ren had Artemis sit down on the bed inside the spawn point and he looked at the All-Seeing Mirror. It wasn't melting, either. He asked it where Fire Dancer was, and saw that she was back in the throne room.
+
+Ren was about to store the mirror when Fire Dancer looked right at him through it. “Well, she knows I'm back.” He said and stored the mirror. “I can't tell if she's angry or not, though.”
+
+“Plan for the anger, then be surprised when she isn't.” Teepo said wisely.
+
+“Suniva, stay here with Artemis, and neither of you are to go wandering.” Ren said as she flew over to land on Artemis' shoulder. “You can look out the windows and the door; but, you are not to leave this building.” He warned them. “Do NOT leave the building.”
+
+“We understand.” Artemis said, and he took her hand.
+
+“Please, believe me. You absolutely must stay inside, even if the Deity of Fire calls upon you.” Ren said and set up a display for them.
+
+“We'll stay put.” Suniva promised.
+
+Ren nodded and touched her face with a fingertip and unfurled his wings, then flew from the building and out of sight. About 30 seconds later, the display turned on and showed them the main throne room. Ren was there and talking to the Deity of Fire.
+
+“Deity of Fire, I've completed the preparations I needed to ensure my affairs were in order.” Ren said and bowed down. “Thank you for letting me do that.”
+
+Fire Dancer huffed. “It took you long enough.”
+
+“It really did.” Ren said and looked up at her. “I ran into a bit of a delay when I picked up some pigs for the Marilith Demon to snack on.” He said and smiled. “Would you like to see? In real time, of course.”
+
+Fire Dancer thought about for a moment. “Make it so.”
+
+Ren took out a large box that she had never seen before, and he hit the button on the top. A display 600 feet wide and 400 feet high appeared in the air, and he took out the little device he had and pointed it at the large box. A video started playing and showed the house in Aurora, and then the Marilith Demon jumping out of the top of the house and dropped to the ground. The pigs squealed in utter terror at her appearance, and then the chaos ensued as the chase began.
+
+“I told her it wasn't going to be easy.” Ren said and laughed. “I greased those pigs up really well!”
+
+All of the Fire elementals in the throne room let out crackling fire sounds as they watched the 6 armed creature try, quite fruitlessly, to capture her dinner.

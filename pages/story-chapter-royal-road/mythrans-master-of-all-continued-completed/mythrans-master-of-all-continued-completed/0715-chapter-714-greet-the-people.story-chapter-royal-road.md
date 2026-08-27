@@ -1,0 +1,177 @@
+---
+id: 6d5415c6-b8bb-5c03-9a46-6a623a6f1bde
+page-type-slug: story-chapter-royal-road
+title: "Chapter 714 - Greet The People"
+slug: 0715-chapter-714-greet-the-people
+partOf: mythrans-master-of-all-continued-completed
+position: 715
+ownLength: 3082
+unit: words
+publishedAt: 2018-09-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294173/chapter-714-greet-the-people"
+royalRoadId: "294173"
+---
+
+They got up when Teepo told them it was time, so they could have Zetaya's debut before Fire Dancer needed to take care of her duties for the realm. They got changed and Fire Dancer went out to the throne room to prepare the reception and to clear an appropriate space for what Ren had planned. He gave Zetaya a diamond necklace and bracelets, a tiara, and a string of diamonds to hang around her waist like a belt. The fire-reflecting accents set off her chosen dress wonderfully and made her that much more of a spectacular sight.
+
+“Ren, are you sure this is a good way to...” Zetaya started to speak, and he took her into a hug. He filled her with reassurance and pride, and she stared into his eyes.
+
+“You are going to be just fine and they are going to love you.” Ren said and gave her a kiss on the lips. It was completely platonic on both of their parts, and neither of them had their hearts speed up or gasped at the potentially intimate act. It was just a kiss and a show of affection, and Zetaya's nervousness faded as she relaxed.
+
+“Thank you. I really needed that.” Zetaya said.
+
+Ren smiled and rested his forehead against hers. “I remember a long time ago when I told someone that it was so nice to hug and cuddle someone and it didn't have to turn sexual. It doesn't have to lead anywhere and can just be comfort and mutual happiness.”
+
+“I feel the same way.” Zetaya said. “Just the feeling of being in your arms makes me happy, and the touch of your lips is so comforting that I could do it all day and never tire of it.”
+
+Ren chuckled. “I think even my lips would get sore if we kissed all day.”
+
+Zetaya laughed and he heard a low crackling fire.
+
+“It might be worth it to hear that sound again, though.” Ren smiled.
+
+“Don't tease.” Zetaya said and swatted his shoulder playfully.
+
+Ren let her out of the hug and held an elbow out to her. “M'lady, may I escort you to meet your people?”
+
+“I would be honored, good sir.” Zetaya said and wrapped her arm around his elbow. Ren cast Invisibility and they walked out of Fire Dancer's bedroom and through the castle to the large doors of the throne room. Ren reduced himself, Teepo, and Zetaya to their normal sizes and took a deep breath.
+
+“Okay, here we go.” Ren said and dismissed the Full Illusion he had cast in the throne room and felt the reactions from the Fire Elementals and Greater Fire elementals. He deactivated the Invisibility spell and activated the fireworks inside the throne room, and the sounds of roaring fires could be heard. Ren waited for the fireworks to end and their energy to be consumed, then used his Fire Manipulation ability to open the humongous throne room doors without touching them.
+
+All movement stopped as the occupants of the throne room focused their attention on the unexpected arrival, then a slow simmering fire sound started by the Fire elementals just inside the doorway, and it spread all around the throne room. They all recognized Ren, since he had been there so much; but, the new person on his arm was a shock to them.
+
+“I welcome you, Zetaya.” Fire Dancer said regally. “My very first creation.”
+
+Ren felt the shock ripple through the crowd. Snapping branches in a fire was heard from several different spots around the room, and Ren started walking. Zetaya didn't miss a beat, despite feeling apprehensive about the whole thing, and Ren flooded her with pride. She took in a deep breath and let that pride fill her, and as they walked the long distance towards the throne and Fire Dancer, she waved and smiled to the Fire elementals and Greater Fire elementals all along the sides of the room.
+
+The shock they all felt turned to disbelief for only a moment, then they started to realize that she was another Fire Being and not some kind of trick. Excitement and the sound of a roaring fire spread through the crowd, just like the shock had. By the time Ren and Zetaya made it to the throne, the roaring fire sounds had reduced to a strongly stoked fire that was waiting for another piece of wood to ignite. Ren stepped to the side slightly and knelt on one knee, then placed his hands on the floor.
+
+“Deity of Fire, I thank you for the warm welcome.” Zetaya said. “It has been...” She made several snapping branches and fire sounds. “...since you created me for your father, the great Adventurer, Ren.” She said, just as formally. “I started out as only a baby Fire elemental...”
+
+That was the piece of wood that was needed to ignite the strongly stoked fire sound of the crowd, and the whole throne room erupted in the sounds of a Whirlwind Firestorm at her words. Fire Dancer let it go on for several moments, then raised her hands to quiet them.
+
+“Please, continue.” Fire Dancer said to Zetaya, who nodded and told her tale. The room was enraptured in the story of her life. The fire sound equivalent of 'oos' and 'ahhs' met her words, and by the time she was done speaking, the room had fallen quiet and not a sound was heard. None of the elementals moved or tried to speak into the silence, and Ren felt their swirling emotions. They didn't know what to make of Zetaya's story, or its completely unheard-of ending.
+
+“I gladly accept your true life story and greet you on behalf of everyone within the realm.” Fire Dancer said. “Do you have a fitting tribute to offer for your debut?”
+
+Zetaya gave her a regal bow, and then suddenly a lush green forest appeared instantly behind her. “Fresh growth for you and your subjects, Deity of Fire.”
+
+All of the Fire and Greater Fire elementals were surprised by the sudden appearance of a forest in front of them, and equally surprised that it wasn't immediately burning to ash.
+
+“Well, then.” Fire Dancer said and stood with a happy smile. “Let's eat!”
+
+The crowd hesitated for only a moment, then they all swarmed over each other to get at the forest. It was almost comical, since most of them hadn't tasted it directly before, and Ren held off their wallowing emotions as they enjoyed it a lot more than he thought they would.
+
+Fire Dancer grabbed and uprooted a large tree and held it in her hand, covered it in Fire, then consumed it completely. “Mmm, delicious.”
+
+Zetaya turned and nodded to Ren, and he smiled as he concentrated on making a humongous tree. Fire Dancer caught her breath as the 800 foot tree grew right in front of her and was almost 100 feet thick. She reached out and touched its rough bark and held in her moan as she dug her fingers into the tree to put her Fire into its core. Fire Dancer made the sound of a crackling fire as she consumed the tree from the inside and its energy filled her completely. She couldn't hold in her moan anymore and let it escape through her lips as the tree withered from her Fire.
+
+Thankfully, the Fire and Greater Fire elementals were lost in their own pleasure to notice her lose her decorum in such a fashion, and when the humongous tree was finally consumed, Fire Dancer was unsteady on her feet and carefully sat back down on her throne. She had thoroughly enjoyed consuming such a delicious treat and her whole body glowed from all the energy she had harvested. She didn't have to share with anyone else within her vicinity, because they were harvesting their own energy, so she closed her eyes and relaxed.
+
+Fire Dancer knew that her duties would start soon and she allowed herself only a few moments of calmness, then she opened her eyes and saw that the Fire and Greater Fire elementals were making short work of the lush forest. She didn't have to wait long for everything to be consumed, then the earth the trees had grown from quickly disappeared as Ren absorbed it all.
+
+“We thank you for the gift and accept you with open arms, Zetaya.” Fire Dancer said in a normal tone of voice and a humanoid shape made of Fire appeared in front of Zetaya and gave her a hug.
+
+Zetaya hugged it back and absorbed the welcoming gift, then she bowed. “Thank you, Creator of Fire.”
+
+The whole throne room erupted in the sounds of all different kinds of fire. Everything from the sound of a match being lit to a raging forest fire, and they all combined into a roaring cacophony as feelings of acceptance and welcome filled the room.
+
+Zetaya was starting to feel overwhelmed by the feelings and Ren stood up and took her hand. She took a deep breath as he absorbed those feelings for her, and she gave him a smile of thanks.
+
+“Thank you, thank you all.” Zetaya said. The crowd settled down and formed a line, then Ren and Zetaya stood there as each and every Fire and Greater Fire elemental walked by them and touched Zetaya. They each gave her a tiny little bit of their energy, and Zetaya did the same. It took some time, considering the sheer amount of elementals in the throne room. Fire Dancer had already started her normal daily tasks by the time they were halfway done with the personal greetings, and after another hour, the last one walked by.
+
+Zetaya grinned as she leaned in and kissed Ren's cheek. “You were right!”
+
+“I told you that they would love you.” Ren said and kissed her cheek back. “Let's see if Fire Dancer needs any help, then we'll start the tour of the realm.”
+
+“Wh-what?” Zetaya looked at him with wide eyes.
+
+“You've only met the people here around the castle. You need to go and meet the others, too.”
+
+“But... but...”
+
+“Don't worry, I'm coming with you.” Ren said. “I also have proper transportation, too.”
+
+They checked in with Fire Dancer and she didn't need any help, so Ren took Zetaya out of the throne room and the castle and stopped by the front door. He took out a half-carriage that was covered in Fire designs, then cast Phantom Steed 4 times to create Flame Horses. He attached them to the front of the carriage and helped Zetaya climb aboard, then they started the tour to meet the rest of the citizens.
+
+They didn't get far by the time the day ended, because they had stopped so many times for the energy exchanges, so they quickly went back to the castle. Ren dismissed the Phantom Steed spells and stored the carriage, then they went inside and met Fire Dancer as she left the throne room.
+
+“How did it go?” Fire Dancer asked as they walked with her back to her bedroom.
+
+“Slowly.” Ren said. “I didn't realize having to exchange energy with so many elementals would take up so much time.” He chuckled. “We barely made a 5 mile wide circle around the castle, and it took nearly all day!”
+
+Fire Dancer laughed. “What level are you now, Zetaya?”
+
+“12.” Zetaya said, a little surprised. “I didn't think... how did...”
+
+“It's because of Ren.” Fire Dancer said and opened the bedroom door. “He's gotten you used to taking and absorbing energy, so there was no adjustment period for you.”
+
+“Did you have to do that?” Zetaya asked as they stepped inside and Fire Dancer shut the door.
+
+“Oh, yes. I didn't have any experience at all with it, and it took Father a few days to teach me how to do it properly when I was old enough to understand.”
+
+“Then you made me.” Zetaya said, making the connection right away. “You didn't want me to suffer the same thing.” She said and touched Fire Dancer's foot. “Thank you.”
+
+“I didn't do it consciously.” Fire Dancer said, then Ren made himself and Zetaya her size. “Plus, it was Father that fed you all those years, not me.”
+
+“I think we're arguing semantics.” Ren said. “Let's just say that everyone was involved and we all benefited from it.”
+
+“I guess that's fair.” Zetaya said with a smile.
+
+“It's getting late.” Fire Dancer said and her fancy outfit changed into her nightgown. “We should get some sleep.”
+
+“Are we doing a nap again?” Ren asked and equipped a set of red Spider Silk pyjamas.
+
+“No, I think we should stay in bed.” Fire Dancer said and climbed onto the bed. “It was a long day and we should get some rest.” She tucked herself under the blanket. “Goodnight.”
+
+Ren and Zetaya exchanged looks and Teepo hopped off of Ren's shoulder to land on the wall above the headboard, then Ren and Zetaya climbed into bed with Fire Dancer.
+
+“What do you think you're doing?”
+
+“Going to bed.” Ren said and slid in close to her.
+
+“Your bed is over there.” Fire Dancer said and pointed. Zetaya caught her arm and put it around her shoulders as she cuddled in.
+
+“It is.” Ren said and put his arms around her, and opened that part of his heart that loved her unconditionally, then poured it into her as he gave her cheek a kiss. “Goodnight.”
+
+Zetaya closed her eyes and let her love join his as she rested her head on Fire Dancer's shoulder. “Goodnight.”
+
+With the two of them pretty much boxing her in like they were, Fire Dancer couldn't really tell them to stop showing her their love. She sighed and closed her eyes, then relaxed as their comforting warmth engulfed her both physically and emotionally. She had felt some of these feelings before; but, this was the first time they had combined their efforts to share as much of it with her as they could.
+
+Ren took several deep breaths and concentrated on letting Fire Dancer feel everything he felt for her. He knew that words sometimes weren't enough, so he let his emotions speak for him. He could feel her taking them for what they were and she wasn't trying to deny their validity. That made him happy and he let her feel that, too.
+
+The night passed quickly, despite their intention to make it last for as long as possible, then the morning arrived and they needed to get up and go to work. Ren, Teepo, and Zetaya spent the morning with Fire Dancer as she took care of the realm, then in the afternoon and evening, they continued Zetaya's tour of the realm and visit every Fire and Greater Fire elemental.
+
+This went on for weeks, then months. On the day the tour finally ended, Zetaya was level 100 and she had met and exchanged energy with every Fire and Greater Fire elemental that wanted to. They had met several along the way that didn't want to acknowledge her, so Ren had marked them and told Fire Dancer about them. With the markers to follow, she could monitor them and their activities and see if they were going to try and start something.
+
+Out of all the things Ren had done for her and the realm over the years, Fire Dancer thought that weeding out these dissenters was the most useful. It made major leaps fighting against her abandonment issues, because he was helping her consolidate her rule, and that meant a lot to her. Ren felt these emotions from her and he was more than happy to help her. He knew she wouldn't do anything rash, despite having a temper that could melt steel. Ren chuckled at that thought, because when she concentrated, she could melt pretty much anything she wanted to and not just steel.
+
+The next 4 years passed without incident and it was time for Ren to leave for Adventurer's business. Despite knowing it was coming, Fire Dancer's mood darkened as the time for Ren's next absence approached. It wasn't until he reminded her about the Special Sending Ring that she realized she could still talk to Teepo if she wanted during the next 7 years.
+
+Teepo told her over and over that he would gladly talk to her as much as she wanted, and he would even leave the ring active while she slept if she wanted. Fire Dancer said that was a bit too much communication for her liking, which made everyone laugh. The fateful day arrived and it was almost a tearful goodbye, because he had to leave not one, but two people behind this time.
+
+“I'll come back as soon as I can.” Ren promised.
+
+Fire Dancer sighed. “I thought I told you not to promise things like that.”
+
+“Actually, you told me not to promise to be back by a specific time.” Ren corrected, and she rolled her eyes. He stepped close to her and took her into his arms, and she looked up at his sad face. “I'm going to miss you.”
+
+“I'm going to miss you, too.” Fire Dancer admitted.
+
+Ren kissed her forehead and gave her a pile of emotions that were a mix of love and devotion, then he let her go and took Zetaya into a hug. “I'm going to miss cuddling my cuddle buddy.”
+
+Zetaya chuckled, and he heard a small crackling fire. “You have lots of them back in the Earth Realm.”
+
+“I may sleep in a bed with them, but they aren't cuddle buddies.” Ren said and gave her a kiss on the lips. “Be good and stay safe.”
+
+“I know, I know.” Zetaya said and ruffled his hair with both of her hands. “No leaving the bedroom without you or the Deity of Fire.”
+
+“Only until you're strong enough to handle yourself in this form.” Ren said. “After that...”
+
+“Sweet freedom!” Zetaya exclaimed, and they laughed.
+
+“Do you want to stay this size?” Ren asked, and she nodded.
+
+“I can't cuddle the Deity of Fire if I'm small enough to sit inside her ear.” Zetaya smiled.
+
+“Fair enough.” Ren said and smiled back. He let her out of the hug and shrunk himself and Teepo back to their normal sizes, then Ren flew up to wave at them. He cast the Portal spell into the underground chamber and floated through it.

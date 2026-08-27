@@ -1,0 +1,261 @@
+---
+id: ad951ed9-4a7e-51d7-af28-95ec8e5f3989
+page-type-slug: story-chapter-royal-road
+title: "Chapter 712 - Love And Understanding"
+slug: 0713-chapter-712-love-and-understanding
+partOf: mythrans-master-of-all-continued-completed
+position: 713
+ownLength: 3026
+unit: words
+publishedAt: 2018-09-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293698/chapter-712-love-and-understanding"
+royalRoadId: "293698"
+---
+
+Ren woke up first the next morning and he felt the unfettered emotions that both Zetaya and Fire Dancer were letting out. They were both quite happy to be there with him and with each other, and that made him happy in turn.
+
+Good morning, Teepo. Ren thought.
+
+Good morning, Ren! Teepo thought happily. I really missed being able to do this with you.
+
+Me too, buddy. Ren smiled. Any guesses about how long these sleeping beauties are going to stay in bed?
+
+Until you wake them, I think. Teepo chittered in laughter. They are pretty content right now.
+
+Ren nodded and carefully propped himself up on an elbow to look at Zetaya. I kind of had an inkling Zetaya was going to be female, way back when Anabelle mentioned it in passing. I really tried not to treat her any differently so that she could choose for herself.
+
+Boy, did she choose or what! Teepo chittered in delight. She made herself into a real beauty!
+
+Ren nodded. Unlike the Earth and Water Beings, where he had to use his Emotion Siphon ability to tell them apart unless they were wearing something different or distinct, Zetaya wasn't a carbon copy of Fire Dancer. Her chest was significantly larger, her hips were curvy, and her backside looked like it could be the perfect heart shape that he liked so much, when she bent over.
+
+Whoa, whoa. Ren thought. Why did I think that just now?
+
+You should use Identify Person on her, I think. Teepo suggested.
+
+Ren nodded. Identify Person.
+
+Name  Zetaya  Level  001
+
+Gender  Female  Class  N/A
+
+Race  Fire Element  Fame/Infamy  2000 (Well Known)
+
+Titles
+
+Fire Dancer's First Creation  Consumer (Materials)
+
+Ren's Possession  Abide and Endure
+
+Consumer (Undead Flesh)  Colossal Cow (Enticement)
+
+Ghoul Destroyer
+
+Special Abilities (Mastered):
+
+Stoke the Fire, Fire Manipulation, Absorb Fire, Create Elemental, Create Fire, Lie Detection
+
+Domains
+
+Fire Dancer (Creator)  Ren The First (Ghoul Kissed)
+
+“Wait, what?” Ren said out loud when he saw that Zetaya was a part of his domain and his possession, and then he felt both her and Fire Dancer wake up.
+
+“Ugh.” Fire Dancer grunted and sat up as she rubbed her eyes. “What time is it?”
+
+“You have about an hour before you need to tend to the realm.” Teepo said.
+
+“Thank Vasalor.” Fire Dancer said and activated her Sustenance Ring's sleep function and dropped back to the bed completely asleep. Teepo held in his chitter of laughter at the sight, and Ren heard the sound of a low simmering fire from Zetaya. He touched her face and she turned to look at him, and he motioned for her to follow him. She nodded and they went over to Ren's bed across the room and climbed onto it, then he cast a Silence spell to cover their conversation.
+
+“Zetaya, I...” Ren sighed as she laid down on her back. “I just used Identify Person on you.”
+
+“So you know.” Zetaya said and pulled her night gown down just enough to show the engraved skull that was above her heart.
+
+“When did that happen?” Ren asked and slid close as his hand reached out and touched her skin. She stopped herself from gasping at his tender touch and smiled instead.
+
+“Remember when you made me into that Colossal Cow and I ate all those disgustingly awful undead ghouls? I got really sick.” Zetaya said. “I burned through my illness as much as I could, then you made your wish to heal the ghoul infected.”
+
+“But...” Ren traced the skull mark. “...I didn't even feel it when I touched you after that.”
+
+“I didn't really have a body that was appropriate for the mark to appear on when I was healed, so there wasn't any real outward sign.” Zetaya said and took in a deep breath. “Now that you've given me one, it appeared.”
+
+“I'm sorry that...” Ren lifted his hand from the mark and Zetaya grabbed his hand and put it back on the mark.
+
+“I was made for you by the Deity of Fire, Ren.” Zetaya said confidently. “I've been yours ever since then, so even if you had known and given me the choice, I wouldn't have hesitated in the least.”
+
+“Zetaya, I...”
+
+“I know.” Zetaya said and she touched the spot on the back of his hand where his Ghoul Kissed mark was. “You aren't ready to think of me like that, even after all the times we hugged and kissed each other.”
+
+Ren blinked his eyes at her. “But... it wasn't... I mean, it was, but...”
+
+Zetaya chuckled. “What did you think you were doing all those times when you rubbed my belly and kissed me?”
+
+“I...” Ren took in a deep breath and let it out. “I was showing my affection to someone I love.”
+
+“So was I.” Zetaya squeezed his hand and moved it down to her abdomen. “I can never thank you enough for everything you've done for me.” She said and lifted her nightgown. “You have always treated me like I was important to you, and you always talked to me without talking down to me. You even told me what you were doing all the time when you weren't spending time with me.” She moved his hand up and down on her belly and she let out the sound of a small crackling fire. “It really meant a lot to me that you did that.”
+
+Ren lifted his hand slightly and tickled her belly, and the crackling fire sound was loud in the quiet room. “I really do love that sound.”
+
+“Me... me, too.” Zetaya panted. “You always... made me feel good... like this.”
+
+Ren could feel her emotions and all he could feel was love and admiration from her. “You don't make this sound for anyone else, do you?”
+
+“No one else is allowed to touch me like this.” Zetaya said and squirmed on the bed; but, she didn't try to get away or roll over to hide her belly from him.
+
+“Thank you.” Ren said and stopped tickling her, then rubbed her belly in slow concentric circles. “I've been meaning to ask you...”
+
+“A-anything.” Zetaya said and the crackling fire sound didn't diminish at all.
+
+“...you were just converted into a new body, with a mouth and everything, and you can talk so well.” Ren said. “Why?”
+
+Zetaya chuckled. “I've always known how to understand you, Ren.” She said. “I was supposed to be a communication link to the Deity of Fire. I couldn't do that and not understand what you were saying.”
+
+Ren thought about all the times that he had talked to her, and about the assumptions he had made when answering her breaking branches in fire sounds. “So, how far off was I when I answered your sounds?”
+
+Zetaya gave him a big smile and cupped the sides of his face. “Most of the time you were very close to the mark.”
+
+“And the other times?”
+
+“You were so far off it was almost funny.” Zetaya laughed. “It was almost frustrating sometimes; but, it never bothered me enough to express those feelings.” She said. “You were doing your best to look after me and I admire you so much for that.”
+
+“Zetaya...”
+
+“I said it's all right.” Zetaya said. “Can you feel any pressure from me? Any untamed desire? Any unrequited love?”
+
+Ren closed his eyes and activated his Hands of the Gods ability Burning Hands, and poured it into her belly and concentrated on her emotions. “No, you just love me. It's uncomplicated and unreserved.” He opened his eyes and looked at her. “Zetaya, I love you the same way.”
+
+“I know that, silly.” Zetaya chuckled. “Each and every time we spent time together, you relaxed, because I figured you knew that I loved you with no qualifications.”
+
+Ren nodded and then looked down at her body. “Then what's with the super sexy body?”
+
+“It's because of my Stoke the Fire title.” Zetaya started to explain, then her eyes widened. “Wait, did you just call me super sexy?”
+
+Ren's face flushed red and he nodded.
+
+Zetaya laughed and pinched the cheeks of his face really hard.
+
+“Ow! Ow! Ow!” Ren exclaimed.
+
+“What dirty thoughts are you thinking, Ren?” Zetaya asked.
+
+“N-nothing! I'm not thinking dirty thoughts! I swear!” Ren said, honestly.
+
+“Then what are you thinking?” Zetaya asked and let his cheeks go.
+
+“I really like breasts and want to cuddle with you.” Ren admitted without a second thought, because he knew she would know that he was lying if he didn't tell the truth.
+
+“Then lay down and hold me as much as you want.” Zetaya said and held her arms open for him. “After all the times you did this for me, It's about time I did it for you.”
+
+Ren laid down beside her and rested his head on her chest. Its pillow-like softness felt fantastic, even through the night gown, and he sighed as he snuggled in and held onto her tightly.
+
+“Thank you.” Ren said and closed his eyes, and he relaxed almost immediately.
+
+“Do you want me to do the talking this time?” Zetaya asked and he nodded, which rubbed her chest slightly. “What should I talk about?”
+
+“You can tell me about all the differences between your old and new bodies.” Ren said.
+
+“I have HANDS!” Zetaya exclaimed, and both she and Ren laughed. She dug those hands into his fluffy hair and held on, then she gave him a detailed description of the differences in her bodies. Ren wasn't surprised that her voice was just as soothing to him as his was to her all these years. For the next hour, they held each other and talked. When Fire Dancer woke up, she felt refreshed and ready to face the day.
+
+Ren dismissed the Silence spell and he and Zetaya sat up to face her. “Good morning, Deity of Fire.”
+
+Fire Dancer turned to look at them. “Why is Zetaya's nightgown pulled up like that?”
+
+“I rubbed her belly earlier so I could hear her crackling fire, and I forgot to pull it back down.” Ren said.
+
+“You... you didn't just...”
+
+“No.” Ren and Zetaya said at the same time, and they laughed.
+
+“We only cuddled, Creator of Fire.” Zetaya said. “We knew you needed more sleep, so we came over here to stay quiet.”
+
+Fire Dancer nodded and climbed off the bed. “Then you both need to get changed.” She said and her nightgown changed and became her suit of armor, and the two baby Fire elementals became lapel pins on the neck guard.
+
+Ren's head whipped around to look at Zetaya. “Your debut!” He nearly yelled. “You're going to meet the Fire elementals and Greater Fire elementals in the throne room this morning!”
+
+“Great Vasalor!” Zetaya exclaimed. “What do I wear?!?”
+
+“I don't know!” Ren exclaimed back and they both hopped off the bed and ran over to Fire Dancer. “You're the Deity of Fire! If anyone would know what she should wear to meet your subjects, it's you!”
+
+Fire Dancer blinked her eyes at their expectant faces, and Teepo chittered in laughter.
+
+“Easy, you two.” Teepo said and flew over to land on Ren's shoulder. “Ren has a whole room full of clothes over there for you to pick through.”
+
+“Right!” Ren said and grabbed both Fire Dancer's and Zetaya's hands, then pulled them across the room and into the room addition he had given Fire Dancer. He let their hands go when they stood in front of the large mirror there and he started opening drawers and closets to expose all the different garments he had designed.
+
+“Ren...” Fire Dancer started to say that she needed to go.
+
+“I know, I know!” Ren said and flipped through the closet for something appropriate. “Dammit, I shouldn't have indulged myself like that.” He berated himself. “I didn't realize I'd be making Zetaya late for...”
+
+Ren stopped talking when he felt a hand on his arm and turned to look at Zetaya's face. Her emotions were berating him as well, but for a different reason.
+
+“You can indulge yourself whenever you want, Ren.” Zetaya said and chuckled. “We're going to be spending the next 5 years here. There's no rush to have me debut right away.”
+
+“But...”
+
+“I'm sure the Deity of Fire didn't expect anything special to happen today, so you shouldn't either.” Zetaya said. “She needs to care for the realm and the needs of the people. She does not need two frantic friends distracting her.”
+
+Ren opened his mouth to say that he wasn't trying to do that, then closed it and smiled. “You're right.” He turned to Fire Dancer and bowed. “Please forgive my impertinence.”
+
+Fire Dancer felt his emotions calm down and smiled herself. “We can prepare something appropriate for tomorrow or the next day. We could even do a formal introduction to the court.”
+
+“That would be wonderful.” Ren said and stood up straight. “I'm sure everyone will be just as excited as I am that Zetaya is here to visit with you.”
+
+“I'm not visiting, Ren.” Zetaya said. “I'm staying here.”
+
+“Wh-what?” Ren blinked his eyes at her.
+
+“I'm a Fire Being now.” Zetaya said and squeezed his arm slightly. “I can never leave the Fire Realm, not without causing untold damage to whatever realm I go to.”
+
+“But... but...”
+
+“You didn't think that after I transformed I could go back and sit inside the forge, did you?” Zetaya asked, and felt his disappointment. “Ren, I'd melt it from the inside, burn the warehouse down and then the entire city, just by being there.” She rubbed his arm consolingly. “That would happen even without me using my abilities.”
+
+Ren felt dejected and sighed. “I didn't realize that, no.” He said. “All I wanted was to give you something special. I didn't think about how our lives would change once I did.”
+
+Zetaya stepped close and hugged him, and he hugged her back. “Ren, our lives are always changing.” She said. “You keep doing that, even without really trying, and all we can do is move on from there.”
+
+“But...”
+
+Zetaya turned her head and looked at Fire Dancer. “Creator of Fire, when was the last time a Fire elemental evolved and became a Greater Fire elemental?”
+
+Fire Dancer had her own memories and those of her mother, and she searched them for a moment. “It's never happened. That's why I was so surprised when you showed up.”
+
+Zetaya smiled and turned back to Ren. “You see? You change things no matter what you do. You are change!” She gave him a tighter hug and let him go. “You can't tell me that you wouldn't have done it, even if you knew I would have to stay.”
+
+Ren couldn't deny that and touched the side of her face. “You're right. I would have done it anyway.”
+
+“Then don't feel bad that my address has changed.” Zetaya said. “Plus, now when you come and visit me, we can spend years together for the hours you would normally spend with me.”
+
+Ren smiled and put his arms back around her briefly, then let her go. “Yes, that is definitely a benefit.”
+
+“Then return us to our normal sizes so we can tuck ourselves into the Deity of Fire's hair for the day.” Zetaya said and chose one of the many dresses Ren had in the closet. Her nightgown changed and formed the new dress, and she did a little twirl. “I never thought I would ever wear such pretty things.”
+
+“I'm sorry that I never asked before.” Ren said, and Zetaya laughed.
+
+“Can you imagine me as a Greater Fire elemental and trying to wear a frilly dress?!?” Zetaya exclaimed. “What a sight I would have been!”
+
+Ren chuckled. “It would have been a sight, but not in the sense that you mean.” He said. “What if you have chosen to be male?”
+
+Zetaya chuckled, too. “Ren, I was never going to be male.” She said, and then felt his surprise. “Don't be surprised by that. You have been completely surrounded by women for most of your life here, and I've only ever seen half a dozen males around you.”
+
+Ren took a breath and let it out. “I tried my best not to influence your decision...”
+
+“Ren, I would never choose something that might make you uncomfortable.” Zetaya said. “In your own words, you love women.” She smiled. “You are relaxed and open when around them, for the most part, and when you visited me each time, you never expected anything of me and you were relaxed and open. Why would I choose anything except that which you needed the most?”
+
+Ren opened his mouth to say it was her own choice, then sighed. “I've been a fool, haven't I?”
+
+“Not at all, Ren.” Zetaya said and hugged him again. “The Creator of Fire made me for you, so I chose the form that fits your needs the best.”
+
+“A voluptuous redhead?” Ren asked, and she nodded.
+
+“I've been your friend for a long time; but until now, I couldn't hold you like you wanted me to.” Zetaya said. “I can now, thanks to you, and I'm going to hold you as much as we both need to.”
+
+Ren put his arms around her and nodded. “Thank you.”
+
+“Friends don't need to thank friends for their help.” Zetaya said and let him go. “Now shrink us so the Deity of Fire can get to work.”
+
+Ren chuckled. “Teepo?”
+
+“I'll stay this size, if the Deity of Fire will let me perch on her shoulder.” Teepo said, and Fire Dancer nodded. Teepo flew over to land on her left shoulder and Ren cast the spell on himself and Zetaya to return them to normal size. Ren then cast Permanent Air Walk on Zetaya and they both ran up to sit themselves inside Fire Dancer's hair above her right shoulder, so they could talk to her unimpeded.
+
+When they were settled and gave the okay signal, Fire Dancer left the bedroom to face the day with three friends around her.

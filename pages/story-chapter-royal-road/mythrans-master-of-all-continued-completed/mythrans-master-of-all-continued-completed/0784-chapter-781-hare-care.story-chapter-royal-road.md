@@ -1,0 +1,339 @@
+---
+id: 194a47c1-b408-5874-b210-3a11b3386a43
+page-type-slug: story-chapter-royal-road
+title: "Chapter 781- Hare Care"
+slug: 0784-chapter-781-hare-care
+partOf: mythrans-master-of-all-continued-completed
+position: 784
+ownLength: 3148
+unit: words
+publishedAt: 2018-12-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311576/chapter-781--hare-care"
+royalRoadId: "311576"
+---
+
+“I didn't pledge the whole family to life-long service.” Dilseffa said as she stopped combing Ren's hair with her fingers, because she was getting excited from it. “Only those that want to do it.”
+
+“Which is none of us.” One of her brothers scoffed. “Why in the world would we do that?”
+
+“Ren, what's your Respect up to now?” Dilseffa asked.
+
+Ren took this opportunity and equipped his platinum armor for an instant, then checked his status and stopped himself from laughing at the full stats. Even though he had seen it several times, it still tickled his fancy that they were maxed out.
+
+Status
+
+Name  Ren (Neram) Level  999
+
+Gender  Male  Class  Artificer/King/Fighter
+
+Race  Elfling  Fame/Infamy  10,000 (Revered - Locked)
+
+Dwarven Kingdom:
+
+Influence  1,000,000 (Locked)  Honor  250,000 (Untouchable - Locked)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  291,260  Influence  1,000,000 (Locked)
+
+Pervaria Kingdom:
+
+Respect  291,260  Honor  250,000 (Untouchable - Locked)
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Tainted King Of The Predators  All Auras maxed. You must be acknowledged. Grants skills: This Is Mine!, Autocracy, Beastiary Control
+
+Sea Dweller (Honorary)  Grants Water Manipulation Skill, Water Conversion Ability, and Sea Dweller (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Vasalor's Chosen  (No Description)
+
+Survivor (Ghoulpocalypse)  Personal Aura +50 feet
+
+Teach Me No More  All currently known skills and abilities are Mastered
+
+Creator's Assistant  Grants: Create Anything skill, System Administrator Menu, Personal Aura +150 feet
+
+Hunter Extraordinaire  Hunter Aura (100 feet), Tracking skill, XP (Negated), Fame +5000
+
+Crusader  Protect the Weak, Grants: Bolster (Skill), Inspiring Presence (Aura)
+
+Health  99,999 (Maxed +99,999)  Mana  99,999 (Maxed +99,999)
+
+Strength  99,999 (Maxed +99,999)  Dexterity  99,999 (Maxed +99,999)
+
+Vitality  99,999 (Maxed +99,999)  Agility  99,999 (Maxed +99,999)
+
+Endurance  99,999 (Maxed +99,999)  Intelligence  99,999 (Maxed +99,999)
+
+Luck  99 (+142)  Wisdom  99,999 (Maxed +99,999)
+
+For some reason, my Fame and Influence are locked, just like my Honor stat. Ren thought and stored his armor, then looked at the number for his Respect. “It's currently at 291,260.”
+
+Everyone's mouths dropped open in shock at the absurd total, even Dilseffa's. She hadn't realized that he had gained so much in so short a time.
+
+“R-Ren, what...”
+
+“It was mostly from all the training sword duels in King Alamast's castle.” Ren said. “20,000 Respect from winning each of them, times 12 delegates, plus the 26,000 I had before, and then all the Respect gains since then.” He said. “I might have gotten some from the battlefield; but, I was too annoyed at that stupid spider and wasn't really paying attention at the time.”
+
+Everyone fell silent again after hearing that.
+
+“I know I already said that you could stop being a delegate if you want to.” Duyu, Dilseffa's mother said and touched her daughter's shoulder. “I'll say it again to remind you if you need me to.”
+
+Dilseffa chuckled. “I heard you and thanked you the first time, Mom.”
+
+“Even with that much Respect, why should we sign over our lives to him?” Doth, the eldest brother asked.
+
+“Obviously you can't, because you need to take over for Dad.” Dilseffa said. “Everyone else, though?”
+
+“I need their help farming.” Drikon, her father said.
+
+Dilseffa barked a laugh. “With everyone working, that only takes a couple of days every few months.”
+
+“Still...”
+
+“Dilseffa is my Head of Security, so if I manage to get a good piece of land, she would be the most qualified to tell me if I can spare them for a few days.” Ren said. “After checking with the Head of the House, of course.”
+
+“What would we be doing?” One of them asked, curious.
+
+“Right now, I'd say security and you would be working for Dilseffa.” Ren said and felt their aversion to that. “I don't have any lands to watch over at the moment, though.” He said and felt their relief. “I won't ask for more people to come and work for me until I do find some lands somewhere.”
+
+“So, you're saying that it could be anytime between tomorrow and never.” Drikon said, immediately grasping the situation.
+
+“Yes, sir.” Ren said.
+
+“That means you don't have a lot of plans set in stone.”
+
+“No, sir.” Ren said. “I only just arrived in these lands and everything is kind of up in the air at the moment.” He chuckled. “I don't even know where to go to buy lands, or if I can buy them as personal property, or if I need government approval.”
+
+“Things could be difficult for a non-citizen to buy land.” Duyu said.
+
+“I was thinking I would have Yuwen buy it, since she would be running it.” Ren said. “I'll be gone during the days and most of the nights, so I don't have to own it personally.”
+
+“Hm.” Drikon rubbed his chin. “You would buy it as part of this 'dynasty' of yours?”
+
+“Yes.”
+
+“Does it matter where the land is or what kind?”
+
+“Not really.” Ren said. “As long as it's within the kingdom's borders, I can work with anything I can get.”
+
+Drikon nodded. “Then I know someone that can help.”
+
+“Dad, you better not be thinking about Old Ben.” Dilseffa warned him.
+
+“What if I am?”
+
+“He's a crazy old bear, that's why!” Dilseffa said, then she gasped. “It wasn't Old Ben that hurt you, was it?”
+
+“Ha ha!” Drikon laughed. “No, baby girl. It was just a normal bear.” He said and she relaxed. “Old Ben is still up at his cabin.”
+
+“I don't understand how you can have normal animals and were-animals together.” Ren said.
+
+“We leave each other alone for the most part.” Drikon said.
+
+“I meant having normal animals around at all, not the cooperating part.”
+
+Drikon chuckled. “Well, they don't normally put up a fuss, since we're the ones that have hands.”
+
+Ren smiled. “I can honestly say that I've never heard of a rabbit fighting off a bear before.”
+
+“It was more like he ambushed me and I escaped.”
+
+“I've done that myself a bunch of times after I became an Adventurer.” Ren said. “Except for me it was wolves.”
+
+“What? You weren't always this strong?” Dilseffa asked and put her hands back into his hair, because she just couldn't resist it.
+
+“Before you ask... no, I don't have it recorded.” Ren said with a grin, and she laughed.
+
+“Now that Da is finished eating, can we have dessert?” One of the brothers asked.
+
+“Dessert!” Duyu exclaimed and ran from the room.
+
+“I hope it's not ruined.” Someone else said.
+
+“I don't smell anything burning.” Ren commented, then he felt dejection and regret from Duyu in the kitchen. She came from there with several muffin pans in her hands.
+
+“Even though I had the oven on low heat and only stoked it occasionally, they still overcooked.” Duyu said sadly and put the ruined muffins onto the table. They weren't burned, only hard as bricks. Ren let Dilseffa out of the hug he had her in and poked one of the rock-hard muffins.
+
+“You might not be able to eat them; but, if you had a miniature catapult...” Ren stopped talking when he felt Duyu's feelings turn to sadness. “I won't make a joke about it.” He said and took her hand. “It clearly wasn't your fault.”
+
+“It was, since I was cooking them.”
+
+“Sometimes it's okay to blame the equipment.” Ren said and gave her hand a squeeze. “I'll fix the oven if you want me to.”
+
+“You can do that?” Duyu asked.
+
+“Give me a minute.” Ren said and let her hand go, then he disappeared.
+
+“Wh-what... where...” Duyu blinked her eyes and Dilseffa held in her laughter.
+
+Ren checked the oven and saw that not only was it old, it was poorly made and the heat distribution was horrendous. He thought about cleaning it out and trying to repair it, then changed his mind. He opened a portal to his county and the giant forge in the warehouse there.
+
+“Hi, Symmetra.” Ren said as he stepped through and dismissed the portal.
+
+“Hey, Ren.” Symmetra said and bent down from her 8 foot height to give him a 6 armed hug.
+
+“Yep, your hugs are still some of the best.” Ren said, and she laughed.
+
+“That's why you made me with extra arms.” Symmetra said. “What do you... ah, a custom stove for an underground warren.”
+
+Ren took out the Vasalor Statue and activated it.
+
+“I don't think that's necessary.” Symmetra said. “It should only take about 10 minutes to get the parts done.”
+
+“Yeah.” Ren said and took several steps up into the air and kissed her. She put her arms around him again and held him tenderly as they kissed. He broke the kiss a few moments later and she was breathing heavily.
+
+“Wh-what was that for?” Symmetra asked.
+
+“Just because.” Ren said. “I haven't been around as much as I wanted to be and I haven't had a chance to spend some time with you.”
+
+“Ren, I...” Symmetra took a shallow breath. “Ruck has been keeping me company.”
+
+“How is he?”
+
+“He's having a ball playing with the kids.” Symmetra said. “He's pretty much their pack mule and gives them rides all over the place.”
+
+Ren laughed. “I was worried he wouldn't find something to do, since he's way too big to be a backpack anymore.”
+
+“He and that Russell kid have been fast friends for a while.”
+
+“Ha! Fast friends.” Ren said. “I'm glad the boots I gave Russell let him keep up with Ruck at a full run.”
+
+Symmetra laughed, too. They got to work and Symmetra had been right. With the use of the giant forge, they had the thick walls of the oven completed in just over 10 minutes. Ren added the necessary enchantments to it to make it a proper oven, with the top suitable for any-sized pots and pans, and the inside could hold a large creature to be cooked. Ren had memorized the dimensions of the old oven and made the new one the same size.
+
+Ren stored it when it was assembled and finished, then took out a comfy couch and set it beside the wall. “Have a seat.”
+
+“What?” Symmetra asked and looked at it. “I'm not going to fit on that.”
+
+“Oh, ye of little faith.” Ren said and doubled its size. “Now, sit.”
+
+Symmetra sat down, a little awkwardly, since she hadn't sat down in a long time, and Ren chuckled. “What's funny?”
+
+“You're not used to sitting down.” Ren said and climbed up onto the couch and thought about sitting beside her, then smiled and climbed onto her lap. “Hold me.” He said and looked up at her face with wide eyes and a huge grin.
+
+Symmetra laughed at his teasing emotions and put her 4 lower arms around him to hug him, then used one of the top two arms to drape over his shoulders and the other to caress the side of his face with a hand. Ren closed his eyes and rested his head on her chest, and she held him like that for a long time.
+
+“I almost messed everything up again.” Ren said.
+
+“You can tell me all about it.” Symmetra said and kept stroking his cheek as she cuddled him, and Ren told her about what had happened.
+
+*
+
+The transport from the capital arrived to pick up Tatya, Kenkoth, and Beholo. Of the people assigned to the delegation, their information was the most important, since they were the ones that had interacted the most with the foreign cultures. The heavy sled was fully loaded by that time, and they took that with them as well as Ren's prisoner transport when they left.
+
+It was slow going in comparison to their previous carriage ride, and Tatya felt like they were wasting time by going so slowly. That made her think of Ren and the way things had turned out between them.
+
+I don't understand. Tatya thought to herself. Everything started out great and things were going so well between us.
+
+Tatya thought over everything that had happened between them, and she realized that the fault was hers. The divide between them had started because of her assumptions and presumptions. She sighed at that first mistake in judgment, because it had cost her quite a bit of Respect. It wouldn't have been so bad if she hadn't said anything and just stopped what she had been doing at the time. Trying to explain to Ren what she thought was going on had been her second mistake.
+
+Tatya closed her eyes and regretted it, especially since each new mistake built on the first and made everything that much worse between them. This last one where she had actually spoke in anger at Ren for voicing his concerns over his own property, had been the biggest mistake so far. She didn't even get to explain that all she wanted to do was recover some of her lost Respect by delivering the treasure trove of items and enchantments he had bestowed upon the caravan and two of her delegates.
+
+Tatya held in her laugh. Previous delegates. She thought. I doubt they will want to return to the caravan after what just happened. Even if they don't choose to stay with Ren, they won't be returning. She sighed. Losing two delegates is yet another thing I must accept the blame for.
+
+Tatya felt a consoling hand on her arm again, and she opened her eyes to look at Kenkoth. “I'm fine.” She said. “If I'm allowed to explain fully, I'm sure I won't lose any more Respect.”
+
+“Tatya, they...” Kenkoth sighed. “You won't be keeping the delegation.”
+
+“Not unless I can redeem myself by the morning somehow.” Tatya chuckled. “What are the odds of that happening?”
+
+“Jirqym could tell us if he was here.” Beholo the healer said and looked at his wrist. “You know, I really miss that bracelet.” He chuckled. “I was supposed to give it back to him; but, Princess Diana's words infected me. I kept both the bracelet and the wand because she said he would refuse them if I tried to give them back.” He made a fist with that hand. “Having access to all that Mana was great.”
+
+“Don't worry. You'll have it back by tomorrow afternoon.” Kenkoth said. “The items imbued with magic are always the first to be examined.”
+
+“I'm going right to the medical building when I get them back.” Beholo said. “I'll be able to do so much with them!”
+
+“So will we, assuming they can be copied.” Kenkoth said. “Imagine every field unit equipped with a Mana generating bracelet and a healing wand.”
+
+“They would still need to be trained healers.” Beholo said. “Otherwise, they could cause more harm than good.”
+
+“That's too bad.” Kenkoth said. “Imagine if everyone was able to just point a wand at someone and healed them instantly.”
+
+“Ha ha! You would need some kind of massive Regeneration spell, or even the Legendary Potion of Full Restoration to do something like that.” Beholo laughed. “They would both cause excruciating pain, though.”
+
+“Why is that?”
+
+“Unless Regeneration or Regrowth is one of your body's natural abilities, it's not supposed to regrow things.” Beholo said. “It still hurts, but not as badly.”
+
+“This is all very fascinating.” Tatya said sarcastically and looked out the window.
+
+“That's because you're in such a bad mood.” Beholo said. “I'm sure he'll come to his senses tomorrow.”
+
+“If you're talking about King Ren, I think he already did.” Kenkoth said. “You heard what he said.”
+
+“I did, and it makes me wonder.” Beholo said.
+
+“About what?”
+
+“If we had been completely open with King Ren like Gremkor suggested, and told him more about what we were doing, would he have reacted the same way?”
+
+“We'll never know.” Kenkoth said. “When I asked that, he said no.”
+
+“Only because we had already misled him.” Beholo said. “He was fine with it before, and we did tell him we gathered things from different cultures to examine them.”
+
+“Not the gifts, though.” Kenkoth said. “We didn't tell him that we do the same thing with everything we get, and that's why he was upset about it.”
+
+“So were Yuwen and Dilseffa.” Tatya said and looked at the two men. “Especially Dilseffa.”
+
+“I'm not sure why.” Kenkoth said. “It's not like they hadn't given up gifts during the other caravans we've been on.”
+
+“King Ren said he had ordered them to wear them at all times.” Beholo said. “They had to defy their Inamorato to hand over the items he gave them.”
+
+“There's never been an exception to the rules before.” Kenkoth said. “Why should it have been different this time?”
+
+“We've never had Mistresses as part of the caravan before.” Tatya said. “This was...” She shook her head. “I can only hope they let me explain.”
+
+“It's too bad we didn't have one of King Ren's devices so we could just show them.” Kenkoth said.
+
+“That's brilliant!” Tatya said. “We can have Ren show them what happened!”
+
+“You're assuming he would be willing to share it... and that's also assuming he has it to show.”
+
+“Even if he only has what he's seen and heard this whole time, that should be enough to convince them.” Tatya said, her voice and emotions full of hope. “Before they convene in the morning, I'll make an impassioned plea to Ren for his cooperation.”
+
+“He told us he wouldn't be as accommodating anymore, so good luck with whatever plea you try.” Beholo said. “Just make sure it's a good one.”
+
+“It will be.” Tatya said and looked out the window. “I won't fail again.”

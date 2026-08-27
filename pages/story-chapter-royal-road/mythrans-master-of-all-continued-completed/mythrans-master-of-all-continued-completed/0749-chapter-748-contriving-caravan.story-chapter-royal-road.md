@@ -1,0 +1,243 @@
+---
+id: db70d368-d536-5e35-bc0b-fe6424f65571
+page-type-slug: story-chapter-royal-road
+title: "Chapter 748 - Contriving Caravan"
+slug: 0749-chapter-748-contriving-caravan
+partOf: mythrans-master-of-all-continued-completed
+position: 749
+ownLength: 2861
+unit: words
+publishedAt: 2018-11-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302701/chapter-748-contriving-caravan"
+royalRoadId: "302701"
+---
+
+Ren went to the drivers and told them what he was going to do. They were all shocked and surprised at it, and he warned them that it was going to test their driving skills to their limits. They all laughed at that and readily accepted the challenge, and followed him to the carriages as he added the enchantments and cast the spells needed to do what he wanted. He added a 5 hour time limit to both the enchantments and the spells, so they would expire just after he had to log out for the night.
+
+“Don't worry. We'll be on the ground and well inside your own lands before the spells wear off.” Ren said, and they nodded slightly. He went back over to the field where they had the meal and saw that everyone was helping pack things up. He went to his food prep table and stored it, and the pots and things went into their own slots for him to empty and clean later, then he went to the table where Yuwen still sat.
+
+“My King.” Yuwen said and stood up as she gave him a little bow. “I can't believe...”
+
+“Where do we sit in the caravan, now that you're my concubine?” Ren asked, and Dilseffa took in a sharp breath.
+
+“My King, we... I mean I...”
+
+“I have to assume we need our own carriage, or at least rearrange the seating in the front carriage slightly to fit myself, Artemis, and anyone else that should be there.” Ren said and stored the table and its contents. “Unless I'm reading the situation wrong.”
+
+“No, My King. You have it right.” Yuwen said. “We just need to...”
+
+“I'll switch places with Dilseffa to make this easier.” Mires said from nearby and came over to them. “We don't have to do any rearranging of the other carriages.”
+
+“Thank you, Mires.” Ren said and gave him a nod of Respect. “I appreciate your consideration.”
+
+“You're welcome, My King.” Mires said and pat the magic user on the shoulder. “Let's get things loaded back into the storage crates.”
+
+The magic user nodded slightly and stood up, then the two men left to help the cooks put everything back.
+
+“My King...” Dilseffa started to say as she stood.
+
+“I'm pretty sure you can't do anything with witnesses around anyway, so sitting with us shouldn't be too much of a burden for you while we're travelling.” Ren said, and she opened her mouth to respond.
+
+“It doesn't matter if you swore the cooks to secrecy, either.”
+
+“How did you...”
+
+“If I had been you, I would have checked the seating arrangements, and made sure they didn't spread people out when the caravan left the capital city.” Ren said. “You could have had a whole carriage by yourselves and no one would have seen you.”
+
+“But... if we did that...”
+
+“People would suspect something is going on, as they do when two people spend so much time together.” Ren smiled. “Would being completely alone have made them more suspicious than they are now?”
+
+Dilseffa opened her mouth to argue, then sighed. “No, I suppose not.”
+
+“It's all water under the bridge now anyway.” Ren said and motioned towards the caravan. “We'll be back in your kingdom by tonight.”
+
+“Wh-what? But, we... we're only...”
+
+“I took care of it.” Ren said and looked at their surprised faces. “Do I escort you over to the carriage or do we walk in a group?” He asked, since his Etiquette skill didn't give him any inkling about what to do.
+
+“You walk and we stay a step behind.” Yuwen said. “Artemis isn't of our kind, so she can be escorted.”
+
+“Or I can race you.” Artemis floated up into the air, and Ren chuckled.
+
+“If we had time I could.” Ren said. “Maybe when we get to where we're going.”
+
+Artemis smiled and stayed floating and held a hand out to him, so he took it and walked over to the caravan with Yuwen and Dilseffa right behind them.
+
+*
+
+Several of the caravan members watched them as they climbed into the front carriage by themselves, and a few of them visibly relaxed. Mires and the magic user were among the latter.
+
+“So, he has both of our women now.” Rimsoh the magic user said, disgust clear in his voice.
+
+“He's not like that.” Mires said.
+
+“How would you know?” Rimsoh asked. “We only met him today.”
+
+“He only accepted them as concubines because Yuwen told him he didn't have to sleep with her, only declare that it was possible.”
+
+Rimsoh barked a laugh. “Yeah, just wait until he finds out what she turns into.”
+
+“Would that matter?” Mires asked.
+
+“If he's into women with flexible bodies, yes.” Rimsoh chuckled and Mires had to smile. A moment later, Rimsoh sighed. “If he finds out that Dilseffa is a rabbit and can have sex as many times as her partner can stand, and then she still wants more...” He shook his head. “She'll have to drain him dry before she'll have any spare time for me.”
+
+“I don't think that... no, you're right. I don't really know him.” Mires said and sighed. “It's not like you can be together with her officially anyway.”
+
+“Yeah, ferrets and rabbits aren't supposed to mix.” Rimsoh said. “Sometimes I just want to tear her throat out because she's so cute and irresistible I can't stand it.”
+
+Mires turned with wide eyes and looked at his friend, who laughed.
+
+“Come on. You can't tell me you haven't thought the same thing about Yuwen.”
+
+Mires closed his mouth because he couldn't.
+
+“Even when I'm as angry as I've ever been, and boy have I been angry at her a lot.” Rimsoh said, then he smiled. “All she had to do was give me those big round eyes and blink at me a few times, then turn around and wiggle her butt.” He chuckled. “My brain completely empties out and all I can think about is being with her.”
+
+Mires kept his mouth shut, because that was almost the same way he had been with Yuwen. Maybe that's why Rimsoh and I get along so well. He thought. We both want women we shouldn't have and usually suffer in silence until something happens. For me it was meeting Vala. He helped his friend load the last few things into the storage crates. Maybe King Ren is what Rimsoh needs to break free of Dilseffa's hold on him.
+
+*
+
+“He's just the best!” Dilseffa said again, in praise of the magic user. Her brown hair bounced as she shook from excitement. “I love him so much!”
+
+Ren felt her emotions and she did seem like she loved him; but, what she had under that was a bit more disturbing. He activated Serene State of Mind and went over his own experiences and found something similar. It was from the time he had met Elise in front of the Aurora Library.
+
+Oh, damn. Ren thought as he deactivated his ability, and Artemis took his hand. She's not just in love with him. She's obsessed with him.
+
+“No. Way.” Teepo said in the voice only Ren could hear.
+
+You remember what happened at the Library. Ren thought. Elise almost killed me with her love.
+
+Teepo chittered in delight. “What a way to go!”
+
+Ren could smile about it now as he remembered the altercation; but at the time, it had been quite scary. Now I'm wondering how the magic user feels.
+
+“If my hearing is still trustworthy, he's a ferret and she's a bunny.” Teepo said. “He's angry at her all the time and wants to kill her because she's so cute and cuddly.”
+
+WHAAATTT?!? Ren thought, shocked. Thankfully, both Yuwen and Dilseffa thought he was shocked about Dilseffa loving Rimsoh so much and her constant discussion of his virtues.
+
+“She keeps him in check by offering him sex, apparently.” Teepo said.
+
+How did you hear that? Ren asked.
+
+“I can hear everything inside your Aura.” Teepo said. “The cooks can't get over how much better your food tasted. Kenkoth is debating with Tatya on whether or not to send the magic user to examine the carriages. Oh, and Meccis is still angry that you beat him and is telling Beholo the healer about it while he gets a cut healed.”
+
+Wow. Ren thought. You're really using your skills to the limit, aren't you?
+
+“I wasn't going to at first, because you don't like eavesdropping; but, I didn't do it before and now you've got two concubines that you didn't have before.” Teepo said. “Since I can't look in all directions all the time, the least I can do is listen for anything that might cause trouble.”
+
+Thanks, Teepo. Ren thought to his friend.
+
+“I can handle it, so don't worry.” Teepo said. “Kenkoth won the argument and the magic user is checking out the last carriage.”
+
+They're doing it as far away from me as possible. Ren smiled. Like that would have stopped me from seeing... He felt a flutter in the Mana inside his Aura and held in his laugh. ...or feeling it.
+
+Artemis let his hand go and got his attention, then she motioned with her head slightly to the two women that sat across from them. Ren looked at Yuwen and Dilseffa and saw a question on their faces.
+
+“I was deep in thought and missed what you asked.” Ren said. “Can you tell me again what you said?”
+
+“We were just wondering if you loved someone like that.” Yuwen said.
+
+Ren didn't answer no right away, since he didn't want to offend them. “Well, I did have an infatuation for one woman, and that turned out horribly.” He said, and he felt their surprise. “I confessed love for her, and after a brief relationship and lots of complications, she left me.”
+
+“Oh, no.” Yuwen said as she felt his emotions and she leaned forward and took his hand. She got them even stronger and held in her gasp. “That... wasn't a healthy relationship.” She managed to say through Ren's torrent of emotions.
+
+“Does it feel familiar?” Ren asked her pointedly, and she did gasp at that and tried to take her hand away. “Tell me honestly.” He said and held onto her hand.
+
+“N-no.” Yuwen said.
+
+“If you don't, I'll have to do something drastic.” Ren said and smiled at her as he let her feel his desire.
+
+Yuwen caught her breath at that and let it flow over her, then she sighed. “Yes, My King. I knew what I had with Mires was not healthy.” She admitted. “An otter and a minx shouldn't be like that.”
+
+“That's true.” Ren said, and she looked at him with wide eyes. “Where Adventurers come from, your species is called a 'mink', and it's in the same animal family as otters and ferrets.” He felt her shock and gave her hand a squeeze. “Unfortunately, even though they have similar looks, mink are smaller than otters and are much more agile.”
+
+“Why is that unfortunate?” Dilseffa asked, because her friend was too shocked to speak.
+
+“Mink normally chase away and in some cases kill otters to take over their homes and territories.” Ren said, and he felt something like terror go through Yuwen, and then it was replaced with understanding.
+
+“I... I really was a fool, then.” Yuwen said. “No one had a problem when they thought we were just carrying on and not doing anything serious.” She took a deep breath and let it out. “When I mentioned marriage, Mires almost freaked out about it.”
+
+“That's when the rumors started to spread.” Ren said, and she nodded slightly.
+
+“Until now I thought he was just against marrying someone not an otter.” Yuwen said. “I never imagined that... that he thought...”
+
+“I don't know if he thought you were going to take over what he and his family owns; but, it usually turns out that way.” Ren said. “You would become the focus of the family, especially after having kids, and they would inherit everything.”
+
+“Which would push the otters out of their home eventually.” Dilseffa said. “No wonder his family didn't fight against him getting rid of you.”
+
+“They must have thought the same thing.” Yuwen said, tears in her eyes.
+
+“Hey, it's okay.” Ren said and slid off his seat and knelt on the floor in front of her, then handed her a piece of cloth. “I told you that part of your life was over, remember?”
+
+“You... you did.” Yuwen said and wiped at her tears with the soft cloth.
+
+“Yes, so the only one we need to worry about right now is Dilseffa.” Ren said, and he felt their shock.
+
+“Wh-what?” Dilseffa looked at him with panicked eyes.
+
+“It's my understanding that Rimsoh is a ferret.” Ren said, and she nodded slightly. “Then your life is in danger constantly.”
+
+“What? How?”
+
+“Where Adventurers come from, ferrets eat rabbits.” Ren said, and felt her reaction to him knowing what she was. “I was too busy feeling other emotions when I was eating to get anything from Rimsoh at the time; but, if I had to take a guess, he's angry at you a lot.”
+
+“How do you know that?” Dilseffa asked, and her body was trembling slightly from all the shocks.
+
+“He's fighting his urge to kill you.” Ren continued. “One of these times, he's not going to fight so hard.”
+
+“But...”
+
+“I'm not telling you to end the relationship that isn't supposed to exist.” Ren said. “I'm telling you to be careful about being near a predator that enjoys killing your kind. He won't think he did anything wrong when it happens.”
+
+“My King...” Yuwen said to try and stop him.
+
+“Rimsoh will be remorseful afterwards, I'm sure.” Ren said. “He's going to feel more relief than anything else, though.”
+
+“How can you say that?” Dilseffa asked. “You don't even know him!”
+
+“No, I don't.” Ren said. “Neither do you.”
+
+“I don't know what you're talking about.” Dilseffa responded, even though she knew he was telling the truth the whole time, and stood up.
+
+“Sit down.” Ren commanded, and she sat down. “You can't leave the carriage while we're moving.”
+
+“Moving? We're still... WHOA!” Dilseffa exclaimed as the carriage lifted up into the air and took off at a fantastic speed.
+
+“You would have been left behind if you'd stepped out of the carriage.” Ren said, and she sighed.
+
+“I don't want to be here right now.” Dilseffa said.
+
+“It's hard for you to hear this, I know.” Ren said. “It's even harder for me to say it.”
+
+“You seemed to have an easy time with it.” Dilseffa said as her anger rose.
+
+Ren used his free hand to take hers. “I know saying these things hurt you. So, if you will forgive the impropriety, I'm sorry that I caused you pain.”
+
+Yuwen and Dilseffa winced slightly at the apology, so Ren lifted their hands to his mouth and licked them as he poured out how sorry he was for hurting them. Both women gasped at the strength of the feelings, then he turned their hands slightly and pressed their wrists to his mouth at the same time.
+
+“W-wait.” Dilseffa said; but, she didn't try to pull her hand away or fight the feeling.
+
+Ren grinned at them and then bit them. Both women reacted in the way he had expected and their bodies trembled at the implication. He didn't bite too hard, though. He knew they wouldn't want him to mark them like that, not if they were going to find someone else to be with.
+
+“We'll be reaching the border of the Human kingdom in a few hours.” Ren said and let their hands go as he stood. Both women looked at him longingly as he stepped back and sat down on his side of the carriage. “It should only take an hour to cross the Gnome lands, then we can land and stop for the night.”
+
+“You need to go then, don't you?” Yuwen asked.
+
+Ren nodded slightly. “I have Adventurer business to attend to for a while, and I will be back by morning.” He said. “After that, I'll need to pop over to see the women in my life, then head to the Fire Realm.”
+
+“The Deity of Fire really is your daughter.” Dilseffa said.
+
+“Yes, she is.” Ren said. “I also won't disappoint her again.”
+
+Yuwen chuckled. “Good luck with that.”
+
+“I've made myself available to her as much as physically possible while I'm here in this world.” Ren said. “If anything happens while I'm gone, Teepo can talk to her and will let me know when I get back.”
+
+“That's amazing!” Dilseffa said and looked from Ren to Teepo. “You can communicate with a deity!”
+
+“Not just one.” Artemis said, and both women looked at her. “He knows the Earth deity and the ruler of the Water Realm as well.”
+
+“Not to mention the Light Realm.” Teepo added. “Geez, Ren! You really get around!”
+
+Ren laughed at that, and Artemis, Yuwen, and Dilseffa laughed, too.

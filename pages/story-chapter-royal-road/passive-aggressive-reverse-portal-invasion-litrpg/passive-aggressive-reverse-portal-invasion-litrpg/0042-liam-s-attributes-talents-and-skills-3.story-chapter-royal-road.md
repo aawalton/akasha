@@ -1,0 +1,237 @@
+---
+id: ac7bfb11-3b08-5eb4-a5db-6b145e6e114b
+page-type-slug: story-chapter-royal-road
+title: "Liam’s Attributes, talents and skills 3"
+slug: 0042-liam-s-attributes-talents-and-skills-3
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 42
+ownLength: 665
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3611260/liams-attributes-talents-and-skills-3"
+royalRoadId: "3611260"
+---
+
+This chapter sums up Liam’s current status, quirks and talents. If you prefer, it can be skipped in its entirety, without losing any part of the story.
+
+Liam Berg
+
+Level: 20. Progress to next level 4%
+
+Class: Fighter
+
+Path: Path of Fortitude
+
+Quirks: Enforced Antiviolence, Tier 5. Passive Power, Tier 4.
+
+Traits: Starved Growth (Temporary)
+
+Health: 352/770
+
+Stamina: 429/770
+
+Mana: 9/70
+
+Health regeneration: 19.2 health/hour
+
+Mana regeneration: 63 mana/hour
+
+Stamina regeneration: 154 stamina/hour
+
+Attributes:
+
+Strength: 14
+
+Agility: 15
+
+Dexterity: 8
+
+Fortitude: 28 (77)
+
+Perception: 13
+
+Mental Power: 7
+
+Mental Control: 9
+
+Three attribute points available
+
+Talents:
+
+Tier 2:
+
+Improved Defense 5/5
+
+Tier 3:
+
+Life Steal 2/5
+
+Tier 4:
+
+Deflect 4/5
+
+Wheel of Magic 4/5
+
+Tier 5:
+
+Internal Scourge 1/5
+
+Personal Universe 1/1
+
+Wave of Reflection 5/5
+
+Three talent points available.
+
+Skills:
+
+General:
+
+Athletics, Level 7
+
+Balance, Level 8
+
+Climbing, Level 10
+
+Concentration. Level 7
+
+Higher Endurance (R). Level 15
+
+Higher Self-heal (R), Level 15
+
+Identify. Level 20
+
+Leaping, Level 9
+
+Pain Tolerance, Level 1
+
+Running, Level 13
+
+Secrets of the Self, Level 4
+
+Skinning, Level 10
+
+Spot, Level 12
+
+Stamina Regeneration, Level 10
+
+Stealth, Level 2
+
+Defensive:
+
+Acid Resistance, Level 5
+
+Air Magic Resistance, Level 3
+
+Arcane Resistance. Level 2
+
+Armor. Level 15
+
+Blunt Damage Resistance. Level 8
+
+Dodge, Level 14
+
+Fire Resistance, Level 3
+
+Resilience, Level 12
+
+Lightning Resistance, Level 1
+
+Parry, Level 7
+
+Piercing Resistance, Level 6
+
+Poison Resistance, Level 15
+
+Shadow Resistance, Level 1
+
+Slashing Resistance, Level 1
+
+Shield. Level 20
+
+Detailed quirk and talent description:
+
+Tier 5 negative quirk:
+
+Enforced Anti-Violence
+
+Some people are against violence. You take it one step further. You cannot attack, learn offensive skills or use weapons, may only select defensive and passive talents, and cannot share a group with somebody who attacks enemies. Access to your offensive talent tree is lost and future talent tree expansion is adjusted.
+
+Tier 4 positive quirk:
+
+Passive Power
+
+Any passive or defensive damage inflicted by the Fighter is doubled. Any gains from passive talents, where possible, are improved by 50%. Your fortitude is effectively doubled.
+
+Talents:
+
+Tier 2:
+
+Improved Defense
+
+Passive talent. Adds to the effectiveness of your fortitude, armor and shield. +5% per talent point.
+
+(Current total, improved by Passive Power quirk: 37,5%)
+
+5/5 points
+
+Tier 3:
+
+Life Steal
+
+Passive Talent. This talent converts any damage you inflict on enemies into lifeforce, which you can make your own.
+
+(Current total, improved by Passive Power quirk: 9% lifesteal)
+
+3% Life steal per point
+
+2/5 points
+
+Tier 4:
+
+Deflect
+
+Passive talent. When parrying or blocking an attack, deflect or parry with an added 50 % force per point.
+
+(Current total, improved by Passive Power quirk: 300% added force)
+
+Cost: 5 stamina per activation.
+
+4/5 points
+
+Wheel of Magic
+
+Passive Talent. The wheel can be activated whenever you are subjected to a minimum of magical damage (even if blocked, absorbed or shielded). The wheel will surround you, throwing magical damage back at enemies. Damage caused scales with damage suffered and the magic type is randomized. One spoke activated per point.
+
+Range: 30 meters
+
+Cost: 20 stamina per minute
+
+4/5 points
+
+Tier 5:
+
+Internal Scourge
+
+Passive Talent. This talent converts mana into an internal presence roaming your body in its entirety, scouring it of hostile presences like disease and poison.
+
+20% efficiency per talent point.
+
+1/5 points
+
+Personal Universe
+
+Passive Talent. You unlock a personal space, in which you are able to safely store items by mental access alone. Only the storing and removal of items has any cost associated with it. The size of the Personal Universe will increase with every level after Level 25.
+
+(Current total, improved by Passive Power quirk: 1,5 cubic meters)
+
+1/1 points
+
+Wave of Reflection:
+
+Passive talent. Any damage inflicted on you may be redirected as a wave of physical damage in any direction you choose. Also applies if the damage is blocked, absorbed or shielded. 15% of damage reflected per point.
+
+Cost: 15 stamina/second
+
+(Current total, improved by Passive Power quirk: 112,5% damage reflected)
+
+5/5 points

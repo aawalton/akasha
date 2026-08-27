@@ -1,0 +1,417 @@
+---
+id: 8466a5b1-8ee6-5f0a-967c-402d3e1aa052
+page-type-slug: story-chapter-royal-road
+title: "To Recap..."
+slug: 0013-to-recap
+partOf: new-gam3-plus
+position: 13
+ownLength: 4731
+unit: words
+publishedAt: 2023-11-21
+link: "https://www.royalroad.com/fiction/45382/new-gam3-plus/chapter/1417042/to-recap"
+royalRoadId: "1417042"
+---
+
+The roads were already crowded despite the early hour. Every other corner held either active-duty cops or a military presence. Drones hovered overhead. Their truck passed by uninterrupted, the license plate already in a system somewhere.
+
+Our every movement in the city is likely tracked, Nu sent.
+
+The World Bureau of Investigation had requested to meet at what had once been an Indian Embassy. They drove opposite the flow of traffic, which was headed towards the Administrative Center. Alan could still see it in the distance.
+
+The building was an obelisk, like the Washington Monument, but turned on its side. Instead of being tall and white, it was short and black. Its base spread out alongside the road, built over a dozen government buildings and houses on Massachusetts Ave, and Ivy claimed there were multiple underground levels.
+
+Cars were stopped all along the side of the street. It was a chaotic scene, like a busy school and airport drop-off rolled into one, with traffic cops attempting to hurry everyone along.
+
+Alan felt a strange sense of foreboding. He shook his head. Gut instincts weren’t real.
+
+They arrived at the meeting point, only a few blocks away. The Embassy itself looked like a large office building, though the windows were barred. The remains of two elephant statues sat by the entrance—destroyed in a previous conflict.
+
+Two armed guards in UWG uniforms stepped out as Ivy pulled up. She let out a small yawn.
+
+“Tired? You need to be alert,” Alan said.
+
+“I’m used to all-nighters, but I’ll maybe take a nap,” Ivy said. “You go ahead.”
+
+Alan chuckled. “No, you’re the one who set this up. You’re coming with me.”
+
+Ivy looked up with alarm. “What? I’m a mess—I haven’t slept or showered. I’ve made no preparations and have no information to contribute.”
+
+“I’d like you to come along just the same. Consider it a learning experience—gather any and all information you can while I’m in the meeting. If you’re caught they’ll likely go easy on you.”
+
+“Wait, wait, wait,” Ivy said. “I’m not only tagging along, but you’re telling me to what? Hack into a secure government database?”
+
+Alan, you can’t just order people around. She needs to want to help you. Give her a reason to risk safety for information, Nu sent.
+
+“Hey, I’m the notorious one—I’ll be the focus of their attention! And you owe me for stealing my identity,” Alan said. “If any of the personnel have a battle map, acquire it. Isaiah took mine. Maybe the WBI has a way to locate specific devices.”
+
+Ivy looked thoughtful. “I’ll give it a try, but no promises.”
+
+See? Winning people over 101—make sure they know that your best interests are their best interests, Nu sent.
+
+A notification popped up:
+
+They both stepped out of the truck.
+
+“Halt, state your name and business!” a guard commanded.
+
+“I’m Alan, here for a peaceful exchange.” Alan raised his hands in the air.
+
+“And she is?” The guard pointed at Ivy with the barrel of his rifle.
+
+“A result of nepotism and a babysitting project,” Alan answered. “She’s a general’s daughter—I wouldn’t shoot her or you’ll never see another promotion.”
+
+Ivy shot Alan a dirty look. He rolled his eyes. The more they underestimated her, the better her chances.
+
+“She can come inside, but will need to stay in the waiting room.”
+
+“Fine with me,” Alan said. He allowed himself to be disarmed and led into the building.
+
+An Indian man in his mid 20’s stepped out. He wore a formal business suit and had a pointed nose.
+
+“Welcome, welcome!” he said with a faint accent. “Please, follow me.”
+
+Alan walked with the man down a hallway. The building seemed empty. Most of the furniture and decorations were removed.
+
+“I am Agent Suresh. I’d shake your hand, but it’s no longer allowed. Policy, you know?”
+
+According to the WBI website he’s from Mumbai and focuses on financial crimes, Nu sent. Odd that he was chosen to interview you.
+
+“Before we get started, between you and me, how do you see this little war game playing out? If you were to place a bet on the Ashes or the World Government who would you pick?”
+
+“I would wager on the Ashes of Humanity accomplishing their goals. What those are, however, I don’t know,” Alan said.
+
+“Interesting, interesting. Now, Alan, you are known to… How to put it? Play fast and loose. I hope that there will be none of that today,” Suresh said.
+
+“No, I am here for an honest information exchange,” Alan said with as much sincerity as possible.
+
+Really? Nu asked.
+
+Yes, Alan replied.
+
+“Wonderful, wonderful. Please, come in.” Agent Suresh opened a door and gestured Alan inside.
+
+I suspect he has an ability that detects lies, Nu sent.
+
+Alan entered the room. It was also empty, with hardwood floors and white walls. The design of the room made it feel like a cleared-out art gallery—something had once been on display here. A plastic table had been set up, along with tan folding chairs. A young blonde woman in a UWG army uniform sat with a stack of papers, her hair neatly wrapped in a bun. A patch with a blue and green globe adorned her left arm, with a small US flag above it.
+
+Agent Suresh paused mid-stride when he saw the woman, but took a seat next to her.
+
+“This is—”
+
+The army officer raised her hand to stop him. She then took out a dark grey cube and placed it in the middle of the table. She pressed a button and it started to produce a faint humming noise.
+
+We’ve been cut off from outside signals, Nu sent. Wasn’t able to find any information on who she is. According to a news article, Agent Suresh has been accused of taking bribes, but nothing was ever proven.
+
+“I am Analyst Woods. I work with military intelligence. This device will prevent outside listeners and interference.”
+
+“What is it?” Alan asked.
+
+“That’s classified,” Analyst Woods said. “Now, for the record, can you please state your full name, date of birth, and social security number?”
+
+Alan opened his mouth to answer, but his mind ran into a wall. He wanted to bring up the information, to recall it, to state something so basic as his entire name and found that he couldn’t.
+
+What the fuck.
+
+“I… I can’t.”
+
+Woods raised an eyebrow and glanced over at Suresh, who nodded.
+
+“Interesting. An enigma, eh? I do like solving puzzles,” Woods said. “Funnily enough, do you know what information the United World Government has on you before the Game?”
+
+Alan shook his head.
+
+“Nothing. You are a ghost. No school history, no birth certificate, no social media presence of any kind. Running theory is someone completely erased your identity. The question is then, how do we verify who you are? Faces can be sculpted, vocal cords crafted, DNA copied.”
+
+“I don’t know,” Alan said.
+
+“Ah, but that is exactly how we do it. By using what you know—your knowledge,” Analyst Woods said.
+
+“Except he couldn’t recall his own birthday,” Agent Suresh exclaimed. “This is the man that brought the financial system to its knees and caused one of the greatest market crashes in history!?”
+
+“That is the question. Is he the Doomsday Hacker or a mole? Why don’t you start from the beginning, Alan? What do you remember?” Woods asked.
+
+“Hold on a sec, I’m sure you’re very interested in my background and knowledge, but I’m not disclosing anything for free,” Alan said. “And how do I know you two are who you claim? Do you have identification?”
+
+The only real thing of value we currently possess is knowledge. Divulge it carefully, Nu sent.
+
+“We may sit at an impasse then,” Analyst Woods said. She clasped her hands on the desk. “I am not at liberty to disclose classified intel, certainly not with a terrorist that should be in a jail cell, and I doubt you would recognize the veracity of any physical identification I produce.”
+
+“You are the one that contacted us,” Suresh said. “What is the information that you wanted to share?”
+
+“Operation Phoenix is not a war game; it is not a combat test. General Icewolf is attempting to take control—for what I do not know,” Alan said.
+
+“We are getting ahead of ourselves here,” Woods interrupted. “We still have not confirmed your identity. Walk us through your journey in-game—much of it we already know, but there are a few holes.”
+
+Make more connections. The thought stuck in Alan’s head. “Fine, but in return I want up-to-date knowledge on the state of the Game—a data package like one that I could purchase at an information broker. It doesn’t need to include military secrets, but it should have publicly available details and speculation.”
+
+Analyst Woods nodded and gestured for Alan to proceed.
+
+“I guess I should start with how I was recruited into the Game. Icewolf invited me—we raided together in an old MMO. It was all connected to Omnitech Industries, but how was never made clear. My invite and the capsule were due to Icewolf’s efforts, and it was made clear that I owed him a debt of ten million dollars, but that was almost like an afterthought. He wanted me in-game and on his side.”
+
+Suresh snorted. “I wish I had a friend like that.”
+
+“And your AI companion? Was that provided by Omnitech or Icewolf?” Woods asked.
+
+“No, I programmed Eve,” Alan said. Except it wasn’t me, was it? Eve had been enhanced by the Administrators to help balance things, and Omega interfered as well, messing with the source code I found online.
+
+You made worthy contributions, Nu sent.
+
+“So I entered the game and depended heavily on Eve to succeed. She helped me hack into a multitude of devices, including the spaceport network before the Legion of Man’s attack. Eve provided direction and eventually aided me in combat.
+
+“Icewolf wanted me on a ship to Mars, but instead I ended up with another group headed to Khersath. How is the planet?”
+
+“It’s still home to over a trillion, but many guilds and factions have spread out and tried to form new capitals with varying success,” Suresh said. “The Weaver holds the planet, and institutes a harsh tax on all trade.”
+
+“Well, I underwent an Ultihaxlard Tutorial with this new group,” Alan said.
+
+“List everyone with you.”
+
+“Ace, Aphrodite, Daisy, DaLong, KingArthur, Kitana, MadMerlin, and Thiago.”
+
+“Quite a few well-connected players,” Analyst Woods said. “Publicly, most are classified as rank B or A threats, with the exception of Kitana who is rank S.”
+
+“Yes, well I managed to survive the first three rounds of the Survival Tutorial: beasts, then UWG soldiers, and finally Haxlards, only to die to a Predecessor I later learned was the Emperor.”
+
+“The Emperor came down to Earth to kill you?” Suresh questioned.
+
+“It is well within its modus operandi,” Woods stated. “The Emperor is known to wander the galaxy disappearing for years at a time. In fact, it is still missing after its defeat in the Haxlard Crusade. The Empire’s servants are reportedly in the midst of quite a power struggle.”
+
+“Well, the Emperor seemed crazed when I encountered it, landing in San Francisco like a meteor and ranting about how weak humanity was. It gave me a quest to challenge it in the future, to prove myself worthy,” Alan said.
+
+“After the Tutorial, I was recommended two classes: Machine Lord and Rogue. A Chief Administrator and Icewolf were assigned to be my mentors, respectively.”
+
+“I didn’t realize one of General Icewolf’s base classes was Rogue,” Suresh said.
+
+Woods crossed her arms. “And you will not spread that information.”
+
+“At the suggestion of the Chief Administrator, I joined the Black Rose guild alongside Kitana. When on Khersath—”
+
+“Wait, an Administrator gave you advice on how to proceed, and was your mentor? I thought they were to remain neutral,” Suresh said.
+
+No, they desire balance, not neutrality, Nu sent. Alan voiced the thought aloud.
+
+“Balance for whom?”
+
+Alan shrugged. He didn’t know. “There are greater powers at play than the Haxlards. They may be the enemy in front of us, but there are always more. The Game will ensure there are challenges we must rise to.”
+
+“And how do you know this?” Woods asked.
+
+“I simply do.”
+
+“You went to Khersath. What did you find there?” Analyst Woods leaned forward with the question.
+
+“Guildmates—two Ælves, Aurora and Sidestep—who were around my age and possessed psionic powers of ice and limited teleportation respectively and a massive underground dungeon beneath Khersath called the Abyss Labyrinth. I ended up challenging it—”
+
+I would not mention the Lord of the Abyss or the Warden or the true nature of the zone. That information is worth more than goodwill, Nu interrupted. Do not bring up soulsteel or void crystals. Rank S materials are always classified, and the UWG would likely sacrifice these two agents for metal that can cut through anything and power crystals capable of powering massive warships.
+
+“—and did well enough to level up a fair amount and be rewarded by Phantom, a Black Rose guild officer who became my superior and provided me with a useful eye implant.”
+
+“The guild splintered during the Haxlard Crusade,” Analyst Woods stated. “One portion fled Khersath to join the Ælven loyalists with the guild leader Elissandra while the other half remained on Khersath, but under the patronage of the Empire. They seem to be led by this Phantom.”
+
+Interesting, she possesses an internal database and is likely a Machine Lord or a similar class, Nu sent.
+
+“Any chance either would be willing to provide aid?” Agent Suresh asked.
+
+“I doubt it,” Alan said. Did he have any allies he could reliably call upon? Not really. He had treated everyone like stepping stones, leaving them behind once it was convenient. Always moving on to the next stage searching for better opportunities had allowed him to level at an insane pace, but did not leave time for any real bonds to form.
+
+Keeping friends can be more work than making them, Nu noted.
+
+“Anyways, I joined the guild and went to the Academy,” Alan continued. “There I was introduced to my second AI, Lambda, accessing the data vault with creative ability use.”
+
+You freed me using a bug exploit the Weaver gave you that has since been patched, Nu laughed.
+
+“Is there a data vault in the Academy? I’m only aware of Volta—the treasure planet that becomes available once you complete your training,” Analyst Woods said.
+
+“There is, but I’m not sure how much I can divulge,” Alan said.
+
+I assume the Chancellor, Cerberus, is another entity you don’t want me to talk about, Alan sent. They are a rank S AI, right?
+
+Correct.
+
+“And you were able to control two AI how?” Analyst Woods leaned forward eagerly.
+
+Alan smirked. “That information will cost you.”
+
+She tapped a finger on the desk and then sighed. “Continue your account, I will find out eventually.”
+
+The Machine Overlord ability is not so easily gained, Nu sent.
+
+“And now, finally, we reach your return to Earth and the financial crime of the century!” Suresh said.
+
+“Yes. At the request of Thiago, who commissioned the Black Rose guild, Kitana and I returned to Earth to aid the Legion of Man against the United World Government,” Alan said.
+
+“What ship did you take, and who was its captain?” Woods asked.
+
+“The Titan led by the Ultihaxlard Pharaoh, the same ship that took me from Earth to Khersath and that I would eventually steal during the Haxlard Crusade,” Alan said.
+
+Woods glanced at Suresh, who nodded. She frowned.
+
+That doesn’t match up with their records, Nu noted.
+
+Odd, the instance of reality that I remember must have diverged during the Haxlard Crusade then, Alan thought.
+
+“Anyways, once I arrived on Earth I reached New York, and met Icewolf, who it turned out was the mastermind behind the entire market crash operation—“
+
+Analyst Woods raised a hand, turning to look at Agent Suresh. “Under the World Secrecy Safety Act, any information from this point on is confidential. Any deliberate leak will be considered an act of treason. I don’t care if you make a quick buck off inside trading, but this is a matter of national security.”
+
+“What? Divulge secrets? Trade with an unfair advantage? I would never!” Suresh held a hand to his heart.
+
+The United World Government is not so united after all, Nu sent.
+
+“Icewolf lead the operation? You are sure of this?” Woods asked.
+
+“Yes. The only other top-level player I’m aware of that may have been involved—other than the players I mentioned previously that were in the Tutorial with me—was Gaia, Daisy’s mother.”
+
+Woods’ eyes flashed. “Gaia, ironically enough, is now governor of Luna, the Moon’s city-state. According to records she lost as much as anyone else on Doomsday, though she did have a massive sell-off scheduled two days later. Her explanation for the entered trade as she was making preparations to move against the Haxlards.”
+
+Alan closed his eyes, trying to remember the details of the events.
+
+Tell the truth, but try to paint yourself in a positive light, Nu sent.
+
+“We moved early. My only role in the operation was supposed to be the hack of the New York Stock Exchange. I was just following orders. Icewolf had invited me into the Game and made a convincing argument that the UWG at the time was not acting in humanity’s best interests. The data suggested Earth would fall under Haxlard control.
+
+“I wanted to change that.”
+
+“You thought that the Legion of Man was going to save us? Now I’ve heard everything,” Agent Suresh said.
+
+“Was I wrong? Earth will come under Haxlard control in a year, will it not?”
+
+“We can’t all nuke a mothership—the Three control thousands of planets with life and are living gods who could destroy our solar system,” Suresh said. “The harm you caused to the economy far outweighs any possible good.”
+
+Huh? I don’t remember nuking anyone besides the Emperor, Alan thought.
+
+Inquire further, Nu suggested.
+
+“I think we’ve established I am me. Before we proceed any further and I provide more information about the Doomsday Hack, I want to know what you have on me, including my movements and actions.”
+
+Analyst Woods shook her head. “Such data is sensitive and may reveal sources you are unaware of. I cannot provide it.”
+
+“I may be able to assist,” Agent Suresh said. “If you are able to provide a verified, complete account of the Doomsday Hack: who did what, where, and when, I may be able to convince my superiors to provide our data.”
+
+Alan looked between the two. “Do you not share the same database, the same chain of command?”
+
+“It is complicated,” Analyst Woods said. “While we all work for the world government, nations retain a degree of sovereignty, including intelligence apparatus and armies, similar to the now defunct European Union. And while I took a college course to understand the EU, I am afraid that it would require a graduate degree to comprehend the United World Government—especially as it mutates on a monthly basis.”
+
+Suresh scoffed. “It isn’t that complicated. After Pakistan nuked India in-game and we returned fire it was determined that on Earth borders would remain static to avoid the complete destruction of the planet. Then, however, the Western world united to take over the Moon once its power crystal mine was discovered, just as Russia and China colonized Mars for its mines.
+
+“The two resources worth exporting to the wider universe are people and energy—and both were quickly dominated by the leading nations. The rest of us developing countries are left to fight on Earth over scraps as everyone else looks to the stars.”
+
+“Technological developments and ample resources have been provided to every United World Government member state,” Woods said. “It is the misuse of such blueprints and funds that have led to the current status quo. A war between nuclear powers leads to a catastrophic loss in overall assets—an obvious conclusion that India thought they could bypass with an alpha strike.”
+
+“Lies, and more lies,” Suresh said. He took a breath and looked at Alan. “Suffice it to say information is not shared freely and we all find ourselves serving multiple masters. Now, General Icewolf—he was with the Legion of Man? My understanding is that he was instrumental to the faction’s defeat, and that is what fast-tracked his promotions.”
+
+“Yes, while other members of the team failed their theft of the Federal Reserve, we had caused enough damage that we were allowed onto the Legion of Man’s space station orbiting Mars. From there, Icewolf betrayed them,” Alan said.
+
+“Kitana joined him. I, however, remained loyal to the Black Rose guild, while Icewolf tried to force me to sign a literal Contract of Servitude. I resisted, failed, and died, and was thus labeled the terrorist and mastermind behind the Doomsday Hack.”
+
+“That is quite the story,” Analyst Woods said.
+
+“Yes, but I don’t think that was everything,” Alan said. He thought back. “Events may have played out very differently if the Federal Reserve heist had been successful, or the Legion of Man had been in a stronger position. While Icewolf may have been on the UWG’s payroll the entire time, I believe he did not decide to become a double agent until it was truly to his benefit.”
+
+“And you have such insights into the general’s mind because?”
+
+“It’s what I would have done,” Alan said. “And because Icewolf is, in fact, a triple agent. The Empire backed his entry to the Game, the Legion of Man, and the Black Rose guild.”
+
+Maybe that’s what Operation Phoenix is about: bringing Earth under Empire control, Alan thought.
+
+“What proof do you have? What actual, actionable intelligence can you provide?” Woods demanded.
+
+Do you have an in-game recording? Alan asked.
+
+Yes, but it only shows Icewolf upset with bureaucracy and division, willing to accelerate change, Nu replied. I hold no record before you re-entered the Game.
+
+“I have a brief clip of an encounter with the general, but no smoking gun,” Alan said.
+
+“This all makes little to no sense,” Analyst Woods said. “The training scenario will soon conclude. The Ashes of Humanity as a faction is falling apart as we speak. They have concentrated forces in Washington D.C., New York City, and Tokyo, Japan, and that is it. Everywhere else will soon be back in UWG hands.
+
+“You have been honest with me so I will provide a recent update—they are fighting hard over control of the maglev line between DC and NYC—and no one has any idea why. Do you?”
+
+Alan shook his head. He didn’t even realize a new high-speed rail system had been built. “What’s the status of Japan? What have they been up to?”
+
+“Technological advancements: mainly building robots and faster bullet trains,” Analyst Woods said. “The Japanese Self-Defense Forces have kept to their assigned task—the defense of Japan, though a Mechanized Assault Force has been built. They’ve developed ties to the Institute in the Academy System.”
+
+“I don’t know anything about what’s going on there,” Alan said.
+
+“Moving on then; what happened after the hack?” Woods asked.
+
+Be vague, Nu sent.
+
+“I respawned back on Khersath, at the Black Rose guild. I went on an expedition into the Abyss Labyrinth and then tried to delve deeper into Cyberspace. I ran into an entity that eventually forced me to give up my original AI, Eve. The Haxlard Crusade occurred, the guild fell apart, and I sacrificed myself to kill the Emperor. That’s all I remember.”
+
+Woods frowned. “That does not match up with our records.”
+
+“That’s all you have? Come on Alan, you can do better than that,” Suresh said. “An ‘entity’ in Cyberspace?”
+
+Do NOT mention Omega. The AGI-turned player could have eyes and ears everywhere, Nu sent.
+
+“Do you not understand the inherent dangers of Cyberspace? You die there and you’re permanently brain-dead,” Alan said.
+
+“Oh, we know,” Analyst Woods replied. She stood up and placed both hands on the table. “That is why I am here, actually. While interesting, all of this information is hearsay and anecdotal at best. You have demonstrated yourself to be one of the strongest players in Cyberspace, and the United World Government needs you, Alan. Humanity needs you.
+
+“For the past few months, our experts in Cyberspace have been vanishing at an accelerated rate. We have hundreds of players in comas. Your past connections with the Revenants, with the Archivists, you don’t need to tiptoe around them. We know and we need them.
+
+“Everyone is concerned about Earth, but our beginner’s protection extends to our digital space as well. You were one of the primary suspects… and perhaps still are. There are too many unknowns.”
+
+A new quest popped up:
+
+Missing Pieces:
+
+Locate the missing people of Earth in Cyberspace. Find out more about who or what captured them and why.
+
+Option: Appeal to the Administrators for aid.
+
+Penalty: ???
+
+Reward: ???
+
+Time Limit: 1 year
+
+Threat Level: ???
+
+“I have not entered Cyberspace, and have no plans to explore it at my level,” Alan said.
+
+Agent Suresh nodded again and then tilted his head quizzically. “Repeat that.”
+
+“I have not—Wait, I did enter a capsule and my Home, which I suppose, technically, is Administrator-controlled Cyberspace,” Alan said.
+
+The agent’s ability is more potent than I thought—he picked up on the actual truth instead of what you believed to be true, Nu sent. Or maybe the ability examines your subconscious... What’s something you think is true but is factually false?
+
+Huh? I can’t think of anything like that, Alan sent.
+
+I suggest a sports team fact. People are often deluded about those, Nu sent.
+
+“Team Liquid is the best esports team of all time,” Alan said.
+
+“Excuse me?” Analyst Woods asked.
+
+Alan stared at Agent Suresh. “Was I lying?”
+
+“Yes, that was a false statement.”
+
+Bah, this experiment didn’t work. You knew it was a lie in your heart, Nu sent.
+
+Alan had a sudden thought. “I experienced real death, and was resurrected.”
+
+Suresh’s eyes widened. “True, true, but how can that be? The Administrators have banned all cloning and any attempts to copy a person’s consciousness.”
+
+“There is another layer to the Game,” Alan said, continuing to stare at Agent Suresh. “The Authorities control all and know all. They—“
+
+Suresh clutched his head. His eyes began to bleed. “Stop, STOP!”
+
+Analyst Woods backed away from the table, eyes darting to and fro. “What the fuck was that?”
+
+“That was me trying to ascertain the true nature of the Game,” Alan said. “I am on your side. On humanity’s side. I thought that I could level up to such great heights climbing the tower that is the Game—that is life—that I could then reach down and pull everybody up with me, but I failed.
+
+“Instead I left more and more behind. My home. My family. My allies. Maybe even myself. And I don’t think that I found what I wanted at the top—nothing worth all the struggle and sacrifice.”
+
+Make more connections.
+
+“I need to build my own tower, one with a base so strong it will never fall. I will not lose the Game again. Join me on the path to ascendance.” Alan reached out a hand to Analyst Woods.
+
+She looked at him like he was crazy.
+
+Never go full messiah, Nu sent. Besides, that was probably all gobbledygook to their ears. They aren't high enough level.
+
+Analyst Woods checked the other agent, then turned to Alan and said, “Current Game theory states there are no sapient NPCs. The monsters that populate dungeons and resource points are not intelligent. Any leftover AI systems were built by ancient civilizations while any sapient beings are players. I, however, think that instead, the Game is too good at creating character backgrounds. NPCs aren’t aware that they are NPCs. And you’re one of them.”
+
+Nu started laughing madly. Agent Suresh fainted, losing consciousness. A loud explosion sounded outside. Two guards rushed into the room, Ivy close behind. Analyst Woods deactivated the cube sitting in the middle of the table, and Isaiah's phone began to vibrate in Alan's pocket. A slew of messages popped up.

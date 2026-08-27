@@ -1,0 +1,281 @@
+---
+id: 68a42ca6-b6a0-530f-8922-d129dc11577d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 709 - The New Sanctuary"
+slug: 0710-chapter-709-the-new-sanctuary
+partOf: mythrans-master-of-all-continued-completed
+position: 710
+ownLength: 3506
+unit: words
+publishedAt: 2018-09-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/292959/chapter-709-the-new-sanctuary"
+royalRoadId: "292959"
+---
+
+The two months passed by almost before they knew it, and when Ren stored the Vasalor statue, all 5 maids had a small bump on their bellies.
+
+“I really need to go.” Ren said.
+
+“We know. We know!” Frikara laughed. “You've been telling us all week!”
+
+“I was just preparing you...” Ren started to say.
+
+“We can survive for a day without you, Dearest.” Xuunah said.
+
+“Not without me doing something first.” Ren said. “Present bare bellies!”
+
+The maids and Xuunah equipped the special tops he had made for them that left their bellies exposed, and he knelt in front of each of them and kissed their bellies. They all laughed as he did so, since it was a silly ritual he had gotten them used to, and then he went back in reverse and kissed them on the lips.
+
+“If you need anything, you let Symmetra know. If it's something only I can do for you, I'll be back tonight.”
+
+“Yes, yes. Get going.” Frikara said.
+
+“W-wait.” Andrela said, and Ren walked over to her. “Can... can you kiss my belly again?”
+
+Ren beamed a smile at her and knelt in front of her again. He stared up at her and he felt her anticipation as he leaned forward slowly, then he licked her instead. She giggled and gasped at the sensation, which made everyone laugh. He gave it a proper kiss and then stood.
+
+“See you all soon.” Ren said and left the apartment, then went downstairs and outside to meet Artemis.
+
+“That was fast.” Artemis said.
+
+“I was tempted to stay longer, but they warned me about spoiling them too much.” Ren said and then chuckled. “Well, I guess I should say they ordered me not to.” He grinned. “Let's get Zetaya and head back to Aurora.”
+
+They went across the road and opened the giant forge, and Zetaya stepped out. The Greater Fire elemental made the sounds of breaking branches in a fire when there wasn't a cart or anything for it to climb into, and Ren laughed.
+
+“Don't worry, we don't need a cart.” Ren said and activated his hands of the Gods ability Burning Hands, and surrounded Zetaya with a solid layer of Fire. The Greater Fire elemental absorbed it within a few seconds and made the sound of a crackling fire, then gave Ren a big hug.
+
+“Aww, that's so cute.” Teepo said.
+
+“My Lord, am I not needed?” Princess asked.
+
+“We're just jumping to get Suniva and then going to the Fire Realm.” Ren said. “I'll need you tonight when I head to the High Elven Kingdom, though.”
+
+“I haven't run that far in a while.” Princess said and he felt how happy she was.
+
+“We can even head to the Underworld and the Giant starter city.” Ren said. “I haven't visited there in a while, not since setting up the farmland under the city, and it's about time I checked in on them to see how they're doing.”
+
+Princess brayed her happiness at getting to run across the continent, and ocean, and half of another continent.
+
+“I'm sorry I haven't been using your skills lately.” Ren apologized and scratched her chin. “With only short or almost no distances to travel, I knew you wouldn't enjoy it and it would be a waste of your talents.”
+
+“That's true.” Princess said. “I will await your return tonight.”
+
+“See you then.” Ren said and took out the All-Seeing Mirror and checked the bedroom in Aurora. He cast the Large Portal spell and a double-sized portal appeared. He took Artemis' hand and Zetaya's arm stub, then stepped through the portal.
+
+“It's weird that I don't have to go back into the ring when we do that.” Teepo said.
+
+“REN! Behind you!” Seldanna exclaimed and drew her Vampiric Blood Sword.
+
+“Whoa! Whoa!” Ren said and held his hands up and dismissed the portal. “This is Zetaya, my Greater Fire Eemental.”
+
+“That's Zetaya? Really?” Seldanna asked, and Ren chuckled.
+
+“Yes, I know it's a bit of a shock.” Ren turned and rubbed the 10 foot tall Greater Fire elemental's belly. Zetaya let out the sound of a crackling fire, and Seldanna nodded.
+
+“It is Zetaya.” Seldana said and stored her sword. “You have grown mighty, Zetaya.”
+
+Zetaya made the sound of a roaring fire, and Seldanna smiled. She couldn't understand what was said; but, she understood the feelings behind it because Zetaya appreciated the compliment.
+
+“Will Zetaya be getting a turn in the Sanctuary as well?” Ellaria asked.
+
+“A turn? No.” Ren said and smiled. “Wait here for a moment, please.”
+
+They all waited for him when he left the bedroom, and he came back a moment later with the Marilith Demon behind him.
+
+“Ren, what...”
+
+“All will be answered momentarily.” Ren said and cast Large Portal to go into the Sanctuary. “After you, M'lady.” He said and motioned for the Marilith Demon to go through.
+
+“You will have to tell me how you made a double-sized portal.” She said and slithered by him.
+
+“I just changed the spell.” Ren said and looked at Seldanna and the other succubi. “Please, enter.”
+
+“But...”
+
+“Don't start doubting me now.” Ren said with a smile, and she touched his cheek as she passed by and entered the portal. The 3 succubi went next, then Artemis entered, and Ren walked over to the shelf.
+
+“Ren, how? I thought...” Suniva had watched with wide eyes as the Sanctuary's capacity was exceeded.
+
+“Suniva, do you feel like spending some time with me before we go to the Fire Realm?” Ren asked.
+
+“It's going to be crowded in that small space.” Suniva said.
+
+“You would assume that.” Ren grinned and held a hand out to her. She hopped off the shelf and landed on his hand, and he took Zetaya's arm stub, then stepped through the large portal and dismissed it.
+
+“This is amazing!” Suniva said as she saw what was on the other side of the portal and flew around. “How did you do all of this?”
+
+“I had a lot of time on my hands.” Ren said, and he felt the awe and wonder from the others as they looked around the space. It was still the Sanctuary that he had built next to the Library in his county, except that the inside was like a mansion instead of a small one storey house.
+
+“Ren, is that... I feel something.” Seldanna said.
+
+“It's probably coming from your roost.” Ren said and pointed up the stairs.
+
+“My roost?” Seldanna asked, and Ren made shooing motions to her. She took the hint and walked up the stairs, then she gasped. The other succubi felt her shock and ran up the stairs to see what happened, then they gasped and felt shock as well.
+
+“What is it?” Suniva asked.
+
+“Just a little playground for her and the other succubi to enjoy when I'm spending time with someone else.”
+
+“Like me?” Suniva asked, and Ren pointed behind her.
+
+“There's two doors. One when you're big, and one when you're small.” Ren said.
+
+Suniva flew over to it and used the small door and stepped inside. “Oh, wow.”
+
+“I never realized how easy it was to make lava.” Ren chuckled as he felt her wonder.
+
+“R-Ren, can... can I...”
+
+“It's your room, so sure.” Ren said.
+
+Suniva flew back to him in a flash and kissed his cheek, then flew into her room and slammed the door shut. Ren chuckled and opened the large door to the room next to that, and motioned for Zetaya to go in. Zetaya made the sound of breaking branches in a fire, and Ren took several steps up into the air to rub Zetaya's head stub.
+
+“I'll be in to visit in a little while.” Ren said. “I've got a lot to tell you about.”
+
+Zetaya made a crackling fire sound, and Ren gave the head stub a kiss.
+
+“Have fun playing in the lava pools.”
+
+Zetaya nodded and entered the room, and Ren shut the large door.
+
+“Artemis, your room is right there.” Ren pointed to where the portal had been and Artemis went into her room to explore it.
+
+“I suppose I have a room as well.” The Marilith Demon said.
+
+“It's more like a sauna, actually.” Ren said, and the Marilith Demon shivered slightly.
+
+“D-don't tease me, Ren.”
+
+Ren ran over to her and took one of her large hands and led her around the staircase that Seldanna and the succubi went up, and opened the large set of double doors. Inside was a huge area filled with rock ledges, wading pools, heat lamps, and an endless supply of steam that rose in a constant wave.
+
+“R-Ren... you...”
+
+“There's even a hidden cave for you to find and make into a lair.” Ren said, and he saw her shiver again as her emotions bubbled like the wading pool she was looking at. “You'll have to leave when I do, but we'll be coming back tonight when I get back from the Fire Realm.”
+
+The Marilith Demon turned and looked at him with lust in her eyes, and he moved up to stand in front of her.
+
+“I hope you like it.”
+
+The Marilith Demon's middle arms wrapped around him to give him a hug and her top arms rubbed the sides of his head. “It's perfect.” She said and kissed his lips and chin. “Will you be staying with me first?”
+
+“That is what you want.” Ren said, and she chuckled.
+
+“You know me well.”
+
+“I also have a surprise for you.” Ren said and caressed her face with both hands.
+
+“This wasn't surprise enough?” She chuckled.
+
+“It's part of it.” Ren said. “If you'll let me go for a moment, I'll show you.”
+
+The Marilith Demon nodded and let him out of her embrace, and Ren walked away and shut the double doors. There was a click of a lock and he turned back to stare at her.
+
+“If I didn't know any better, I would say that you were planning something nefarious.”
+
+“I am.” Ren said and took two steps towards her, then activated his polymorph helm and chose Marilith Demon. She caught her breath as Ren started to polymorph his body into the male version of her species, and he didn't pause as he continued to move across the floor towards her. By the time he reached her, he was fully transformed and slithered his tail around her.
+
+The Marilith Demon couldn't speak as he used his bottom set of hands to hold onto her bottom set and intertwined his fingers with hers. She gasped when his middle set of arms wrapped around her waist and then her mouth made that little 'o' of surprise as his top hands cupped the sides of her face and his tail wrapped around her tail expertly.
+
+Marilith Ren's long snake-like tongue flicked out just like a real snake's would and he smiled as he held her still. “Surprise.”
+
+The Marilth Demon's four free hands grabbed onto him and pulled him in close, and she kissed him with wild abandon. She tried to pull her tail free so she could embrace him completely; but, he held her firmly and restricted her movements.
+
+“L-let me...” She said when she broke the kiss.
+
+“Not yet.” Marilith Ren said and used his middle hands to tap her armor. She stored it and he brought those hands up to caress her breasts. She moaned as his boiling hot hands massaged her. He wasn't sure if she was enjoying it more because of the setting or because he was in a similar body.
+
+“P-please...” She moaned and closed her eyes. “Let... let me...”
+
+Marilith Ren ignored her and moved one of his hands down to her special place, then kissed her as he explored her expertly. He had done similar things to her before in his enlarged elfling body; but, he didn't quite measure up to her expectations. She never quite got the pleasure that she had hoped for, so this time he wanted to make sure that she did.
+
+The Marilith Demon moaned and panted as he played with her, and then he suddenly let her go completely and slithered back out of reach. Her eyes flipped open and she stared daggers at him.
+
+“Get. Back. Here.” The Marilith Demon said through gritted teeth. “Right. Now.”
+
+“You need to catch me first!” Marilith Ren hissed at her, then started to 'run' away. “I'm not going to make it easy for you!” He laughed as she lunged at him and just barely missed his tail. “You've gotta earn it!”
+
+The Marilith Demon hissed a scream at him, then chased him in earnest. Marilith Ren led her on a merry chase and showed her all the spots they could fit in, and then he turned to try and go back the other way when she tackled him. In barely a second, she had his arms pinned with hers and her tail was wrapped around him to hold him immobile.
+
+“I got you!” The Marilith Demon spat at him and put her face right in front of his. “I beat you!”
+
+“You have, fair and square.” Marilith Ren said. “Now, it's time for your reward.”
+
+“You are in no position to give me anything!” The Marilith Demon hissed into his face. “I have you completely pinned!”
+
+“Not all of me.” Marilith Ren opened his mouth to lick her face to distract her and the Marilith Demon felt something come out between them. Her eyes widened for a moment when she realized what he meant, and then he entered her very prepared special place with his own.
+
+The Marilith Demon's whole body froze solid and she convulsed as his appropriately-shaped and sized genitalia filled her special place completely. She had never felt anything like it before, considering she was supposed to be the only one of her species, and Marilith Ren took full advantage of this. He easily loosened her grip on him and he gently rolled her over onto her back.
+
+“I felt how disappointed you were when we were intimate, so I wanted to correct that mistake.” Marilith Ren said and wiggled his lower half to stimulate her. The Marilith Demon could only stare up at him with her mouth open in surprise as he pleased her in ways she didn't realize she could feel. He took his time with her and made sure she felt every slither and every muscle contraction, and she received as much pleasure as she could ever want or need.
+
+An hour later, Ren was back to normal and walked out through the double doors of the Marilith Demon's room. He went over to Suniva's room and went inside, stored his clothing, and dove into the lava pool she sat in. Suniva laughed as the lava splashed onto her and pushed it off, then Ren came up to the surface.
+
+“You're lucky I made myself big.” Suniva said.
+
+“I would have shrunk myself if you were still small.” Ren said. “How else are we going to have sex?”
+
+Suniva laughed again, and he held a hand out to her. She took it and he dragged her into the lava flow and they rolled around and played for a while, then he took her up to the surface and laid her down, then made love to her.
+
+“It's like a dream come true.” Suniva whispered as he pleased her.
+
+After an hour, Ren left her area and went in to visit Artemis. She informed him that she could wait, and he said that she never has to wait, because she was always with him. She laughed and they had a quick love-making session, then she kicked him out and told him to go to the succubi. He left reluctantly, then ran up the stairs to the succubi roost.
+
+“My King, this place is exquisite.” Seldanna said when he entered the roost. “You have outdone yourself.”
+
+“Not yet I haven't.” Ren said and activated his polymorph helm. All four of the succubi stopped breathing at the sudden transformation happening in front of them, and then they gasped as Ren became an Incubus, the male counterpart to the succubus. “I think it's finally time that you got what you deserve.”
+
+Seldanna was enraptured by him when he stored his clothing, then he stalked towards her. The other succubi slid off to the sides in fighting stances to try and encircle him, and he grinned at them. They stopped moving when his hand darted out faster than they could see and he grabbed Ellaria by the wrist.
+
+Incubus Ren pulled her in close. “You smell... really tasty.” He said and licked her cheek. Ellaria finished just from that and fainted. He eased her down to the floor, then disappeared.
+
+“Wh-where...” Chenoa tried to turn around and suddenly Incubus Ren was there and held her tenderly.
+
+“So soft...” Incubus Ren said and gently kissed her on the lips. Chenoa gasped and finished, then fainted. Katori stood up from her fighting stance and waited for him. Incubus Ren laid Chenoa on the floor and walked over to Katori.
+
+“I can feel you, My King.” Katori said and touched her heart. “You can't give me what I...”
+
+Incubus Ren made a dagger appear and quickly slashed his own throat.
+
+“NOOOO!” Katori yelled and caught him as he fell. “No, you... you shouldn't have...”
+
+“T-take... my lifeblood.” Incubus Ren whispered. “Be... be what you... what you want.”
+
+Katori cried as Incubus Ren's blood covered her hands and her legs, and she lifted her bloody hand to her mouth and sucked on it. She moaned as she felt the power it gave her, and her eyes turned blood red as she bent low to suck on his wound. She stayed there for several minutes, much longer than it should have taken for the blood to end, and then she shoved Incubus Ren off of her lap and screamed.
+
+Katori's whole body glowed red and she stared at herself. She was covered in blood and she lifted her hands to the ceiling. “Please! I beg you! Take this worthless body and make it whole again!”
+
+“AS YOU WISH.” A booming voice said.
+
+Katori was engulfed in a golden glow and her body started to shake and convulse, then it sounded like several bones were broken and she screamed again. In the next moment, her hands and feet curled up into small balls of flesh. Her wings withered and fell off, then two loud snaps were heard as her horns were broken off by some unseen force.
+
+“Katori!” Seldanna yelled and started to run to her, and Incubus Ren was suddenly there.
+
+“No, she needs to finish it.” Incubus Ren said, and Seldanna saw that his neck was healed.
+
+“But... she... she...”
+
+“It's what she really wants.”
+
+They watched as Katori's hands and feet regrew to look normal and were no longer the claws and talons of the succubi. The blood that had covered her disappeared with the golden glow, and she collapsed to the floor, unconscious. Incubus Ren let Seldanna go and she rushed to her friend.
+
+“Katori.” Seldanna said and picked her up. She brought her over to one of the many beds in the roost and laid her down on it. Incubus Ren did the same to the other two succubi and put them on nearby beds, and he walked over to Seldanna.
+
+“She's fine.” Incubus Ren said, and Seldanna turned on him.
+
+“How could you do that to her!” Seldanna said and punched his chest. Incubus Ren let her, and she punched him over and over, which caused bruises and damage. When she became tired and realized what she had done, she started to cry. “I... I didn't mean... I never wanted... I'm sorry I hurt you!”
+
+“What, this?” Incubus Ren waved his hand over his very damaged and bloody chest, and the damage disappeared instantly. “You didn't hurt me.”
+
+“But... but...”
+
+“I am your King.” Incubus Ren said. “Nothing you can do will ever change that.”
+
+“R-Ren...”
+
+“I'm going to give you what you deserve.” Incubus Ren said. “Are you ready?”
+
+Seldanna looked down at a very normal-looking Katori on the bed, then looked at Incubus Ren. “Yes, My King.”
+
+Incubus Ren took her hand and led her over to one of the free beds and laid her down on it. He asked her for her Vampiric Blood Sword and she gave it to him. He held it at arm's length and cast a portal on the floor below it, and the exit portal appeared over the bed on the ceiling. Seldanna stared at the portal and didn't know what he was going to do, then Incubus Ren let the sword go and jumped onto the bed above her.
+
+“NOOO!” Seldanna screamed as the sword fell out of the portal and skewered Incubus Ren right through the heart and the end of the blade slid into her chest and skewered hers, too.

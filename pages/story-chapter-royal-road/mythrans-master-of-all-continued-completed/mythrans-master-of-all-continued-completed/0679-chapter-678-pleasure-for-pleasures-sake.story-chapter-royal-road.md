@@ -1,0 +1,209 @@
+---
+id: 94880600-276c-56d9-8b16-79382a2388d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 678 - Pleasure For Pleasure's Sake"
+slug: 0679-chapter-678-pleasure-for-pleasures-sake
+partOf: mythrans-master-of-all-continued-completed
+position: 679
+ownLength: 3167
+unit: words
+publishedAt: 2018-08-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284310/chapter-678-pleasure-for-pleasures-sake"
+royalRoadId: "284310"
+---
+
+Ren spent half an hour giving Jennifer exactly what she needed. He played the victim for her during some light bondage, and he left her very satisfied. She wouldn't let him leave until he promised that the next time it would be her turn to be on the receiving end. He thought about refusing, then felt her need, so he promised that he would try to be the dominant one if she wanted him to.
+
+Jennifer was quite happy with that and Ren felt that she had expected him to completely refuse and she had been fully prepared to beg if it was necessary. He held in his sigh and cast Full Illusion on himself to become Ugly Ren again, gave her a platinum coin, then left her work room. He looked around the club and saw that there were even less people there now.
+
+I really do need to advertise this place to make up for taking away most of the regular customers. Ugly Ren thought, then one of the dancers emotions spiked as she caught sight of him. He stopped himself from turning to look, which was his normal habit when he felt someone's interest in him.
+
+“Hey, you.” Candy said as she hooked her arm in his. “Are you busy?”
+
+“That depends on yer definition of busy.” Ugly Ren growled, and he felt her interest wane. He cast Full Illusion again and left out the altered voice. “Sorry, I'm still in character.” He whispered in his normal voice, and she nodded.
+
+“Come with me.” Candy said and led him over to her work room. Her anticipation grew as she shut the door and turned to look at him. “Can you do something with the face?”
+
+“I can do anything you want with it.” Ugly Ren said. “Who do you want me to be?”
+
+Candy stood by the door and thought about it. “I can pick anyone? Anyone at all?”
+
+“As long as I know what they look like.” Ugly Ren said.
+
+“Brad Pitt.” Candy said and he cast the spell. “Matt Damon.” She said, and he appeared before her. “Um... um... the Craig guy!” She thought about his last role. “James Bond!”
+
+“Him? Really?” Matt Damon Ren asked, shrugged his shoulders, then cast the spell to become the man she wanted, Daniel Craig. “How's this?” He asked in a thick British accent and wore a well tailored tuxedo.
+
+“Oh, god!” Candy gasped and grabbed herself between the legs, then dropped to the floor on her knees. “It can't be happening!”
+
+“Ma'am, you seem to be suffering a calamity.” Daniel Craig Ren said as he walked over to her and picked her up in his arms. “Allow me to assist you.”
+
+Candy stared at him with an open mouth as he carried her to the bed and laid her down on it.
+
+“Your items of clothing are restricting my view of the affected area.” Daniel Craig Ren said. “May I remove them?”
+
+Candy stored her work outfit and left herself completely naked in an instant.
+
+“Hmm. It seems a mysterious dampness is leaking out from you.” Daniel Craig Ren said and kissed her special place.
+
+Candy's whole body shivered from that one touch and she finished. “GOD!”
+
+“There's even more now, ma'am. How terrible!” Daniel Craig Ren exclaimed. “I'll administer the proper procedure at once!”
+
+Candy stared at her fantasy lover as he pleased her with his mouth, and she finished over and over again and lost her track of time completely.
+
+“I believe I now need to plug that leak.” Daniel Craig Ren said and stood up. His tuxedo disappeared and Candy gasped at his full and ready state.
+
+“B-b-but... I thought... don't you...”
+
+“I have permission.” Daniel Craig Ren said, and the most beautiful smile appeared on her face as her joy and happiness slammed into him. He shivered slightly from the strength of her emotions, then he climbed onto the bed as she lifted her arms up to embrace him. He joined with her easily, since he had prepped her so well, and Candy floated on her bliss throughout the entire encounter with her fantasy lover.
+
+They did a lot of things to each other, and when it was over, they laid in bed side by side and Candy's disbelief was a heavy weight on her heart.
+
+“Did that really happen?” Candy asked and turned to look at him.
+
+Daniel Craig Ren turned his head to look back at her. “It really did, ma'am.” He said in his thick British accent, and she closed her eyes and sighed. He reached out and touched her cheek, and she opened her eyes to look at him. “I knew being who you wanted would make you happy; but, I never imagined how happy you would actually be.” He leaned in close and gave her a kiss. “Thank you.”
+
+“You're thanking me? After what you just did for me?” Candy laughed. “Are you for real? I thought we were only going to have a 69 or maybe just an oral exchange! It never crossed my mind that we would actually... that you would... you took me Around the World!”
+
+Daniel Craig Ren laughed, and she caught her breath. “What is it?” He asked.
+
+“You even laugh like him.” Candy said.
+
+“Of course I do. Right now I am him.” Daniel Craig Ren said and gave her his signature smile, and all the disbelief she felt evaporated. “Unfortunately, now I must leave you.”
+
+Candy opened her mouth to say something, then changed her mind and didn't say anything.
+
+Daniel Craig Ren knew what she was going to say, though. “Yes, Miss Moneypenny.” He said and rolled off the edge of the bed and out of her sight for a second, then stood up wearing the tuxedo. “I'll be available for another mission; but, I can't confirm when it will be.”
+
+“I... I...” Candy blinked her eyes at him and didn't know what to say.
+
+Daniel Craig Ren took her hand and placed a platinum coin on her palm. “Have a good day, ma'am.”
+
+Candy stared at him as he walked to the door, then he was covered in a cloud of fog. “That's a neat trick.” She said, then the door opened and closed and the fog disappeared.
+
+Ugly Ren stood outside Candy's work room and looked around, but he didn't feel anyone's interest spike, even though several of the girls were looking right at him. He did feel their disappointment and sadness, however. There was no one at all in the place now, except for him.
+
+Well, I think it's time to return the favor. Ugly Ren thought and clomped over to the main stage and climbed on, then walked to the center. “Excuse me.” He grumbled, and his voice carried to everywhere in the club and all the girls turned to look at him. “I see yer all a little sad that no one's here, even though the weekend is usually yer busiest time.”
+
+Several of the girls nodded, and a couple of them came over to the stage.
+
+“Gina, if you'd be a dear and close up fer the night, I'd like to do something special fer you all.” Ugly Ren said, and she turned off the lit up sign by the main road and locked the door. “Thank you.” He said. “I gathered that Jennifer let you all in on who I really am.”
+
+When they all nodded, Ren dismissed the Full Illusion spell and it left him standing in the air in the middle of the stage, and no one was surprised by this. He felt Candy come out of her work room and Jennifer came out of the sauna room.
+
+“I'm terribly sorry that the amusement and water parks have cut into your business. I did suspect that the parks would be popular, just not so popular that people would stop coming here this quickly.” Ren said. “I'd like to visit you all privately to apologize, but I want to lift up your spirits a little before I do.”
+
+“Wait, what?” Caramel walked over to the stage. “Did.. did you say you're going to visit each of us?”
+
+Ren nodded. “I've allotted half an hour for each of you, that way I'll be done before morning.”
+
+“Okay, that's not possible.” Apple said. “No one can go all night.”
+
+“Well, I've already visited Gina, Jennifer, and Candy so far.” Ren said. “They seemed pretty satisfied.”
+
+“God, yes.” Candy said. “He was my dream man!”
+
+“Mine, too.” Gina said.
+
+“I rode him so hard!” Jennifer said, and they all looked at her. “What? It was fantastic!”
+
+“We can imagine.” Cinnamon said and rolled her eyes, which made some of the dancers laugh, then she looked at Ren. “Can you really do us all in one night? You're not trying to trick us or something, are you?”
+
+Ren chuckled. “I'm not really sure how I'd trick you; but, I'm here on the main stage to prove that I can be who you want me to be for the half an hour that I'm yours.”
+
+“This I gotta see.” Caramel said as she and the rest of the dancers went to the main stage. “Okay, mister. Stun us with your sexual prowess.”
+
+“Well, I'll need some props first.” Ren said and took out some cloth and sewed up a tear-away business suit. They all watched him make it in only a few seconds and he stored it. He then took out several pieces of parchment paper and cut it up into dollar-sized strips and made them look like dollar bills with his face on them. He made 12 stacks and handed a stack of 50 bills to each girl, who were very surprised by the real-looking money. He also put 12 chairs around the front of the stage.
+
+“Okay, I think that'll do.” Ren said. “Now, who should I... ah, yes. That would be best.” He said and smiled. “Ladies, prepare yourselves!” Ren pointed to the bartender, and she started the music. He stepped behind the curtain for an instant and cast Full Illusion on himself and equipped the tear-away business suit. “It's time for...” He hopped out from behind the curtain and all the dancers gasped. “...Magic Micheal!”
+
+“No fucking way!” Cinnamon exclaimed as Channing Tatum Ren started to dance around the stage. “Am I really seeing this?”
+
+“Somebody pinch me!” Caramel said as Channing Tatum Ren gyrated right in front of her and pulled off the right sleeve of his suit coat and threw it at her. “He's stripping!”
+
+“That's my move.” Candy said as Channing Tatum Ren did her move in front of her and tossed her the other sleeve. He did a little hop and a pirouette, grabbed both sides of the suit coat and pulled. The tearing sound went right through Gina and one of the other dancers, and he tossed a piece to each of them.
+
+“Oh, my god.” Sugar said as Channing Tatum Ren slid on the floor towards her on his knees and ripped off his shirt. He tossed it to her and she caught it, then he fell onto his chest and did 3 push-ups with both hands, then did it on his fingertips. The dancers were impressed by that and tossed about half of their bills at him, so he grinned at them and shifted his weight slightly and spread his legs apart, then did a one hand push-up on his fingertips.
+
+“Oh!” Paprika gasped.
+
+Channing Tatum Ren hopped up from that and gripped his pants, tore them away from his body, and tossed the pieces at her.
+
+Paprika saw a very significant bulge in his underwear and frowned. “Hey, I call foul!” She said and pointed. “He's not hung like that!”
+
+“That's the one part he doesn't change.” Jennifer said and threw another handful of her 'money' at him. “Unless he's playing a joke on you. He gave Santa a micro-penis the first time I saw him.”
+
+Paprika laughed, because she got the joke right away. Now that he was down to just his underwear, Channing Tatum Ren slid to the edge of the stage and hopped off, then straddled a very surprised Apple.
+
+“Wh-what are you doing?” Apple asked as he gyrated right in front of her face, then he turned around and rubbed his butt on her abdomen.
+
+“I know you're not really fussy on this, but I'm driving the other dancers wild!” Channing Tatum Ren said happily, then turned back around to face her. “Don't worry.” He whispered. “I have something special planned for you.”
+
+Apple stared at him as he went to the next girl in line. Candy shoved several bills into his underwear and her fingers touched his private part. Channing Tatum Ren didn't say anything or tell her to stop, so she used her other hand to fold a bill and put it in her mouth.
+
+“Hmm!” Candy hummed.
+
+Channing Tatum Ren grinned at her and held his underwear open for her. The other dancers were surprised when she bent down and shoved the bill into his underwear with her teeth. Channing Tatum Ren's arms and her own hair were in the way and blocked what she was doing. They stayed that way for several moments, a lot longer than just putting a bill in his underwear would require, then they heard a sloppy kissing sound and Candy sat up with a very big smile on her face.
+
+“You did not just...” Caramel tried to say, then Channing Tatum Ren was in front of her and used one of her own dance moves against her. He kept his balance as he slid his leg up and over her shoulder and rested the back of his knee there, which put his private area right in front of her. “How are you doing this?” She asked as she took a bill and slid it into the edge of his underwear. “It took me weeks to get that move right!”
+
+Channing Tatum Ren smiled. “I'm a quick study.” He said and slid his leg off her shoulder and bent over to whisper in her ear. “I want you to show me how flexible you are later.” He said and licked her earlobe. Caramel stopped herself from catching her breath at the touch, and then he was gone and danced around to the next girl in line.
+
+“This can't be real.” Sugar said as Channing Tatum Ren gave her a little lap dance and she rubbed her hands all over his backside. “Are you for real?”
+
+“I'm as real as you want me to be.” Channing Tatum Ren said to her and caressed the cheek of her face. “You just need to decide who you want me to be.” He said and moved on to the next girl.
+
+“Shake it, baby!” Jennifer said.
+
+Channing Tatum Ren turned around to do that and she slapped his butt as hard as she could.
+
+“That's it! Work it!” Jennifer grabbed his cheeks and squeezed. “They're so nice!”
+
+Channing Tatum Ren chuckled and moved away, then turned to the next girl. He gave each of the dancers an equal amount of time with their own personal lap dances, then he hopped backwards and sat on the edge of the stage. He smiled at the girls and lifted his legs and flipped backwards up onto his hands into a handstand, did 3 push-ups with his feet straight up into the air, then dropped onto his chest to the stage and stood up. He crossed his arms and posed for them.
+
+“Ladies, I hope you liked the little cheer up show that I just made up for you.” Channing Tatum Ren said, and he felt their surprise. “Oh, look! I seem to have something stuck in my underwear.” He said and stored it, and all the bills that the girls had stuffed into them seemed to move in slow motion as they fell away from him and to the floor. “Oops.” He said and his hand quickly covered up his private place, but not before they all had a pretty good view of him.
+
+“I can't take it anymore!” Sugar said and jumped up onto the stage and took his hand. “Let's go!”
+
+“But... I still have to...”
+
+“Later!” Sugar said and led him off the stage and over to her work room. “Get your ass in there!”
+
+“Yes, ma'am.” Channing Tatum Ren said and Sugar slammed the door shut.
+
+“Well, I guess we won't have trouble deciding who's going first.” Caramel said, and they all laughed. “Who's next?”
+
+They exchanged glances with each other and Gina, Jennifer and Candy stood up.
+
+“Have fun trying to decide.” Jennifer said with a grin, and the three of them left the others by the stage.
+
+“How about by how horny we are?” Paprika said. “Obviously Sugar was the horniest.”
+
+“I think I'm next.” Spice said and stood up, and her chair was soaked.
+
+“Damn, girl! Why didn't you say anything?” Caramel asked and looked over at Sugar's chair. It only had a small puddle. “You have Sugar beat, hands down.”
+
+“I... well...” Spice stored the chair and equipped different clothing, then equipped her working outfit again. “She's more... well...”
+
+“Sugar's more outgoing.” Paprika said. “Spice is a lot quieter.” She smiled. “How many did you...”
+
+“Three.” Spice said. “God, that whole routine was so hot!”
+
+“It's unanimous, then. Spice is next.” Caramel said. “Do you think Sugar is going to...”
+
+Sugar's work room door opened and Channing Tatum Ren stepped out wearing his underwear.
+
+“Sugar said she wants to save the other 20 minutes of her time for later.” Channing Tatum Ren said with a smile and walked over to Spice. “Ma'am, I'd appreciate your company for a while.”
+
+“T-take... take me.” Spice mumbled.
+
+Channing Tatum Ren gently picked her up in a princess carry and walked with her over to her work room. He didn't come back out until the full 30 minutes was up. He had barely closed the door when Caramel took his hand.
+
+“You know what I want.” Caramel said.
+
+“Yes, ma'am.” Channing Tatum Ren said as they entered her work room. He cast Full Illusion on himself and became a half-giant for her, because she really loved big men. He stayed for the full half hour and then went to each of the other dancers and gave them all who and what they wanted. Sugar even used up the last of her time with him as well. Surprisingly enough, Apple was the one who was right behind Gina for being the most satisfied and for enjoying him the most.
+
+Ren made sure that each of the dancers were well sated and a platinum coin richer, then he left the Pleasure Palace after he had changed into Ugly Ren once more and gave Gina a kiss goodbye.
+
+“See ya next time.” Ugly Ren growled for her to make her smile, then the door shut behind him.

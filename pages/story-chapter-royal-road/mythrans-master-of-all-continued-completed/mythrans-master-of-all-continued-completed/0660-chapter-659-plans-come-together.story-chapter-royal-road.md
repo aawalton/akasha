@@ -1,0 +1,259 @@
+---
+id: e065565e-6389-5012-9d21-69330f9475eb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 659 - Plans Come Together"
+slug: 0660-chapter-659-plans-come-together
+partOf: mythrans-master-of-all-continued-completed
+position: 660
+ownLength: 3199
+unit: words
+publishedAt: 2018-08-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241015/chapter-659-plans-come-together"
+royalRoadId: "241015"
+---
+
+At the sound of Ren's laughter, Valercia's office door opened and she stepped out. She wore a similar dress as the one she had worn the night before and gave him a big smile.
+
+“My King.” Valercia said and held the door for him and Artemis.
+
+“Please excuse me.” Ren said to the receptionist, then walked by her desk and entered the office with Artemis. The next hour was filled with juggling schedules and pay periods, assigning the proper personnel to the right jobs, and all the little details that were required for running a huge theme park.
+
+“It's almost lunch time, Ren.” Teepo said.
+
+“Thanks.” Ren said and put a hand on Valercia's hand on the desk. “Would you care to join me for lunch?” He asked. “The friends I had here yesterday should be at the pool and waiting for us.”
+
+“Do they know I'm coming?” Valercia said and they walked across the office to the door.
+
+“If they don't, they will in a few minutes.” Ren said and opened the door for her and Artemis.
+
+“We're going out for lunch, Hassibah.” Valercia said. “We'll be back in...” She looked at Ren.
+
+“An hour.” Ren said. “Our first training session is in an hour and a half for the general workers.”
+
+Valercia nodded and looked at the receptionist. “Take a long lunch yourself, since I won't be back until tonight.”
+
+“Thank you, My Queen.” Hassibah said and ducked her head, which made Valercia laugh.
+
+“Stop that and get out of here.” Valercia said, and Hassibah gave her a big smile as she took the papers from her desk and put them in the top drawer.
+
+“Have fun.” Hassibah said as Valercia, Ren, and Artemis left the outer office.
+
+“They're teasing you already?” Ren asked, and Valercia nodded.
+
+“My friends are, at least. One day, I'm the temporary mayor for a city of nearly 300,000 people, and the next I'm the Queen of an entire people.” Valercia said and chuckled. “That just so happens to include humans, elflings, and High Elves... and the last two live in another city outside the Human Kingdom.” She said. “It's a lot for everyone to adjust to.”
+
+“You seem to be handling it well.” Ren said and took her hand, and she gripped his back tightly.
+
+“It's not like I have much choice.” Valercia said.
+
+“You do.” Ren said. “That's why I did what I did yesterday.”
+
+Valercia stopped walking, and he stepped around to stand in front of her. “It's very similar to my job before, except that I'm doing it directly for myself and not for the Lord of the County.”
+
+“I know.” Ren said and took two steps up into the air. “When our marks joined yesterday, I knew you could handle it. I also knew that you knew you could handle it, too.”
+
+Valercia smiled at him and used her free hand to touch his face. “So, what are we having for lunch?”
+
+“Are you trying to stop me from kissing you?” Ren asked, and she nodded.
+
+“If we start, I'm afraid we might not make it to lunch.” Valercia said.
+
+Ren chuckled. “Fair enough.” He said and stepped back down to the floor and they walked out of the mansion and down a side street.
+
+“Where are we going?” Valercia asked.
+
+“I figure if I'm making lunch, why not make it a training session for the food vendor booths.” Ren said, and she laughed.
+
+“Yes, I definitely like you a lot.” Valercia said. “You're very efficient and considerate of making the most of the situation.”
+
+“I like you, too.” Ren said. “You handled all those names and assignments like you could have done them in your sleep and organized them so well that no one is going to feel used or taken advantage of.” He said. “In fact, some might think that the jobs are going to be too easy.”
+
+Valercia laughed. “I've already marked those people and will offer them off-hours jobs to keep them busy.”
+
+“Ha!” Ren barked a laugh and came to a stop at the first business. There were nearly a dozen cooks working here, and three of them had been chosen to have enough experience to run their own small food booths. Ren, Valercia and Artemis went inside and met those cooks, who were more than excited to get their first experience cooking the food Ren wanted them to make. They left the business and stopped at the closest horse and cart stall. Ren rented one and they climbed aboard and drove out of the city.
+
+*
+
+Dana and Gretchen had slept in their nightgowns for several hours, and they woke up on their own.
+
+“I didn't get to wake you up this time.” Teela said, and Dana picked the metal beetle up and put it on her shoulder as she stood.
+
+“You should have another chance tomorrow morning if Gretchen and I get back from eating breakfast soon enough.” Dana said.
+
+“I can't believe you convinced me to stay logged in all night.” Gretchen sat up on the bed and stretched.
+
+“It wasn't that hard.” Dana laughed, and then her thoughts immediately went to Ren in his tiny Speedo, which made her blush.
+
+“Look at that! What's the blonde bombshell thinking of now?” Gretchen teased and laughed, and Dana smacked her shoulder.
+
+“N-nothing.” Dana said.
+
+“Yeah, sure.” Gretchen said and equipped her Travelling Clothes as she stood up. “I think they might still be serving breakfast at that popular restaurant.”
+
+“Do you want to waste 150 silver there?” Dana asked and equipped her Travelling Clothes, too.
+
+“I think we can splurge a little, especially after Ren's quest last night.” Gretchen said, and they left the room. They went to Nathalia's Nourishment and waited in the short line, ate a great tasting meal once inside, and she left a 15 silver tip. Gretchen had almost stopped herself from doing that, considering how much they had scrimped and saved to try and get better equipment when they first started playing.
+
+They bought new weapons with what they had at the time and had almost nothing left before they completed the first Sea Dweller quest. The enchantments and accessories that the people in Ren's shop had done for them had made all the difference, and now they had so much money that they didn't know what to do with it all. Getting out of the habit of scrimping and saving was still difficult, even with so much money available. Dana and Gretchen left the restaurant and walked to the center of town.
+
+“Do you think we really should go and meet him for lunch?” Dana asked, slightly nervously.
+
+“He invited us to play at the water park again and then eat lunch, so I don't see why not.” Gretchen said. “I'm sure the same people that were there last night will be there, too.”
+
+“Oh, yeah.” Dana said. “I guess they would be.”
+
+Gretchen put an arm around her friend's shoulder. “If I thought I could get the two of you alone, I would.”
+
+“Thanks.”
+
+“I'll keep my eye out for the opportunity, but you know he said you could only be friends.” Gretchen warned her.
+
+“Friends can become something more.” Dana said hopefully, and Gretchen laughed. “They can!”
+
+“Keep telling yourself that and you're going to be tasting your own foot when you stick it in your mouth.”
+
+“I haven't overreacted... well, not much.” Dana said, and that made Gretchen laugh harder. They walked to the town portal and chose the town square in the starter city in Ren's county, paid the fee and stepped through. They appeared in the starter city and walked to the door ramp to go outside.
+
+“Why don't you hire a ride?” Teela asked. “You'll get to the water park a lot quicker.”
+
+“That's a good idea, but we can't drive a cart.” Dana said.
+
+“They'll drive you.” Teela said. “I don't think they'll stick around, but you can probably tell them to come and get you later.”
+
+“The least we can do is ask.” Gretchen said, and Dana nodded. They turned towards the closest stall and asked about it, and the guy there was more than happy to have a driver take them wherever they wanted to go and would pick them up later. For a small fee of course. Dana used her Haggle skill to arrange a drive there and for a drive back that night, paid the money, then they enjoyed a very quick ride from the city to the water park.
+
+Once there, they saw the succubi and several more humans were there having fun. Dana and Gretchen changed into different bathing suits than what they had worn the night before and used the water slides again. They tried the diving boards and were surprised they worked so well, swam for a while, and then sat at the side of the large pool with their feet dangling in the water.
+
+*
+
+Ren drove the cart into the water park area and stopped next to the food booths off to the side of the large pool.
+
+“Ren!” Dana waved at him and came over to the cart. He saw that she was wearing a more conservative two piece in green, and Gretchen was right behind her and had on a red two piece bathing suit.
+
+“Hi, Dana. Hi, Gretchen.” Ren said and both women looked at the people getting out of the cart.
+
+“What's going on?” Gretchen asked.
+
+“Lunch and a cooking lesson.” Ren said and hopped down and helped Valercia climb down, then he secured the horse and cart to a nearby post. “We can use that booth there.” He said and they all walked over to it. Ren quickly set everything up to make hamburgers and french fries, including a self-cleaning deep fryer that never had to be refilled with grease and a grill that was also self-cleaning when turned off.
+
+Ren showed them how to make the hamburger patties and how to cut the potatoes to make the thick french fries that he liked, and he set up a big pot on the side in the back with beef gravy that never ran out. He set out the condiments that his cooking kit came with and made copies of them, then made them refill automatically like the gravy.
+
+Ren cooked up the first batch of hamburgers and a basket of french fries for everyone to have some, and when he was done, put a hamburger and fries on a plate and added gravy for himself.
+
+“That looks really good.” One of the cooks said.
+
+“Smells good, too.” Another said.
+
+“Some people might just want the hamburger. Some might want just the french fries, and some might want gravy on one, both, or neither.” Ren said and stored his plate, then asked Dana what she wanted.
+
+“Just the fries.” Dana said and smiled. “I'm trying to stay thin.”
+
+Ren chuckled and gave her a plate of fries. Gretchen wanted the hamburger, and Valercia wanted the same as Ren. Ren turned to the cooks and told them to get their own, which made them laugh, and Ren went with Dana, Gretchen and Valercia to sit at the closest picnic table to eat.
+
+Gretchen bit into the hamburger and moaned as she chewed. “This is so good!”
+
+“Give me a bite.” Dana said.
+
+“Give me some of your fries.” Gretchen countered, and Dana slid her plate close and leaned in, and Gretchen handed her the burger as she took some of Dana's fries.
+
+“Mmm! You're right, Gretchen.” Dana said after taking a bite.
+
+“Told you.” Gretchen said and ate some of the french fries. “These are good, too!”
+
+“The secret is the salt.” Ren said and ate some of his gravy fries. “It sticks to the fries really well right out of the deep fryer and makes the taste pop in your mouth.”
+
+Valercia laughed. “You sound like you have a lot of experience with these fries things.” She said, then ate one herself. “Oh, my.” She said and picked up another one and sucked the gravy off of it.
+
+“I think I just converted her again.” Ren joked and picked up his hamburger.
+
+“You have, My King.” Valercia said and ate another french fry and picked up the hamburger. “I was nervous of this new food, but it is truly delicious.”
+
+“We wholeheartedly agree with the Queen.” One of the cooks said, and Ren turned to see them at the next table. “This is something everyone is going to like.”
+
+“Wait until the hot dog and cotton candy stands open.” Ren said and pointed to the next two food booths. “Everyone absolutely loves those things.”
+
+Everyone ate their food in relative silence after that, and when they were done, Ren showed the cooks how to turn the things on and off.
+
+“Sir, why are you training three of us in their use?” One of the cooks asked. “There's only one booth.”
+
+“There's only one booth here, but there's a couple over there.” Ren pointed to the amusement park. “Believe me, when you train your apprentices, you'll be glad for the extra help.”
+
+“Apprentices?” The cooks looked at each other. “But, we're barely out of our own apprenticeships.”
+
+Ren nodded. “You don't need to know as much to work here, but you'll be doing a lot more work.” He said. “Does that make sense?”
+
+“Only if we can change booths and cook different things.” One of the cooks said, and Ren clapped him on the shoulder.
+
+“Now you're understanding how things should go.” Ren said. “We need to set up regular deliveries for food supplies, either with the locals or through the Portal Gate Network to one of the major cities, at least until we can get the proper stock of animals brought in.”
+
+“Proper stock?” The cook asked.
+
+“We've got tons and tons of vegetables available from the farms under the city and my county, so there's not going to be any kind of shortage for those. I'll pop to some of the bigger counties and see what kind of animals I can get brought in for our needs.”
+
+“You really have thought all of this through.” Valercia said.
+
+Ren nodded. “Soon, this place is going to be completely self-sustaining. With the amusement park and water park for supplementary income, no one that lives here will ever have to worry about anything again.”
+
+Valercia touched the side of his face with her hand and he felt her admiration, and she felt that he really wanted them all to prosper and be happy.
+
+“I have a question.” Gretchen asked.
+
+“Yes?” Ren said without turning his head.
+
+“Do we have to wait half an hour before getting back in the water so we don't cramp up?”
+
+Ren smiled and turned his head to face her. “That's a myth, actually. The danger is that after eating, your body tends to get tired quicker because it's digesting food. You can swim normally and not have to worry.” He said. “Here you can eat a whole cow if you wanted and still float on the water without a care in the world.”
+
+“I wouldn't suggest trying that.” One of the cooks said. “You should at least gut the cow first.”
+
+Ren chuckled and had to agree. “Teepo, how's our time.”
+
+“The first appointment this afternoon isn't for another 40 minutes.” Teepo said.
+
+“The workers are meeting us at the amusement park as well.” Valercia said. “Since it's right over there and we have a cart, we have some time.”
+
+“Would you care to join us in some water fun?” Ren asked her.
+
+“That would depend on your definition of fun.” Valercia said and smiled.
+
+“Wholesome for now.” Ren said and looked at the three cooks. “What about you?”
+
+“We're invited?” They said and looked at each other. “To swim? With you, the King? And the Queen?”
+
+“We might have those titles, but we're still people.” Ren laughed. “Do you need swimsuits?”
+
+“That would be nice.” One of them said.
+
+“Right this way.” Ren said and he led Valercia and the cooks over to the footwear and towel shop, gave them what they needed, then went into the next shop with the swimsuits. Valercia picked out a nice one piece that was red and hugged her curves very well, and she came out of the dressing room.
+
+“What do you think?” Valercia asked. She had tied her hair up on top of her head and turned around for him.
+
+“Um... I think I'm going to get to know you a lot within the next half an hour.” Ren said.
+
+Valercia laughed and walked over to him. “You need to change as well.”
+
+“Oh, right.” Ren said and equipped the Speedo he had worn the night before. Valercia caught her breath as Ren revealed all of his rippling muscles, and her hands touched his chest automatically and traced his pectoral muscles.
+
+“My King.” Valercia said in a slightly deeper voice. “I look forward to getting to know you during the next half an hour as well.”
+
+“These things are great!” One of the cooks said as he stepped out of the changing room with a pair of small swimming trunks on. “They will stay on in the water, won't they?”
+
+“Of course they will.” The second cook said as he stepped out in a different color pair but similar in size. “Unless you take them off... and you are not to take them off in the pool.” He warned the first cook, who laughed.
+
+“Give it a rest, you two.” The third cook said and stepped out wearing a two piece bikini. Her dark hair was cut very short and the suit covered her well; but, she was also a woman.
+
+“You're a woman.” Ren said, surprised.
+
+“Is that a problem?” She asked in her deep voice, a little angrily.
+
+“Of course not.” Ren said and held up his hands in surrender to ease her anger. “I also wouldn't have treated you any differently had I known before seeing you like this.”
+
+She nodded, mollified, then struck a pose that showed off her figure. “How will you treat me now that you know, My King?”
+
+Ren gave her the up and down glance that her feelings demanded from him. “Until you're back in uniform, very carefully.” He said and grinned at her, and she chuckled.
+
+“I suppose that's fair enough.” She said and glanced down at him in return. “Considering what you're wearing, I will do the same.”
+
+Ren gave her a regal bow to concede the point that they were both wearing revealing things, and her face went red from the formal gesture. He ushered Valercia and the cooks out of the shop and met Dana and Gretchen, who stared at the third cook, too. They hadn't known she was a woman, either. Her cook uniform had hidden that fact very well.
+
+“It's water time.” Ren said and pointed behind Dana and Gretchen. The two women glanced at the cook once more, who only smiled demurely at them, then they all went to the pool to have some more fun.

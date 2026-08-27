@@ -1,0 +1,261 @@
+---
+id: 003e55ae-9f9c-5326-a8d7-faab7e99a1c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 656 - Pool Prep"
+slug: 0657-chapter-656-pool-prep
+partOf: mythrans-master-of-all-continued-completed
+position: 657
+ownLength: 3030
+unit: words
+publishedAt: 2018-08-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/240081/chapter-656-pool-prep"
+royalRoadId: "240081"
+---
+
+“That's not fair!” Dana almost yelled at Ren. “I can't even get a date from you, and yet you can become a couple with this... this...”
+
+“She's a Queen.” Teela said from her shoulder.
+
+“That's not what I was going to say.” Dana said through gritted teeth.
+
+“I know!” Teela chittered in delight.
+
+“Dana, you can't get upset at him for...” Gretchen tried to console her friend.
+
+“I sure can!” Dana said and pointed. “Look! He still hasn't taken his hand off of her chest!”
+
+“They're probably still bonding.” Artemis said. “At least, that's what it feels like.”
+
+“Still bonding?” Dana asked and glanced at her new friend. Ren had said our bond was stronger than a normal bond. She thought, then looked at Ren. “Is that what he's doing? Making her a familiar?”
+
+“In a sense.” Artemis said. “He's making her a part of his monarchy.”
+
+“Wait, what?” Gretchen turned to Artemis. “He can do that?”
+
+“He invoked his Autocracy ability. It lets him grant appropriate titles to people in his Domain, and it also lets him make people a part of his royal family.”
+
+“Hold on.” Dana said. “What do you mean? She's a part of his family now, just because he gave her some glowing thingy?”
+
+“There's a bit more to it than that; but, that's essentially it.” Artemis said.
+
+“I felt her struggling to try and find someone compatible with her mark, and I realized that she would never find one, because there was only one of her.” Ren said and moved his hand from the spot on her chest, and he saw a spider had grown around the Ghoul Kissed mark and it was now on the spider's body... just like the one on the back of his hand. “I couldn't just ignore her pain, so I'm giving her the choice to do what she wants, rather than let herself be ruled by something she couldn't control.”
+
+“I... I feel her.” Valercia said. “Lylyth.” She whispered and touched the upgraded mark on her chest. “She... she's very sorry for hurting you like she did.”
+
+“I know, and I'm sorry that I hurt you in almost the same way.” Ren said, put his arms around her, and kissed her. Valercia relaxed in his arms and hugged him as he shared his emotions with her. Dana and Gretchen stared at them with open mouths as Ren and Valercia embraced as if they had been lovers for a long time. Ren broke the kiss and Valercia sighed.
+
+“My King, please forgive me for being so demanding.” Valercia said. “We haven't known each other for very long, and yet I asked you to share my bed, with barely a thought in consideration for you and your feelings.”
+
+Ren smiled and ran his hands through her hair. “I'd like to get to know you better before anything can happen between us; but, it is going to have to wait.”
+
+“I know.” Valercia said. “Thank you for giving...”
+
+“I should have given you the title before.” Ren said. “I'm sorry that I didn't realize how disconnected you would feel because of how you became a Ghoul Kissed.”
+
+Valercia smiled. “My King, you are too kind.” She said. “You gave me the chance to change jobs and become what I've always wanted to be.” She ran her hand through his hair. “I never imagined becoming this, though.”
+
+Ren chuckled. “It almost wasn't you.”
+
+“Wh-what?” Valercia blinked her eyes.
+
+“I actually offered the conversion to Princess Diana first.” Ren said. “Of course, her father was dead set against it.” He smiled. “He claimed that he didn't want to lose both his wife and his daughter to me, as if I had stolen his wife from him and wanted his daughter next.”
+
+“You... you mean I... this should be...” Valercia mumbled.
+
+“No.” Ren shook his head and held her tightly. “I only mentioned it so that you would know for a fact that in my eyes, your status is just as high as hers.”
+
+“M-my King.” Valercia said, and he felt her appreciation. “I will do whatever I can to live up to that standard.”
+
+Ren smiled and caressed her cheek. “You already have, Queen Valercia.” He said. “All you need to do now is keep being who you are and keep helping our people.”
+
+“O-our... our people.” Valercia said and touched the mark above her heart.
+
+“Yes, our people.” Ren said and put his hand on top of hers. “I entrust them to your care once again, except this time you have the authority you should have had before coming here.”
+
+“Th-thank you.” Valercia said. “R-Ren.”
+
+“You're welcome.” Ren smiled. “Now if you will excuse us, my friends and I have some hanging out to get to.”
+
+“I will see you tomorrow for the meeting.” Valercia said, and everyone heard the command and the unspoken promise in her voice. Ren nodded and turned away from her, then walked back over to Artemis, Dana and Gretchen, who opened the door for them all to leave the office. Once outside the mansion, Dana turned on Ren.
+
+“Are you for real?” Dana asked. “Do you really expect me to hang out with you after you just made out with some floozy?”
+
+Ren chuckled. “You like old movies, too?”
+
+“Wh-what?”
+
+“The only real way to find that word is from old movies.” Ren said. “At least, I think that's the only way.”
+
+“Ren.” Dana scowled at him, and he gave her a big grin.
+
+“You do realize I just diffused a potential problem, right?” Ren asked, and Dana looked at him blankly. “Valercia's emotional state was degrading to the point that she could hurt either herself or others, especially with the Ghoul Kissed mark. If she lashed out, she could cause a lot of damage. I needed to give her something else to think about and concern herself over for a while, besides trying to find a potential bed partner.” Ren said and took Dana's hand. “For now, she has the concerns of the entire Ghoul Kissed population to think about before she will have time to think about her own needs.”
+
+“You tricked her?” Dana asked.
+
+“No.” Ren shook his head. “I only delayed her. I really will be visiting her tomorrow afternoon to work out the schedules and everything else for all the workers that are about to be employed for the parks.”
+
+“You'll be working on her, too.” Gretchen said snidely.
+
+“Well, I can't actually tell her no.” Ren said and motioned for them to start walking. “Not after our joined marks resonated together.”
+
+“They did?” Dana asked, surprised.
+
+Ren nodded. “I did feel the same connection with Valercia that her father and her future mother-in-law felt with each other.”
+
+“...and that doesn't scare you?” Gretchen asked. “Love at first sight? Or third sight?”
+
+Ren chuckled. “It's different than love... at first, anyway. Right now it's just a connection that gives us instant chemistry, and that could lead to...” He stopped talking for a moment. “I can't really explain it, actually.”
+
+“Try.” Dana said and squeezed his hand.
+
+“Since my girlfriend told me that I could do anything I wanted in the game, which was honestly a surprise for me, I... well...” Ren slightly squeezed Dana's hand back. “...things have been... I don't know... easier? Less stressful?” He shrugged. “Relief seems to fill me when I get into situations like that, instead of being anxious and not knowing how to handle things without causing someone some pain. I don't know if it's my own repressed wish-fulfillment, or something the game lets me feel because I'm more relaxed about it all. I'm also not trying to fight against everything that's happening.”
+
+Everyone fell silent until they had walked down the street and reached the door ramp.
+
+“Ren, would being more relaxed really make everything more fun?” Dana asked.
+
+“Well, that would depend on what you're doing. Of course, there's really only one way to find out.” Ren said and turned towards the succubi tower. “How about we all hang out and relax at the water park for a few hours.”
+
+“How long did you say?” Gretchen asked, surprised.
+
+Ren grinned at her. “At least until the sun comes up.” He said. “What do you say?”
+
+“We are going to be so exhausted tomorrow.” Gretchen said.
+
+“Don't worry. I can cast the Energize spell as many times as I want.” Ren said, and that made her and Dana laugh.
+
+Gretchen slowed her pace and dropped back slightly from walking beside Ren and flexed her empty hand. She wasn't sure what she should feel about him not taking her hand when he had easily taken Dana's. She wasn't even sure she liked Ren, and yet there was something about him that was appealing. She couldn't decide if it was his openness, his kind of carefree spirit, or his ability to deal with everything with a smile.
+
+Ren being cute was not enough to gain her interest, however. It had to be something else and she couldn't figure it out. Gretchen did know that she didn't like him doing whatever that was in front of her friend. She told her friend not to be upset about it; but, he didn't even really consider them and their feelings when he approached that woman. Then he made her a queen.
+
+He made her a Queen. Gretchen thought in surprise, now that she had some time to think about it. He said a few simple words and she was a Queen. Just like that.
+
+Ren felt Gretchen's emotions and he wasn't sure what he could do to stem their flow. He didn't look at her face to see if she was telegraphing what she was thinking, because he didn't want her to think that he was trying to pry into her private thoughts. He wasn't sure why he wanted to calm her down, though. It wasn't really his place to do that, especially since he did kind of trample on the potential friendship he had with them, because of what he did with Valercia.
+
+Ren closed his eyes and calmed his own thoughts. Worrying wasn't going to make things better, and he had a lot of time to waste before morning. They walked all the way across the distance to the succubi tower, and then Seldanna flew down and landed in front of them.
+
+“My King.” Seldanna said and bowed.
+
+“Hi, Seldanna.” Ren said. “You're still up?”
+
+“I'm waiting for you before going to bed, My King.”
+
+Ren smiled. “It's going to be a few hours before I can sleep.” He said. “My friends and I were about to play on the water slides.”
+
+“Is that what those big channels are?” Seldanna turned and looked at the roost. “For water?”
+
+Ren activated the Water and Wind runes at the top and water flowed down the slides and into the pool.
+
+“Amazing.” Seldanna, Dana, and Gretchen said together.
+
+“The shop is right over here.” Ren said and pointed to a vendor booth with change rooms attached. They all walked over to it, and Ren unlocked the front door and opened it to let them in.
+
+“Oh, my god!” Dana let Ren's hand go and ran inside. “Gretchen! Look at this!”
+
+Gretchen went inside and stared at everything. The walls inside of the shop were covered by racks and racks of bathing suits of every kind and type that Ren could think of, and in multiple colors.
+
+“This is... how can this be here?” Gretchen asked. “You said you just built this place!”
+
+Ren chuckled. “I made all of these when I wasn't busy with other things.” He said. “I've been planning these theme parks for a while and only just recently had the motivation to get a move on about it.”
+
+“But... but...”
+
+“I could have made it all faster and just enlarged them, but if any random spell effect hit them and disenchanted them, they would return to their original size.” Ren said. “So, I made everything full-scale and stored it.”
+
+“Wait, what?” Dana had a skimpy two piece yellow bikini in her hands and turned to look at him. “Did you say you had all of this stored?” She asked, and he nodded. “How?” She looked around. “Teela, how many bathing suits are here?”
+
+“Not counting the ones behind the counter, there are 1,225 of them.” Teela said.
+
+“That's 13 slots full right there!” Dana said. “How many parts of the building...”
+
+“18.” Ren said and pointed. “Each wall section and roof section had to be made individually.”
+
+“Then the hangers and pegs and racks and...” Dana shook her head. “How?”
+
+Ren smiled. “You lack 2 major pieces of information.” He said. “First, I have a modified Inventory and can store twice as much as normal in a single slot.”
+
+Dana and Gretchen made that little 'o' of surprise with their lips, and he held in his laugh.
+
+“The second important piece of information... is crates.”
+
+“Crates?” Dana asked.
+
+“Yes. I can store 199 bathing suits in a single slot; but, I can put several hundred of them inside a single medium-sized crate and then store 199 crates in the same slot.”
+
+Dana and Gretchen gasped at that realization.
+
+“It's a shock, isn't it?” Ren said and touched one of the pair of swimming trunks that hung by the door. “Such a simple idea, and you can increase your carrying capacity a thousandfold.”
+
+“How can you hold so much?” Dana asked, then shook her head. “No, never mind. I was there when you maxed your level.”
+
+“I've been able to hold a lot more than I should for a long time.” Ren said, and Teepo chittered in laugher.
+
+“He nearly killed himself the first time he tried to carry a house.”
+
+“WHAT?!?” Dana and Gretchen yelled, and Ren laughed.
+
+“I'll tell you the story while you both are trying on what you like.” Ren said and motioned to the change rooms. Both women nodded and grabbed several different suits and entered the change rooms.
+
+“Okay, start talking.” Gretchen said. Ren sat down on a chair in the middle of the row of chairs by the wall. Artemis sat on one side and Seldanna sat on the other. He started talking and Gretchen didn't feel uncomfortable with hearing his voice as she stored her clothing. She tried on bathing suits and listened to a guy talking, and it didn't bother her at all that there was only a thin door between her nakedness and a man.
+
+“You picked up a house? A whole house? Then walked all those miles to deliver it?” Dana asked from the next stall.
+
+“Yeah.” Ren said.
+
+“That was pretty stupid.” Dana said, and that made Gretchen laugh. “Hey, it was!”
+
+“I know it was.” Ren said, and they could hear the amusement in his voice. “It was also a valuable lesson.”
+
+“What lesson was that?” Gretchen asked and stepped out of the change room wearing the suit she liked the best. It was a bright blue one piece that hugged her figure well, and she had her mid-back length brown hair tied back into a ponytail.
+
+“Never bite off more than I can chew.” Ren said and looked at her face. “Can I compliment you without you getting upset?”
+
+“That depends on if you leer at me or not.” Gretchen said, and he felt her niggling anger.
+
+“You look stunning.” Ren smiled, and his eyes never left hers.
+
+“How can you do that?” Gretchen asked before she thought about not asking what she really wanted to know.
+
+“Do what?”
+
+“How can you keep eye contact, even when I was topless, and not look at the rest of me.” Grechen asked as her face flushed red.
+
+“That's easy enough to answer.” Ren said. “I'm not talking to your body, I'm talking to you.”
+
+Gretchen's face flushed to a darker red.
+
+“Ta-da!” Dana stepped out of her change room and she wore the first suit she had picked up. The yellow skimpy two piece. It highlighted her dirty-blonde hair nicely, and she had her hair tied back into a ponytail as well.
+
+“Very nice.” Ren said and clapped his hands a little to give her the applause he felt she wanted. “What did you do with the other suits?”
+
+“They're right here.” Dana said and lifted out a tangled mess.
+
+“Go ahead and store them.” Ren said. “Gretchen, you too.”
+
+“What?” Both women said and held the bundles in their hands.
+
+“Once you wear them, they form to you.” Ren said. “They won't fit anyone else now.”
+
+“W-why didn't you say anything?” Dana said sadly. “I wouldn't have tried on so many if I knew I couldn't give them back.”
+
+Ren felt the both of them start to get depressed, and he stood up and walked over to them. “Please store them and don't be sad that I enjoyed this.” He said, and they both looked at him with wide eyes. “I really liked feeling your feelings while you tried on the different suits.” He said. “I also like that you chose the best suits that fit you and thought I would like to see on you.”
+
+Both women's faces were bright red by this point, and he took their hands.
+
+“Thank you very much.” Ren said sincerely, and both of them nodded.
+
+“Wh-what about you?” Dana asked.
+
+“Me? I could never look good in a bikini.” Ren said, and she snorted a laugh.
+
+“You know what I meant.”
+
+Ren smiled. “Unlike you, I can get away with just wearing a pair of swimming trunks.”
+
+“Oh, really?” Gretchen said and held up a pair of Speedos. “Then what are these for?”
+
+“Sale.” Ren chuckled.
+
+“If you get to see us in bathing suits, it's only fair that we get to see you in these.” Dana said and took the Speedo from Gretchen and slapped them against his chest. “Get changed.”
+
+Ren opened his mouth to say that he already had swimming trunks, then felt how adamant they were. “Okay.” He said and let their hands go to grab the Speedo, stepped by them, then entered the change room.

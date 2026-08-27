@@ -1,0 +1,325 @@
+---
+id: dec193a3-1441-5a9b-a920-fe61d2ec3a07
+page-type-slug: story-chapter-royal-road
+title: "Chapter 652 - Back To Walin County"
+slug: 0653-chapter-652-back-to-walin-county
+partOf: mythrans-master-of-all-continued-completed
+position: 653
+ownLength: 2924
+unit: words
+publishedAt: 2018-07-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/238586/chapter-652-back-to-walin-county"
+royalRoadId: "238586"
+---
+
+Ren woke up after an hour, equipped his platinum armor and checked his status. Show Status. He thought and the popup appeared, because he no longer had problems giving the game mental commands.
+
+Status
+
+Name  Ren (Neram) Level  999
+
+Gender  Male  Class  Artificer/King
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Tainted King  All Auras maxed. You must be acknowledged. Grants skills: This Is Mine! & Autocracy
+
+Sea Dweller (Honorary)  Grants Water Manipulation Skill, Water Conversion Ability, and Sea Dweller (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Vasalor's Chosen  (No Description)
+
+Teach Me No More  All currently known skills and abilities are Mastered
+
+Health  99,999 (Maxed 99,999)  Mana  99,999 (Maxed 99,999)
+
+Strength  28,188 (+15,140)  Dexterity  28,079 (+15,140)
+
+Vitality  28,065 (+15,140)  Agility  28,086 (+15,140)
+
+Endurance  28,076 (+15,140)  Intelligence  28,095 (+15,445)
+
+Luck  99 (+142)  Wisdom  28,110 (+15,445)
+
+“Wow.” Ren said out loud after he read the stats.
+
+“Hm?” Artemis opened her eyes. “Ren?”
+
+“I didn't mean to wake you. I was just checking my stats.”
+
+“They're outrageous, aren't they?” Seldanna said, and Ren chuckled.
+
+“I could joke about it depending on the definition...”
+
+“...but, that would be superfluous.” Seldanna said and kissed him. “That was a good nap.”
+
+After a few minutes, everyone woke up and equipped their various outfits to prepare to leave. Ren led the succubi and pixies out of the bedroom and down the stairs to Princess, who offered to carry the pixies. The pixies thanked her and sat on her saddle, except for Suniva, who sat on Ren's shoulder. They left the house and Ren felt someone's intense concentration directed at him.
+
+“I'll be right back.” Ren said to his group and disappeared.
+
+Dana, from her hiding spot two buildings away, saw Ren disappear. “Hey, where did he-AHH!”
+
+“Why are you... oh! Hello, Dana.” Ren said as he appeared in front of her. “Hi, Dana's friend.”
+
+Dana had a hand on her chest and panted to try and calm down, and her friend had reacted emotionally but didn't show it.
+
+“It's Gretchen.”
+
+“Hi.” Ren said and turned to Dana. “I meant to scare you, but I'm sorry it was you.” Ren said and took her hand and held it with both of his. He poured Reassurance out to her and she relaxed. “Have you been watching me?”
+
+“I...” Dana knew she couldn't lie when asked so obviously, not and look like a fool. “...yes.” She said and sighed. “I wanted to know how long you were going to stay in there.”
+
+“I didn't stay inside.” Ren said and smiled.
+
+“Wh-what?”
+
+“I can cast portals and can leave whenever I want without actually leaving the building.” Ren said.
+
+Dana opened her mouth to tell him how stupid she was to miss something so obvious, and he laughed, pat her hand, and let it go.
+
+“It's okay. I missed something completely obvious this morning that I felt extremely stupid.” Ren said. “If Teepo hadn't mentioned it, I wouldn't have thought of it at all until I had to go to work.”
+
+“Work?”
+
+“Not in the sense you think.” Ren said. “Just things I want to do before the arena fight in two days.”
+
+“I can't wait to see you fight.” Dana said excitedly.
+
+“Say, would you want to do me a favor?” Ren asked, and her face lit up.
+
+“That depends on what it is.” Dana's friend said.
+
+Ren chuckled. “I was going to do it myself, but I have to set everything up at my county.” He said and took out a stack of parchment paper. “This might take a few hours, so I want you to be sure you want to do this.”
+
+“What is it?”
+
+“Flyer delivery.” Ren said, and the two women looked at him with wide eyes. “I'm sure my message inviting all the Adventurers didn't get to everyone, so I want to invite everyone to come.”
+
+“Are... are you serious?” Dana's friend asked. “You want us to hand out flyers?”
+
+“No, no. I want you to go to the general stores in every town on the Portal Gate network and ask them to put this flyer in their window.”
+
+Dana and her friend just stared at him.
+
+“I know it's a lot of work.” Ren said and turned slightly away. “Just a second.”
+
+Dana watched as Ren stored the flyers and started to fiddle around in the air. Ren had opened the Land Owner menu and created a new quest. He added XP and money for completing it, a bonus magical item, and XP and money bonuses for every shop they managed to put the flyers in.
+
+“Okay, that's set.” Ren said and looked at Dana and her friend. “Now, some of the shopkeepers might want money for putting the flyer up in their shop, so you can negotiate and offer them up to 10 copper. Not per day or anything, just a one time fee.”
+
+“But...”
+
+“I'll give you funds to cover having to pay all of them and you can keep any extra.” Ren said and smiled. “So, what do you say?”
+
+Dana and her friend gasped when they received a quest popup. “Is this for real?”
+
+Ren chuckled. “As a business and land owner, I can grant quests.”
+
+“A-any quest?”
+
+“Within reason.” Ren said. “I'm sure I can't set a quest to, say, sweep my floor and I'll give you a thousand XP and 10 platinum coins.”
+
+Dana and her friend gasped again, then almost yelled. “We'll sweep your floor! All your floors!”
+
+Ren chuckled. “I just said I didn't think I could do that.”
+
+“Geez, don't get our hopes up like that.” Dana's friend said, and Ren laughed.
+
+“You have a perfectly good quest sitting right in front of your eyes.” Ren said. “What do you say?”
+
+“We'll take it.” Dana said, and her friend nodded, then they both said 'yes' out loud.
+
+Ren turned back to his screen and saw the quest was accepted and closed the Land Owner menu. “I want you to be careful, okay?” He cautioned them. “You'll probably meet a lot of Adventurers along the way, so if you get into trouble or need me for anything...” He handed Dana a brooch with a button on it. “...tap this.”
+
+“What is it?” Dana asked and pushed the button, and activated the Panic Aura inside. Ren, Artemis, the succubi, and the pixies all caught their breath. Ren took Dana's hand and hit the button.
+
+“It's a panic button.” Ren said and relaxed.
+
+“Wow, really?” Dana turned it over. “How does it work?”
+
+“Trade secret.” Ren said. “I'll have my artificial Aura active, so I'll feel that anywhere in the country.”
+
+“That's so cool.” Dana said and stored it.
+
+“I suggest you wear it.” Ren smiled. “It's easier to reach that way.”
+
+“I don't have a lot in inventory, and I don't want anyone to steal it.” Dana said.
+
+Ren shrugged and handed her the stack of flyers. “I have lots of extras of course. You can leave a few in each store if they want them.”
+
+“Cool.” Dana said and gave half of the stack to her friend and they stored them.
+
+“Here's the money for fees in the stores, if they want to haggle.” Ren said and handed the money to Dana. “You're both on the quest, so either or both of you can do it.” He said and gave them several silver each. “This is for the Portal Gate fees.”
+
+“Oh! You're giving us that, too?” Dana's friend asked. “Isn't that like paying yourself?”
+
+Ren nodded. “Rather than trying to make exceptions for you through the portals, it's easier to just give you the money because I'll get it back when you use it.”
+
+“Thanks.” Dana said. “I guess we should get started.”
+
+“Just a second.” Ren said and took out the All-Seeing Mirror. “I'm pretty sure the General Store is in the same place in every town; but, I should check just in case.”
+
+Ren asked for the information and the All-Seeing Mirror showed him there were several exceptions. He asked for the generic map first and enlarged the All-Seeing Mirror to twice it's size. He took out several more pieces of parchment and the Image Capture Device. He took a picture of the mirror and transferred the image to a piece of parchment, then asked for the exceptions and did it to those as well. Dana and her friend just stared at Ren as he handed them the full color and finely detailed maps.
+
+“You can make those out, right?” Ren asked them, and they just kept looking at him. “I can make them bigger if you want.” He said and cast Permanent Enlarge and Reduce Anything on the maps and they doubled in size. The large maps flopped in their hands and they kept staring at him.
+
+“I think they're amazed at you taking a picture.” Teepo said wisely, and Ren chuckled and made the maps smaller.
+
+“Hey, Dana!” Ren exclaimed and both she and her friend blinked their eyes. “Smile!”
+
+Both women smiled and Ren took their picture. He put it on a piece of parchment and gave it to Dana, then did it again and gave it to her friend.
+
+“I'll be at my county, out behind the starter city there, near the succubi roost.” Ren said. “When you're done, come there to finish the quest.” He smiled at them. “See you later.”
+
+“O-okay.” Dana said and watched Ren walk back over to his friends, then they all took off up into the air and disappeared from sight.
+
+*
+
+“Okay, that was weird.” Dana's friend said. “Another Adventurer gave us a quest.”
+
+“A really easy quest.” Dana said and looked at the picture of her and her friend Ren had given her. “It's so detailed.”
+
+“I know.” Her friend said. “I didn't know there was a way to take pictures in the game, except for screenshots.”
+
+“Me, either.” Dana said and stored the picture. “These maps...”
+
+“...could be worth a lot of money to the right person.” Her friend said. “Not necessarily the generic one; but, I guess even newbies could use a generic town map.”
+
+“Don't you think that's wrong? I mean, should we even think of selling them?” Dana asked.
+
+“He didn't say we couldn't.”
+
+“What if he asks for them back?”
+
+“He can ask, but I doubt he will. We won't sell the originals, if it makes you feel better about it.” Her friend said. “Let's pop in the Library and see what they charge to make copies.”
+
+“What if they can't? Or won't? Or it's too expensive?”
+
+“Geez, Dana.” Her friend laughed. “We ask around to see who can.” She said and took her friend's hand and dragged her down the street towards the main part of the city and the Library.
+
+*
+
+Ren and his group landed beside the succubi roost and the pixies immediately hopped off of Princess' saddle and stood in front of Ren's face.
+
+“Ren! Thank you so much for everything!” Rainie said.
+
+“I suppose I can't be greedy and keep you around.” Ren said and kissed his fingertip, then held it out to her. It was her choice what to do with it, and she kissed it instead of pressing it to her cheek.
+
+“Kissing cousins!” Rainie giggled, and Ren chuckled.
+
+“I would thank you as well.” Luparia, the Ice pixie said in a deep cold voice. Ren held his hand out and activated his Hands of the Gods ability Freezing Hands and formed some Ice, then shaped it into a bouquet of roses. He reduced it in size and held it out to her between his thumb and index finger.
+
+“It was a pleasure making your acquaintance, Miss Winterborne.” Ren said. “I sincerely hope we can meet again in the future.”
+
+Luparia slowly took the Ice roses and squinted her eyes at him, which was the biggest reaction he had ever gotten from her. “Are you making advances on me?” She asked frostily.
+
+“Only if you are not insulted by the idea.” Ren said without any inflection.
+
+Luparia looked intensely at her best friend Indigo the Lightning pixie, who nodded. She handed the Ice roses to her, then took several steps forward and looked at Ren right in the eye.
+
+“At least you waited for an appropriate length of time before broaching the subject.” Luparia said and placed a single chaste kiss on Ren's cheek. Half of his face was covered instantly in Ice and he absorbed it.
+
+“Thank you, Miss Winterborne.” Ren said.
+
+“You may call me by my first name.” Luparia said and put a finger on his cheek and covered it Ice again. “Next time we meet.”
+
+“Of course, Miss Winterborne.” Ren said and absorbed the Ice, then she pat his cheek and walked back over to Indigo, who handed her the Ice roses back.
+
+“I'm still not going to forgive you.” Indigo said angrily to Ren, and he smiled.
+
+“I still don't deserve it.” Ren said.
+
+“You should at least say thank you.” Shanna said to her, and Indigo shrugged.
+
+“Rainie thanked him for us before and made that vow, remember?” Indigo said. “He even said that friends don't need to thank friends for their help.”
+
+“It's just polite.” Shanna said and looked at Ren. “Thank you for teaching me so much.”
+
+“As long as you keep using it and practising, I'm sure you'll discover everything you can do.” Ren said and looked at the other pixies. “I'm sure you all will.”
+
+“We will!” Rainie said and put her hand over her heart. “I sw-mhm!!!”
+
+Shanna had covered her mouth with a hand and stopped her from making another vow. “Ren, do you have a muzzle or something we can use?”
+
+“MHM MHMM!” Rainie's yell was muffled, but they all felt the accompanying emotions and laughed.
+
+“We should leave before Rainie binds us all together forever.” Breeze said. “Ren, until the Wind lets us cross paths again...”
+
+“...drift freely and float on the breath of the world.” Ren responded, and she smiled and walked away. The other pixies waved or nodded and turned and followed her. Rainie on the other hand, was dragged away by Shanna.
+
+“HMMM!” Rainie waved enthusiastically, and Ren held in his laugh and waved back.
+
+Isle stopped walking and ran back to Ren. “Okay. Tell me how you cheated and made me weightless.”
+
+Ren smiled and leaned in close, then whispered. “I used my Wind Manipulation ability to negate the last 20% and push the Anti-dark from it's limit of 80% to 100%.”
+
+“Oh, that's so sneaky.” Isle said. “Now I have to talk to Breeze about a collaboration.”
+
+Ren chuckled. “I hope you both can have fun together, since you have complimentary abilities.”
+
+“Me, too.” Isle said and turned to the last pixie. “Suniva? Are you coming?”
+
+Suniva looked at her and then at Ren, and he felt her indecision.
+
+“I'm staying here all day to work and then I'm going back to Aurora.” Ren said. “If you want to keep spending time with me, you'll have all day to do what you want, then you can come stay with me tonight.”
+
+Suniva smiled and darted forward, kissed his cheek and covered it in Fire, then flew after the pixies.
+
+“All right.” Ren clapped his hands and rubbed them together as he absorbed the Fire Suniva had given him. “Teepo, you're the layout expert. Keep me on the right path.”
+
+“On it, Ren!” Teepo said and flew up into the air to an appropriate spot. “Okay, take out the first length of track!”
+
+Ren took out the large section of flat track that was actually full size, and placed it where Teepo directed. The next piece was attached with molten metal, then the next piece curved up into the air on a sharp angle onto metal scaffolding. Ren continued to add pieces and the track rose up into the air to a huge drop-off.
+
+“People are going to love this.” Ren said and added the magical lift to the track to pull the carts to the top of the incline, then with Teepo's help continued to add pieces to the solid metal roller coaster.

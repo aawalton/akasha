@@ -1,0 +1,287 @@
+---
+id: 29f76bc6-2d35-5854-9100-d1391cf29fd1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 627 - Plotted Plan"
+slug: 0628-chapter-627-plotted-plan
+partOf: mythrans-master-of-all-continued-completed
+position: 628
+ownLength: 2677
+unit: words
+publishedAt: 2018-07-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/230198/chapter-627-plotted-plan"
+royalRoadId: "230198"
+---
+
+Notice!
+
+You have gained a new Title: Teach Me No More
+
+This title can only be earned when you can no longer gain XP from skills or quests. Your skills are above reproach and no one can dispute your mastery of them. All currently known skills and abilities are Mastered.
+
+“Whoa.” Ren said at the popup. “How can... does that mean... what about...?”
+
+“Even the things you just gained.” Teepo said from his shoulder. “I have the title, too.”
+
+“As do I.” Artemis said. There was a loud crash and then Princess was instantly there beside them.
+
+“My King, thank you.” Princess said. “You have honored me.”
+
+Ren scratched her chin and then took out the All-Seeing Mirror and checked the house in the Housing District. The door and frame were smashed to pieces, so Ren concentrated on it and poured Mana into his Aura. The house healed itself, thanks to his ability to repair things he owned, and he was glad that he no longer needed to touch it directly. He stored the mirror and decided to check his status.
+
+“Show Status.”
+
+Status
+
+Name  Ren (Neram) Level  999 (Maxed)
+
+Gender  Male  Class  Artificer/King
+
+Race  Elfling  Fame/Infamy  10,000 (Revered)
+
+Dwarven Kingdom:
+
+Influence  1,000,000  Honor  250,000 (Untouchable)
+
+Giant Kingdom:  Dark Elven Kingdom (Royal Consort):
+
+Respect  26,000  Influence  1,000,000
+
+Titles
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Tainted King  All Auras maxed. You must be acknowledged. Grants skills: This Is Mine! & Autocracy
+
+Sea Dweller (Honorary)  Grants Water Manipulation Skill, Water Conversion Ability, and Sea Dweller (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Vasalor's Chosen  (No Description)
+
+Teach Me No More  All currently known skills and abilities are Mastered
+
+Health  33,773 (Maxed 99,999)  Mana  36,788 (Maxed 99,999)
+
+Strength  4,173 (+15,140)  Dexterity  4,064 (+15,140)
+
+Vitality  4,049 (+15,140)  Agility  4,071 (+15,140)
+
+Endurance  4,059 (+15,140)  Intelligence  4,080 (+15,445)
+
+Luck  99 (+142)  Wisdom  4,095 (+15,445)
+
+Ren read it over and looked at his main stats, and frowned. “That's all?” He asked. “I've maxed out my character, and yet it didn't raise my stats enough to max my Health or my Mana?”
+
+“What was that you said?” Dana asked.
+
+“I'm level 999, but none of my stats give me full Health or Mana.” Ren said. “That doesn't seem right, especially since I get twice the stat points per level.”
+
+Dana and her friend stared at Ren like he had two heads.
+
+“It takes me twice as long to level, so I get extra points.” Ren said, but that didn't change their expression. “Actually, that would mean a normal character wouldn't have gotten as many stat points for maxing their level, and their numbers would be a lot lower than mine.” He said, then his eyes widened. “Oh, wow. Since my stats are automatically allocated for balance, then someone assigning their own stats would only have one, maybe two comparably high stats and the rest would be really low.”
+
+“What... what are you talking about?” Dana's friend asked.
+
+“Nothing.” Ren said and smiled at the two women. “It's just something else I need to talk to a friend about.”
+
+“My King, I should return.” Tiatha Miarora, the Dark Elf healer said. “I feel her calling me.”
+
+“Oh! Of course.” Ren said and turned to her, then stepped close and put his arms around her. “Thank you so much for doing this for me.”
+
+Tiatha's face flushed to a darker grey. “I would do anything for you, you know that.”
+
+Ren smiled. “Then give our Dark Queen a kiss for me.” He said and gave her a quick kiss on the lips.
+
+“It won't mean the same coming from me, but I will do as you ask.” Tiatha said.
+
+“Thank you.” Ren said and recalled the last time he had seen her. “This kiss is for you, and for you alone.”
+
+Tiatha gasped as he kissed passionately and poured his emotions into her. She glowed instantly and wrapped her arms around him, then moaned her pleasure into his mouth. Most of the crowd that had gathered around during the spectacle were slightly uncomfortable at the sight and felt like they were intruding on a personal moment, but Dana and her friend felt completely differently.
+
+“Look at that.” Dana whispered and almost moaned herself. “I'd kill for someone to kiss me like that.”
+
+Her friend only nodded agreement and the both of their bodies started to react to the sight. Ren felt this and slowed down the emotions he was feeding Tiatha, then broke the kiss.
+
+“Do you want me to open a portal?” Ren asked, and Tiatha opened her eyes.
+
+“My Queen is... yes, please.” Tiatha said, because she was hesitant to describe out loud the state her Queen was currently in. Ren used the All-Seeing Mirror to check the throne room and cast the Portal Spell.
+
+“Thank you again.” Ren said. “You really helped me out today.”
+
+“If you need me for anything else, just call.” Tiatha said, then leaned in and kissed him on the lips.
+
+“Oh, before I forget.” Ren took her hand and turned it over.
+
+“What are you doing?”
+
+“As the Royal Consort of the Queen of the Dark Elves, I hereby bequeath to you the emotion tithe I am to receive every month.” Ren said and bit her wrist. Tiatha gasped as her blood bubbled out from the wound and Ren licked it. He deactivated his Regeneration ability and bit his own wrist, then held it out to her.
+
+“My King, I...”
+
+“Do you refuse?” Ren asked.
+
+“NO!” Tiatha yelled, grabbed his wrist, and licked and sucked on his blood for a second. She then took his wrist and pressed it to hers, and they both glowed for a moment. “I would never refuse you anything!”
+
+Ren smiled and activated his Regeneration, then cast a Minor Healing spell that healed her wound. “I hope you can put it to good use.”
+
+“My King, I... you give away too much.” Tiatha said. My blood on his lips, his blood on mine. She thought, and she was filled with happiness.
+
+“I can't use it anymore, so I'm passing it on to you.” Ren said and felt her happiness, and let her feel his happiness in return. “It was nice seeing you again.”
+
+Tiatha saw a dribble of blood on the side of his mouth, so she stepped close and licked it, then on impulse kissed him again. Ren didn't try to back away or stop her, and her heart fluttered. She knew he would let her kiss him for as long as she wanted, so she broke the kiss on her own and stepped back.
+
+“It was nice seeing you again as well, My King.” Tiatha said and stepped through the portal. Ren checked the All-Seeing Mirror to see that she was clear of the other side and dismissed the portal.
+
+“That was super-hot, except for near the end part.” Dana said and tried not to gag. “What was with the blood thing?”
+
+“She needed it to prove that I really gave her permission.” Ren said. “It's a Dark Elf thing.”
+
+“But... aren't you, like... human?”
+
+“Elfling.” Ren said and pointed to his ears.
+
+“Oh, I didn't notice.” Dana said.
+
+Ren smiled. “No one really does.” He said and turned to Artemis. “Ready for the next stage?”
+
+“My expertise is at your command.” Artemis said and flew up into the sky.
+
+“Mine, too.” Teepo said and flew up into the sky with her.
+
+“I will clear the way if they need it, My King.” Princess said and braced herself to run.
+
+“I'm sorry I didn't invite you when I made the Portal Gate Network.” Ren said. “There just wasn't time to have you carry me everywhere.”
+
+“I know, My King.” Princess said. “Despite being so fast, I still cannot travel instantly.”
+
+“What about...”
+
+“Suniva was kind enough to help me spread out my stat points.” Princess said. “I am ready for this.”
+
+“Okay.” Ren said and scratched her chin, took out the Staff of Earth and closed his eyes, then concentrated on all of the large steel squares he had buried. With the staff and it's Move Earth ability, he pushed the dirt away from above them and then shoved the dirt underneath them to raise them up several feet. With them fully exposed, he could now do what he wanted.
+
+“Here we go!” Ren said and concentrated on the Light runes on them. “Activate!”
+
+A bright blinding Light emanated from all the steel squares and everyone covered their eyes from it. Since all the steel squares were all within his Aura, his Aura was completely filled with Light. Hundreds of Void presences were revealed when the Light hit them, and Ren felt their appearance.
+
+“Teepo! Artemis!” Ren said, and then Teepo and Artemis combined their strengths to pinpoint and shoot each and every one of them that they could see. “Princess!”
+
+Princess disappeared as she ran into the sky and Ren used his Heat Sense to track her movements.
+
+She really is a lot faster now. Ren thought.
+
+*
+
+Princess smashed through part of King Alamast's castle and through the room that he, his wife, and Princess Diana were in. She continued into the hallway through the wall as if it wasn't there, and the maid and butler started to scream as the pure Light hit them. King Alamast gasped as the maid and butler were then disintegrated with Mana blasts.
+
+Princess turned around and looked at Princess Diana. “Princess.” She said and ducked her head, then disappeared from sight as she ran back out through the holes she had made.
+
+“What was that?!?” King Alamast exclaimed as a bit of the external wall crumbled from Princess' second pass through it.
+
+“He's protecting us, apparently.” Diana said.
+
+“By wrecking everything?” King Alamast asked, and she laughed.
+
+“No, Dad. He's very specifically only doing the bare minimum damage to achieve his goal.” Diana said.
+
+“This is not the way to go about it.” King Alamast said.
+
+“It's the most efficient.” Lady Eleanor said, then blinked her eyes. “I don't know why I know that.”
+
+Diana sighed. She was right before. He doesn't hold sway over her mind or her heart. She won't admit that she has a connection to him, despite all the evidence to the contrary.
+
+“I'll contact the Stonemasons Guild.” Diana said and stepped out through the large hole in the room's wall.
+
+*
+
+After smashing into several different buildings all across the country, Princess ran back to Ren.
+
+“I cannot get to several of the underground ones.” Princess said.
+
+Ren felt several portals open up in those locations. He changed his concentration to the Anti-void runes and activated them. He couldn't feel the emotions of those beings; but, when all the portals immediately closed, he did feel that several of the presences disappeared.
+
+“Just a minute.” Ren said and used the Staff of Earth to pull the dirt away from those locations to give Princess access to get in. “Okay, go!”
+
+Princess took off and ran as hard as she could, did a once around the first location, then picked her approach. She smashed into the underground lair and rammed into the one Ren felt was the Void presence. The being died when she squished it into a pulp against the solid stone wall, then everyone in the room turned to look at her.
+
+“Don't just stand there! That thing killed Larson!” One of them shouted and drew his sword as the others blocked her path to leave.
+
+“I can kill you, too.” Princess said, and all of the people there froze still.
+
+“Did... did you just talk?”
+
+“No. It is a magic spell.” Princess huffed. “Move or die. There is no third option.”
+
+“I believe you are in an enclosed space and we all have weapons.” The guy said with confidence and some uncertainty. “There's no room for charging speed in here.
+
+“I believe you are mistaken.” Princess said and took a step up into the air... and didn't fall down.
+
+“What is it doing?” Someone asked.
+
+“Charging you.” Princess said, then did a quick loop in the air that was barely 5 feet from where she started and charged the closest man. She pulverized his head with one of her horns and that gave her even more room to run. She did an even bigger loop in the air this time, and the men started screaming. She made short work of all 8 of them, and none of them even managed to raise their swords.
+
+“Pathetic.” Princess said and wiped her hooves on the last man's tunic, then ran out through the hole she had made in the stone and up the trench Ren had made for her. She ran to the next spot and only found a single being there; but, it had been sliced in half vertically by the portal. She went to the next spot and killed another one, then went to the last spot and found two more partial bodies. With her task complete, she returned to Ren in Aurora, and Artemis and Teepo landed as she arrived.
+
+“That's all of them.” Ren said and dismissed the popups for killing Void creatures because he didn't gain anything from it. He also deactivated the Light and Anti-void runes, then used the Staff of Earth to return the steel squares to their proper places slightly underground.
+
+“Excuse me. I have a question.” Dana asked.
+
+Ren turned to look at her. “Go ahead.”
+
+“You're already max level, right?” Dana asked. “Isn't it kind of pointless to do this if you don't gain experience anymore?”
+
+“It might be pointless for me and my party, if XP was all that we wanted.” Ren smiled and stopped concentrating on the large artificial Aura. “So, aren't you glad that I don't think it's pointless?”
+
+“Especially for everyone else's sake.” Artemis said and put an arm over his shoulders. “I think you need a break.”
+
+“...and I think you just want to see me naked again.” Ren said, and she laughed.
+
+*
+
+Dana and her friend watched as Ren put an arm around the tall metal woman's waist, then as they walked down the street with a giant ram beside them.
+
+“So, are we still following him?” Her friend asked. Dana nodded without saying a word, and they walked up the street behind the most amazing person she had ever seen.
+
+*
+
+Ren, Artemis, and Princess casually walked back to the house. Princess went to her room and Ren and Artemis went up the stairs. He opened the bedroom door and saw a disgruntled 1 foot tall pixie sitting on the headboard with her arms and legs crossed, and saw 4 unconscious succubi on the bed with looks of pure enraptured joy on their faces.
+
+Ren held in his laugh at the sight. “Oops.”

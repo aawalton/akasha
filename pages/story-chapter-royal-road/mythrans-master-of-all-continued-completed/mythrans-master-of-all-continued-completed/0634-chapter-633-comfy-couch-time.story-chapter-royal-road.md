@@ -1,0 +1,247 @@
+---
+id: a3b48ee2-a524-50f3-a533-1c6e8053d943
+page-type-slug: story-chapter-royal-road
+title: "Chapter 633 - Comfy Couch Time"
+slug: 0634-chapter-633-comfy-couch-time
+partOf: mythrans-master-of-all-continued-completed
+position: 634
+ownLength: 2622
+unit: words
+publishedAt: 2018-07-09
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/232291/chapter-633-comfy-couch-time"
+royalRoadId: "232291"
+---
+
+Barbi and Ren watched the show and he explained everything he did, and Barbi was blown away at the details he gave her. By the time he was done, the show was over and she felt like she had done everything he said and it wasn't just a story he told her.
+
+“You're a really good storyteller.” Barbi said.
+
+“I always have been.” Ren said and smiled. “I didn't know I was until after I arrived at the hospital, though. I watched so much television and Barbara read me so many stories to me at night, that I've had lots of comparisons.”
+
+“Barbara must have enjoyed that.”
+
+“Oh, she did.” Ren said. “Once she discovered that I had never heard a children's story before, well...”
+
+Barbi smiled. “I think I would have enjoyed that, too.”
+
+“Which part?” Ren lifted his head and looked at her. “The reading to me part or the listening to Barbara part?”
+
+“Both.” Barbi said. “Some of my fondest memories are of my mom reading to me.”
+
+“Mine, too.” Ren said and put his head back against her breast. “Not my biological mom, though. My real mom.”
+
+Barbi heard a footstep and turned her head to look, and saw Elise walking towards the living room. She didn't see Barbara walk away in the other direction.
+
+“Hey, are you muscling in on my man?” Elise joked as she entered the room.
+
+“It's more like he's muscling in on me.” Barbi laughed. “He's pretty smooth.”
+
+“Ren, are you making time with Barbi?”
+
+“If you mean spending some quality time with a friend and sharing some deep and personal secrets, then yes.” Ren said. “If you mean putting the moves on her and getting her excited, then no.”
+
+“Oh, really?” Barbi chuckled. “Who has his hand on my thigh and his cheek on my breast?”
+
+“Me, but we're just cuddling.” Ren said. “It's not making you excited, though.”
+
+“How exactly do you know that?” Barbi asked, curious.
+
+“I can hear your heart beating.” Ren said. “It's a solid thumping rhythm, so you're calm and relaxed.” He said. “Now, if I did want to make a move on you...” He tapped his index finger on her thigh and she looked down at his hand. “...your skirt is quite short while sitting down.”
+
+“Ren.”
+
+“Relationships don't just happen at the drop of a hat.” Ren said. “It's a dozen smiles. It's a hundred little touches. It's a thousand brief moments that all combine together and become something that people can share and say, this is us.” He said and tapped his middle finger, then his ring finger and pinkie finger in turn, then tapped them all in quick succession. “You need a good foundation, and you have to build on top of that.”
+
+“What are you saying?” Barbi asked. Her eyes still watched his hand and she wasn't sure if she wanted him to do more than tap on her thigh.
+
+“We're up to 8 smiles and 57 touches already.” Ren said and stopped tapping his fingers. “Let's not rush things.”
+
+Elise slipped off her business suit coat and sat down on Ren's other side after moving the remote to the end table on the other side of the couch, then shimmied in close. “You laid that on pretty thick, Ren.” She said and put her arm over Barbi's shoulders.
+
+“I just wanted Barbi to know that I'm not sitting here and taking her for granted.” Ren said. “I'm not pawing at her or trying to cop a cheap feel, and I don't want her to worry that that would be what I'd be doing if given the chance.” He lifted his head from her breast when he heard her heart beat faster, and smiled at her. “Or another chance, I should say.”
+
+Elise chuckled. “Down, boy.”
+
+Ren turned his head and looked up at her. “Are you implying that I'm a dog?” He asked with laughter in his voice.
+
+“A lap dog, maybe.” Elise said and kissed the top of his head. “You're definitely making Barbi a little nervous with your barking.”
+
+Ren looked back at Barbi. “I'm always honest, so I guess I should ask you straight out.” He said. “Am I barking up the wrong tree?”
+
+Barbi took in a deep breath and let it out slowly. She noticed his eyes didn't go to her chest at all and had stayed on her eyes. “I don't know.” She said, honestly.
+
+“Good.” Ren gave her a big smile and lifted his hand from her thigh and took her hand. “If you had said no right away without thinking about it, I might be wary about your answer.” He smiled. “That you're indecisive means you're actually considering it.”
+
+“What if I had said yes, and that you are barking up the wrong tree?”
+
+“I'd ask you for a hug, give you a kiss on the cheek, and I would never bother you again.” Ren said.
+
+“Really?” Barbi asked.
+
+“I tried putting pressure on Gloria for some kind of relationship in real life, and look what happened there.” Ren said. “I won't make the same mistake with you.”
+
+“Now I want to ask you a question.” Barbi said.
+
+“Go ahead.”
+
+“If it had worked out between you and Gloria, and she started coming around more often, would you have bothered to even look at me?”
+
+Ren lifted her hand and kissed the back of it. “Do you remember how I described you that day at the pool after you flashed your chest at me?”
+
+Barbi's face lost it's liveliness. “Yes, I heard.”
+
+“I wasn't insulting you when I said you were a life-sized Barbie Doll.” Ren said and let her hand go, then reached up to briefly caress the side of her face. “I was describing you as every male's fantasy dream girl come to life.” He said. “Who wouldn't want a woman like you in their lives?”
+
+Emotion returned to Barbi's face as she took a breath in through her nose and let it out through her mouth. “You always know what to say, don't you?”
+
+“Most times.” Ren said.
+
+“It's kind of annoying.” Barbi said and smiled.
+
+“Oho! That's number 12!” Ren pointed to her mouth. “We're at a dozen smiles and 60 touches already!” He said. “What's going on? I could have sworn I said we should take things slowly.”
+
+Barbi and Elise chuckled.
+
+“I think you're being a bit too literal.” Elise said.
+
+“Not me.” Ren grinned. “I'm just the soft gooey center of a beautiful woman sandwich.”
+
+“A beautiful woman what?” Lisa asked as she came into the living room and walked around the couch. “Oh, I see.” She said as she saw Ren tucked in between Barbi and Elise. “I think you meant 'boob sandwich'.”
+
+Ren chuckled. “I was warned to not be brutally honest about some things.” He said. “Like describing the heavenly pillowy softness that my cheeks are experiencing.”
+
+Elise and Barbi looked down at him and saw that he was smiling up at them.
+
+“Thank you very much for this feeling.”
+
+“Geez, you're gushing too much.” Lisa said and sat down beside Elise. “You need to be careful that you don't come off as insincere.”
+
+“I'm sincere.” Ren smiled. “Cuddle in and see for yourself.”
+
+“There's no way I'm kicking you out of there.” Lisa said and smiled back. “You look too comfy.”
+
+“I really am.”
+
+“I've got a free arm here.” Elise said and lifted it up.
+
+“Are you sure?” Lisa asked.
+
+“Ren said he wanted to cuddle for a while. He didn't say only with me.” Elise said.
+
+Lisa sat back and Elise put her arm over her shoulder and pulled her in close. Lisa was about to say that it was a little too close and too tight, then Elise moved her arm slightly to hug her gently instead, and Lisa fit perfectly in the space at her side. She relaxed and let herself feel the warmth Elise offered, and she snuggled in.
+
+There was a flash and Barbi, Ren, Elise, and Lisa blinked the flash away and looked up to see Stella standing partway across the living room with her cell phone pointed at them.
+
+“Now there's a pretty picture.” Stella said and brought it up as she walked over to the couch. “Isn't it?” She held it out for them to see. The 4 of them had big smiles on their faces and looked very happy.
+
+“Is that what we look like?” Barbi asked and used her free hand to reach out for the phone.
+
+“No, it's something I photo-shopped before coming in here.” Stella laughed and handed Barbi the phone so she could look at it up close.
+
+“I look so tiny.” Ren chuckled and looked, too. “Send it to us, will you?”
+
+“Sure.” Stella said and took the phone back, and then a beep came from Barbi and Elise's coats.
+
+“You should send it to Lisa, too.” Elise said, and felt Lisa stiffen under her arm.
+
+“I... I don't have a cell phone.” Lisa said.
+
+“What are you talking about?” Elise said and pulled out a cell phone from her pocket. It was bright blue and had a rubber safety cover on it in case you dropped it. “It's right here.”
+
+“Wh-what?” Lisa exclaimed and looked at the phone with wide eyes.
+
+“Look, it even has your name on it.” Elise said and handed it to her. “See?”
+
+Lisa took the phone gingerly and hit the power button, and it had Lisa's Phone on the home screen. “But...”
+
+“We might need to get a hold of you if we're out of the house, or if you are.” Elise said. “I'm sure we won't use it too often; but, you know what happens when you have one.”
+
+Lisa nodded. “If you have it, you use it.”
+
+“We meant to give it to you earlier, but with everything going on, this was the first time we've all had a chance to sit down and relax.” Stella said and sent her the photo.
+
+“Tell me about it.” Ren said. “It's nice to just hang out with friends and not have to do anything, isn't it?”
+
+“You're just lazy.” Stella chuckled.
+
+“I believe the medical term you are looking for is Procrastinitis.” Ren said. “Not only am I sufferer, I also discovered the disease.”
+
+Denise snorted a laugh as she came into the living room. “Barbara? Did you hear that?” She asked the woman beside her. “Ren's a pioneer!”
+
+“Does anyone else smell manure?” Barbara asked and swiped a hand in front of her nose several times. “Someone seems to be shovelling some in here.”
+
+Everyone laughed, including Ren. They all settled down onto the couches and Ren asked for the remote. Lisa handed it over to him and he changed the channel.
+
+“What's everyone in the mood for?” Ren asked and started flicking through the channels really fast.
+
+“Slow down, you nut.” Stella said and tried to see what was flashing by on the screen. “We can't see what's on.”
+
+“Just tell me what you're in the mood for.” Ren said and didn't slow down. Stella turned and looked at him with raised eyebrows, and he grinned at her. “All right.” He said and held the remote out. “You choose.”
+
+“We might find something now.” Stella chuckled and clicked the channel button once every second. She eventually ended on a late night game show and they watched that for an hour, then changed the channel and watched an early night talk show. It wasn't as good as the late night ones, since the jokes couldn't be as racy, but it was still enjoyable.
+
+Ren had put his hand on Barbi's thigh again during the game show and rested it there, and did the same to Elise with his other hand. Neither woman said anything and he didn't try to rub them or anything. They were only cuddling and Ren wasn't going to push, or do something with Elise and make Barbi feel uncomfortable, so he sat there between them and watched television and didn't say a word.
+
+“Does anyone want snacks?” Barbara asked.
+
+“Not me. I'm still digesting.” Ren said and pat his stomach, then put his hand back on Barbi's thigh on the exact spot it had been in before. “Thanks, though.”
+
+“Nothing for me.” Stella said.
+
+“Or me.” Lisa said.
+
+“I think it's no all the way around.” Elise smiled. “Denise made us eat too much.”
+
+“I guess I did.” Denise said with a smile. “Want me to cut down on the portions next time?”
+
+“Hell, no!” Ren exclaimed.
+
+“Ren!” Barbara chided.
+
+“I'm sorry. That deserved a bit of bad language.” Ren said and looked at her, and she raised her eyebrows at him. “It did!”
+
+Barbara smiled and nodded, and Ren looked back at Denise.
+
+“Now stop with all the crazy talk and watch the mind-numbing television.” Ren said, and she laughed.
+
+“Yes, sir.” Denise said, and they settled in to watch more television. After another little while, several yawns were heard. Ren looked around at the sound to see everyone's droopy eyes, except for Barbara's. He knew everyone was fighting off trying to go to sleep, so he pat Barbi's and Elise's thighs. They startled and looked down at him, and he smiled up at them.
+
+“I'm getting tired. Can you take me up to bed, please?”
+
+“Of course.” Elise said and turned her head to look at Lisa. “We're going to bed.”
+
+“Okay.” Lisa said and yawned, then slid forward to the edge of the couch and stood up. She stretched and yawned again and turned around to wait. Elise carefully slid out herself and stood as well, then held her hands out to Ren.
+
+“Barbi figured out that you need to hold my hips and pull.” Ren said and held his arms out.
+
+“She did?” Elise asked and leaned in, gently held his hips and pulled. Ren easily slid forward to the edge of the couch. “Good job, Barbi.” She said and helped transfer Ren from the couch to the wheelchair.
+
+“Thanks.” Barbi said and yawned. “Do you mind if I crash here again?”
+
+“Of course not.” Ren said. “In fact, I think we should all head to bed. It's been a long day.”
+
+“It really has.” Lisa said. “I need to sleep.”
+
+“I think we all do.” Stella stood up. “Looks like you have another easy night ahead of you, Barbara.”
+
+“I'm not going to complain.” Barbara said and stood as well. “Look at the company we enjoyed all evening.”
+
+“Goodnight, Barbara.” Denise said, and that was everyone's cue to leave the living room. They all said goodnight to her and went to the elevator.
+
+“I'm taking the stairs.” Stella said.
+
+“I would, but I'm on the third floor.” Denise said.
+
+“So am I.” Lisa said.
+
+“You're not coming in with me?” Ren asked.
+
+Lisa leaned down and gave him a deep kiss. “I spent a lot of time with you in the game earlier today, so I can't be greedy.”
+
+“I love you, too.” Ren said, and she kissed him again. Stella and Barbara went up the stairs when the elevator door opened, and Elise pushed the wheelchair inside. Denise, Lisa and Barbi entered as well, and the elevator went up to the second floor. Elise pushed Ren out and Barbi followed them, and Ren waved to Lisa and Denise as the elevator door closed on them.
+
+Elise pushed the wheelchair down the hallway and stopped at the spare room's door.
+
+“Goodnight.” Barbi said and reached for the door handle.
+
+“Barbi, can I ask you something?” Ren asked, and she turned to look at him. “Would you help Elise hold me tonight?”

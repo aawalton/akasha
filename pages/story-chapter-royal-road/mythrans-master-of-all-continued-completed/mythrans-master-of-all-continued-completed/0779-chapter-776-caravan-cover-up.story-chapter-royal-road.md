@@ -1,0 +1,303 @@
+---
+id: 0b0134a7-11e2-5be6-9cf8-d89bf6e843f3
+page-type-slug: story-chapter-royal-road
+title: "Chapter 776 - Caravan Cover-Up"
+slug: 0779-chapter-776-caravan-cover-up
+partOf: mythrans-master-of-all-continued-completed
+position: 779
+ownLength: 2965
+unit: words
+publishedAt: 2018-11-28
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/310442/chapter-776-caravan-cover-up"
+royalRoadId: "310442"
+---
+
+The caravan came to a stop a few minutes later, just as Teepo had said, and everyone piled out of the carriages to prepare to have lunch. Everyone was surprised when Ren's presence hadn't disappeared that morning, so when they saw him get out of the second carriage, they understood why.
+
+He hadn't left.
+
+Tatya came right over to him to investigate. “King Ren, what's going on?”
+
+“I'm sticking around for today.” Ren said. “If that's okay?”
+
+“Of course it is. You're my guest.”
+
+“Thank you.” Ren beamed a smile at her. “Is there anything that you need my help with? I'm a pretty versatile worker.”
+
+“Oh, um...” Tatya thought about it. “Could you help check over the carriages? They've been through a rough ride to come so far in so short a time.”
+
+“I'd be happy to.” Ren said and turned to his Mistresses. “I'll be back in a little while and we can sit down to eat lunch.”
+
+“We'll be here.” Yuwen said.
+
+Ren quickly gave Artemis everything to set up the proper seating arrangements and he turned to Tatya. “Is there anyone I need to report to that's doing the maintenance, or should I check everything on my own?”
+
+“I'll introduce you.” Tatya said, and Ren followed her over to one of the delegates who was talking to one of the attendants.
+
+“Make sure you spend extra time on checking the wheels of my carriage.” The delegate said. “We hit something a couple of minutes before we stopped.”
+
+“Your carriage will be the first I check, sir.”
+
+The delegate nodded and walked off, and the attendant took a quick breath and let it out.
+
+“First Attendant Gremkor, this is King Ren.” Tatya said. “He's offered to help repair and maintain the carriages.”
+
+“King Ren.” Gremkor nodded slightly.
+
+“First Attendant Gremkor.” Ren nodded slightly back.
+
+“As you may have heard, we're checking Carriage 6 first.” Gremkor said and picked up his bag of tools.
+
+“Lead the way.” Ren said, and followed the man over to the carriage in question. They examined it and found a stress crack in the right front wheel.
+
+“It seems they did hit something.” Gremkor said and ran his fingers over the crack and followed it to an indent. “Either a sharp rock or something similar.”
+
+“Do you want me to find what did it?” Ren asked.
+
+“No, it doesn't really matter.” Gremkor said with a smile. “I just like to see if I can impress people with my deductive skills.”
+
+Ren chuckled. “You mean something like... there's a bit of dirt in the indent, so the rock is partially buried and probably why it hasn't been cleared from the road.”
+
+“Very good!” Gremkor chuckled. “Have you done this before?”
+
+“No, but I can make some great educated guesses.” Ren grinned.
+
+“Yes, since that's all it really is unless you have solid proof.” Gremkor said. “Now, I wonder if we can just reinforce this with iron braces or if we have to replace the whole wheel.”
+
+“Just pop it off and give it to me, and I can restore it.” Ren said. “I assume as First Attendant, the carriages are under your direct supervision?”
+
+“They are.”
+
+“Then it should work.”
+
+They quickly removed the wheel and Gremkor gave it to Ren, who used his Possession Restoration ability to restore it to perfect condition.
+
+“That's handy.” Gremkor said and they reattached the wheel. “Could I have just given you the whole carriage and that would work?”
+
+“I don't think so, since I doubt you own everything inside and can't really give me the whole thing.” Ren said, and he had to agree.
+
+“Then we should check everything else over and make sure it's okay for the remainder of the trip.”
+
+“I take it that you do this every time the caravan stops?” Ren asked as they checked the rest of the carriage and didn't find anything.
+
+“It's usually not as extensive of a check, or as much damage, since we don't normally travel faster than the crow flies.” Gremkor said and walked over to the next carriage.
+
+Ren chuckled. “Yeah, that's why I added the extra enchantments for both Durability and Protection to the carriages.” He said and checked the other side. “There's only so many runes that they can hold, though.”
+
+“Completed items can only hold so much.” Gremkor slapped the side of the carriage when he didn't find anything wrong and moved on.
+
+“You have experience with enchantments?” Ren asked as he followed.
+
+“All the attendants do.” Gremkor said. “We learn the basics in everything, although not everyone has the ability to use what they learn.”
+
+“Yeah, I was like that with magic when I started off.” Ren said. “I picked up enchanting easily; but, it took me a long time to gain a magic ability. Of course, it was nowhere near as powerful as a real magic user, even maxed out.”
+
+Gremkor nodded slightly. “Yes, if you're not suited to it, it can still be used, just not as effectively.”
+
+They quickly checked over the rest of the carriages and ended with the one with the wolves in it.
+
+“Hey, guys!” Ren said into the cage and the wolves crowded against the cage door and started to yip at him. “Ha ha! All right.” He said and took out 6 pieces of Dretch meat and tossed one to each of them. They started to eat and Ren still had one piece left. “Hey, Gremkor! There's only 5 wolves!”
+
+“Of course there's only 5 of them. Jirqym took one yesterday morning to go to the capital.” Gremkor said.
+
+“He did?” Ren asked and stored the meat. “I wonder why?”
+
+“I only know that it was Kenkoth that ordered it and he had Tatya's permission.” Gremkor said. “I only know that much because I was sitting behind the driver of his carriage at the time and we had to deploy the tethers.”
+
+“The what?”
+
+“They're rope lines we connect between the carriages so that people can get back and forth without having to stop the caravan.”
+
+“Isn't that really dangerous?” Ren asked.
+
+“We don't do it all the time for just that reason. It's usually for emergencies only.” Gremkor said. “Well, we've finished in record time and only had one major repair to do.” He smiled. “Thanks for your help.”
+
+“You're welcome.” Ren said. “See you later.”
+
+Gremkor waved to him and Ren ran over to where Artemis had set up the table.
+
+“That was fast.” Artemis said. “No major problems?”
+
+Ren shook his head and looked at the table and chairs. It had two chairs on one side and three on the other. “What's with this setup?”
+
+“After consulting with your Mistresses, this is the proper seating arrangement for eating.” Artemis said and Tiyaphi, Yuwen and Dilseffa nodded slightly.
+
+“I assume with us on one side and them on the other.” Ren guessed correctly.
+
+“It's the best way to stop any favoritism or rivalry.” Yuwen said. “Not that there is any.”
+
+“I hope not.” Ren said. “I don't want any resentment or animosity to develop between you.”
+
+“It won't.” They promised.
+
+“So, where is our attendant?” Ren asked, and Artemis pointed to the closest cooking fire. He was gathering up some choice cuts of cooked meat and arranging them on plates before the cooks could do it themselves, then he picked up the large tray and easily made his way over to Ren and their table.
+
+Ren helped Artemis sit down, then the attendant started putting their plates of food at the proper place settings while Ren went around the table to sit Yuwen, Dilseffa, and Tiyaphi in turn. Ren went back over to his seat and sat down himself, and the attendant stood off to the side and waited.
+
+“That's an odd human eating ritual.” Tiyaphi said as they all started eating. “Do you always sit the women first?”
+
+“If you're a gentleman.” Ren said and smiled. “Also, if you arrive at the table and they haven't already done so.”
+
+Yuwen chuckled. “As your Mistresses, we're supposed to wait for you to sit first.”
+
+“Oh.” Ren said. “Well, let's dispense with that right now.” He said and used his Command Aura. “As your Inamorato, you do not have to wait for me to sit before sitting yourselves.” He smiled. “You can if you want to; but, if you're still standing, I'll seat you before sitting down myself.”
+
+Yuwen chuckled and Tiyaphi shook her head; but, Dilseffa's emotions swirled.
+
+“What is it?” Ren asked.
+
+“You can't just... why would you...”
+
+“It's simple, really.” Ren said. “Do you really want me to treat you like traditional concubines, or do you want to have a say in what you do and don't do for me?”
+
+Dilseffa's emotions didn't calm down after she heard those words. “R-Ren...”
+
+“Yes, I know it's odd to give you a choice like that.” Ren said. “Mainly because my Etiquette skill is telling me to shut up about it.”
+
+Yuwen snorted a laugh and Teepo chittered in laughter.
+
+“Then why...”
+
+“If I find something that seems too restrictive or is unfair for someone, and I have the ability to change it...”
+
+“You're a Crusader.” The attendant for Ren's carriage said in reverence. “I knew there was something about you that was different!”
+
+“Oh, my god.” Dilseffa whispered. “He's right. After all the stories you've told us, you really are a Crusader.”
+
+Notice!
+
+You have been acknowledged as being a Crusader. Your task is to protect the weak and downtrodden and to show them that life can be better than what they thought it could be.
+
+This title grants: Bolster (Skill - Mastered), Inspiring Presence (Aura - 50 feet)
+
+Wow. Ren thought. I gained a skill and it's already mastered.
+
+“That's because of your Teach Me No More title.” Teepo said in the voice only Ren could hear.
+
+But, it says that all currently known skills are mastered. Ren responded.
+
+“You know the skill now, don't you?”
+
+Yeah, I guess so.
+
+“Well then, you currently know it.” Teepo said.
+
+Holy crap! Ren thought in surprise, and Teepo chittered in laughter.
+
+“What's Teepo laughing at?” Yuwen asked.
+
+“Me.” Ren said. “I was surprised by the skill I just learned.”
+
+“How did you learn a skill? We're only eating.” Tiyaphi said and looked at her plate and smiled. “Make that done eating.”
+
+“I just gained the Crusader title.” Ren said, and they all gasped. He felt surprise from them, and the ripple rolled over the whole camp as the word spread quickly. After a few moments, he felt Tatya move through his Aura.
+
+“It's true.” Tatya said when her own 10 foot wide Aura covered Ren. “You're a Crusader.”
+
+“I am now.” Ren said.
+
+“This... could be a problem.”
+
+“Why?” Yuwen asked.
+
+“Think about it.” Tatya said. “Ask yourself what the title actually means.”
+
+No one said anything for nearly a full minute, then Ren understood what she meant.
+
+“I'm supposed to protect the weak and the downtrodden.” Ren said. “Since most of the people I meet are weaker than me, and they don't have the same equipment and enchantments as I do...” He sighed. “They can be considered downtrodden as well.”
+
+“That's right.” Tatya said. “Compared to you, I'm quite weak physically. Compared to your Mistresses, I don't have the same adornments and fall into the downtrodden category.”
+
+“Is that why you kept staring at them yesterday?” Ren asked.
+
+“E-excuse me?” Tatya asked, and if she had her panther ears out, they would have been flipped backwards in a sign of annoyance.
+
+“I thought you were just curious as to why they were wearing them.”
+
+“I... I was.”
+
+“The simple explanation is that I told them to.” Ren said.
+
+“What's the complicated explanation?” Tatya asked.
+
+“I'd be happy to tell you, right after you tell me why Jirqym was sent ahead to the capital yesterday.” Ren said, and this time it was shock that rippled around everyone.
+
+“H-how do you know that?” Tatya asked, and she felt something from his Mistresses. “You didn't know, so I know you couldn't have told him.”
+
+“No, it's just...”
+
+“They're nervous because they are worried you'll accuse me of spying on you.” Ren said, and the shock everyone felt was met by their awe that he would say it so openly like that.
+
+“Were you spying?” Tatya asked.
+
+“Despite easily being able to, I was not.” Ren said.
+
+“Then how...”
+
+“When helping to check the carriages, I noticed that one of the wolves was missing.” Ren said. “Also, I haven't seen Jirqym around since yesterday morning.”
+
+“He could have been busy.” Tatya said without confidence.
+
+“Not to show up for two meals in a row.” Ren said. “What was the emergency he had to leave for?”
+
+Tatya took in a sharp breath and didn't say anything.
+
+“Since I'm only a guest of the caravan, I guess that means you don't have to answer my question.”
+
+“Re... King Ren, it's...” Tatya sighed. “The matter concerned the caravan as a whole.”
+
+Ren's Emotion Siphon ability could detect a bit of a lie mixed in there, but since the statement was too general, he couldn't pinpoint where she was altering the truth slightly.
+
+“We'll be in the capital by tonight.” Ren said and stored the plates and utensils to clean them, then stacked them for the attendant to take. “I suppose we'll all find out tomorrow what it was.”
+
+“King Ren...”
+
+Ren stepped close to her and put a hand on her arm. “It's all right. I can feel your reluctance to admit to whatever it is. As long as it doesn't affect me or mine, I don't have a problem with not knowing.”
+
+Tatya's emotions spiked at his last statement and she hid it from everyone; but, because Ren was touching her arm consolingly, he had direct contact with her and felt the fluctuation. He didn't let it show on his face, gave her arm a squeeze and let it go, then faced his Mistresses.
+
+“We've got a few minutes before the caravan leaves. Would you care to go for a short walk?”
+
+Tiyaphi rubbed her belly. “I think I need to relax in the carriage after that big of a meal.”
+
+“Me, too.” Yuwen said and turned her head to look at the cooks. “That was extra tasty today!”
+
+The cooks gave her a little wave, and she smiled.
+
+“I'd like to go with you.” Dilseffa said and stood.
+
+“Artemis?” Ren looked at her, and she shook her head and pointed up. “Right, keep an eye out.” He said. “Teepo?”
+
+“On it!” Teepo said and flew over to land on Artemis' shoulder. “Your best scout is on the job!”
+
+Ren chuckled at the old joke and held a hand out to Dilseffa. “Second Mistress, thank you for joining me for a short stroll.”
+
+Dilseffa's face flushed red as she nodded slightly and took his offered hand, then she was surprised when he intertwined his fingers with hers. Ren took a step up into the air so that it wouldn't be awkward for her to walk hand in hand with him, then he motioned to the road.
+
+Tatya and the others watched as Ren strolled through the air as if he was on the ground, and tried their best to not stare at how he treated one of his Mistresses.
+
+It's like she means more to him than she's supposed to as a Mistress. Tatya thought in surprise.
+
+Ren waited until they were down the road a short distance before talking. “Dilseffa, thank you for not staying angry at me.”
+
+“Ren, I...” Dilseffa sighed. “I can't argue that you interfered, and I can't argue that you listened in on purpose.” She said. “I want to be angry at you for what happened.”
+
+“Oh, I know.” Ren said. “Even though I didn't want to interfere, just warning you about him was enough to cause you two to break up.”
+
+“Ren...”
+
+Ren stopped walking and turned to her, and she stopped and turned to him. “Please forgive me for saying this.” He said as he let her hand go, then he stepped close and put his arms around her. “Dilseffa, I'm really sorry.”
+
+Dilseffa winced at the apology, then she felt his emotions. “You've wanted to say that for a while.”
+
+“I really did.” Ren said. “I make mistakes and errors in judgment, and I usually apologize as much as possible.”
+
+Dilseffa closed her eyes and sighed as she put her forehead against his. “Ren, you... you have to keep fighting that urge.” She said. “It's just as big of a sign of weakness as covering yourself with clothing.”
+
+“I know.” Ren said and kissed her.
+
+Dilseffa startled for a moment, then Ren poured his feelings into her. She shivered at the repressed emotions that he let out, which included his sorrow and regret, then she accepted that he needed her to feel them and put her arms around him. She hugged him tightly and kissed him back.
+
+It wasn't a chaste kiss and it wasn't quite passionate, either. It was a great middle ground where you could play and tease, and even lick occasionally. You could do a quick kiss, then a long kiss, and even switch between an open and closed mouth. The kiss itself didn't have any actual requirements besides just enjoying the feeling of the other person's lips.
+
+Being kissed like that was a new experience for Dilseffa, and she discovered that it was pleasant in its own way. She had lost count of how many new relationship things she had experienced since she had met Ren, and she wondered with all of her heart about what the next experience was going to be like... and when it was going to happen.

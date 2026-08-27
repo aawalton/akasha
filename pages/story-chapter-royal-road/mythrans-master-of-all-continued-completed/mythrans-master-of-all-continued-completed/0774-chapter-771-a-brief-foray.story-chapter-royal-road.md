@@ -1,0 +1,213 @@
+---
+id: 7e74e106-3f0e-5e3b-9f8a-25dceed467e9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 771 - A Brief Foray"
+slug: 0774-chapter-771-a-brief-foray
+partOf: mythrans-master-of-all-continued-completed
+position: 774
+ownLength: 2738
+unit: words
+publishedAt: 2018-11-23
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/309040/chapter-771-a-brief-foray"
+royalRoadId: "309040"
+---
+
+When Ren was done in Fayeth's room, he checked the All-Seeing Mirror and used a portal to jump back to the apartment with the maids. Once there, he tried to give them a month of his time; but, after a spending a week with them and pampering them, they essentially kicked him out.
+
+“You're going to make the Deity of Fire angry if you keep her waiting.” Frikara said and shooed him away. “Get going before we get angry.”
+
+“But, I haven't finished giving you all my love yet.” Ren tried to argue as he hugged her from behind and nibbled the side of her neck.
+
+“You can... do that... later.” Frikara managed to say, then turned around in his arms and kissed him. “Now get going.”
+
+Ren pouted to make her laugh, kissed her once more, then let her go. He kissed the other maids and deactivated and stored the Vasalor Statue, then used a portal to go to the underground chamber he had made as the transition point into the Fire Realm. He checked the player menu to see the time there, then used the All-Seeing Mirror to see where Fire Dancer was. She was in bed and snuggled up to Zetaya, and he cast another portal to appear near the bed.
+
+“It's so nice to be back here.” Teepo said in the voice that only Ren could hear.
+
+I feel that way, too. Ren thought, then made himself and Teepo into their humongous sizes to match Fire Dancer and Zetaya. Ren equipped his red silk pyjamas and climbed onto the bed behind Zetaya and slipped under the blanket, then spooned her from behind and snuggled in and kissed her cheek.
+
+“Mmm.” Zetaya moaned and took Ren's hand and pulled his arm around her and hugged it to her chest. Ren dug his head into her hair and kissed the back of her neck, then he sighed and closed his eyes.
+
+Surprisingly, his time in the Fire Realm passed by almost before he knew it. When the time came that he had to leave, Fire Dancer asked for another mini-vacation. Ren was more than happy to oblige her, so they spent a whole week just lounging around and spent time with each other.
+
+“I still can't understand how you two can just casually hang all over each other like that.” Fire Dancer commented on their last vacation day, when she saw Ren as he sat on his bed against the headboard and Zetaya laid down between his legs with her back pressed against his chest and her head rested on his shoulder. Ren had his arms around her and under her own, and she was reading the children's storybook about Fire Dancer.
+
+“I love her and she loves me.” Ren said and kissed Zetaya's cheek.
+
+“I've always liked being cuddled by him, too.” Zetaya said. “It didn't happen as often as I wanted it to, though.”
+
+Ren chuckled. “How many times did I tell you that I wanted to just stay in your pen with you and just cuddle?”
+
+“The same amount of times that you said you had to go.” Zetaya said and turned her head to look at him, and he gave her a kiss on the lips.
+
+“I was always sorry that I had to leave.” Ren said, and she lifted a hand from the book and stroked his cheek, gave him a kiss back, then turned back to the book and kept reading.
+
+“Yes, definitely odd.” Fire Dancer said, and Teepo chittered in laughter. “It's not funny, Uncle Teepo.” She said and hopped onto her own bed to lay down.
+
+“You're fighting your urge to join them on the bed.” Teepo said. “That's pretty funny, considering the amount of times they invited you to do it.”
+
+“Ooo, that's an idea!” Zetaya exclaimed and held up the book. “Deity of Fire, can you read us your mother's story?”
+
+Fire Dancer thought about refusing, then sighed as both Ren and Zetaya pushed out feelings of invitation and need. “Oh, all right.”
+
+Ren propped a couple of pillows beside where he sat and pat the bed, and Fire Dancer slid off her own bed and came over to his. She climbed onto it and sat down where he indicated. Zetaya waited until she was settled before handing her the book.
+
+“Where were you?” Fire Dancer asked.
+
+“It doesn't matter.” Zetaya said and turned onto her side and pretty much used Ren as a bed. “Start from the beginning.”
+
+“Are you trying to be cute?” Ren asked her, and she chuckled.
+
+“Maybe a little.” Zetaya admitted, and he kissed her.
+
+“Blah.” Fire Dancer pretended to gag and Ren and Zetaya laughed.
+
+“You feel left out.” Ren said and put an arm around Fire Dancer's shoulders, pulled her in close, then kissed her cheek. “There! Is that better?”
+
+“N-not really.” Fire Dancer said as the fire under her skin swirled a little faster.
+
+“I love you, Honey.” Ren said and kissed her cheek again. “Now dazzle us with your singing voice.”
+
+“E-excuse me?” Fire Dancer pulled back from him, and he laughed.
+
+“Just kidding.” Ren said. “Go ahead and start reading.”
+
+Fire Dancer took a breath and let it out, then moved back in to lean against him and started to read.
+
+The day came to an end, which also ended their mini-vacation, and Ren deactivated the Vasalor Statue and stored it.
+
+“Don't have too much fun blowing the Pervarian's little animal minds.” Fire Dancer said, and Ren laughed.
+
+“I've done that a few times now.” Ren said and kissed her cheek. “I already miss you.”
+
+“Geez, Dad. Are you kiss-deprived or something?” Fire Dancer smiled.
+
+“I really am!” Ren exclaimed and gave her cheek several kisses.
+
+“Stop! Stop!” Fire Dancer laughed and kept turning her head to try and get away from his kisses, and yet he always managed to plant one right on her cheek.
+
+“Hey, it's my turn!” Zetaya said.
+
+Ren stopped and leaned back, to Fire Dancer's relief, then she felt a wicked feeling from Zetaya.
+
+“I thought you meant him!” Fire Dancer exclaimed as Zetaya kissed her other cheek over and over. Ren laughed and Teepo chittered in laughter as Fire Dancer begged Zetaya to stop.
+
+“I need to go.” Ren said sadly, and both Zetaya and Fire Dancer gave him a hug. “I'll see you soon.”
+
+“Dad, I... you can take tomorrow off.” Fire Dancer said.
+
+“Wh-what? Why?”
+
+“You need to be there when the caravan stops before getting to the capital.” Fire Dancer said. “If you aren't there when they disband, who's going to keep the prisoners secured?”
+
+Ren opened his mouth to say they wouldn't have to worry about that until the next day, then sighed. “I don't want to miss another whole Earth day with you.”
+
+“No one gets away with trying to kill my father.” Fire Dancer said. “You will keep them secured and they will face justice.”
+
+Ren sighed again and nodded. “All right, I'll stay and make sure.”
+
+Fire Dancer leaned in and gave his cheek a kiss. “Thank you for being so sad about that, even though we just spent 7 years together.”
+
+“You're my precious daughter and I love you.” Ren said. “I'm always sad when I can't spend time with you.”
+
+“I'm pretty sure there were times you've had a lot of fun without me.” Fire Dancer smiled.
+
+“That doesn't mean I don't have you in the back of my mind, or that I don't regret that I'm not here with you instead.” Ren said, and she didn't feel any lies or deceit.
+
+“Dad, I...” Fire Dancer stopped talking and changed what she was going to say. “I love you, too.”
+
+“Of course you do. I'm awesome!” Ren exclaimed, and that made her and Zetaya laugh. “Now I really need to go.” He said and kissed her cheek once more, then looked at Zetaya.
+
+“I love you, too.” Zetaya said, and gave him a kiss on the lips and hugged him. Ren held her tenderly and kissed her back for several moments. They broke the kiss at the same time and let each other go, then Ren shrunk himself and Teepo down to their normal size. He waved goodbye to Fire Dancer and Zetaya, then cast the Portal spell and stepped through it.
+
+Ren transitioned into the underground chamber and dismissed the portal, then absorbed the Everlasting Fire. He checked the All-Seeing Mirror and used another portal to do the reverse of what he did that morning. He visited the succubi at their roost, then went to the maids and the Marilith Demon, then to Narhilda and her babies, then to Nathalia and kissed her and his son goodnight.
+
+“They're moving me to the house tomorrow.” Nathalia said.
+
+“Have you hired a healer to help you?”
+
+“No.”
+
+“I'll pop over to the house and get Ereka to get one here right away.”
+
+“Ren, I don't need the help.”
+
+Ren chuckled. “Nathalia, you need to rest and keep your strength up, at least for the first few months.” He said. “I'd be negligent in my duties as your non-husband if I ignored your needs.”
+
+Nathalia laughed. “My non-husband, huh?”
+
+“Even after the ton of paperwork I had filed, we can't ever be legally married.” Ren said, then chuckled. “Not unless I somehow permanently change into a dwarf and make everyone forget that I was ever an elfling.”
+
+“Yes, I sincerely doubt that would ever happen.” Nathalia chuckled, then sighed. “Okay. I'll accept some help from a healer.”
+
+“Thank you, My Love.” Ren said and kissed her, then took off the door that covered the portal to the maid's apartment and dismissed it. “I'll put the portal in the main room beside the couch, so it's out of the way.”
+
+“Thanks, Ren. See you in the morning.” Nathalia said, and Ren used a portal to pop over to House Neram Keep and appeared in the living room.
+
+“Hello? Anyone home?” Ren asked.
+
+“Ren!” Two women's voices exclaimed at the same time, then Ereka and Xuunah came out of the kitchen and into the living room.
+
+“Hi.” Ren said. “Are you having fun?”
+
+“This place is amazing.” Xuunah said. “I thought all of the things you built here were astonishing enough, then to find out that you had this keep repaired...” She chuckled. “Who in their right mind would agree to repair a keep that's half a mile deep underground?”
+
+“The amazing part was that I didn't know how I was going to do it at the time.” Ren said with a grin, and that made both women laugh. “Ereka, can you hire a healer to come here and take care of Nathalia and the baby?”
+
+“I already did.” Ereka said. “She'll be here in the morning when we bring Nathalia over from the medical building.”
+
+“Thank you.” Ren said. “With that out of the way, can I talk to you alone for a minute?”
+
+“Sure.” Ereka said and walked towards her bedroom.
+
+“Xuunah, I'll be right back.” Ren said.
+
+“Ren, I...”
+
+Ren cupped the side of her face. “Don't worry. I'll take care of you.” He said, then went with Ereka into her bedroom.
+
+“Ren, what is this about?” Ereka asked, then her eyes widened as Ren took out the Vasalor Statue. “Oh.” She said, then she smiled and turned around and stored her clothes. Ren hugged her from behind and massaged her breasts, and she moaned as he teased and squeezed them.
+
+They stayed together for several days, then Ereka's guilt over monopolizing his time overcame her joy at spending that time with him. Ren assured her that almost no time had passed for anyone else as he deactivated and stored the statue, gave her a passionate kiss and he equipped his red suit, then left her tucked under the blanket on the bed, both naked and satisfied.
+
+“Ren?” Xuunah turned at the sound of the bedroom door opening, then she felt his emotions and realized what he had done. “You sneaky little devil.”
+
+Ren chuckled and checked the All-Seeing Mirror, then cast a portal beside the couch to go back to the Main House in his county. He escorted Xuunah through and greeted the maids, then they went downstairs to Xuunah's apartment. He took out the Vasalor Statue and activated it, then felt Xuunah start to doubt what was about to happen.
+
+“It's all right.” Ren said and took her into a hug and ran a hand over her backside.
+
+Xuunah still wore tight pants and his hand traced every fold and crease in the fabric. She started to breathe heavily as she felt his emotions. His enjoyment from touching her like that was intoxicating for a being that was supposed to avoid it, then Ren picked her up and took her to her bedroom.
+
+“Not only do we have an official exemption from your people, you're already pregnant.” Ren said and laid her on the bed. “Good lord, look at you.” He said as he took in the vision of her.
+
+Xuunah caught her breath as she felt his wonder at her. “R-Ren, you... we...”
+
+“I love you.” Ren said and climbed onto the bed.
+
+“I love you, too.” Xuunah said as he laid down beside her, and they both turned onto their sides to stare at each other. “I've fought so hard against feeling it, since you and Nathalia love each other so much, and I didn't want to take away from that.”
+
+“Neither of us has to fight that feeling anymore.” Ren said and briefly kissed her. “You've missed being loved so much since the last time you were here with a mortal.”
+
+“No, I...” Xuunah saw Ren start to wince from the lie and changed what she was going to say. “I don't really miss that part.” She said. “It was enjoyable for what it was; but, what I missed was being close to someone's heart.”
+
+Ren smiled warmly at her. “That's why you didn't pull away when I formed a Light connection with Nathalia.” He said as he finally understood her motivation. “You weren't trying to stop us at all.”
+
+“I wasn't.” Xuunah admitted. “Unfortunately, I had... underestimated... the true depth of your commitment to each other.”
+
+Ren chuckled. “Until you were caught up in it.”
+
+Xuunah smiled. “I couldn't have imagined that you would open yourself up so completely like that.” She said and her hand reached out to touch the fabric of his suit coat. Ren stored it and his shirt, and her fingers traced his chest muscles instead without missing a beat.
+
+“I wanted as deep of a commitment to Nathalia as possible, because she deserved nothing less than that.” Ren said and his hand reached out and touched her blouse. She stored it and he gently caressed her soft skin and mirrored her movements. Wherever she touched him, he touched her in turn.
+
+Xuunah caught on to this quickly and paid particular attention to one of his nipples. “I have memories of doing this with you hundreds of times, Dearest.”
+
+Ren copied her movements and paid particular attention to one of her nipples, too. “My Angel, you haven't been the only one fighting this.” He said as he leaned in and gave her breast a kiss. “I've wanted to make new memories with you ever since we bonded.”
+
+Xuunah closed her eyes as he flooded her with desire. “I... I know.”
+
+Ren leaned back and looked her in the eyes. “Then let this be the first precious memory we construct together.” He said and used a hand to cup her breast. Xuunah pulled the ties out of her hair and swung her head from side to side to let her long wavy hair flow out, then she turned slightly and laid on her back. Her hair was like a blanket below her and she stared up at him.
+
+“Give me the best memories, Ren.” Xuunah whispered as she stored the rest of her clothing. “I want to remember this for the rest of my life.”
+
+“Challenge accepted.” Ren said with a smile and stored the rest of his clothes, then he proceeded to prove that he could make her forget all about the memories that she had gained from Nathalia through their bond. He had gained a lot of experience since then, and he showed her what he could do to please her.

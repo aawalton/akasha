@@ -1,0 +1,237 @@
+---
+id: 47e6ac74-4f96-53da-bcc2-2216a779fb16
+page-type-slug: story-chapter-royal-road
+title: "Chapter 641 - Planned Response"
+slug: 0642-chapter-641-planned-response
+partOf: mythrans-master-of-all-continued-completed
+position: 642
+ownLength: 2772
+unit: words
+publishedAt: 2018-07-17
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/234993/chapter-641-planned-response"
+royalRoadId: "234993"
+---
+
+Ren and Artemis walked back to the special holding cell and checked on the High Lord's progress. “How long does it take for him to finish?” He asked Lylyth.
+
+“They have been going non-stop for the last few days.” Lylyth said and smiled. “If you mean between when he finishes and starts again, it should be any minute now.”
+
+“Perfect timing, then.” Ren said. “Are you ready?”
+
+“Yes, dearest.” Lylyth said. “I will play my part well.”
+
+Ren took several steps up into the air and caressed the side of her face. “Don't let it anger you, okay? We all know that it's just for show.”
+
+Lylyth smiled. “You worry about how it will affect me, and yet you were the one to propose it.”
+
+“I'd use a Full Illusion spell if I thought they would believe it.” Ren said and leaned in to give her a kiss. “I can make an image of you, but I can't reproduce your magnificence or your presence.” He said. “There's only one of you, and no one could make the mistake of believing that a cheap fake was really you.”
+
+Lylyth nodded. “I will debase myself in front of the elfling and the council, after giving the High Lord and the converts in the council their instructions.”
+
+“Excellent.” Ren said and looked at the generals and advisors briefly without saying anything to them, then he and Artemis left the room and walked to the door of the room on the other side of the two-way mirror. Two large spiders dropped from the ceiling and landed behind them, and Ren knocked on the door. The High Lord let the female elfling Allynna go and ran for the door, and Ren and Artemis stepped to the side as the door opened.
+
+“NO!” Allynna yelled and reached a hand out as the two large spiders grabbed the High Lord and dragged him from the room.
+
+Ren shut the door and cast Permanent Full Illusion on the High Lord to change his appearance to the way he was before the conversion, and the spiders took the High Lord to see Lylyth. Ren waited for a minute, then opened the door again. He could see Allynna crying with her head in her hands as he and Artemis stepped into the room.
+
+“Allynna.” Ren said, and her head whipped up to stare at him.
+
+“R-Ren?” Allynna asked, and he felt her disbelief. “No, it's a trick.” She shook her head. “You aren't really here. You can't be!” She exclaimed. “We're in the Underworld! Right in the heart of the Dark Elves!”
+
+“Your mother asked me to get you back.” Ren said, and her mouth dropped open from shock.
+
+“She... she really got my message?” Allynna asked. “I told her what happened, but I was sure that...” Her eyes squinted. “This isn't a Dark Elf trick, is it?” She asked. “They intercepted my message, didn't they? You couldn't have just miraculously appeared like this!”
+
+“I was away for a couple of days on Adventurer's business, and when I came back, I checked in on two people. An elfling I needed to feed with emotions, and then your mother.” Ren said, truthfully. “I woke her up and she told me what happened, asked me to get you, and now I'm here.”
+
+“Oh, Ren!” Allynna said and tried to stand up. Her legs were weak from exertion, and Ren walked over to her and picked her up. “We have to escape, but... but they just took Alinar. We can't leave without him!” She said and put her arms around his neck to hold on.
+
+“Don't worry.” Ren said and repaired her clothing. “I have a feeling this is all going to work out.”
+
+“What? How?” Allynna asked. “They attacked and killed our guards! Kidnapped us! Did... something... to Alinar!”
+
+“What, the skin thing?” Ren asked, and she nodded. “That was your fault, actually.”
+
+“WHAT?!?”
+
+“He loves you and has been repressing it for decades.” Ren said. “Given the choice between hurting you and admitting that, he made the honorable choice.”
+
+“He... he did that... made himself into... into...” Allynna let more tears out. “He did it for me?”
+
+“It was the only way he could let himself be with you.” Ren said. “As himself, he could never show you how much he loves you; but, as a Dark Elf, I suspect he's shown you as much as he can and as many times as he can.”
+
+Allynna's face went deep red and she ducked her head down to try and hide it.
+
+“There's nothing to be ashamed of.” Ren said. “He made the right choice.”
+
+“But... but he...”
+
+“They told me that he didn't break. His personality is still intact.”
+
+“It... it is... except...”
+
+“Yes, and I can only hope that he doesn't keep his feelings for you repressed from now on.”
+
+“From now on?” Allynna asked. “What do you mean?”
+
+“It's not easy for a non-Dark Elf to get into the Underworld.” Ren said. “Their forces have been depleted because of this stupid war, as have the High Elves.” He explained. “It took some fancy negotiating on my part, but I believe that the High Lord of the High Elves and the Queen of the Dark Elves are currently setting the terms for a cease-fire.”
+
+“WHAT?!?”
+
+“I know it's a surprise.” Ren said. “I'm sure the Dark Elves are going to be just as surprised as the High Elves when it takes effect.”
+
+“R-Ren, how... why...”
+
+“I think they might be as tired of fighting as I am.” Ren said and smiled. “At least, I hope they are and this goes off without a hitch.”
+
+“Ren, can it really be true?”
+
+“Yes, and you know what the next step is going to be?” Ren asked, and she shook her head. “Talking.”
+
+Allynna's mouth made that little 'o' of surprise and he chuckled.
+
+“I've got an embassy set up in the High Elven starter city for each of the races in this world.” Ren said. “There's only High Elves at the moment, with a trace of Dark Elves; but, I'm hoping to have other races join in as the embassy's existence spreads around.” He smiled. “As it stands, if two long-standing races like the High Elves and Dark Elves can just stop fighting for a while, it will make a huge difference in this world.”
+
+“It really would.” Allynna said.
+
+“So, do you feel up to visiting the council members and letting them in on the good news?”
+
+“Ren.” Allynna said in a voice that you would use for a small child. “We're prisoners. We can't just go visit other prisoners.”
+
+Ren chuckled and walked over to the door.
+
+“No... you... we cant just...” Allynna stumbled over her words as Artemis opened the door and Ren carried Allynna out into the hallway. He felt her disbelief as he walked through several hallways and they passed a couple of Dark Elves, who didn't react at all to him being there.
+
+“Here we are.” Ren said and they entered the prisoner holding area. He felt the immediate reactions from the council members that were still in the cells, and he walked to the cell with the second female High Elf in it. He saw the dagger and the gold were missing from the Dark Elf's loot drop, but the pendant was still there.
+
+“You can take the pendant, too.” Ren said, and the female High Elf looked up at him.
+
+“You.” She said and stood up. “You came back.”
+
+“I said I would.” Ren said, and her disbelief felt just like Allynna's. “The pendant gives +20% Protection and +20% Warding against enemy spells.”
+
+“It was a Dark Elf's possession and...”
+
+“The key word is 'was'.” Ren said and cut her off. “You won it from him, so it's yours.”
+
+The female High Elf kicked it across the floor to the door of the cage. “You can have it.”
+
+“Well, okay.” Ren said and looked at Allynna. “Can you stand on your own?”
+
+“What? Oh!” Allynna's face flushed red again. “Yes, put me down.”
+
+Ren stood her up on her feet and she didn't wobble. “I'll be just a second.” He said and bent down to reach into the cage.
+
+“Ren!” Allynna yelled.
+
+The female High Elf lunged forward and grabbed his arm, then she pressed the looted dagger to his wrist. “Open the cage!” She said and pressed the dagger harder. “Open it!”
+
+“I'm not a Dark Elf.” Ren said and waved his other hand in front of the cage. “It won't open for elflings.”
+
+“Let him go!” Allynna exclaimed and tried to reach in. The female High Elf hissed and moved away slightly, which pulled on Ren's arm.
+
+“I'll break it!” The female High Elf said.
+
+“Are you crazy?” Allynna asked her. “He's trying to get us out of here!”
+
+“He's working for them!” The female High Elf nearly yelled. “You should have seen him! He is friends with them!”
+
+“I can call a lot of different people friends.” Ren said. “That doesn't mean I'm working for them.”
+
+“Don't hurt him.” Allynna said. “The High Lord is discussing terms for a cease-fire right now, and it's all because of Ren.” She said, the the female High Elf's resolve started to falter. Ren didn't try to take advantage of it, because he didn't want to make the situation worse.
+
+“Is that true?” Someone asked from down the hall in a nearby cell. “He's really going to call a cease-fire?”
+
+“Yes!” Allynna said. “How else do you think Ren and I came all the way down here?” She asked. “We even met some Dark Elves on the way, and they ignored us!”
+
+Ren felt surprise from the other High Elves in the cells, and still didn't try to take advantage of the situation.
+
+“Please, let him go.”
+
+“You and he have some kind of relationship, don't you?” The female High Elf that had a hold of Ren said.
+
+“Actually, he's dating my mother.” Allynna said. “I tried to... well, I mean... it was really awkward, and I... I didn't...”
+
+“What she's trying to say is that we tried to make things sexual between us, and failed miserably.” Ren said. “Despite her being so beautiful and me being so handsome, there has to be some kind of chemistry for things to work on that level.”
+
+“You're full of yourself, aren't you?” The female High Elf asked.
+
+“I've had over a dozen women tell me that I'm handsome. Even though I don't believe it personally, I can't deny that many honest opinions.”
+
+The female High Elf chuckled, because her Truth spell told her he was telling the truth. “So, I'm just supposed to believe that after being kidnapped, the High Lord is going to accept a cease-fire with his most hated ancestral enemies?”
+
+“Yes, it is an extreme stretch of the truth, isn't it?” The High Lord, Alinar Keacaryn said, and everyone in the cells gasped, even Allynna when she turned to see that he was back to his old self.
+
+“M-my L-lord.” Allynna said and bowed her head.
+
+“Now, now.” Alinar said and waved a hand to get her to stop. “It was because of you that this was possible.”
+
+“WHAT?!?” Everyone in the cells yelled at the same time.
+
+“Yes, she brought the Adventurer here to rescue her, which in turn let him ask for the release of anyone that they couldn't convert.” Alinar said. “The Dark Elf Queen granted that request, and here we are.”
+
+“That meant you, too?” The female High Elf asked and she let the dagger drop to the floor.
+
+“He did say 'anyone you can't convert', did he not?” Alinar asked her, and she nodded. “Is there a reason you have him restrained in such a manner?”
+
+“N-no.” The female High Elf immediately let Ren's arm go and stepped back from the cell door. “I was merely... um...”
+
+“I tried to take some of her loot.” Ren said and pulled his hand out of the cage.
+
+“That is not something an Adventurer should do.” Alinar said and looked down his nose at Ren.
+
+“No, of course not.” Ren said and ducked his head.
+
+“Huh.” Alinar said and looked at the Dark Elves behind him. “Open these cages right now.”
+
+The Dark Elves turned and looked up the hallway.
+
+“Yes, release them.” Lylyth said and sighed. “Release them all.”
+
+Ren felt disbelief and happiness from all of the captives, then the Dark Elves opened their cages and stepped back out of the way so that they wouldn't be attacked.
+
+“This... this can't be happening.” The female High Elf said as she stepped out into the hallway. “How can a single request from an elfling...” She said elfling like it was a dirty word. “...change everything like this?”
+
+“It was Allynna's mother that asked me to come and get her.” Ren said. “If you want to give someone credit for this, it's her.”
+
+“Allynna's mother?” She asked and looked at Allynna. “Your mother sent an Adventurer to rescue you?”
+
+“Not just any Adventurer.” Allynna said and smiled. “She sent Ren.”
+
+“Yes, and he has tricked me.” Lylyth said, and everyone felt her disdain. “He has cost me the largest bargaining chip I had.”
+
+The High Lord Alinar Keacaryn laughed. “Yes, he has.” He said. “Even though I have reviled him publicly, still he came to the rescue of my citizens.” He looked at Ren. “Despite your claim to be a legitimate Chosen of Vasalor, which I will never acknowledge, I cannot dispute your very effective diplomacy skills.”
+
+“Thanks... I think.” Ren said, and Allynna giggled.
+
+The High Lord turned and looked at Lylyth. “With our forces at a distinct advantage, I was tempted to order the complete destruction of the Dark Elves as soon as I was released.” He said and let those words hang in the air for several moments, then he sighed. “Unfortunately, because of that damnable ghoul plague, we have lost too many good people.” He said. “I can't in good conscience order more of them to fight to the death against a practically defeated foe.”
+
+“My Lord...” The female High Elf tried to speak, and he raised a hand up to stop her.
+
+“I have no choice but to order a hold action for our people on the front lines.” Alinar said. “The Dark Queen in return has agreed to a cease-fire, and will start pulling her troops out of our lands.”
+
+“My Lord!” Several of the council members exclaimed.
+
+“Yes, it is a victory; but, it was one that almost cost us our lives.” Alinar said and looked at their faces, and he saw in them the same thing he showed them. Relief.
+
+“Under the agreement with Ren, you are being released into his custody.” One of the Dark Elves said. “My Queen was tempted to keep him prisoner, and in effect keep you all prisoner.” He took in a breath at the emotions that statement elicited from the High Elves. “However, because of the cease-fire agreement, no new prisoners can be taken by either side.”
+
+Once again relief flooded from the High Elves.
+
+“Then we... we can leave?” One of them asked. “Just like that?”
+
+The Dark Elf chuckled. “Not just like that.” He said. “A lot of things had to come together and work out for this to happen.”
+
+“But... we're free, right?” The female High Elf said. “We're not going to be held prisoner anymore?”
+
+Lylyth waved a hand and a portal appeared at the end of the hallway. “That portal will take you back to the capital of the High Elven Kingdom.” She said in a huff, then she looked at Ren as her familiar used its ability to increase the portal in size to accommodate the High Elves. “As for you, elfling...” She said and stomped forward as four of her phantom spider legs appeared around her. The High Elven Council members were startled by this aggressive move and practically ran towards the portal. The High Lord stepped around Ren and took Allynna's hand.
+
+“Ren, let's go!” Allynna said as the High Lord dragged her to the portal.
+
+“Don't wait for me! Just go!” Ren said as two of the phantom spider limbs landed on his shoulders, and several large spiders dropped from the ceiling to surround him. “Don't forget to send a message to your mother!”
+
+“REN!” Allynna yelled, then the High Lord dragged her into the portal.
+
+Lylyth dismissed the portal as she stepped close to Ren and bent down. “How was that, dearest?”
+
+“It was perfect.” Ren said and kissed her.

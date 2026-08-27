@@ -1,0 +1,265 @@
+---
+id: dbf1988b-513b-5af1-a995-893a1a60c863
+page-type-slug: story-chapter-royal-road
+title: "Chapter 717 - A Giant-Sized Fantasy"
+slug: 0718-chapter-717-a-giant-sized-fantasy
+partOf: mythrans-master-of-all-continued-completed
+position: 718
+ownLength: 3502
+unit: words
+publishedAt: 2018-10-01
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/294886/chapter-717-a-giant-sized-fantasy"
+royalRoadId: "294886"
+---
+
+Ren and Tiatha appeared inside her room through the portal and Ren took out the Vasalor statue. She gasped at its appearance, then Ren put it down on her nightstand and activated it.
+
+“I won't overwhelm you all at once with everything I felt.” Ren said and stored his clothing. “I'll filter it to you over the next month and you can try to parse it out to Lylyth when we return to the throne room.”
+
+Tiatha didn't comment about the time frame, because any time that Ren wanted to devote to her was precious in her eyes, so she stored her clothing without a word and Ren took her to bed. For the next month, he pleased her and gave her everything he had felt during his visit to Vasalor. When the time was up, she had leveled up several hundred times and her love and devotion to him rivalled what she had for her Queen.
+
+“Ren, thank you.” Tiatha said when Ren deactivated the Vasalor statue and stored it.
+
+“It was my pleasure.” Ren said and cupped the side of her face. “Out of all of them, you were the only one who didn't react negatively to anything I've ever done.”
+
+“That's because you're just too amazing to disbelieve.” Tiatha said. “I'm just a healer, and yet you've given me more attention than I thought I deserved... and that was before you did this for me.”
+
+Ren smiled. “Almost no time has passed here, so you don't need to worry about missed schedules or meetings.”
+
+“I wouldn't have cared even if I did miss it all.” Tiatha said, honestly.
+
+Ren gave her a kiss in appreciation for the sentiment and opened a portal back to the throne room. They stepped through it and felt the surprise from all of the Dark Elves in the room, as well as from Lylyth.
+
+“You... what...” Lylyth couldn't articulate what she wanted to say.
+
+“My Queen, I'll let Tiatha share with you what I went through.” Ren said and bowed regally to her. “If you will excuse me, I have a couple more people to visit before I have to attend to some Adventurer's business.”
+
+“Oh!” Lylyth said. “We... we have a feast prepared...”
+
+“You do?” Ren asked and looked around. “I don't see...”
+
+“It's in the dining hall.” Tiatha said and pointed. “Do you think you could stay a little while?”
+
+“Teepo? How's my time?”
+
+“I think you can spare half an hour.” Teepo said. “You'll be cutting into your time with the Giants, though.”
+
+“It's a risk I'll have to take.” Ren said with a big smile, and he felt how happy Lylyth was. “I am at your service, My Queen.”
+
+Everyone followed Lylyth and Tiatha as they led the way to the large dining hall and the banquet there. Ren felt the underlying animosity from the Dark Elves, and he knew that they couldn't help it, because it was their own prejudices against having an elfling be so prominent in their society. He successfully ignored the feeling and chatted with both Lylyth and Tiatha as they ate, and had even managed to get Princess to try some of the Dark Elven delicacies.
+
+Ren spent the half hour with them and had to regretfully tell them that he had to go when it was up. They felt his regret that he needed to go, and Lylyth forgave him for not staying. After he promised to return sometime in the next week, Ren, Teepo, and Princess left the dining hall in a spectacular manner. Ren mounted Princess' saddle and checked the All-Seeing Mirror to see that it was clear, then equipped the Staff of Earth and pointed it upwards.
+
+“Let's go!” Ren said as a 10 foot wide square tunnel appeared in the ceiling. Princess brayed her happiness and reared back, then ran up into the air and into the tunnel. Ren laughed and Teepo chittered in delight at the shock they felt from the Dark Elves, and he dismissed the tunnel. Princess ran faster than the tunnel could collapse, however.
+
+They exited above the ground after travelling a long way and Ren pointed in the direction they needed to go. Princess had waited for this moment all day and ran as hard as she could in that direction. They passed over the rest of the continent fairly quickly, then they hit the ocean. It was normally a two to three week journey by normal ship and a one week journey by his ship; but, Princess crossed the entire ocean in barely 20 minutes. It took another 10 minutes to get to the wasteland between the Dwarven Kingdom and Giant Kingdom, and they slowed down when they reached the Giant starter city Ren had made.
+
+Ren had checked the All-Seeing Mirror on the way and saw that Laurelia was working late again, so he had Princess go to the mansion and the guards there waved and opened the door for him.
+
+“Thanks!” Ren said to them as Princess carried him inside and they ran to the mayor's office. Once there, he knocked and waited. The door opened a few moments later, and Laurelia caught her breath as she saw him.
+
+“R-Ren...” Laurelia stammered.
+
+“Hi, Laurelia. I'm sorry I haven't been back in a while.” Ren said. “I meant to come back occasionally to see how things are working out...”
+
+“...but, you've been busy.” Laurelia chuckled and waved at her office. “Just like me.”
+
+“Wow.” Ren said as he saw all the stacks of parchment scattered around the office. “What is all of this?”
+
+“Just the every day operations of an entire city.” Laurelia said and motioned for Ren to enter. Princess trotted in and Ren hopped off as Laurelia shut her office door.
+
+“There shouldn't be this much, though.” Ren said, because he hadn't seen anything like this in either Patty's or Valercia's offices. “You don't even have a whole city's worth of people yet.”
+
+Laurelia chuckled and pointed to a stack. “Food requisitions.” She pointed at another one. “Worker requests.” She pointed to another stack. “Petitions for new businesses.”
+
+“You need to hire a staff to help you handle it.” Ren said. “You shouldn't be seeing a lot of this.”
+
+“Ren, I barely know what I'm doing. How am I going to hire someone and train them to handle it?” Laurelia asked.
+
+“Have a seat.” Ren pointed to her desk, and she looked at him for a moment, then shrugged her shoulders and sat down. He ran up into the air and onto the desk. “Open your Mayor Menu, please.”
+
+Laurelia did as he said, and he could see everything and helped her requisition a staff. There were a surprising number of people that were eager to move to a new place and do whatever job was necessary. Laurelia was surprised at the quick responses she received, so she added in requests for old and retired Guardians of the Land that were willing to help exiles, and for guards and general workers.
+
+“That... was really easy.” Laurelia said.
+
+“It's supposed to be.” Ren said, and she looked at him with wide eyes. “You're supposed to help and guide your people, not run every detail of their lives.”
+
+Laurelia opened her mouth to ask what the difference was, then she laughed. “Yes, I... I think I've been focusing too much on the little things.”
+
+“Like me?” Ren joked, and she snorted a laugh.
+
+“I have been thinking of you a lot lately.”
+
+“Is that a good thing or a bad thing?” Ren asked.
+
+“It depends on if I'm alone or not.” Laurelia chuckled.
+
+“I get prejudice from the Dark Elves, too.” Ren said. “They can't accept having an elfling within their midst, even though I had earned it.”
+
+“That sounds more than a little depressing.” Laurelia said, and he felt her sympathy.
+
+“It could be, except I've decided to not let it bother me.” Ren said. “It's their problem, not mine.”
+
+Laurelia sat back in her chair and folded her arms under her chest, which pushed her breasts up quite a bit. “That's mature of you.”
+
+Ren felt that he had to glance at her ample cleavage, and he made sure she saw him looking. “Well, I was tempted to just kill them until the others accepted me for who I am; but, that would only teach them fear and not respect.” He said and looked back at her face and saw her smile.
+
+“Yes, not having their Respect would be pointless.” Laurelia uncrossed her arms and leaned over to rest her elbows on the desk, then intertwined her fingers to rest her chin on them. Giants were all about Respect, just like the dwarves were all about Honor. Thanks to the dress Laurelia wore, her new position gave Ren a very nice view right down her top. He made a bit of a show of letting his gaze go from her chest to her face and back again several times, and he felt her desire increase with her amusement.
+
+“Do you... ah... want me to give you a hand with...” Ren gave her breasts one more glance and smiled warmly at her. “...some of this paperwork?”
+
+Laurelia chuckled. “Can a little person even move parchment papers that are so much bigger than they are?”
+
+“Oh, I don't have to stay this size.” Ren said, and he felt her surprise and then her desire increased slightly.
+
+“You... you don't?” Laurelia asked. “I remember you making yourself twice as big and shrinking me that one time.” She blushed as she remembered why they had tried to match sizes, then she glanced around at the office. “That won't work for this task.”
+
+“One giant-sized Ren coming up.” Ren said and ran over to the edge of the desk and jumped, then cast the Permanent 4 Times Enlarge and Reduce Anything spell on himself. He landed on the floor and stood up to his now 18 foot and 4 inch height. Laurelia gasped at his giant appearance, and her heart went pitter-patter at the thought of him being so close to her own height of just over 22 feet.
+
+“R-Ren...” Laurelia stammered, just like she had when he first appeared at her office door.
+
+“Let's get to work, shall we?” Ren asked and walked around the desk to stand beside her.
+
+Laurelia blinked her eyes at him several times and slowly reached out to touch his hair. “It's real, isn't it?”
+
+“Of course my hair is real.” Ren joked, and she smiled. He looked down at the parchment on her desk. “Hmm, I see you're spending a lot of time just signing things.” He said and took out a bit of metal and activated his Hands of the Gods ability Burning Hands and melted it, then dripped it across her signature and traced it with the metal. He used the Shaper spell to make it an exact copy of her signature, cooled it, then made a nice wooden handle for it. He made a folding metal case and added Spider Silk cloth to the inside of it, then filled it with ink.
+
+“Wh-what is that?” Laurelia asked.
+
+“It's called a stamp.” Ren said, touched the stamp of her name to the ink pad, moved the paper she had already signed out of the way and picked up the next. “You're signing this one next, right?”
+
+Laurelia nodded and Ren tapped it with the stamp and her signature was transferred instantly. She caught her breath at the sight.
+
+Ren blew on it to dry it, put it aside in the outgoing pile, and handed her the stamp. “Have fun.”
+
+Laurelia took it and went to dab it back into the ink pad, and Ren caught her hand.
+
+“You can use it two or three times before having to dip it again.”
+
+“Really?” Laurelia asked with a smile, then dabbed the paper with it and saw that it was just enough to count as her signature and dipped the stamp back into the ink and did the next two sheets in only a couple of seconds. “Ren, this... thank you so much.” She said. “This makes it go so much faster!”
+
+“You're welcome.” Ren said. “Just don't forget to read the documents before giving your okay.”
+
+“I've already read them to sort them out like this.” Laurelia said. “Why do you think I'm so far behind in taking care of them?”
+
+Ren put a hand on her shoulder. “If you'll allow me, I can do something about making that faster, too.”
+
+Laurelia felt a thrill go through her at the gentle touch, and nodded. She received a popup to become a member of his party, and she stared at it. “Wh-what... what is...”
+
+“This will give you an internal Inventory and open up several different options for you.” Ren said. “Will you accept?”
+
+“B-but... I... I'm not an Adventurer!” Laurelia exclaimed, and he chuckled.
+
+“It doesn't matter. I'll kick you out right after you upgrade if it makes you feel any better about it.”
+
+“U-upgrade?”
+
+Ren gave her shoulder a slight squeeze. “It should only take a moment.”
+
+Laurelia took a breath and let it out, then accepted the party invite. She was covered in a glow for a moment, then she gasped as she gained an inventory and a whole new set of skills.
+
+“There.” Ren said and took out a set of stat books. “Read these every day and you'll get better and better at your job.”
+
+“R-Ren...”
+
+“Being a member of my party holds no benefits for anyone, since I can't gain anything anymore.” Ren said and Laurelia received the popup that said she had left the party.
+
+“R-Ren, what...”
+
+“It's all up to you now.” Ren said and slid his hand across her shoulder and then down her back, and she shivered from the touch. “Store the books for now and we can get to work.”
+
+Laurelia nodded and Ren slipped out the Vasalor statue and activated it as he put it at the side of the room, then he kept handing her all the different documents. The work went by fairly quickly, and when they were done, Ren took two of the stacks of sorted papers and shuffled them together.
+
+“REN!” Laurelia yelled as he undid all of her hard work.
+
+“Relax.” Ren said with a huge smile and handed her the stack. “Store this.”
+
+Laurelia was tempted to tell him to get out of her office, then took a breath and stored the documents. They sorted automatically into 6 different stacks, and when he told her to check her inventory, she stared at them.
+
+“Wh-what... how?”
+
+“It's automatic.” Ren said. “It was the best way to explain what it does.”
+
+“You could have just told me.” Laurelia said as she took out each stack and saw they were sorted by priority.
+
+“I wouldn't have felt your reaction as strongly if I did that.” Ren chuckled, and she shook her head.
+
+“You don't have to tease me like that.”
+
+“No?” Ren stepped close and sat on the side of her desk. “How do you want me to tease you?”
+
+Laurelia's mind had several very naughty thoughts run through it and her face flushed to a deep red.
+
+“It can only be a casual relationship, if you want to start one.” Ren said.
+
+“Casual?”
+
+“As in, not serious. Just dating occasionally and no chance of marriage.”
+
+Laurela closed her mouth on what she was going to say.
+
+“Go ahead and say it.” Ren said and smiled.
+
+“There's no way my mother would approve of me marrying a little person, even if he can make himself giant-sized.”
+
+“Are you okay with only dating and a lot of hot and steamy non-committal sex, then?” Ren asked.
+
+Laurelia caught her breath at the thought and he felt her body react. He waited as she thought about what it would mean, then she nodded. He slowly leaned in close and felt her anticipation as his lips approached hers, then he cupped the sides of her face and gave her a gentle kiss. Her body shivered again, and she reached up to run her hands through his hair as she kissed him back in earnest. After a couple of minutes, she broke the kiss and looked at him with smouldering eyes.
+
+“My room.”
+
+Ren nodded and picked up the statue, took her hand to help her stand, then led her out of the room and up the stairs. She pointed to her room and they went inside. He put the statue down and turned her around to open her dress. She caught it as the clasp was released, then she turned around with it held to her chest.
+
+“Ren, I... I've...” Laurelia took a quick breath. “This isn't my...”
+
+“Shh, it's okay.” Ren said. “All that matters is this moment. It's just you and me, and no one else is a factor. For right now, this is our whole world.”
+
+Laurelia smiled as she very slowly slid the dress down and kept an arm over her chest. She let the dress drop to the floor and all she wore was a pair of underwear. She shifted her arm and used both hands to cover her breasts, jiggled them a little to make sure Ren was looking right at them, then moved her hands out of the way.
+
+“Oh, my.” Ren said, and her face flushed red.
+
+“Do... do you like them?”
+
+“I do.” Ren stepped close and leaned down slightly to kiss them like she wanted him to, and she wrapped her arms around him and moaned as she finally felt his lips on her warm and ready flesh. He gave her breasts the attention they deserved, and then he kissed her passionately. She revelled in the feel of his hands on her and his expertly used lips and tongue, then she yipped in surprise as he picked her up and put her on the bed.
+
+“Prepare yourself.” Ren said and moved down to touch her underwear, and she caught his hands.
+
+“Wh-what are you doing?” Laurelia asked.
+
+“I should tell you to relax, but you aren't going to.” Ren grinned and slid her underwear down, then kissed his way back up her legs and to her special place. When he reached there, she stopped thinking any kind of rational thought and completely lost herself in the pleasure.
+
+After almost half an hour, she gripped his hair and pulled on him to get him to stop, and she gave him frantic eyes. He understood what she wanted, so he kissed her and stored his clothing. She nodded and let his hair go, and he moved back to kneel between her legs. She caught sight of his ready state and stopped breathing when she realized how big he was.
+
+“R-Ren, it... it's not going to fit!” Laurelia exclaimed.
+
+“Oh, yes it will.” Ren touched her sensitive spot and she gasped, then he slipped the tip inside. She finished just from that, then she finished again as he went all the way in.
+
+“OH, GOD!” Laurelia yelled, and once again, she lost herself as he pleased her, over and over. It went on and on, and she couldn't believe that he could do this to her and didn't have to stop or take a break. After an hour, she had had so much pleasure that her whole body had become an erogenous zone.
+
+Ren felt this, and combined with her disbelief, he figured that was enough for her and he finished her one last time and eased out, then finished himself. He laid down beside her and took out a cloth to wipe her off, and she stopped him.
+
+“Let... let me just...” Laurelia looked at his face. “It's so warm and I don't want to lose this feeling.”
+
+Ren smiled and gave her a kiss, then laid back to relax. They both laid there for several minutes, and then Laurelia touched the mess.
+
+“Why is it still warm?”
+
+“You wanted it to be, didn't you?” Ren asked.
+
+“You're doing it?” Laurelia asked, surprised.
+
+Ren nodded. “You wanted to keep the feeling, so I wanted to make you happy.”
+
+“Oh, Ren.” Laurelia said and started to lean over to kiss him. He quickly wiped her off before she made the mess any messier and kissed her. When she leaned back, she saw that the mess was gone and looked at him with wide eyes.
+
+“I can be really fast when I want to be.” Ren said with a big smile.
+
+Laurelia laughed because they had just spent almost two hours in bed together.
+
+“So, did I fulfill your little person fantasy?” Ren asked.
+
+“You destroyed it.” Laurelia said, honestly. “I imagined you becoming full size for a short time, but...”
+
+“I'm glad.” Ren said, and she looked at him with wide eyes. “I really like it when I can exceed people's expectations.”
+
+“You really did.” Laurelia said and kissed him again.

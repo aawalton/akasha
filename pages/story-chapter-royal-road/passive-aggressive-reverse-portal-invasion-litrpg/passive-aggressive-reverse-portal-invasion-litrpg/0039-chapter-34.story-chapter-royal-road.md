@@ -1,0 +1,101 @@
+---
+id: 2530312a-e58a-59d6-a9e9-8395b9fca5f6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 34"
+slug: 0039-chapter-34
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 39
+ownLength: 2286
+unit: words
+publishedAt: 2026-06-25
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3588247/chapter-34"
+royalRoadId: "3588247"
+---
+
+Thankfully, the night brought no unwelcome distractions. No ambushes, no sudden but inevitable betrayals. Just a beautiful sky, riveted with lights, a fairly chilly breeze and an ever-present scent that reminded me of cardamom. Oh, and a fuckton of mosquitos. Couldn’t we have been invaded by a mosquito-free universe?
+
+In the morning, we got up and got going. My mind felt slightly fuzzy from the lack of sleep, but otherwise, I was firing on all cylinders.
+
+Cuilcis walked next to the handcart, with one hand on its side. That, impressively, seemed to be enough to guide the thing. It started rolling the moment he touched it, and seemed to be guided by his every command. Either his mental capacities were impressive, or it was a nimble creation, because the cart rolled effortlessly across the bumpy ground toward the city ahead.
+
+The cart was attuned to his own mana, like he’d said earlier. That was unfortunate, especially because I just, belatedly, realized there had to be skills that were the mana equivalent of Endurance and Stamina Regeneration. Spending a few hours putting mana into a cart was likely perfect for unlocking that. I settled for deciding to get my own mana-guzzling equipment. Right this moment, the only talent I had that used mana was Internal Scourge, and that one I could only activate when it was actually needed.
+
+The journey was uneventful. We spotted a few shapes in the distance, of people leaving or approaching Last Chance from other directions. While the settlement grew ahead of us, I rehearsed my explanations for who I was and what the hell I was doing here in this Torn Divide.
+
+It wasn’t like I was the most introspective of people in the first place, but I did know that about myself: I was shit at improvising. I could lie, and be convincing too. Shit, I’d had to, with my third foster parent. But I needed to wrangle the situation in my mind first, get in justifications, prepare for any questions that might swing my way.
+
+When we arrived at the outer edge of Last Chance, I was ready. I had it rehearsed. In the end, I decided to play it close to the truth. I was but a simple fortune seeker, out to prove myself, rise in levels and become somebody. Where was I from? Well, Sutherland. It was far away, they probably hadn’t heard of it. Same for my tribe. Probably too insignificant and far-off for them to have heard of.
+
+Turned out it was all in vain. There were no guards. Not a goddamn one. As my tiny companion put it: Who’d waste their time on something like that? It wasn’t like they were getting paid for it.
+
+That put the settlement in perspective – and as I watched the splendour of Last Chance unfold before me, I had to re-centre myself in order to realize what I was looking at. This wasn’t a village with a higher authority calling the shots, with king, pope and country laying down the law from up high. It wasn’t even a place with a self-proclaimed mayor making up their own rules as they saw fit. No, this was lawlessness at its finest – like the Wild West, if the Sheriff and the Mayor decided not to make a bid for power. I didn’t quite know how to process that.
+
+Our arrival didn’t go unnoticed. I felt my stamina tick down several times from my new Secrets of the Self skill as we entered the wide muddy thoroughfare running crookedly between surrounding buildings. Yet, even though I felt hungry eyes around us, nobody moved against us. Of course, I did have my buckler and swordbreaker equipped and tried to look as mean as possible.
+
+Last Chance really ran the gamut on style and quality. On my left, a tarp was draped haphazardly over a few sticks, with two sets of scaled feet protruding underneath to the sound of rasping snores. On my right, a three-story earthen tower, seeming to be pulled directly from the soil, rose up, looking for the world like a miniature fort, ready for invasions. Those were the outliers, with the remainder of buildings or self-made creations lying somewhere in between. A good fifth of the constructions did seem to be actual houses, similar in style and size, but built from mud, as if some Mage cracked the code to prefab housing.
+
+Races were wide and varied. I spotted a good number of the purple Adrastians, a couple heavyset Tavungor, a couple flying overhead who looked like a cross between poodles and eagles – a curly-haired, bewinged abomination of nature, really. Yet, nowhere did I see any of what fables had prepared me for. There were no dark elves slinking about, no dwarves quaffing mead and no dragons spewing fire. I wasn’t quite sure whether I should be glad or disappointed. Oh, and I saw no other Tibidi either.
+
+“What’re we doing?” I asked Cuilcis as we continued on our way to the centre of the place. “If there’s nobody in charge, I guess that means you can do what you want, and you don’t have to register yourself or anything.”
+
+“Mirth. No. There will be no registration in this place. However, I would not recommend you act as you please in Last Chance. While you might be able to do as you want, so can those of higher levels. While you may have trounced my protectors, I would not wager on your survival, should you tick off some of the local powers.” He indicated an… establishment ahead with his head.
+
+The place was… okay, weird was a starter, but it didn’t half do it justice. It took ‘weird’, brought it home for a tumble and then got creative. It looked like somebody had spliced an imaginary evil villain lab with a make-believe alchemy workshop. Then they poured lightning into the resulting abomination, brought it to life and let it evolve from there.
+
+Cuilcis cocked his head. “Satisfaction. I knew one of the Crooked Cousins was going to move out here. I didn’t think that they’d invest enough time for a real creation. This should make my day a lot easier.”
+
+“Why is that?” I croaked. We walked closer, and I stared at everything without holding back. It seemed the natural reaction.
+
+The workshop didn’t have walls. It was the walls. It was also the roof, the chairs and the tables. From the outside, it was relatively normal, rectangular and squat in shape, even if the vivid colours and pipes in strange places were off. From the inside, things got even weirder.
+
+“Because, I imagined I’d have to spend a good deal of time hunting down the type of employee’s I’ll be using to guard my future shop. But if the Cousins have set up shop here, and it’s already grown this big? The alcohol will be good enough that everybody’s already around.”
+
+He wasn’t wrong there. Despite the early hour – or maybe because of it – the large room had several dozen people within. Most were seated on benches around the many simplistic wooden tables placed directly on the soil. Others slumped on top of the tables, clearly sleeping off their drunken stupor. The rest were standing, clustered around the long bar covering the entire length of one side of the building. The alcohol fumes, and the stench of too many people in too tight a space were overpowering, especially combined with the noise of dozens of drunken conversations ongoing at once.
+
+Behind the bar, the magic happened. Literally. Inside the wall, a confused mess of glass, brass, metal and other materials embraced in labyrinthine confusion. There, anybody could observe dozens of chemical, and possibly magic, processes ongoing, as alcohol was filtered, mixed, processed and… titillated or whatever it was called. It was a blast to watch, that was all I knew.
+
+Cuilcis didn’t waste his time with that. He simply walked up to the bar and spoke up in a near shout, drowning out the inebriated conversations. “Pleasure. I am a Level 18 Crafter about to set up shop in Last Chance. I will need two guards, of at least Level 15, with multiple martial skills above level 10, starting today. Shifts will be half-day. Pay will be negotiated. Your work will be horribly dull, my goods will be decent, but should not be good enough to attract real danger, and you may keep the items taken from anybody you defeat during the work day. Come see me for further details.”
+
+That was the weirdest fucking sales pitch I’d ever heard. What was even weirder was that it seemed to work! At least a full dozen of the varied species clustered around the bar disentangled themselves and started weaving, and in one case, falling, in his direction.
+
+Cuilcis nodded at me. “Dismissal. I appreciate you electing to not kill me. Your presence is not needed anymore.” He turned his back and located a table with just a few patrons. Then he waved the first applicant toward him.
+
+I huffed, half in mirth, half surprise, and moved back a bit. Then I turned toward the bar and sighed in satisfaction. This might be a lawless place. I might get myself killed by some rampaging lizardman assassin-gunslinger or whichever equivalent they had in this joint. But I was damn sure not letting that happen without getting myself a pint first.
+
+Five minutes later, all was good in the world. I was cradling a litre-sized mug of an ice-cold beverage that wasn’t beer. Rather, it was what beer would aspire to be, should it get its shit together and get a real job. It was earthy, with notes of… I had no clue. It tasted great and made me happy. Exactly what a good beer was supposed to. Oh. It also gave me a buff, it was that good. That was a pleasant first for me.
+
+Arcane Euphoria (minor)
+
+Your body is in a current state of euphoria, improving your mood and releasing magical energy to improve your over-all capabilities.
+
++1 to all attributes
+
+28 hours, 59 minutes remaining
+
+Given a moment to think about the pitch of my momentary traveling companion, it was making a hell of a lot of sense. Most people would have to make their jobs sound intriguing in order to catch attention. Lie, exaggerate, that sort of thing. Yet, he’d done the exact opposite.
+
+Given the number of prospective guards clustered around him, he hadn’t lied about the Tibidi being perpetually truthful. That meant complete and utter honesty was the way – and him telling guards that they were unlikely to risk their lives because his goods were kinda shite? It was a stroke of genius.
+
+“Left behind, were we?” The voice arrived from my right.
+
+My hand instinctively shot out to my ass, guarding my wallet. Then I realized where I was, that jeans didn’t exist, and that my coin was safe inside my Personal Universe. I turned and met the eyes of somebody standing right next to me.
+
+Of all the races I’ve seen so far, she looked the most like a human. Or, rather, she would have looked like a human - a young, female one, with short curly hair, wide, innocent eyes and a mocking smile – if it weren’t for the glow. Her entire body gleamed from within, as if she’d swallowed a pint of that nasty stuff inside glowsticks. She laughed. “Not to worry. I’m not here to rob you. Relieve you of your coin, sure, but it’ll all be voluntary, I hope.”
+
+I snort-laughed. I couldn’t help it. “That’s a novel approach. Is this where you lead me somewhere, I follow you, and I find myself in an alley, kidneys missing?”
+
+She rolled her eyes. “Please. This is Last Chance. It’s nowhere near fancy enough to have proper alleys.” Her laughter rang out. “No. I just know a good mark when I see one.”
+
+“Okay, this one I’ll have to hear.” I raised an eyebrow and took a deep drag of my mug, waiting expectantly.
+
+“Oh, I’m not offering anything fancy – or depraved, if that’s what you’re looking for. Though I might know a few somebodies, if that’s your thing?” She let the words hang in the air until she realized I wasn’t biting. “Anyways. You’re fresh in town, judging from the dirt and… everything else.” She wrinkled her nose at my state. “This means you’ll be wanting directions, you’ll be wanting information on who’s who, and where you can get all those pesky things you need, and that you can absolutely pay for with all your amassed goods and coins.” Her voice rose in pitch, turning it into a question.
+
+“Sounds enticing.” I tapped my nose. “Except, again, I have been conned and robbed before. How am I to know that your companions aren’t waiting to backstab me?”
+
+She huffed. “There really is nothing interesting to kidneys, just so you know. I mean. You’re the first ‘human’ I’ve met, but unless your kidneys are made of Adrastian steel, I don’t care. But if you really do want reassurances, you can ask the bartender. It’d be proper bad for business if I were to steal his customers and get them killed, wouldn’t it?”
+
+“He could be in on the shtick, of course.” I raised an eyebrow, before laughing. “Okay. I’m in a good mood right now, and I actually am in the market for knowledge.”
+
+“I do know my marks.” She beamed.
+
+“So you do.” I admitted. “Now. Before we talk price, let’s discuss what I need. The first and foremost of these is a bath.”

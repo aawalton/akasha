@@ -1,0 +1,269 @@
+---
+id: 4c0b5c18-444e-5939-8f70-b4f5e9e3d20b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 747 - Caravan Cookout"
+slug: 0748-chapter-747-caravan-cookout
+partOf: mythrans-master-of-all-continued-completed
+position: 748
+ownLength: 3696
+unit: words
+publishedAt: 2018-10-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/302385/chapter-747-caravan-cookout"
+royalRoadId: "302385"
+---
+
+“Okay, that's enough.” Tatya said and held a hand up, and everyone stopped eating the bacon. “You don't want to fill up on treats.”
+
+The members of the caravan went back to their spots and waited. Ren cooked up the rest of the bacon and filled several platters worth, then stored them and the grill. He walked around to the other fires to see what else was being cooked, then helped out where he could to add flavors and change the cooking procedure when necessary. He told them the same thing he told the first cook and said to only try it and then decide what was the better way to cook it. When he saw that all they were cooking was meat for the meal, he walked over to Tatya and Kenkoth.
+
+“Pardon the intrusion.” Ren said, and he felt a slight twinge from Tatya and smiled because he had almost said 'sorry'. “I was wondering why there are no potatoes or other vegetables being cooked.”
+
+“Vegetables?” Kenkoth chuckled. “Why eat those when perfectly good meat is available.”
+
+“If you were Adventurers, I would argue for a balanced meal; but in this case, I'll say for different textures and tastes.”
+
+Kenkoth clapped Ren on the shoulder. “All we need is the taste of meat, my friend.”
+
+“Okay.” Ren said and gave them a slight bow, then walked away. He walked far enough away and took out his shop tower to go upstairs and grabbed a selection of vegetables, then left and stored the tower and took out a table. He put the vegetables on it and cleaned and chopped them up, then took out several different pots to boil them. He made Water with his Hands of the Gods ability, which surprised the people that watched what he was doing, then he used Burning Hands to bring the water to a boil instantly and added the vegetables to the small pots and potatoes to the large pot.
+
+“What is he doing?” One of the other cooks whispered.
+
+“Cooking vegetables.” The one beside him said.
+
+“I know that.” The first one said. “Why?”
+
+“Apparently to eat.” The other one said. “Why else would he do it?”
+
+“That's not what... never mind.”
+
+Ren smiled and checked the potatoes and they were getting close to being done. The other vegetables were a little harder than potatoes, so he knew he had a few minutes after that before they would be done, too. Since the whole place was well within his Aura, he went to the other cooks and saw they had taken his advice and cooked up several pieces as he requested. He took one of each piece from the 5 different fires, then went back to his own table. The boiling vegetables hadn't stopped and he took out two plates.
+
+Ren checked the potatoes and they were perfect for mashing, so he absorbed the water from the pot and mashed them as he poured some Mana into it. He added in a bit of milk and a whole block of butter to make them really creamy, then added a little bit of salt and pepper and put a scoop of each onto both plates. The vegetables were next, and he did almost the same thing with them.
+
+Ren absorbed the water from the small pots and mashed up the carrots and turnips while he mixed them together and added Mana, then added brown sugar to sweeten the tart taste a little. He put a small scoop of it on each plate, then used his Hands of the Gods ability Burning Hands to caramelize the brown sugar on the outside to give it a nice look. He added butter-coated peas and cut up string beans as garnishes, then took out the meat he had gathered from the other cooks.
+
+Ren divided the portions into two and sliced them in such a way as to fan out the different kinds of meat and arrayed them on the other side of the plates. By this point the plates were pretty much done, so he sprinkled a small amount of salt and pepper onto them, then he sighed.
+
+“Damn, I forgot the gravy.” Ren said and walked over to the closest cook and asked for the pot of drippings. The cook handed it over without a word and Ren thanked and nodded to him, much to his surprise, and he watched as Ren went back to his own table and used flour and the drippings to quickly make some gravy. He added appropriate spices and a bit of Mana, then used a small ladle to slowly pour thin lines of gravy over the scoops of potatoes and did a little swirl of it over the cooked meat.
+
+“That's got it.” Ren said and moved all the things aside and picked up the two plates. He used his Burning Hands and Fire Manipulation abilities to make sure everything was still hot on the plates. When he turned around to find Yuwen, he was surprised to see that everyone was staring at him. He successfully ignored that when his eyes quickly found Yuwen's white hair and he walked over to her.
+
+“Artemis, could you...” Ren started to ask, and she took the two plates while he took out a fancy table and two chairs, then covered the table in a piece of fabric. His Etiquette skill kicked in when he stepped close to Yuwen, so he bowed slightly and held a hand out to her.
+
+“Your meal awaits, Mistress.” Ren said, and her face flushed to a deep red as nearly everyone in the caravan were shocked at the blatant display. She took Ren's hand confidently and without hesitation and he led her to the table and helped her sit down, then went around the table and took the plates from Artemis, then put one in front of Yuwen and the other one where he was going to sit.
+
+Ren's Etiquette skill didn't tell him not to, so instead of putting it there, he moved the plate and put it beside hers and moved the chair that was across the table and put it next to her instead. Yuwen's mouth made a little 'o' of surprise as Ren sat down next to her, and he took out silverware for them to use.
+
+“You should try the mashed potatoes.” Ren said and smiled. “It's light and fluffy, just like my hair.”
+
+Yuwen chuckled. “We don't eat vegetables when...”
+
+“Just humor me, Mistress.” Ren said and picked up a spoon and took a small bit of potatoes from his own plate and barely touched the gravy with it, then held it out for her. “Say 'ah'.”
+
+Yuwen blinked her eyes for a moment, then took a breath. “Ah.”
+
+Ren slipped the spoon into her mouth and turned it over so she would get the full effect of it on her tongue. Her mouth closed on the spoon when she tasted it, and he slowly pulled it out. Her lips ended in a kiss shape and her eyes were almost as wide as the odd-looking people that had cooked the meat.
+
+Yuwen chewed on it for only a moment and swallowed. “It's delicious!”
+
+“I told you.” Ren said and cut a small sliver off a piece of meat and stabbed it with a fork. “This next.”
+
+Yuwen sat there and let Ren give her samples of the food from his own plate, until she had tasted everything. “It's all good.” She said, and he felt her surprise. “All of it.”
+
+“I learned from the best.” Ren said. “My ex-fiance could make even the most mundane thing taste like a gourmet meal.” He said and chuckled. “Her baked goods are fantastic, too.”
+
+“Ex-fiance?” Yuwen asked, and her surprise didn't lessen.
+
+“I spent a lot of time in the dwarf lands and I was engaged to a dwarf there.” Ren said. “Do you remember the baby pictures I showed the delegation back at the castle?”
+
+Yuwen nodded and started to eat the food on her own plate.
+
+“She's Renardos' mother.” Ren said, and he almost gasped at the shock he felt from everyone.
+
+“You had a child.” Tatya said from where she sat. “With a dwarf.” Her displeasure rose as the seconds passed. “Out of wedlock.”
+
+“Even though I fulfilled the marriage contract's requirements, I was banished from the dwarf lands and couldn't complete it.” Ren said. “It took me a long time to work out how to get around the restrictions placed on me because of that... and her own culture's rules, of course.” He explained. “Once I worked out what paperwork to file so that no one would realize what I was doing...”
+
+“You didn't!” Tatya exclaimed.
+
+“I did.” Ren grinned at her. “After about 50,000 or so documents and petitions on behalf of non-dwarves, the birth is completely legal.” He chuckled. “It also didn't occur until after the paperwork was properly filed.”
+
+“Good god.” Tatya said and sat down on the ground. “We've been petitioning for an audience with the land's rulers for years!”
+
+“You wasted your time.” Ren snorted a laugh. “There hasn't actually been a real ruler there for years.”
+
+“Wh-what?” Kenkoth chimed in.
+
+“I didn't get a proper ruler installed until just before I was kicked out.” Ren said, then barked a laugh. “She was the one that banished me, too.”
+
+The energy of the entire caravan changed from shock and surprise to annoyance and anger.
+
+“How disrespectful!” Yuwen spat. “I would have killed her for insulting you like that!”
+
+Ren turned to her and took her hand, and he activated his Reassurance Aura. “You all barely know me and yet you all reacted so strongly to that, even those of you that I haven't met officially.” He said and nodded to the cooks as his calmness and relaxing feelings covered everyone. “Thank you.”
+
+Yuwen smiled at him as everyone's anger receded, then started eating again. Ren started eating, too. While they ate their meal, the rest of the members of the caravan were served their plates of meat and sat on the ground on blankets prepared for them. They started eating, and all of them kept giving furtive glances to Ren's table and the enjoyment Yuwen felt as she ate.
+
+Ren let it go on for only a minute, then he turned and looked at them. “Would anyone else like...”
+
+“YES!” They all exclaimed, and he laughed.
+
+“Give me a minute.” Ren said and disappeared from the table. They looked around for him and saw that he was at the food preparation table where his pots of vegetables were. No one had seen him move, except for the odd-looking people with longer than normal necks. Their eyes had followed him without turning their heads. Ren quickly made up plates for everyone, since he had cooked enough for them all. The only thing he didn't have was enough specially prepared meat for them.
+
+Ren went to each person, starting with Tatya, and exchanged her plate. He treated her pieces of meat with different spices and used the recipe he knew with his Substitution ability, then gave her the plate back and dribbled gravy over it. He didn't wait for her to taste it and served Kenkoth next, then Beholo the healer, and on and on until he ended with the cooks.
+
+“You followed me with your eyes.” Ren whispered when he reached their group. They stared at him and didn't say anything, so he smiled and did up their plates. As a last minute thought, he included a cooked Dretch prime cut steak. “You'll really like that.” He said, and went back to the table Yuwen sat at. As he passed Dilseffa, he thought of asking her to join him and Yuwen; but, his Etiquette skill stopped him from doing anything more than smile at her.
+
+“I think that's because she's seeing... or dating... or having dirty and nasty time with the magic user.” Teepo said and chittered in laughter. Ren held in his chuckle; but, she felt his amusement.
+
+“My King?”
+
+“I'm glad you're happy.” Ren said and glanced at the magic user, then took a few more steps and sat down to keep eating his meal with Yuwen. The great-tasting meal was consumed quickly by everyone, and their spirits had been lifted by the enchanted food.
+
+“How did you do that?” Yuwen asked as she put her fork down on her empty plate and stopped herself before she licked it clean. “I just gained a point in Endurance.”
+
+“Me, too!” Dilseffa said.
+
+“Same here.” The magic user said, and a few others admitted they had as well.
+
+“I can't reveal the secret of my Magic Cooking.” Ren said and covered his mouth. “Oh, damn! I just said it!”
+
+Yuwen laughed and Dilseffa snorted, and everyone felt their amusement and shared it. Ren took out the All-Seeing Mirror and asked it for their location on the map, and he saw that they were about halfway across the Human Kingdom.
+
+We're making good time; but, we won't reach the border before nightfall at this speed. Ren thought.
+
+“Well, we don't know what's past that border.” Teepo said. “Maybe ask Tatya and see where we can stop for the night.”
+
+Good idea. Ren put the mirror away and turned to Yuwen. “Thank you for gracing me with your presence for our first meal together.” He took her hand and he felt her apprehension. I'm supposed to do something. He thought and raised her hand towards his face to kiss it, then he had the sudden urge to bite her. Oh. Okay. He turned her hand and pulled it to his ear and very lightly bit the inside of her wrist.
+
+Yuwen's whole body trembled at the intimate touch and her face went completely red. It offset her white hair quite well. “My... my King.” She managed to say. “You... really would...”
+
+Ren's Etiquette skill told him to bite harder, so he did and she gasped. No one moved or said a word as he held it for several moments, then he stopped and let her hand go. Yuwen cupped it to her chest as if it was the most precious thing she had ever gotten.
+
+“Th-thank you.” Yuwen managed to say. “Thank you very much.”
+
+Ren wasn't positive; but, he was pretty sure her social standing in the group had just risen up a lot higher than she thought it would. He stood up and pat her hand, then walked towards where Tatya sat.
+
+“You know, you could become the Marilith Demon and give them another shock.” Teepo suggested and then chittered in delight.
+
+Ren smiled. I think I've had enough transformations to last me for a while. He thought and sat down next to Tatya. “Do you have designated spots for the caravan to stop and stay for the night?”
+
+“We have one right next to the Human Kingdom's border.” Tatya said. “Your improvements have let us catch up on our travel so much that we will reach there in plenty of time to stop overnight.”
+
+“Can I ask what's past the border?”
+
+“Don't you know?” Tatya asked, confused.
+
+“As an Adventurer, I have yet to pass that point.” Ren said, and she nodded.
+
+“There's a small nation called the Liven Empire.”
+
+“Do you mean small in size or small in population?” Ren asked.
+
+“Both.” Tatya said and chuckled. “It's a nation of Gnomes.”
+
+“Gnomes? Really?”
+
+“Oh, yes.” Tatya said. “It took us half a day to cross it at our old speed, with your enhancements, we should cross it in about 4 hours.”
+
+“That is small.” Ren said. “What are the roads like?”
+
+“They were kind enough to have one normal-sized road put through the middle of their lands.” Tatya said. “That's all. No inns, no designated spots to rest and feed the animals, nothing.”
+
+Ren closed his mouth on his next question and thought about it. “So, they don't want visitors.”
+
+“Not even a little bit.” Tatya said. “The road is well away from any population center and they actively avoid being seen.”
+
+“That's... disappointing.” Ren said.
+
+Tatya felt his deep disappointment and touched his arm. “You're sad that we won't see any of them?” She asked, and he nodded. “They are just Gnomes, King Ren.”
+
+“Do they have a ruling family? Do they have a Prince or Princess or government run by the people? What's their daily life like?” Ren asked. “These are questions I'll never get the answers to.”
+
+Tatya chuckled. “We can stop and kidnap one to ask it...”
+
+“What?” Ren interrupted her, and she laughed.
+
+“...but, it won't make any difference.” Tatya finished. “There's nothing you can give them, since they won't accept anything from outsiders. There's no information you can give them, since they don't care about anything except their own lives.”
+
+“You seem to know a lot about them.” Ren commented.
+
+“We've been trying for years to establish relations with them.” Kenkoth said. “We even went so far as to recruit an Earthkin Pixie and made him an honorary delegate, just to have someone of similar size to try and communicate with them.”
+
+“What happened?” Ren asked, when he felt sadness from Tatya and Kenkoth.
+
+“After learning all that he could and sent us that information, he tried to leave.” Tatya said. “They didn't let him.”
+
+“But...”
+
+“Not alive, anyway.” Kenkoth said. “His body appeared at their border with a note that said not to contact them again.”
+
+“Oh, wow.” Ren said. “Why do you think...”
+
+“They felt betrayed, obviously.” Tatya said. “A newcomer came into their lands and asked a bunch of questions, then when he learned what he could about their lives, he wanted to leave.” She said sadly. “Instead of just arresting him or even detaining him and negotiating to release him...”
+
+“It was easier to apply capital punishment.” Ren said, just as sadly. “I'm so...”
+
+“SAD!” Teepo yelled and interrupted Ren's apology. “That's a sad story.”
+
+“It is.” Tatya said. “We approach new people and customs with much more reservedness now.”
+
+“Is that why you have so many delegates and so many camouflaged protectors?” Ren asked.
+
+“Yes.” Kenkoth said. “Thank you for pointing them out back at the castle.” He said, sarcastically.
+
+“Don't worry. Princess Diana had no clue what I was doing.” Ren said. “Not that you didn't know that.”
+
+Kenkoth sighed. “She knew you pointed at something.”
+
+Ren smiled. “My Etiquette skill stops me from asking who it was or what they are, since it would reveal their hidden abilities; but, I've seen everyone in the caravan now and no one is hidden.”
+
+“You know who it was.” Tatya said and she sighed as their attempts to conceal them had failed.
+
+“It was a basic deduction, especially since I assume you left someone...” Ren felt a hint of annoyance from them and changed the number. “...pair of someones behind.”
+
+“I guess that's the not so subtle proof that you can read us easily.” Kenkoth said.
+
+“You don't have to treat me any differently because of that.” Ren said, then grinned. “Then again, maybe you have to treat me as if I was one of you, since you can do the same thing.”
+
+Tatya chuckled. “Yes, we should hold you to the same rules and regulations, then we can keep you all to ourselves and we won't have to worry about you spilling all of our secrets.”
+
+Ren chuckled, too. “I can give you my word that I won't write a book about you or spill your secrets... except maybe when I spend time with the women in my life.” He said. “I share everything with them and don't hide what I do or where I go.”
+
+“Will they...”
+
+“They never have before.” Ren said and put a hand on his chest above the emblem there. “They know they are in my confidence and won't betray that. Or me.”
+
+Tatya felt his deep feelings for them and she tried not to be jealous.
+
+“If you will excuse me, I can't let your current time schedule slow us down.” Ren said and stood.
+
+“What are you going to do?” Kenkoth asked.
+
+“More upgrades for the giant boars and the carriages.” Ren said.
+
+“M-more?”
+
+“These will only be temporary, though.” Ren said.
+
+“You are letting us keep the other upgrades?” Tatya asked, surprised.
+
+“The boars won't want to run slower, now that they know they can run faster with new shoes.” Ren chuckled and gave them a slight bow, then started to walk away towards the carriage drivers.
+
+“Wait.” Tatya said, and he stopped to turn and look at her. “Who do you think we left behind?”
+
+Ren walked back over to her and knelt. “Two of the cooks.” He said, referring to the odd-looking people with longer than normal necks. “They made 6 fires; but, only 5 of them were used for cooking.” He smiled. “I had to assume something happened when there wasn't enough people to cook at all of them, since they were all constructed as if they had done it a lot before, almost automatically.” He chuckled. “Then you confirmed it when I tried to say how many were left behind.”
+
+“So, you have a brain inside that fluffy-haired skull.” Tatya said with a smile. “I will warn the cooks to adjust their routine.”
+
+“I don't think that will be necessary.” Ren said and stood. “If it's your kingdom on the other side of the Gnome Empire, we'll be well inside its borders by nightfall.”
+
+Tatya blinked her eyes at him as he walked away. “He's completely confident in that conclusion.”
+
+“He is.” Kenkoth said. “Even though the upgrades he did for the boars were already well beyond our own means, he hadn't given them everything he could have.”
+
+“You know what that means.” Tatya said.
+
+“He is generous, almost to a fault; but, he doesn't give away everything.” Kenkoth said.
+
+Tatya nodded her head slightly and didn't say anything out loud. I think he gives away exactly what you need. She thought, and held in her smile as she caught sight of a very happy Yuwen.

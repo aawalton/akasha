@@ -1,0 +1,267 @@
+---
+id: 9325ba6c-94b4-51ce-b47b-31c81ab4d481
+page-type-slug: story-chapter-royal-road
+title: "Chapter 637 - A Loose End"
+slug: 0638-chapter-637-a-loose-end
+partOf: mythrans-master-of-all-continued-completed
+position: 638
+ownLength: 2972
+unit: words
+publishedAt: 2018-07-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/233551/chapter-637-a-loose-end"
+royalRoadId: "233551"
+---
+
+Ren had sex with Artemis and made her finish twice more and he finished once, while Seldanna the succubus cleaned up the overflow. She was in her element and her body was glowing as Ren moved Artemis off of him, then Seldanna didn't even hesitate and started to clean Ren off.
+
+Ren stopped pleasing Suniva with his mouth. “Artemis, can Ellaria...”
+
+“Yes.” Artemis said breathlessly, then suddenly two of the succubi had a hold of Artemis. They pulled her away from Ren and laid her down on the bed, and Ellaria was there between her legs and started to clean her with her mouth.
+
+“Suniva.” Ren said, and she took her legs off of his shoulders and climbed down his chest to position herself over him. She looked down and saw Seldanna was still pleasing him.
+
+“Ren, cast the spell.” Suniva said.
+
+“No.” Ren said, and she looked at his face in surprise.
+
+“But... I thought...”
+
+“I told you I don't have to hold back anymore.” Ren said. “Seldanna, switch with Katori.”
+
+There was a pop as Seldanna pulled herself off of him. “Yes, My King.” She said in a deep seductive voice and Katori crawled over.
+
+“Can... can I really...”
+
+“If Suniva approves.” Ren said. “Suniva?”
+
+“R-Ren, I... this is...”
+
+“A little too much at once.” Ren said. “Katori, finish what Seldanna started.
+
+“Yes, My King!” Katori said happily and started to please him enthusiastically. Her body started to glow right away and her pleasure filled Ren's Aura.
+
+“R-Ren...” Suniva tried to speak.
+
+“It's okay.” Ren said and held her close as he kissed her. “I'll have Artemis do it instead.”
+
+“Thank you.” Suniva said and kissed him again. They made out for several minutes while Katori pleased him, and then he started to tremble slightly. Katori didn't slow down at all as Ren began to finish and she kept moving for several moments, then Ren's pleasure flooded into her and his emotions flooded the shared Aura. She couldn't handle it as her whole body locked up and her eyes rolled into the back of her head, then she collapsed to the bed, unconscious.
+
+“Katori!” Chenoa exclaimed and tried to go to her aid; but when she was close enough, her body took over and her head whipped around to Ren and she took Katori's place and tried to please him. Her body glowed immediately, and since Ren didn't need much extra stimulation to continue, the same thing happened to her. She couldn't handle taking his pleasure directly, and her body locked up and she collapsed next to the other succubus.
+
+Ellaria stopped cleaning Artemis and looked at Seldanna. “I need to try.”
+
+Seldanna nodded and Ellaria turned and attempted to finish Ren off. She was only slightly more successful than the other two and lasted several moments before she succumbed to Ren's pleasure and collapsed.
+
+“My King.” Seldanna went over to him, and looked at her fellow succubi. “I've never known anyone that could do such a thing.” She looked up at him, her eyes full of wonder and desire, and her hand grabbed him. “I will succeed!”
+
+Seldanna was a bit more powerful than the others; but, she only lasted a few moments more. “N-no... I... I... failed.” She whispered in defeat and fell unconscious.
+
+“We should tell them when they wake up that you cheated.” Artemis said.
+
+“I don't think being able to keep finishing is cheating.” Ren said, and she looked at him with wide eyes. “All right, I guess if a succubus feeds best when their partner finishes, then me being able to keep going...”
+
+“Flips all their switches.” Artemis chuckled and sat up. She looked down at herself and smiled. “Hey, she did a really good job cleaning me up.”
+
+Ren chuckled, too. “Suniva needs a turn now.”
+
+“Is the fountain calmed down enough for that?” Artemis joked.
+
+Ren took a couple of steps up into the air so he wouldn't disturb the sleeping succubi. “Yeah.” He closed his eyes and took a breath. “I haven't been with Suniva before, so it might not stay calm for long.”
+
+“R-Ren, are you sure you...” Suniva caressed his face. “...without the spell between us...”
+
+“I've teased and played with you for a long time.” Ren said in reference to their time in the Sanctuary, then opened his eyes to look at her. “I've made sure you've felt good and I've always had to wait.” He said. “I'm not going to wait anymore.”
+
+Ren pulled her down and Suniva's Fire burst out of her. He caught it before it could do any damage and held it still, and then Suniva pulled it back into herself.
+
+“I... I've got... it.” Suniva said as she struggled to hold it in. “Just... slow... don't...”
+
+“I'm going to go as fast as you can handle.” Ren said and started, and she couldn't keep her Fire contained while he actually had sex with her without using the Full Illusion spell.
+
+He's really... really... “AHHHH!” Suniva yelled as she finished and her Fire burned bright and hot. Just the thought that they were sharing each other made it that much more pleasurable for her.
+
+“Okay, Artemis.” Ren said, and Suniva went again as Artemis joined in. He couldn't go as fast as he did with Artemis, so he moved at a steady pace and gave Suniva more pleasure than she could handle. When Ren finished, she stopped reacting to the sensations and just stared at him.
+
+“Suniva, are you okay?” Ren asked. She blinked her eyes and nodded slightly, but otherwise didn't react. “I think you need to rest for a while.”
+
+Suniva nodded slightly again and Ren laid her down on the bed. He tucked her inside a fire resistant blanket, just in case she couldn't contain her Fire, and she closed her eyes and fell asleep right away.
+
+“Okay, that was a little weird.” Artemis said.
+
+“Yeah.” Ren said and looked at the 5 sleeping women on the bed. “This reminds me that I need to check on a couple of things.”
+
+Artemis chuckled. “This reminds you?”
+
+Ren nodded. “Halaiyah and Yllana.”
+
+“Oh!” Artemis nodded back. “It has been a while since you checked on them.”
+
+Ren took out the All-Seeing Mirror and asked it to show him Halaiyah first, since she was the one that had gained the Emotion Siphon ability. It showed him a sleeping elfling in her apartment, but he wouldn't know if she was okay until he felt her emotions himself. He equipped his High Elven Court Uniform and cast a Portal spell.
+
+“Teepo, Artemis.” Ren said, and Artemis equipped her armor and Teepo dissolved into the ring. He took Artemis' hand and stepped through the portal and appeared in Halaiyah's bedroom. He summoned Teepo and used the spells to make him solid, then concentrated on Halaiyah. He didn't feel any deep seeded need from her; but, she was asleep so it might not register until she was awake, so he knelt by the bed and touched her shoulder.
+
+“Halaiyah, wake up.” Ren whispered.
+
+“Hmm?” Halaiyah turned her head and her eyes stayed closed. “Hmm.”
+
+“Halaiyah.” Ren said in a normal voice, and her eyes flung open.
+
+“My Lord!” Halaiyah exclaimed, then she felt him and his status registered. “I'm sorry, My King.”
+
+“It's okay.” Ren said and now that she was awake, he could feel she wasn't at the point of starvation, but she wasn't feeling very well, either.
+
+Halaiyah's hand reached up and touched his face. “You're really here? It's not a dream?”
+
+“I'm sorry for not visiting before now.” Ren apologized.
+
+“Can I get another feeding?” Halaiyah said, her voice full of hope.
+
+“Of course. That's why I'm here.”
+
+Halaiyah pulled the blanket away to show she only had a thin nightgown on. “I can feel you've been with other women recently.”
+
+Ren used a thumb to indicate Artemis, and Halaiyah smiled.
+
+“Can she feed me, too?”
+
+“Artemis, want to give us a hand?” Ren asked, and Artemis walked over to the bed and held a hand out to the elfling. Halaiyah took it and gasped, then she stared at Ren.
+
+“You... and... 4 succubi?!?” Halaiyah asked, shocked. “Wait... a... a giant pixie, too!”
+
+Ren nodded. “Your ability to sort emotions is getting stronger.”
+
+“I could do it a little before, but this...” Halaiyah looked at Artemis. “You're sending me these on purpose.”
+
+Artemis nodded. “Ren asked me to help.”
+
+“He's so lucky to have you by his side.”
+
+“I really am.” Ren said and stood up as he stored his High Elven Court Uniform. “Shall we get started?”
+
+Halaiyah looked at him and saw he was quite ready. “A fair exchange again?”
+
+Ren smiled. “That depends on if you want me to make it last or not.” He said, and she had to think about it.
+
+“Um... can we split the difference?”
+
+Ren chuckled. “One medium play session without sex it is.”
+
+“Thank you.” Halaiyah said and Ren climbed onto the bed.
+
+Half an hour later, she was once again sleeping soundly. Ren had charged up her ability and leveled it up again, which meant she could wait for quite some time before she needed another huge feeding. He equipped his High Elven Court Uniform and took out the All-Seeing Mirror, asked it for Yllana, the mother of the High Elven Lord's servant, and saw she was in bed.
+
+Ren cast another Portal spell and Teepo dissolved into the ring, then he and Artemis stepped through and Ren summoned Teepo again and went to the bed. When he touched Yllana's shoulder and rolled her over onto her back, he saw multiple tear streaks on her face.
+
+“Yllana?” Ren whispered and gently shook her. “Yllana.” He said in a normal voice.
+
+“Huh? What?” Yllana opened her eyes and saw Ren. “REN!” She yelled and grabbed onto him and started crying again. “Imsogladyourehere. Imsogladyourehere.” She mumbled.
+
+“What happened?” Ren asked, concern in his voice, and he handed her a piece of cloth to dry her eyes.
+
+“It's... I...” Yllana sobbed and wiped off her face. After a few moments, she calmed down a little. “Allynna's gone.”
+
+“What? She's dead?”
+
+“No, thank Vasalor.” Yllana said as she sat up, then her face took on a frantic look. “It's much worse! Her caravan was ambushed by Dark Elves!” She nearly yelled. “The guards were slaughtered and Allynna, the High Lord, and his council were kidnapped and taken to the Underworld!”
+
+“Geez, don't scare me like that.” Ren stood up straight. “Is that all?”
+
+“REN! They could be torturing her right now!”
+
+“No, she's fine.” Ren said. “The Queen of the Dark Elves said she would contact me before she did anything with the High Lord.”
+
+“WHAT DID YOU SAY?!?” Yllana jumped up and grabbed Ren by the neck with both hands, squeezed as hard as she could and tried to shake him. “YOU KNEW?!?”
+
+Ren didn't move at all or feel her fingers trying to dig into his throat. “I didn't know it happened, I swear on Vasalor himself.” He said in the face of her fury, then Yllana closed her eyes and started to cry again because he was telling the truth. “I did know it was a possibility that he might be captured.”
+
+Yllana's anger came back. “Why didn't you do anything?” She asked, and he felt her frustration that she wasn't bothering him at all as she tried to kill him. “Why didn't you warn them?”
+
+“About what? That they could possibly be attacked during a war with the Dark Elves, people they have been fighting for hundreds of years?” Ren asked and looked at her haunted eyes. “I doubt they would have increased their escort past what I already told them to do.”
+
+Yllana's grip on his neck lessened, then she stepped forward and wrapped her arms around him and hugged him tightly. “Please, help.” She pleaded and kissed his cheek. “You are a great Adventurer. Please get her back for me.”
+
+New Quest!
+
+The Unofficial Leader of the Elfling Race has requested you return her daughter to her.
+
+Rewards: 2,000 Influence; 1,000 Honor; 2,500 Fame; 5,000 XP; XXXX
+
+Ren smiled, because the only thing he would actually gain was whatever was hidden. “Of course I'll help you.”
+
+“Thank you!” Yllana said and kissed him on the lips. “Thank you so much!”
+
+“Don't thank me yet.” Ren said. “I'll be back as soon as I can; but, negotiating something like this might take a while. It could be hours or even days before I come back.”
+
+“I'll wait for as long as it takes!” Yllana exclaimed. “Just get her back for me!”
+
+Ren nodded. “I'll do my best.” He said and checked the All-Seeing Mirror, then cast a portal. Teepo dissolved into the ring, then Ren and Artemis stepped through the portal. They appeared in the middle of the no man's land between the Human Kingdom and the High Elven Kingdom.
+
+“Oh. I thought we were going right to Lylyth's throne room.” Artemis said.
+
+Ren chuckled. “Not without asking first.” He said and took his pet tarantula from his shoulder and held it to his mouth. “My Queen, I humbly request an audience.”
+
+A portal appeared and Ren checked the All-Seeing Mirror to see what was on the other side. It was just a normal room with Lylyth, her attendant Tiatha, and 3 other Dark Elves. Ren took Artemis' hand and stepped through the portal.
+
+“Don't attack.” Ren said as he stepped out of the portal, and the three Dark Elves tensed up as Artemis stepped out with him. “She's with me.”
+
+“Yes, relax.” Lylyth said. “I wouldn't let him come here if he was a danger to me.”
+
+“That's a little short-sighted.” Ren chuckled and summoned Teepo. “I could easily have ducked out of the way as someone behind me jumped you.”
+
+A giant phantom spider leg appeared at his neck and at Artemis' neck and the claw-like talons at the end pressed into their skin.
+
+“I wasn't worried.” Lylyth said, and then smiled. “Even now, with your death at your throat, you're not afraid of me.”
+
+“My Queen, we discussed this.” Ren said and touched the spider leg against his throat. “I'm not worried about you killing me, either.” He said, and caressed the leg lovingly.
+
+Lylyth's face flushed darker grey at the touch, even though it wasn't an erotic zone for her. She pulled the claw-like talons away from their necks and the phantom spider legs disappeared.
+
+“My King.” Tiatha, the Dark Elf healer at her side said, and bowed her head.
+
+“Tiatha.” Ren bowed his head to her, then looked back at Lylyth. “Please accept my apologies if I've interrupted something.”
+
+“You haven't.” Lylyth said. “We were just discussing how well breaking the High Elven Council is coming along.”
+
+Ren turned and looked at the three Dark Elves. “So, is it done, or are you having trouble using the same techniques on the magic users?”
+
+The three Dark Elves exchanged glances with each other, then looked at their Queen.
+
+“This isn't really something that should be discussed with...” One of them tried to say.
+
+“He guessed the problem correctly, so talking in front of the Royal Consort shouldn't bother you.” Lylyth said. “Plus, in case you hadn't noticed, he didn't kill you immediately for corrupting the High Elves.”
+
+The three Dark Elves looked at Ren and saw his slightly amused expression, then looked back at their Queen.
+
+“He is an Adventurer.”
+
+“Yes, he is.”
+
+“But... shouldn't he...”
+
+“...try to stop you?” Ren asked, and everyone looked at him. “I've decided to try and not interfere when I'm not needed.” He explained. “I've done it a few times already and messed things up, so now I'm kind of an observer... until I do see something that I need to interfere in.”
+
+The Dark Elf sighed. “I don't want to discuss corrupting the females-URK!”
+
+Ren had instantly appeared in mid-air in front of the Dark Elf, grabbed him by the throat, and lifted him up. “I will strip the flesh from your bones if you violated them.” He growled in the Dark Elf's face.
+
+“Royal Consort.” Lylyth said sternly. Ren turned to look at her, and his eyes were blood red. She shivered internally from pleasure at the sight. “If you mean sexually and without their permission, they did not.”
+
+Ren's eyes went back to their normal silvery-blue color and he let the Dark Elf go. “Then what does he mean?”
+
+“We use various spells to corrupt and change them, to make them more receptive to our ways, then use both visual and physical stimuli to reinforce their conversion.” One of the other Dark Elves said. The one Ren had choked was still coughing and rubbing his neck. “When we are so far along, we introduce some sexual stimuli; but, they must choose it, or the conversion won't work.”
+
+Ren turned and looked at him. “Has anyone done that when the spells wouldn't work?”
+
+The Dark Elf glanced at the one Ren had choked, and Ren picked him up again.
+
+“Have you groped and played with one of the High Elves without asking her permission first?” Ren asked.
+
+The Dark Elf looked at his Queen, then back at Ren. “I don't see how-URK!”
+
+“Take me to her, now.” Ren said as he squeezed the Dark Elf's throat.
+
+“Ren.” Lylyth said, just as sternly.
+
+“I won't kill him.” Ren said and cast Minor Healing on him. “I'll leave that for his victim.”
+
+The two remaining Dark Elves looked at each other and at their Queen. She shrugged and motioned to the door. The Dark Elves walked around Ren and their fruitlessly struggling fellow and opened the door, then they all left the room to go to the place the captives were being held.

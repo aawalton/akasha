@@ -1,0 +1,117 @@
+---
+id: 43c01b78-748d-5dca-8b1d-d815649eef12
+page-type-slug: story-chapter-royal-road
+title: "Chapter 2"
+slug: 0002-chapter-2
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 2
+ownLength: 2891
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463401/chapter-2"
+royalRoadId: "3463401"
+---
+
+The Uber trip to the airport was uneventful – at least, if you ignored the number of calls that were blowing up my phone. I didn’t answer any of them, though I was sorely tempted to have one final, spiteful chat with Mike, my now former employer.
+
+I took an extraordinary deal of pleasure in tipping the driver the full amount of what Leo paid me for his sparring session. Money wasn’t going to be necessary where I was going.
+
+I did suffer a moment of terror, as airport security pulled me aside. Fortunately, it was just your regular ‘random’ security check. In my short life, I hadn’t flown often. Still, I’d learned by now that being ‘randomly’ selected would be a fact of life for somebody like me. It wasn’t just my size, though I was sure that applied too. Weighing in at two hundred and twenty pounds of mostly muscle at a little less than six feet apparently made me take up more than my allotted space in any given room. Of course, my buzzcut, selected solely for the purpose of not having my hair pulled in the ring, didn’t help. If that weren’t enough, my oft-broken nose and ears that had suffered a lot of abuse, completed the image. I looked like trouble. Hence, the extra love.
+
+The security check was easily wrangled. I’d brought nothing for the flight except for my phone, my wallet, my bag with toiletries and a single change of clothes. What I did fear was that they’d called the police on me and I’d get stopped and miss my one chance to leave Earth behind.
+
+Thankfully, the level of competence of the Bobbies in Northumbria Police hadn’t suddenly skyrocketed. A couple of intimate pats and rote questions later, I waltzed into the departure lounge, overpaying for a sandwich and beer with a solid grin on my face. And two and a half hours later, I left England behind. Excitement mixed with relief, as the wheels of the airplane left the ground, and I embarked on the first leg of my journey toward Portal Home.
+
+***
+
+I rode in monkey. Even though I was holding nothing back, saving nothing, no normal people were able to afford business class or better for any flights going to Asia anymore, and particularly not Indonesia. Today, we’d touch down in Abu Dhabi, refuel, and continue to take off again. Then, I’d be nearly there.
+
+I could see it on the other passengers, as well. Just last month, the passengers on this trip to Jakarta likely would have been a decent blend between businessmen, retirees going to play golf and visit prostitutes, and screaming kids with overbearing parents.
+
+Not so anymore. I spotted a few suits, but apart from that, the passengers looked different. By that, I wasn’t only talking about the gender disparity, with at least three fourths being men. It was more that there were few older people. Not a single kid. And nearly every person here looked haunted, decided or half-panicked. I imagined it wouldn’t be too dissimilar from taking a look into a bus full of people going to war. These people knew what they were doing. And they knew that it was serious.
+
+I’d splurged for a window seat. Regular airplane seats were already cramped enough. A middle seat, for my bulk, was just… no. I’d gotten in early and was just considering how best to keep myself entertained, when a muscular, short-haired girl in front of me played the video.
+
+The video. If you asked anybody, they’d know exactly which one you meant. The video that changed life on Earth for good. The video that took everything we knew about science, space and life in general and tore it a new one. The introduction of the Lord of Freedom.
+
+She had ear plugs. I didn’t need sound to know what was going to happen. Most people across the globe would be able to repeat the entire scene by heart. It had broken all records for streaming, anywhere. And it went down in Bradenton, Florida of all places.
+
+The cell phone video was crisp and clear – high quality stuff for a phone recording. Even so, the image was disjointed, jolted about, like the person recording was experiencing nervous jitters. Sometimes, the sound of the woman recording hyperventilating drowned out words. I couldn’t blame her.
+
+Trying to take in what was going on in the image was confusing, the first time you watched it. Of course, like the rest of the damn world, I’d watched and re-watched the video religiously and I knew what to look for. There, billowing clouds of dark smoke half-hid the scene, courtesy of a homemade meth lab that had exploded, taking three lives and eight trailers with it.
+
+The girl holding the phone zoomed in, focusing the image. There. A person stood out from the background. Even if the zoom made the image grainier, he would have stood out anywhere. Mostly, because he was not human!
+
+Humanoid, sure. He was tall, slender, with a skin colour somewhere between ashen grey and the turquoise you’d see in the ocean on heavily photoshopped travel brochures. His skull was also slightly oblong, with pronounced bone ridges across the temples and a single, mohawk-like fin running across the centre of his skull. All told, you might have mistaken him for one of those freaks who were into body mods. Except, he was nearly three meters tall. Of course, the five-meters-tall gleaming portal right behind him was a giveaway, too.
+
+Despite being dressed only in a simple, white garment that led the thoughts to Rome and knock-off toga parties, the alien didn’t need additional adornments. He wore the countenance and self-importance of a king. Or, at the very least, a duke, drunk on his own importance.
+
+He opened his mouth, and started to speak. At first, it sounded like he was talking to himself. “What garbage. What absolute disgrace. The scryers were wrong about this place.” Mid-sentence, his ire was directed. With a sneer, he turned. “Ah. There we go. The local peons are present.” He cleared his throat, raised his chin, showing off a weird bubble like a frog’s vocal sac underneath, and intoned. “On your knees, cur, or suffer! You are privileged to witness the arrival of our take-over. My takeover. Serve, and you may live, to tell your fellow slaves that you once bathed in the splendour of Nazkhevedar, Lord of the Waters.”
+
+“Oi, you talking to me, bih?” Another voice appeared. This one was hoarse, and high-pitched. The screen jumped to take in the newcomer, then went horizontal to fit both of them at once, wavered as she zoomed out to get the size right.
+
+The new addition to the scene was human. Very much so. He was also barefoot, emaciated, wearing a skin-tight set of tiger-striped leather pants and enough mismatched silver and gold necklaces to kickstart a pawnshop. The jewelry stood in stark contrast to his pockmarked face and, as he grinned, he showed off a set of disgusting brown and yellow teeth. It was impossible to tell if he was twenty-five or fifty – but his eyes were insane, gaze jumping back and forth to take in everything. From the crook of one thin, scarred arm, a large polka-dotted black and white handbag dangled precariously.
+
+“I don’t judge nobody. Yo mom got dirty with a gator? Good fun. Good fun. I do mind that you just cost me my best shake n bake. So. You finna pay me, bih? Or do I get to make a coat of your hide?” His wide smile never wavered, even as he dug into the handbag and extracted a large knife that seemed almost too large for the handbag.
+
+“Pay you?” The alien was too taken aback to even register the insult. “Did you not hear me? I am the Lord of the Waters.” The volume of his voice grew as he spoke. His hands moved in intricate gestures, suffusing his slender body with light, causing a gleaming spear to grow into being from his webbed hands. He raised the weapon to the heavens, ending in a roar. “Prostrate yourself or die.”
+
+“Lord o’ the Waters?” The Floridian took a look at his knife, snorted and tossed it to the ground. “Ya don’t say?” He rummaged around in the handbag again, and extracted a gun. It was a ridiculous piece. Tiny enough to disappear inside his hand, draped in the colours of the Stars and Stripes, with fake rhinestones studding every free surface. Slowly, he raised the gun. “Well, I’m the Lord o’ Freedom. Welcome to Earth, bih.” He pressed the trigger.
+
+In most situations, the self-proclaimed Lord of Freedom would likely have ended in jail, serving time for the creation and destruction of his home-made meth lab – oh, and the murder, of course. However, the video exploded onto every single social media platform out there, and by the end of the day, the Lord of Freedom was the single most famous person in the world.
+
+The American government tried to put a lid on it. Of course they did. But it was pretty hard to deny the authenticity of the video, when the portal was still right there for everyone to see. By the time they managed to put up scaffolding and hide the gleaming, silvery mirror from the public, the damage was already done. And, of course, the stream of additional invaders blew the lid wide off the damn thing.
+
+I spent the first couple days like everybody else on Earth, glued to my phone, trying, and failing to put the least bit of interest in my actual work, while drinking in every new development with a burning passion – a need to know what the hell was happening.
+
+At first, the news was slow to come, and announcements were few and far between. Official stories were lies, increasingly unbelievable. This is AI. It’s Russian propaganda. The excuses and lies became as erratic as the news itself.
+
+Eventually, the president arrived on screen, with what I’m sure was eminent work from one of his speech writers. To me, it sounded like a bastardized blend of every single alien invasion movie I’d ever watched. “We will stand tall. We will persevere, together. The American spirit… blah blah blah.”
+
+The speech was crap. But at least they’d caved and admitted what was going on. Also, they did confirm a few facts, likely under the combined pressure of the rest of the world and every single media outlet out there.
+
+One. The huge gleaming oval was indeed a portal from an unknown destination.
+
+Two. The Lord of the Waters was not the only entity to arrive through the portal with hostile intent.
+
+The two first parts were enough to drum up the attention of everybody. Yet, they might have been able to put a lid on it, for a few more days, with the expected explanations of national security, operational integrity and whatnot.
+
+Except, the View pulled a fast one on them. They managed to somehow sneak the Lord of Freedom, whose real name was Chauncey Deckuns, away. The View helped him evade the attention of the police, military and every federal alphabet constellation known to man, until they managed to get him live and introduce him to the world. Following his rambling, incoherent and wildly entertaining explanations, the government was forced to confirm a third fact.
+
+Magic was real. And the aliens wielded it like they were born to it.
+
+Revealing that third tidbit, of course, ruined whatever miniscule chance they’d retained of keeping outsiders away from ground zero. Paparazzi, airborne and ground-based drones, curious locals and a wide variety of other approaches came together with the noble goal of learning what was going on near the portal.
+
+Somewhere around the 48-hour mark after that first intrusion, the government saw the writing on the wall, and decided to make the best of it. They presented everything they knew, walled off a large area, and erected a wide array of high-quality cameras around the periphery of the portal. Then they made the damn thing available as pay-per-view.
+
+Today, a mere fourteen days after the world changed, nobody knew exactly how much the USA had earned on this pay-per-view scheme. But analysts were estimating that a few months more of this would see the US foreign debt nearly slashed in half.
+
+I’d paid my part into their accounts as well. And when I didn’t sit glued to the live footage, looking for new insight into the aliens, I was constantly watching talk shows who tried to sum up what we had discovered so far.
+
+Within the first week, the collective minds of the Earth, aided by the full capacity of technology, and with the US government mostly sharing their data, were able to confirm a good deal of facts beyond the meagre servings they tried to foist upon us in the first round.
+
+First and foremost: the portal was one-way-only. Either that, or it was only useable to the aliens. That fact was the most questioned, tested and lamented one, especially in the US, where it seemed like every second citizen was ready to hoist their rifles and charge the portal, Naruto-style. However, following an escalation of attempts by the government, all right there on camera, with additional data made public within a few hours of the attempts, we had to admit defeat.
+
+They first tried with inert material. Rocks tossed at the portal. Wood. Fabric, plastic, whatever they could find. Then they doubled down and upgraded. Bomb disposal units. Flying drones. One of those fancy Mars Rover things. Even one of those creepy-ass uncanny valley humanoid robots, falling over its own feet twice before getting there. No dice.
+
+Then, things got real. They tried cats, dogs, a chimpanzee, and finally, a single soldier, wrapped in so much surveillance tech he could barely walk. Still. Nothing. Every single thing passed through the portal, as if it was nothing but an optical illusion.
+
+I was fairly certain the government would’ve preferred an illusion to the real thing. Because, we swiftly learned that, yes, indeed, the aliens were actively attacking. Following in the footsteps of that first officious mage-like asshole came an inconstant stream of others. New enemies arrived through the portal, in small groups or alone. And they were, every single one, hostile, and packed to the actual gills with magic.
+
+The media lapped it up. And so did I. Watching aliens fade into being, confused and disoriented, was compelling in and of itself. Observing them then activate whatever magic and skills they had access to and use it to try and obliterate humanity? Better than a Game of Thrones/Stranger Things combo series!
+
+The aliens got their asses handed to them. The US military had not been lax. They had snipers in place, drones with RPGs, tanks on the periphery. I, and the rest of the world, suspected they also had fighter jets on standby, probably even somebody with a finger hovering over the big ole nuclear button, if push came to shove.
+
+That was not to say that the invaders were unable to fight back. While the tall, gilled aliens were, physically, relatively uniform in looks, their capabilities were anything but. The next week proved the versatility and range of their people. Whatever powered their capabilities, they were able to do things that no human ever could.
+
+One alien burst into flames, rising a hundred meters into the air, spewing fiery death all around him, hot enough to even vaporize some of the bullets flying at him. The key word here was ‘some.’
+
+Another one grew an ever-evolving layer of skin that kept building, making her look like a bad blend of the Hulk and the Thing from Fantastic Four. It also allowed her to shrug off every single bullet and explosion flying her way. Some napalm-like substance, meanwhile, proved bad news for her.
+
+If the aliens had managed to enter Earth silently and create a foothold of sorts, things might have looked very different. As it stood? They were getting their asses kicked.
+
+Some came alone. Others came in a group, showing impressive teamwork. Never more than ten at a time, though, and they never really stood a chance. One scrawny little fellow made it for a while, turning invisible and legging it away as fast as he could. Unfortunately, he wasn’t prepared for the existence of infrared motion detectors. Once they pinpointed him, hiding behind a half-scorched trailer, he went down easily. Yet another of the invaders got herself perforated by bullets, before activating an ability and diving straight back through the portal, proving that access wasn’t one-way for them. The portal just didn’t work for us.
+
+It was the weirdest thing. I think the entirety of humanity was waiting for the other shoe to drop. What was coming? Was this just a prelude to an actual invasion? Would we wake up to see demigods popping through the portal? Slowly, softly, it felt like we were coming around to the fact that this might be it. We’d been introduced to aliens. To actual fucking magic. Only, we weren’t going to get access to it.
+
+Then they found the second portal.

@@ -1,0 +1,339 @@
+---
+id: 62e5039a-23fc-5bdd-b583-079e1b684f73
+page-type-slug: story-chapter-royal-road
+title: "Chapter 696 - Make Me An Offer"
+slug: 0697-chapter-696-make-me-an-offer
+partOf: mythrans-master-of-all-continued-completed
+position: 697
+ownLength: 3554
+unit: words
+publishedAt: 2018-09-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289052/chapter-696-make-me-an-offer"
+royalRoadId: "289052"
+---
+
+When the pool party was over and everyone had rinsed off and changed, Barbi offered supper to the guests. Everyone declined graciously, even Miss Harrison, Dana and Gretchen. They also said they had stayed much longer than they had intended.
+
+“That's because time passes by quickly when you're having fun.” Ren said to them. “Thanks a lot for staying this long, and I hope to see you all again soon.”
+
+“I'm sure something can be arranged.” Miss Harrison said. “Dana was right. This is quite a nice pool setup you have.”
+
+“The Jacuzzi is great!” Ren said. “I once relaxed in it for so long that I almost looked like a prune when I finally got out.”
+
+Miss Harrison laughed. “Yes, that's always a danger.”
+
+“I'm afraid I'll have this knee wrapped for another 6 weeks; but, the stitches on my side should be out by next week.” Ren said. “Barring complications, delays, and unforeseen circumstances... oh, and the use of a securely taped plastic bag for my knee... I'll be able to relax in the water again.”
+
+“Are you sure you added in enough qualifiers?” Stella asked, and everyone laughed.
+
+“Yeah, you're right. The weather could be a factor, as would availability of the participants.” Ren said. “Oh, and then... mhm hmm mm mhm.”
+
+“It was a rhetorical question, you nut.” Denise said as she covered his mouth with her hand. “You need to forgive him. Sometimes he'll ramble on if you don't stop him.”
+
+“That seemed to happen a lot today.” Dana said with a huge smile. “Someone's had to cover his mouth about every second time he opened it.”
+
+“We should have counted to keep track.” Gretchen laughed.
+
+“Next time.” Dana said. “It was fun, Ren.” She said. “Thanks for the party.”
+
+Ren pointed to Barbi and Denise uncovered his mouth. “It was all her this time; but, if I knew you were next door, I would have invited you myself.”
+
+“We know.” Dana smiled. “See you in the game after supper.”
+
+“Meet me in front of my house in the Housing District just before dawn.” Ren said. “I'll either show you where that guy is or give you a map.”
+
+“Thanks.” Dana said and turned to walk away.
+
+“Um... my skirt.” Gretchen said, and Stella went into the house to get it. She brought it out and held it up.
+
+“Yes, there's no saving it.” Stella said and pointed to the faded grass stains. “I ran it through 3 times with the strongest laundry detergent we have, and this is all it could do.” She said. “I'll have a new one ordered in the morning.”
+
+“Wh-what? No, that... that's okay. You don't have to...” Gretchen tried to say.
+
+“For now, you can keep my skirt until the replacement comes in.” Stella said.
+
+“But, what about you?” Gretchen asked.
+
+“I told you I buy all my skirts like that.” Stella said. “I've got a few more of the same ones in my closet.”
+
+“Why don't you let her keep that one, then?” Ren suggested. “It fits great and she won't have to wait a few weeks for the new one.”
+
+“That's a good idea.” Stella said. “It does fit her well, and I only wore it once.” She smiled and handed her the old skirt. “What do you say, Gretchen?”
+
+“I... well...”
+
+“She'll take it.” Dana said, opting for the much more expensive skirt. “Thank you for your generosity.”
+
+Stella chuckled. “It's more convenience than generosity.”
+
+“It's still generous.” Dana said. “Come on, Gretchen, let's get back to the house.”
+
+Gretchen nodded and they left with Miss Harrison and Randy. When the 4 of them walked around the side of the house and out of sight, Barbi physically relaxed and sighed.
+
+“It's finally over!” Barbi exclaimed.
+
+Elise put an arm over her shoulder. “You did a great job putting all of this together.”
+
+“We were all a little worried something was going to happen or go wrong.” Denise said. “I'm glad we were wrong.”
+
+“You stayed on top of everything, so I agree with Elise.” Stella said. “Good job.”
+
+Lisa and Barbara added their thanks as well, then they all looked at Ren.
+
+“I already thanked her for doing a great job.” Ren said and smiled widely. “I also offered to lick her from top to bottom.”
+
+“Ren!” Barbara exclaimed.
+
+“What?”
+
+“There's...”
+
+“No one but us around.” Ren said. “Plus, she knows I can't really do it right now and didn't accept.”
+
+“H-he's right.” Barbi said, her face slightly red. “He made the offer indirectly; but, I knew what he meant.”
+
+“I'm not going to ask how something like that came up in conversation.” Elise said and chuckled.
+
+“We were actually discussing... mhm mm hmm.” Ren mumbled because Denise had covered his mouth again.
+
+“Rhe-tor-i-cal.” Denise said, and everyone laughed again.
+
+“The cooks should have supper ready in a few minutes.” Barbi said.
+
+“Are we going to have tons of leftovers?” Stella asked as they all went over to the part of the backyard where the tables were still set up.
+
+“No, I've arranged to have all the excess food delivered to the soup kitchen downtown.” Barbi said.
+
+“Really?” Ren asked, and she nodded. “That's so great, Barbi.” He said. “I'm with Stella on this. I don't think even I could eat hamburgers and hot dogs exclusively for a week.”
+
+Barbi waved to the waitress, then pointed to everyone to show it was only them, and the waitress nodded.
+
+“What's on the menu?”
+
+“It's broiled pork chops with onions, veggies and mashed potatoes.” Barbi said. “I borrowed the recipe from Denise.”
+
+“Ooo.” Ren said. “This should be good.”
+
+“That depends on if they did the prep work on the pork chops, or just tossed them into the broiler.” Denise said and glanced at Barbi, who shrugged.
+
+“We'll find out in a minute.” Barbi said, then the waitress came over with several plates balanced on her arms. She handed them out easily and showed off her professional skill, then went back to get more, then brought those over. Once they were all served, Ren waved her over. Her face went a little red and she walked around the table to stand next to him.
+
+“Yes, sir?”
+
+“Can you tell me if the staff ate today, or is that against the rules?” Ren asked.
+
+“We all had a hamburger, after all the guests finished eating.” The waitress said. “At our own expense, of course.”
+
+Ren shook his head. “No, that won't do.” He said. “If they docked your pay for food, please tell the one in charge not to do that today.”
+
+“But...”
+
+“The extra food is being donated to the soup kitchen later, isn't it?”
+
+“Yes, sir.”
+
+“Do they pay for it?”
+
+“N-no, sir.”
+
+“Then why should you?” Ren asked, and she couldn't answer. “Since everyone here has already been served, please tell the staff that they are to have supper themselves, at no charge, and on my authority as the person who already paid for it all.”
+
+“B-but...”
+
+“You all worked hard today. The least I can do is feed you, so I'm donating your meals to you.” Ren said. “If anyone has a problem with that, send them out to me or come back to see me yourself, and I'll straighten everything out.”
+
+“Yes, sir.”
+
+“With that out of the way, we should discuss something very important.” Ren said and smiled warmly at her. “Do you want my autograph?”
+
+“Wh-what?” The waitress' face flushed red. “H-how did...”
+
+“It was just a guess.” Ren said. “Do you have a pen and paper?”
+
+“Y-yes.” She said and took out a notepad and a pen to hand to him.
+
+“What's your name?”
+
+“Jane.”
+
+Ren raised an eyebrow at her. “Really?”
+
+The waitress giggled and then covered her mouth with her hand as she nodded. He moved his plate over and wrote out a message to her.
+
+“I hope you won't be insulted if I say that your name doesn't suit you.” Ren said as he passed the pad and pen back to her. “If you were going to pick your own name, what would it be?”
+
+“Ophelia.” Jane said right away, then clamped her mouth shut. I can't believe I told him that!
+
+“That's a really nice name.” Ren said. “Thank you for all your hard work today, Ophelia Jane.”
+
+“Y-you're w-welcome, sir.” Jane said.
+
+“Please, call me Ren.”
+
+Jane opened her mouth to say it, blushed, then walked away without saying anything else.
+
+“I think you just blew her mind, Ren.” Lisa said from beside him.
+
+“Wait until she reads what I wrote.” Ren chuckled and pulled his plate back over so he could start eating.
+
+“EeeEEE!” A young woman's squeal cut through the relative silence of the backyard.
+
+“Geez, what did you write?” Stella asked.
+
+“That I was very happy to give my first official autograph to one of my biggest fans.” Ren said, and that made everyone laugh.
+
+“Yes, that would do it.” Elise said with a huge smile. “Barbi, you know what needs to be done.”
+
+“I'll set the search pattern tonight and have it run constantly.” Barbi said and returned the huge smile. “If it shows up for sale anywhere, we'll know it.”
+
+“That's a bit cynical of you.” Denise said. “I like it.”
+
+That made Elise and Barbi laugh, then the rest of suppertime passed by fairly quickly. No one came out to discuss Ren's offer of free meals for the staff, so he had to assume that no one objected to it. Everyone finished eating and they all stood up except for Ren.
+
+“Should we help with the cleanup?” Lisa asked, and Barbi shook her head.
+
+“I've already had the games packed up and put into the garage, so everything else is the catering company's job.” Barbi said. “The tables, chairs, dishes, and everything else is their responsibility.”
+
+“Nice.” Ren said. “Do we have to let them know we're done?”
+
+Barbi turned and waved to the waitress, who waved back. “I just did.”
+
+Ren chuckled. “Efficient as always.”
+
+“Don't you know it.” Barbi said, and they all went into the house.
+
+“I really need a shower.” Lisa said as she shut the patio door behind everyone.
+
+“I really want to join you.” Ren said.
+
+Lisa leaned over to give him a kiss, then whispered in his ear. “You can watch if you want.”
+
+Ren turned his head and kissed her cheek. “I don't think I can take another painful erection today.” He said with a smile as she stood up straight. “Thank you for the offer.”
+
+“Anytime.” Lisa said and looked at Elise. “Is there anything you might need a hand with when I get out?”
+
+“It's Sunday, and we've already got the demo for the proposal.” Elise said and held up her phone to show the confirmation. “We just need to drop it on a thumb drive and we're all set.”
+
+“Free time it is.” Lisa said and looked back at Ren. “The game's updating tonight, so this next game day is the last until morning.”
+
+“Yeah, I'm going in a bit early so I can warn everyone again.” Ren said. “I really hope they fix the issues that the Water Works update caused.”
+
+“Me, too.” Lisa said. “You've been away from the maids and your county for far too long.”
+
+“I know.” Ren said, sadly.
+
+“If you had stayed, you would have caused them much more pain than leaving did.”
+
+“That doesn't make it right or fair.” Ren said. “I will make it up to them, though.”
+
+“Having that rune barrier around the Main House definitely helped.” Lisa said. “It would have been agony for them if they had felt your artificial Aura.”
+
+“Yeah, and protecting them from all effects is a good bonus; but, they need to be inside the barrier for it to work... and I can't have anyone tell them that, because...”
+
+“...they will know it was your doing and cause them pain.” Lisa said. “I'm sorry you have to go through this.”
+
+“I'm sorry that I'm the cause of it all.” Ren said. “If I hadn't...”
+
+“Don't you dare finish that sentence.” Lisa said sternly, and he closed his mouth. “You didn't cause it all. You've affected things, sure... but, you did not cause everything to happen.” She bent over again and kissed him again. “You can only do the best that you can with what's given to you.”
+
+“Lisa...”
+
+“I expect to see you promptly at midnight so we can pretend to cuddle.” Lisa ran her hand through his hair and smiled. “In the morning, we can worry about everything else.”
+
+Ren nodded and Lisa said goodnight to everyone and went upstairs.
+
+“Even though it's only 7 pm, I'm going to follow her example.” Elise said. “This was a great day and it was also really long.” She bent over to give Ren a kiss, too. “Partying for hours is really tiring.”
+
+That made everyone nod in agreement.
+
+“A nice shower and bedtime for me.” Elise said, ran her hand through Ren's hair as well, then left.
+
+“She's right. That's a great idea.” Stella said and put a hand on Barbara's shoulder. “I'll see you in the morning.”
+
+“I'm going to be so tired tonight.” Barbara said.
+
+“I plan on sleeping, so you should be okay with taking a relaxing night.” Ren said as Stella bent over to give him a kiss. “The couch in my room is comfortable.”
+
+“Don't tempt me.” Barbara chuckled and kissed the top of his head. “I'll be back to start my shift when it's time.”
+
+“I'll be ready to hand the reins over then, even though I didn't have to do a lot of work today.” Denise said with a smile, and Barbara and Stella left.
+
+“Ren...” Barbi started to say something and he held a hand up to stop her.
+
+“I can see that you're trying to work yourself up and convince yourself to do something.” Ren said. “What I said earlier is still true. The body is weak, but the spirit is willing.” Ren said and smiled at her. “I can't really do anything to you except talk and maybe some light petting. So, as long as you're okay with having date night in the house, and you're willing to wait for a fully physical relationship...”
+
+Barbi blinked her eyes for a moment and then smiled, too. “No one's ever said that to me before.”
+
+“Wh-what?”
+
+“It's always been, 'hey, I bought you dinner, so hurry up and put out'.” Barbi said. “Or, 'hey, we're going out this weekend, so lift up your skirt'. The best one was, 'I know we just met, but let's have sex'.”
+
+Ren's mouth made that little 'o' of surprise, and she laughed.
+
+“Yes, it's true.” Barbi said. “Meeting someone like you, someone who doesn't want to have sex with me just because we met, is a breath of fresh air.”
+
+Ren thought about what she said. “With this new knowledge, you expected me to...” He shook his head. “Even after we've dated for a while, I wouldn't treat you like that.”
+
+“No?” Barbi walked over to the counter and hopped up onto it, then slowly spread her legs. Her skirt slowly slid up and revealed that she was wearing a pair of the skimpiest panties Ren had ever seen.
+
+“Oh, god.” Ren whispered.
+
+“What if I asked you to do what you said earlier?” Barbi asked seductively and her hands caressed the insides of her thighs. She stopped right at the spot his hand had been when they were beside the pool earlier. “It's right here.” She said. “What do you say?”
+
+“Two things.” Ren said. “One, you look delicious.” He said and licked his lips. “Two, I really want to get to know you better before I take advantage of you like that.”
+
+Barbi's face flipped from seduction to happiness, and she closed her legs and slid off the counter, stepped close to him and bent down to give him a quick kiss on the lips.
+
+“Yes, you're definitely different from every other man I've met.” Barbi said and left the kitchen.
+
+Ren waited for several moments to let Barbi get far enough away, and he looked at Denise. “Make that three things.” He whispered. “I'm so hard right now it's starting to hurt.”
+
+“It's okay.” Denise said and pushed his wheelchair to the bathroom. “I don't swing that way, and I was thinking about what it would taste like.” She said and shook her head. “It's like she just tried to serve sex to you on a silver platter.”
+
+“Her panties were lilac.” Ren said as Denise laid him down on the floor. “I didn't know they made them that small, though.”
+
+“I didn't either.” Denise said and undid his pants. “It barely covered the... wow, you weren't kidding.” She said as she saw the state he was in.
+
+“Don't worry, I won't last long.” Ren said and closed his eyes.
+
+“Why, because of what Barbi did?” Denise asked.
+
+“No, because I love you.” Ren said. “You didn't even question my need, and here we are.” He felt her mouth on his lips as she gave him a kiss, then a moment later he felt her mouth somewhere else and started to pant.
+
+Ren had been right. He didn't last long, not with Barbi's previous visual aid and Denise's help. Denise cleaned him up and brought him up to his bedroom and thought about giving him a sponge bath. Ren declined when she asked him what he wanted and said he would need one in the morning anyway. She got him settled and handed him his VR headset, and he logged in much sooner than he normally did.
+
+********
+
+Ren appeared by the bedroom wall in the House in Aurora.
+
+“REN!” Teepo exclaimed, and it woke everyone up.
+
+“Teepo, what if...” Ren started to ask if they wanted to stay asleep.
+
+“We asked him to warn us, just in case we didn't notice.” Artemis said and smiled. “The only time we wouldn't notice is when we sleep, so...”
+
+“Teepo alarm!” Teepo chittered in laughter.
+
+Ren chuckled and did his normal Sanctuary routine with them. He had each of the succubi up to a full minute, took the Marilith Demon for 3 minutes, and Suniva for almost 10 full minutes. Artemis had been with him the entire time, and when he was done making the rounds with them, they were all grateful for the attention and didn't mind that he might be gone again for another couple of days.
+
+With that out of the way, Ren used the All-Seeing Mirror and checked on the elfling with the Emotion Siphon ability. She seemed fine; but, he opened a portal to her just in case. Teepo dissolved into the ring and Ren took Artemis through the portal. He spent half an hour feeding and satisfying Halaiyah without intercourse, then used the All-Seeing Mirror to check in on Yllana.
+
+Almost as if she could feel him looking at her, she rolled over in bed to throw off the covers and showed him she wasn't wearing anything at all. Ren smiled and opened another portal and took Artemis into Yllana's bedroom.
+
+“My prayers have been answered.” Yllana whispered as Ren appeared in front of her, completely nude, and he showed her the All-Seeing Mirror with her image on it. “Oh, YES!”
+
+Ren chuckled as she finished without him even touching her, then he and Artemis joined her on the bed. He spent half an hour with her and left her both satisfied and wanting, which was just how she liked it, then he checked the All-Seeing Mirror and opened another portal. He appeared inside the succubi roost and they all felt his presence.
+
+Since it was still the middle of the night, they left their bed partners asleep and met Ren in the big meeting room. He felt their surprise as they saw him, and he wasn't sure why, then he felt their longing to be fed. Ren gave them each large doses of the emotions that they craved and they moaned as he did so through a gentle kiss. He didn't have to do that, since they were being well fed by their partners; but, he had promised them he would feed them more than they would ever need, and he kept that promise.
+
+Lastly, Ren checked on Anabelle and opened a portal to the third floor apartment at the business, then he and Artemis stepped through. Artemis laid down on the bed in the living room and Ren summoned Teepo before going into the bedroom.
+
+“Do I see a naked angel before me?” Anabelle whispered when she opened her eyes and saw Ren.
+
+“Naked?” Ren looked down at himself and saw that he had forgotten to equip his clothes after leaving Yllana's apartment, and he was still quite erect. When he laughed, Anabelle asked what he was laughing at, and he told her that he was just at the succubi roost to feed them.
+
+“Th-that's awful!” Anabelle covered her mouth to stop from laughing. “Those poor succubi!”
+
+“I guess that's why they enjoyed their feeding so much tonight.” Ren said and climbed onto the bed.
+
+“I'll enjoy it too, My King.” Anabelle said and kissed him.

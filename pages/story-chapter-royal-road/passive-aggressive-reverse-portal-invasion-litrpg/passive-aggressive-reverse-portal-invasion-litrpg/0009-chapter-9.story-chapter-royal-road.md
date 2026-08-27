@@ -1,0 +1,153 @@
+---
+id: b25d43e6-3a10-531e-98a7-c5278935c9dc
+page-type-slug: story-chapter-royal-road
+title: "Chapter 9"
+slug: 0009-chapter-9
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 9
+ownLength: 2908
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463454/chapter-9"
+royalRoadId: "3463454"
+---
+
+The gate leading out of the Ever Steady held more than just a gate. There was also a glimmering, sickly-white shimmering shield set between two uneven stretches of wall. It saw a steady stream of traffic in both directions. There was no doubt who the veterans and who the newcomers were around here, though. As a whole, the ones fresh to Ademia were visibly cleaner, less pungent to pass by, and, well, gawked a whole lot more.
+
+In that respect, I didn’t look out of place at all. The moment I passed the gate I stopped in my paces and took in the surrounding world.
+
+I whistled softly. From within the walls, the far-away surroundings had looked dull, normal, like something that could almost be placed back on Earth. Out here? Things changed.
+
+The Ever Steady was situated on a large hill, with the portal slightly off-centre and the watchtower dead centre, watchers able to see in all directions. Tents and camps surrounded the place on the outside of the camp, down the hill and half a kilometre in each direction. Beyond that, however, any hint at civilization faded.
+
+The muddy plain in itself looked like nature you might find on Earth. The farther away from the hill you came, the more things changed, however. In one direction, a large forest stretched straight into the air, like a bamboo grove, but gargantuan. In another, an enormous canyon carved into the earth, disappearing into blackness like a wound in the world. Kilometres away, I could see a shimmering brilliance that might be a large body of water, only the shimmer seemed to continue up into the sky as well.
+
+Then there were the veins.
+
+They started near that canyon, stretching out, fine, branching lines like… what’s that fancy word for, like, blood vessels? Oh yeah. Capillaries. Like a network of those, only these were silver and black and seemed to stretch in every direction. They were more predominant in some places than others, but nowhere as heavily as the canyon, where they seemed to spill from within the canyon itself. Honest to God, every sci-fi action flick I’d watched over the years had me expecting the damn things to start moving, tentacle-like.
+
+Fortunately, we evaded tentacular ruination, and I started focusing on the rest. The wildlife. Currently, I could see a steady stream of shapes moving away from or back to camp on all sides - all human-shaped, thankfully. Farther out, however, things got interesting. There were shapes there. Some were little more than itty-bitty blurs in motion to me, promising some sort of fight. Others were large enough that I shuddered to guess at their actual size. Regardless, there was no doubt of the bottom line: This place was teeming with life. I grinned. I couldn’t wait to test myself against that life!
+
+Finding my way was easy. Not because the encampments surrounding Ever Steady were well-arranged with logical pathing and the like. Sure, one nearby camp sported uniform tents arrayed in neat lines with the sort of millimetre precision that just shouted to the skies they were one of the military groups. Yet, in the absolute chaos of larger and smaller groups in varying degrees of quality and deterioration, that smidgeon of order faded into the backdrop
+
+To my relief, somebody had been kind enough to erect a six-meter-tall, gleaming sign, stating ‘U-Nerds’ with large, blockish letters, and I made my way in that direction.
+
+The camp wasn’t huge. Not compared to the military get-up where the tent rows had seemed to go on forever. Here, the messy layout and steady decline of the hill made it hard to get a proper count. I’d guess that there were at least a few hundred tents there. But it was interesting. I saw gleams of magic left and right. One tent was just floating in mid-air, with nothing visible keeping it there. Another burst with multi-coloured light, like some DJ was having fun inside.
+
+Stepping past the sign, I realized that there was no clear leadership position here, no clear goal. So I stopped and turned as I spotted a guy sitting in front of a tent a few dozen meters away.
+
+He was alone, sitting on a mat, surrounded by a number of wooden racks with dark brown stacks of… something on them. Initially, the racks looked half-obscured by moving clouds, and I grimaced as I realized what was going on. The racks held slabs of bloody meat. And the moving clouds? They were insects. Tiny, buzzing insects fully focused on the lovely meal arrayed in front of them.
+
+I didn’t realize I’d stopped until I heard a snort from below.
+
+The man stared up at me, clearly amused at my expression. He was black, sporting a short, untamed afro and wore shorts and a once white newbie shirt adorned with an almost hypnotic set of concentric circles set in fluorescent colours. “Fresh to the grinder, are you? Don’t worry. This ain’t Delhi street food. You aren’t looking at your near-future food poisoning.”
+
+I raised an eyebrow. “That’s not super comforting. So, those flying raisins there are just condiments, and not laying eggs in the meat?” I spotted a fly, brilliantly green and sparkling, busily slurping at the centre of a dark red mass of meat that had to weigh at least forty pounds. It seemed to be having the time of its life.
+
+He guffawed. “Very fresh to the grinder, it seems. Give me a second.” He closed his eyes and concentrated.
+
+The slab of meat – a full torso of some animal, it seemed, with the legs and head removed - closest to the man moved with a disconcerting slurp and I inadvertently took a few steps away. Then, something seemed to dislodge itself from within the meat, and I gawked in equal parts disgust and intrigue, as the entire damn set of bones clattered out onto the wooden rack, leaving the slab of meat deflated at a third the size. “What. The. Fuck?”
+
+He exhaled forcefully and climbed to his feet. “Whoee. That always takes it out of me. Barsam. Bone Collector. Nice to meet you.”
+
+“Bone Collector?” I chortled. “I have so many questions! The name’s Liam.” Out of the blue, my stomach rumbled.
+
+“First of which, it would appear, is when we eat?” He laughed. “I’m guessing, since you’ve made it here, you’ve talked to one of the recruiters?”
+
+“Will.” I said. “Kind of a nerd, but he seemed alright. Told me to go talk to, erm, some major pain or other?”
+
+He groaned. “I’m so sorry for you, man. Sucks to be you.”
+
+“What?”
+
+“No. I can’t help you anymore. I’ll guide you there, man. But then you’re on your own.” He shook his head sadly and murmured. “Major Pain? Damn.” The capitals were audible. Why would you capitalize that? Sounded corny.
+
+He got up, and we walked through the encampment. As we walked, he explained how, whenever one of the Crafters working with food did their thing, they’d use actual magic to cleanse the food, removing any insects, impurities, basically anything that didn’t belong and result in a better food product, and easing my mind a ton.
+
+Five minutes later, we came to an open space within the tent city. A few dozen meters of space had been cleared, leaving room for… a man.
+
+One man, right at the centre of the open circle. I saw heads perk up from nearby tents.
+
+While we’d walked, I’d built up the image of my contact in my mind. Who called themselves Major Pain? It had to be some massive douchebag with an otherworldly drill sergeant complex. He’d probably yell at me from the get go and have biceps the size of my thighs.
+
+He… was not what I expected.
+
+Major Pain sat on a rickety folding chair, placed under a brightly coloured umbrella, even though the sun was weak. He was picking his teeth with a toothpick, leaning back precariously as he loudly hummed a tune that sounded suspiciously like Bon Jovi.
+
+He was not a muscular powerhouse. In fact, the only strong thing about him was the white shirt holding in his prodigious belly. He wore cargo shorts – I wasn’t even starting in on how he’d gotten cargo shorts made here – and white socks in flip-flops. His face was wide and friendly, half-hidden behind a massive moustache.
+
+The folding chair tipped forward as he noticed me. His eyes narrowed, as he leaned toward me, looking me from head to toe.
+
+“Barsam.” He nodded at the man. “Bringing in a fresh set of bones, are y’all?”
+
+“Fresh from the selection, looks like, Major.”
+
+“Good to see. Well, take a seat, kiddo. I’ll take it from here.” A few faces lifted from the surrounding tents, but most turned back to whatever they’d been doing.
+
+“Now, y’all got sent here by Will, didya?”
+
+“Yep. He said I needed at least a Tier 3 negative quirk to join the group.”
+
+“And didya?” He asked softly.
+
+“Tier 5.” I smirked.
+
+His eyebrows shot up. He whistled softly. “Well, spank my ass and call me Whiskers. And you still have both arms and legs? I’m looking forward to hearing just how messed up that makes your build.” Unexpectedly, he stood up, and shouted. “But first. I’ll welcome ya to the fold. In the first couple days, I’d’ve welcomed ya proper-like. Only, we get so much fresh meat these days, I ain’t got time for nothing.”
+
+I sighed in relief. Sounded like I was at least going to be spared of any hazing rituals.
+
+“What’s your name, kid?” He asked.
+
+“Liam.”
+
+He tipped an imaginary hat. “Tom. But everyone’s been calling me a major pain since I got here, so it kinda stuck.” He grinned, entirely unapologetic. “Now. Hows about you and me get down to business. What’s the damage and just how messed up is that build of yours? Then I’ll see about matching you up with somebody who’ll rectify it all.”
+
+I laid it all out there, while he groaned and laughed at my predicament.
+
+He rubbed his moustache, slowly murmuring to himself as I spoke. Eventually, he grunted. “That’s a mess and a half, alright. Ya can’t even group with somebody attacking an enemy? How’re ya intending to earn any experience like that?”
+
+Before giving him a proper response, I had to ask. “What does grouping up even do, apart from sharing experience? You know, system-wise?”
+
+“Well. Apart from you being able to see the status of the others, there’s this: how’s about you think of the system as the IRS?”
+
+My face scrunched up in confusion.
+
+“Exactly!” He announced. “There’s plenty of calculations happening in the background. Nobody knows how it works. The IRS is there to make sure the calculations are right. Only difference, far as we can tell, is that the system actually knows its shit, unlike the IRS. It makes sure that group buffs and debuffs are applied properly, adjusted by personal buffs, and, lastly, that experience is shared properly. You ain’t getting any experience in a group if you ain’t helping at all. But long as you do your part, you’ll get a share of their kills!”
+
+I let that sink in. Not the worst message, truly. It would mean that, as long as I’d be able to get with a group that circumvented my restrictions, I’d actually be able to gain experience outside of my solitary damage-dealing talent. “Okay. Well, as I said, I maybe didn’t think this through entirely. But my idea was that, at the very least, I’d be able to run interference, keep off any attackers while others kill them. Then, I’d be able to group up and have them support me, while I manage to finish off any stragglers perhaps?”
+
+He shook his head emphatically. “That’s a sorry-ass excuse for a tactic. We’re nerds here. We don’t half-ass shit like that. Besides. I rock at fixing stuff.” He hesitated. “Except doors. Could never quite get the handle on those. Eh? Eh?”
+
+I took a deep breath and just sighed. Then, my traitorous stomach reintroduced itself into the conversation and rumbled, loudly.
+
+He nodded. “Sounds like hunger pangs are the only notifications y’all need for the rest of the day. I’ll point ya to the mess hall. Then, ask for a cot for the night. Tomorrow, show up here, and I’ll introduce the rest of the misfits what’ll save that sorry ass of yours.”
+
+Gratefully, I accepted and moved off for some R&R. Tomorrow would be time enough to get out there and start my path toward world domination.
+
+…
+
+Once I got the chance to just walk around and take in the U-Nerds’ camp, I didn’t mind their setup at all. Was it chaotic and unorganized? Sure. Could I have done with a map and about three days’ worth of explanations? Definitely. But below the layer of unorganized mess, there appeared to be a good deal of, well, logic and unspoken agreements in place, that at least ensured a certain measure of availability.
+
+I located the mess hall. That, apparently, was a joke. They were four different people with separate tarp-covered food stations, working different approaches to food. One of them was named Sean Hall, who apologized for the mess. Then he laughed and wouldn’t stop.
+
+The food was… weird. Not bad. But just so damn unfamiliar. Sean gave me two rolls of a tortilla-like substance that was spongey, but savoury, filled with some dark sauce filled with meat. A younger woman also gave me a bowl filled with a cooked root vegetable, that changed slightly in flavour from bite to bite.
+
+Following that, I strolled around a bit, eventually making sense of the whole Crafter arrangement. Apparently, the whole gig was centred around barter economy. That part made sense, given that there weren’t any actual coins or bills around. Apparently, a few Collectors and Crafters would also offer IOUs for goods or services, promising cash payment back on Earth, but people tended to avoid those, for obvious reasons. What good was cash back on Earth if you weren’t thriving here and now?
+
+Regardless, when you dragged in a kill, you’d need help. And the help would be right there, waiting for you. Not for free, of course. Every single person would ask for part of the materials in payment for their services. You needed sinews removed and treated for bowstrings? Leather cured, treated and shaped into armor? Blood siphoned and bottled? Depending on the work needed, you could expect to lose up to three fourths of the material in the process.
+
+Still, even if that recruiter had complained about their relative lack of Crafters, compared to the opposition, I found that there were quite a few offerings. People made armor, food, with and without attribute boosts, tents and more permanent structures. Oh, and weapons. So many different weapons. No actual smithies, though, weirdly. Given how magical swords were a staple in any fantasy story, that seemed off.
+
+There even was a middle-aged woman with an explosive puff of orange-red hair who was apparently an honest-to-God alchemist. She sat cross-legged next to what I could only classify as a witches’ cauldron, only it seemed to be made from the chitin of some deer-sized insect. I dearly wanted to hear more about what she could create and how, but she was stoned out of her mind. She responded, but only in fragmented murmurs, in what could be Bible verses, portents of doom, or fortune cookie messages.
+
+Eventually, I settled down at a large bonfire, along with at least a hundred others, sitting in small groups or alone, chatting, getting drunk on something vile and talking, boasting, and singing. There was a small wooden stage, where people took turns walking up to talk, sharing whatever advice they had to give.
+
+Some stories concerned the system, skills gained, talent combinations that worked or did not work well. Some revolved around our surroundings, about monster clashes, dangerous or safe areas, good spots for collecting wood, plants and even possible metal or mineral deposits.
+
+One tall man with a grave disposition got up and monologued about threats ‘out there in the shadows.’ He insisted that they were gathering, always watching and waiting, alluding to something without elaborating on it. Eventually, a girl started heckling him, and he strode off.
+
+A few times, it was hard to listen. Along with everything else, people also went up to share those who’d died or been transported back through the portal to Portal Home on the Earth side. Then, they wrote the names onto a large leather scroll for posterity.
+
+I imagined that, in an environment like this, where everything changed from one day to the other, this process was necessary. Not just in order to document who’d left or died, but in order to keep things afloat. You might think you had an arrangement with somebody to keep you company the day after, and collect materials with you. But if he lost his arm and left, and he had no friends – who would know?
+
+All told, I really enjoyed the general vibe I was getting from the U-Nerds. It was messy, it was unorganized and not very efficient. But the mood, as a whole, was accepting and good-natured. We’d see if I thought the same if I survived meeting my group.

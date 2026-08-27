@@ -1,0 +1,159 @@
+---
+id: b26e6fbc-4995-5e62-aeb9-9c4e41e0b24a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 42"
+slug: 0049-chapter-42
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 49
+ownLength: 1558
+unit: words
+publishedAt: 2026-07-14
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3674879/chapter-42"
+royalRoadId: "3674879"
+---
+
+“I never really asked. You weren’t with the U-Nerds. That means you didn’t pick a negative quirk?”
+
+He shot me a warm smile from where he sat with his back against the bed. “Well, I did join the SCA Seven. I’ve done a good deal of LARPing when I was a kid, and-”
+
+“What’s that?”
+
+“Oh. Live action role playing. Nerd stuff. But I did get to play around with some real weapons, and got a feel for the spear.” He shrugged. “I’m a wildlife guy, I guess. I like nature, and I like people but… well. I wasn’t really planning to take on a lot of monsters. More, see the new world for myself, take in the wonders. I figured picking a Scout would let me mostly do my thing, and didn’t mind that a quirk might limit me a bit.”
+
+Tier 3 negative quirk:
+
+Frontline Fighter
+
+You are unable to select any ranged talents or use any ranged weapons. Ever.
+
+I coughed. “A bit?”
+
+He shrugged apologetically. “Well, I’ve always been a bit clumsy. Giving me a crossbow or something sounded like a recipe for bad luck. Besides, I picked my positive quirk to match it.”
+
+Tier 3 positive quirk:
+
+Sharing is Caring
+
+You may expand most buffs and talents to include those in your group at an ongoing cost of stamina.
+
+Steve smiled. “I figured, as long as I’d be able to help others and get the chance to see the world, things couldn’t really go wrong. Boldly go where no man has gone before, and all that.”
+
+Nix walked over and put a hand on his shoulder. “You did help others. A lot. Without that quirk of yours, your Invisibility would only have saved your butt, not ours. That’s something I can never thank you enough for.”
+
+“Aw, shucks. Anybody would’ve done that.”
+
+He actually said shucks. I’ve never heard a real person say shucks and mean it.
+
+Steve cleared his throat. “Anyway. My Tier 3 Invisibility’s straightforward. Costs mana, and if enemies have a really high Perception, they might be able to see through it. My attack’s pretty simple, too.”
+
+Tier 2
+
+Piercing Jab
+
+Active talent. Your next attack will be imbued with a powerful piercing quality, and, for the extent of the attack, your Agility will be calculated at +50%.
+
+Cost: 10 stamina.
+
+5/5
+
+“The piercing is pretty powerful. Not enough to push straight through that buckler of yours, but close. And the increased Agility helps me actually hit and not waste the stamina.” He smiled softly. “I do run out of stamina pretty fast. Anyway. My next talent sounds underwhelming, but I believe it’s the most powerful of the lot.”
+
+Tier 3
+
+Peaceful Rest
+
+Passive talent. Your sleep earns you better rest than most. When you wake up after at least four hours of uninterrupted sleep, you gain a 12-hour +2 bonus to all attributes.
+
+5/5 points
+
+I frowned. Then I tapped my lip. “Wait. Can you…”
+
+“Yes!” He laughed and clapped his hands. “I can. Apparently, the stamina cost for sharing buffs is calculated from the original cost. Given that the cost, in this case, is nil…” Steve trailed off. Probably from the dismayed look on my face.
+
+Math. Why did it always boil down to math?
+
+He cleared his throat. “Long story short. Anybody I’m grouped with will gain this buff, as long as I sleep at least four hours a night, and it won’t cost me a thing.”
+
+“Nice!” I wagged a finger appreciatively at him. “Honestly, that’s super impressive. So… that’s fifteen talent points. What Level are you at, right now?”
+
+“Seventeen.” He smiled. “I’ve got two points to spare. And I just unlocked my new Tier 4 talents.”
+
+“He’s also refused to tell us what they are until we’re all gathered here.” Nix pouted. “He’s such a drama queen.” She plopped herself down on Haddock’s lap and draped his arms around herself like a blanket.
+
+Steve didn’t drag it out further. “I got four different choices for Tier four. I’m ruling two of those out right now. One’s ranged, which, yeah, tough luck. The other is… frankly disgusting. Definitely some assassin-like skill and I would never go that way.”
+
+I had to hand it to him. The unassuming, gentle man with the dad-bod stuck to his guns. I wasn’t too sure I’d be that decisive if I got something really good and really shady.
+
+“The other two… well, judge for yourself.”
+
+Tier 4
+
+Eagle Eyes
+
+Passive talent. You are able to improve your eye sight at will. For a full minute per activation, you will operate with improved Perception, up to a maximum of +3 per talent point.
+
+Cost: 1 stamina/minute per 3 Perception points improved.
+
+0/5 points
+
+Tier 4
+
+Jack of all Traits
+
+Passive talent. Most people decide to focus on one or two specific attributes in their quest for power. You leave your options open. You may boost one of your attributes by a percentage, for as long as you keep the talent active.
+
++10% per talent point.
+
+Cost: 5 stamina/minute
+
+0/5 points
+
+“Huh.” Nix steepled her fingers. “So, the maximum you would be able to improve your Perception would be fifteen with all five talent points put into the talent. Meanwhile, the other one would mean a lower boost, especially at first, but you get to pick the attribute?”
+
+“Also, that Jack of all Traits is more expensive at first, compared to what you get from it.” Haddock added.
+
+“Both would be useful, of course.” Nix mused. “And you can share them with the rest of us. But, I guess it boils down to what you want to do. The first one locks you more into the role as a scout, while the second one allows you to pick and choose, help and improve where you like.”
+
+Steve looked undecided for a second. Then his face opened up into a cherubic expression of glee. “Well, mama always said I was her little helper. Boosts to everybody, it is.”
+
+A few seconds later, I took a look at my own stats and whistled softly.
+
+Perception: 13 (16)
+
+“It actually does work like a percentage for me as well. Try Fortitude!”
+
+A second later, it jumped, and I felt the change in my bones. A surge in my well-being. A gentle hand on my… It was nice!
+
+Fortitude 31 (97)
+
+I nearly choked. Screw the math. Along with the rest of my boosts, this tripled the effect of my actual Fortitude. “Yeah.” I croaked. “This’ll be useful.” Useful was an understatement. Steve would be able to switch it as he wanted. Meaning, he could use it on Perception when he was scouting, switch to, say, Mental Control, when Haddock was crafting, Mental Power when Nix was casting and end up with Fortitude when things got hot.
+
+“This… changes things.” I finally said. With a shake of my head, I got up and started pacing. “Not just because it’s useful. Of course, it’s useful. But think about this: Once you manage to max that talent, you will be able to add an extra fifty percent bonus to Nix’s Mental Power, on top of the twenty-five percent her own talent already grants her. Then, her quirk doubles the Mental Power after that. I… can’t even begin to do the math-“
+
+“A hundred and two.” Haddock interrupted. “A hundred and four with Steve’s rest buff. If… when she increases Mental Power even more, it’ll change.”
+
+Nix tittered, and flung her arms back around his neck. “Who’s my little rain man? You are!”
+
+“That’s my point, though. A hundred and four Mental Power. That’s eleven times what a Level 0 person has. Think of the impact that a Flash Flood with that sort of power will have.”
+
+“Wait. Are you saying that we’re ready to fight back against them?” Steve blinked, uncertainty written in his every movement. “I’m not ready to be a hero.”
+
+“You already are a hero to us, doofus.” Nix chided. “Saving lives, remember?”
+
+I shook my head softly. “No, Steve. We’re not ready. Not yet. But it’s staring us straight in the face. We just need for you to level up enough to max out that buff. That’ll allow me the time to finally earn my taunt talent and let Haddock create some truly overwhelming defensive positions. With that in hand? We’ve got the skills to go back in there and dominate.”
+
+Steve looked uneasy at the prospect. Haddock’s beard twitched softly, but he looked ready. Nix eventually said. “I think you’re right. But… there’s more that we’ll need.”
+
+“Huh?”
+
+She didn’t meet my eyes. “Well. Last time, we thought we were winning, too. Then, out of the blue, we were hit when we weren’t ready. Their timing was perfect, they got around our scouts and totally defeated us. We need something more. Some advantage.”
+
+I facepalmed. “I hate you. So much.”
+
+“Really?” Her face fell. “You mean that?”
+
+“What? Obviously, no. What I’m saying is that I hear what you’re saying. The conclusion is just sucky.”
+
+“I’m so lost.”
+
+“You’re saying we need knowledge. I agree. I also know who has all the knowledge. Except, he’s an egotistical, penny-pinching asshole who tried to have me killed first time he saw me. Now, you’re saying I need to somehow convince him to share that knowledge.”

@@ -1,0 +1,229 @@
+---
+id: f4eb22a5-12ad-5083-9a36-8711e9b2e14d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 608 - Are Things Working Out?"
+slug: 0608-chapter-608-are-things-working-out
+partOf: mythrans-master-of-all-continued-completed
+position: 608
+ownLength: 2745
+unit: words
+publishedAt: 2018-06-14
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224214/chapter-608-are-things-working-out"
+royalRoadId: "224214"
+---
+
+“I will change the world... assuming I can't change the world of the actual game.” Ren said. “In order to do that, though... Barbi, I want you to start your social media campaign.”
+
+“Ren, you can't...” Elise started to say, and he raised a hand to stop her.
+
+“It's not a smear campaign, Elise. I just want people to know that I dislike the direction the company has taken their most popular game.”
+
+“You could bring that up at the next shareholder's meeting, too.” Barbi said.
+
+“Wait, what?”
+
+“You own a small bit of shares in the company.” Barbi said. “Elise gave you 5% of the company's stock at your birthday party.”
+
+Ren thought back and remembered the stock in the portfolio she had given him, one of which was for Sid Tec, but he hadn't read what it was. “I thanked you for the gift, but I didn't realize it was that substantial.”
+
+“I didn't really know what you would want, so I gave you 5% of the 30% I own.”
+
+“You own 30% of Sid Tec?!?” Stella, Lisa, Ren, and Barbi all exclaimed together.
+
+“Well, 25% now.” Elise said.
+
+“Why were you just the boss' secretary?” Lisa asked.
+
+“I was good at the job, and it let me keep an eye on everything in the company while it was growing.” Elise said. “When it got to the point that all I was doing was secretarial work and not helping the company as a whole...” She looked at Ren. “...I found something else to do with my time.”
+
+“Good lord, Elise.” Stella said. “How rich are you?”
+
+Elise chuckled. “I've been in Ren's ballpark since I was a teenager.”
+
+“Wow.” Lisa and Ren said at the same time.
+
+“Is it that surprising?” Elise asked.
+
+“No.” Ren said. “What's surprising is how you ended up with me.”
+
+Elise knelt by the bed and took his hand. “Sometimes you find a certain someone that you'll give up everything for.” She said. “I wanted to do that for you a while ago; but, you convinced me that it was more important to live my life and actually think about the decision and the consequences.” She gave him a kiss and leaned back. “It took me quite some time to realize that I wasn't needed where I was anymore.”
+
+Stella put a hand on her shoulder, and Elise turned her head and looked up at her. “Now you're here and you're doing so much for us.” She said. “Handling the money, making investments, making sure everyone is getting paid...”
+
+“I'm not getting paid.” Lisa said jokingly. “I'm a volunteer.”
+
+That made everyone laugh.
+
+“I think we should change that.” Ren said, and everyone looked at him. “You can't be a nurse's aid since you don't have the training, and neither Elise nor Barbi need a personal assistant to lighten their workload.”
+
+“What are you getting at?” Stella asked.
+
+Ren smiled. “I'm sure there are times when everyone is a bit too busy to do some of the little things that need to be done.” He said. “Making a quick run to the store for a forgotten item, picking up a few groceries, or running errands that people just don't feel like doing at the time.”
+
+Lisa blinked her eyes a few times and thought about it. “You want me to be a gofer?”
+
+Ren nodded. “Since you can't be a personal assistant for one person, why not be an assistant for the whole house?”
+
+“Ren, you can't just make up a job like that.” Lisa said, and looked at the other women to get their opinion. “Can you believe...” She stopped talking when she saw contemplative looks on their faces.
+
+“You know, I could have used an extra pair of hands when I was sorting the laundry.” Stella said.
+
+“I really needed a cup of coffee this morning, but I was too busy to get it.” Elise said.
+
+“I ran out of digital media while transferring things today and had to wait.” Barbi added. “I could have used another handful of USB thumb drives or even a full portable drive to handle the load.”
+
+“Are... are you guys serious?” Lisa asked as she sat up on the bed.
+
+“Well, we didn't even think of things like that until Ren just mentioned it.” Stella said. “Why is that, I wonder?”
+
+“Like I said. Sometimes you're just too busy to notice the little things.” Ren said and put a hand on Lisa's back. “When I saw the Sanctuary I made for you was gone, it made me think about what I couldn't do without you there... and when I logged out, it made me think what everyone else couldn't do without you there.”
+
+“Ren... I...”
+
+“You don't have to accept right away, obviously.” Ren said. “Think about it. Hang around and see what comes up while you're within sight.”
+
+“But...”
+
+“I think it's a good idea.” Stella said. “At least you can try and see if you want to do it.”
+
+Lisa looked at their expectant faces and hugged herself. “I don't know if... if I can...”
+
+Ren rubbed her back and she turned her head to look at him. “That's why I said to just hang around. You don't have to hide in your room when we're not eating.”
+
+“How did you...” Lisa sighed. “Was I that obvious?”
+
+Ren chuckled. “Only to someone else who also hides in their room.”
+
+Lisa opened her mouth to ask who, then she realized who he meant. “You're not hiding.”
+
+“Oh, I am.” Ren said. “It's so much easier to just lay here and let everyone do everything for me.” He said, then tried to sit up. Elise braced his back and helped him, and he sat up. “I hate exercising, I hate how weak I am most of the time, and I hate how easily I can be hurt when I'm not careful.”
+
+“Ren...”
+
+“When I leave this room, there is always a danger that something is going to happen to me. Always.”
+
+No one said anything in response, and he put an arm around Lisa to hug her.
+
+“An object at rest tends to stay at rest... unless an outside force acts upon it.” Ren said and kissed her cheek. “I don't want to stay at rest. I want to stay in motion. I want you to stay in motion, too.”
+
+Lisa took in a breath and let it out. “I can't promise that...”
+
+“Promise?” Ren chuckled. “I just want you to look. That's all.”
+
+Lisa closed her eyes and nodded, and he gave her a kiss on the lips.
+
+“Thank you, baby.” Ren said, and her face flushed a little red. He looked at his watch and saw he was just about out of time for the game night. “I need to get back online before they start to worry.”
+
+Stella chuckled. “You just want to get to your cuddle date.”
+
+“I'd ask for it here, but I don't know if I'd survive it right now.” Ren said and grinned. “I'll be willing to try later, though.”
+
+Stella laughed. “You are a glutton for punishment.”
+
+“I am so guilty of that when it comes to you.” Ren responded and laughed, too. “The risk is worth the reward.”
+
+“We would try to be careful, but you know how cuddly you are.” Elise smiled and leaned in to kiss him. “Have fun in the real game.”
+
+“Does that mean I have your permission to have sex with them all?” Ren asked with a huge grin, and Elise chuckled.
+
+“I'm sorry, I have to agree with Lisa here. You shouldn't have sex with the succubi.” Elise said.
+
+“It's too dangerous.” Lisa said. “I know you forbade them from draining you, but...”
+
+“But what?”
+
+“That's not all they can do with their abilities.”
+
+Ren smiled. “I know all about their manipulation techniques.” He said, and she looked at him with wide eyes. “What? Did you think I wouldn't research them once I knew I had to keep them?”
+
+Lisa opened her mouth to say that, then she chuckled. “I'm sorry I assumed you wanted to stay ignorant.”
+
+“Well, I think I would rather be ignorant in some cases, just not when my virtual life is concerned.” Ren said and let her out of the one arm hug he had her in. He laid back on the bed and Stella handed him his regular VR headset. He held a hand up and stopped her from putting it on him. “I just want you to know that I'm going to have intercourse with Artemis.”
+
+“Ren...” Stella started to say, and he held a hand up again to stop her.
+
+“She wasn't in the backup server, and it felt like a piece of me was missing.” Ren said. “I'm going to tell her what she means to me, especially after all the time we spent in the Water Realm together.” He said. “I made a mistake with Xuunah. Even after I shared everything with her, we can't be together physically because I didn't handle the situation properly. She is in some kind of limbo now because of me. No people to return to, no one to be intimate with, and no real place to stay and have a family.”
+
+Elise, Barbi, Stella, and Lisa didn't say anything, and he motioned to the VR headset.
+
+“I'm not going to make that mistake again.” Ren said and put on the headset. “I fixed it in the backup server, but I can't figure out what to do to change the situation in here.” He said and tapped the headset. “Just like the maids, being around me hurts her in ways she doesn't understand, and I won't do that to Artemis.”
+
+The women stayed quiet and Ren relaxed.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on the bed and turned his head to see Artemis beside him. Her eyes were open and she smiled at him.
+
+“Good morning.” Artemis said. “You made it just in time.”
+
+“Just in time for what?” Ren asked, and she slid close and kissed him passionately. Her arms snaked around him and he put his arms around her, and they stayed that way for several minutes.
+
+“For that.” Artemis said as she broke the kiss, then held him tightly as she cuddled in.
+
+“Cuddle Fight!” Teepo yelled from the ceiling, and the 4 succubi sat up and grinned.
+
+“Oh, crap!” Ren said, and then they all tackled him.
+
+*
+
+“What is all this?” Queen Narhilda asked as another large stack of papers was placed upon her desk.
+
+“Addendums and slight alterations to currently outdated laws, Your Highness.” Dural, the Advisor to the Throne said.
+
+“By the gods, I don't need more paperwork!” Queen Narhilda exclaimed. “I'm not sure why we are being inundated with so much of these things the last little while, but I'm tired of it.”
+
+“I'm sorry, Your Highness. Perhaps I can have a word with the committee...”
+
+“No, if they passed them through already, they won't want to discuss whatever they are again.” Queen Narhilda said. She called over a magic user and told them to use a copy spell. She signed the top piece of parchment and pointed at the signature. The magic user nodded and put her hand on top of the writing and activated the spell, then the Queen's signature appeared on all of the papers in the rest of the stack.
+
+“Is there any more of these things coming through?” Queen Narhilda asked as the magic user went back to her post by the wall.
+
+“Not that the council has said.” Dural replied.
+
+“Finally!” She said and sat back, then rubbed her large belly. “I hereby declare that no more paperwork will cross my desk for the rest of the week!”
+
+Dural chuckled. “Shall I call for your husband to come and retrieve you?”
+
+“Yes, please.” Queen Narhilda said.
+
+Barnar was there only a few moments later and helped her stand up. “I think we need to make you a special cart for moving around, you're getting so big!”
+
+Narhilda laughed. “Yes, it won't be long now.” She said and waddled from the room on his arm. “Only a month or so to wait for the next ruler of the Dwarven Kingdom.”
+
+Imagine that. Barnar thought in wonder. My son! The king of my people!
+
+*
+
+Lylyth, the Queen of the Dark Elves, was beside herself with happiness. She hadn't felt happiness like this in a long time, and she wasn't sure if she liked the feeling or not. She hadn't managed to take much of the land from the High Elves; but, that wasn't the point of the battle in the first place. What she wanted was to deplete their main forces to a significant degree, and she had managed it spectacularly.
+
+With the main force weakened to the point of collapse, the small skirmish force she led had managed to finally corner the High Elven Lord and his caravan just before it had reached his home city. Her force outnumbered his only marginally, but that didn't matter at this point. She had him, and she was going to make him see that she was the one with the power now.
+
+“Just surrender, you arrogant fool!” One of Lylyth's men yelled, then a fireball whizzed by their heads. “I said 'surrender', not 'keep shooting'!”
+
+Lylyth smiled as the others of her force laughed. She stepped close to the man that yelled and put a hand on his shoulder. “This will only last 2 minutes.” She said, and he was covered with glowing black armor from head to foot.
+
+“I'll only need one, My Queen!” The man said and faded into a shadow, then the shadow moved across the space between her and the High Elven Lord's defensive line.
+
+“Open fire!” One of the High Elves yelled and the shadow was peppered with arrows. “No, you idiots! With Light! LIGHT!”
+
+Lylyth couldn't help but laugh as her soldier jumped over the perimeter the High Elves had set up and started to slaughter the soldiers. She waved her other men forward and they covered themselves in shadow and ran for the High Elves. One of the magic users finally managed to cast a Light spell and hit the shadow in their midst, which made it dissipate immediately and revealed her soldier. He was full of arrows; but, they didn't slow him down because her magic armor had caught them.
+
+“Switch to close combat!” Someone ordered, but it was too late. The rest of her force jumped the perimeter and joined the first man, just as her armor spell faded. With the others there to help, they made short work of the remaining High Elven defenders.
+
+“My Queen! The prisoners are secured.” A male voice rang out.
+
+Lylyth nodded to the Dark Elf healer, who was also her attendant, and she walked over to the High Elves and the healer followed. When they arrived, The High Elven Lord stood there in defiance of her men, even with a poisoned blade pressed to his throat.
+
+“Go ahead and kill me, you filth.” The High Lord, Alinar Keacaryn spat at her.
+
+Lylyth smiled evilly at him and looked to his right. The elfling servant was there, and she was just as defiant as her master, only she wasn't being vocal about it. Lylyth could feel her emotions, however.
+
+“No, High Lord. I won't make it that easy for you.” Lylyth said. “In fact, I believe some... very special attention... will be paid to you for quite some time.”
+
+The High Lord didn't let anything show on his face, but his emotions almost screamed for death instead. Lylyth walked over to him and pointed to her attendant, who cast magical chains to bind him, then did the same to the elfling and joined them together.
+
+“Bind his advisory council as well. If they try to speak, don't gag them.” Lylyth said, and felt their relief. “Cut out their tongues instead.”
+
+The High Elves gasped at her words, and she grinned as the healer moved on to do as her queen wished. Lylyth was quite happy now that her quarry was caught and she decided that she didn't have to like the feeling to enjoy the benefits. The remaining High Elves were bound in short order, then the captives were loaded onto their own carts and transports, then carried to the closest Underworld entrance.

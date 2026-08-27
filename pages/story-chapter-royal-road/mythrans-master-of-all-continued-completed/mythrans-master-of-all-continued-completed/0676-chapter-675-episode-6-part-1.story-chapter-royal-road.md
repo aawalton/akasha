@@ -1,0 +1,303 @@
+---
+id: 5f310609-8eb2-53aa-b674-d40f8b802ce7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 675 - Episode 6: Part 1"
+slug: 0676-chapter-675-episode-6-part-1
+partOf: mythrans-master-of-all-continued-completed
+position: 676
+ownLength: 3497
+unit: words
+publishedAt: 2018-08-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/283452/chapter-675-episode-6-part-1"
+royalRoadId: "283452"
+---
+
+After about 2 minutes, the portal opened and the half-sized Marilith Demon slithered through, then Ren and Artemis stepped out of it. Ren dismissed the portal and summoned Teepo, who flew up to land on Ren's shoulder. Ren then cast the spells to make him solid and able to talk, then returned the Marilith Demon to her normal size.
+
+“I still can't believe we were gone for a month.” The Marilith Demon said and looked out her outside door. “The pigs are still in the same spots!”
+
+Ren chuckled. “It's only been a couple of minutes here.” He said. “I could say that you get used to the changes in the time; but, it's an adjustment each and every time when it happens.”
+
+The Marilith Demon nodded. “Yes, I can see where the confusion could come into play.” She said and shut the door, then slithered over to Ren. “You need to go now, don't you?”
+
+“I do, and it will be for most of the night.”
+
+“I suppose I can't be upset about that.” The Marilith Demon said and smiled as she bared her teeth.
+
+“You can be if you want to.” Ren said and stepped up into the air and cupped the sides of her face. “I won't make you wait to see me again like I did in Shargon Caverns, though.” He said and kissed her top lip. “I'll take you back to the Sanctuary for another month when I come back.”
+
+The Marilith Demon reached out and hugged him with all of her arms. “Are you trying to spoil me with all of this personal attention?”
+
+“Yes.” Ren said, and she laughed.
+
+“Your brutal honesty astounds me, even now.” She said and let him go. “Enjoy your Adventurer's business.”
+
+“I will.” Ren said and stepped down to the floor, took Artemis' hand, and they left the room. They went down the hallway and into the big bedroom to find that the 4 succubi were sound asleep. Teepo took off from Ren's shoulder and flew up to land on the ceiling, which was his regular lookout post. Artemis didn't want to disturb the succubi by trying to lay down on the bed, so she walked with Ren over to the wall and stayed out of the way.
+
+“See you soon.” Artemis whispered and gave him a kiss.
+
+“Thank you for being so accommodating about all of this.” Ren whispered back. “Logout.”
+
+********
+
+“Ugh.” Ren said, and Stella took the VR headset from him.
+
+“Relax.” Stella said and gave him a supplement drink. “I mixed in a mild pain reliever into it this time, instead of giving you a full dose with the pills.”
+
+“Thanks.” Ren said and took a drink. “Mmm, numbing peach.”
+
+Stella chuckled. “I didn't put that much in it.”
+
+Ren smiled and handed it back to her. “Help me to the bathroom.”
+
+Stella put the drink on the nightstand and helped him get out of bed, then walked with him over to the bathroom and helped him do his business. Ren asked her to take him to the table instead of the bed, so she helped him over to the table and sat him down on one of the chairs. He relaxed and sat back, and Stella retrieved the supplement drink from the nightstand and brought it over to him. He took another mouthful and sighed as he felt a bit tingly.
+
+“Did you talk with Barbara about the episode of my show that we missed?” Ren asked.
+
+“Yes, she's all set to watch it with us. We can do it anywhere you want to.”
+
+Ren glanced back at the bed and then at Stella. “The theatre room would be best, I think.”
+
+“Are you sure? I don't want you to push yourself too soon.” Stella said.
+
+“I need to move every day or I'll start getting weaker again.” Ren said. “Just going to the bathroom isn't going to be enough.”
+
+“We'll go there to watch the show right after lunch.” Stella said. “Which should be arriving any minute now.”
+
+The bedroom door opened and Denise pushed the cart in, then Lisa, Elise, and Barbi came into the room behind her.
+
+“Hey, handsome.” Elise said as they walked over to the table. “How are you?”
+
+“I really want to lie and say that I'm feeling much better, but I feel like crap.” Ren said and grinned at her, and she chuckled.
+
+“That's not really a good reason to smile.” Elise said and gave him a kiss, then sat down next to him.
+
+“What else am I going to do with so many beautiful women around me?” Ren asked as Lisa sat on his other side and gave him a kiss, too. “Frown and say my life sucks? You know I'm a terrible liar.”
+
+That made everyone laugh, and Denise put a large pot of chicken noodle soup, with extra noodles, in the middle of the table. Stella helped put the bun of bread, bowl of crackers, and bread sticks around it.
+
+“Wow, you're going all out today.” Ren said.
+
+Elise dished out a bowl of soup for him and Lisa pointed to the extra things.
+
+“Um... a slice of bread, please.” Ren said, and she buttered it for him. “Thanks.”
+
+Lisa took a bowl herself, filled it with soup, and put three bread sticks in it. Everyone helped themselves and took what they wanted, then they all enjoyed sharing a meal together. It took about 20 minutes for everyone to finish and the women all sat back from the table and sighed as one.
+
+“Is this the fabled 'in sync' that women can become if they are around each other for a while?” Ren asked, and everyone laughed.
+
+“You've got that a little wrong.” Elise said and ran her hand through his hair.
+
+“It's actually women's menstrual cycles that sync up, not their actions.” Stella said.
+
+“Wait, what?” Ren looked at her, then at everyone else. “That's what the saying means?”
+
+They all nodded, and he thought about it.
+
+“Well, did that happen?” Ren asked and looked at them all again.
+
+“Are you really asking us what days...” Barbi closed her mouth and stopped talking.
+
+“I had mine 2 days ago.” Stella said without thinking about it.
+
+“M-me, too.” Lisa said.
+
+“Hey, so did I.” Denise said, surprised. What had started as a joke on Ren's part, seems to be true.
+
+The three of them exchanged looks, then they looked at Elise.
+
+“It was supposed to be 2 days ago.” Elise said. “I'm a little late this month.”
+
+Complete silence met her words, and she looked at their wide eyes.
+
+“I've been a whole week off sometimes. It's no big deal.” Elise said.
+
+“The most I've ever been off was a few days.” Stella said. “Never a week.”
+
+“The most was 5 days for me.” Denise admitted, a little reluctantly. “Let me tell you, that was a scary 5 days.”
+
+Ren remembered her telling him about her old boyfriend and reached across the table to take her hand. She gave it a squeeze and let it go, because she didn't want him to strain too much.
+
+Barbara came into the bedroom and walked over to the table. “Hi, everyone.” She said and saw their faces. “What is it?”
+
+“Elise is a couple of days late this month.” Ren said, and Barbara's mouth dropped open.
+
+“Y-you're kidding.” Barbara said, shocked.
+
+“It's not a big deal.” Elise said. “I've been off...”
+
+“Mine was 2 days ago.” Barbara said.
+
+Stella, Denise, and Lisa stared at her. “Ours, too.” They said at the same time.
+
+“Wow. I'm way off.” Barbi said. “Mine was 2 weeks ago.”
+
+“Is that possible?” Ren asked. “For a woman's cycle to change by that much to sync up with everyone else?”
+
+“I don't know if it would be gradual or if it would just change one day to be early.” Stella said. “It'll be interesting to see if it could happen and how quickly the change occurred.”
+
+“You have enough work to get through with the research project without picking up an experiment on the side.” Elise joked, and Stella nodded.
+
+“I've got almost all of the data correlated already.” Stella said. “I only have a few more days left to get the rest sorted and indexed.”
+
+“That's great work.” Elise said. “I thought your projection said it would be another month?”
+
+“That's what I thought, until I started digging through it and found that sorting would be much easier if I went by the time index, rather than through the spikes of input.” Stella said. “I'll still do the input graphs, but they'll be much easier once the first index is finished.”
+
+“You'll already have all the data entered by then.” Elise said.
+
+“Exactly. Rearranging it by the different factors after already being sorted will be a piece of cake.” Stella said and smiled.
+
+Ren thought everyone was going to let the subject change stand, then Barbara spoke.
+
+“Can we get back to the important subject?” Barbara asked.
+
+“Yes!” Ren exclaimed and everyone looked at him. “We're watching the next episode of my show in the theatre room.”
+
+“We are?” Barbara asked.
+
+“I need out of this room for a while.” Ren said. “What better place to go and relax than in a recliner and watch the best show on television?”
+
+Barbara chuckled. “A few people could argue that it's not the best show on tv.”
+
+“Geez, Barbara.” Ren said and rolled his eyes. “There's no way that Big Sister is the best one!”
+
+Barbara laughed. “You just don't get the subtlety.”
+
+“Uh huh.” Ren chuckled. “Grab my wheelchair, will you? We can discuss the merits of quality programs versus gimmicky programs on the way.”
+
+“Yes, master.” Barbara said and went over to get the wheelchair. She came back to the table with it and helped Ren transfer over to it. “Anything else, master?”
+
+“Yes. If I'm your master, I need to know why you're not wearing a french maid outfit.”
+
+“Wh-what?” Barbara blinked her eyes at him.
+
+“Bwa-ha-ha!” Ren guffawed at her surprised expression. “Quick! Someone take a picture!”
+
+There were two clicks and Ren turned his head to see that Stella and Elise had their cell phones out.
+
+“Send me that.” Ren said.
+
+“I already did.” Elise said and put her phone away.
+
+“Hey!' Barbara exclaimed.
+
+“Me, too.” Stella chuckled. “That's a keeper.”
+
+“Why you...” Barbara shook her fist at them, and they laughed.
+
+“Let's go and watch Ren's show.” Lisa said and stood up, then took control of his wheelchair. She pushed him over to the bedroom door, opened it, then pushed him through.
+
+“Hey, wait!” Barbara said and went after them, then Stella, Elise, and Barbi went, too. They arrived at the theatre room down the hall and saw Lisa and Ren waiting for them.
+
+“It's a bit too awkward for me to help Ren get in the recliner safely.” Lisa said. “If he slipped or slid, there's no way I could handle it.”
+
+“I was willing to try anyway, but she said no.” Ren said and smiled at her.
+
+Denise put a hand on Lisa's shoulder. “Thank you for doing the right thing and waiting.”
+
+“I know my limitations.” Lisa smiled and looked at Ren. “I don't want him getting hurt again.”
+
+“If we can get him to stop doing stupid things, we might be able to achieve that.” Stella said as Denise easily transferred Ren to the recliner.
+
+“Ah, this is nice.” Ren said and touched the button. The recliner leaned back part of the way and he sighed as the weight on his knee was braced by the footrest and it stopped throbbing. “I missed this.”
+
+“Places everyone.” Barbara said as she came out of the booth and turned down the lights. “The show's about to start.”
+
+Elise sat on Ren's right side and Lisa sat on the left, like they always did, and Ren held his hands out to them. They both took the offered hand as the show's opening theme started to play.
+
+*
+
+The show opened with a short montage of the events so far, then faded into Onscreen Ren and everyone else waking up in front of the cave. The captain of the guard came over to them and Fake Tristan told everyone the positions they were going to take. Onscreen Ren was assigned the rear and didn't protest, and the group of players and soldiers moved into the cave. A popup appeared that told them it was a new cave, and the first monster killed would give the best item possible.
+
+Oncreen Ren mentioned something about the other players racing forward, then most of the players actually ran forward to try and get the first kill. Only a minute or so later, a crunching sound was heard.
+
+“Oops, sorry little guy.” Onscreen Ren said when he saw the large beetle he had crushed. It vanished in sparkles and left a worn ring in it's place. He picked it up and smiled because he had just gotten the first kill. “Oh, he is going to be so pissed.”
+
+After a short montage of showing the others fighting off creatures, it faded to Onscreen Ren and his group as they sat around a campfire. Fake Clint recounted the story of Onscreen Ren's first kill and about Fake Tristan coming back with an old rusty dagger, thinking it was the first loot drop and the best item, and acting like a total fool. That made people spit out their food and Fake Clint laughed his head off. Onscreen Ren tried to identify the ring, but it didn't work.
+
+“It looks more like a little crown than a ring...” Onscreen Ren said.
+
+“You killed the king of beetles! HAHAAAA!” Fake Clint said.
+
+Onscreen Ren stood up and went over to the soldiers. After another quick montage of him repairing and enchanting their equipment, he sat down and it was the players turn. Another quick montage happened where they handed him their junk loot in exchange for repairs, and then at the end of the line, another player that carried Fake Tristan's armor appeared.
+
+“Look, I already told the last person to tell him that if he wants his stuff fixed or enchanted then he’s going to have to come ask me politely himself.” Onscreen Ren said, and the player went away. With his required work done, he went back to the campfire his group was around and started to take out and identify every single piece of loot he had just received from the players. It wasn't enough to identify the ring, though.
+
+Onscreen Ren took out and repaired, sharpened, and polished the rusty daggers and bucklers and restored them to fine working condition and enchanted them with a single rune. When that was done, he had unlocked the next level of his enchantment ability and a popup stated that he could combine 2 runes into a single glyph. Onscreen Ren didn't have time to play with it through, because he looked around and saw that everyone else had gone to bed. He took out his own bedroll and went to sleep as the show faded to black.
+
+*
+
+“Wow, lots of montages again.” Ren said as the first commercial played.
+
+“The show runners thought it was better to do that than drag it all out.” Elise said. “You did great work there, but the repetition in the viewing public's eyes is a bit too much to take.”
+
+Ren chuckled. “Plus, it took a long time to do all of that.”
+
+“I know it did.” Elise said and rubbed the hand that she held.
+
+“I can't believe you watched all of that and helped them edit it together.” Ren said.
+
+“An experienced eye made it go a lot faster for them, let me tell you.” Elise said. “They had scheduled a week just for editing the montages.”
+
+“No way!” Ren said.
+
+“Yes, way. If I hadn't told them the proper time indexes, they would have had to search for the references all by themselves.” Elise said, and you could hear the pride in her voice.
+
+“I hope they paid you for all that work.” Barbi said from behind her.
+
+“Oh, they did.” Elise said and smiled over her shoulder at the other woman. “Handsomely.”
+
+Barbi nodded. “Good.” She said. “Saving the editors a hundred hours of work is worth it.”
+
+“They were really grateful.” Elise said. “I've actually got another appointment on Monday to give them even more references.”
+
+“You do?” Barbi asked, and Elise nodded. “Do you mind if I come with you?”
+
+“I don't see why I would.” Elise said.
+
+“Thanks.” Barbi said. “I'd like to visit my old stomping grounds and see to a few things.” She smiled. “We can even use the carpool lane.”
+
+“That'll be reason enough to bring you.” Elise said, and they laughed.
+
+“Shh! It's starting again.” Barbara said.
+
+*
+
+Onscreen Ren was nudged awake by Fake Clint's foot, ate a bit of food, then the expedition travelled further and further down into the cavern system. Onscreen Ren talked to his group, most of which didn't feel like talking. He exchanged idle chit-chat with Fake Clint and Fake Tommy, who promised to gather special food ingredients if Onscreen Ren ever needed him.
+
+“Goblins!” Someone cried out from nearby, and the fight was on as the goblins jumped on several soldiers and attacked.
+
+“Damn! Guess one of the teams missed this cave or they let them slip past during a fight.” Fake Clint said and opened fire with his bow bracers. The goblins didn't have any defense, since they only wore tattered cloth and no armor. They showed the fight in it's entirety as the goblins tried desperately to attack the soldiers. Ren's group, minus him, fought well and bravely. He could do nothing but stand there and be protected because he couldn't fight.
+
+Fake Clint told one of the soldiers to warn the Captain of the Guard that all side caves needed to be scouted again, and to be prepared for further ambushes. Once they knew it was possible, the next time the goblins attacked, they were easily dealt with. They still caused minor wounds and damaged equipment, though. By the time they made it to a good site to camp, everyone was tired from the constant fighting. As the soldiers started to set up camp, it faded to black.
+
+*
+
+“Boy, was I pathetic there or what?” Ren asked.
+
+“You were being smart, actually.” Lisa said, and Ren turned to look at her. “Even back then you knew your capabilities. You didn't try to jump in or interfere when you knew that the others were a lot more capable of fighting than you.”
+
+“She's right, Ren.” Elise said. “Your sole job was to repair their items. That's it. You weren't supposed to fight, and you stayed out of the way when it came to fighting.” She squeezed his hand slightly. “I know that bothered you at the time; but, doing nothing then took more courage than foolishly trying to fight.”
+
+Ren sighed. “I was only a level 2 on a quest with players level 30 to 60.”
+
+“You were... and that took courage as well.” Lisa said. “I didn't know you back then, and I really wish that I did.”
+
+“You do?” Ren asked, surprised.
+
+Lisa nodded. “The way you stood up to Tristan, even though he was so many levels higher than you...” She smiled. “He was actually scared of you.”
+
+“No. Way.” Ren said, and she nodded again.
+
+“Despite his high Fame, he wasn't the one that was winning everyone over. You were.” Lisa said. “I don't know why Charisma isn't a stat in the game, because you had it even back then.”
+
+“M-me? Charismatic?” Ren asked, surprised once again.
+
+“Oh, come on.” Lisa said and leaned in close. “Do you really think a group of soldiers and players would have treated you so nicely if they didn't like you right from the start?”
+
+“But...”
+
+“You were so earnest and happy all the time, even in the middle of a fight that you couldn't fight in.” Lisa said and kissed his cheek. “You didn't like not being able to fight, but you never let it show. You made everyone feel better, just by being there and being who you are.” She said. “If I'd known then what you were like, I think I would have stolen you away from everyone just so I could keep you all to myself.”
+
+Ren looked at her with wide eyes as he imagined what his life would have been like if she had 'stolen him away' back then. Lisa smiled seductively as she saw the thoughts cross his face, then leaned in to kiss him on the lips. She broke the kiss when the sound of the show came back on and sat back in her recliner, and the seductive smile never left her face.

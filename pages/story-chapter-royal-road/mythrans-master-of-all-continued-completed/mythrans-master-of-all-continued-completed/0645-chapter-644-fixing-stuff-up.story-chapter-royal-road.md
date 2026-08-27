@@ -1,0 +1,241 @@
+---
+id: cd34458e-c7b2-5f1d-8790-95ed25ef12e2
+page-type-slug: story-chapter-royal-road
+title: "Chapter 644 - Fixing Stuff Up"
+slug: 0645-chapter-644-fixing-stuff-up
+partOf: mythrans-master-of-all-continued-completed
+position: 645
+ownLength: 2931
+unit: words
+publishedAt: 2018-07-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/236021/chapter-644-fixing-stuff-up"
+royalRoadId: "236021"
+---
+
+Ren and the women with him had barely started talking when both waitresses came out of the kitchen with their meals. They were served quickly and efficiently, and one of the waitresses asked if they wanted water.
+
+“No, thank you. I've got it.” Ren said and activated his Hands of the Gods ability and chose Refreshing Hands, then produced 7 streams of Water from his hands and filled the empty glasses on the table. At the last second he switched to Freezing Hands and the last bit of water became Ice and dropped into the glasses. The two waitresses stared open-mouthed at him, and he chuckled.
+
+“Yeah, it's a bit of a mundane use for the ability; but, it's also great practice for controlling it.” Ren said, and they just stood there and kept staring at him.
+
+“I think you broke them.” Artemis said and tried not to laugh.
+
+“You can't keep shocking people like...” Suniva tried to say and laughed instead. “I can't even complete that sentence.”
+
+Everyone laughed, and that was enough to shake the waitresses out of their immobility.
+
+“If you need anything else, let us know.” One of them said, and they both left to attend to the other tables. Ren and the women he was with ate their meal in silence as he waited for Nathalia to appear. He felt their connection become stronger as Nathalia stepped through the portal and appeared in his Aura, and he felt her pause. He felt her draw on his strength, and then she came out of the back room and went right over to him.
+
+“Hello, my... my...” Nathalia felt the difference in him. “What happened?”
+
+Ren stood up to greet her. “I'd like to say that there's a lot to explain, but there's not, really.” He said and walked over to her. “I used my Emotion Siphon ability to level myself up to max.”
+
+“By the gods, Ren.” Nathalia said. “You... how can you...” She shook her head. “You must have so much to become accustomed to.”
+
+“Not at all. I spent a long time inside a custom Sanctuary and I've got a handle on everything I can do.”
+
+“But... an entire skill set...” Nathalia blinked her eyes. “...that would take...”
+
+“...about 11 years.” Ren said, and she caught her breath.
+
+“R-Ren...”
+
+“Yes, the last time I spent a long time away from you, we drifted apart.” Ren said. “I apologized then, and I'll apologize now.” He said and took out an entire crate filled with documents. “I'm sorry it took me this long to work it all out.”
+
+Nathalia looked at the crate and saw that it contained thousands and thousands of documents. “Ren, you... you can't have...”
+
+“It may take a while, but once they are processed, you and I can have a full relationship again.” Ren said, and he felt her surprise.
+
+“H-how...”
+
+“Unfortunately, I can't deliver these myself, nor can I have the maids do it like the last time.” Ren said. “This Sea Dweller thing has taken me from them and I can't be near them until it's repaired.”
+
+“Ren, I'm so sorry.” Nathalia said.
+
+“I can't even have someone else tell them how I feel, because of the fear that they will react to my Sea Dweller status.” Ren sighed. “When you leave today, can you give this to Erica?”
+
+“Of course.” Nathalia said and touched his hand that was on the crate. Ren stepped close to her and her heart beat faster. “R-Ren...”
+
+“I know.” Ren said and kissed her cheek. “Soon, you and I won't have to worry about propriety.”
+
+Nathalia's face flushed red, and she darted forward and kissed him on the lips. “I look forward to continued relations between our people.”
+
+Ren smiled and caressed her cheek, and she moved her hand to touch the crate and stored it. She smiled back and went to the kitchen to cook. Ren went back around the table and sat down, and they finished the meal. When they were done, Ren waved one of the waitresses over.
+
+“I'm keeping this plate, but I will return it soon.” Ren said and stored the extra plate of food.
+
+“Of course, sir.” The waitress said. “You can pay me for the meals or pay the hostess.”
+
+Ren took out 12 gold to pay for the meals and handed it to her. She looked at the amount and it was the exact price of 8 meals at 1 gold 50 silver. He felt her dismay, and chuckled.
+
+“That's just for the food.” Ren said and handed her another 4 gold. “That's for the prompt service from two excellent waitresses, so make sure you split it with her.” He nodded to the other waitress, because she was busy at the moment, and he put 2 more gold into her hand. “That's for the cooks and the excellent food.”
+
+“S-sir! That... thank you, sir!”
+
+“Thank you for making my first meal in a while so pleasant.” Ren said and stood up. “I won't have enough time to come back for lunch, though.”
+
+“I'm sorry to hear that.” She said and stepped back when everyone at the two tables stood up.
+
+“I hope you have a great day.” Ren said and walked over to the hostess. “Thank you for accommodating my group.” He said and gave her 2 gold as well.
+
+“It was our pleasure.” The woman said. “Thank you for dining here.”
+
+Ren nodded to her, then he felt an intense longing feeling. He turned and looked to see the other waitress staring at him. “I'll be right back.” He said and walked across the restaurant to her. “M'lady, it is always a pleasure to be under your care. The food was excellent, as always, and your service was both prompt and unobtrusive.”
+
+“Th-thank you.” She said, and her hand twitched. Ren saw it and slowly reached for it. Her emotions spiked as he touched her skin, and he lifted the hand up to his lips. The couple that sat at the table watched him kiss the waitress' hand, and it seemed very sexual to them.
+
+“Until the next time we meet, M'lady.” Ren said, let her hand go, and walked back over to his group of women.
+
+“Who was that?” The woman at the table asked.
+
+“H-he's the H-hero of Aurora.” The waitress said.
+
+“He seems to be a playboy.” The woman said. “Look at all the women with him.”
+
+“If you didn't notice, he wasn't hugging, kissing, or holding their hands. He only did that with the owner.” The other waitress said as she came over and handed her friend 2 gold. “Your half of the tip.”
+
+“MY HALF?!?” The waitress yelled and stared at the two gold, and her friend laughed.
+
+Ren and his group left the restaurant and walked down the road.
+
+“You know, you didn't have to do that.” Artemis said, and Ren nodded.
+
+“I didn't have to, no.” Ren said. “You felt the strength of that emotional spike, though.”
+
+“I did.” Artemis said. “She's desperate to have someone to do that for her.” She said. “I hope you realize that it shouldn't be you.”
+
+Ren chuckled. “Oh, I know.” He said. “I was just... well, for several brief moments... she did have someone that would do that for her.”
+
+“You can't be everyone's one-and-only, Ren.” Teepo said. “There's only one of you and only so much time in the day.”
+
+“Ha... tell me about it, buddy.” Ren said as they arrived back at the house. “Hey, Princess!”
+
+*BANG* *BANG*
+
+Princess had run through both her bedroom door and the front door of the house, and splinters of wood scattered everywhere.
+
+“I suppose you're eager to go.” Ren said and used some Mana to repair the damage and held out the plate of food for her.
+
+“I know you can repair it with a thought, My King.” Princess said as she ate. “Will you ride or fly?”
+
+“Don't be insulted if I choose to fly.” Ren said and the leather wings appeared behind his back and he unfurled them. “I haven't flown that far before.”
+
+“I will pace you, My King.”
+
+“Thanks.” Ren said and scratched her chin after he stored the empty plate. He turned and looked at the succubi and they had already polymorphed back into their normal forms. They spread their own leather wings and hovered in the air, then Suniva deployed her wings and fluttered up with them. Artemis floated up herself and Ren joined them. He nodded to Princess and they all took off up into the air.
+
+They were back at the county after approaching from the far side, so that his Aura wouldn't cover the Main House or any of the buildings of the city, just in case the maids were out and about. Ren checked the All-Seeing Mirror and saw they were inside the apartment.
+
+“With the interrupts in place, we could send someone in to talk to them.” Artemis said as they landed beside the roost the succubi lived in.
+
+“I've thought about that.” Ren said. “When the Sage of Ages told me it was a good idea to stay away from them because they would be hurt if I went near them, I'm worried that anyone near me that goes to them on my behalf might trigger the same thing.”
+
+“I'm so sorry, Ren.” Artemis said and gave him a hug. “At least you don't have much longer to wait.”
+
+“I'm going to try and stay busy until then.” Ren said and looked at the succubi. “You can go up to the roost and visit the others if you want.”
+
+“Thank you, My King.” Seldanna said and the 4 succubi took flight.
+
+“You didn't need my permission!” Ren said after them, and Seldanna waved his comment away.
+
+“What are you planning to do first?” Artemis asked.
+
+“Well, I have this 300 foot by 300 foot pool that's just sitting there.” Ren said. “I also have these troughs that start at various places up at the top of the roost and end right here at the pool. I made them all twists and turns, and a couple of them even come close to crisscrossing.”
+
+“They are also made of impenetrable rock.” Teepo said.
+
+“Yeah, which means they'll never wear down, break, or anything else if Water is being sloshed down them.”
+
+“Water?” Suniva asked. “I don't remember the last time it rained out here.”
+
+Ren chuckled. “They aren't giant rain gutters, Suniva. They are water slides.”
+
+“Water what?”
+
+“I'll explain as I work.” Ren said, then told them what he was doing as he made an artificial floor out of Permanent Stone Wall spells and set it down inside the pool. He made stages in it as well. One part for wading in, one part for diving, and all along the side next to the roost he made it 10 feet deep to catch the people coming down from the slides.
+
+“I don't understand.” Suniva said. “You mean Adventurers will climb up to the top of the roost, just so they can come right back down?”
+
+Ren nodded.
+
+“Why?”
+
+“Because it's fun.” Ren said and used his Shaper spell to change a Stone Wall spell into a set of stairs, then repeated this all over the pool.
+
+“Intentionally dropping yourself into a giant pool of Water is FUN?” Suniva asked and shivered.
+
+Ren chuckled. “I'm sorry, I didn't mean to scare you like that.”
+
+“All Adventurers are crazy.” Suniva said and activated the spell stored in her armor's breastplate twice. She shrunk down twice and was back to her normal size of 1 foot tall. “I'm going home.”
+
+“Try not to gloat too much, okay?” Ren asked, and she fluttered her wings and flew up, placed a kiss on his cheek, then laughed maniacally as she flew away like a bullet fired from a gun.
+
+“I hope they don't all try to mob you when they find out.” Artemis said, and Ren shrugged.
+
+“I told Suniva to tell them she was a special case and that I couldn't do the same thing with all of them.” Ren said and started to make benches, picnic tables, trash cans, chairs to recline in, and several Lifeguard towers. He thought about making a bunch of vendor booths for food, then wondered if he could find anyone to work them. He made 6 of them and placed them on the far side of the picnic tables so that they were far enough away from the pool area to not interfere with the fun, and close enough that you could easily see the fun being had.
+
+Ren made a dozen changing booths next with 6 stalls and curtains inside so people wouldn't have to wait in line if they wanted to change out of sight of people. He knew they weren't really necessary, since people could just equip their clothing; but, he also knew some people liked looking at themselves to make sure they looked good before appearing in public. He had to take out his shop tower to make the mirrors for them, then installed them.
+
+“Okay, that's done.” Ren said and looked around at his work. “It looks like a real water park.”
+
+“Do Adventurers have fake ones where you come from?” Teepo asked.
+
+Ren laughed. “No, I just meant this could be one there.” He said. “Now I need to set the steel squares at the tops of all the slides and add the stairs to the roost.”
+
+Ren flew up with Artemis to the top of the roost and made an area around the starts of the slides and added a steel square that was enchanted with enough Water runes to make a good flow of water for people to slide down.
+
+“Now there's only one thing left to do.” Ren said and activated all the runes. The water gushed out and covered the slides, and they watched the water flow down the slides and it spewed out the bottom and into the giant pool.
+
+“It works.” Artemis said.
+
+“That's not what I meant.” Ren said and equipped his swimming trunks. “Wanna race?”
+
+Artemis chuckled and equipped her bikini. “I'm going to kick your ass.”
+
+“As if.” Ren deactivated the Water Walk effect and walked over to a slide. “On three.” He said and got ready to jump.
+
+Artemis walked over to a different slide and waited, then she heard a clomping noise. “Wait, what's...”
+
+Princess trotted by them and jumped onto a slide. “Three!”
+
+“Hey! No fair!” Ren said and dove head first down his slide, and Artemis slid feet first down hers. Teepo chittered in laughter as Ren slid down the slide, went around several turns really fast, then shot out the bottom of the slide and skidded almost 15 feet before splashing down into the water. Ren swam back up to the surface and saw Artemis and Princess were already waiting for him.
+
+“You cheater!” Ren laughed and Princess huffed and splashed him with one of her hooves.
+
+“You said to go on three.” Artemis laughed. “Princess just said it first.”
+
+They played around in the water for a few minutes, then activated their Water Walk effects and popped up out of the pool. Ren walked around the whole pool and checked to see that the overflow was being handled by the Anti-water glyphs he had installed behind grates on the shelf near the top of the pool.
+
+“Everything looks good.” Ren said and deactivated the Water on the slides. “Thanks for helping me test it.”
+
+Artemis walked over and hugged him from behind and her breasts rested on his shoulders. “You're welcome.” She said, and was glad that Teepo and Ren's pet tarantula had seen her coming and skittered out of the way so she could do it.
+
+Ren closed his eyes and enjoyed the feeling of her pressed around him like that. “That feels nice.”
+
+“Ren? It's just about noon.” Teepo said.
+
+“Thanks, buddy.” Ren said and looked at Princess. “Can you go and get Suniva for me? We're leaving.”
+
+“Yes, My King.” Princess said and disappeared. Ren and Artemis walked over to the succubi roost and Seldanna, Ellaria, Katori and Chenoa were already floating down to meet him.
+
+“We knew it was getting close to when you wanted to leave.” Seldanna said and the succubi landed in front of him.
+
+“So, did anyone feel bad that you're spending so much time with me?” Ren asked.
+
+“They all do.” Ellaria said and smiled. “Not enough to give up the people they found, though.”
+
+“Good.” Ren said. “I wouldn't be happy about it if they did.”
+
+“They know that, too.” Seldanna said.
+
+Ren looked at her quizzically. “I hope they aren't staying in their relationships just because of that.” He said. “I want them to be happy. If they aren't, I need to know about it.”
+
+Seldanna smiled. “They are quite happy, My King.” She said. “Don't worry. They haven't made contracts with their partners or are stuck in an unhappy partnership.”
+
+Ren relaxed. “That's good to hear.”
+
+“I return, My King.” Princess said as she appeared beside him. Ren turned to see no less than 6 female pixies as they sat on the saddle and Suniva sat on Princess' horned helmet, and he sighed.
+
+“I don't have the time to argue right now.” Ren said and formed the wings on his back. “Let's go.”
+
+Ren took off into the air and the others followed him as they travelled back to Aurora and to his house in the Housing District.

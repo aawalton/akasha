@@ -1,0 +1,347 @@
+---
+id: a5b18e0e-cd3d-51f2-adb8-b3e4789185d9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 750 - Pervarian Problem"
+slug: 0751-chapter-750-pervarian-problem
+partOf: mythrans-master-of-all-continued-completed
+position: 751
+ownLength: 3973
+unit: words
+publishedAt: 2018-11-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303351/chapter-750-pervarian-problem"
+royalRoadId: "303351"
+---
+
+After giving Yuwen an Energize spell and letting her change back, Ren, Artemis, Yuwen and Dilseffa stepped out of the carriage and into ordered chaos.
+
+“What's going on?” Ren asked.
+
+“Damn goblins!” Someone said as they ran by.
+
+“Why is everyone freaking out?” Ren asked, and felt fear from Yuwen and Dilseffa.
+
+“Goblins alone aren't too much of a threat, but...” Yuwen started to say.
+
+“...when they gather into a cohesive force they are nearly unstoppable.” Dilseffa finished.
+
+Ren nodded slightly and walked over to Tatya, who was organizing the caravan into a fast response unit. “How can I help?” He asked, and everyone turned to him. “We've got the fastest troop transports around, so if there's somewhere they need to go, use the carriages.”
+
+“The spells are almost expired.” One of the drivers said.
+
+Ren took out a wand and cast Permanent Widen Effect on them. “They're good for another 5 hours.”
+
+Everyone stared at him and the wand in shock, even Tatya, and he chuckled.
+
+“Come on, you can't expect me to give you everything right away, do you?” Ren asked.
+
+“I suppose not.” Kenkoth said. “We can't take too many with only...”
+
+“Okay, fine.” Ren said and stored the wand as he closed his eyes, and expanded all of the carriages to 3 times their size inside. “There. Each one is as big as the wolf carriage inside.” Ren said. “Do you need to empty the storage crates?”
+
+“No time.” Tatya said and turned to the partially organized force behind her. “Load up into the carriages! Fill them as much as you can then move onto the next!”
+
+The troops moved off to the carriages and she turned back to the caravan's previous occupants.
+
+“This part is voluntary.” Tatya said, and half of the members lifted their hands. Her eyes glanced at Ren for a moment.
+
+“Am I allowed to volunteer?” Ren asked as he felt her curiosity.
+
+“If you want to.” Tatya said.
+
+“Why is there no time?” Ren asked and raised his hand.
+
+“The battle has already started on the southern border of our lands.” Tatya said. “The news they are coming is several days old.”
+
+“Then what are we waiting for?” Ren asked.
+
+“For the normal troops to finish loading.” Kenkoth said.
+
+“I'll be right back.” Ren said and took out the All-Seeing Mirror to see the space near Princess' house was clear and cast the Portal spell. He stepped through and knocked on her door. “Feel like going into battle again?”
+
+“My King, I am always ready.” Princess said and stepped out.
+
+“We need to haul some people there as well.” Ren cautioned her, and she huffed.
+
+“Do I need to go slow?” Princess asked.
+
+“At first, like usual.” Ren said and they stepped back through the portal. No one spoke as a 5 foot tall large horned ram that wore platinum armor came out of the portal behind him. Ren dismissed the portal and led Princess over to a large open space and he took out the giant covered cart that they had used to carry the ghouls to the healers.
+
+“You were carrying that with you?” Tatya asked.
+
+“I'm carrying a lot of things.” Ren said and attached it to Princess. “There's lots of room inside; but, it's standing room only.”
+
+“That's fine, as long as...” Tatya started to say 'as long as he took his time driving'.
+
+“I'll give them Spider Climb as they load.” Ren interrupted and surprised her, then he opened the top.
+
+“Thank you.” Tatya said and waved to the troops waiting to load into the carriages. As they passed, Ren gave them Permanent Spider Climb and they climbed in without any trouble at all. When the carriages were fully loaded, Tatya motioned for the troops to divert to the large cart Ren had. It filled quickly, and Ren closed the top.
+
+“I'd really like to take more.” Tatya said.
+
+“Won't that leave this garrison post empty?” Ren asked, and motioned to the large building he had just caught sight of that was behind where the caravan had landed and where the troops must have come from.
+
+Tatya sighed. “Yes, it would.” She said and looked at the remaining troops. “Stay here, just in case.”
+
+“It's not fair that we can't go because we were at the back of the line.” Someone complained, and several others laughed.
+
+“Guarding the people of your homeland is just as important as fighting for them.” Ren said. “You might not get to go this time; but, that doesn't mean you'll never get to go.”
+
+“Yeah, just run faster next time.” Someone shouted, and more people laughed.
+
+“What about us?” Yuwen asked, and Ren and Tatya turned to her.
+
+“I know you can fight one-on-one.” Ren said. “If...”
+
+“We need bulk troops more than individual fighters.” Tatya said and cut him off. “I'm letting Rimsoh come along only because he's a magic user and can buff our troops.” She said. “He won't be fighting.”
+
+Dilseffa relaxed at those words.
+
+“Kenkoth is leading a squad with...” Tatya stopped and smiled. “He's a leader, so he's in.”
+
+“I assume you're leaving the attendants and the cooks behind?” Ren asked, and she nodded slightly. “Does that mean we'll come back to pick them up?”
+
+“We need to return here and finish the inspection anyway.” Tatya said.
+
+Ren turned to Yuwen and Dilseffa. “Please remain here, in relative safety, and I'll be back to escort you in the manner you deserve to arrive in your homeland.”
+
+Yuwen's eyes were wide and she nodded, as did Dilseffa. They stepped back and Ren looked at Artemis.
+
+“Take the lead scout position.” Ren said, and she flew up into the air to hover in front of Princess. “Tatya, I assume you want to arrive first to help organize the offloading?”
+
+“I would.”
+
+“Then you're with me.” Ren said and walked over to Princess and climbed onto her saddle. Tatya looked at him with wide eyes and he held a hand out to her. She took it and he lifted her up to sit behind him.
+
+“I thought...”
+
+“If this was a more leisurely ride, I'd put you in my lap.” Ren said. “Hold on.”
+
+Tatya wrapped her arms around him and held on tightly.
+
+“Princess, let's go.”
+
+Princess huffed and took a step up into the air to get a feel for the load, then trotted. Artemis flew ahead of her in the right direction and the caravan lifted off and followed them. Once they were all on their way, Ren told Princess how fast the giant boars could go. She blew a raspberry at him for making her run at barely a tenth of her normal speed and she sped up slightly to match it.
+
+“How long...” Ren started to ask.
+
+“At this speed? Barely 20 minutes.” Tatya said over the rushing wind. Her eyes were almost squeezed shut at the force.
+
+“Oh, sorry.” Ren said and handed her a Helm of the Eagle. “Equip that.”
+
+Tatya put the helm on and chuckled as the wind stopped bothering her. “You're just going to keep amazing me, aren't you?”
+
+“Probably.” Ren said. “Especially since I've never fought in a regimented fight before.”
+
+“It's simple, as long as you follow orders.”
+
+“What if the orders are wrong and will get people killed?” Ren asked.
+
+“It doesn't matter.” Tatya said. “Usually things need to progress a certain way in order to either gain an advantage or to outright win.” She explained. “If even one troop section messes up their orders, it could cause the strategy to fail and lose the battle.”
+
+“Wow, really?” Ren asked.
+
+“Yes, but... there is some leeway. Experienced commanders include backup plans to recover if the original plan fails or doesn't quite work out how they think it should.”
+
+“Well, I don't know if I can be a part of a squad like that.” Ren said.
+
+“You volunteered to help.”
+
+“I did, but I figured I would be the distraction.”
+
+“The what?” Tatya asked.
+
+“Something for the enemy to focus on and fight against, while you... or whoever is in charge there... get their forces into position to destroy the goblins.”
+
+“You do realize I said that individual fighters are almost useless in these kinds of battles, right?”
+
+Ren chuckled. “I've got two very capable fighters on my side, so we can be a squad on our own.”
+
+“You will mess things up if you're not careful.” Tatya cautioned him.
+
+“I won't do anything until directed to; but, even if I stood there and told you what I could do, you would be too focused on the battle at large to come up with the best way to utilize my skills.” Ren chuckled. “It's better to just point me where you want the largest disturbance to happen and work around it.”
+
+Tatya chuckled, too. “Yes, I can tell that you wouldn't be good in a regiment and taking orders.”
+
+“It's not like I can't do it, I just can do so much more than that.”
+
+“I know.” Tatya said and rested her chin on his shoulder. “I felt how happy Yuwen was, and I haven't felt that from her in a long time.”
+
+“No one has.” Teepo said from Ren's other shoulder and chittered in laughter. “She only just met Ren!”
+
+Ren chuckled. “I seem to have a talent for it.”
+
+“I've... felt... some of that talent during our display duel.” Tatya whispered in his ear, and he could feel her teasing emotions. “Did Yuwen get to feel it, too?”
+
+“Would you be jealous if she did?” Ren asked, and her hands slid up his chest. He was still wearing his fancy blue suit so her hands unbuttoned the suit coat and dug into his pectoral muscles as she hugged him again.
+
+“It would depend on how much of it she felt.” Tatya responded.
+
+“Well, she is my concubine.” Ren countered. “Even if...”
+
+“You were alone with two concubines for all that time, and you didn't have sex with either of them.” Tatya said as she felt his emotions and kissed his ear. When he didn't react, she sighed. “Are you blocking me?”
+
+Ren chuckled. “No, I've desensitized my ears for things like that.”
+
+“Then why did you react when I did it before?”
+
+“I hadn't felt your rough tongue before.” Ren said. “I can't desensitize against something I never expected.”
+
+“I'm glad to hear that.” Tatya purred into his ear and licked it. It sent a shiver down his spine and he felt how happy she was that she hadn't lost her charm.
+
+“We... are riding into battle.” Ren said as she rubbed her furry face on the side of his head and scent marked his ear.
+
+“Yes, and it will be a glorious fight.” Tatya said.
+
+Ren glanced at her and saw her ears were pinned back and she had her eyes closed because of the wind. “Put the helm back on.” He admonished her.
+
+“But...”
+
+“It forms to fit the wearer.” Ren reminded her, and she equipped it again. It changed its shape to fit her more cat-like head and left her ears uncovered so she could still use them.
+
+“We have to have these made.” Tatya said. “I've never worn a helm in this form before.”
+
+“Wait, you're going into a regimental battle and none of you are wearing armor?” Ren asked, surprised.
+
+“How would we armor up so many different species in human form and still have them viable when they change to fight?” Tatya asked. “You know we have a variety of transformations available to us.”
+
+Ren opened his mouth to say that it should reform, then remembered the drivers were all tiger-men, Kenkoth was a lion-man, and Beholo was a jackal. He wasn't sure if armor, even equipped after changing, would still work or be allowed if they changed too much to still be considered humanoid.
+
+“They'd need individual armor measurements after changing, and they still couldn't wear humanoid-like armor if they become a full animal.” Ren said.
+
+“Which would defeat the purpose of having armor if all they can do with it is store it when they change.” Tatya said. “I keep my straight legs when I change, but...”
+
+“Some of you have back-bending legs, I know.” Ren said. “Even a multi-piece armor like what I have won't work if the basic shape changes too much.”
+
+“It is a quandary that our blacksmiths have been thinking about since we learned to make armor.” Tatya said. “Besides making 3 sets of armor for those that can wear it while we fight, which isn't many of us because armor is heavy and bulky, there isn't much we can do about it.”
+
+We're approaching the battlefield. Artemis thought to him.
+
+“Artemis said we're getting close.” Ren said.
+
+“There should be a staging area close by.” Tatya said and slid her hands out of his suit and sat up straight so she could use the Spot ability the helm gave her and looked around. “There, to the right.”
+
+Artemis, to the right. Ren thought to her, and she changed directions. Ren and Princess followed her, as did the caravan behind them. Shock and surprise greeted them as they came in for a landing in the middle of the area, which was the only space available for them to fit safely. The carriages landed all around them and opened up as Ren helped Tatya climb down from Princess' saddle, then he opened the large covered cart. All of the troops inside flooded out and formed into their proper troop formations when they combined with the troops from the carriages.
+
+“What the hell is going on here?” A very large man stalked over to them.
+
+Ren activated his Controlled Berserk Rage and equipped his platinum armor and hammerpick, then turned on all of his Auras except the bad ones and it jumped out to 2,500 feet. The man paused for only a moment and kept coming, so Ren activated his Ultimate Terror ring and funnelled it through his Fear Aura. The man stopped walking and squinted his eyes at Ren, and everyone in the staging area turned to look at them.
+
+“Reinforcements.” Tatya said. She wasn't sure why she wasn't as affected by his Aura as she had been when Ren had used it back in King Alamast's castle, though.
+
+“Tatya? How did you get here so quickly?” The man almost growled.
+
+“King Ren was kind enough to prove the means for us to come here from the eastern passage.” Tatya said and touched Ren's shoulder. “Ease down.”
+
+“But...”
+
+“He can't challenge you.” Tatya said. “He needs to fight the battle.”
+
+“He wants to test me despite that.” Ren said and deactivated his Ultimate Terror ring.
+
+Tatya smiled and looked at the tall man. “He has Toughness 10.”
+
+The man's mouth dropped open at those words and he managed to keep his shock to a minimum. “That... can't be.” He said. “He's only...”
+
+“...the most powerful Adventurer anyone has ever seen.” Tatya finished for him. “Now, where do you want us deployed?”
+
+“He's going to fight with us?” The man asked.
+
+“It's more like we can point to where we want him to cause the biggest disturbance.” Tatya said as she took Ren's previous words to heart.
+
+The man barked a laugh. “As long as it's to the enemy.” He said and pulled out a map of the battlefield. “We're currently trying to flank them around this ridge; but, their catapults have us pinned in this area.”
+
+“Teepo and Artemis.” Ren said and activated his Hail of Arrows ability as the pair flew up into the air a couple hundred feet. They turned slightly to point in the right direction, then Artemis unleashed a deluge of full power Mana bolts that were magically increased by ten for each one fired. Ren took out the All-Seeing Mirror and enlarged it as he asked for the spot the catapults used to be. Both Tatya and the large man were surprised that only several dozen craters with wood pieces and goblin bodies could be seen.
+
+“Anything else?” Ren asked.
+
+The large man blinked his eyes for a moment, then he smiled. “We can't confirm it; but as far as we know, their magic user and maybe their leaders should be in this area.” He pointed to his map a quarter of a mile away from the ridge. “Their groups of troops will have leaders as well; but, these are the ones we need to remove to cause as much havoc as possible to break their formations.”
+
+“I'll go there right away.” Ren said and stored the mirror, then unhooked Princess from the large covered cart and stored it.
+
+“Be careful of their suicide goblins.” Tatya said and touched his cheek.
+
+“Their what?” Ren looked at her in confusion.
+
+“They sneak in goblins that can detonate themselves when close enough to an enemy.” Tatya said.
+
+“You're kidding!” Ren exclaimed, and both she and the large man shook their heads.
+
+“It's why single fighters don't stand a chance against them sometimes, because if they do manage to get one in close...”
+
+“...the single fighter would be at a loss and they would still have a large number of troops to keep fighting.” Ren said, then sighed. “I know it makes sense to them, but...”
+
+“They're almost mindless, King Ren.” Tatya said. “If their leaders didn't push them to fight, they would only eat and sleep.”
+
+“Then why...”
+
+“Resources, of course.” The large man said. “The more land they control, the more of themselves they can grow and take over more land.”
+
+“Wait, did you say grow?” Ren asked.
+
+“No one is really sure how they come to be.” Tatya said. “All we know is that even after a large scale battle, like this one that covers several miles of open terrain, there are just as many the next time they decide to try to expand again.”
+
+“I guess they would have to grow or summon them.” Ren said.
+
+“Unless they have birthing clans set up to give birth to as many of them as possible.” Teepo said. “They would have to mature fast after that, though.”
+
+“That's a disturbing thought.” Ren said.
+
+“LOOK OUT!” A man's voice yelled, and everyone turned to look where the shout came from, and just then Ren felt something enter his Aura. Then several more somethings entered, and a whole bunch more right after.
+
+“I've got this.” Ren said at the familiar feelings he felt and ran over to the spot, and Tatya and the large man were close behind him. It was a bunch of spiders. They were about 5 feet long and 2 feet tall and easily crawled over the barricade, then started to jump onto the Pervarians that were trying to defend the staging area.
+
+Ren activated his Ultimate Terror ring and funnelled it through his Fear Aura and concentrated on the spiders. “STOP!” He commanded, and every single spider stopped moving.
+
+The tiny goblins riding them whacked them with sticks to try and get them to move, and Ren felt pain from a lot of the spiders.
+
+“Don't hurt them!” Ren said and took out his handgun in a flash and fired, and a micro-portal opened up in front of the barrel, which split the bullet into a hundred fragments as micro-portals appeared in front of the small goblin's faces. The bullets entered their vulnerably soft eyes and exploded out the backs of their little heads. The bodies flopped down and slid off the spiders, because they were no longer capable of holding onto the straps.
+
+Ren cast Minor Healing on all of the spiders to fix the damage they had suffered. “Come here.”
+
+The spiders quickly swarmed over the defenders who tried to attack them, now that the spiders were vulnerable.
+
+“Don't attack them.” Ren commanded, and the defenders stopped mid-swing and he felt them become disgruntled. He ignored that as the spiders came over to him, and Teepo counted them as he and Artemis flew down to Ren.
+
+“There's 20 of them.” Teepo said and landed on his shoulder. “I think they are a fast attack squad, like the ones the Dark Elves used.”
+
+“But a lot smaller.” Ren said and pet the spider behind its eyes, and he felt its need. “Aww, they starved you so you would fight harder, didn't they?” He asked and walked into the middle of them as he felt agreement from all of the spiders. He equipped just the middle part of an armored bodysuit to leave his arms and legs bare. “Then touch me and I'll feed you.”
+
+They practically jumped onto and over each other to get a leg onto him and he laughed.
+
+“Easy, now. I just healed you.” Ren said and felt their amusement. “Okay, a good fear feeding. Just a second.” He thought about waking up from a terrifying memory while in the hospital and made a little reservoir with it, then let it flow out to them. All of the spiders shivered at the pure fear he fed them.
+
+“What are you doing?” Tatya asked as she felt Ren's fear.
+
+“It's not their fault that they like and feed on Fear.” Ren said. “It's also not their fault that they get used and abused to try and get that Fear so they won't starve.”
+
+“How would you know that?”
+
+“I'm the Royal Consort to the Queen of the Dark Elves.” Ren said and held up his right hand and showed her the spider emblem. “She has a lot of spiders in her lair.”
+
+“I thought that was just a personal mark or something.” Tatya said.
+
+“It is a personal mark that I received from her.” Ren said and his pet spider crawled out of his hair. “So that's where you were hiding.” He said and picked it up. “My Queen, would you like some liberated goblin spiders to add to your collection?”
+
+A portal opened up nearby and Ren looked at the spiders.
+
+“You can go and live a good life in the underground, and you won't have to worry about starving again.” Ren said and pointed. Several spiders jumped through the portal right away, and a few were a little hesitant to go, then jumped as well. Half of them kept touching him, however. “It's all right. If I meet any more of your brethren, I'll send them along.”
+
+A feeling of acceptance came from the rest of the spiders and they went through the portal.
+
+“Thank you, My Queen.” Ren said.
+
+The portal disappeared and Ren tucked the spider back into his hair. Tatya and the large man, as well as several dozen Pervarians, stared at him and didn't know what to say.
+
+“Oh, you can move now.” Ren said absently to the Pervarian defenders. They relaxed and rubbed their arms where they had held their weapons poised for attack. “How long will it take you to get your forces into position?” He asked the large man.
+
+“Uh... maybe... 10 minutes.” The large man said.
+
+“I can be a distraction for at least that long.” Ren said and laughed, and they felt his amusement. “Hey, Princess! Let's go!”
+
+Princess was there in an instant and Ren equipped his platinum armor as he scratched her chin.
+
+“Ground assault this time.” Ren said and he felt how happy she was at getting to ram something. He climbed up and sat down on her saddle, and Artemis floated beside him. “That-a-way!” He pointed, and Princess ran over to the large barricade.
+
+“NO! Don't destroy our only...” The large man stopped talking as Princess ran up and over it as if it was open ground and Artemis flew beside her.
+
+Smashing sounds and the terrified screams of goblins were heard soon after.

@@ -1,0 +1,319 @@
+---
+id: 7138b820-5d6b-5da7-a03a-fe8ed5fb94e0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 784 - Old Ben"
+slug: 0787-chapter-784-old-ben
+partOf: mythrans-master-of-all-continued-completed
+position: 787
+ownLength: 3682
+unit: words
+publishedAt: 2018-12-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312427/chapter-784-old-ben"
+royalRoadId: "312427"
+---
+
+Ren and a now human-looking Dilseffa quickly gathered Yuwen, Tiyaphi, and Artemis from the carriage. The attendant said that if he wasn't needed, he could take the carriage home with him to see his family and would be back for them in the morning. Ren nodded and gave him Respect, and the attendant drove off before he let his tears of happiness flow out.
+
+“He's really becoming dedicated to you.” Artemis commented as they all walked over to the entrance to the underground warren.
+
+“I can't really discourage him, since he just gets happier and happier the more things he can do for me.” Ren chuckled. “I just wonder what his family is going to say.”
+
+“You're assuming he'll be able to talk about you without shouting in joy.” Teepo chittered in laughter.
+
+“He's not that bad.” Ren grinned. “I'll try and talk to him about it when he picks us up in the morning.”
+
+“Don't go crushing his hopes.” Yuwen said. “Attendants are meant to serve and make great workers. I think he's more excited than normal because he's never had someone as prominent as you as his patron.”
+
+“That sounds important.” Ren said as Dilseffa led them inside the warren. “Does that mean he has another patron?”
+
+“Probably.” Yuwen said. “He would have to be sponsored to get a prominent position on a caravan.”
+
+“I hope I didn't ruin things for him.” Ren said. “Would I have to make it up to...”
+
+“No.” Yuwen said. “He wouldn't have become part of your domain if he had a real patron.”
+
+“Which means that's why none of the other attendants were affected.” Ren said. “I'm surprised that most of the cooks were, if that's the case.”
+
+“You just have to be good at your job for those positions.” Yuwen said.
+
+“But...” Ren stopped talking when he thought she might not know that they were the camouflaged people sent in ahead of the delegation. Being a cook might be their cover.
+
+“Don't worry about anything else tonight.” Dilseffa said. “You are a guest in my parents home.”
+
+“All right. No more speculation for now.” Ren said and she brought them down to her room.
+
+“This where I sleep.” Dilseffa said and motioned around the room. It was nice and cozy, had a good warm temperature because it was far enough underground, and even though it had a large bed and a dresser, it wasn't crowded.
+
+“This should work just fine.” Ren said and climbed onto the bed. “Since this is your place, you get first choice of cuddle positions.”
+
+Dilseffa nodded slightly and laid down between his legs and rested her head on his thigh.
+
+“Guess who's grooming him in the morning?” Tiyaphi chuckled and laid down on Ren's right and cuddled in tightly.
+
+“Me?” Yuwen asked jokingly and laid down on his left side to cuddle in, and she tried not to laugh at Dilseffa's disgruntled emotions. “I'm just joking, Dilseffa. Of course it's your turn.”
+
+Dilseffa sighed in relief. “Thank you.”
+
+“Do you want me to use the statue?” Ren asked, and the three of them shook their heads.
+
+“We should just enjoy the time we have.” Yuwen said and kissed his cheek. “We can catch up on personal time after the debriefing.”
+
+“Agreed.” Tiyaphi said and kissed his other cheek.
+
+“Agreed.” Dilseffa said and kissed his thigh. She felt him shiver slightly and smiled, then snuggled down and relaxed. Artemis climbed onto the bed behind Yuwen and didn't quite cuddle in; but, she was close enough that Yuwen felt her body heat. She didn't object, and Artemis cuddled Ren's hand and kissed it. The four of them dozed off just like that and Teepo flew up to land on the ceiling to keep watch.
+
+Even though they hadn't deactivated their Sustenance rings, they knew they didn't have to wake up after an hour and stayed in bed the whole night. Ren had been so relaxed, he had forgotten that he was supposed to log out to eat lunch in the real world. When he remembered, he also remembered that both Elise and Barbi were cuddled up to him and were asleep, so he didn't feel too bad about missing lunch and despite it being a mistake, he cuddled the women around him and enjoyed the rest of the night.
+
+In the morning, Dilseffa didn't try to suppress her feelings this time and changed before she started to groom Ren. She was very thorough in her grooming and made sure to lick every inch of him and ended as she always did at his crotch. She started to please him and he enjoyed the sensations a lot. While it was going on, Ren had felt several people moving around through his Aura and didn't pay them any attention, since they weren't coming near Dilseffa's bedroom. When he was getting close to finishing, he felt someone approach her room.
+
+“W-wait...” Ren said.
+
+“I'm... almost... done.” Dilseffa said and sped up her licks as she concentrated on his sensitive spot.
+
+“Someone is... coming.” Ren panted, and the person stopped just outside Dilseffa's room. There were no doors in the underground warren, and Ren looked over to see Dilseffa's mother Duyu as she peeked around the edge of the wall. They locked eyes for a moment, then she looked down at him being pleased by her daughter.
+
+“Oh, damn!” Ren exclaimed and he finished. Duyu covered her mouth to hide her gasp as he made a huge mess, then she looked back at his face.
+
+“So much!” Dilseffa said happily and didn't stop licking as she started to clean him up. Tiyaphi and Yuwen had changed into their furred forms as well from the excitement and knew what to do as they helped to clean him up as well. As long as they didn't touch his member with their rough tongues, they could lick him as much as they wanted anywhere else. So, they did.
+
+Ren was breathing heavily by this point because of all the attention, and his eyes never left Duyu's. She had changed into her furred form as well, because she couldn't stop herself from getting excited at the scene in front of her, and she stared back at him. She didn't move at all as he was cleaned for several minutes, then the moment ended and she darted her head out of sight and moved down the hallway a short distance.
+
+“Dilseffa!” Duyu nearly yelled and her loud voice startled everyone except for Ren, Teepo, and Artemis, because they knew she was there. “I hope you're up already!” She said and walked closer.
+
+“Quick! Get dressed!” Dilseffa said and equipped her delegate uniform. Everyone else equipped their outfits for the day and then Duyu stepped into the doorway. She had calmed down and had changed back to her human form already.
+
+“You're lucky, young lady.” Duyu said. “Your father left hours ago to meet with Old Ben.”
+
+“Mom, we don't have time to go all the way up the mountain to his cabin.” Dilseffa said.
+
+“Sure we do.” Ren said as he climbed off of the bed and took out the All-Seeing Mirror. “Show me Old Ben's cabin, please.” He said and the cabin appeared, so he cast a portal to there and Teepo dropped to his shoulder. “Are we all going?”
+
+Duyu stared with an open mouth at the portal.
+
+“Sure, we're all going.” Artemis said, and Ren ushered Dilseffa through the portal, then Yuwen and Tiyaphi stepped through and Artemis went next.
+
+“We'll be right back.” Ren said and stepped through himself and the portal disappeared. “Wow.” He said when he looked at the view.
+
+“It's quite a sight.” Artemis said.
+
+The cabin was on a relatively flat area about halfway up the side of a mountain. They could see miles of spruce trees on the slope below them, and tons of rock and mountain on the slope above them.
+
+“Yer already hooked! I can feel it!” A gruff voice exclaimed, and everyone turned around to see Dilseffa's father Drikon and a hunched over old man.
+
+“I guess that means my negotiating posture just evaporated.” Ren said, and Old Ben barked a laugh.
+
+“No need ta negotiate, young fella.” Old Ben said and waddled over to him. “I own this whole mountain, and Drikon said ya don't care what the land is like.”
+
+“I'll make do with whatever you can spare, sir.”
+
+“Well, I can spare that right there.” Old Ben said and pointed.
+
+Ren turned and saw that he pointed at the very peak of the mountain. “The top?”
+
+“About 200 feet of it from the tip down, if you want it.”
+
+“How much?”
+
+“A platinum coin.”
+
+“For 200 feet of a mountain point? Really?” Ren asked.
+
+Old Ben laughed. “Not gonna fall for that, huh?”
+
+“Well...” Ren looked back at the old man. “If you make it 1000 feet, you have a deal.”
+
+Old Ben was about to laugh again, then he stopped and stared at Ren. “Yer serious.”
+
+“Yes, sir.” Ren said. “I've owned mountains before; but, I only used them for mining.”
+
+“Ain't nothing in this one.” Old Ben said and stomped his foot. “Barren as a rock.” He said, then laughed at his own joke.
+
+“So, what do you say?” Ren asked. “A platinum for the top 1000 feet?”
+
+“Boy, yer as crazy as I am.” Old Ben smiled and held a wizened hand out. “You got a deal.”
+
+Ren shook his hand and gave him a platinum coin, and Old Ben took out a piece of paper and wrote some words on it, bit his thumb, then touched the paper. The words glowed for a moment and Ren was surprised when it changed into a formal deed for the land.
+
+“There ya go.” Old Ben said and handed it to him. “Good luck doing anything with all that ice and snow! Ha ha ha!”
+
+“Don't worry, sir. I've got the perfect idea for it.” Ren said and Teepo chittered in laughter.
+
+Artemis shook her head. “You can't really think...”
+
+“Yep!” Ren said with a grin. “Everyone, please excuse me for a minute.” He said and knelt, then prayed to the Earth Deity and offered 10,000 Mana. After only a few seconds, one of the Earth beings poked their head out of the ground.
+
+“Oh, hey!” She said with a huge smile. “You've come to me at last!”
+
+Ren chuckled at the Earth being's words. “This is your assigned area?”
+
+The Earth being nodded. She was good friends with the Earth being in his county and this one kept teasing the other about making her own deal with Ren for his Mana. “Whatever you've got planned, I doubt that I can get anyone else to help.”
+
+“I assume they're all busy?”
+
+“Extremely.” She said and then laughed. “For some reason, we've been getting a lot more prayers and offerings lately.”
+
+“I wonder how that happened.” Ren laughed, too.
+
+“So, what do you need?”
+
+“I've got the skills to do it myself; but, not the expertise or the knowledge to do it safely.” Ren said.
+
+“Hm. It must be a massive project if you can't do it alone.” She said. “I know you're not mining, since this mountain is empty.”
+
+“No, not mining. Not quite, anyway.” Ren grinned.
+
+The Earth being chuckled as she held a hand out. “Come into my office and we can discuss it.”
+
+Ren took her hand and they both disappeared underground.
+
+“Did... did that just happen?” Dilseffa asked, completely dumbfounded.
+
+“He just... he called an Earth being! That was an Earth being!” Tiyaphi said excitedly. As a medical professional, she was extremely fascinated at how the Earth Being looked and functioned.
+
+“He talked to her like it was nothing.” Yuwen said. “They had a normal conversation.” She blinked her eyes at the ground. “Who has a normal conversation with the Earth Deity?”
+
+“King Ren does.” Artemis said, then the ground shook.
+
+“What was that?” Old Ben asked and looked up at the mountain's peak. “It came from there.”
+
+“You felt that, old man?” Drikon asked and looked that way as well.
+
+“I'm crazy, not senile.” Old Ben said. “They're doing something up there.”
+
+There was another series of tremors and Old Ben started to panic.
+
+“Calm down, old man.” Drikon said and gripped his shoulder to stop Old Ben from running.
+
+“If the mountain shakes like that, we're going to get the world's biggest avalanche!” Old Ben said and fully expected the snow and ice to bury him. “Let me GO!”
+
+“No. It's not going to.” Drikon said. “It would have happened already.”
+
+“It takes a few minutes to get here!” Old Ben said. “I know! It happened before!”
+
+“Don't worry. It's over.” Artemis said calmly. “Here they come.”
+
+Ren popped up and out of the ground with a laugh, and knelt down.
+
+The Earth being poked her head out of the ground and laughed, too. “I've been teaching you for a year now and you still tried to change the load-bearing supports before changing the load!”
+
+“I told you that I didn't know what I was doing!” Ren smiled warmly at her. “Thanks for your help.”
+
+“I can't believe you made it all impenetrable rock.” The Earth being shook her head. “I think you've got impenetrable rock on the brain!”
+
+Ren laughed. “Why use anything else when you can make the strongest material available and still have it be aesthetically pleasing?” He said and held a hand out. “Can you make yourself into a conduit for the final offering?”
+
+“I can.” She said and took his hand. “You don't know what this means to us.”
+
+“I only needed to know that it was important.” Ren said and gently poured 100,000 Mana into her.
+
+“Oh... ohhh... that feels so... so nice... and... ohhhhhh...” She moaned. Everyone could feel how much she really liked Ren giving her Mana like that, and she floated on the pleasure as it passed through her. It lasted for nearly a full minute, then the flow slowed down and she stopped being a conduit.
+
+“Thanks again for everything.” Ren said and dumped 10,000 Mana into her.
+
+“OHH!!” The Earth being exclaimed and she finished at the forced feeding. “Dammit! I said not to do that to me!”
+
+“Yes, you did.” Ren chuckled and leaned down to give her a kiss and eased 5,000 more Mana into her. She moaned as he did so, then he broke the kiss. “I had to make you happy, though.”
+
+“You and your happiness fetish will be the ruin of me.” The Earth being said with a slightly red face.
+
+Ren reached down and caressed the side of her face, then handed her several platinum coins. “If I need your help again...”
+
+“...you know how to contact me.” She said and took the material offering. “Until then.”
+
+“Until then.” Ren said, and she floated down under the ground and disappeared. She left his Aura a few seconds later.
+
+“R-Ren.” Dilseffa said, and he stood up to look at her. “What just happened?”
+
+“I changed the top 500 feet of the mountain to suit my needs.” Ren said. “I couldn't do it alone, so I asked for help.”
+
+“From the Earth Deity.” Yuwen said.
+
+“Well, this is her realm.” Ren said. “It wouldn't be right to make huge changes to it without at least consulting her.”
+
+“I can't believe you know the Earth Deity.” Tiyaphi said, wonder in her voice. “How does her skin hold in all that swirling gravel and rock?”
+
+Ren snorted a laugh. “It just does.”
+
+“But...”
+
+“We should get back to the warren and have breakfast.” Ren said and checked the All-Seeing Mirror, then cast a portal back to Dilseffa's room. “Drikon, are you coming?”
+
+“I ate before I left.” Drikon said. “Have fun at the debriefing.” He said sarcastically. Ren chuckled and ushered the women through the portal and stepped through himself, then the portal disappeared.
+
+“Is he a god or something?” Old Ben asked. “I thought only gods could talk to other gods.”
+
+“Duyu told me last night that he's friends with Vasalor.” Drikon said.
+
+Old Ben barked a laugh. “He's friends with that ancient bastard?”
+
+“Apparently.” Drikon said and chuckled at Old Ben's description of the one true creator.
+
+“Well, that would explain a lot.” Old Ben said, then a portal opened and Ren stepped out of it.
+
+“I almost forgot the tip.” Ren said and handed Old Ben 10 gold. “Oh, and you don't have to worry about avalanches anymore. The snow's permanent.” He said and gave them a wave and stepped back through the portal.
+
+“Yep. It definitely explains a lot.” Old Ben laughed as the portal disappeared.
+
+Ren and the women left Dilseffa's bedroom. The women went to the dining room and Ren diverted to the kitchen to go and see Duyu.
+
+“How in the world does this thing work?” Duyu asked in confusion to no one in particular, while she poked the buttons and knobs on the top of the new oven, and nothing happened.
+
+“May I offer assistance?” Ren asked and she jumped a couple of feet into the air.
+
+“You scared me!” Duyu said as she landed and put a hand over her heart.
+
+“I'm terribly sorry.” Ren said and walked over to her and gave her a hug. He felt her flinch at the apology, so he rested his head on her chest and gave her a squeeze. “Don't be angry about that apology. I made you react in a disrespectful way and I had to apologize for it.”
+
+“I... well, yes... making me jump so high...”
+
+“Let me give you a lesson on how to use the new oven.” Ren said and let one arm go, and kept the other around her. He was about to let her go completely; but, he felt that she really wanted him to keep a hold of her as he taught her. Her arm went around him as well and he gave her a quick rundown of all the functions of the new oven. Duyu was amazed at how versatile it was, and Ren even opened it up and showed her that the knobs would regulate how much heat would be generated.
+
+“Thank you for showing me all of this.” Duyu said, doubt in her voice and emotions.
+
+“What is it?” Ren asked.
+
+“Now that I know how it all works... how do I turn it on?”
+
+“Just concentrate on the oven and say 'Activate'.” Ren said. “I didn't tell you how to do it right away, because I wanted you to know how it worked first.”
+
+“That is both annoying and thoughtful at the same time.” Duyu said and turned it on.
+
+Ren chuckled. “That's me.” He said and let her go. “So, what's for breakfast?”
+
+“Scrambled eggs and toasted buns.”
+
+“I haven't made anything for breakfast with a toasted bun before.” Ren said and smiled. Toast, yes. Bun, no. “I'm glad I saved a pile of bacon from the other day.”
+
+“Bacon?” Duyu looked at him with wide eyes.
+
+“Let me introduce you to one of the best breakfast sandwiches you'll ever taste.” Ren said with a grin, and the two of them started making breakfast. When Duyu went to her pantry and took out a 1 foot wide egg, Ren stared at her.
+
+“What?”
+
+“That's the biggest egg I've ever seen!” Ren exclaimed, and she laughed.
+
+“You don't have a lot of experience in our lands.” Duyu said and handed him the humongous egg. “I'll get the big bowl from the cupboard.”
+
+“You have a bowl that can hold this thing?” Ren asked, and she chuckled as she brought over a bowl that was nearly twice as big. “Well, damn.” He said as she took the egg from him, tapped it on the side of the heavy bowl like you would do to a normal egg, and a giant egg yolk popped out with a pile of egg white.
+
+“This is the hard part.” Duyu said and picked up a whisk.
+
+“It should be easier with your ring equipped.” Ren said, and she started to whip the egg.
+
+“Hey, it is easier!” Duyu said happily and quickly whipped it into a consistent color. “Get the pans.”
+
+Ren grabbed the two large skillets. When she went to dump the egg into them, he stopped her.
+
+“Let's make them really light and fluffy first.” Ren said, and showed her how to do just that by adding milk and some spices while she continuously whipped them. It ended up nearly filling the bowl, and Duyu laughed when they had a hard time trying to pour it into the skillets without spilling it.
+
+“I think we overdid it a little.” Ren chuckled and he and Duyu cooked up those two skillets, dumped them onto a huge platter, then cooked up two more skillets full and dumped that onto another platter. They managed to get one more skillet full, which used up all the fluffy mixture, then they started toasting the buns.
+
+Both he and Duyu enjoyed cooking together, because they both had experience cooking and didn't get in each other's way. Ren took out the couple of platters of bacon he had saved and he quickly made a sandwich for her and she bit into it.
+
+“It's really good!” Duyu said.
+
+“Should we make a bunch, or only one each and let them eat normally?”
+
+“One each, and we can save it as a treat for when they're done eating.” Duyu said, and they made enough for one sandwich each, then loaded up the food carts and brought breakfast into the dining room. Everyone was there already and waiting, and Ren chuckled at their surprise when they saw the platters piled high with fluffy scrambled eggs.
+
+“There's lots, so help yourselves!” Duyu said and quickly did up a plate for herself. Ren took enough for himself, Artemis, and his Mistresses to eat, then got out of the way as the brothers tackled each other to try and get the next plateful.

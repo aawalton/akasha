@@ -1,0 +1,315 @@
+---
+id: 1e50aa23-253c-5691-b5ac-dc9a814e0e99
+page-type-slug: story-chapter-royal-road
+title: "Chapter 686 - Meet And Greet"
+slug: 0687-chapter-686-meet-and-greet
+partOf: mythrans-master-of-all-continued-completed
+position: 687
+ownLength: 2982
+unit: words
+publishedAt: 2018-08-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/286424/chapter-686-meet-and-greet"
+royalRoadId: "286424"
+---
+
+Artemis flew up into the air 100 feet to scout, as did Teepo, and they pointed out a commotion in the town square. Ren unfurled his wings and took off to join them, and they quickly flew towards the center of the city.
+
+“What the hell is going on?” Ren asked and they hovered over the large group of people.
+
+“Please go out with me!” A man shouted.
+
+“You're so pretty!” A woman said.
+
+“Join my group!” A man almost hollered.
+
+“Become my wife!” Another man said.
+
+“Forget that! Hurry up and suck my...”
+
+“ENOUGH!” Ren yelled and activated his Ultimate Terror Aura for a moment. Everyone within a thousand feet of him screamed and ducked, so he deactivated his Aura and dropped down in front of the poor woman who was being bombarded with unreasonable requests. She had been backed up to a tree and had her head and ears covered.
+
+“What is wrong with you people?” Ren asked them as they quickly recovered from being scared.
+
+“Get lost.” Someone said. “We saw her first.”
+
+“Yeah, she's ours!” A man said.
+
+“No, she's mine!” Another man exclaimed.
+
+“We can share!” A woman said.
+
+“SHUT UP!” Ren commanded and they all quieted. “I don't care who saw what first.” He said. “You're pestering and bullying this woman! I am ordering you to LEAVE HER ALONE!”
+
+Everyone opened their mouths to protest; but, they couldn't speak. Artemis landed beside Ren and took a fighting stance with her hands ready to shoot them with Mana Bolts.
+
+“Now move along!” Ren commanded with all of his will. “Once you leave the town square, you can talk again.”
+
+Nearly everyone scowled or frowned at him, but they couldn't refuse such powerful orders. Some tried to fight the compulsion, and he equipped his hammerpick and stood defiantly as he stared them down. They turned and left with the others, and after a minute or so, no one was left in the town square except for him, Artemis and the woman.
+
+“I'm terribly sorry about that, ma'am.” Ren said as he turned to look at the woman, and gasped when he saw her face. “Stella!”
+
+“Thank you, Ren.” Stella said and stood up. “Boy, Elise and Lisa were definitely right about this character design.”
+
+“But... but...”
+
+“I know we were supposed to meet at the Library; but, when I logged in, I appeared in the Market District.” Stella said. “Right away a man approached me and asked for a date. I said no, and he tried to take my hand.”
+
+“You punched him.” Ren said.
+
+“Of course; but, I'm only Level 1 and he just laughed.” Stella said. “I started to run and he followed, then other men started to chase us.”
+
+“They claimed they were trying to help you, didn't they?” Ren asked, and she nodded.
+
+“Then it got worse and snowballed, and women started coming to my defense.”
+
+“Oh, geez.” Ren said. “Then the Adventurers started getting involved.”
+
+Stella nodded again. “They saw the reaction I was getting from the crowd and wanted me to join their party. They said something about making quests easier.”
+
+“Hold on.” Ren said. “How did you get this reaction from the people?”
+
+“Oh, I... well, I was curious about something and...”
+
+“What did you do?” Ren asked, an accusation clear in his voice.
+
+“I'm part succubus.” Stella said.
+
+“You're WHAT?!?” Ren yelled, and she sighed.
+
+“I wanted to just choose that race; but, it's not one that's available to be taken.” Stella said. “After talking to Elise and Lisa about it, they said I could add it to my character's family history.”
+
+“They must have tried to convince you not to do it.” Ren said.
+
+“Yeah, they did.” Stella said. “They warned me that I'd have something similar to your Prince Charming title.”
+
+“Oh, god.” Ren said and rubbed his forehead. “Stella, why would... no, never mind.” He sighed. “My title was bad enough, but I was at a good level when I got it, and... well, look at me.” He said. “A woman needs to have a thing for really short and cute guys, or at least not be prejudiced against the possibility that something could happen.”
+
+“Ren, I...”
+
+“It's like a built in filter so that only a certain portion of the population are affected.” Ren said. “You, on the other hand, are a beautiful woman.”
+
+“Ren...”
+
+“Every single man that sees you would desire you in any case. With a title like Prince Charming...”
+
+“It's called Alluring Visage, actually.”
+
+“Oh, that's just wonderful!” Ren exclaimed. “That's actually worse than my title, because my title only affects my Aura. If yours is visual, anyone that sees you will be affected!”
+
+“Ren, I didn't think it would be this bad.” Stella said and saw someone walking towards them. “They're coming back.”
+
+“No, these people are new.” Ren said, because he had felt the others leave the town square and knew they were waiting for him to leave so they could come back. He cast Full Illusion on Stella to make her look like a copy of Artemis.
+
+“Wow, what's this?” Stella asked and looked at her now metal hands.
+
+“It's a Full Illusion spell.” Ren said. “I want to see if we can trick your title into not working.”
+
+Stella smiled at him, because it was a good experiment to conduct after the initial test run. The small group of townspeople walked towards the Portal Gate in the middle of the town square, and then they caught sight of Ren and the two metal women. Ren felt their emotions shift from normal to infatuation and he sighed.
+
+“Nope, it didn't work.” Ren said.
+
+“Hey!” One of the men waved and the group turned towards them and started to jog. “Go out to dinner with me!”
+
+Ren unfurled his wings and picked Stella up in his arms in a princess carry. “Hold on.”
+
+Stella put her arms around his neck and Ren flew straight up. She was surprised at the sheer speed he could achieve, and then he stopped about a thousand feet up. Artemis had kept pace with him and they hovered out of sight of the ground.
+
+“Okay, I think I have a quick solution.” Ren said and dismissed the Full Illusion spell from Stella. “It's only temporary; but, at least it should keep the casual person from reacting to you.”
+
+“Anything will help.” Stella said.
+
+Ren shifted his grip on her to hold her with one arm to free up one of his hands and took out a non-necklace. He enchanted it with enough Fear runes to give her an Aura of 60 feet and handed it to her. Stella put it on and he showed her how to activate it. She caught on right away and activated it.
+
+“You could have just turned it on yourself and gave it to me.” Stella said.
+
+“I could have; but, you might get into a situation where you'll need that ability. If I'm not around when that happens...”
+
+“I can do it myself.” Stella said and nodded. “Okay, thank you.”
+
+Ren smiled at her. “I promised to help you as much as I could.”
+
+“You did.”
+
+“So, shall we get started?” Ren asked.
+
+“H-here?” Stella looked around. “How in the world...”
+
+Ren chuckled. “No, I'll take you to the house in Aurora.” He said and put his arm back under her legs. “Most of what I can do to help is easier on the ground.”
+
+Stella tightened her grip around his neck as he dove back down towards the ground. When he was about 200 feet up, he eased out of the dive and did slow and wide banking circles to come in for a soft landing right in front of the house in the Housing District.
+
+“How did you learn to do that?” Stella asked as he put her down.
+
+“Decades of practice.” Ren said and led her over to the front door and opened it.
+
+“I didn't see any of that.” Stella said and stepped inside.
+
+“I did it in the Sanctuary, so the time compression causes the blue screen to kick in.” Ren said.
+
+“I thought it only did that when there was nudity.” Stella said.
+
+“It does it for all the time compressed pocket realms and the adult areas.” Ren smiled. “Of course, there was quite a bit of nudity, too.”
+
+Stella laughed. “I'm sure there was.”
+
+“Before we get started, I think there's someone you should meet.” Ren motioned to the upstairs bedroom. “Well, four someones.”
+
+They went up the stairs and Ren entered the room first.
+
+“Ladies, I'd like to introduce you to one of the Adventurers that takes care of me when I leave on Adventurer's business.” Ren said and brought Stella into the room, then the succubi gasped when they saw her.
+
+“N-no, it's not possible.” Seldanna said and hopped off the bed. “How? How can this be?” She asked and walked over to Stella. The succubus was 6 feet tall, about 3 inches taller than Stella, and Seldanna squinted her eyes at Stella. “Who is your sire?”
+
+“My what?” Stella asked.
+
+“Who was it in your lineage that gave you your ability.” Ren clarified for her.
+
+“Oh! Um, it was my grandmother.” Stella said and thought back to the quick family summary she had received when she logged in. It had been only there for a moment and she hadn't read it all.
+
+Ren leaned in close and whispered in her ear. “You have the option to look at your most recent popups.”
+
+“Thank you.” Stella whispered back and brought up the popup, then read from it. “My grandfather had lost the love of his life in a tragic accident. In desperation, he made a pact with a rogue witch.”
+
+All four of the succubi hissed. “We hate witches!”
+
+“He gave her all of his savings and promised to stay in debt to her for the rest of his life, if only he could get the love of his life back.”
+
+“No!” Seldanna exclaimed. “She didn't!”
+
+Stella nodded. “She summoned a succubus and bound it to him for the rest of his life.”
+
+Seldanna made a fist and her body started to glow. “Tell me this witch's name! I'll tear out her entrails and strangle her with them for enslaving one of my kin!”
+
+“I don't know it.” Stella said. “All I know is, the succubus took on the guise of his lost love and my grandfather loved her until the day he died.”
+
+“And the succubus?”
+
+“She lived another 20 years, just long enough to see her own eyes in her grandchild's face.” Stella said.
+
+“Your eyes.” Seldanna said.
+
+“I gained her ability, too.” Stella said. “She told my parents that once I was powerful enough, I'd become just like her.”
+
+Seldanna caught her breath and glanced at the other succubi on the bed, then back at Stella. “It... you...” She stopped talking and took a breath. “When that happens, you will become the first succubus born free.”
+
+Stella nodded, and Seldanna stepped forward and briefly hugged her. “We will help you gain your birthright, fledgling.”
+
+“We will!” Ellaria said.
+
+“We swear it!” Katori said.
+
+“Upon our lives, you will be all you can be!” Chenoa said, and Stella felt something stir inside her.
+
+“Wh-what... is this...” Stella put a hand over her heart. This feeling...
+
+“An introduction to the sisterhood.” Seldanna smiled. “As your abilities grow, we can share more than that feeling of belonging.”
+
+“I... belong here?” Stella asked.
+
+“You will always belong here.” Seldanna said and touched the spot over her own heart. “Now, I believe you need help with your equipment.”
+
+“I do.” Stella said, a little surprised.
+
+“My King, we need to discuss her proper attire.” Seldanna said to Ren.
+
+“Are you thinking what I'm thinking?” Ren asked.
+
+“I certainly hope so.” Seldanna said and looked at Stella. “Tell me, does your clothing itch a little?”
+
+Stella did feel a little uncomfortable with her Travelling Clothes. “I think so.” She said, even though she thought it was because she disliked the look and not the fabric itself.
+
+Seldanna looked at Ren and they both nodded.
+
+“It's going to get more and more uncomfortable as you get stronger.” Seldanna warned her. “Look at us.” She said and waved at the other succubi, and Stella saw that they only wore a bikini-like outfit.
+
+“You're kidding.” Stella said. “I have to run around only wearing that?”
+
+Seldanna chuckled. “No, no. This is only the basic outfit. Ren has given us armor, bracers, and greaves.”
+
+“Not to mention rings, bracelets, necklaces and enchantments.” Ellaria said.
+
+“Wait, greaves? Not boots?” Stella asked and looked down at their normal feet.
+
+“We can polymorph our extremities.” Seldanna said and changed her hands into large rending claws and her feet into eagle-like talons. She unfurled her wings and her tail popped out of her backside. “You will learn this ability as well.”
+
+“But...”
+
+“You will be working backwards, though.” Seldanna said. “You will be changing into this instead of hiding it... at least until you claim your birthright.”
+
+“I... wow.” Stella said in fascination and reached for her hand. “Um, may I touch you?”
+
+“Of course.” Seldanna said and held her hands out to Stella, who examined them thoroughly.
+
+“This is really fascinating.” Stella said. “Is there any sensation changes between this hand form and the human-shaped ones?”
+
+“This form has tougher skin and stronger muscles.” Seldanna said. “You trade that off for Dexterity and fine motor control in human form.”
+
+Stella nodded several times and knelt to examine her feet. “This is amazing!” She exclaimed. “I can't wait to get these for myself!”
+
+“As I said, we will do all we can to help you achieve that goal.” Seldanna said. “For now, I believe My King has plans for you.”
+
+“I'd like to introduce you all before that.” Ren said. “Starting off in no particular order.” He pointed to each of them as he said their names. “Teepo. Artemis. Suniva. Seldanna. Ellaria. Chenoa, and Katori.” He said and they had nodded or said hello in return. “I'll introduce you to the Marilith Demon later.”
+
+Stella looked a bit lost for a second, and Ren chuckled.
+
+“It's okay, I went really fast with the introductions.” Ren said. “You'll pick up their names eventually.”
+
+“I... well, there's so many. How can I keep them straight?”
+
+Ren laughed. “I'll keep reminding you when it's necessary. For now, though...” He took her hand and went to the bedroom door.
+
+“My King, we could leave...” Seldanna started to tell him they would give them privacy.
+
+“No, please stay and relax.” Ren smiled at her. “There's no one downstairs in the kitchen, so I'll go there.”
+
+“In the kitchen?” Stella asked. “For what?”
+
+“To do some cooking, of course.” Ren said and waggled his eyebrows at her.
+
+“You must be... you're not kidding.” Stella said as he led her from the room and took her down the stairs. “Ren, we can't do it in the kitchen!” She said as he opened the door to the kitchen. “There's not even a...” She closed her mouth when Ren took an already made bed out of inventory, then he hung cloth up to cover the walls and locked the door.
+
+“Now it's a bedroom.” Ren said, and she stared at it.
+
+“Okay, I've seen you do this before.” Stella said. “Why am I surprised by it now?”
+
+“It's because you're nervous.” Ren said and took out several steel squares with a single Illumination rune on them. They barely threw off any light, just like a candle, and he scattered them around the room.
+
+“What are you doing?” Stella asked.
+
+“Setting the mood.” Ren said and took a handful of flower petals and sprinkled them over the blanket on the bed.
+
+Stella put her hands on her hips and frowned. “Ren.”
+
+“Yes?” Ren smiled when he turned to look at her.
+
+“You're acting weird.” Stella said. “So, I have a serious question for you.”
+
+“What is it?” Ren asked.
+
+“Because of my title, everyone that saw me was immediately infatuated with me.” Stella said. “Even the succubi could feel it a little.”
+
+“Uh huh.” Ren said and walked over to her. “What's your question?”
+
+“If everyone else is affected, wouldn't you be, too?”
+
+Ren gave her a big warm smile. “I would have been, if it wasn't for one of the main drawbacks and necessary safety features for both of our titles, or similar spells, and even the special abilities of the succubi.”
+
+“What is it?” Stella asked, curious.
+
+“They don't work on someone that already loves you.” Ren said and took her hand. “I love you, so you can be all sparkly and dance around half-naked if you want to, and I won't be more crazy about you than I already am.”
+
+Stella just stared at him. “Is... that can't... it's true?” She said in disbelief.
+
+Ren nodded. “All the various abilities, titles, and spells do is open the door with the suggestion. People decide for themselves if they want to go through with it.” He said. “I've seen it a lot, especially with my Tainted King title. Everyone is supposed to notice and acknowledge me in some way, and I've had lots of people pointedly ignore me or pretend they didn't see me.”
+
+“But... that's not...”
+
+“It's still an acknowledgement.” Ren chuckled and stepped back towards the bed.
+
+Stella thought about what he said. “That's actually really clever.”
+
+Ren nodded and sat down on the bed. “I hope you prepped yourself well for this.”
+
+“Excuse me?”
+
+“I've got you all to myself for the next 11 hours, and I'm not going to waste a second of it.” Ren said and gave her hand a tug. Stella didn't even try to resist as he pulled her down onto the bed.

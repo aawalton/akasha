@@ -1,0 +1,65 @@
+---
+id: 6764bd5d-e965-5240-b76c-d5da9cd2237e
+page-type-slug: story-chapter-royal-road
+title: "Chapter 7 Ate 9 (789) - Epilogue (Game)"
+slug: 0792-chapter-7-ate-9-789-epilogue-game
+partOf: mythrans-master-of-all-continued-completed
+position: 792
+ownLength: 710
+unit: words
+publishedAt: 2018-12-08
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/313304/chapter-7-ate-9-789-epilogue-game"
+royalRoadId: "313304"
+---
+
+Ren told Fire Dancer and Zetaya all about what happened and showed them the footage, then enjoyed the rest of the Earth Realm day there. When almost 7 years had passed, he popped back into the Earth Realm and visited everyone again, then ended back at Dilseffa's home and met with Artemis and his mistresses in the living room. Surprisingly enough, Hebzibah was there as well.
+
+“Let me be clear.” Hebzibah said adamantly. “I'm not submitting to you.”
+
+“I would never ask you to.” Ren said. “But, you should understand that submitting to my authority and surrendering yourself to me are two very different things.”
+
+“I... don't understand.” Hebzibah said.
+
+“Believe me, you will.” Ren said. “But... not right now.” He smiled. “According to my Etiquette skill, I believe my First Mistress is to be just that. First.”
+
+“Wh-what?” Yuwen looked at the other women. “R-Ren, I...”
+
+“Some alone time is in order, and what better place to spend it than inside the mansion where you'll be living?” Ren asked and cast a portal. “Right this way, please.”
+
+“But... but...” Yuwen shook her head. “I... I don't think I... I know we've played and teased, but...”
+
+“As First Mistress, you can formally renounce your right to be the first to share my bed and abstain from consummating our relationship.” Ren said. “You will not lose Respect for declining the offer of being first, nor will you have to abdicate your position as First Mistress.”
+
+“You really have lifted all the normal restrictions.” Hebzibah said.
+
+Yuwen closed her eyes and took several breaths, then opened her eyes and looked at Ren. “I know I'm going to regret this; but, I formally renounce my right to be first.”
+
+Everyone felt the burst of emotions from Dilseffa and how excited and happy she was. Ren gave her a big smile and held a hand out to her.
+
+“I don't believe I need to give you the same option to decline.”
+
+Dilseffa didn't say anything as she took his hand and let her emotions do all of the talking.
+
+“We'll be right back.” Ren said and they stepped through the portal. Once inside the mountain, he picked her up and carried her into the mansion and to her room, then activated the Vasalor Statue.
+
+“R-Ren... the question my mom wanted to ask you...”
+
+“Yes, Dilseffa.” Ren said, and she caught her breath as he transformed into a rabbit and most of his body was covered in soft fluffy blonde fur. “I did add rabbit to the polymorph helm.”
+
+“Oh, Ren!” Dilseffa exclaimed and kissed him.
+
+Artemis and the others didn't have to wait long, barely a minute, and then the portal opened again. “That took longer than...”
+
+“WAHHH! WAHHH!” A baby's voice cut her off as Ren and Dilseffa stepped out.
+
+“SHH!” Dilseffa said to the wailing infant. “I told you it wouldn't hurt.”
+
+Everyone froze as they saw there were 5 babies in the carry-all she had and 5 in the one Ren had.
+
+“Rabbits can get pregnant very easily, apparently.” Ren said, and everyone laughed.
+
+Dilseffa's mother was overjoyed at the grandchildren, and she flatly refused to let them live anywhere else except inside the warren. So, Ren let Dilseffa and the children settle there and took Yuwen and Tiyaphi to the mansion and set them up there. Tiyaphi didn't pass on her chance to be with Ren next and was only slightly saddened that he didn't have any cat in the helm. She didn't get pregnant.
+
+Hebzibah stayed with them for the three months of her suspension and didn't regret that she had accepted Ren into her bed. She went back to her own life after that.
+
+Of the maids back at his county, Andrela gave birth first. The boy looked just like Ren with the fluffy hair, except it was a bright red color like his mother's. Frikara and the others gave birth to baby boys the same day, thanks to Ren accelerating them. Xuunah refused at first, then realized it would be less than an Earth Realm day if she had been back in the Light Realm and agreed. She had a pure Light being baby boy that polymorphed immediately into human form and he looked just like Ren.

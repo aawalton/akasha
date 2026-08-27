@@ -1,0 +1,297 @@
+---
+id: b0a2ba06-2b7c-54ee-8d83-84044f9cecf6
+page-type-slug: story-chapter-royal-road
+title: "Chapter 619 - Reloaded"
+slug: 0619-chapter-619-reloaded
+partOf: mythrans-master-of-all-continued-completed
+position: 619
+ownLength: 2756
+unit: words
+publishedAt: 2018-06-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227568/chapter-619-reloaded"
+royalRoadId: "227568"
+---
+
+Ren, Stella, Lisa, Barbi, and Elise enjoyed their lunch together and were just finishing up when Barbi's cell phone beeped at her.
+
+“Someone just posted on the fan site that the game is back up.” Barbi said when she checked her phone.
+
+“What? So soon?” Elise asked and took out her own phone and checked it while Ren and the others waited, then typed almost as fast as Barbi did when she texted people. “My contact at the company says that they put a quick temporary patch in place to stop what you did, Ren.” She said. “They won't have anything concrete until the end of the week, maybe the beginning of next week.”
+
+“I don't see how they can stop me from making an artificial Aura, not without changing the fundamentals in the game.” Ren said.
+
+“I meant activating the NPCs and having them check the Water Works update for information.” Elise said.
+
+“Oh.” Ren replied. “Yeah, I guess if they bottleneck the call functions, and limit it to just the NPCs that have Sea Dweller quest information, then...”
+
+“How did you know they...” Elise chuckled. “Never mind.”
+
+“I'm surprised they finished it this quickly.” Ren said. “We've only lost one game day so far.”
+
+“Isn't that enough?” Lisa asked.
+
+“It depends on if they had to use the old backup or not.” Elise said. “If so, then it's 5 game days.”
+
+Ren nodded. “It's going to suck having to redo all of that work.”
+
+“Are you going to redo it?” Elise asked. “Can't you just move on and do something else?”
+
+“I suppose I could.” Ren said and then smiled. “I liked having a country-sized Aura, though.”
+
+Elise laughed. “I still can't believe you did that.” She said. “What a smart way to get your point across that the update was severely flawed.”
+
+“I know it took a long time to set up game-wise; but, it was the fastest way to do it, considering they wouldn't listen to you when you warned them about it as well.”
+
+“I should caution you about the Water Works update and to not make any more waves.” Barbi said, and everyone looked at her while someone let out a slight groan. “I'm sorry.” She said and smiled. “We don't need water puns right now.”
+
+“It's okay. I make that mistake sometimes, too.” Ren said. “Don't let the current atmosphere drag you down into the depths.”
+
+“Ren...” Denise started to speak.
+
+“I could shower her with compliments instead, but I don't want her to drown in the tides of emotions that might flood out of her.”
+
+“Ren...” Stella started to speak as well.
+
+“Hey, don't rain your criticism down on me.” Ren smiled. “Most times, I can't fathom what you mean.” He grinned. “Let's turn the tide of the conversation, so we can all wade through it safely.”
+
+“Oh, god.” Denise said and covered her face with a hand. “Just stop.”
+
+“Sea? Don't get steamed over this.” Ren chuckled. “Although, I seem to be getting in hot water myself.”
+
+They all groaned at that.
+
+“Aww, don't drown in your sorrow.”
+
+“Ren!” Stella said.
+
+“I'm skating on thin ice, aren't I?” Ren laughed. “Okay, I'll stop... after a joke.”
+
+“No, no, no.” Lisa said and covered her ears.
+
+“How do you make Holy Water?” Ren asked. “You boil the Hell out of it.”
+
+Barbi covered her mouth to stop her smile.
+
+“What do you call a duck that's afraid to go into the water?” Ren asked. “Chicken!”
+
+“Go ahead.” Elise said. “Get it out of your system.”
+
+“Are you shore?” Ren asked. “My reservoir of material is almost dried up.”
+
+“Just do it.” Elise said and smiled.
+
+“Okay. What did the horny shower head say?”
+
+“I don't know.”
+
+“Every naked person I see turns me on.”
+
+Elise snorted a laugh.
+
+“What did the dog say to the fire hydrant? Urine a lot of trouble.” Ren said, and Lisa chuckled. “I feel so sorry for boiling water. It will be mist.”
+
+Stella shook her head.
+
+“Someone asked me for a small donation to the neighbourhood pool, so I gave them a glass of water.” Ren said. “Hey, I've been wondering something. If a pregnant woman is underwater, isn't she technically a submarine?”
+
+“Oh, my god.” Barbi said and chuckled.
+
+“Why don't the Amish water ski?” Ren asked and looked at their faces. “Because the horses might drown.” He had them all amused to some degree, so he pulled out his best joke.
+
+**
+
+“Three nuns die in a tragic bus accident. The bus driver went straight to hell, but the nuns went up to the pearly gates and waited in line. When it was the first nun's turn, Saint Peter asked her if she had ever seen a man's penis.
+
+“Yes!” The nun exclaimed and cried. “I'm so sorry!”
+
+“That's okay. Just scrub your eyes with the Holy Water in the fountain over there, say Hail Mary 1,000 times, and then you can enter.”
+
+“Thank you so much!” The nun said and rushed to the fountain to scrub her eyes vigorously. While they waited for her to finish, the third nun tapped the second nun on the shoulder. “Hey, switch places with me.”
+
+“Why?” The second nun asked.
+
+“I want to gargle and wash my mouth out before you stick your ass in the fountain.”
+
+**
+
+They all laughed, and Ren sat back with a satisfied look on his face and waited for them to stop.
+
+“Okay, okay.” Stella said when she calmed down. “I assume that's all?”
+
+“I don't want to spray out all my best material all at once, so yes.”
+
+“No more puns.” Denise said.
+
+“But...”
+
+“For today, anyways.” Elise said. “Barbi seemed to like them.”
+
+“I don't know how he came up with so many and put them into normal conversation.” Barbi said. “They weren't even bad ones, like 'water you doing' and 'dew you want this'.”
+
+Ren chuckled. “I'll have to remember those.”
+
+“Don't you dare!” Stella warned and glared at him, but she was smiling. “What you said so far is enough.”
+
+“All right.” Ren said. “I'll be good.”
+
+“Make sure you are.” Stella said and started to gather the dishes.
+
+“I'll give you a hand.” Denise said, and the dishes were gathered and the table was cleared off in record time. Stella pushed the cart with the dirty dishes on it out of the room, and Elise sighed.
+
+“I guess I need to get back to work.”
+
+“You don't need to, but it would be good if you did.” Ren said. “Who else is more qualified to take care of my financial empire?”
+
+Elise chuckled. “That's not all I do.”
+
+“I know, but looking beautiful isn't really a job, Elise.” Ren said, and she laughed as she leaned in to give him a kiss. “Well, a hard job I mean.”
+
+“I know what you meant.” Elise said. “Are you going back into the game?”
+
+“You bet I am.” Ren said. “I need to see how much I need to redo, then redo it and continue my plan.”
+
+“Oh? What plan is that?” Lisa asked.
+
+“Are you busy right now?” Ren asked, and she shook her head. “Then come in with me and find out.”
+
+Lisa opened her mouth to agree, then shook her head. “No, I'm staying out for now.”
+
+Ren thought about what had happened to her the last time she was in the game and he put his arm around her shoulders. “I'm sorry he did that to you.” He said and rubbed her shoulder with his hand. “I'll be dealing with him on the weekend.”
+
+“Ren, I...” Lisa sighed. “My special class blocked me from leaving or logging out.”
+
+“Is it because you gain XP for information gathering and distribution?” Ren asked, and she nodded. “I assume this happens every time a question is asked of you?”
+
+“Yes, and normally I can answer any way I want. Depending on how close to the truth it is, the more XP I gain.” Lisa said. “That guy and his Amulet of Assholiness took away all my options.”
+
+“Assholiness. Good one.” Ren pressed his lips to her cheek and left them there for several seconds, then pulled away and looked her in the eyes. “The first thing I'll do when I go in is check to see if anything is different, then I'll make an Amulet of Untruth for you.”
+
+“You can do that?” Lisa asked. “Do you have a recipe for it?”
+
+“I don't right now, but I'm pretty sure I know who does.”
+
+“Issac, the enchanter.” Lisa said right away.
+
+“He said that the next time I visit, I can take a look around and examine everything he has in his shop.” Ren said. “It's about time I take him up on his offer.”
+
+“Ren, he has a lot of things available.”
+
+“Yes, he does. I expect to take close to 10 minutes to look at everything.”
+
+Lisa chuckled. “It's going to take longer than that.”
+
+“Not for what he has on display.” Ren said and smiled. “The things in the back room on the other hand...”
+
+“Oh, you sneak.” Lisa laughed. “You know that's not what he meant!”
+
+“I know.” Ren grinned. “Wait about 10 minutes, then come in and visit me.” He said. “I'll fix your problem and then I'll show you what I'm going to do.”
+
+“Okay.”
+
+Ren gave her another kiss, this time on the lips, and took his arm from her shoulder. “I'm all cleaned up and prepped, so I'm ready for another rip-roaring time in the game.”
+
+“At least this time you can't crash it.” Elise said.
+
+“Who told you that nonsense?” Ren asked and grinned at her, and she chuckled.
+
+“All right, I'll rephrase. Please don't try to crash the game.” Elise said. “Barbi is having a hard enough time as it is.”
+
+“Well, if it's for Barbi's sake, then I'll try.” Ren said, which made Barbi chuckle.
+
+“Don't go out of your way on my account.” Barbi said. “The more you do, the more I have to do to cover your butt.”
+
+Ren smiled to her and Denise helped him over to the bed. He climbed up onto it and she got him settled, then helped him put on his VR headset.
+
+“Flow Login Start.”
+
+********
+
+Ren wasn't surprised when he appeared in the white loading area and received a popup.
+
+System Notice!
+
+We sincerely apologize for the delay in service. The problem that precipitated the unintentional shutdown has been temporarily patched and will be repaired completely in a week.
+
+As compensation, all players will receive 1 special platinum coin that can be spent in selected shops. For a list of shops, open the Help menu and search for 'special shops'.
+
+“How much do you want to bet that my shop isn't on the list?” Ren asked out loud and laughed, then dismissed the popup. The world faded in around him and he saw that he stood next to the wall in the bedroom of the house in Aurora, in the same spot that he had logged out in. They must have managed to get the last backup repaired. He thought and looked up. Hey, Teepo.
+
+“Ren!” Teepo said. “You're back really early.”
+
+That would depend on your frame of reference. Ren thought to his friend. This time I was gone longer than I normally am.
+
+“Hmm?” Artemis moaned a question and rolled over in the bed, then saw that Ren stood by the wall in his full form and not the phantom one, then felt his emotions as well. “Ren!”
+
+“Hey, there.” Ren said, and she got out of bed and hugged him. “How do you feel?”
+
+“Now that you're here, like I could take on the world.” Artemis said.
+
+“I meant about the Sea Dweller thing.”
+
+“It's not nagging at me anymore.” Artemis said and tapped her temple. “What did you do?”
+
+“Hopefully fixed things, but I doubt it's permanent.” Ren said. “It's going to be a while before I can go back to the maids.”
+
+“I'm so sorry.” Artemis said and let him go. “Is there anything we can do to help?”
+
+“No, I think all I need to do is wait.” Ren said. “Things should go back to normal in about a month.”
+
+“A MONTH?!?” All 4 succubi exclaimed at the same time.
+
+“Yes, unfortunately.” Ren said. “I didn't get any specifics; but, I'm pretty sure if I go around them again that they will start being preoccupied with the Sea Dweller part of me again.”
+
+“We're going to be with you for a whole month.” Seldanna whispered and hugged herself. “We only see Ren every few days if we're lucky, and now... now we can...” She stopped talking when Ellaria, the one Ren healed of the molten metal burns, tapped her shoulder.
+
+“Is anyone hungry?” Ren asked, and the succubi nodded. He walked over to the bed and kissed each of them in turn and fed them their favorite emotions. He filled them up and they laid down and relaxed on the bed.
+
+“You are so giving.” Ellaria said and closed her eyes like the other succubi. “I don't understand why you would do this for us, even though you've told us more times than I can count why you do.”
+
+Ren chuckled. “You don't need to understand, you only need to know that I will always do it for you.”
+
+Ellaria let herself feel contentment, and the other three succubi let themselves feel it as well.
+
+“I need to make a quick run over to Issac's shop in the Artesian District.” Ren said. “Who's coming with me?”
+
+“I will.” Suniva the pixie said. “Before I met you, I had never been anywhere except home and the caverns.” She said and walked through the air to sit on his shoulder. “Seeing all these new places and things has been really neat!”
+
+“It really is.” Teepo said and flew down to land on Ren's other shoulder. “Even when I was terrified during some of our adventures, it was still neat.”
+
+Suniva laughed, and Ren chuckled.
+
+“Do you need guards?” Seldanna asked and opened her eyes to look up at him.
+
+“No, it's just a couple of streets over.” Ren said.
+
+“Then if it's all the same to you, I'll just lay here and bask in you... ah, I mean the emotions you fed me, not you as in you.”
+
+Ren smiled. “Either way is fine.” He said and leaned over the bed to give her surprised face a kiss. “I'll be back later.”
+
+Ren and Artemis left the bedroom and went down the stairs, then out of the house and down the street.
+
+“You shouldn't tease her like that.” Artemis said.
+
+“I wasn't teasing.” Ren said and took her hand. “I can feel her conflict between asking for more and the fear of being rejected.” He said. “The other three are getting close to the same state, and if I'm going to be feeding them personally for the next month, I don't want to cause them unintentional harm.”
+
+“But...”
+
+“Now that they know I have a definite time limit and they are going to be around me for most of that time...”
+
+“They are going to need more and you don't want them to starve themselves, just because feeding them more will take up more of your time.” Artemis finished for him.
+
+“You understand the problem.” Ren said and they arrived at the Artesian District. “I'm trying to strike a delicate balance between giving them everything they need and everything they want.”
+
+Teepo chuckled. “If you gave them everything they wanted...”
+
+“I would be in so much trouble.” Ren said and laughed, then opened the door to Issac's shop.
+
+“You've really messed things up for yourself now.” A familiar voice said from inside a dark hood. “Haven't you, pipsqueak?”
+
+Ren didn't respond, and the hooded figure chuckled.
+
+“I was going to say that I was here for the same reason as you; but, I can tell that's not true by your Aura.” The figure said.
+
+“Why are you here then?” Ren asked as he equipped his platinum armor and Artemis took a fighting stance with her palms pointed towards the hooded figure that stood beside Issac.
+
+“I'm buying new enchanted items to fight the Sea Dwellers, of course.” The hooded figure said and pulled down his hood to reveal very familiar facial features. Features Ren saw every time he met his Dedicated Servant Crafter.
+
+Tristan smiled evilly at him. “Surprise.”

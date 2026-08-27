@@ -1,0 +1,201 @@
+---
+id: c0a21e8d-b018-5c33-8e70-a942a77ab715
+page-type-slug: story-chapter-royal-road
+title: "Chapter 736 - More To Do"
+slug: 0737-chapter-736-more-to-do
+partOf: mythrans-master-of-all-continued-completed
+position: 737
+ownLength: 2837
+unit: words
+publishedAt: 2018-10-20
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299670/chapter-736-more-to-do"
+royalRoadId: "299670"
+---
+
+Ren distracted everyone for almost 20 minutes with the baby pictures, then he ended with showing a short clip of Renardos and several women's hands ruffling his auburn fluffy hair.
+
+“Aww! He's so cute and cuddly!” Diana said happily and chuckles were heard all around the room.
+
+“Thank you, Princess Diana.” Ren said to her.
+
+“He definitely looks like you.” Lady Eleanor said in a conservative tone, but Ren felt her emotions and knew she was just as enamoured of little Renardos as her daughter was.
+
+“Is it the hair or the chubby cheeks?” Ren asked as he ruffled his own hair and puffed out his cheeks with a breath of air.
+
+“Definitely the cheeks!” Diana said and laughed, as did several of the representatives from the Pervaria Kingdom, and Lady Eleanor let a small smile touch her lips for a moment.
+
+Ren thought that was the best compliment Renardos was going to get from the very reserved woman, so he gave her a nod of acknowledgement and turned towards Princess Diana.
+
+“I came right here after the birth, and a side a trip to see the Sage of Ages.” Ren said. “I'm having her register the birth in the Libraries she has access to.”
+
+Tatya gasped and looked at Kenkoth beside her, then back at Ren. “That would mean...”
+
+“Despite being born in the dwarf lands, he will be a citizen of the kingdoms his birth is registered in.” Ren said with a smile.
+
+“That was a smart thing to do.” Kenkoth admitted.
+
+“I know.” Ren said and then grinned. “Especially since I'll have the privilege to go to those kingdoms to inspect them and ensure his safety. When he is of appropriate age, he'll be allowed to visit.”
+
+Kenkoth hid his sigh. “I suppose with our caravan leaving today, you'll want to come along?”
+
+“I'd be honored to, and I will meet up with your caravan before it leaves the Human Kingdom; but, I have to visit the Giant Kingdom first.”
+
+“The Giant Kingdom?” Tatya asked with surprise, then closed her mouth when Kenkoth looked at her and let her feel his annoyance.
+
+“I would normally say that Giants are a myth; but, you apparently have proof that they are real.” Kenkoth said.
+
+“He must be annoyed that she admitted they were ignorant of the existence of giants.” Teepo said.
+
+“Of course I have proof.” Ren said and took out his book called Close Encounters of the Giant Kind, where he had saved the giants from the brain arthropod grubs. All of the representatives from the kingdom of Pervaria caught sight of the image on the front of it and liked what they saw. He stepped over to Tatya and her hand reached out for the book automatically. Ren smiled and handed it to her without comment.
+
+“You've seen that he has updated his armor a lot since then.” Artemis added, just in case they assumed he still had that armor. “Not that he really needs it anymore.”
+
+“Yeah, having full stats is awesome.” Ren stepped back to stand in front of Princess Diana.
+
+“So is having all of the abilities of every Adventurer.” Artemis touched his shoulder and gave it a squeeze.
+
+“I'm using Mage right now, just because it's easier to use Mana for the things I use it for.” Ren said and glanced at Meccis. “That's probably why you don't feel good about losing, because you're subconsciously detecting that I'm an Artificer Mage right now.”
+
+“It's not subconsciously.” Meccis huffed.
+
+Ren chuckled. “Just a second.” He said and chose the fighter class as his sub-class and was covered in a slight glow for a second, then all the Pervarians took in a quick breath. “There, is that better?”
+
+Meccis nodded slightly and only felt a little better about losing to someone so short.
+
+“I've been wondering about something.” Diana said, and Ren looked over at her. “During the duel with the condition that it ended when you broke a wooden sword, what would happen if you had broken it right at the start?”
+
+“It would have ended in a tie.” Kenkoth responded automatically, then his eyes widened. “You intentionally let us fight your Doppelgangers until we all had been hit at least once.”
+
+Ren nodded and gave him Respect for figuring it out. “You all wanted a fight to test my skills without having an actual fight.” He said and laughed. “It took a long time to figure out how to do it, let me tell you.”
+
+“You were barely gone for half an hour.” Tatya said and everyone looked at her inquisitively. “Not that I was keeping track of it or anything.” She said in her defense.
+
+Ren snorted a laugh. “Just because I wasn't here for such a short time doesn't mean that I wasn't gone for a lot longer than that.”
+
+Artemis felt their confusion through Ren. “Ren has had access to a Sanctuary for a long time now.” She said, and everyone in the room recognized the significance of that.
+
+“You've been using the retreat to train.” Kenkoth said.
+
+“Sometimes.” Ren corrected. “I usually use it so I can spend time with the people I care about, without having it impact our normal lives.” He chuckled. “Of course, when I needed to get serious with it, I really did.”
+
+“Did he ever.” Artemis said and squeezed his shoulder again, then let it go. “Since I'm pretty sure you were here when he did get serious with it, you know what he's talking about.”
+
+Everyone felt King Alamast's annoyance fill his Aura at being reminded of that, and Ren took out the device to change all the displays around the country to a live feed of him, and the people in the room noticed the display box behind Ren change from a baby picture to Ren himself.
+
+“Before you overreact to me creating and then harvesting all of those emotions from everyone to level myself up, I did it to show you all what I could do and then I saved the world.” Ren said, and his voice had been slightly amplified because it came out of the displays behind him as well. A ripple of unease flowed around the room, and he felt the surprise from the royal family and from the representatives from the Pervaria Kingdom because they knew that he didn't lie.
+
+Diana was the first to speak. “Ren... King Ren... how did you save it?”
+
+“After the Sea Dweller fiasco where everyone suddenly had knowledge of things they never should have known, certain Adventurers tried to undo what everyone thought and felt about it.” Ren said. “Unfortunately, what they did was remove the unnecessary knowledge, then they removed everyone's connections to everything.”
+
+Everyone remembered that and the things they had lost. Ren gained the Angered condition and the whole room shivered as they felt it.
+
+“That's right. Bonds with people, their houses, their pets if they had them, and even some of the special items people owned were either lost or cut off for no reason.” Ren said with a sneer. “It happened right before my big training routine. I hadn't planned on doing what I did, mainly because I hate using an exploit when it's not necessary; but, after losing pretty much everyone and everything I had in my life at the time, I couldn't take their interference anymore.”
+
+“What did you do?” Tatya asked for everyone, since she could feel their emotions, too.
+
+“I did the only thing I could do. I asked Great Vasalor for help.” Ren said, and he felt that most of them felt astonishment, except for the Pervarians. Quite a few people in the audience didn't recognize the name, however. “For those of you that don't know who he is...” He activated his country-sized artificial Aura. “...Great Vasalor was the one that created this world and most of the realms within it.”
+
+New System and Administration Quest!
+
+You have revealed the existence of an all powerful being to those within the Human Kingdom that previously had no idea such a being existed. With this new knowledge, an appropriate Cathedral must be constructed within the capital city of Bore-Reale in the Human Kingdom.
+
+Rewards: You don't need anything else. Get to work.
+
+Ren almost burst out laughing at the popup, then he felt everyone's reaction to the news that everything had been created by a single supreme being. Shock, disbelief, trepidation, and a healthy dose of awe flooded through his Aura and everyone at the table in front of him froze as he let them feel what the rest of the country felt.
+
+“Ren.” Diana whispered as she tried to not let the flood of emotions affect her, and he smiled at her.
+
+“With Vasalor's help and my newly learned expertise, we restored everything back to the way it was and re-established all of the connections that had been damaged, severed, or lost.” Ren said. “It took... a very long time... to do that.”
+
+The Pervarians took in sharp breaths as they felt a small bit of that time, and several of them were shaking their heads slightly.
+
+“For those that want to see proof for themselves, I'll have a Cathedral built in a few hours.” Ren said, and he felt everyone's surprise. “With the Portal Gate Network that I constructed, no one will have to travel far to visit it.”
+
+“You built them?” Kenkoth asked, and Ren nodded.
+
+“I guess it is a little odd to give the people of the Human Kingdom a present, since it's Princess Diana's birthday; but, Vasalor has been alone for a heck of a lot longer than anyone can imagine and I doubt he wouldn't want to hear from you.” Ren chuckled. “If he does, tell him that Ren sent you.”
+
+Ren felt a general amusement feeling through the artificial Aura, and he deactivated the live feed from the displays and put Princess Diana's happy and sad face on it instead.
+
+“Ren!” Diana exclaimed when the display behind him changed.
+
+“This was the face you made when I gave you your present, Princess Diana.” Ren said. “I just wanted everyone to see how beautiful you were at the time.” He changed it to her posed picture and deactivated his artificial Aura at the same time, then felt Diana relax as she sighed.
+
+“You really believe that.” Tatya said, then clamped her mouth shut.
+
+“It was a genuine emotional moment for her, and there's not much that's more appealing than seeing a woman's face when she's so happy that she could cry.” Ren said.
+
+“Good god, Ren. Why don't you tell them how much you enjoy going down on a woman, too?” Artemis tried to whisper; but, the people that sat at the table nearby had clearly heard her. That made Ren chuckle and Teepo chitter in laughter, especially when all the men made odd faces. The five women on the other hand... three of the Pervarian representatives, Princess Diana, and her mother Lady Eleanor... wiggled in their chairs slightly at the thought of being touched like that. It took several quiet moments for them to recover from Artemis' joke, then Kenkoth spoke.
+
+“You have told us all quite a tale this day.” Kenkoth said. “Do you expect us to thank you for what you did?”
+
+“I didn't do it for thanks, or for recognition, or to even be associated with Vasalor.” Ren said honestly, and he felt their surprise. “I just really missed my loved ones and I couldn't continue on in this world if I couldn't get them back.”
+
+Diana gasped at that. “Ren, you... you...”
+
+“I would have left on Adventurer's business and never returned.” Ren said.
+
+Diana caught her breath and put a hand over her heart when Ren didn't sweat from a lie, and Ren was suddenly there and knelt on one knee in front of her. No one had seen him move or saw that the large dining table had disappeared.
+
+Ren felt how much his statement had hurt her. “Diana, it didn't happen.” He said and took her hand. “I fixed things and I didn't leave. I'm still here and I'm never going to leave.” He said and bent over her hand and placed a kiss on the back of it and held it there.
+
+“R-Ren...” Diana stammered as her recently unlocked Respect stat kept going up. She gained Fame as well, but since it was already maxed, she gained XP instead. “S-stop. Please.”
+
+Ren stopped kissing her hand and looked up at her. “Don't linger on what could have happened. We all made it through that crisis and we can all move forward into the future.”
+
+“But... what if...”
+
+“It doesn't matter. What does matter is that I just brought another child into this world and I'm not going anywhere.” Ren assured her, then used his Reassurance Aura to fill her with good feelings.
+
+Diana took several breaths and blinked her eyes, then noticed where Ren was. “Ren, where did the humongous dining room table go?”
+
+Ren chuckled and let her hand go, then stood and took several steps back. “I stored it to get it out of the way so I could kneel at your feet.” He said as he took the table out of inventory and placed it back where it was before. “I know this is going to sound odd; but, can you give it to me for a moment?”
+
+“You just had it.” Diana said.
+
+“I was only carrying it and I don't own it.” Ren said. “I wasn't going to steal it, either.”
+
+Diana smiled and turned to King Alamast. “Father?” She saw his slightly reluctant nod, then she smiled and looked back at Ren. “You may have this table.”
+
+“Thank you.” Ren said and the table glowed for a moment, and all the little scratches, nicks, worn spots, stains, and the dent that Doppel Ren 1 had put in it, disappeared as the table was restored back to pristine condition. “You can have the table back.”
+
+Diana had wide eyes as her hands reached out on their own and caressed the surface. “It looks just like it did when we first got it.” She said in wonder. “What spell is it?” She asked. “Full Illusion?”
+
+Ren shook his head. “It's not a spell and it's not fake. The table has been restored to its best condition.”
+
+“Then how...”
+
+“It's a skill I have called Possession Restoration.” Ren said. “I can restore anything I own by using Mana.” He felt surprise from her, her family, and from the audience; but, not from the Pervarians. Interesting. He thought.
+
+“They weren't surprised when you mentioned Vasalor, so it's no surprise they didn't react when you mentioned a skill you gained from a Chosen.” Teepo said. “I wonder how much they actually know.”
+
+Me too, buddy. Ren thought. Maybe that's why Lara wanted me to make amends with them.
+
+“Naw, that seems too easy of a reason.” Teepo said and then chittered in laughter. “I think you'll need to dig deeper to find out what she wants you to discover.”
+
+“Well, this was one of the most interesting meals I've had in a long time.” Kenkoth said and stood up, then turned to Diana. “Princess Diana, it was a pleasure to share this meal with you and I hope you have a Happy Birthday.”
+
+“I already did.” Diana said and nodded to give him Respect. “Thank you.”
+
+Kenkoth nodded back and gave her Respect as well, then he looked at King Alamast and Lady Eleanor. “King Alamast, Lady Eleanor. Both I and my people appreciate that you allowed us to visit and experience your people.”
+
+“We were happy to have you.” King Alamast said and Lady Eleanor nodded.
+
+“Is it just me or did that sound kind of obscene?” Teepo asked, and Ren clamped his mouth shut to stop from laughing.
+
+“Safe journey to you and your caravan.” King Alamast said and nodded.
+
+Kenkoth waved his hand slightly and the other 11 representatives stood as one and followed him out of the reception area.
+
+“Ren, can you stay?” Diana asked.
+
+“As much as I'd like to, I can't.” Ren said. “I've got to get to work, then I need to visit the Giant lands briefly... at least I hope it will be briefly... then I need to...”
+
+Diana laughed and held up her hand to stop him. “I think just saying you're busy is sufficient.”
+
+Ren smiled and took out several pieces of parchment and made them into pictures of his son, Renardos. “It's a little hard to believe that my son shares a birthday with the princess of the Human Kingdom.” He said and took out one of the forms and put Renaldos' full name on the back of the pictures, then handed them to Diana.
+
+“Thank you, Ren.” Diana said and held them tenderly.
+
+Ren nodded to her and turned around, held an elbow out to Artemis, and they left the room.

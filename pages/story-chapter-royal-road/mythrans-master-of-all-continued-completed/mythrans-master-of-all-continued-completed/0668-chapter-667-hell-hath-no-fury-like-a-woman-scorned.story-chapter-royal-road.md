@@ -1,0 +1,245 @@
+---
+id: 4fd79315-1b61-5704-81d9-47c6c8345df8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 667 - Hell Hath No Fury Like A Woman Scorned"
+slug: 0668-chapter-667-hell-hath-no-fury-like-a-woman-scorned
+partOf: mythrans-master-of-all-continued-completed
+position: 668
+ownLength: 3281
+unit: words
+publishedAt: 2018-08-12
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/243243/chapter-667-hell-hath-no-fury-like-a-woman-scorned"
+royalRoadId: "243243"
+---
+
+The 1000 foot tall Fire woman stood up and glared down at him.
+
+“Fire Dan-UGH!” Ren grunted as she kicked him. He was picked up and thrown across the large throne room and slammed into a solid Fire wall and bounced off. Ren hit the floor and tumbled to a stop 20 feet away from the wall.
+
+“How dare you try to speak my name!” Fire Dancer exclaimed. “You have no right to address me so informally!”
+
+“My... sincere... apologies.” Ren managed to say with his armor caved in. He rolled over onto his knees and repaired the armor, then his Regeneration finished healing him. “Deity of Fire.”
+
+“Bring him back over here.” Fire Dancer said dismissively, and suddenly there were 50 Fire elementals next to him. They extended Fire tendrils to wrap around him and dragged him across the throne room to deposit him in front of the throne.
+
+“I meant no disrespect.” Ren said as the Fire elementals let him go and he resumed kneeling on one knee. “I also deeply regret that I cannot call my daughter by her given name.”
+
+“If you had been there when I needed you, as all fathers should be, I wouldn't have a problem with it.” Fire Dancer said. “But, you broke your promise to me, Father.”
+
+“What?” Ren lifted his head to look at her, and he felt her spike of rage as her hand slammed down on top of him.
+
+Notice!
+
+You have been mortally wounded. Unless you receive medical attention within 30 seconds, you will die.
+
+“Avert your eyes! You cannot look upon my divinity with such an expression!” Fire Dancer said and lifted her hand. Ren had been crushed under the pressure of her hand, and for an instant, he felt her shock that she could do that to her own father.
+
+Since he couldn't move to repair his armor with it crushed into him, Ren used his Possession Restoration ability and poured Mana into it instead. His body glowed for several seconds as his platinum armor reformed to its proper shape and he cast Major Healing on himself several times to repair the damage she had done in her anger.
+
+“I am only an Adventurer, Deity of Fire. Please try not to kill me by accident.” Ren said and pushed himself up into a kneeling position and kept his face averted. “I don't want you to be hurt like that.”
+
+Fire Dancer felt a pang of guilt because of that, then her anger pushed that aside. “Get him out of my sight!” She said. “Take him to the dungeon!”
+
+The Fire elementals reappeared by him and started to cover him in Fire tendrils.
+
+“Dragging me away won't be necessary, Deity of Fire.” Ren said and stood up, but he kept his head down. “I'll go willingly and won't fight or complain.”
+
+“I want them to drag you away, you insolent and insignificant being!” Fire Dancer snarled.
+
+“Of course, Deity of Fire.” Ren said and laid down on his belly, so that he wouldn't accidentally see her face, which would insult her again. The Fire tendrils wrapped around him and the 50 Fire elementals dragged him from the throne room. He didn't yell or protest, or even try to break free.
+
+*
+
+Fire Dancer watched in satisfaction as he was dragged from the room... until he was out of sight. Her whole body trembled as she collapsed onto the throne, and tears of Fire burst forth from her eyes. When the tears hit the floor, new Fire elementals were formed and they swarmed around her to comfort her and became part of her armor. Hundreds more came from the walls and dropped from the ceiling and tried to comfort her, too.
+
+“Why didn't you just kill him?” Fire Dancer asked herself as she pet a Greater Fire elemental, because they were the only ones big enough for her to touch safely and not damage them. “He deserves to die for abandoning me.” She said, then thought about the sight of Ren after she had crushed him with her hand in a fit of rage. Seeing his broken body like that had hurt her heart. “Doesn't he?”
+
+The Fire elementals all agreed that he needed to die for leaving her all alone so long ago, and she closed her eyes and tried to decide what she was going to do with him, now that he was here and within her reach.
+
+*
+
+Ren was unceremoniously dumped into a cell by the Fire elementals, and the cell door closed when they left. Now that he was alone, Ren took the opportunity to summon Teepo.
+
+“Oh, you really did it.” Teepo said and flew up to land on Ren's shoulder, and Ren nodded. “Since I'm still in my astral body, I assume you can't talk out loud.”
+
+Ren nodded again and Teepo sighed.
+
+“She was really that angry, huh?” Teepo asked, and Ren nodded again. “I guess summoning me in front of her would be a bad idea.”
+
+Ren barked a laugh, and then he felt something stir in the next cell. He turned and looked closely, and it looked like a Fire elemental, except its color was a deep red with barely a lick of orange on its edges.
+
+“How long have you been in here?” Ren asked, and heard several snapping branches as if they were burned quickly by fire. “Geez, that long?” He asked and chuckled. “I guess I might be here just as long, if not longer.”
+
+The sound of a low fire came from across the hall, and Ren looked there. Another Fire elemental was there, but it looked in better shape.
+
+“What did I do?” Ren asked, and its flame flickered. “I broke a promise, apparently.”
+
+The sound of a roaring fire came from another cell, and Ren chuckled.
+
+“Now that I've had a few moments to think about it, with what she said, I'm pretty sure I know what she means.” Ren said. “Unfortunately, I didn't break the promise on purpose; but, it was broken.”
+
+The Fire elemental across the hall made a snapping sound with a low fire, and Ren sighed.
+
+“Although I didn't do it myself, I'm still responsible for it being broken.” Ren said. “I'll try and explain the next chance I get...”
+
+Several snapping sounds came from the next cell, and Ren chuckled.
+
+“Yeah, I know it won't help.” Ren said.
+
+“Ren, how are you talking to them?” Teepo asked. “Neither of us knows how to speak Fire elemental.”
+
+“I'm just guessing.” Ren said. It answered Teepo's question and also continued his talk with the Fire elementals. “I just hope I can work things out with her.”
+
+Snapping sounds came from all of the cells in response.
+
+“Hey, it's possible.” Ren said, and the snapping sounds got louder. “I'm going to try, and you can't convince me not to.”
+
+The snapping sounds became low burning fires, and Ren sighed.
+
+“She's not feeding you, is she?”
+
+A single snap came from each cell, and Ren knew there was a reason for her to starve them. It was probably for a very good reason, and he sighed as he took out a piece of wood with an Anti-fire rune on it. He passed it to the fire elemental in the next cell and absorbed the rune as the elemental sucked the wood into itself. It's dark red flame flickered with a lot more orange, and it let out a low fire sound out.
+
+Ren tossed a piece of wood to the cells he could reach, then used his Fire Manipulation ability to carry a piece of wood to each of the other cells. A low fire sound came from each of them, and he sat back in his own cell to relax. Like he had told them, he expected to be there for a while.
+
+*
+
+“The Fire inside the barrier isn't going away.” Gretchen said. “How is that possible?”
+
+“It's Everlasting Fire straight from the Fire Realm.” Elise said, and everyone looked at her. “It doesn't need any fuel, and it will keep burning forever.”
+
+“Oh, my god.” One of the dancers said. “What do we do?”
+
+“We wait.” Lara, the Sage of Ages said. “Unfortunately, I can't see into the pocket realms without a conduit, so I can't tell you what's going on there.”
+
+“What do you think is happening?” Denise asked, and she sighed.
+
+“Hopefully, nothing.” Lara said. “I really hope it's nothing.”
+
+*
+
+Two weeks passed before a single Fire elemental came to see Ren, and it opened the cell he was in.
+
+“I assume she's ready to see me now.” Ren said and stood up.
+
+“Let me know how it goes.” Teepo said and dissolved into the ring.
+
+Ren left the cell and followed the Fire elemental down the corridor and up the stairs, down another corridor and back into the throne room. He hadn't used the All-Seeing Mirror to look around, because he wasn't sure if just owning the item gave it immunity to Fire, and he didn't want to take the chance of destroying so useful of an item. He kept his gaze on the floor as they approached the throne, and he felt several hundred Fire elementals were in the room also.
+
+“So, did you enjoy your time in my prison?” Fire Dancer asked.
+
+“I cannot answer that question honestly without making you angry, Deity of Fire.” Ren responded.
+
+“Well, then... did you enjoy spending time with the remnants of the usurpers?”
+
+“Usurpers?” Ren asked.
+
+“I watched you talking to them and feeding them.” Fire Dancer said as she cast a Viewing Cloud to show the cells and her anger flared. “How dare you feed those that sought to take over this realm and kill me!”
+
+“Did all the prisoners do that?” Ren asked.
+
+“Yes.” Fire Dancer said. “I've held them captive since then and I've been waiting for their energy to wane before I kill them.” She said. “Most have perished already and these are the last of them.”
+
+“Deity of Fire, please excuse me for a moment.” Ren said and disappeared.
+
+“Wh-what... where did he go?” Fire Dancer asked.
+
+One of the Fire elementals pointed to the Viewing Cloud. They all watched as Ren ripped the door off of the first cell and grabbed the red Fire elemental. It flickered and fought weakly as Ren absorbed nearly all of its energy. He proceeded into each of the cells and did the same thing, then used his Fire Manipulation ability to lift them all up. He disappeared from the Viewing Cloud and reappeared in front of the throne.
+
+“Please accept my deepest and sincere apologies, Deity of Fire.” Ren knelt on one knee and dropped all of the remaining prisoners at her feet. “Please kill them at your leisure.”
+
+Fire Dancer looked at the nearly extinguished Fire elementals before her and didn't know what to say. Of all the things she had expected him to do when she had accused him of wrong-doing, this was not one of them.
+
+“You've talked and been with these beings for two weeks. Are you not bothered that I am going to kill them?”
+
+“If I had known who they were when you put me in there, I would have killed them myself right away.” Ren said and made fists. “No one is allowed to hurt the ones I love.”
+
+Fire Dancer saw that he was struggling with something. “Do you actually love me?” She asked, and Ren felt her surprise. He wasn't looking at her; but, with his Heat Sense he could tell that she had covered her mouth with a hand. Ren closed his eyes and lifted his head so he could smile warmly at her and not offend her by looking at her directly.
+
+“You are my first born, and despite not being able to watch you grow into the woman you have become, you have always had a special place in my heart. I love you and I will always love you.” Ren said, then ducked his head again because he really wanted to see her face in that moment.
+
+Fire Dancer thought about what he said for several moments. “I felt a lie in there.” She said and frowned.
+
+Ren sighed. “Even a half-truth counts as a lie.” He said. “I gained a device to watch you, and I could have; but then, Adventurers interfered and cut off access to the elemental realms. I didn't even try to look after that.”
+
+“That's not possible.” Fire Dancer said. “Cutting off access to the other realms would have destroyed everything.”
+
+A rumbling fire sound and a feeling of agreement came from all of the Fire elementals around them.
+
+“The Adventurers I speak of might not be powerful, but they are tricky.” Ren said. “They only removed Adventurer access. They can change the circumstances of the world and affect events enough to cause both wars and plagues.”
+
+“That sounds all-powerful to me.” Fire Dancer said. “To control the whole world...”
+
+“It's just an illusion.” Ren said. “They really only guide it. This latest thing with the Sea Dwellers...”
+
+“I have seen it.”
+
+“It changed how people view me.” Ren said, sadly. “It hurt those that I care about and took me from them.” He sighed. “They said they would try and fix the problem; but, I don't hold much hope.” He said. “I've missed the ones I care about for so long, and I don't know what I will do if I can't be with them without hurting them... because being away from them is hurting them, too.”
+
+“I can't say that I feel bad for you.” Fire Dancer said and smiled at him, and Ren felt her satisfaction. “It seems turnabout is fair play.”
+
+“Deity of Fire...” Ren started to say.
+
+“Do you miss them as much as you missed me?”
+
+“You have been an ache in my heart that has been with me ever since I left you here.” Ren said. “There's only one other ache in my heart that could compare, since it was caused by my own stupidity as well.”
+
+“Tell me about it.” Fire Dancer said.
+
+“Of course, Deity of Fire.” Ren said and told her everything about his first tragic love named Lucy. How they met, how they had gotten together, how they broke apart, and about their encounters since then.
+
+“Okay, now I do feel bad for you.” Fire Dancer said. “You were an idiot.”
+
+“I know.” Ren said. “I handled it horribly, and I let the situation get worse. I don't think it's recoverable at all, and I sincerely doubt that even a friendship is possible now.”
+
+“You do realize she acted that way to get back at you, don't you?” Fire Dancer asked.
+
+“Once I got my mental faculties back, yes.” Ren said. “At the time, I thought letting her go and not fighting to keep her was the better choice. I thought if she loved me enough, she would come back on her own.”
+
+“You are quite the fool.” Fire Dancer chuckled. “Women want you to pursue them. Chase them. Show them that you think they are worth the effort to go after.”
+
+“I know. I figured that out too late, though.” Ren said. “I regret what happened with Lucy. With that said, my life has changed so much since then.” He said, happily. “I have wonderful people in my life, people that care for me, and friends to have fun with.”
+
+“Which might not have been possible without going through what you went through.”
+
+“Exactly.” Ren said. “My experiences helped me do better. It showed me that I can make mistakes and it doesn't have to ruin everything.”
+
+“So, is that what I am to you? A mistake?” Fire Dancer asked, angrily.
+
+“Of course not.” Ren said, and tears formed in his eyes. “The only mistake I made with you was letting you go.”
+
+“Save your fake tears for someone who cares, Father.” Fire Dancer spat. “You told me before you left that you would come whenever I needed you. Well, I called. Over and over. You didn't respond.” She said. “I fought for years against those that wanted to rule this realm and called you again. The years turned to decades and still you didn't respond.”
+
+Ren let his tears drip and evaporate as Fire Dancer's anger filled the humongous throne room.
+
+“Decades turned to centuries, Father.” Fire Dancer said and picked up the Fire elementals Ren had delivered to her. “I fought and fought. The more enemies I defeated, the stronger I became.” She said and tossed them into her mouth and chewed. “I made their Strength and resolve my own.”
+
+Ren felt the Fire elementals being consumed, then he felt the rush of power from Fire Dancer. “Oh, honey.” He said sadly and didn't try to stop his tears. “I am so sorry that you had to go through that.”
+
+“Don't call me that!” Fire Dancer jumped to her feet and tried to stomp on him.
+
+Ren knew he would die if he let her do that, and since he had told her that he didn't want her to kill him by accident, he stood up and caught her foot.
+
+“Wh-what? How?” Fire Dancer asked, shocked.
+
+“You've let your anger consume you and it's ruling your actions.” Ren said and pushed her foot aside, which knocked her off-balance slightly.
+
+“No, it isn't!” Fire Dancer exclaimed.
+
+Ren winced at the huge and blatant lie. “What would have happened to you if you had just killed me, Deity of Fire?”
+
+Fire Dancer glared down at him. “I would have felt happy that you got what you deserved!”
+
+Ren winced again. “If you really think that killing me will make up for abandoning you, then just do it.” He said and looked up at her defiantly. “Don't do it by accident or in a fit of rage, like what could have happened just now. I want you to stand there and make a conscious decision to end my life.”
+
+Fire Dancer couldn't believe his insolence. “You can't tell me what to do!”
+
+“I am your FATHER!” Ren yelled, and every Fire elemental shook from his command voice. “You will stand right there and you will decide if I live or die!” He said and crossed his arms. “Do I deserve to be punished for what happened? Yes, I do. Otherwise I wouldn't have willingly come here.” He said. “As you found out, I can't be forced to go anywhere. I came here through a Portal I cast, that I can cast at any time, and I can leave at any time.”
+
+Neither Fire Dancer nor the Fire elementals in the throne room could refute that information.
+
+“I've been here for 2 weeks waiting to see you, my beautiful daughter, because I want to be here.” Ren said and uncrossed his arms, then knelt on one knee again. “I won't ask for mercy, since I deserve none; but, I will ask you for fairness and to judge me accordingly. If I need to die, then kill me. However, I won't stay here and let you rant and rave and potentially kill me by accident.”
+
+Fire Dancer took a deep breath and let it out. “I need to think this over.”
+
+“Take all the time that you need, as long as it's within the next 5 minutes.” Ren commanded, and she caught her breath. “You've been thinking about this seriously for 2 weeks already, so 5 more minutes should be plenty of time to reach a decision.” He ducked his head. “I eagerly await your decision.”

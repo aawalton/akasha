@@ -1,0 +1,265 @@
+---
+id: f684a4df-6880-5d0d-b578-269f61298cc8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 788 - A Delegate Balance"
+slug: 0791-chapter-788-a-delegate-balance
+partOf: mythrans-master-of-all-continued-completed
+position: 791
+ownLength: 3657
+unit: words
+publishedAt: 2018-12-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/312918/chapter-788-a-delegate-balance"
+royalRoadId: "312918"
+---
+
+“Then what?” Ren asked as he eased her out of the hug and held onto her shoulders.
+
+“It hurt so much.” The woman said and put a hand over her heart. “It felt like a part of me died and... and...”
+
+“May I see?” Ren asked, and she nodded slightly. He touched her tenderly and eased her bodysuit down to see a faded tiger's face. It was distorted by five claw marks that had been scraped across it. He couldn't tell if they were a part of the mark or if she had done it herself.
+
+“After the pain stopped an hour later, I cut off his head and his arms and legs, then fed him to the giant boars.” The woman said, to everyone's surprise. “I... I wasn't proud of that part.” She admitted. “I had to get rid of the body so that none of the others would be blamed or held accountable for the death.”
+
+“Why didn't you come forward about it instead?” Ren asked.
+
+The woman barked a laugh. “We all would have been summarily killed without a trial for letting our patron die.” She said. “I couldn't let that happen, so I covered everything up and destroyed all of the evidence, then spread the word that he had taken to a foreign woman and run off.”
+
+“You all were free then?” Ren asked, and she nodded slightly.
+
+“It was... wonderful.” She said, and he felt her emotions change from darkness to happiness and her face lost its feral look and she was quite pretty. “We all stayed around for a while, to keep up the pretense that he would return, then we just... went home and stayed there.” She said. “We lived our lives like nothing had happened.”
+
+“You've worked very hard since then, haven't you?” Ren asked.
+
+“I have.” The woman said. “The legal system was not in favor of protecting people from their patrons, so I started changing things. Little by little, I progressed through the system.”
+
+“Now you're at the top.” Ren said.
+
+“Yes, I am.” She said, confidently. “I've worked hard all these years since it happened to fix things, and now our society has a solid foundation that protects its citizens, even from overbearing patrons that abuse their power.”
+
+“Good.” Ren said, and she blinked her eyes at him.
+
+“Wh-what?”
+
+“I'm not judging what you did, since it was a crime and I don't have the authority to judge you.” Ren said and stood up. “You did what you thought was right and you helped everyone that you could.” He held a hand out to her. She looked at the hand and then at his smiling face. “You changed an unfair system to help those that couldn't be helped before, and you made everything better.”
+
+The woman felt his sincerity and took his hand.
+
+Ren helped her stand up and he saw that she was a foot taller than him. “You need to do a little more investigating, though.”
+
+“Excuse me?”
+
+“The old ways were biased for the patrons and you changed it. Now you're suffering from the opposite effect and it's biased against the patrons.” Ren said. “You are automatically assuming the patron is in the wrong and punishing them instead.”
+
+“That's not...” The woman felt the circle pulse and sighed. “I... suppose I am.”
+
+“Considering your experience as a young woman, it's understandable.”
+
+“Why don't you hate me?” She asked, and surprised herself. “I killed someone!”
+
+“Why would I hate you for defending yourself?” Ren asked her, and he felt her shock. “Where Adventurers come from, your story constitutes extenuating circumstances and usually results in a verdict called 'justifiable homicide'.” He said. “I'm skipping the witness statements and the trial with that verdict; but, considering where we are and that all of the investigators know you were telling the truth, I'm sure they have to agree with me.”
+
+“We do.” The man sitting next to the empty center spot said. “Justifiable homicide will be entered retroactively to the record; however, concealing and covering up a crime is a separate offence.”
+
+The woman took a deep breath and let it out. “I am ready to face judgment.”
+
+“You are hereby sentenced to 1 year of imprisonment at the main garrison.” The man said. When she didn't protest or react in a negative way, he smiled. “In consideration for all of your accomplishments since the crime happened, the sentence is commuted from imprisonment to a 3 month suspension from the Herd.”
+
+The woman shook in relief and Ren put his arms around her to stop her from fainting. She clung to him and her need for support warred with her feeling of not needing someone to lean on.
+
+“I said I wouldn't judge you.” Ren whispered to her. “A hug can just be a hug with no strings attached.”
+
+“Are you saying that you wouldn't take me if given a chance?” She whispered back.
+
+“Ma'am, I don't know you; but, I felt deeply what you went through.” Ren said and poured his sympathetic and supportive emotions into her and held her tenderly. “If I thought that making love to you would heal something in your heart, I would gladly make the attempt.”
+
+“You... you would?” She looked down at him and the tears came back to her eyes.
+
+“It couldn't be a relationship, since I have too many of those to maintain right now.” Ren said. “A casual one, where we both have a bit of fun and enjoy each other for a few hours, wouldn't be out of the question.”
+
+“Just... just the once, then.”
+
+“No. Every time I visit.” Ren said, and she blinked her eyes at him.
+
+“How would you...”
+
+“I've had the same agreement with a few women.” Ren said. “I visit when I can and we have fun with no strings attached. Other than that, we live our own separate lives.”
+
+“You... don't see me as... as damaged... or...”
+
+“You're not. You are a survivor.” Ren said and took a step up into the air. “You've been berating yourself for too long about being that way, and you're not.” He said and cupped the sides of her face. “You don't have to do that anymore. Everyone knows what happened. Everyone knows what you did and they will forgive you for it.”
+
+“But... I...”
+
+“You don't have to accept my words or my opinion. You've been judged by your peers and they have found you not guilty.” Ren smiled and let her face go. “What you do need to do is forgive yourself.”
+
+“I... I don't know if I can.”
+
+“Then let me be the first to help you do that.” Ren said and took her hands. He bent over them and kissed the backs of them. She was about to say that was a weird human custom because it didn't do anything for her, then he gave the back of her hand a long and slow lick. She shivered at the intimate touch, one that she hadn't felt in years, and then he did the other hand. Her face flushed red as she blushed, and he looked into her eyes.
+
+“Is that enough proof of intent?” Ren asked.
+
+“Y-Yes. Yes, it is.” The woman said and she wasn't sure what to make of him. “I... really like... your sash.”
+
+Ren smiled at her and stepped back and pointed to the biggest one. “This is from an Abyssal Terror.”
+
+“I hate to interrupt your date.” One of the investigators said, and both the woman and Ren turned to look at him. “We need to settle this mess.” He said and waved to Rimsoh and Mires.
+
+“Since I'm to be held accountable for the crime, no one was actually hurt.” Ren said. “I can replace the carriage if you want; but, you only need to put that floor back in it.”
+
+“That would be difficult because it still has people chained to it.” The man said.
+
+Ren smiled and snapped his fingers, and the unbreakable chains disappeared.
+
+“I'm free!” Rimsoh exclaimed and started to chant.
+
+“I exile you from my domain for being unworthy and untrustworthy.” Ren said.
+
+“ARGH!” Rimsoh yelled and dropped to his knees and gripped the spot over his heart. Everyone felt his anguish as he was stripped of both the dire wolf mark and all of his Respect. “You... you...” He panted for several moments, then his hands were covered in a black mist. He stood up and glared at Ren, then said a quick chant, pointed both of his hands at Ren, and cast the spell. The black mist shot out towards Ren and it hit the barrier.
+
+“Stop it!” Mires exclaimed and punched Rimsoh in the face. The focus of the spell was lost and the black mist dissipated. “You've done enough to wreck your life! I'm not letting you wreck mine, too!”
+
+“A wise choice.” A guard said and grabbed Rimsoh as another guard placed shackles on him. His Mana drained away and he couldn't cast any more spells.
+
+“Take him away.” The man that sat in the spot next to the center said. “He'll be charged for casting a death spell inside the delegation chamber after the rest of our deliberations.”
+
+“I knew he would be safe behind the barrier!” Rimsoh exclaimed.
+
+“But I wasn't.” Ren said.
+
+Everyone turned to look at him and the whole inside of the barrier was filled with the black mist, except for the spot around him and the woman with him.
+
+“You're very lucky that I can make a magical barrier of any shape or your spell would have killed us both.” Ren said, and he let his anger out. Everyone in the room flinched at its strength. “Dispel wouldn't work against it, either.”
+
+“That... that's not...” Rimsoh stopped talking because he couldn't lie and say that it would.
+
+“Well, since we now have proof that what happened wasn't your fault King Ren, all charges against you will be dropped.” The investigator said. “You have both been judged and are free to...”
+
+“STOP!” Ren yelled in his Command voice and everyone froze. “Just a second.” He took out a small diamond and added 100 absorb spell runes to it, then stored it and used his ability to drop it anywhere inside his Aura to put it on the floor just outside of his magical barrier and activated it. It took almost a full minute for the diamond to absorb all of the black mist, then Ren created a small chest and used a micro-portal to move the completely black diamond into the chest, closed and locked it, then stored it.
+
+“Okay, you can move now.” Ren said and felt a collective sigh from everyone. “If you had released us, that death mist would have spread out instantly and killed a lot of people.”
+
+The man sighed. “You are... free to go.” He said, reluctantly.
+
+“I told you he was too powerful.” The woman standing next to Ren commented.
+
+Ren felt agreement from a lot of people and grinned at the woman as the slightly blue glowing barrier flickered and faded away. “It was nice meeting you, Ma'am.” He said and dismissed the magical barrier that had protected them.
+
+“My... name is... Hebzibah.”
+
+“Hi, Hebzibah.” Ren said and took her hand and shook it. “I'm Ren.”
+
+“Hi.” Hebzibah said in response, a little surprised that he was being so jovial after what just happened.
+
+“What are you going to do for the next three months?” Ren asked and led her over to where Artemis and the others stood.
+
+“I don't know.” Hebzibah said and looked back at the empty center chair at the curved table.
+
+“Well, why don't you come and visit my mountain town later?” Ren asked.
+
+“Your what?”
+
+“No one is there yet, so it's empty at the moment.” Ren said. “I'm sure I'll find people to live there eventually.”
+
+“You have a town near a mountain?”
+
+“Nope! It's inside the mountain!” Ren said loudly, and everyone was surprised. “I suppose I should extend the invitation to others; but, I have to make the linked portal gate first.”
+
+“Tatya said that you were responsible for that in the Human Kingdom.” Hebzibah said.
+
+“It would be a bit of a trip if you tried to get to the mountain normally.” Ren chuckled. “I don't even know if there's a road up there.”
+
+“There isn't.” Dilseffa said. “Old Ben made sure of that.”
+
+“It's a good thing I put everything except the ski resorts inside the mountain then.” Ren laughed. “Hebzibah, this is Dilseffa, my Second Mistress.” He said, then introduced her to the others. “She hasn't submitted to me or decided to join your ranks; but, she is kind of intrigued by me.”
+
+“Everyone is.” Artemis said and her eyes glanced over at the table with the investigators. Ren turned his head slightly and saw the three remaining women that sat at the Investigator table were staring at him and not at the person they were supposed to be listening to, as that person defended their crime of stealing.
+
+“It's not stealing if I promised to return it.” The man said. “I left a note and everything.”
+
+“You left a note?!?” An investigator asked, incredulous.
+
+“Of course I did.” The man defended himself. “I'm not a thief. I wanted to buy the item, even at an outrageous price; but, they wouldn't sell it and refused to discuss even a trade!”
+
+“So you just took it.”
+
+“No. After asking around, I discovered that the person was notoriously hard to deal with, because they were completely unreasonable in their negotiating tactics.” The man said. “I tried once more and offered twice what I had before, and still nothing. I felt the person's emotions, and they knew they were being unreasonable and wanted to sell it. Their personality was getting in the way of their profit, so I left the original price I offered and the note that said I would return it as soon as possible.”
+
+“When would that be?”
+
+“I've already requested a wolf rider to bring it back, with a note saying to keep the money I left as a rental fee.”
+
+The investigators exchanged looks and deliberated briefly, then looked at the man. “The item in question has proven useful and we have successfully copied its abilities.” The new middle investigator said. “Despite your wordplay, you committed the crime and admitted to taking the item. Therefore, you will be incarcerated for a month, penalized 500 Respect, and then released.”
+
+“Five... five hundred.” The man whispered.
+
+“During that time, you will participate in the work release program that grants 15 Respect per day.”
+
+The man caught his breath and did the math in his head and realized he would only be penalized 50 Respect. “Th-thank you!” He nodded to them to give them Respect, then quickly walked across the room to be taken into custody.
+
+Tatya stepped into the circle and that caught the attention of all of the investigators. She admitted to everything that happened between her and Ren, and Ren played the appropriate footage when he could.
+
+“Why are there gaps in the display?” One of the women asked, and Ren felt that she was very interested in seeing the rest of it, as was Hebzibah.
+
+“Once clothing is removed, it no longer functions.” Tatya said. The woman sighed and Ren felt her regret, then Tatya ended her story with how Jirqym had made her a liar and lost her Respect. “I had always believed that the private rooms were just that. Private.” She said. “The Respect I lost by being forced to become a liar was significant, and he told me to take it up with the Herd if I thought his treatment of me was unfair.”
+
+The investigators exchanged looks and deliberated for a few moments, then looked back at her. “Your earlier Respect loss was due to your own prejudice; but, your duty as a delegate put you in that situation. Therefore, half of your lost Respect will be restored from that incident.” The new middle investigator said. “As for being discovered as a 'liar', we find it difficult to believe that you did not know that the rooms are monitored for deception, exchange of contraband, and people trying to get their stories straight.”
+
+“I honestly didn't know.” Tatya said with regret, and they believed her.
+
+“King Ren knew.” One of the women said.
+
+“He has abilities far beyond...” Tatya stopped and sighed. “Jirqym has given you the list of the abilities he has discovered so far. King Ren is... he's not like anyone we have ever met before.”
+
+“We have discerned that fact for ourselves.” She said and looked at Ren, then looked at the man that sat near the center of the table.
+
+“Very well. Since 4 parties were involved in the incident, You, King Ren, Jirqym, and inadvertently the Herd, we hereby restore three-quarters of your lost Respect for the incident, which is the limit to our authority.” The man said. “You will need to get the remainder from King Ren on your own.”
+
+Tatya's surprise was evident as she glowed slightly and tears sprang from her eyes.
+
+“You have three months to accomplish this before the next selection for delegates is performed and a new caravan is constructed.” The man said and exchanged looks with his fellow investigators. “If there is no other business, I declare this session closed.” He said and slapped the table top three times.
+
+The investigators stood up as one, and like a snake shedding its skin, they shook slightly and were no longer investigators and became people again. They quickly came out from behind the curved table and stepped down from the raised platform, and mingled with everyone as if they were at a party of some kind.
+
+Ren deactivated and stored the Vasalor Statue as the guard once more went to the door and asked the attendants to come in with food and refreshments. One of the women that had sat at the table came right over to Ren and his group.
+
+“This was a really long session, wasn't it?” She asked with a huge smile. “So much happened during this caravan's journey!”
+
+“More than I thought was going to.” Tatya said as she came over to them as well.
+
+The investigator put her hand on Hebzibah's arm. “I didn't know you went through that.” She said, and Ren felt her sincerity. “I'm not going to be stupid and ask why you never confided in me about it.”
+
+Hebzibah took a quick breath and let it out. “I don't just casually admit to...” She stopped talking when Ren took her hand.
+
+“It's okay, Hebzibah. Your friends are here to help you.” Ren said with a smile. “Both old and new.”
+
+“Both...” Hebzibah felt several hands on her arms and shoulders as Artemis, Yuwen, Dilseffa, and Tiypahi touched her reassuringly. She looked at their faces and didn't know what to say. Ren's attendant came over to them and served them food and drinks and saved her from having to say anything.
+
+“I'm starving!” The other woman said and accepted the food. “We were here so long that we missed lunch!”
+
+The attendant blinked his eyes at her. “Ma'am, it's still several hours until lunch.” He said, and she stared at him with an open mouth, as did Hebzibah.
+
+“Wh-what did you say?”
+
+“You've only been in session for an hour.” The attendant said. “The other attendants and I have been wondering why you are all so hungry and thirsty today.”
+
+“That's my cue to leave.” Ren said and stepped up into the air and quickly kissed Yuwen, then turned to Dilseffa. “I'll meet you back at your place tonight.” He said and kissed her. “I need to do the rounds and then go to the Fire Realm.” He said as he turned and kissed Tiyaphi, who slipped him a bit of tongue and made him chuckle.
+
+“Don't have too much fun.” Artemis said and he kissed her.
+
+“I'll try to restrain myself.” Ren said and turned to Hebzibah.
+
+“I hope that... mhm!” Hebzibah caught her breath as Ren gave her a quick kiss and poured acceptance into her.
+
+“If you decide that you wouldn't mind spending some time with me, send word to Dilseffa's home.” Ren said and turned to the woman he didn't know. “Hi! I'm Ren.” He said and shook her hand, and held in his laugh at her disappointment, then he turned to Tatya. “I'm glad you didn't suffer too much from things being so messed up.”
+
+“Me, too.” Tatya said, and Ren stepped close and kissed her cheek. He felt a little sadness from her, so he surprised her and gave her a kiss on the lips.
+
+“I heard that it was okay for friends to kiss.” Ren said with a smile.
+
+Tatya wasn't sure how to respond to that, because she had never been kissed by her friends before.
+
+“Can we be friends?” The woman investigator that Ren didn't know asked.
+
+Ren chuckled and darted out of their little group and fixed Beholo's magical bracelet and the wand. He checked the All-Seeing Mirror, cast a portal and stepped through it into the town square of Eastlowen Bay, then made a Portal Gate there. He jumped to his mountain town and made the second one; but, he didn't activate it because he didn't want anyone there without his permission. With that done, he opened another portal and started visiting everyone that he hadn't seen the day before.
+
+Ren visited them all and gave them a week each, starting with Anabelle. The only one he didn't spend a week with was Narhilda, since that was only a quick pop in and out, then he went to the Fire Realm for the day to spend it with his first daughter, the Deity of Fire.

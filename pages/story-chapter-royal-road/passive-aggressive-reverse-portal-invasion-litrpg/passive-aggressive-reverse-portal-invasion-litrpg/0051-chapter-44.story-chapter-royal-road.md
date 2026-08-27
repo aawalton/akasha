@@ -1,0 +1,127 @@
+---
+id: 591904b3-e6e5-502e-90c4-560294cfeaf5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 44"
+slug: 0051-chapter-44
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 51
+ownLength: 2484
+unit: words
+publishedAt: 2026-07-18
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3692939/chapter-44"
+royalRoadId: "3692939"
+---
+
+“It feels like being back in school, doesn’t it?” Nix beamed at us all. Her feet didn’t quite touch the ground.
+
+We were all seated on chairs arranged in a half-circle facing Cuilcis’ table, and he was talking to the guards outside, telling them that we were not to be disturbed.
+
+“Not really. I’m not planning to spend the time daydreaming and thinking about being elsewhere.” Steve smiled sadly.
+
+I snorted. “Yeah. And nobody’s yelling at me, or telling me I’m an idiot. Yet, at least.”
+
+“Hey. Don’t try to make us all feel down. We’re Americans. We’re supposed to have the crappy educations!” Nix said. Then she shut up and sat up straight as Cuilcis closed the door behind him and returned, taking his place in his high chair, facing us.
+
+He didn’t waste his time. “I have agreed to teaching you, for half of today and half of tomorrow. If you do not pay attention and miss any details, if we make it past midday and you still have questions, I will not care. Also, I will allow each of you to gain the secrets to unlocking any two higher-rarity skills among those I know. In return, you will owe me one future favour, and grant me three days of reciprocal work, starting today, for doing my bidding, on top of payment already made.” He paused, looking over all of us. His tiny face was as inscrutable as ever, but I felt the disapproval radiating off of him. “Understood?”
+
+We chorused our agreement.
+
+“Good. Now. Line out exactly what you want to know.”
+
+Nix leaned forward on her chair. “We want to know about the Kadren. First, a general outline about them, their mannerisms and behavior. Next, a thorough description about what is known about them locally – levels, numbers, any specifics or guesses you might have about their intentions and motives. Finally, we need the specifics that are known about the Kadren regarding the kismet - their quirks, their different species and the way they level. Also, any possible weaknesses or general information that could be used against them in battle.”
+
+We’d talked about this. Extensively. All of yesterday, until my mind was stuffed with cotton candy and my contributions slowly became less and less until I pretty much just nodded along.
+
+“Understood. What else?”
+
+“We need a breakdown of how skills work, according to your knowledge. A general, but thorough description, as well as a list of all skills available to be unlocked-”
+
+“That is impossible.” Cuilcis interrupted drily. “A common ask, but impossible. Not all skills are available to every person, species or even personality.”
+
+“Then we’ll take your second closest guess, mate.” I said. “Don’t tell me that people don’t come to you for skill lists and the like all the time.”
+
+“Yes, they do, but we have no knowledge on humans.”
+
+I was expecting for him to try to weasel himself out of some of the task today, and this was very much along the lines of what I’d guessed. “In that case, if you have a list made up for… Crisians, I think you called them.”
+
+He sighed. “Crisiuns. Yes. I can do that.”
+
+“Great.” Nix beamed. “Then, we need a breakdown on how higher rarities of skills work in general to make sure we’re doing it right. And finally, we need general information on how to unlock skills.”
+
+“Acceptable.” Cuilcis seemed to consider something. ”I will start with the Kadren. They are a known factor, and – even with questions and interruptions – I will be able to tell you all that is known about them in a short while. Learning about skills, meanwhile, is a grand effort, and will take time. The logics of kismet are not easily internalized. We will dedicate whatever remaining time we have today to skills, and I will hand you the list. Then you may choose your higher-rarity skills at the end of tomorrow, when you know what comprises a good choice.” He stared at all of us. “Does anybody have any objections? Because if you do, you may leave the premises.”
+
+Following a deep breath, he nodded to himself and started.
+
+“Normally, the Kadren as a whole would need no introduction. They are not among the very most powerful species of Ademia, yet they are infamous for what they are. Yet, with the general level of knowledge that Liam has displayed, his kin would require an in-depth explanation?”
+
+“Yeah. That’s fair to say. Our kind don’t mix much with other species in general.” Steve admitted. We’d all agreed that play our cards close to hand and act like we were just a smaller, but somewhat insulated species from Ademia.
+
+“I noticed.” He considered his words. “You know about Calamities, of course.”
+
+We all nodded along amiably. We knew about one Calamity. Because he’d told me. Glad he hadn’t made that connection.
+
+“Well, what a lot of people tend to not realize is that – outside of the more powerful species like the Tavungor, Adrastians and the Hemlark - the Kadren are the species most likely to go to war whenever a monster evolves enough to become a Calamity. I mention this, not to intimate how powerful they are, but as an indicator of the general inclinations of their species. The Kadren crave battle and advancement.”
+
+“No doubt about that.” I murmured. The damn beasts had been flinging themselves at us with no sense of self-preservation or fear.
+
+A scream tore through the room. It’d been a few days since the last one, and I barely raised an eyebrow by now. It was… weirdly muted, though. From being indoors?
+
+Cuilcis paused a split second, then ignored it entirely. “They are an interesting species, in general. Mentally, I mean. Normally, you wouldn’t even call them a species, given that there is such difference between a Skreeling and a Glimmerscale. Yet, they all evolve from the same cocoons.”
+
+I felt myself inadvertently grimace in distaste at that. Haddock, meanwhile, just looked confused.
+
+“Whoa, whoa, whoa.” Nix held both hands up, leaning precariously forward on her chair. “Are you seriously telling me that a Skreeling and a Glimmerscale are related?”
+
+“I am. Tibidi do not lie.” Slowly, he continued. “Any Kadren giving birth will drape the newborn in a magical membrane, slowly sacrificing a large portion of their life energy to strengthen the burgeoning cocoon as much as possible. Then, after a gestation period of a few weeks, a fledgling Kadren will appear. Skreeling, Glimmerscale, Soil Scourer or Riverkin.”
+
+“Soil Scourer?” I asked perplexed.
+
+“Confirmation. May I assume that you have all seen the three other variants?” At our agreement, he continued. “Good. In that case, you will know the general gist of it. Glimmerscales are, often as not, Mental Power-based, focusing on their fire talents. Riverkin tend to go for Agility along with physical talents. Skreelings focus on Strength and Agility, also along with physical talents. Meanwhile, Soil Scourers tend to focus on Fortitude, on top of physical or elemental talents. Yet, they are slow.”
+
+Oh. That did make sense. The night’s ambush had been a lightning attack. It made sense that a slow sub-species would’ve had trouble keeping up.
+
+He cleared his throat. “Now, I have been sidetracked from my original plan.” He went silent for a few seconds. “Ademia. Throughout Ademia, the Kadren are not known as one of the major powers. They do not hold the numbers and toughness of the Tavungor, the political and tactical capacities of the Adrastians or the sheer organization of the Gold-rot Empire. Yet, they remain a force to be reckoned with. For one reason: Fear.”
+
+It was clear that he wanted somebody to ask. Nix obliged. “Fear?”
+
+“Yes. The Kadren do not understand, respect or even feel fear. As such, they often get killed young. Yet, the survivors keep flinging themselves into dangerous situations – meaning, they do not stop leveling as other, more level-headed, species will. Now, the aforementioned cocoons are but one of many interesting aspects of the Kadren. Another would be their mental capacities. When a Kadren emerges from their cocoon, they are close to mindless beasts. Yet, as they level – and they will level or die, due to their drive for power – they grow smarter, more cunning. It is said that most Kadren surviving past Level 25 will have the capacity for speech, if not always the inclination.”
+
+Sometimes, being kind of ignorant was a boon. From the looks of things, Haddock was having his mind blown several times over during this explanation. I was sure there were a lot of things here that were just plain impossible back on Earth – but honestly, I didn’t care. I’d already suspected the intelligence thing. The Level 22 Glimmerscale hunting me had definitely shown more capacity for forethought and tactics than the mindless lower-level masses that charged through the walls.
+
+Cuilcis didn’t spot – or just didn’t care about –the impact his words were having on some of us. “Away from the Torn Divide, you rarely see larger concentrations of lower-leveled Kadren. Kadren in general are a wandering species, and will move in large flocks to wherever the surrounding monsters and conflicts will allow them the best options for growth. Now, as you no doubt know, because of the accord made between the species who defeated the calamity The Eternal Shard, no higher-leveled forces are allowed to establish dominance over the Torn Divide. Yet, there are no such restrictions for lower-leveled groupings.”
+
+He let his gaze travel over all of us. I was sure he identified us, taking in our details. “Wherever you come from, you have clearly spent a while struggling for survival here. You know what the surroundings are like. When a Calamity dies, large waves of energy are released into the soil. This creates a breeding ground for new monsters to spawn, for years and decades to come.”
+
+“So, you’re telling us that this would be a perfect place for the Kadren to level their spawn?” Nix asked.
+
+“Agreement. Any grouping, really. Since it has been but a few years since the Eternal Shard died, its higher-leveled spawn being eradicated along with it, the risk of finding high-leveled adversaries is low. In short, the Kadren will do anything they can, within the current possibilities, to take ownership of the Torn Divide.”
+
+I thought I was getting it now. “But… they aren’t going to bring in any truly high-leveled Kadren. Because…“ I trailed off, not quite sure how to phrase it.
+
+“Because, should they do so, the true powers will perceive it as an attempt to circumvent the spirit of the accord. Meanwhile, they may earn years of rapid growth, and possibly be in a position to claim the area for themselves when the peace treaty runs out eight years from now.”
+
+That put us in a crappy position. The Kadren clearly weren’t going to just give up the foothold they’d earned here in the Torn Divide. Especially if they understood what they’d gotten in the portal – which some among them might be clever enough to perceive. Meaning, there was one way to get them out: force. At least it sounded like they were unlikely to bring in high-level reinforcements.
+
+“You asked for weaknesses. Kadren, on the whole, are not known for weaknesses. Rather, they are known for their ferocity, for their bloodthirst and their tenacity. Also, they tend to work hard to purge themselves of any known weaknesses. As such, you will have to search for weaknesses in one of three specific details. First, we have their growth phase. As long as they are lesser Kadren, their mental capacities aren’t fully developed, and they tend to be ruled by their animalistic natures. That is a weakness.”
+
+“Lesser Kadren won’t be able to react to tactics, traps and the like?” Nix asked.
+
+“Agreement. With the caveat that some, especially the Glimmerscales, develop their minds faster than others. Next, the different kinds of Kadren do tend to have weaknesses. Of course, they choose their path differently, apply their attributes as they will. Yet, they tend to follow the same course, with the same approximate weaknesses. Skreelings are powerful, but rarely rely on Fortitude and almost never invest in Mental Power or Mental Control. Riverkin are physically vulnerable, if hard to pin down. Soil Scourers are truly slow and mostly useless at a distance. Glimmerscales are also relatively slow, especially in close quarters, where their bodies are awkward.”
+
+I had to stop myself not to mouth off. That damn Glimmerscale that had been chasing me sure as hell hadn’t been slow. But… I did see his point. In general, his advice seemed to be spot on, as long as you realized there might be outliers. I squinted. “So… in general, you can adjust your approach against the different types, as long as you acknowledge that some of ‘em are going to be different.”
+
+“Yes. Also, for the first twenty-five levels, they rarely earn any truly outlandish talents. Most tend to be passives adjusting their attributes or physical aids of one kind or another. You see the most diversity among the Glimmerscales.”
+
+I grunted. It wasn’t as easy as if they’d been actual unthinking beasts. But it was still a far deal better than them being thinking beings from the get go, min-maxing their levels with sentience every bit of the way.
+
+“The final weakness, I admit, isn’t much of one. It is well known that the Kadren are very hierarchical. They respect strength above all, to the point where they will unquestioningly obey orders from any high-leveled Kadren. And they are swift to react to orders from these leaders.“ He held up a finger. “Yet, to anybody who plans properly, this does constitute an opening. If you can distract, cheat or even kill all nearby Kadren above Level 25? The rest will react according to their own convictions.”
+
+Nix blinked. “And since those convictions are pretty much to slaughter the enemy and chomp down on their entrails…”
+
+“Confirmation. Taking out the leaders in any way will leave you with much more predictable and manageable enemies. Still ferocious, but leaderless, unguided.”
+
+The explanations continued for a few hours, while Cuilcis expanded on what was known about their tendencies, the slave quirks and their limitations as well as any number of more or less important habits and tendencies of the Kadren, including where they’d been spotted.
+
+Yet, right then, we all exchanged knowing glances. For the first time since getting our asses kicked by the horde of slavering monsters formerly known as the Kadren, I knew that we’d actually lucked our way into an actual possibility.
+
+Take out their leaders. Somehow. Then, it was just a question of outlasting them and grinding them down. And if there was one thing I’d mastered, it was the art of the grind!

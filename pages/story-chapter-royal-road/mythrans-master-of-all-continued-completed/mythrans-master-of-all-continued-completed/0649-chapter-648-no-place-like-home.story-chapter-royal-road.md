@@ -1,0 +1,275 @@
+---
+id: 989d1e5d-dbef-558e-a03e-af7171304e92
+page-type-slug: story-chapter-royal-road
+title: "Chapter 648 - No Place Like Home"
+slug: 0649-chapter-648-no-place-like-home
+partOf: mythrans-master-of-all-continued-completed
+position: 649
+ownLength: 2827
+unit: words
+publishedAt: 2018-07-24
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237280/chapter-648-no-place-like-home"
+royalRoadId: "237280"
+---
+
+Ren spent the next 24 hours in the hospital getting checked over. After the doctor made a joke about setting a room aside and having them start to pay room and board, Ren told Elise he was leaving. She had him signed out and released an hour later and loaded him into her Hummer H2.
+
+Ren had to sit in the back seat and he could only use the lap belt and not the full seat belt, because it could cause even more damage to his chest. Lisa sat beside him on one side and Stella sat on the other, while Barbara, Donald, and Denise had already left in a taxi.
+
+“I'm really glad the rib was a clean break and wasn't shattered.” Ren said and carefully touched the heavily-bandaged wound. “Getting it pushed back into place and getting stitches wasn't fun, though.”
+
+“It wasn't for us, either.” Elise said and looked at his bandaged and braced kneecap. “I can't believe there's nothing they can do for that.”
+
+“Yeah, dislocating a kneecap is weird because there's not much holding it in place.” Ren said. “I'm glad there wasn't any major damage and it didn't need a splint or a full cast. That would suck.”
+
+Stella chuckled. “Not being able to walk for the next 6 weeks is going to suck, especially since you can't use crutches.”
+
+“Actually, that part I don't mind so much.” Ren said and looked at Elise. “The part I do mind is that we can't go shopping for new clothes.”
+
+“Sweetheart, don't worry about that.” Elise said and leaned in to give him a quick kiss. “We always take you in a wheelchair anyway.”
+
+“But, I can't model them for you.” Ren said a little sadly, and she caressed his cheek.
+
+“You asked for me as soon as you needed to get dressed yesterday, then you let me dress you up and didn't complain once.” Elise said happily. “My fetish was well and truly fed for a while.”
+
+Lisa and Stella laughed, and Elise looked at them with a twinkle in her eye.
+
+“You two are his designated seat belts, so keep him safe.”
+
+“You can count on us.” Lisa said, and Stella nodded.
+
+Elise touched both of their knees as she passed and closed the door, then climbed into the front driver's seat. It was a long slow ride back to the house, but it was also enjoyable. Everyone was in a good mood now that Ren was doing much better. They arrived back at the house and Denise was waiting in the driveway with the wheelchair, and it had the attachment to keep Ren's leg up. They transferred him to a wheelchair without incident, then took Ren inside the house and up to his bedroom. Once settled onto the bed, Ren quietly reminded Elise that it was payday and she pat his shoulder.
+
+“I've got to get to the office.” Elise said. “I worked as much as I could from my cell phone, but now that I'm home, I've got a few things I can only do from here.”
+
+“Have fun.” Ren said and looked at his watch. “Oh, damn.”
+
+“What is it?” Lisa asked, concerned.
+
+“We missed watching my show.” Ren said. “It's about the only time I can be with you all at the same time.”
+
+Stella chuckled. “You know Barbara recorded it.”
+
+“So did I.” Elise said. “I always do.”
+
+“We can all watch it tomorrow.” Lisa said.
+
+“It will have to wait until I'm not busy.” Ren said, and they laughed.
+
+“You mean after your big fight?” Stella asked, and he nodded. “We'll schedule it for tomorrow afternoon, once we make sure Barbara is awake and can watch it with us.”
+
+“Sounds good.” Ren said and smiled. “Now get out of here and go relax somewhere.”
+
+“Geez, are you trying to get rid of them?” Denise asked.
+
+“I figure they're getting tired of staring at my magnificence and need a break.” Ren said, and they all laughed. “What? It's true!” He exclaimed, and they laughed harder. “Your poor eyes can't handle all of me!”
+
+Stella gave a huge snort of laughter and that made everyone laugh that much harder. “Oh... oh, god.” She said a few moments later. “You are such a horrible liar.”
+
+“You know, it took me years of practice to...mhmm.” Ren started to say, and Denise covered his mouth.
+
+“Where's that big hook thing they use to pull terrible acts off the stage?” Denise asked. “We need one, stat!”
+
+“We better go before he bites her and keeps talking.” Stella said. “You be good.” She said to Ren, and he nodded. Elise leaned over the edge of the bed to give Ren a kiss on the cheek, then Lisa did the same thing. Stella, Elise, and Lisa left the bedroom and shut the door behind them.
+
+“Ren, I'm so sorry.” Denise said, and he looked at her. Her face was sad and tears crept to the corner of her eyes. “If I hadn't been so rough with you...”
+
+“Hmm mmm.” Ren mumbled and reached out with a hand and caressed her face. “Hm hmmm hmm.”
+
+Denise moved her hand from his mouth and pet his hair. “What did you say?”
+
+“Don't worry. I love you.”
+
+“Ren...”
+
+“You saved my life at the cost of some pain, Denise. It's not your fault that someone else hurt me.”
+
+“But...”
+
+“Lisa is right, Denise. Jim knew I could be easily hurt and treated me roughly... on purpose.”
+
+Denise took in a shallow breath and let it out. “You can't keep forgiving me like this.”
+
+“I will always forgive you.” Ren said and wiped at her tears. “You are my complete physical opposite and we fit together like puzzle pieces.”
+
+“Ren...”
+
+“You know, I could use a sponge bath before I have to log into the game.”
+
+“Of course. I'll be right back.” Denise said and went to the bathroom to get the proper supplies. She returned with towels and the basin of soapy water, a face cloth, and a soft sponge. She got his pyjamas off and towels underneath him, then lathered up the sponge.
+
+“Please... be gentle.” Ren said innocently and batted his eyes at her, and she laughed.
+
+“I can get the big sponge if you want.” Denise said and wrung out the soft one.
+
+“No no. I'll be good.”
+
+Denise smiled and lathered up the sponge again, then gave him as much of a sponge bath as she could with his knee and part of his chest bandaged. She dried him off and picked one of the last pyjama sets he had.
+
+“We really do need to go shopping soon.”
+
+“I don't know if Lily can make a new set for me without modelling them first.” Ren said and Denise looked at him.
+
+“Lily?”
+
+“The seamstress at Jacques Custom Clothing.” Ren said. “She's the one who wants her boyfriend to kiss her the way I kissed Elise that day we went to get you new clothes.”
+
+Denise took a minute to remember the day he was referring to. “You remembered all of that?”
+
+“I remember everything.” Ren said and smiled. “Like you squeezing my butt.”
+
+Denise's face flushed red. “I couldn't believe I did that... and in public, no less.”
+
+“Me, either.” Ren said and touched her hand. “That was the start of something wonderful, though.”
+
+“Just the start?” Denise asked. “I remember a few other times...”
+
+“It was the first time you touched me for your own pleasure, and not because you were comforting me or because I wanted you to.” Ren said. “That first willing touch means a lot to me.”
+
+Denise took in a breath and let it out. “That really was the first time I...”
+
+“Yes, and I can still feel your hand on me.” Ren said. “I remember every touch we had. I remember every kiss we've shared. I remember every moment we've been together.”
+
+“R-Ren...” Denise let the tears come to her eyes again. “...you...”
+
+“Every single moment is etched into my brain, Denise.” Ren picked up her hand and kissed the inside of her wrist. “You are etched into my brain.”
+
+“Ren, we... I can't...”
+
+“I know we can't have sex, not with how I am now.” Ren said. “All I can ask for is to relieve my tension.”
+
+“Relieve your...” Denise glanced down at him and saw his reaction. “...you still get like that just from talking about it?”
+
+“I can't help it sometimes.” Ren said. “Plus, I haven't done anything since yesterday and I can't take care of it myself.”
+
+“Are you sure? Can you give it a try?”
+
+Ren reached for it and tried, then gasped as the movement pulled on his stitches.
+
+“Okay, stop.” Denise said and caught his hand. “Why are guys always so vigorous when they try that?”
+
+“What do you mean?”
+
+Denise smiled. “Watch and learn.” She said and then for the next ten minutes used her hand to stroke him very very slowly. Ren tried his best not to squirm from the slow movements and the long buildup, and Denise felt a sudden change. She turned and grabbed the bedpan and put it in the right spot and never stopped moving her hand.
+
+Stroke. Stroke. Stroke.
+
+“D-D-Denise!” Ren gasped as he balled his hands into the towels under him and made fists.
+
+Denise kept slowly moving her hand and he finished... and finished... and finished again. She stopped and let him go, then waited for him to calm down. It took him a few minutes before he relaxed his hands and let the towels go, and he looked at her with wide eyes.
+
+“What the hell was that?” Ren asked, because his body hadn't reacted like that before. It was both amazing and a little scary.
+
+“Sometimes you need to treat things gently.” Denise said. “Just because something feels like a hard and thick muscle, doesn't mean you should always use it that way.”
+
+Ren laid his head back on the pillow. “Wow, Denise.” He said. “I... damn, that...”
+
+“Want me to do it again?” Denise asked with a smile.
+
+“No... yes... I don't know!” Ren said, and she chuckled.
+
+“Good answer.” Denise said and cleaned him up, then gave him a kiss on the lips. “You have some time left before you need to log in. You should go in early and catch up on some sleep.”
+
+“Good idea.” Ren said and she helped him get dressed, then handed him the VR headset. “Thanks.”
+
+“Will you be out tonight?” Denise asked.
+
+“Probably not.” Ren said. “I've got things I need to do before the fight tomorrow morning.”
+
+“I thought you were supposed to be relaxing.” Denise said.
+
+“That was before I lost 4 days and could have worked casually at it.” Ren slid on the headset. “Unfortunately, my Sustenance ring won't take effect for another half-day, so I'm stuck sleeping normally.”
+
+“Only you would complain about sleeping normally.” Denise chuckled. “See you tomorrow.”
+
+“Flow Login Start.”
+
+********
+
+Ren woke up standing next to the wall and took a deep breath, and it didn't hurt. He smiled for a moment and then let it fade. He hadn't received a popup for the update fix, so he knew it would be at least another day in real life, or a couple more game days. He looked up at the ceiling and waved to Teepo. Teepo flew down and landed on his shoulder so he could use his little beetle legs to hug his neck.
+
+“Ren! I'm so glad you're back!” Teepo nearly yelled.
+
+“Shh!” Ren tried to hush him, but it was too late. He heard and felt everyone wake up, and they all realized he was there.
+
+“Ren!” Artemis exclaimed and jumped up from the bed. “I was so worried!” She said and hugged him.
+
+“We're very sorry!” All 7 of the pixie women said from the shelf above the bed.
+
+Suniva stepped forward. “If I had told them more firmly...”
+
+“It wasn't your fault I was away for so long.” Ren said and looked at all of their faces. “It wasn't anyone's fault, except mine. I had Adventurer business to attend to and I ended up getting hurt.”
+
+Everyone in the room gasped, then he explained why he had missed so much time with them.
+
+“Oh, Ren.” Artemis cuddled him to her chest and stroked his face and kissed the top of his head. “You poor thing.”
+
+“I'm really glad it doesn't carry over and I'm perfectly healthy here.” Ren said. “It's a real relief, let me tell you.”
+
+“We will always be here to comfort you, if you need us.” Seldanna the succubus said, and the other three succubi nodded.
+
+“I need some comfort right now.” Ren picked Artemis up and carried her to the bed, laid her down and climbed onto the bed himself. Teepo flew up to land back on the ceiling, and Ren settled down and sighed. Seldanna rested her head on his chest and spoke barely above a whisper.
+
+“I love this strong heart.” Seldanna breathed as the heart in question beat fast against her ear. Ren heard her words of course, and he put an arm around her and held her head. Artemis snuggled up to his other side, and the succubi moved around and found spots on Ren to cuddle. Suniva saw this and sighed as she sat back down on her bed.
+
+“Suniva, aren't you going to join us?” Ren asked.
+
+Suniva jumped up and looked over the edge of the shelf and down at him. “What did you say?”
+
+“Activate your Aura, please.”
+
+Suniva did so and caught her breath as it merged with Ren's.
+
+“You see, I'm not angry at you.” Ren said. “You don't even have to get big if you don't want to.”
+
+“I won't fit on the bed if I get bigger.” Suniva joked and flew down to the bed and landed beside Seldanna's head on his chest. “Is this size okay?”
+
+“I do have a free shoulder.” Ren said, and she walked to his head and onto the pillow, then laid down and cuddled into the side of his face. She kissed his forehead and hugged his ear, and Ren activated his Hands of the Gods ability and directed it to his ear.
+
+“Oh, Ren! I missed you so much!” Suniva said as she absorbed his pure Fire and kissed his ear, over and over.
+
+“I'm not going to get any sleep if you keep doing that.” Ren said, and she laughed.
+
+“I should apologize.” Suniva said and gave his ear a big long sucking kiss, which turned out to be a hickey for a split second. “Dammit, I forgot about your regeneration.”
+
+Ren chuckled. “If it makes you feel better, the attempt itself felt good.”
+
+Suniva felt happy with that, gave his ear 2 more kisses, and hugged it. “Goodnight.”
+
+“Goodnight everyone.” Ren said, and the succubi, Teepo, and Artemis responded. “That means you as well, random pixie women.”
+
+“Hey, I'm not random!” Shanna, the Earthkin pixie said. “We almost kicked your ass the day we met!”
+
+“I'm not random, either.” Rainie said, sadly. “Did you forget about me so soon?”
+
+“Of course not, Rainie. I can't ever forget a fellow Waterkin.” Ren said. “I only know you and Shanna, though.”
+
+“We shall introduce ourselves then!” One of the others nearly yelled.
+
+“In the... the...” Ren opened his mouth and yawned. “...morning.”
+
+“He didn't even cover his mouth.” One of the other pixies whispered.
+
+“My hands are currently occupied.” Ren said and closed his eyes. “Goodnight.”
+
+“Goodnight.” The pixies said, and they went to bed, too.
+
+*
+
+It was quiet for nearly half an hour, and then the Wind pixie cast a Silence spell around the shelf.
+
+“Did you see that? He gave Suniva an Aura and shared emotions with her, just like he can with Rainie!”
+
+“Is that what she meant when she said why he won't do to us what he did to her?”
+
+“I don't know.” Shanna said. “It's possible.”
+
+“We should ask her in the morning.” Rainie said. “Or maybe we should ask Ren directly. He feels a lot different from the last time I was around him; but, I still don't feel any dishonesty.”
+
+“That's pretty rare.” Shanna said. “I mean, everyone lies at some point, right?”
+
+The pixies exchanged unsure looks.
+
+“Let's get to sleep.” Rainie said and pulled the blanket up to her neck. “It's going to be morning before we know it.”
+
+The other pixies went quiet and the Silence spell ended a few minutes later. Rainie could still feel Ren's emotions, even with him asleep. She didn't have the Emotion Siphon ability, so she couldn't power up from them; but, she did take comfort from his contentment. She imagined his emotions as an ocean and she floated along the surface, and she dozed off as she thoroughly enjoyed the peace that image gave her.

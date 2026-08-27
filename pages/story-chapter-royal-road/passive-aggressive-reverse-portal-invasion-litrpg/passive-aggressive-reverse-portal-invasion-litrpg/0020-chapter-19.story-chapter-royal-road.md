@@ -1,0 +1,113 @@
+---
+id: 0cf494e2-fa4d-5fd2-bd44-4b64ef4b528d
+page-type-slug: story-chapter-royal-road
+title: "Chapter 19"
+slug: 0020-chapter-19
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 20
+ownLength: 1989
+unit: words
+publishedAt: 2026-06-08
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3508724/chapter-19"
+royalRoadId: "3508724"
+---
+
+The roar was a signal. A signal for the initial phase of the attack to stop and the real onslaught to begin.
+
+How did I know? Simple. Less than ten seconds after that all-encompassing, ear-shattering roar, the first wall fell.
+
+It was a few hundred meters away, right next to our stretch of the wall. The HBBVJ Coalition had been doing great so far from what I’d been able to estimate in the chaos. Sure, the impact of their archery volleys from behind the wall couldn’t be seen from here, but their massed spear wielders atop the wall looked way more cohesive than the small groups on our side. Right up until the massive wall segment toppled to the ground.
+
+The roar had me looking around in shock, and I saw it, as if in slow motion. A single shock wave seemed to rock the wall in its foundations. A second made it shudder, a few spearmen tumbling from its height.
+
+The third one smashed the wall to the ground.
+
+It was so fast, it barely registered to the naked eye. One moment, it was there. The next, the wall hit the ground inside the encampment with an impact hard enough to fling anybody nearby from their feet.
+
+Afterimages seared themselves into my brain. Small figures tumbling from the top of the wall. Dozens of people resting against the wall simply… disappearing. One after the other, they rotated, but refused to properly register, to take hold. I couldn’t quite grasp the impact of what had just happened.
+
+Of course, the wave of beasts pouring into the opening did offer my brain a few other things to focus on.
+
+I had to hand it to Major Pain and whatever other commanders we had. When the world turned on its head, they adjusted fast. Seconds after the wall breached, squads rushed in from either side to contain the dozens of monsters who were racing inside.
+
+Then the enemy leader showed itself.
+
+Right at that moment, I lamented gaining that stupid Perception buff. Because the image of the huge, bestial brute placing itself at the centre of the smashed-open wall segment and roaring to the heavens seared itself into my retinas.
+
+It looked like a blend of a rat and a porcupine, if the abomination thrived on a diet of creatine and steroids. The huge teeth looked like they were made for ripping and tearing, and the massive claws would’ve made Freddy Krueger pack up shop in embarrassment. Standing on its hind feet and roaring in abandon, it dwarfed any nearby humans. Even when it dropped down to stand on all fours and lumbered forward, it reached the same height as any of us. That wasn’t what made my insides shiver in fear, though.
+
+Higher Skreeling
+
+Level 32
+
+Further information locked
+
+I identified the beast. Then I just stared for a few seconds. Thirty-two. That was insane. Not a single human in the camp was anywhere near those heights yet.
+
+It didn’t waste any time. Instead, it barrelled ahead, ignoring any of its brethren that got caught underfoot, to close with us.
+
+My throat was dry. I reflexively checked my health, noting that it was just five from being topped out. Then I mentally recalibrated, pushing down hard at the panic that was trying to take over.
+
+We weren’t done. Far from it. In actuality, the other beasts – a mixed bag of something called Lesser Skreelings and other bestial species – were a lot less impressive than that single attacker. A quick round of Identify had me guesstimating an average level of around eight. Pretty high, but likely not insurmountable. In fact, where our people managed to get a foothold against the attackers, they were able to stem the tide.
+
+Rushing in from all sides, humanity fought back against the tide. Magical talents hit the wave of fur and blasted openings everywhere. Buffs hit defenders brave enough to place themselves on the frontlines, helping them settle in and strike back against the overwhelming numbers.
+
+Only the Higher Skreeling seemed to be unstoppable. Its claws tore apart shields and armor with equal ease, and it ignored all its wounds, barrelling forward with furious disregard for the dozens of arrows already stuck in its hide. It was less than fifty meters away from us, and I was already glancing behind myself to see where we’d be able to relocate if it went in our direction.
+
+Then the Titan entered the battle.
+
+It looked like a scene from a movie. Glowing with magical energy, the tall man with the long, flowing locks leapt into battle in a move that would’ve made the Hulk envious. He struck the rat-like beast feet-first, throwing it back several meters. In a swift, inhumanly fluid motion, he rolled back and onto his feet. He raised his sword sky-high and called out a challenge in ringing tones.
+
+Behind the Titan, his followers held back, a full group of people bristling with weapons and shields, letting other people rush into battle with the other monsters ahead of them. At first, it looked like cowardice. Then I realized that was far from the fact. The Shield of the Titan was just that. People arranged and chosen for their willingness to ignore their own advancement and focus on choosing talents and quirks that would boost their leader.
+
+When I was choosing which group to opt for, it had felt like insanity and megalomania. Now… it looked like a good fucking choice.
+
+The Titan and the Higher Skreeling matched off, heavy blows hammering at each other. While the Titan was just Level 20, whatever boosts he had, allowed him to face up against the beast head on. Rending claws that would have torn normal people apart deflected from the Titan’s shining shield. Sword strikes arriving with thunderous force left deep cuts in the side of the ugly beast.
+
+For thirty seconds, then a full minute, the stand-off continued. While it did so, we managed to grasp a better foothold, take back a bit of the momentum that had been lost as the wall fell. The HBBVJ Coalition slowly pushed forward with a large force of spearmen in lockstep formation. They strained to cut off the beasts already inside the walls and place themselves at the fallen wall segment to stem the continual arrival of fresh beasts from outside.
+
+That pivotal moment, was when the other monster leaders decided to attack.
+
+Their arrival was nearly simultaneous, from the eastern and southern walls respectively. It was followed by an influx of fresh screams and roars from the monster tide, despair and eager fury intermixing.
+
+On the eastern side, you could very well have missed its arrival. The beast wasn’t large, probably a third the size of the Higher Skreeling. What it did have, was speed. It was hard for me to see accurately, given that the blasted thing never stood still, but I’d say that it looked somewhere between an otter and a snake.
+
+It slithered over the wall and down on the other side before anybody managed to stop it, leaving a full half of the walkway defense of that wall collapsing, as dead and wounded soldiers dropped to the ground, not knowing what had hit them. Down on the ground, it continued its onslaught, carving into the unprepared soldiers and stopping anybody from rejoining the floundering defense topside.
+
+South, there was no missing the arrival of the beast. The Level 34 Higher Glimmerscale looked like the bastard offspring of a Komodo dragon and a chameleon had decided to shower in glitter. The damn thing erupted through a fresh hole in the wall, surrounded by a literal storm of energy. Where it continued, the storm struck people down, showing no doubt as to its power.
+
+In less than a minute, Ever Steady, the stronghold of humanity, the single foothold of our existence on Ademia, collapsed.
+
+“We are so fucked.” I breathed, looking at the rhino-sized lizard striding forward effortlessly, surrounded by arcane energies. From the other side, the speedy otter-like creature didn’t even allow me the chance to Identify it as it sped around, cutting defenders down with ease
+
+Elizabeth, at my side, didn’t say anything. She merely raised a shaking hand and pointed behind me.
+
+I turned, and despaired.
+
+The Titan was dead. Reduced to a bloody mess, his armor was broken and torn apart, one arm entirely missing. In the wake of his death, his followers were fleeing in despair – allowing a direct pathway of access for the Higher Skreeling, straight toward us.
+
+“Get behind me. Now!” I snapped at Elizabeth. Then I turned back toward the monster, ready to get myself killed.
+
+The Higher Skreeling looked a right mess. Sure, it was scary, high-level and tough as hell. But it was also a big-ass target. It was quite obvious that every nearby archer and Mage around had decided to pick the roided-up Master Splinter-wannabe as their target. It already had aspects of a porcupine, with the shoulders, neck ridge and prehensile tail sporting long, dangerous-looking spikes. Those had been generously added to by sprouting arrow shafts, along with a cornucopia of magical attacks. One eye was closed, an arrow sticking out from the socket, and the rest of its face wasn’t looking much prettier. Even so, the damn thing looked entirely unstoppable.
+
+With a timing that would’ve impressed the Rohirrim, the defenders of the Ever Steady unleashed their final defenses.
+
+One second, we were being overwhelmed on all sides. The next, fire rained from the skies. With a muted thump like that of a far-away explosion, a layer of fire engulfed every single attacker within the walls.
+
+I ducked, raising my shield to keep myself from joining the conflagration, before realizing that, somehow, the attack only impacted the enemies. And their reactions were sheer insanity. Smaller beasts went insane, scratching and biting at their own, at themselves and everything nearby. Larger ones dropped and rolled on the ground, trying and failing to extinguish the magic flames.
+
+A light at the edge of my vision caught the attention, and I veered, taking it in. Then I realized what was going on. A handful of people stood at the top of the bird’s tower, the very same light surrounding them. Somehow, they were channelling or fuelling the attack.
+
+Moments after that realization, however, the energy surrounding one of the Mages faded, and he sank to the floor, senseless. The others followed within seconds. Along with their energy, the spell, talent or whatever it had been, sputtered and went out.
+
+With a sinking feeling in my chest, I turned back toward the attacking monsters.
+
+If the Higher Skreeling had been angry before, needled by a hundred arrows and magical attacks, now, it had moved on. This went beyond angry to some far-off state beyond fury, where there was no reason, no capability for thinking. Only blood, and a desire to rend.
+
+Every part of its body was singed. Its fur had sloughed off in places. The area around its left ear was entirely torched, burned down to the bone. Its hind leg was, somehow, still on fire. Regardless, it charged onward, spasmodically, erratically swiping at or biting anything to came into its path.
+
+Anything. Like me. Very much like me. Because I was the only complete moron currently standing in its path, shield raised defiantly.
+
+There was no time to escape. No time to even think. The monster barrelled toward me, as out of control as a rhino with a fistful of wasabi punched up its ass. There was no sign it planned to attack me, or even acknowledged my existence. It was merely rampaging in my direction, head swivelling and snapping every which way.
+
+I raised my shield and set my feet. My last coherent thought was the activation of Wave of Reflection. Then the Skreeling hit me, and gravity stopped working properly.

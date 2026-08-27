@@ -1,0 +1,149 @@
+---
+id: 4fa9a52d-ea2e-56e1-9d9a-2825bc85acd5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 36"
+slug: 0041-chapter-36
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 41
+ownLength: 2860
+unit: words
+publishedAt: 2026-06-30
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3611259/chapter-36"
+royalRoadId: "3611259"
+---
+
+“Oh yeah, we’re bottom of the heap here, friend.”
+
+I was walking alongside one of the four people Stalwart sent along with me on our excursion to secure the material he was after. Nobody’d told me anything about where we were going or what we were after, only to show up, bring my current gear, and not be late.
+
+I was pleased to see the minor bone contusion debuff run out its duration by itself. Since I’d used my Higher Self-Heal yesterday to remove the other, nastier, debuff left from my fight with Cuilcis, that left me back at fighting strength, with Self-Heal ready, should I manage to earn myself yet another debuff.
+
+My current conversation partner, Lure, was one of the ugly flying creatures, and he was probably the most approachable person I’d spoken to since coming to Last Chance. Apart from Kimzi, and she just wanted me for my mana coins!
+
+His kind, apparently, were called Moagies. He was also Level 19 and apparently didn’t have Secrets of the Self – or so I guessed, since I could see his health after getting my Identify skill up to 19. Now that I saw him from up close, I realized I’d been somewhat wrong in calling his species a mix between poodles and eagles. They did have the long, hooked beak, and the outer layer of their feathers were all weird and scrunched-up like poodle fur. Yet, eagles had that majestic bearing going for them. Meanwhile, Moagies had all the bearing and pride of oil-slicked seagulls.
+
+“Truth be told, us Moagies are bottom of the heap anywhere. We’re weak. Hollow bones will do that. Our heads aren’t hollow, but I’ll grant, we’re rarely archmage material, if you get me.” He laughed, a loud braying laughter.
+
+I laughed along. “Me either, mate. I still don’t see why that makes you bottom of the heap.”
+
+He shrugged. “Eh. We’re ugly, weak and our only real advantage is we’re fast. Kind of gives us a bad rep.” He leaned in closer. “Lots of assassins and backstabbers among us, if you catch my drift.” He snorted “As for me, I’m just your run-of-the-mill Scout. But I’ve got a nose for scavenging, for spotting and extracting the good stuff. That’s why Stalwart keeps me around.”
+
+“Good to hear. What are we scavenging, in this case? And what am I supposed to defend against?” We’d been walking, north and east, for about three hours. The other three helpers, two Tavungors and one Adrastians, had been a lot more taciturn. They’d just told me to stay alert and focus on the job. Meanwhile, Lure had been circling us from above, keeping an eye on possible ambushes or issues.
+
+“Lyrian Rastlers.” He shrugged. “Don’t ask me about the name, cause I don’t know. They’re gorgeous creatures. Beautiful. Majestic. And, from what I hear, an absolute pain to fight. Oh. Sorry. Massie’s frowning at me. That means my break’s over. You take care, and… do whatever you need to prepare. We should be there in three or four hours.”
+
+Huh. That was kind of weird. If these creatures had the sort of material that was worth actually sending people out after, and they were just six or seven hours away from the city, why had nobody been to collect? Sure, they might be a pain to fight, but… Last Chance was a gathering of exiles, outcasts and fortune seekers. If this were doable, why wouldn’t somebody have taken the chance by now?
+
+We found the Lyrian Rastlers at some point in the afternoon. They were not what I expected.
+
+“That’s my target?” I asked Lure, as he dropped down from the skies, his elegant landing defying gravity. “You called them majestic!”
+
+He blinked and waved at them. “Oh, come on. Look at them go! Aren’t they just the prettiest?” He smiled warmly at the around fifteen creatures lazing in the sun, playing or play-fighting around a large outcropping of oversized rocks.
+
+“They’re tiny! I mean, okay, they’re gorgeous, I’ll grant you that. But they don’t look like they’d be able to leave a mark on my skin with those teeth. Also, what’s with the levels?”
+
+They were cat-like creatures. Rather, they looked like what you’d get if you took a lion cub and a bear cub and mixed them up before granting them an impressively shiny silvery fur, striped with black. They were also less than thirty centimetres tall, standing on their hind legs. If we had something as cute as this back on Earth, all the chihuahuas, pomeranians and assorted tiny pets would get caught up by evolution and grow extinct overnight.
+
+“Ah, yes. That is the issue with the Rastlers. Other beasts tend to avoid them. Hence, they do not level as much as many other animals around.”
+
+They were, indeed low-levelled, at least compared to everything else I’d stumbled into out here. Just a few of them were past Level 10, with the vast majority of them around Levels 8-10.
+
+Stalwart’s other Collectors weren’t present. In fact, they were hanging around about a kilometre back. Only Lure continued along with me.
+
+“All right, Lure. I think this is where you cut the bullshit and simply tell me the issue. What is it about these beasts that makes everybody around here keep their distance? Are they secretly shape-changing nightmare beasts?”
+
+He laughed, but the laughter was tinged with nervous energy. “No. Only… you’re probably going to want to maybe hand me any items you want to keep.”
+
+***
+
+The strap snapped and my leg guard immediately sagged forward, exposing my leg. Moments later, the lower strap gave up as well, and the armor piece fell to the ground with a tinkling sound. “How is this fucking fair?” I shouted at the world in general.
+
+“You’re doing great. Keep going!” A thin voice shouted from in the distance. The far distance.
+
+I snarled and pumped my arms, running for all I was worth. Around me, the Wheel of Magic glowed and sizzled, delivering its lethal payload while I sprinted for my life.
+
+Acid. Fucking acid! That was the tiny detail that nobody wanted to talk about. Those Rastlers were the cutest of cutie pies, adorable and cuddly enough that it would be the best of wingmen for meeting ladies – Oh, and they spat acid strong enough to eat its way through any kind of material. Leather, metal, or the damn flesh underneath.
+
+Oh, and they were accurate little bastards too. If you thought you’d go and just riddle them with arrows from afar, you’d have another think coming. You’d need a good old English longbow, preferably magically enhanced, insane accuracy and a damn fast pair of legs on top of that, if you wanted that to succeed.
+
+In short, anybody going up against the lovely little rascals had better either go commando or be prepared to lose all their gear. Either way, the one certainty for a matchup with these cuddly fuckers was pain. I’d squealed like a pig for what felt like ages, leaving my throat sore and my breath ragged.
+
+I flung myself to the ground and rolled behind a rock. Then I rubbed a handful of dirt over where I’d been hit, splattered the now gooey matter onto the ground and scrambled to my feet to keep running. Unless I got the caustic spittle off, it just kept going. The pain was bad. But the loss of health was even worse, because it just wouldn’t stop.
+
+You’d think, with lovely talents that allowed me to deal both physical and magical damage, I’d be well equipped to deal with most enemies. Yet, this was now twice I’d been matched up against enemies whose preferred damage didn’t even trigger my primary method of retaliation.
+
+It had taken me a good deal of discussion to explain the issue to the others, and come up with a solution. I hadn’t told them about my quirks or limitations – that would just put a target on my back – but I had outlined the details around Wheel of Magic, and how it needed magical damage for being triggered in the first place.
+
+Thankfully, one of the others had a crafted wand with limited energy, that allowed him to discharge football-sized bolts of fire – fairly damaging and colourful, and intimidating enough to scare away any inquisitive wildlife. I bought it off of him for half my medium coins, and had one of them hide behind a rock and hit my poor old shield with it to activate my talent. It barely even scorched my fingers.
+
+I charged sideways, zig-zagging to avoid the liberal barrage of missiles aimed my way. A single glance at my health cost me, as another missile struck me, this time on the back of the arm. Gah. That would put me below four hundred health. An afterthought sent Internal Scourge, already overworked in the current exchange, to work again, counteracting the caustic after-effects. Once, enough of the acidic crap had reached my bloodstream that I’d had to use the active effect of Higher Self-Heal to purge myself of the Toxic Blood debuff that had resulted.
+
+Wheel of Magic worked on overtime, delivering its retributive payloads, constantly and reliably. Unfortunately for me, the Rastlers were less predictable. Though their adorable looks indicated something different, the little beasts were agile and a lot faster than you would think. It was only their size and short legs that held them from being true menaces. I shuddered to think what would happen if one of them was allowed to gain enough levels to grow big.
+
+Fortunately for me, they were fragile. I watched in the corner of an eye, as one of the three remaining Rastlers took a frozen, near-invisible missile to the leg and tumbled end over end, entirely out of control. It ended up in a sitting position, looking completely flabbergasted – right until a bolt of arcane magic struck it between the eyes.
+
+It wasn’t pretty. It wasn’t easy. But I took down the final two beasts over a prolonged, gruelling stretch. The last Rastler simply refused to surrender, even as its breath grew more ragged, and its leaps less accurate.
+
+I sank to the ground with a sigh and shovelled dirt all over myself. Scrubbing for all I was worth, not caring in the least what it looked like, I eventually managed to absorb the final string of caustic, acid-green spittle. My head struck the dirt, and I closed my eyes, enjoying the sensation as Internal Scourge ravenously absorbed the tiny remainder of crap in my system. That was one talent point well spent. For a moment, I’d been tempted to pour my latest free talent point in there, but restrained myself.
+
+Too close. It had been too close. My health was still looking decent, just around three hundred and fifty, but my mana was down to single digits. I’d had Internal Scourge running for the entire encounter, and their attacks still cost me nearly half my health. Running out of mana would’ve been a bad trip.
+
+Thank God the Rastlers had been kind of daft. They’d let me get pretty damn close before the first one attacked me. That meant, they didn’t get designated as enemies until that first attack – and once that hit, they all became targets, with a fully charged Wheel of Magic from right up close. Agile or not, that first barrage of mine took out half their number.
+
+I heard shouting from behind me and, with a mighty groan, dragged myself to a sitting position. Paranoia or not, I wasn’t letting myself get surprised by an ambush – not after going through all of this.
+
+Nobody stopped to talk. Rather, they all sprinted past me. I turned my head, affronted. Ahead of them, Lure was already on the ground, doing… something.
+
+Realizing that I wasn’t going to get any answers sitting in the dirt, I groaned once more for emphasis, then shlepped myself to my feet.
+
+On my way over to Lure, I took status of my changes. One new skill – what a huge surprise!
+
+You have earned a new defensive skill:
+
+Acid Resistance
+
+Passive skill
+
+There are many types of acid. You have survived an encounter with one of the dangerous types, those that may work away to ruin your insides, dissolve your flesh from the outside, or even worse. Every level in Acid Resistance will marginally decrease the damage received from acid and increase your body’s internal and external resistance to the substance.
+
+It was currently at Level 5. Apparently, that was what happened when you decided to attack a cluster of Rastlers like these with no proper defensive measures. Most of my armor was also a lost cause. My right arm remained protected, as did my head, my back and part of one leg. My good old shield, broken or not, had taken the brunt of what was aimed in the direction of my head, and my helmet was, surprisingly, still intact, despite the dents. My pants… okay, I needed pants, right this moment. I hadn’t taken the climate for especially windy, but I was definitely feeling more aeriated than standard.
+
+Speaking of my shield, I unstrapped it on the way back, and left it in the dirt. My old bone shield had already been wrecked beforehand. Now, it was a pitted, festering ruin, suitable for nothing at all. I gave it a single salute before turning back to the others and leaving it in the soil. I sure hoped that Stalwart came through for me – otherwise I’d be up shit creek without any meaningful defenses.
+
+What else? Resilience had taken one for the team and increased, obviously. So had Shield, Leap and Armor. Oh, and Dodge increased by two. Nice. On top of that, I’d also barely scraped into Level 20. That meant I had three attribute points and three talent points available. I chuckled. Who knew what would stop me from getting my damn Burgeoning Aggression skill this time around?
+
+What. The. Hell?
+
+I stared for a moment, until I finally took in the last notification waiting for me.
+
+You have earned a new defensive skill:
+
+Pain Tolerance
+
+Passive skill
+
+Ademia is a world filled with diverse types of pain and dangers. You have been exposed to and survived a large number of them. As such, you have learned how to better handle yourself in the midst of pain. Every level in Pain Tolerance will marginally improve the impact pain has on your body and mind.
+
+I chuckled. That was a masochist’s skill and no two ways about it. Still, my ass back in Sutherland would’ve loved to have that skill. Especially for leg day. Ah, well. There was no discussing that I’d have better odds of surviving if my mind wasn’t distracting me, informing me to scream out loud from whatever pain was trying to overwhelm me.
+
+“So, are you finding whatever… what the fuck?” My amiable words shifted tone halfways through, as I arrived to stand above Lure and see what he was doing. He wasn’t busy trying to mine some metal, or process the downed Rastlers, or something like that. Rather, he was kneeling, fuzzy wings haphazardly folded behind him, holding what looked like a turkey baster in hand. In front of him lay one of my discarded armor pieces, and it looked like… “Are you sucking up the acid?”
+
+He winced and nodded without looking up. “Yes. That is what we’ve been brought along to do.”
+
+“Ah.” I felt like maybe I was missing something. ”Once you’re done with that, what is the material you needed to get?”
+
+He still didn’t meet my eyes. “That’s it. This is the material that Stalwart needed. Apparently, you can use it as an ally or something along with steel, and it’ll give even better results than what you get if you just use steel.”
+
+“I think you’ll find that’s ‘alloy,’ mate.” I said. Then the meaning of it all finally started to sink in. “Wait a goddamn minute. This isn’t something that you can extract from the dead Rastlers then, is it?”
+
+He shook his head. “No. Something in their spit changes it. We don’t have much time either, then it’ll harden and become useless. But the good news is, you managed to get them to spit a lot. So, Stalwart will have more than enough for whatever he’s crafting for you.”
+
+“Aha. And just in case I didn’t make it, that the acid in those things ate me up and left me dead, what were you supposed to do?”
+
+His shoulders sank even more. “I am very fast. I was next in line to distract them and lead them away, while the rest of the team extracted what they could.”
+
+“Fuck.” I didn’t say anything for a while. Then a thought struck me, and I asked. “How many times have you done that, then?”
+
+It took ten seconds before the answer arrived. “Three.”
+
+I glared down at him in equal parts fury and compassion. “You need a better boss.”

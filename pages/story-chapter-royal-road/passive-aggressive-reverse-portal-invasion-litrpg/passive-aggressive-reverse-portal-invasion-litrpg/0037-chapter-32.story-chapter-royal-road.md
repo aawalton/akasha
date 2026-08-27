@@ -1,0 +1,155 @@
+---
+id: c55a23b8-a14a-57c1-adf4-6afffb2f2756
+page-type-slug: story-chapter-royal-road
+title: "Chapter 32"
+slug: 0037-chapter-32
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 37
+ownLength: 3212
+unit: words
+publishedAt: 2026-06-20
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3565395/chapter-32"
+royalRoadId: "3565395"
+---
+
+A last missile thudded into Harten’s badly disfigured form, and the keening finally stopped. My eyes never left the final figure. The small, elfin, golden-skinned form of the person who’d – if not instigated this entire mess, then at the very least encouraged it. I almost kept Wheel of Magic active. I had more than enough stamina left, that was for sure, and it didn’t look like it’d take more than four or five missiles to end the scrawny bastard. He absolutely deserved to die. And he was Level 18, too. The experience would be lovely.
+
+I sighed and deactivated the talent. A single magical missile burst from a spoke and travelled a few meters before petering out mid-air.
+
+The short elfin figure blinked, then exhaled in relief. “Appreciations. I did not-“
+
+I interrupted him mid-sentence. I wasn’t going to let him get too much momentum. Besides, even if he still hadn’t thrown a punch and I had no clue what he was capable of, I should still be able to pick him up and drop him over the cliff edge. That wasn’t an attack, per se. Right? “You tried to kill me.”
+
+“Agreement. My companions lost their wager. As such, what was theirs is now yours.” He expanded with his hands toward the dead figures.
+
+I snorted. “That’s an easy concession. Especially since they’re dead and can’t complain. That’s not how I see it, though. Way I see it, you all lost your so-called wager when you tried to jump me, hence all your stuff is mine, no exceptions. Want to test me on that?”
+
+He flinched, but his face remained entirely emotionless. Then he raised a finger. “Confusion. You are Level 18, are you not?”
+
+“What’s your point?” Clearly the bastard had Identify.
+
+“That would mean your Personal Universe does not have enough space for all our goods.” He bowed deeply. “I am, obviously, in agreement that you would be able to pick and choose between our items. Yet, given that you would not be able to carry it all along, would it not be pointless to choose those items useless to you, rather than those belonging to my erstwhile companions who, like you, were of a martial caste?”
+
+I blinked, taking in that wave of words. The fury and adrenaline of the fight was slowly leaving my body, letting me feel the full burden of my wounds and battered body. My grumpy ass needed an argument like it needed another dozen debuffs. I growled at the audacity of the little bastard. “Listen here, you little spitfuck. You tried to kill me. That means I call the shots. I’m not up for any debates. As far as I’m concerned, picking you up and tossing you over that cliff is still on the table. I suggest you start working to ensure that’s not happening.”
+
+He blinked. “Realization. You are not from these lands. Apologies. That was a miscalculation. It shall not happen again.” He bowed deeply. “What would you have of me?”
+
+Whoa. That… was a fast one-eighty. I’d have to keep my eye on this one. Still, at least he seemed extremely clever, and should be able to tell me a lot about my surroundings. The only question was how I should handle him. Obviously, I’d be able to threaten him to begin with. Except, he seemed the type who’d be able to run mental circles around me. “First, I need an answer. A full, detailed answer. Why did you decide to attack me?”
+
+He showed not a hint of remorse, or any emotions at all, really. “Confusion. Why would we not? You are an armed stranger. You looked like somebody who would be easily defeated and still pay off nicely. You have a Personal Universe, something people mostly choose if they have items worth hiding. You show no affiliations to any groupings that should be feared or respected.” He tapped a golden emblem on his left shoulder, a mess of intertwined lines and angles. “This means that you are fair game within the Torn Divide.”
+
+Goddammit. Every single response just revealed more stuff I was ignorant about. “Why didn’t you join the fight?”
+
+He spread his hands. “Self-recrimination. I am a Crafter. As such, I have a few items to aid me in a fight, but no skills or attributes to back me up. At first, I figured using my items would be a waste of resources. Then, I realized it was too late.”
+
+That did make a lot of sense, if you looked at the situation from a cold, uncaring perspective. I knew my strengths. Going through a lot of schools meant that I had the chance to learn a lot about social dynamics, how to fit in and what you could make work. The rapid mental adjustment needed to keep up constant layers of lies and social manoeuvring needed for me to make up some crap and keep this guy in the dark. I’d need at least a modicum of truth here. “All right. Here’s the deal. I am not a local, as you guessed.”
+
+He nodded.
+
+“But I’m not powerless either. And I’ve got a few surprises up my sleeve still, if you try to test me. So, here’s the deal. I’ll let you live, even though you tried to jump me. In return, I will need straight answers about the Torn Divide.”
+
+“Those, I can grant.”
+
+“I will take whatever I want from your items. All of your items. You forfeited the rights to them the moment you thought you’d kill me for your gains. Besides. Why would you start going on about the size of my Personal Universe, when I can see your cart right back there?” I pointed behind him, where their heavily loaded cart lay abandoned.
+
+“Surprise. You do not know about mana carts. That cart will not move, save by the infusement of mana attuned to it. My mana, specifically.” He shrugged. “The right amount of pain might force me to aid you in attunement. Yet, I wager that you are not the type to do that. You are naïve enough to let me live, so torture does not seem to be logical.”
+
+“Dude. Whatever you’re trying, I would stop. You’re about to convince me of the wrong thing.”
+
+“Disagreement. I wager that you would prefer to avoid violence.”
+
+“Don’t be so fucking sure. You almost had me killed.”
+
+“Yet, I did not attack you.” He shot back.
+
+“I don’t fucking care! I’m not the type for torture. But the more you talk, the more likely I am to toss you over the fucking cliff and have done with it.”
+
+He blinked. Then, slowly, he lowered his head. “Ask what you will, then.”
+
+I exhaled loudly and inspected him. Identify still didn’t take, even though I’d leveled. I met his eyes and nodded, once. “First. What’s your name? If we’re going to do this, I want to know who I’m talking to. My name’s Liam, and I’m far from glad to meet you.”
+
+“I am Cuilcis. Meeting you has been a massive net loss.”
+
+The next few hours, Cuilcis talked, answering any question I had. I gave as little information as I could in return, but there was no way for me to avoid giving up something. I had no doubt that the little bastard was taking in a lot more than I’d want him to. He was sharp as hell, and I wasn’t going to turn my back on him. Yet, he was also extremely forthright about everything and a fount of knowledge. He also, apparently, never showed any emotions. His face looked like Steven Seagal in a tender love scene. Not a fucking twinge of expression.
+
+When I asked him to tell me everything he knew about the area we were in, he absolutely delivered. He talked for more than an hour, and I kept my trap shut, trying to hide just how ignorant I was. Dammit, did I learn a lot!
+
+Apparently, the area we were in, the Torn Divide, was large, around the size of Wales, and vaguely square. It was also, apparently, a war zone.
+
+Okay, maybe war zone was putting a bit too much into it. He called it a ‘contested area.’ The reason? The area had housed a Calamity. Those were, it seemed, creatures or entities that outgrew and out-leveled everything in their surroundings to the point where they were close to unkillable. ‘Close’ being the important part here.
+
+Also, yes, the former Calamity was the goddamn thing inside the canyon, stretching its tendrils out to all corners of the earth, sucking anything dry of sustenance. I knew I was right that the thing was dangerous. It had been called The Eternal Shard, and had required four different species combining their powers to eventually defeat it.
+
+Obviously, mass media had taught me over the years that there was no way the thing was dead. If everybody told you and assumed it was dead, if the damn thing still screamed and gave off weird signs like maybe it wasn’t quite entirely fully dead yet, if the thing had Eternal right there in its fucking name? Yeah. I was calling it. Not dead.
+
+The ‘death’ had been just two years ago. What was left here was, basically, an abandoned battle field. The four species had entered a pact, agreeing in a tentative stalemate that allowed none of them to own the lands. Yet, that didn’t stop other, weaker forces to make a bid for supremacy, roaming the lands in an attempt to steal everything they could before others got to it.
+
+From what he told me, apart from any number of solo fortune seekers, there were four main sentient powers currently in the area. One was a mentalist faction, a race of spindly, physically weak humanoids who didn’t blend well with others, who’d entrenched themselves and expanded, slowly, but inevitably.
+
+Then, we had the Ceaseless Horde. A near-mindless horde of killers, who were in it for the slaughter and little else. These were avoided by anybody but the most suicidal, given their kill-or-be-killed approach to every situation.
+
+The third faction was less of a faction and more of a mindset. The Last Chance was a shanty town of outcasts, exiles and ne’er-do-wells – people of all races and kinds, who were here in their own wanna-be gold rush, trying to gain levels, equipment and personal wealth. To hear Cuilcis speak of them, if humans had met with them, we’d either have joined forces or sniped at each other until one side came out on top. It was both Cuilcis’ own destination, and the city I’d spotted in the distance.
+
+Cuilcis, at this point, seemed to have adapted to his new situation. He was informative, yet gave away nothing about himself that I didn’t actively ask for. He only revealed that he was part of a trader hub that operated ‘back in civilized lands,’ yet he was a minor, inexperienced Crafter. As such, this was his big break, his chance to earn a name for himself by doing good and returning laden with riches.
+
+He didn’t say it outright, but I got the impression that he wasn’t quite the most popular person in his faction. As to Harten and the rest of the bodies slowly cooling in the dirt, they were simply hired muscle, mercenaries paid to escort him to his destination.
+
+His species, the Tibidi, apparently were well-known as Crafters and Collectors, their small, agile hands granting them excellent fine motor control. He didn’t get into the details, but I got the notion, the ‘wagers’ he kept referring to were an intrinsic part of their belief system or something like that.
+
+The final faction was less of a faction and more of a faceless horde with few exceptions. Yes, I knew them, intimately. They were the Kadren, the slowly growing horde of beasts we’d had the misfortune to meet. Dangerous, strong, and combative as hell, they apparently started out as nothing but mindless beasts, but grew stronger and more sentient as they levelled. Apparently, they were a force to be reckoned with out in the ‘real’ world, but here in the Torn Divide, they weren’t nowhere near as strong.
+
+“Of course, their levels are not their real strength. That part comes from all their slave bonds.”
+
+“Their what now?” I stared at the tiny, elfin person slack-jawed, not even trying to disguise my shock.
+
+“Surprise. You haven’t heard about slave bonds? Ah, well. Not many species outside of the Kadren have the option as a native quirk. Basically, once they have captured and subdued somebody below their level, they can enslave them and keep them in thrall, force them to do their bidding.” He mused aloud. “Now, if it were me, I’d keep slaves as bodyguards, send them out to gather materials for me, and make them constantly level to keep up with me. Apparently, the Kadren have a different approach. They keep their slaves handling all the menial tasks, so they can focus on what they prefer – fighting and killing. So, any Collectors or Crafters they enslave will level in their captivity, while the rest will have a poor time of it. Many Tibidi have found themselves in that situation over the years.”
+
+I felt like somebody took a hammer to my skull. Slaves? That meant… I closed my eyes and tried to picture the attack on the Ever Steady in my mind’s eye. The slaughter had been overwhelming. But… had it actually been all-out slaughter? I’d seen so many people drowned in the sea of fur and scales, but I had also seen several getting simply overwhelmed or knocked out.
+
+Fuck me. Could they actually still be alive, some of them? Enslaved, captured and enthralled, but alive? My voice sounded hoarse, even to me. “What does that work like then? I mean, if you kill the Kadren, does the slave survive?”
+
+“Realization. You know somebody who has been enslaved. Yes. The slave survives. There is a permanent Mental Power debuff if they have been enslaved for too long, but nothing else. Whichever levels they might have earned during their ordeals also remain.” Cuilcis tilted his head. “You are also rather impacted by this news. Disdain. You should really learn to guard your thoughts better.”
+
+A dark chuckle escaped me, before I could stop it. “My first mum always told me I had the perfect face – not because I’m pretty, but because it would always give away if I’d done something I shouldn’t.”
+
+He nodded. “Understanding. I too find pleasure in being able to comprehend emotions that others try to hide.”
+
+“That’s not… eh. Doesn’t matter.”
+
+We were silent for a while. Then he said. “Would you care for a wager?”
+
+“I really, really would not. I’d like a hot meal, then I’d like to rummage through your possessions and decide what I need, then I should like to get the hell away from here.”
+
+“I wager that I have a better option for you than whatever you are currently contemplating.”
+
+That shut me up. I blinked in disbelief at the scrawny guy.
+
+He stared back, entirely unflinching in his certainty. He held up a finger. “One thing you should know about the Tibidi. A detail that sets us apart from anybody else. We do not lie.”
+
+I couldn’t help it. I broke down laughing. “Oh, that’s the worst bullshit I’ve ever heard. One of your first sentences to me ever was a lie!”
+
+“Confusion.” He was silent for a while. “Ah. No. I see your misapprehension. My second sentence ever to you was an admission of Harten’s lie. I would have been entirely comfortable letting you believe in his lie. Yet, I myself did not lie.”
+
+I blinked in confusion. The scene was a bit of a blur to me, what with all the fighting for my life. But… damn. He was right. He hadn’t actually lied, only confirmed that Harten lied. “Okay. So how does that change anything?”
+
+“In that you should pay attention when I say the following. I believe you are lost. I believe that, for some reason, you are adrift, away from your own, wherever that may be. You may, of course, take anything from amongst our goods – I can’t stop you. But it’s a short-sighted solution. If you go back out there, alone, you will die. Rather, you should choose the second option.”
+
+Stupid, overly perceptive asshole! “I’m not admitting to anything – but what is the second option?”
+
+He spread his arms. It was a weird gesture. Not in that it was threatening or hostile in any way. Quite the opposite, in fact. He looked welcoming, kind and open, even if it looked out of sorts with his perpetually emotionless expression. With him standing right next to the team mates I’d just slaughtered? Yeah, that made it scary. “You should join me, for now. I seem to find myself bereft of guards. A Tibidi entering a place like the Last Chance without protection is a horrible idea. With you at my side, I should be able to enter and get myself settled without issues.”
+
+“I’m hearing a lot of reasons why it would be good for you to have me join. Still haven’t heard a single reason why I should trust you, or even join you.”
+
+“Like I said. Tibidi don’t lie-”
+
+“Says you!”
+
+He stared at me. “Frustration. Yes. If you do not know the Tibidi and our nature, I find it difficult to convince you on that. Yet, I hope you will admit that you would be much better off with better equipment, tailor-made for you. With knowledge about the surroundings that I cannot provide you just yet. With a proper plan for what to do. Possibly even a map, and the knowledge of where you may find whomever you knew who has been enslaved by the Kadren, hmm? All those are things you may find in the Last Chance.”
+
+I glared at him. I wasn’t giving the bastard anything.
+
+“If you did not want me to listen, perhaps you should have learned from your mother. Your face speaks volumes.” He spread his hands amiably. “Yet, there it is. You can see me safe to Last Chance, and find yourself in a place where you may properly embark on whatever purpose you have, or you can take your chances on your own out here.”
+
+As much as I wanted to punch the guy, I couldn’t. Mostly because of the quirk, of course. But also, because the little bugger was right. I was walking blind out here. With some purloined equipment from these guys, I could keep roaming around the wilderness for some time, and maybe even survive. But odds were that I’d end up stumbling into a group or monster that were too strong, or just a bad match-up for me. And then, I’d be dead, having solved nothing. No. If I wanted to make it here in the long run, strength wouldn’t be enough. I’d also need knowledge. And for that, I’d need to take a risk and join the locals.
+
+Heh. Last Chance indeed. Too on the nose for my liking.

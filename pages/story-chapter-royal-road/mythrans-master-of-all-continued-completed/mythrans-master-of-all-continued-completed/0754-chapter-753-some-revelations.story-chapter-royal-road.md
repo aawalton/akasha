@@ -1,0 +1,325 @@
+---
+id: 2a8d88e7-45c5-560e-8a98-7fa76fd05624
+page-type-slug: story-chapter-royal-road
+title: "Chapter 753 - Some Revelations"
+slug: 0754-chapter-753-some-revelations
+partOf: mythrans-master-of-all-continued-completed
+position: 754
+ownLength: 3150
+unit: words
+publishedAt: 2018-11-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/304290/chapter-753-some-revelations"
+royalRoadId: "304290"
+---
+
+Tiyaphi Mowetha stopped breathing as Ren's teeth dug into her skin. Her heart fluttered at the sensation that she had only ever dreamed about getting, and she submitted to him right then and there. She felt a slight burning sensation on her chest above her heart and stored her tunic, then used her free hand and pulled her thin bodysuit out of the way to look at the spot.
+
+“You marked me.” Tiyaphi said, surprised at the development. “You marked me!”
+
+Ren stopped biting her and let her hand go. “How did that happen?” He asked. “Yuwen and Dilseffa only gained that when they submitted to me and my other...” He stopped talking. “You submitted yourself to me just now, didn't you?”
+
+“I did.” Tiyaphi said and she touched the dire wolf emblem with reverence. “If I'd known this would happen...”
+
+“I didn't know it myself.” Ren said. “I'm so-”
+
+“HAPPY!” Teepo yelled and cut off Ren's apology. “He can feel how happy you are, and he's happy, too.”
+
+“I am?” Ren asked, a little confused.
+
+“Your mark proves that she is deserving of your attention and that you've accepted her wholly.” Yuwen said. “I nearly jumped for joy when it appeared on my own chest.”
+
+“Really?”
+
+“To have someone so powerful decide that I'm worthy to protect and keep safe?” Yuwen asked, and laughed. “I never thought it would happen in my lifetime.”
+
+“Me, either.” Tiyaphi said. “I'm only... I mean, I can't change fully. Like I said before, most of the higher ranks aren't interested in women like me. I'm not even a potential prospect for them as a mate.”
+
+Ren stood there and felt their emotions. He knew they both appreciated being 'caught' by him, and he wasn't sure what to do about it. He knew trying to convince them that he wasn't a good choice, was beyond pointless, now that they were under his domain.
+
+Dilseffa teetered between being flattered and being annoyed, because she knew the man she was seeing would probably be upset over her actually liking Ren as a person as well as her Inamorato. Assuming she decided to accept that part of their potential relationship. It made her think back to Yuwen's euphoric expression during the carriage ride, and she hotly debated in her own mind about wanting to experience it first hand.
+
+Ren felt Dilseffa's conflict and didn't know what to do about that, either. So, he ignored it for now and looked at Tiyaphi. “Well, I'm interested in getting to know you better, since I don't know anything about you or your people.” He said. “Can you come with us when we leave?”
+
+“Of course, My King.” Tiyaphi said. “When the other inspections are finished, I'd be happy to...”
+
+The door opened and one of the Pervarians from the delegation poked his head in. “What's the hold up in here? We're all ready to go.”
+
+“...come with you.” Tiyaphi said with a smile. “I'll be right out after I submit my Leave of Absence form to the head of the garrison.” She said and walked to the door and stopped to glare at him as she very slowly changed back to look human. “Don't leave without me.”
+
+“I know enough of proper protocol that I can't leave without causing a huge amount of trouble.” Ren said. “That's with a capital 'T'.”
+
+Tiyaphi nodded slightly and left.
+
+“You believe that's true?” Tatya asked, a little surprised.
+
+“It's a recipe I've had for a while. It has reared its ugly head several times to mess things up for me.” Ren said as he walked over to the door to hold it open for them. “Teepo and I work very hard to not let it sneak up on us.”
+
+“It's almost a full time job.” Teepo chittered in laughter.
+
+“Yeah.” Ren chuckled. “I even looked into trying to remove it, and it really is an integrated part of an Adventurer's experience.” He said. “All we can do is minimize how much it impacts us.”
+
+“I don't really understand.” Tatya said as she equipped the helm Ren had given her and walked past, then Yuwen, Dilseffa and Artemis followed her and Ren shut the door.
+
+“Ren helped save the world when other Adventurers messed everything up, remember?” Teepo said as everyone walked down the hallway towards the front door of the garrison. “He told you about it back in the reception room in King Alamast's castle.”
+
+“Oh, yes. When he restored everyone's connections.” Tatya said as she remembered what Ren said at the time and glanced at him. “Even though I know you did it, and I know you were with Vasalor himself, I still can't...”
+
+“WHAT DID YOU SAY?!?” Yuwen and Dilseffa yelled at the same time.
+
+Ren felt their shock and stopped walking to take their hands and poured reassuring and calm feelings into them to stop them from panicking at the news. “I spent some time visiting with Vasalor and we repaired everything.”
+
+Teepo chittered in laughter and was about to say something.
+
+Don't tell them how long it actually was. Ren thought to his friend. They are shocked enough as it is.
+
+Yeah, I guess you're right. Teepo thought back.
+
+“You... you really...” Yuwen started to talk.
+
+“Great Vasalor.” Dilseffa said at the same time. “You know Great Vasalor.”
+
+“We're good friends.” Ren said, and quickly discovered that that had been the wrong thing to say.
+
+“Ohmygod! Ohmygod! Oh! My! GOD!” Dilseffa started jumping around while still holding Ren's hand.
+
+“It's true.” Yuwen said as she felt his emotions, and the shock she felt settled in to stay for a while. She stood there and blinked her eyes and opened her mouth as if she was talking; but, nothing was coming out.
+
+“What's all this ruckus?” A man came out of a nearby room and walked over to them and glared at Dilseffa. “Stop that!”
+
+“I can't!” Dilseffa laughed as she kept hopping. “I'm a concubine to Great Vasalor's friend! HIS FRIEND!”
+
+The man's face drained of all its color and he stood there in just as much shock as Yuwen.
+
+“What's going on?” Tiyaphi asked as she came out of the same room.
+
+“They found out that... mhm huh mhmm hm muhm mhm.” Ren said as Artemis covered his mouth.
+
+“Trying to explain even more is not helping.” Artemis said.
+
+“Muh.”
+
+“No buts.” Artemis said and looked at the medical professional. “I hope you can handle the shock.”
+
+“Of what?” Tiyaphi asked.
+
+“Our King is friends with Great Vasalor!” Dilseffa nearly yelled and kept jumping.
+
+Tiyaphi reached out with a slightly glowing hand and touched Dilseffa's hand that Ren held. She calmed immediately and slowed down, then stopped jumping altogether. The glowing hand then touched Yuwen, who took in a deep breath and looked at her.
+
+“Thank you.”
+
+“It's my job.” Tiyaphi said and touched the man that had come out of the room before her.
+
+“Hm? What?” He blinked his eyes and looked at her. “I thought you were leaving?”
+
+“I am, sir.” Tiyaphi said. “Thank you for not taking my sudden departure personally.”
+
+The head of the garrison shrugged. “You were being wasted here anyway.” He said. “You're too talented to just sit around and wait for the next caravan to show up.”
+
+Ren was quite happy to hear that and Tiyaphi looked at him with wide eyes as she felt its intensity. “I'm just glad that he appreciated you being here.”
+
+“You know, we're never going to get to the capital if we just stand here.” Teepo said, and that made Tatya, Ren, Artemis, and the head of the garrison laugh.
+
+“Yes, get out of here.” The head of the garrison said. “We've had enough excitement with the caravan back.”
+
+“What about the carriages?” Ren asked. “We left them at...”
+
+“We're back!” A man at the head of a large group of troops said as they came in through the front door. “Those carriages are fantastic!”
+
+“Not only are we back a day before we expected, we even had enough time to check over the storage crates attached to them.” Another man said and stopped to let his fellows pass as he looked at Tatya. “You're lucky that you declared the foodstuffs and the gifts from the Human Kingdom's king.”
+
+“Stop joking around.” Tatya said with a smile as she felt his teasing emotions. “I always declare everything.”
+
+“You didn't claim that.” He said and pointed to her Helm of the Eagle.
+
+“I didn't bring it here. King Ren gave it to me before we entered the battlefield.”
+
+“Oh, then that's okay.” He said. “Carry on.”
+
+“Thank you for your permission.” Tatya said sarcastically, and he laughed and followed the other troops into the medical checking section to get healed and checked over.
+
+Ren let Yuwen's and Dilseffa's hands go so he could open the front door for them. “After you.”
+
+“Are you going to open every door for us?” Yuwen asked.
+
+“If I reach it first, yes.” Ren said, and she chuckled. They all stepped out of the building and Tatya looked at her carriage.
+
+“King Ren...”
+
+“I can't join you in your carriage, now that I have...” Ren paused and talked like The Count from Sesame Street. “One! Two! Three! Three concubines! Ah! Ha! Ha!”
+
+Artemis laughed and Teepo chittered in delight. No one else got the joke, though.
+
+“I'll explain when I come back.” Ren said and walked over to Princess. “Thanks for waiting.”
+
+“It is my secondary purpose.” Princess said in a distinctly female voice, much to everyone's shock. Even Tiyaphi couldn't hide it like she did when she had learned that Ren knew Vasalor personally.
+
+Ren used the All-Seeing Mirror and cast a portal to send Princess home. “If I need you again...”
+
+“That is my primary purpose.” Princess said. “If you meet another princess, however...”
+
+“I'll come and get you right away.” Ren said.
+
+“Thank you, My King.” Princess said and stepped through the portal.
+
+“Your mount can talk?” Tiyaphi the medical professional asked Ren when he dismissed the portal.
+
+“She's not actually speaking, it's a Permanent Magic Mouth spell.” Ren explained. “We've had a telepathic link for a long time.” He said and tapped his temple. “Once I learned to increase her Intelligence with Runes, I made it high enough that we could understand each other without confusion.” He chuckled. “Once I learned the Permanency Spell, though...”
+
+“She asked for the Magic Mouth spell.” Tatya said. “That's amazing.”
+
+“You should see her when she's not playing with her targets.” Teepo said and chittered in laughter. “Splatter everywhere!”
+
+That made everyone laugh.
+
+“We're going down the road to the rest stop and camp for the night.” Tatya said. “We need to give the giant boars a rest after everything they went through today.”
+
+“They handled it well.” Ren said.
+
+“I believe you said that you have Adventurer business to take care of as well.” Tatya said.
+
+“I do.” Ren said. “I don't know if I'll be gone all night or not, though.”
+
+“You need to leave?” Tiyaphi asked and he felt her disappointment.
+
+“About that.” Ren said and explained his situation with the Fire Realm and needing to spend the day with the Deity of Fire.
+
+“Wait, wait, wait!” Tiyaphi held up both hands. “You're the Deity of Fire's father? Her actual father?”
+
+“Yes.” Ren said.
+
+“I thought that title might only be because you lit a whole forest on fire or something.”
+
+“I've done that a few hundred times.” Ren said with a chuckle. “New growth is harder to burn and makes it taste that much better when it's consumed, apparently.”
+
+“Wow.” Tiyaphi took several breaths, then looked at Yuwen and Dilseffa. “I wasn't worried about picking him to submit to; but, now that I'm learning about all of this, I think I picked the best man.” She said, and they all felt her confidence and her underlying feelings of enjoyment. “Don't you?”
+
+“Definitely.” Yuwen said. “The more I'm around and learn, the more undeserving and luckier I feel.”
+
+Both she and Tiyaphi looked at Dilseffa, who's face flushed red.
+
+“I'm...”
+
+“Don't pressure her to answer, please.” Ren said. “She's in the middle of a sensitive situation and she's not sure how to handle everything that's being thrown at her.”
+
+Dilseffa's face went to a darker red as everyone's emotions turned to concern and understanding. “No, really. I'm just...”
+
+“It's okay.” Artemis said and put an arm over her shoulder. “It takes some getting used to.”
+
+“But...”
+
+“I'm tempted to say that there's no strings attached, but I said that when we got back to the border that I would escort you into your homeland in the manner that you deserve.” Ren said with a smile. “If you'll wait here, I'll be right back.”
+
+Ren turned to Tatya after the three women nodded slightly. “If I could bend your ear for a few moments...”
+
+“Ren, we're in public.” Tatya said and he felt her desire spike.
+
+Ren held in his chuckle and didn't explain that it was an Adventurer saying about talking alone. “I need to ask you a few questions.”
+
+“Of course. You are my guest after all.”
+
+“This way, please.” Ren motioned to a large open area.
+
+“But...”
+
+Ren disappeared and was back almost before she noticed, then his instant shop tower appeared.
+
+“How many times can you do that?” Tatya asked as he opened the door for her.
+
+“Every time I reach the door first.” Ren joked, and she snorted a laugh and stepped inside.
+
+“You know what I meant.”
+
+“It's called an 'instant tower'.” Ren said and shut the door. “It can be activated and deactivated as many times as necessary.”
+
+“The magic doesn't run out or...” Tatya stopped talking as she saw the 4 distinct businesses inside. “Good god.”
+
+“This is my portable workshop.” Ren said and pointed to each one as he said the name. “Blacksmith, Tailor, Woodworker, and Cook.”
+
+“You can carry this with you everywhere?”
+
+“It's part of the magic that the things inside compress with the tower.” Ren said. “The cubes themselves are relatively light.”
+
+“That's amazing.”
+
+Ren smiled and activated the forge without saying anything or even touching it.
+
+“It's enchanted?!?” Tatya asked, and he nodded.
+
+“One of the very best things I did when I learned how to enchant.” Ren said. “Besides saving trees and coal, it doesn't need to be stoked or need a bellows to keep it hot.”
+
+“You built it all in.” Tatya said.
+
+“I do the same thing with everything I make.” Ren said. “It takes a lot more Mana at the time; but, it makes it so much easier later on.”
+
+Tatya chuckled. “You're going to show me how easy, aren't you?” She asked, then her amusement faded. “You will show me, won't you?”
+
+“If you want me to.” Ren said and walked over to the forge to add in some steel bricks. “I'd like for you to tell me what royal concubines wear.”
+
+“Not normal concubines?”
+
+“You can tell me that as well; but, I want to know what the most important ones have. Or could have. Or would want.” Ren said, and she laughed. He discretely took out the Vasalor Statue and activated it.
+
+“You're going to miss leaving on Adventurer's business.”
+
+“Don't worry about that right now.” Ren said and walked back over to her, then motioned to the table in the kitchen. “Have a seat and I'll make us something while you tell me everything I need to know about how to properly equip Mistresses.”
+
+“You're going to cook.” Tatya said as she sat down facing the counter. “Just for me.”
+
+“Anything you want.” Ren said and equipped an apron. “Is there something you would like to try?”
+
+“You said that your ex-fiance was a great baker.”
+
+“Like you wouldn't believe.” Ren said and smiled. “So, what would you like?”
+
+“A cake.” Tatya said and smiled. “The most delicious cake you have ever made.”
+
+“Do you think you can handle it?” Ren teased.
+
+“If you can cook it, I can eat it.” Tatya said, and he laughed.
+
+“One scrumptious cake coming right up.” Ren said and started to gather the ingredients together. “I'll warn you, though. You're going to make a mess eating it.”
+
+“We'll see.” Tatya said with a big smile.
+
+While Ren was mixing things, Tatya felt his deep love for Nathalia and it saddened her a little.
+
+Ren stopped cooking and reached a hand out and took hers. “We still love each other; but, it's tempered by time and distance.” He said. “We aren't together, even now with nearly every obstruction between us removed.”
+
+“But...”
+
+“I hope to change that when my banishment from the dwarf lands is lifted.” Ren said and let her hand go. “Even after we get back together, I plan on living my life and enjoying it.”
+
+“How?”
+
+“When my Adventurer girlfriend lifted my self-imposed restriction on sleeping with other people, I quite quickly started sleeping with a lot of women. Well, even more women.” Ren admitted, and her eyebrows raised and he felt her emotions. “You're not turned off by that.”
+
+“You can satisfy several women and have no problem with gaining concubines and possibly sleeping with them, too.” Tatya said. “I assume your confidence is extremely high, since I can feel that you don't see it as a daunting task at all.”
+
+Ren chuckled. “The only daunting thing for me is time, and I can make as much of it as necessary.”
+
+“Wait, what?”
+
+“I hadn't planned on using it here in the kingdom of Pervaria; but, what happened when I transformed into the Dire Werewolf made its use necessary afterwards.” Ren pointed, and Tatya turned her head to see the Vasalor Statue that was positioned on the shelf. She caught her breath as she identified it.
+
+“It's on right now.” Tatya said. “How long...”
+
+“We can be in here for a day or so and only a second will pass for Yuwen and the others.”
+
+“A... a second.” Tatya stared at the statue. “Only a second.”
+
+“It's not set to its highest setting.” Ren said, and her head whipped back to look at him with wide eyes.
+
+“What... what is...”
+
+“We don't have Tiyaphi here to calm you down if I told you.” Ren said. “I'll just say that you won't believe it, and leave it at that.”
+
+Tatya blinked her eyes for a moment and felt that he was adamant in his answer. “All right.”
+
+“Does it matter what kind of flavor for the cake?” Ren asked. “Chocolate... vanilla... lemon...”
+
+“Surprise me.” Tatya said.
+
+“Oh, I will.” Ren said with a grin. “Now tell me what I need to know about concubines.”
+
+Tatya nodded slightly and watched him cook, and she told him all about the proper outfits and adornments that both normal concubines and royal concubines had.

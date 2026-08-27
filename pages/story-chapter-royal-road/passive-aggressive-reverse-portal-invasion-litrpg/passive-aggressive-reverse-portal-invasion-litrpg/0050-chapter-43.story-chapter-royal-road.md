@@ -1,0 +1,107 @@
+---
+id: f1c88b46-8cd2-5773-8eda-0b21f6ba9dfb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 43"
+slug: 0050-chapter-43
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 50
+ownLength: 1715
+unit: words
+publishedAt: 2026-07-16
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3684045/chapter-43"
+royalRoadId: "3684045"
+---
+
+“Puzzlement. I explained our situation succinctly when we last talked, not a day ago. Has anything changed in the meantime to alter anything drastically?” He paused. “Except for the fact that you no longer have hair. Why do you not have hair anymore?”
+
+Physically, little had changed in Cuilcis’ shop since the day before. He had a few additional goods displayed, including a rack of variably coloured glassware I assumed to hold potions. There also was a third bored guard stationed outside, now. Besides that, everything else was the same. Including his deadpan looks and desire to have me stop stinking up the place.
+
+“Yes, something has changed.” I let my hand slide over my smooth pate. I’d finally given up and bought a razor to shave my head. It felt weird, but it was definitely better than the half-scorched mess making me look like a c-movie villain. I was going to miss having eyebrows, though. “My request is the same. But this time, I’ve done the leg work. Now, I know that the Tethered aren’t just knowledge vendors. They’re the knowledge vendors. And even if you’re low on the rungs in the organization, out to prove yourself and all that, now I know that you can actually deliver what we need.”
+
+It hadn’t been the only thing I’d learned about Cuilcis. I’d paid a nice handful of our newly acquired mana coins to Kimzi, who was only more than happy to inform on her new boss – after all, it was all knowledge that was already out there. I’d also learned that – what with Last Chance being newly erected - he was the only proper knowledge salesman here.
+
+“We?”
+
+“Yep. Two things have changed – one is my request. I no longer only need information on skills and talents. I also need all the in-depth information you have on the Kadren, here in the Torn Divide and in general.”
+
+“Mirth.” He didn’t elaborate.
+
+“The second is that I am now with a team. A very heavy-hitting, capable team. This means that your potential repayment has improved, drastically. Not only will we be willing to handle specific tasks for you, slay beasts and, obviously pay you a good deal of coins to begin with. We will also be ready to owe you a future favour. The favour obviously can’t be suicidally difficult, and it can’t take forever. Apart from that, we’re open for business.”
+
+“Intrigue. Define a good deal of coins.”
+
+“This.” I upended our coins on the table. We’d already agreed we were all in, excluding what we’d need for food for the next few days.
+
+“Hm. Levels and classes of your team?”
+
+“Caster, 15, Combat Crafter, 17, Scout, 17 and me at 23.” I reeled them off at speed.
+
+“Combat Crafter.” He mused. “Not a common choice. Even so, I must refuse.”
+
+“What? Why?” I asked, exasperated.
+
+“I have already given you the first reason. The Tethered do not believe in credit. You may promise what you will, but I have no true reason to believe in you – neither in your capability, nor in your desire to pay your theoretical debt. No offense.”
+
+“Some taken.” I frowned. “And the second?”
+
+“Price. You seem to not understand how expensive information on skills is. Basic information, yes, that is both affordable and doable. Yet, information on rarer skills? That is something that may impoverish affluent buyers, let alone somebody like you.” He paused for a moment to let the point sink in. “Third is time, and timing. I have just arrived in Last Chance. I am solidifying my position. My potential competitors are scrambling, realizing that they have overseen a market here. As such, even if I wanted to take your deal, I wouldn’t do it just yet. This time is crucial for me to ensure that I corner the market in Last Chance entirely.”
+
+I gritted my teeth. “So, there’s no convincing you?”
+
+“Certitude. No. Yet, I am not turning you away entirely. Since you are convinced that I hold information you crave, I will give you an option. With those others helping you, I will give you options, allowing you to accumulate the credit to pay me. Yet, I imagine it will take you about a month.”
+
+A month. A fucking month! A month spent by humanity taking it in the ass from their new bestial overlords. I gritted my teeth, and considered my alternatives.
+
+Tell him about the portal and everything? He’d likely take the deal, if I put that on the table. But no. His organization was way too shady for something like that. Same went for feeding him snippets, like telling him about humans and our lovely little Starved Growth trait.
+
+Beat him up? Heh. I definitely would feel better if I did that. But the odds were good he’d repay me by feeding me crap knowledge in return. Oh, and two of his guards didn’t show any details when I tried to use my Identify skill on them.
+
+I decided to go with a classic instead. Passive aggressiveness. “You probably couldn’t even help me.” Adult and collected, that was me. Yup. “What’s with that stupid way you talk, anyway? Certitude!”
+
+He waved me away. “You may leave now. Come back if you are interested in business. As to the verbal habits of the Tibidi, they are simplicity itself. We do not share a lot of mannerisms with other species and do not show emotions well. Hence, we verbally define our range of emotions instead.”
+
+“That’s all so nice and dandy of you. And since you can’t lie… wait.” I cut the sarcasm and stared at him. Then I snorted.
+
+It was such a small thing. The studied way he’d said it, like he’d spoken those words a hundred times before.
+
+I wasn’t some skilled negotiator who noticed minute clues or some shit like that. But I’d read books about those who did. And they – a group of women who were physically unable to tell lies – had learned how to bend the truth over a barrel by means of clever wordings, obfuscation and generalizations. And this… this was a major fucking smoking gun. If my guess was right.
+
+He didn’t say. “I am certain.” He said. “Certitude.”
+
+I looked behind me, checking that the door was closed behind me. It was. In my sweetest voice, I asked. “So, Cuilcis. Before I leave, I have one simple question. Could you please confirm that, when you express all those emotions, they’re actually the emotions you’re feeling right then?”
+
+“Of course I name expressions I am feeling. What would be the point of it otherwise?”
+
+Fucking bulls-eye! Another general statement that neatly evaded actually stating things beyond a doubt! With my sweetest tone, I said. “Please say the words ‘When I state an emotion, it’s always the exact emotion I’m feeling.’”
+
+“Annoyance. I will ask you to leave now. Else, I shall have to call my guards on you.”
+
+“Yeah, but also no.” I walked back to him and sat down on the edge of his desk. “That’s the thing. I’ve been tossed from the premises quite a few times, mate. Once you piss them off, proper-like, they don’t ask. They just do. And you’re slowly realizing that you messed up!” I was warming up on the subject now. “See, I think you’re absolutely right in one thing. The timing is super important for you, when it comes to establishing yourself, creating a foothold in Last Chance and all that shit. So, it would probably be poor timing if people suddenly started doubting whether Tibidi can actually lie, right?”
+
+“You-“
+
+“So many people were interested when you interviewed for guard jobs. But what if, next time, they’re not sure if you’re actually lying or evading the truth-“
+
+“All right, I get it! I get it!” His face remained expressionless, but his tone and body language… it had an edge to it. “What do you want?”
+
+I shrugged. “What I’ve asked twice now. A fair deal. No more, no less. You share your knowledge, tell us all about the Kadren, inform us about skills in general and share every useful higher-rarity skill you know about. In return, me and my team will pay you, owe you a future favour, and also run any reasonable jobs for you, as long as they don’t get us killed. I’ll give you… three days of work, tops!”
+
+“The favour? Not suicidally difficult, you say. Will you balk at something dangerous?”
+
+“Nah. Just… don’t try to get us killed to get rid of us. It needs to be actually feasible. And, like I said, we can’t spend frigging months on it. Oh, and I will be asking questions about the difficulty. Just so you know.”
+
+He closed his eyes and shut up for half a minute. Finally, he opened them again and stared straight at me. “Okay. But I have certain demands.”
+
+“Go on…”
+
+“It will not be today. I will need time to prepare. You and your team will meet me tomorrow. Also, I will teach you, but it will be half a day in total, spread over two days, so my business isn’t ruined. It will not be some insane, open-ended agreement. And you will never talk about that revelation which you believe you just had. Finally, I am not going to tell you all I know about higher-rarity skills.”
+
+“Well, you’re fecking going to. Else-“
+
+“These are the secrets I have spent the majority of my short life amassing.” He snapped. “I would rather take the hit to my credibility and have a harder time in Last Chance as a result than divulge everything I know.” He took a deep breath before continuing. “I will allow each of you to pick one skill I can help with.”
+
+I squinted at him. Phrasing. He didn’t say… “Why don’t you go ahead and tell me what your best offer is?”
+
+“Frustration. Two skills. Two skills for each of you, and neither of you will share how you earned that knowledge. I will not sacrifice any more. I would rather take the loss in public opinion.”
+
+I stood up, poured all my coins back out on his table, and smiled. “You have yourself a deal.”

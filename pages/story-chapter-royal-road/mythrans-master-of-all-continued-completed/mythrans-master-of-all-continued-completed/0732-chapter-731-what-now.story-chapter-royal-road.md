@@ -1,0 +1,255 @@
+---
+id: 960dc656-23a3-562e-abc4-eff1aab227f8
+page-type-slug: story-chapter-royal-road
+title: "Chapter 731 - What Now?"
+slug: 0732-chapter-731-what-now
+partOf: mythrans-master-of-all-continued-completed
+position: 732
+ownLength: 2924
+unit: words
+publishedAt: 2018-10-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/298433/chapter-731-what-now"
+royalRoadId: "298433"
+---
+
+Ren woke up from his nap and both his face and one of his hands were pressed into a soft mound of flesh. “Mmm... what a great nap.” He said and kissed the breast he was snuggled up against. “Thank you.”
+
+Barbi chuckled and the flesh jiggled in Ren's hand. “Are you thanking me or my breast?”
+
+“Both, of course.” Ren said and kissed it again. “If it wasn't for you, the other wouldn't be here.”
+
+Barbi thought about commenting that it was actually thanks to her plastic surgeon, then noticed his happy face. I don't think it matters to him.
+
+“You can stop cuddling Barbi's boob now.” Stella said.
+
+“But... they're so nice.” Ren said and gently caressed the side of Barbi's breast. Her face went a little red because no one else had ever touched her so tenderly before.
+
+“You need to prep for going into the game.” Stella warned him. “It's almost 9 pm.”
+
+“All right.” Ren sighed and gave Barbi's breast one more kiss and let it go. He turned his torso to lay against her, then saw the problem he had. “Um... I think I'm snuggled in too much.” He said. “Barbi can't move.”
+
+Stella laughed and motioned to Barbi to brace him. She did so, and Stella partially crawled onto the bed and lifted his legs slightly, careful of his wrapped knee, and they slid him forward.
+
+“Whew! Thanks.” Ren said. “I wasn't sure how I was going to get out of there.”
+
+It was Barbi's turn to laugh this time. “Are you saying I had you trapped?”
+
+“Almost perfectly.” Ren said as he sat up straight and Barbi moved out from behind him. “I mean, it's not like I wanted to escape...”
+
+Barbi smiled and moved the pillows she had leaned against and then helped Stella get Ren settled back into the bed properly. “I guess my work here is done.”
+
+“It doesn't have to be.” Ren said to her, and she looked at him with raised eyebrows. “I'm only going in so I can be there for Nathalia as she gives birth, so I'll be back out not long after that.” He said, then thought about something. “I haven't decided if I want to accelerate the child's growth or not, though.”
+
+“Accelerate it? What do you mean?” Barbi asked.
+
+“He means using his Vasalor Statue and have the child grow up before the rest of the world sees it.” Stella said. “Like what happened with the Deity of Fire.”
+
+“Oh.” Barbi said, then she shook her head. “Absolutely not.”
+
+“What?” Ren and Stella looked at her.
+
+“You do realize if you do that, you'll be doing to that child exactly what happened to you after you were rescued.” Barbi said.
+
+Ren and Stella both had shocked looks on their faces.
+
+“You are going to help with the birth and then you are going to let that child grow up in a nice and healthy home environment, and not some time bubble with just you and Nathalia.” Barbi said sternly. “A child needs interactions with people other than the people raising them, so they can develop normally.” She explained. “They need to make friends. They need to play. They need to just be kids.”
+
+“Barbi...” Stella started to say.
+
+Barbi held a hand up to stop her. “If you do your time thing, that child will become an adult that will just magically appear and expect everyone to treat them normally.” She said. “How would the dwarves expect to believe that it's your child if they show up fully grown? How will they behave around someone like that?”
+
+Ren opened his mouth to speak, then he closed it and smiled. He waved Barbi to come closer, and she bent over the bed. He cupped the sides of her face and leaned in close himself, then gave her a soft and gentle kiss.
+
+“R-Ren...”
+
+“Thank you.” Ren said sincerely.
+
+“But...”
+
+“You just saved me from potentially ruining someone's life before it even started.” Ren said and slid his hand behind her neck and kissed her passionately.
+
+Barbi almost gasped into his mouth as he worked both his lips and tongue expertly, and she kissed him back just as enthusiastically. They stayed that way for several moments, then Ren broke the kiss and looked at her with lust in his eyes. It made her shiver slightly, and he smiled warmly at her as he let her neck and cheek go.
+
+“You'll never know how much it means to me that you stopped me from interfering.” Ren said. “I'm so glad that you were here to talk some sense into me before I made another huge mistake.”
+
+“Ren, I...”
+
+“I'll be back out as soon as I can, and I will thank you properly.” Ren said, and Barbi nodded.
+
+Stella handed him his VR headset. “Aren't you going to...”
+
+“Not this time.” Ren said adamantly. “This isn't a pleasure trip... well, not that kind of pleasure trip.” He smiled. “I'm going to witness the birth of my second child.” He said, then his eyes widened. “Oh, wow. I'm going to have another child.” He quickly slipped on the headset and took a deep breath and let it out. “Flow Login Start.”
+
+*
+
+“What did he mean by thanking me properly?” Barbi asked.
+
+“I really should keep you in the dark about that.” Stella said.
+
+Barbi looked at her with wide eyes, and Stella chuckled.
+
+“Just kidding. I wanted to see your face when you found out.” Stella said, then leaned in close to whisper in her ear.
+
+“You're kidding.” Barbi said, and Stella shook her head. “You're not kidding?”
+
+“Nope.” Stella grinned at her, then her cell phone beeped. “I wonder who...” She took out her cell phone and gasped at the message from Barbara.
+
+“What is it?” Barbi asked.
+
+Stella didn't say anything as she changed the channel on the television.
+
+**
+
+“That's right, folks.” One of the early night talk show hosts said. “That cute little television star we all know and love has a deep and dark secret past!”
+
+Some of the crowd made the 'boo' sounds and some clapped.
+
+“Don't show it again!” One woman shouted, and several people laughed.
+
+“Ah! I see some of you have seen the 5 o'clock news already.” He said and the curtain opened up behind him. “Don't worry, ma'am. You don't have to see the whole thing again. We've made a clip of the highlights.”
+
+**
+
+Stella and Barbi stood there and watched as a news reporter started to talk about Ren, and he broke down and cried openly. He waved at the camera and apologized for being emotional over a story he should be treating professionally, then they played Ren's statement over his shoulder as he tried, and failed, to maintain his professional integrity and openly sobbed as Ren described what he went through.
+
+Barbara, Lisa, and Elise came into the room just in time to see that part, and Barbi and Elise used their cell phones to check on things. They watched the television and used their phones at the same time, and compared what they were seeing to what had aired earlier that day.
+
+“They said they were repeating the story tonight at midnight.” Barbara said. “Donald was the one that saw it at 5 o'clock and told me about when I woke up.”
+
+“Elise, what does this mean for the lawsuits?” Stella asked.
+
+“Thankfully, nothing.” Elise said and showed her the text from one of the secretaries at the law firm. “This evidence was already presented in open court.” She said. “If you look closely, you can see that it's a recording of a recording.”
+
+“They had someone in the courtroom recording the evidence?” Barbi asked, surprised.
+
+“I don't think they targeted Ren specifically, if that's what you mean.” Elise said. “I think whoever it was lucked out.”
+
+“What do we do?” Lisa asked.
+
+“Help me gather up all the traces of this on the net.” Barbi said. “We need to check that it's accurate, and if it's not, we might have to release the original footage and counter any false claims.”
+
+“I can already see the defamation lawsuits building up.” Elise said. “There's not going to be a lot of happy people out there.”
+
+“Yeah, facing your accuser is a big thing for criminals these days.” Stella said. “Even if Ren didn't actually accuse them of anything and only stated facts.”
+
+“Elise, can you...” Barbi started to ask.
+
+“I've already got the transcript from three of the cases today, and I'm just waiting on the others.” Elise said. “I don't think releasing the judgments is going to make much difference, though.”
+
+“Oh, it will.” Barbi said and smiled. “How many of those companies now have injunctions against them?”
+
+Elise's mouth made that little 'o' of surprise, then she smiled. “I love the way you think.”
+
+“I do, too.” Barbi said and smiled back.
+
+“Let's go.” Elise commanded, then she, Barbi and Lisa left the bedroom at a fast walk.
+
+“I guess we can leave it in their hands.” Barbara said.
+
+Stella nodded. “It's nice to have someone around that can handle things like this.” She said and waved at the television. The host was now making jokes at the male news anchor's expense.
+
+********
+
+Ren woke up in the apartment with the maids and Xuunah, gave them all a kiss, and slid out of bed without waking them, then wrote out a note and left it for them and left the apartment. He used the All-Seeing Mirror and checked on Nathalia, and he saw that she was asleep in a private room in the hospital ward. Artrude sat at her bedside and was reading a book, so Ren thanked the mirror and stored it.
+
+“It's not time yet.” Teepo said in the voice only Ren could hear.
+
+No, unfortunately. Ren thought to his friend. I wonder what I can do while I wait.
+
+“Well, you do have a couple of quests left to do.” Teepo suggested.
+
+Actually, that's not a bad idea. Ren smiled and took out the All-Seeing Mirror again and asked it to show him Orimihr. It showed him in his cabin on the ship and the dwarf had two women in bed with him. They wore glittering diamond pendants and hugged Orimihr tightly.
+
+“Lucky dog.” Teepo said. “I guess it's a bit too early for him.”
+
+Ren held in his chuckle and thought about the other quests he had. “Can you show me a list of the special creatures in the game? There's supposed to be a hundred of them and I've found a few already.”
+
+The All-Seeing Mirror changed and showed a list of 100 creatures and 5 of the names were greyed out with check marks by them.
+
+“Nice.” Ren said. “Can you show me a world map, with the names of the creatures and their locations, please?”
+
+The mirror shifted and showed a world map, and 65 little dots appeared and the names of those creatures appeared beside the dots.
+
+System Notice!
+
+You have discovered 65 rare creatures! There are 100 of them in the game, and a SPECIAL bonus awaits the person that finds them all.
+
+Notice!
+
+You have gained the title Hunter Extraordinaire. This title grants you the Hunter Aura (Mastered - 100 feet); the Tracking skill (already acquired - Mastered); 15,000 XP (Negated: XP maxed); Fame: 5,000
+
+Notice!
+
+Excess Fame converted to XP.
+
+Fame 5,000 x 10XP = 50,000 XP (Negated: XP maxed)
+
+Well, damn. Ren thought. The others must be in parts of the game I haven't unlocked yet.
+
+“Shouldn't that mean they aren't accessible?” Teepo asked. “Why would they give you a quest you can't complete?”
+
+Ren sighed. I guess they figured everyone would travel and go looking for them, rather than just asking for the creatures locations. He thought and looked at the list, and saw that the monocerus wasn't greyed out. Crap, I wanted to see if I could find that for Malenka to finish that quest, too.
+
+“Then go find it.” Teepo said. “Ask the All-Seeing Mirror where to start looking.”
+
+Good idea. Ren asked the mirror and it showed him a really odd looking caravan that was parked beside the castle in the capital city of Bore-Reale.
+
+“Look at those things pulling the carts.” Teepo said.
+
+Ren asked the mirror for a close up shot. “It's a giant boar.” He said out loud.
+
+“You're not allowed to eat it!” Teepo chittered in laughter.
+
+Ren chuckled. “I don't think showing up out of the blue and eating one of their pack animals would make a good first impression.”
+
+“I wonder who they are?” Teepo asked.
+
+“Well, there are a couple of ways I could find out.” Ren said and asked the mirror for a view of the bedroom in Aurora. He cast the portal spell and stepped through it.
+
+“Hi, Ren.” Artemis said as he appeared and he gave her a kiss.
+
+“I'm heading to the capital city to try and find a unicorn.” Ren said, and she chuckled.
+
+“You mean clues to find a unicorn.” Artemis said. “Do you want a show of force or just a presence?”
+
+“Just a presence.” Ren said and looked at the succubi. “I'm not sure if I'll be back for...”
+
+“You'll need all of your strength for Nathalia's birth when it happens.” Seldanna said. “We can wait.”
+
+“Thank you.” Ren said and walked over to the bed and kissed her to give her the emotions she wanted, then did the same for the other three succubi. “See you later.”
+
+Ren cast another portal and he and Artemis stepped through it to appear a hundred feet above the capital city. “Should we do full armor or full court dress?”
+
+“Hmm.” Artemis thought about it. “I'd say full court, until we find out who it is.” She said. “Then we can switch if it's necessary.”
+
+“Good point.” Ren said and equipped his blue suit that was a mix of High Elf and Human royalty styles, and Artemis cast Full Illusion on herself to give her normal skin and then equipped a high fashion dress that was so close to the Human Queen's style that it was practically the same dress. They thought about just dropping down to land beside the caravan, then decided that a bit of decorum was better and flew down to land a couple of streets away and walked over to the castle, arm in arm.
+
+Since Ren had his Auras active all the time, he felt it when it passed over the caravan and the castle. No less than a dozen piqued interests focused their attention on him, and he couldn't tell if some or all of them were the giant boars that pulled the caravan or if it was people that were inside the caravan or the castle.
+
+“I guess there's no point in trying to make an announcement before my arrival.” Ren joked. Artemis chuckled and Teepo chittered in laughter, and they made their way down the street.. As they walked over to the front doors of the castle to go inside, Ren's Heat Sense let him watch several beings leave the caravan and they moved out and along the next street.
+
+“Are you going to tell them that you can sense them?” Artemis asked in a whisper.
+
+“It depends on how close they get and if I want to astonish them so soon.” Ren smiled at her, and she pat his hand as he opened the front door for her, since the guards by the door hadn't moved to do that for them.
+
+“Do you think Princess Diana is up yet?” Teepo asked as Artemis stepped by Ren and into the large lobby.
+
+“I think the last street we walked up was close enough to the back of the castle, so I can pretty much guarantee it.” Ren said as he held the door open for a lot longer than he normally would have, almost as if he was holding it for someone else, then he stepped inside himself and let the door close on it's own. Artemis took his arm again and then Ren felt a familiar presence leave a room at the back of the castle at a run.
+
+“Yep, she knows I'm here.” Ren said with a smile. “Should we wait here for her?”
+
+“I think that would be best.” Artemis said and pointed to several chairs and a small couch in what looked like a sitting area. “Those look reasonably comfortable.”
+
+“Let's try them.” Ren said and escorted her over to the area and they tried sitting down on the small couch. “You're right. It's not too bad.”
+
+“Then sit back and relax while we wait, My King.” Artemis said.
+
+Ren raised a single eyebrow at her for the use of his title, and she chuckled.
+
+“I should use at least that title when addressing you inside the kingdom's castle.” Artemis said with a demure smile.
+
+Ren nodded his acceptance and sat back to put his arm out across the back of the couch, and Artemis leaned into him. She was almost a foot and a half taller than him, so she put her arm around his shoulders and relaxed.
+
+“Are you going to point to them now?” Teepo asked.
+
+“I'll wait until Princess Diana gets here.” Ren said and moved his hand from the back of the couch to rub Artemis' back through her dress, and they waited patiently for the princess to arrive.

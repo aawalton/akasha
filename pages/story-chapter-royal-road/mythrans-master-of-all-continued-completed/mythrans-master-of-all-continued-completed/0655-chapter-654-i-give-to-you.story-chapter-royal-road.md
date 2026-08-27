@@ -1,0 +1,323 @@
+---
+id: e2e0f5b9-efad-59e2-bf71-0dfd6367f9b9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 654 - I Give To You..."
+slug: 0655-chapter-654-i-give-to-you
+partOf: mythrans-master-of-all-continued-completed
+position: 655
+ownLength: 3224
+unit: words
+publishedAt: 2018-07-31
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/239533/chapter-654-i-give-to-you"
+royalRoadId: "239533"
+---
+
+“Dana!” Gretchen exclaimed. “You can't just...”
+
+“He asked me what I really wanted.” Dana said honestly and looked at Ren.
+
+“I'm sorry, Dana. Teepo is not someone I'd just give away. He's not a thing to be traded away...” Ren started to explain what Teepo means to him.
+
+“No, no! I don't want Teepo!” Dana nearly yelled. “I mean, I'm sure you're a great friend and all that, but I agree with Ren. You don't just give friends away if someone asks.” She said. “What I want is a friend like Teepo. Someone to keep me on track and help me when I need it.”
+
+“Dana, you're being unreasonable.” Gretchen sighed. “I've never even heard of a talking beetle before meeting Ren! How in the world is he going to find you a friend like that?”
+
+Dana sighed, too.
+
+“It's not like he can just make you a friend.” Gretchen said, and both women fell silent.
+
+“Actually...” Ren smiled, and they looked at him with wide eyes.
+
+“No way.” Gretchen said. “You can't. It's not possible.”
+
+Ren took out the platinum beetle body he had made for Teepo a long time ago, took out the second half of the Recall Ring from it's belly and stored it, then snapped the head off of it.
+
+“REN!” Teepo exclaimed. “That's mine!”
+
+“Sorry, buddy. It's the quickest way.” Ren said and stored the head, then used his Possession Restoration ability, just like he did on the maps, and repaired the platinum beetle body. He then took out a table and set the platinum beetle body on the table and held a hand out to Dana.
+
+“Wh-what...”
+
+“I'm going to make a Personal Familiar for you.” Ren said. “I need to hold your hand for a minute.”
+
+“Okay!” Dana took his hand enthusiastically and Ren closed his eyes as her emotions washed over him.
+
+“All right.” Ren said calmly and pushed Reassurance and calmness into Dana, and she relaxed. “Now, I want you to think about what you need this familiar to do.”
+
+“I don't know what a familiar is supposed to do.” Dana said. “How am I supposed to think about it?”
+
+Ren chuckled. “I already know some of the things that you want it to do.” He said. “Just think about what else you want. A scout? Someone to help you shoot at long range? Someone to stay by your side?”
+
+“Um... I... well...”
+
+Ren gave her hand a squeeze. “Take a deep breath. Let it out.” He said, and she did. “Gather your thoughts. Calm and collected.” He said, and felt her do just that. “That's it.” He said and activated one of his unlocked abilities Familiar Gift. He touched the beetle body with their joined hands and it glowed brightly.
+
+“Do... do you need some of my blood?” Dana asked, and he glanced at her face.
+
+“How did you know?”
+
+Dana shrugged. “It just popped into my head.”
+
+“Here.” Gretchen said and held out a dagger. Dana took it and pricked the tip of one of her fingers that was touching the beetle. She gasped as the power sucked up her blood and she felt it drain from her with her Health.
+
+“It's okay.” Ren said and cast Full Healing on her, and she gasped again at the feeling. The beetle's body formed a little vortex above it, and Ren dropped in several platinum coins. Dana gasped once again at that, and then the ritual was over. Ren took his hand away, and Dana stayed there touching it.
+
+“Is it supposed to be warm?” Dana asked.
+
+“Well, I kind of used Teepo as the base for it's abilities, then used your wants and needs to round everything out.” Ren said, and then one of the metal beetle's legs twitched. Dana caught her breath as the other legs moved, and then the beetle opened it's eyes.
+
+“I can't move.” The beetle said in a distinctly female voice.
+
+“Oh! I'm sorry!” Dana said and moved her hand, and the beetle stood up. “I didn't realize I was holding you down.”
+
+“That's okay, Dana.” The beetle said. “I'm sure once I get stronger, that won't be a problem.”
+
+“Get stronger?”
+
+“Well, I'm your familiar.” The beetle said. “When you get stronger, I get stronger.”
+
+“But...”
+
+“You can't add her to a party roster, so the Familiar Gift bond between you is a bit stronger than normal.” Ren said.
+
+“Don't worry about that for now.” The metal beetle said. “The important thing is to give me a name.”
+
+“Teela.” Dana said right away without even thinking about it.
+
+“Teela?” The beetle skittered around on the table for a few moments, then stopped. “That's a nice name. I like it.”
+
+“I've always liked it, too.” Dana said and held a hand out to the beetle. “Hi, Teela.”
+
+“Hi, Dana.” Teela said and hopped off of the table and onto her hand. “I hope we can be good friends.”
+
+“I know we will.” Dana said and put Teela on her shoulder.
+
+“She has some abilities that will help you.” Ren said. “Spot, Detect Traps, Detect Magic, Listen, and a few other skills.”
+
+“Really?” Dana looked at her new friend. “That's so cool.”
+
+“I can even tell time!” Teela chittered in laughter.
+
+“Ren?” Teepo said it like a question.
+
+“Sure, buddy.” Ren said. “Teela, I'd like for you to meet Teepo.”
+
+“Hi, Teepo!” Teela lifted one of her front legs and waved it at him. Teepo opened his carapace and unfurled his wings, then fluttered over to her and waved one of his front legs.
+
+“Hi, Teela.”
+
+“YOU CAN FLY?!?” Teela yelled, and Teepo chittered in laughter.
+
+“So can you, once you're strong enough.” Teepo said.
+
+“Really?” Teela skittered around in a circle on Dana's shoulders, as if she was trying to look at her own back. “I don't see any wings, or even how my back is supposed to open up.”
+
+“Ren?”
+
+“Already doing it.” Ren said and took out the platinum beetle head and used his ability to reform a new body for it. Teela chittered in delight at it, and then Teepo disappeared.
+
+“TEEPO!” Teela yelled.
+
+“I'm right here.” Teepo said from the metal beetle.
+
+“No way!” Dana, Gretchen, and Teela all said at the same time.
+
+Ren held Teepo out, and he turned around and showed them how the back opened up and the wings being deployed. He fluttered up into the air and stopped in front of Teela.
+
+“See? You will be able to fly eventually.”
+
+“Oh, wow.” Teela said and excitedly turned to Dana. “We need to go adventuring right now!”
+
+Ren, Teepo, Gretchen, Artemis, and Dana laughed.
+
+“I need to finish the end quest before you go.” Ren said and looked at Dana's friend. “Gretchen, what would you like?”
+
+“You'll give me one magical item, right?”
+
+“Yes.”
+
+“I can ask for anything, right?”
+
+“As long as I can make it, and it's within reason.”
+
+“Then... then I...” Gretchen paused.
+
+“It won't get any easier if you wait longer.” Ren joked, and she smiled.
+
+“I want something that will let me cast spells like a magic user.” Gretchen said.
+
+“Do you mean a wand?” Ren asked and pointed to the Energize wand that the Hand of Glory around his neck held.
+
+Gretchen shook her head. “No, I'd be stuck with just whatever spell you put in it.” She said. “I wanted to take a mage class because of the spells it had access to; but, I knew I would never survive long enough to get into a party with all the events going on lately, so I went with a Fighter class instead.”
+
+“You could have taken a different race...” Ren started to say.
+
+“No, I've always played human, and I'm not changing that now.” Gretchen said. “So. Can you do it? Do you have something that will let me cast spells like a magic user?”
+
+“Yes, but...” Ren sighed. “...you aren't going to like it.”
+
+“That doesn't matter!” Gretchen said. “Please! Give it to me!”
+
+Dana chuckled at her choice of words, then realized what even a joke implied. “Gretchen!”
+
+“You know that I meant the magical item, and not... not his...”
+
+“You can say penis.” Teela said. “It's not a dirty word.”
+
+“Teela!” Dana's face started to turn red.
+
+“Penis, penis penis!” Teela chittered in laughter as Dana's face went completely red.
+
+Teepo flew over to Ren, who grabbed the metal beetle and stored it, then Teepo appeared at his feet in a solid body and flew up to land on his shoulder. Ren took out a fist-sized diamond and put it on the table, which made Dana and Gretchen stop breathing.
+
+“This won't make you a real magic user.” Ren said. “It's a... well, it's essentially a bypass. The old enchanter Issac had a recipe for something similar to give a non-magic user magic abilities. I've modified it and changed the requirements and the restrictions.” He said. “I should be kicking myself for doing that with all the recipes I have, but I just can't leave well enough alone.”
+
+“So, will this do it?” Gretchen asked and kept her eyes on the largest diamond she had ever seen.
+
+“Not yet.” Ren said and looked around. “I don't think we should do this here.”
+
+“I'll do anything you want me to do. I don't care where it is.” Gretchen said.
+
+“Gretchen!” Dana exclaimed.
+
+“You know what I meant.” Gretchen said, and Ren checked the All-Seeing Mirror and cast a Portal spell. “After you.” He said, and Gretchen stepped through right away, and Ren motioned for Dana to go, too. Teepo dissolved into the ring and Ren stored the diamond and the table, took Artemis' hand, then stepped through as well. They all appeared back at the county and right in the middle of all of the attractions and Ren summoned Teepo again.
+
+“It's real?!?” Dana looked around at all the rides and booths. “We're really inside a real amusement park?”
+
+“No false advertising.” Ren chuckled, and took out a bed. “Gretchen, please lay down.”
+
+“What are you going to do?”
+
+“I'm going to make you as comfortable as possible.” Ren said. “This... if the recipe is right... is going to hurt. A lot.”
+
+Gretchen took a deep breath and let it out, then laid down on the bed. Ren felt her resolve, and he admired that.
+
+“Have you... um... did you buy...” Ren looked at Dana and then at Artemis.
+
+“Did you buy any bras at Ren's store?” Artemis asked.
+
+“We sure did!” Dana said. “Some of them are so pretty! I wish we had them in real life!”
+
+Ren smiled. “Gretchen, I need you to store your shirt.”
+
+Gretchen didn't even hesitate as she stored her shirt and left herself in a pink frilly bra. Her face was a little red at exposing herself so brazenly; but, she had watched Ren's eyes and he hadn't tried to look at her chest. That alone had given him all the brownie points he could ever earn from her.
+
+“Thank you.” Ren said and knelt by the bed, then took out the fist-sized diamond. “Whew, okay. This... I'm really sorry about this.” He said and held the diamond in both hands. He said a long stream of ancient words that no one could hear or understand, and the diamond started to glow.
+
+“Ren, you should put her to sleep.” Artemis said.
+
+“It won't work if she's asleep.” Ren said when he finished the chant. “She needs to be conscious to let the magic take hold.”
+
+“Use the brain arthropod grub venom, then.” Teepo said.
+
+“That's a great idea!” Ren said and stood up, then took out his storage tower. He went inside and came back out with a small vial of the liquid and stored the tower again. “Thanks, Teepo.”
+
+“You're welcome.” Teepo said as Ren climbed onto the bed.
+
+“This is going to feel a little weird.” Ren said to Gretchen. “Do I have your permission to touch you?”
+
+Gretchen nodded. “I told you that you can do anything you want as long as you give me a magic casting ability.”
+
+“You really need to be more careful about saying things like that.” Ren said and smiled at her as he tenderly moved her hair out of her face, which made her blush. “Artemis.”
+
+Artemis took the vial from him, opened it, and poured some onto his fingers. Ren traced out an area slightly bigger than the diamond on Gretchen's chest, then filled in the area with the numbing liquid. His fingers had grazed the tops of her breasts a couple of times, and her heart rate sped up only slightly, mainly because she knew he wasn't thinking anything sexual at the casual touch.
+
+Ren waited for a moment then poked the center of the area he had covered with the numbing liquid. “Any sensation at all?”
+
+“No, I don't feel anything.” Gretchen said in surprise.
+
+“I hope that continues.” Ren said and waited for another moment, then held the diamond up and covered the very sharp-looking point on the bottom of it. “Are you ready?”
+
+Gretchen nodded. “As I'll ever be.”
+
+Ren mumbled one last magic sentence, pulled up his medical knowledge to pinpoint the right spot, then drove the diamond right into the middle of her chest.
+
+“AHHHH!” Gretchen screamed.
+
+“GRETCHEN!” Dana yelled and tried to jump onto the bed to tackle Ren. Artemis caught her in mid-leap and held her tightly as she cried for her friend.
+
+“I... I'm okay?” Gretchen said like she was asking a question. The scream she had let out had been automatic, a reaction to being stabbed with a very sharp object; but, she hadn't actually felt the impact. She had seen the blood splash out and saw it stop in mid-air, then saw it flow back into her wound. She watched as Ren pushed the diamond down just below the skin line, and he rubbed his hand around the outside of the wound. His fingers once again brushed against her breasts, and neither of them thought anything sexual at all.
+
+Dana and Gretchen were amazed as her chest slowly formed a tight seal around the diamond and it became firmly lodged in her chest cavity, then her skin grew over the top of it. The diamond was still glowing slightly and everyone could see a faint number 1 through her skin. Ren touched the new skin and she caught her breath as she felt his fingertips.
+
+“I've healed you as much as I can; but, it's going to be sore for a day at least, and it's going to take a bit of getting used to.” Ren said. “You need to take it easy, okay?”
+
+Gretchen nodded and touched the slight glow. “What is this called?”
+
+“The Radiant Jewel of Magical Bequeathment.”
+
+“That's a mouthful.” Gretchen said and smiled. “When can I...”
+
+“Don't try casting spells for a few days.” Ren cautioned her. “You need to let your body adjust to having access to Mana.”
+
+Gretchen checked her Heads Up Display and was only slightly surprised that the Mana bar was no longer greyed out like it had always been. “I... I have Mana! I really have Mana!” She exclaimed. “Ren! How can I ever thank you?”
+
+“You can start by equipping your shirt.” Ren said and grinned. “I'm not going to be able to stop myself from looking at such a cute bra for much longer.”
+
+Gretchen chuckled and stored the bra instead, which gave Ren a particularly nice eyeful of her chest.
+
+“GRETCHEN!” Dana yelled, and Gretchen quickly equipped her bra and shirt to cover up. “I can't believe you did that!”
+
+“Well, he was a complete gentleman, even though he... and then when his fingers...” Gretchen climbed off of the bed and sighed when she saw how angry her friend was. “It was just a peek.”
+
+Dana crossed her arms and huffed. “Just a peek!”
+
+“I can make it up to you.” Gretchen said.
+
+“Oh, yeah? How?” Dana asked. “Can you make him forget about seeing your nipples?!?”
+
+Teepo and Teela chittered in laughter together. “Nipples!”
+
+Artemis snorted a laugh and Ren tried to cover his smile with a hand.
+
+“It's not funny.” Dana said.
+
+“I'll make it up like this.” Gretchen said and took Ren's hand. “I know you've already completed the quest, so our business with that is done.” She said. “Thank you for doing this for me.”
+
+“How is this...” Dana started to ask.
+
+“Please, Ren! Go out with my friend!” Gretchen said and knelt on one knee, and everyone looked at her in surprise.
+
+“Wh-what?” Ren blinked his eyes for a moment. “You want me to what?”
+
+“Go out with my friend.” Gretchen said. “We know you have women all over the place and usually take a pile of them with you wherever you go; but, she likes you a lot and wants to go on a date with you.”
+
+“You want to go on a date? With me?” Ren asked and looked at Dana, who's face was beet red and her emotions were all over the place. He couldn't make heads or tails of them and didn't know if that was what she actually wanted or not. “I'm sorry, I have a girlfriend.”
+
+“In here or in real life?” Gretchen asked.
+
+“Technically, both.” Ren said. “Although, I do have permission to do what I wanted in the game.” He said. “I don't think she meant dating another Adventurer, though.”
+
+“Hold on.” Gretchen said and stood up. “Your girlfriend gave you permission to do whatever you want in the game?”
+
+“Yeah.”
+
+“Is she crazy?” Gretchen asked, and Ren chuckled.
+
+“Probably no more than I am.” Ren said.
+
+“You said the same thing to that guy.” Dana said. “Are you... I mean...”
+
+“I've been called crazy by a lot of people and for a long time.” Ren said. “I honestly don't consider it an insult.”
+
+“That might actually be crazy talk.” Gretchen said, and Ren laughed at her honesty.
+
+“I don't think I can agree to a date.” Ren said and felt Dana's sadness. “I'm pretty sure it would be okay to just hang out for a while, assuming your friend can come along.”
+
+“M-me?” Gretchen asked, surprised.
+
+“Sure. It's not really a date if there's more than one girl, right?” Ren asked. “Plus, Artemis has to stay by my side, or at least within my Aura. Teepo also stays with me, as I believe Teela will now stay with Dana.”
+
+“Darn right!” Teela said. “I'll be your constant companion!” She said to Dana.
+
+“So, what do you say?” Ren asked. “Want to go hang out for a while?”
+
+“I don't know.” Dana said. “My friend and I just finished this wicked hard quest and we're pretty tired...”
+
+Gretchen laughed. “Now is not the time to play hard to get, Dana.”
+
+“Hey, don't mess up my groove!” Dana said and Ren and Artemis chuckled. “Oh, all right. I guess we can hang out for a while.”
+
+“Great!” Ren said and held a hand out to her. “Let's start by taking a walk over to the new human starter city and see if we can find people to staff all these rides and vendor booths.”
+
+Dana reached out and took his hand, and let a smile spread across her face.

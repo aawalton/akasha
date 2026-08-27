@@ -1,0 +1,325 @@
+---
+id: 9700f969-69f2-5de9-94fe-acad7a9b9fa7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 680 - Going For A Stroll"
+slug: 0681-chapter-680-going-for-a-stroll
+partOf: mythrans-master-of-all-continued-completed
+position: 681
+ownLength: 3180
+unit: words
+publishedAt: 2018-08-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/284871/chapter-680-going-for-a-stroll"
+royalRoadId: "284871"
+---
+
+Ren woke up from the nap and felt the warmth of several sets of arms around him. The funny thing was, he didn't feel restricted in any way and could easily move if he wanted. His head was still nestled between Seldanna's breasts and her red skin was warm and comforting. He moved one of his hands and gently caressed the spot above her heart and she opened her eyes slightly to peer at him.
+
+“That was a good nap.” Seldanna whispered.
+
+“Are you still feeding?” Ren asked, and she nodded.
+
+“I never imagined how much better these kinds of feelings could be.” Seldanna moved her hands up from his back and combed his hair with her fingers. “You know I've enjoyed the forced harvesting after... well...”
+
+“Oh, I'm not stupid enough to think you were a good girl before you met me.” Ren chuckled, and the other people in the bed started to wake up. “Just finding you where I found you, told me everything I needed to know about what it was like for you.”
+
+“...and yet, you subject yourself to our techniques and feed us willingly... and without reserve.” Seldanna said.
+
+“I have a reserve.” Ren grinned at her, and she chuckled.
+
+“Yes, no actual intercourse.” Seldanna said. “You've let us do everything else, however.”
+
+“I've done everything else to you as well.” Ren caressed her breast. “I also told you why.”
+
+“Yes, and not only do I appreciate your complete honesty, I absolutely love that you have helped us so much with that limitation.” Seldanna said. “You've given us so much without having to cross that final barrier, and you've shown us that we don't have to cross that line to achieve our desires and increase our abilities.”
+
+“I'm really glad you understand.” Ren said and moved up to give her a kiss. She kissed him passionately and hugged him tightly.
+
+“Aww, that's so sweet.” Suniva said, and then giggled. “The succubus can learn!”
+
+Seldanna smiled evilly and reached across Ren, then pinched the tip of Suniva's breast.
+
+“IEEEE!” Suniva yelled and jumped out of bed as her wings deployed, and she hovered above them. “That wasn't nice!”
+
+“I was about to say the same thing to you, pixie.” Seldanna said.
+
+“Ladies, please.” Ren said.
+
+“I didn't pinch hard, My King.” Seldanna said. “She is just upset that I touched her there.”
+
+Ren sighed. “I know.” He rolled over on top of Seldanna, so that his back rested on her front, and he looked up at Suniva. “I won't ask either of you to apologize, since I can feel that you both think you're even now.”
+
+Suniva opened her mouth to protest, then sighed herself. “I teased a little too much.”
+
+“As did I.” Seldanna said.
+
+“Now give me a kiss.” Ren said and Suniva floated down and kissed him briefly and floated back up. He turned his head and tilted it back so that Seldanna could kiss him, too.
+
+“I don't like succubi very much.” Suniva admitted.
+
+“I reciprocate that feeling for pixies.” Seldanna responded, and both women smiled.
+
+“You don't have to like each other to reach an understanding.” Ren said. “Thank you both for not fighting every time we're in the same room.”
+
+“We don't fight because of you.” Seldanna said. “Oh, and because the pixies are so small.”
+
+Ren chuckled. “I've fixed that qualifier.”
+
+“Only for the pixies you helped here.” Seldanna said.
+
+“Ha! We can duplicate Ren's stuff, remember?” Suniva said. “Right now, every one of the pixies that he rescued from Shargon Caverns has the ability to become large whenever they want!”
+
+“Ooo!” Ellaria said and exchanged looks with the other succubi. “Does this mean...”
+
+“We can finally have it out with them.” Seldanna said and let a predatory smile touch her lips.
+
+“Non-lethally.” Ren said, and they all looked at him. “I don't care if you fight, as long as it's non-lethal.”
+
+“That's not very fun.” Chenoa said.
+
+“No permanent maiming, either.” Ren said. “No cutting off wings or pulling off limbs.”
+
+“If you don't want us to fight, just say so.” Ellaria huffed and crossed her arms. “What's the point if you can't cut loose?”
+
+“That I have to agree on.” Suniva said. “We can't use our elements if we're not allowed to maim or kill.”
+
+“Wow.” Teepo said from the ceiling, and everyone looked up at him. “The pixies and succubi actually agreed on something!” He chittered in laughter. “That's amazing!”
+
+“Ha... haha... hahaha!” Seldanna laughed, and everyone joined in.
+
+They all calmed down a few minutes later and Ren equipped his armor bodysuit and climbed off the bed.
+
+“Where are you going?” Seldanna asked.
+
+“For a walk.” Ren said. “Who wants to come with me?”
+
+“Can I fly?” Suniva asked and shrunk down to her normal 1 foot tall pixie size.
+
+“That would defeat the purpose of walking.” Ren chuckled. “Anyone else?”
+
+“I am, obviously.” Artemis said with a smile and equipped her own armor bodysuit to match his.
+
+“Me, too.” Teepo said and dropped down from the ceiling to land on his shoulder.
+
+“I'm tempted to, but I will stay here.” Seldanna said, and the other 3 succubi cuddled in close.
+
+“Okay, we'll be back in a little while.” Ren said and took Artemis' hand, then he led her out of the bedroom.
+
+“Are you going to ask the Marilith Demon if she wants to come along?” Teepo asked.
+
+“Yes, but I know she's going to say no.” Ren said and walked down the hallway.
+
+“How do you know that?” Artemis asked.
+
+“She's too used to being confined underground.” Ren said and knocked on the door frame of the Marilith Demon's room. “Hi, there!” He said as she lifted her head to look at him. “I'm going for a walk...”
+
+“No.” The Marilith Demon said and put her head back down onto her bed, then her tail slithered up and over her head to cover her eyes.
+
+“Let me know if...”
+
+“I said no.” The Marilith Demon said clearly, despite having her thick tail in the way.
+
+“Okay, Cuddles.” Ren said and felt her desire rise slightly. “See you tonight.”
+
+Ren picked up the broken door and held it in place in the doorway, poured a little bit of Mana into it, and the hinges reformed and attached the door back to the frame. He shut the repaired door, then he and Artemis walked down the hall and down the stairs to go outside.
+
+“You shouldn't tease her like that.” Artemis said and shut the front door, then slipped her arm through his when Ren offered it to her.
+
+“I wasn't teasing.” Ren smiled up at her, then they started walking down the street.
+
+“Calling her by her bedroom name in public is teasing, Ren.”
+
+“It wasn't in public.” Ren said and they took the corner to walk down the street. “I just wanted her to know that I wasn't going to take her saying 'no' as an insult to me.”
+
+“Well, I guess that would work.” Artemis said. “You could have just said that, though.”
+
+Ren chuckled. “You're kidding, right? I don't want her to complain, again, that I'm talking too much.”
+
+Artemis laughed. “I think she's the only one of us that doesn't want to hear you go on and on about your adventures.”
+
+“Ain't that the truth.” Ren said and looked down the street to see that the business Anabelle ran was quite busy. “Do you think we should pop by and see how things are going?”
+
+Artemis shook her head. “Not right now. We should wait until lunch and make sure she's not too busy.”
+
+“Good point.” Ren said. “In fact, why don't we book a table or two for lunch.”
+
+“Do we need to wait in line to book a table?” Artemis asked, and saw the line in front of the popular restaurant called Nathalia's Nourishment.
+
+“I don't know.” Ren said and equipped his fine blue suit.
+
+Artemis equipped her finest dress and cast Full Illusion on herself to give herself normal skin, then she and Ren walked over to the people in line.
+
+“Excuse me.” Ren said to the people waiting, and several of the couples stopped their conversations to look at him. “My apologies for bothering you; but, would any of you know if you need to wait in line to book a table for lunch?”
+
+“You're not going to eat right now?” A woman asked.
+
+“No, ma'am.” Ren said and grinned. “I would have come here much earlier if I was going to eat breakfast. This place is far too busy otherwise.”
+
+She nodded and looked at the couples around her. “Would anyone mind letting him go in next?”
+
+“As long as he doesn't jump the line and stay to eat.” A man who was a few couples back said. “We've been waiting almost 10 minutes already.”
+
+“No other objections?” The woman asked, then looked at Ren. “It appears you can go right in.”
+
+Ren held a hand out to her and glanced slightly at the man with her. “May I?”
+
+The woman looked at the man with her for a moment, who shrugged, and she took Ren's offered hand. He brought it up to his lips and placed a very quick and light kiss on the back of it.
+
+“Thank you, ma'am.” Ren said, and her face flushed slightly red. “I'll be but a moment.”
+
+The woman nodded and he let her hand go, then he and Artemis walked into the restaurant.
+
+“You need to wait outside for-” The woman who sat people, the hostess, saw who it was and stopped talking.
+
+“I'm not here to eat right now. I only want to book a table or two for lunch.” Ren said.
+
+“O-of c-course.” The hostess said, a little flustered, and asked the next question automatically. “N-name?”
+
+“Smith.” Ren said with a crooked grin.
+
+She looked at him with wide eyes and held in her laugh at the obvious and terrible lie. “Um, sir...”
+
+Artemis chuckled. “How can you be so terrible at lying?” She asked Ren and then smiled at the hostess. “The name is Ren. He's the Hero of Aurora, the Tainted King, a Chosen of Vasalor, blah blah blah.” She laughed. “Pick one to write down.”
+
+The hostess just stared at her with a slightly open mouth. Ren chuckled and took pity on her.
+
+“Please, it's just Ren. I'd like to book two tables for noon and for an hour.” Ren said and took out a platinum coin to give to her.
+
+“S-sir, you don't have to pay upfront.” The hostess said and tried to give it back.
+
+“I know. This is for the meals of the 20 couples waiting in line that let me come in ahead of them.”
+
+“But... but...”
+
+“You can split the rest between everyone working today.” Ren said and turned around. “See you at noon!”
+
+“Y-yes, s-sir! Thank you, sir!” The hostess said.
+
+Ren stepped back outside with Artemis still on his arm and looked at everyone. “Thank you all for letting me go in. Please enjoy your meals.”
+
+Several of them nodded and the woman he had talked to gave him a little wave. He nodded slightly to her, then he led Artemis down the street and out of their sight.
+
+*
+
+“So, he's the Hero of Aurora.” A man said.
+
+“Yes, didn't you see that fight yesterday?” The woman with him said.
+
+“Everyone saw the fight yesterday.” Someone else said and pointed up at the screens that were spaced along the streets at regular intervals. They showed the amusement park for several moments, then switched to the water park. “He made sure of that.”
+
+“Did he set those up?” The woman Ren had talked to asked.
+
+“He was just here, you should have asked him.” The man she was with said.
+
+“I didn't think of it.” She responded. “Perhaps we will see him again and maybe I'll ask then.”
+
+They stood there and waited for another 5 minutes, then nearly half of the restaurant's current customers finished eating at the same time and left.
+
+“I think we're all getting in this time.” A man near the back of the line said, then he was proven right as they were all brought in and seated. Instead of the hostess seating them one couple at a time like she normally did, she directed them to the waitresses who took them to their tables.
+
+“This is different.” The woman Ren had talked to commented as the man she was with held her chair for her.
+
+“We always try to speed things up for a priority client.” The waitress said happily. “He's so generous!”
+
+“Who is?” The woman asked the waitress.
+
+“The Hero of Aurora, of course.” The waitress said. “He just paid for the meals of everyone in line!”
+
+“He WHAT?” The man exclaimed, then heard similar exclamations come from around the restaurant.
+
+“He said that he wanted to thank you for not making him wait in line just to book a table.” The waitress said. “So, go ahead and order any meal that you want. I'll leave you alone for a few minutes so you can decide.”
+
+The man and woman sat there with the menus in their hands and looked at each other after the waitress left. Their meals alone would have been 3 gold, assuming they ordered the full specials, and there had been 20 couples in line.
+
+“I wonder if he enjoys throwing his money away?” The man asked, and the woman gasped.
+
+“He paid for our breakfast to thank us.” She said. “He didn't throw his money away.”
+
+“He just spent 60 gold to feed a bunch of strangers.” The man countered. “You don't think that's a little wasteful?”
+
+The waitress brought over glasses of water and a basket of bread for them. “He actually spent a platinum coin.” She said, which showed that she had clearly heard them. She gave them a huge smile because of their surprised expressions and she went to the next table and told them about their free meal as well.
+
+*
+
+Ren and Artemis started to walk in a circuitous route around the inside of the city wall, just like Ren used to do when he had lots of free time. They passed both East Gates that led to the harbour, then the South Gate, and then they reached the West Gate and he stopped.
+
+“Just a second.” Ren said and diverted their walk to go out through the gate and turned to look at the starter field for newbies to gain XP. He smiled and walked over to Dana and Gretchen who were collapsed on the grass. “Hi, there.”
+
+“You just missed a grand chase!” Teela said from Dana's shoulder.
+
+“Who won?” Teepo asked.
+
+Both Dana and Gretchen lifted their hands.
+
+“That's quite decisive.” Ren said, and they laughed.
+
+“Rather than debate the merits of several evasive dodges being worth more than one successful tackle, I'll take the tie.” Dana said and sat up. “You look all fancy today.”
+
+“I made an appointment for lunch at Nathalia's Nourishment and didn't change back.” Ren said. “You're welcome to join me if you want.”
+
+“That depends on if we can get a few of the daily quests done before lunch.” Gretchen said and sat up, too.
+
+“Daily quests?” Ren asked, and Dana and Gretchen exchanged looks.
+
+“You don't know about the quests that reset every day?” Dana asked.
+
+“Quests can do that?” Ren asked. “I thought once you completed one, that was it.”
+
+“Usually, that's true.” Dana said. “However, there are some really easy quests that you can do every day.”
+
+“Like round up the chickens and gather the eggs in the coop down near the Market District.” Gretchen said. “They let them out every morning so the quest can be repeated.”
+
+“It's not a lot of money if your at a high level; but, for normal players, it's like a repeating gold mine.” Dana said.
+
+“Wow.” Ren said. “I wonder when they started doing that?”
+
+“Who knows.” Gretchen said. “It's a little weird that you don't know about them, though.”
+
+“Not really. Like I said in my speech before the fight, I didn't really go out adventuring.” Ren chuckled. “In fact, for the first 8 months or so that I played, I never left the Artesian District except to gather herbs for the old man alchemist.”
+
+“You're kidding!” Dana exclaimed. “Why in the world didn't you go anywhere else?”
+
+“I was only level 1.” Ren said.
+
+Dana and Gretchen stared at him and he felt their shock.
+
+“What?” Ren asked.
+
+“So... it... the show... it's true?” Dana asked.
+
+“They cut out a lot of the long and tedious parts.” Ren said. “When I gained a level in the fifth episode, that really was my first one.”
+
+“Oh, wow.” Gretchen said. “I thought... I thought it was all scripted.” She said. “I thought it was all made up so that it would be entertaining!”
+
+Ren laughed. “Nope, it's entertaining all on it's own.” He said. “I think that's why the network liked it so much. It's just editing and no real production overhead costs to create it.”
+
+“So... in the last episode...” Dana stopped talking and looked away from him.
+
+“Yeah, it really happened.” Ren said. “Getting tripped, punted like a football by an ogre, and the bridge collapsing.”
+
+“Oh, wow.” Gretchen said and looked away for a second, then looked back at him. “Did you die?”
+
+“Gretchen!” Dana turned towards her and smacked her arm. “No spoilers!”
+
+“Why not? He's right here.” Gretchen laughed. “It's not like he doesn't know what happened to him.”
+
+“It's me that doesn't want to know!” Dana exclaimed, then her face turned red. “I mean, I want to know... but, I... I want to watch it and see what happens.”
+
+“It's okay, Dana.” Ren said and knelt to put a hand on her shoulder and pat it. “I won't spoil it for either of you.”
+
+Dana took a breath and let it out, then she relaxed. “All right. Thank you.”
+
+“It's time for the chicken run!” Teela said.
+
+“That's our cue.” Dana said and moved to stand up, and Ren held a hand out to her and Gretchen. They both took the offered hands and Ren pulled them up into a standing position.
+
+“It was nice meeting you again.” Ren said. “I'll see you later.”
+
+“Bye.” Dana and Gretchen said together, chuckled for a moment because of that, then started to walk away. Gretchen grabbed Dana's arm and stopped walking as she turned around to look at Ren.
+
+“If you're not doing anything right now, why don't you come with us?” Gretchen asked.
+
+“Yeah! That's a great idea!” Teela said. “Teela and Teepo on their first mission together! Woo-hooo!”
+
+Her enthusiasm made everyone laugh, then Ren and Artemis stepped over to them.
+
+“I'd be happy to tag along.” Ren said, then 4 people and 2 beetles entered the city, all of them quite a bit happier than they had been barely moments before.

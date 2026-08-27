@@ -1,0 +1,209 @@
+---
+id: 6c121cc9-92ce-539b-a5ab-269737a13107
+page-type-slug: story-chapter-royal-road
+title: "Chapter 623 - Start Of The Plan"
+slug: 0623-chapter-623-start-of-the-plan
+partOf: mythrans-master-of-all-continued-completed
+position: 623
+ownLength: 2861
+unit: words
+publishedAt: 2018-06-29
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/228901/chapter-623-start-of-the-plan"
+royalRoadId: "228901"
+---
+
+Ren left the restaurant in a better mood, and no one in the restaurant or in line commented as he passed them going in the other direction. He had ignored their emotions on the way in and he ignored them again. He wasn't surprised that he didn't lose the Angered condition, though. What he told Teepo was the truth. He didn't hate him, only what he did; but, it wasn't for the obvious reason.
+
+Ren hated that he didn't take into account that his friends might try to stop him from doing something, and that he didn't tell them what he was going to do... which precipitated their misunderstanding and caused them to turn on him at a crucial moment. He sighed because he felt their resentment over what he had said to them, that they didn't deserve his forgiveness, so he walked back to the Housing District in silence.
+
+Ren entered the house with Artemis right behind him and went up the stairs into the large bedroom. The succubi had felt him down the street and saved their hisses for when he entered the room.
+
+“Hsssss!” Seldanna said and sprung to her feet. “You turned on him?!?”
+
+“It wasn't like that.” Artemis said, but you could hear the defeat in her voice and felt it in her emotions. She sat down on the floor beside the bed and pulled her knees up to her chest to rest her forehead on her arms. It was the same pose that Suniva had on Ren's shoulder. Suniva stood up and walked over to Artemis and sat on her shoulder, then resumed the same pose. Teepo flew off of Ren's shoulder and landed on the ceiling to take up his normal guard position.
+
+“It's okay, Seldanna.” Ren said. “They overreacted to a situation at Issac's, then I overreacted to that overreaction.”
+
+“I don't care!” Seldanna said. “You don't turn on your friends and hurt them!”
+
+“That's something special coming from you.” Artemis said without lifting her head. “One of the great deceivers.”
+
+“Shut up!” Seldanna almost yelled.
+
+“You don't think we can feel you trying to manipulate Ren? Trying to influence him and coerce him?”
+
+“You dare...” Seldanna gritted her teeth and struggled to stop herself from attacking.
+
+“That's enough.” Ren said. “Hopefully, things will change in a month. Maybe by then I'll get over what happened.”
+
+“We will always remember.” Seldanna said. “We made a mistake once and didn't listen to Ren, and it cost us dearly.” She said. “He pushed us away and wouldn't even allow us to be close to him. It took a long time for him to get over that and to touch us again.”
+
+The room was quiet, but you could feel her deep regret over the incident.
+
+“After that, we only ever did what he wanted, and we escaped our own personal hell and gained our freedom.” Seldanna said. “He gave us a home and a life to live...”
+
+“With some restrictions.” Ren said, and she smiled.
+
+“Only because you cared about us and didn't want us to get hurt or be hunted down.” Seldanna said. “Now most of us have found people to be with. Not under contract or as a slave to do their bidding, but as friends and lovers. As equals.” She smiled. “You will never know what that's like! To be given so much and have nothing asked in return!”
+
+Suniva lifted her head and looked at the succubus. “I do.”
+
+“Perhaps, pixie.” Seldanna said. “We are both trying to use our abilities to thank Ren for everything he has done for us.” She said. “I, on the other hand, am only concerned with pleasing him.”
+
+“Would you have let him touch the darkness, Seldanna?” Suniva asked. “Would you let him be changed in that way? Let him be...” Suniva shook her head. “Never mind.”
+
+“So, you now realize that your argument is pointless.” Seldanna said and smiled to bare her teeth. “He has already been touched by darkness, and it hasn't changed who he is.” She said. “He has faced it and won in the past. What makes you think he can't do it again?”
+
+Suniva closed her eyes and put her head back down on her arms without answering.
+
+“I should pound you all into the ground for hurting him!” Seldanna said angrily, then felt a hand on her arm.
+
+“Easy, girl. You've made your point.” Ellaria said. “Calm down.”
+
+“But...”
+
+“Fighting among ourselves is not a good idea.” Katori said. “When in battle, we need to be a cohesive fighting force. Interpersonal arguments won't help that.”
+
+Seldanna took a breath in through her nose and let it out through her mouth. “All right.”
+
+Ren felt her bind her anger up and push it aside, and she calmed down. “That was very well done.” He said and walked over to her. “I'm impressed.”
+
+“I've had help.” Seldanna said and looked at the other succubi, and they nodded.
+
+“Excellent.” Ren said. “I'm really glad that you've come so far in so short a time.” He lost the Angered condition and gave them a huge smile and held his arms open. “Group hug?”
+
+Seldanna dropped to her knees and hugged his thighs, and her head was near his special place. The other three succubi crowded around and squeezed in tightly to hug Ren, which pushed Seldanna's face right into his crotch. She rubbed her cheek on him, and his body reacted. She sighed and rested her face against the bulge and didn't do anything else. Ren admired her restraint and felt how happy she was that she had gotten a reaction from him.
+
+Ren let the succubi out of the group hug and looked down at Seldanna, and she looked up at him. “You just made me realize something.” He said.
+
+“That you want me to keep going?” Seldanna asked, and he chuckled.
+
+“No, I think I'm missing something.” Ren said and helped her stand.
+
+“What is it?” Seldanna asked. “I will help you find it, whatever it is.”
+
+“I'm not missing it from you.” Ren said and turned to look at Artemis. “Artemis.”
+
+Artemis lifted her head and looked at him. “Yes, Ren?”
+
+“What am I thinking right now?” Ren asked. I hope this works. I hope this works. I hope this works. He thought repeatedly, and then he felt shock from Artemis.
+
+“Oh, god! Ren! There's nothing!” Artemis exclaimed. “I normally block out your thoughts, but... but now that I'm trying, I... there's nothing.” She shook her head in disbelief. “No... how can I...”
+
+Ren looked up at the ceiling and could feel Teepo concentrating on him. “Teepo? What about you?”
+
+“N-nothing.” Teepo said, and his sadness poured out. “I can't hear your thoughts at all.”
+
+Ren sighed and sat down on the bed. “Then that means the temporary fix that was put in place has cut me off from everything except your emotions.”
+
+“Ren, can you do something about it?” Artemis asked.
+
+Ren looked at her and didn't know what to say. If he logged out and complained again that they were messing with the people he cared about, it might delay the programmers from fixing it all. Then again, if he didn't say anything, those same people might make those he cared about stay permanently disconnected. He hoped that it was only to stop them from accessing his Sea Dweller status until the update is repaired, and not how things were going to stay.
+
+“I'm in a bind, because you might be like this to stop you from reacting to my Sea Dweller title, and that won't be fixed for a month; but, if I don't say anything, you might be like this permanently because they might forget to change it back.”
+
+Artemis sighed as well. “I think you should at least mention it.”
+
+“I'll mention it to the Sage of Ages and see what she says.” Ren said. “If anyone will know if you might be stuck like this, it will be her.” He said and took out the large book of inventory Issac gave him.
+
+“What are you doing?” Seldanna asked.
+
+“Looking through the inventory of Issac's... my shop.” Ren said and flipped through the first few pages to the list of amulets.
+
+“But you can't go into the back room.” Teepo said. “What good is an inventory?”
+
+“Unlike most business owners, an enchanter doesn't really have an inventory to keep.” Ren said. “We can make things on the fly or take existing things and enchant them with what we want.”
+
+“Then having a list of inventory is even more useless.” One of the succubi said.
+
+“You're missing the point.” Ren said and saw the one he wanted. “It's not a list of things that are there, it's a list of recipes for enchanters to make them.”
+
+They were all surprised by this, and Ren looked at the recipe for the Amulet of Untruth. It contained a glyph that he didn't recognize, and rather than use his skills to try and read it, he took out Issac's Book Of Runes and flipped to the back where the glyphs were. He quickly found the same glyph that was in the recipe and concentrated on it.
+
+Now that Ren knew the final component for the Amulet of Untruth, the recipe was added to his recipe list and he activated his Craft Wondrous Item ability. He put a blank amulet on the golden platform that appeared, chose the amulet recipe, and created it. He took out the small chest that he had bought and dropped the enchantment that he had in his Retain Essence ability on it, then used it on the Amulet of Untruth and absorbed it's enchantment.
+
+Ren stored the blank amulet and activated his Craft Wondrous Item ability again, then made a Non-Necklace of Wisdom. He used his Double Infusion ability to add the Amulet of Untruth enchantment to it and stored it into inventory.
+
+I knew Issac would have had a recipe for it. Ren thought loudly and looked up at Teepo. He didn't see or feel a reaction from him, and sighed mentally. I'm going to have to mention it to Elise as well.
+
+No sooner had Ren thought that when he received a message popup. He opened it and saw that Lara was waiting for him at the Library.
+
+“Okay, time for me to go.” Ren said. “Teepo, let's go.”
+
+Teepo dropped from the ceiling and landed on his shoulder.
+
+“Artemis.” Ren said, and she nodded as she stood up. “Suniva, you need to stay here.”
+
+“Yes, Ren.” Suniva said and hopped off of Artemis' shoulder and walked over to the bed and sat on the headrest. “I'll wait right here for you.”
+
+“I could have Princess take you home.” Ren said, and she shook her head.
+
+“No, you were right.” Suniva said. “I won't try to run and hide from what happened.”
+
+Ren nodded and looked at the succubi. “I'll be back in a little while.”
+
+“Do you want an escort?” Seldanna asked.
+
+“It's only from here to the-” Ren started to say, then stopped. “Actually, it's no distance at all.” He took out the All-Seeing Mirror and checked the back room of the Library, then cast the Portal spell. Teepo dissolved into the ring without being asked and Ren took Artemis' hand. He gave a little wave to the succubi and stepped through the portal.
+
+“That was fast.” Lara, the Sage of Ages said as Ren appeared in front of the desk. “I expected you to come in through the door.”
+
+Ren smiled and dismissed the portal. “Are you ready?”
+
+“I'm always ready to see you.” Lara said and stood up.
+
+“That's not what I meant.” Ren checked the All-Seeing Mirror and cast another portal.
+
+“Where are we going?”
+
+“To pick up the supplies that I need.” Ren said. “After you.”
+
+Lara nodded and stepped through the portal and appeared inside the warehouse by the private dock where his ship was. Ren and Artemis stepped through, and he let her hand go and dismissed the portal. They stood in front several tall stacks of stone bricks, paving stones, and piles of bags of cement powder. Ren stored a good portion of each of them and checked the All-Seeing Mirror again, then cast another portal.
+
+“What's with all the hopping around?” Lara asked.
+
+“You'll see.” Ren said and motioned to the portal, then took Artemis by the hand again. Lara looked at that, then at Ren's face.
+
+“You haven't touched me yet.” Lara said, and Ren grinned.
+
+“I didn't want to ruin the surprise.”
+
+Lara gave him an odd look, then stepped through the portal, and appeared in the middle of the Town Square in Aurora. She was tempted to ask him what was going on, then thought about touching him to find out for herself. She shook her head mentally and stopped that thought before it fully formed. She wasn't going to do anything without asking first.
+
+Ren could feel her struggling with wanting to know and stopping herself from finding out, and he gave her a big smile to let her know that he realized what she was going through. She smiled back, and he stored the All-Seeing Mirror and let Artemis' hand go. There were people walking around, but none of them were walking through the very middle where he, Lara, and Artemis stood.
+
+Ren summoned Teepo, who flew up to land on Ren's shoulder, and Ren took out the supplies he needed. He checked the recipe for what he was building and confirmed the ingredients, then put down a row of 6 of the 2 foot by 2 foot paving stones, then another row in front of that. He took out the cart he had modified as a cement mixer and made up some cement with the bags of powder and added Water by using his Hands of the Gods ability.
+
+Ren used the stone bricks next and used the cement like mortar between the layers, and started to make a column on one end of the paving stones that was 2 feet wide and 2 foot deep. He moved quickly, since his speed and crafting abilities were boosted almost beyond anything anyone else had ever seen, and he built a 12 foot tall column. When he was done, he used his Hands of the Gods ability to create Fire and then used his Fire Manipulation ability to spread the fire and heat over the whole surface and dried the cement to make the column solid.
+
+By this time, several townspeople that had been walking by had noticed him working and were curious about what he was doing, so they came over to watch. Ren cast Permanent Enlarge or Reduce Anything on the column and made it half the size, so that it was only 1 foot by 1 foot by 6 feet tall. He gained the recipe for it and activated his Craft Wondrous Item ability and added the bricks, cement, and a bit of gold to make another one, then did it again.
+
+With three of them completed, Ren enlarged them to double their size and placed one on each end of the paving stones and put the last across the top, after adding some cement to hold it in place. He then covered the entire outside with cement to give it a nice smooth finish, then used his abilities again to dry it. Now that it was done, he stepped back and looked at it.
+
+“What do you think?” Ren asked of no one in particular.
+
+“It's kind of ugly for an archway.” One of the townspeople said, and Ren chuckled.
+
+“I was going for functionality and not looks.” Ren said. “Give me a minute.”
+
+“It's your art. You can do what you want with it.”
+
+Ren chuckled again and made a quick mold for a blank half-circle, filled it with cement and dried it, then popped it out and used more cement to mount it on top of the square archway.
+
+“Well, that's a little better.” The same voice said.
+
+“It's not finished yet.” Ren said and touched the side of it. He brought up the recipe for what he wanted and dumped 10,000 Mana into it. The entire thing glowed for 30 seconds, then the glow faded as a map of the country appeared on the half-circle.
+
+“Hey, it's us!” Someone said and pointed, and they all looked up to see a dot and the name Aurora was on it.
+
+“Seems like a lot of work to just show us where we are.” Someone scoffed, and Ren laughed. “What's so funny?”
+
+Ren reached a hand out to Lara, and she took it without hesitation. Her eyes glazed over for a second and then she gasped.
+
+“It... it's going to show the same thing... no matter where it is.” Lara said and looked at Ren.
+
+“What are you saying?” Someone asked.
+
+“It's a Portal Gate.” Lara said. “When all the others are built today, you can go anywhere they are.”
+
+No one spoke in response to that statement, and Ren grinned at their stunned silence.

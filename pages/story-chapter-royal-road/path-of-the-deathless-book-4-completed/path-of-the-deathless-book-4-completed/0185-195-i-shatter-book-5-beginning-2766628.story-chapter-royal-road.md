@@ -1,0 +1,147 @@
+---
+id: 8c7d92d2-de6d-570f-be1f-6f87b8c38a86
+page-type-slug: story-chapter-royal-road
+title: "195 (I) Shatter [Book 5 Beginning]"
+slug: 0185-195-i-shatter-book-5-beginning-2766628
+partOf: path-of-the-deathless-book-4-completed
+position: 185
+ownLength: 3109
+unit: words
+publishedAt: 2025-11-16
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2766628/195-i-shatter-book-5-beginning"
+royalRoadId: "2766628"
+---
+
+I don't understand why so many people curse the System. If you have any knowledge of history at all, you would have noticed that the world, and all of existence for that matter, was cruel and indifferent long before the System's arrival. Yes, it demands that we strive, fight, and shed our blood ceaselessly, but at least it cares for us. At least it has its eye upon us, and at least it favors those of us who are willing to be daring.
+
+That is why it gives us such wonderful presents. Tell me, have you ever known the light of closing a gate, Hero-Ranger? You should. If you survive this interrogation at my hand, you should find a gate and end its life. Quell the mana core sustaining it, and see what the System bestows upon you.
+
+You see this instrument at my hip? This is Sorrowfang. This is the reason why you surrendered to me, why you and your men were all taken, peacefully overcome by a depressive malaise. Sorrowfang is infused with the highest sadness. It is not a blade that strikes the flesh, but one that carves betrayal into the heart.
+
+Indeed. I had to crush a wonderful little community to gain this blade. For within the Chernobyl Exclusion Gate was a small oasis, a place of calm resting at the eye of chaos and calamity. And the tears that were shed upon the day of my arrival were things worthy of legend.
+
+I could tell you how their delightful pine trees were decorated with such blinking lights. I could tell you about the soft snow falling constantly within the gate. I can tell you about the children that were spared and the slaves that made them. But above all, I can tell you how the gate felt when I crushed it. It had weakened, you see, and it didn't want to die. But I could take its life, and so I did, and the System allowed it.
+
+You see, when you collapse a High-Tier core, its magic is released back into the world that spawned its existence. But a sliver—a significant sliver—is given unto you, for the System remembers your deeds. And it understands what you've taken from the core, and from the narrative of its destruction comes a gift. A gift that is sweet and proper, a gift filled with poignance and meaning, because it was a gift you forged narratively with your own hands.
+
+So, experience my gift once more, little Ranger, and feel the sadness. Feel it, and, once you survive, if you survive, seek a core of your own. It's really an experience you won't forget. Just like this is one that will scar you eternally.
+
+-The Culturist, Legendary Orc War Maestro, to Hero-Ranger Arathan
+
+195 (I)
+
+Shatter
+
+As Adam's sun shattered, the entire chamber was swallowed by an azure sky. It was sky on a perfect summer day, the purest blue, an endless ocean that spilled into Shiv's very soul like a smooth liquor. His insides came afire, but rather than burning, he was strengthened. Something was melting into him, being forged upon the foundations of his soul. He felt harder within than ever before, and heavier too.
+
+As the faintest blue began to fade, he saw a shadow there, hovering just above the mana core. Drifting atop the fissures was Adam. His vector wings flared wide, Can Hu’s broken shell still clasping him. But as the Penitent drank in Adam's new power as well, it was slowly coming back together, bits of machinery regenerating at a speed visible to the naked eye. Yet the most striking thing of all was the broken sun hovering above Adam's head. Bit by bit, the exterior of the Righteous Dawn cracked away, dissolving like the shell of a rotten egg.
+
+But within wasn't nothingness.
+
+Within was a pure white ring serving as a gateway to a realm of endless blue.
+
+From that realm, the world was painted. And from that realm, Shiv caught sight of something sublime. It was hard to describe what he saw visually, but he knew, deep in his bones, by intuition alone, he was peering into Adam's very soul. At once, the sky blue that painted the chamber collapsed back inward, imploding within that ring before it was launched out in a lancing beam directly into Shiv's body.
+
+The Deathless felt his power surge to new heights, but his power didn't grow alone. Where the Righteous Dawn Ascends increased his skills and made his soul regenerate, now a new notification appeared in his eyes, and it was followed by so many others.
+
+Skill Gained: Veilpiercer
+
+Skill Replaced: Veilpiercer > Vectors of the Eternal Ascent
+
+Skill Replaced: Vectors of the Eternal Ascent > Phoenix Riposte
+
+Shiv was speechless. These were Adam's skills, and they were connecting themselves to his body.
+
+The Deathless took a step back, and Rebis, trying to break free, tore himself loose from Shiv's grip. Yet the blows he had inflicted upon the mutilated prisoner had delivered their brutal toll. Enoch cried for his Avatar to fight, but part of Rebis's head was caved in underneath that armor. Rebis managed a step, vanishing in a burst of acceleration. But that was all he managed. A few meters away, he collapsed once more, equilibrium lost, body broken.
+
+The mutilated prisoner failed to rise once more.
+
+Shiv didn't know where Five or the others were, but he didn't have time. Another flare of pain came from within his stomach, and he looked down, gritting his teeth as he saw how tightly the bolt of black lightning was hooked within his gut. He wrapped his hands around the cutting electricity. His Shapeless Tides crashed against the god's might, and Halsur let out a thunderous roar.
+
+Another three bolts struck Shiv. At the same time, Adam began firing arrow after arrow, his hydrokinetic limbs loosing massive Veilpiercers, Can Hu firing in tandem, using the cannons it had left to pelt the adversary with alloyed pellets. Shiv couldn't see what Stormhalt was doing, but he could hear the impacts. The air crackled as black lightning parried dimensional arrows and hyper-accelerated projectiles.
+
+But just as Stormhalt's electricity struck Shiv, the Deathless's orichalcum resisted the damage. The tips of the bolts burrowed through his skin but strained against the resistance a centimeter in. A few slight holes opened along Shiv's back, but as soon as they did, his body burst into flame, and for the first time, Shiv experienced what it was to have Adam's Skill Evolution. He was a phoenix in flight, flames screaming forth from his body, and there was a pressure inside of him that he needed to bestow upon someone else.
+
+Pillar of Orichalcum 238 > 239
+
+He turned. Stormhalt's lightning was no longer harpooned through his midsection. He slammed body-first into the City Lord and found himself bouncing off from a cocoon of dark voltage. Stormhalt's body was entirely wrapped in bands of rippling lightning. Shiv's blow inflicted no harm on the man himself, but even so, some of the pressure was alleviated.
+
+Shiv twisted, switching angles as he slammed into Stormhalt twice more. The City Lord tried to strike him down while he was still a phoenix, but Shiv reverted time. His injuries faded altogether, and he blinked back six seconds ago. Just then, he saw Stormhalt ripping through the place where he'd just stood, his lightning unleashing a thunderclap in the air. It struck nothing but fading embers.
+
+Another Veilpiercer slammed the side of Stormhalt's head, but a massive explosion of lightning erupted from his body, expanding in a forest of impending doom.
+
+Skill Replaced: Phoenix Riposte > Commander’s Foresight
+
+Just then, Shiv felt another skill activate within his soul, a skill he'd experienced before alongside Adam. The change happened as Adam blasted Shiv with radiance again and triggered the moment the Deathless yearned to have a second to think. Everything halted, and an intense heat began to simmer within the core of Shiv's skull.
+
+Commander's Foresight had nothing to do with Chronomancy. It was simply a matter of hyper-accelerating one's cognition. Shiv could feel that, especially thanks to his Biomancy. His brain activity was moving at a pace outright deleterious to an ordinary Pathbearer, let alone a Pathless. If either he or Adam still had their prior Tier of Toughness, both of them likely would have suffered a series of violent aneurysms and promptly died. Less trouble for Shiv, a much greater risk for Adam.
+
+The Gate Lord was lucky that he'd managed to evolve his Toughness first.
+
+As time remained still, Shiv looked on at Stormhalt, studied how many bolts of lightning were spreading out from him, and knew that no one was touching the mana core until the City Lord was dealt with. But handling Stormhalt was proving to be a harder matter than Rebis, especially since he didn't have a massive psychological wound to exploit.
+
+But maybe he did. Stormhalt was fragile when it came to Roland. His insecurity was naked and evident. And with Shiv's new Skill Fusion, he might just be able to render Stormhalt brittle within that cocoon as well. But that required an opening, a period of time for him to lob insults at Stormhalt. And right now, in the thick of the chaos, nothing Shiv said would likely be heard anyway.
+
+I need another angle, the Deathless thought to himself. There were things he could do to Stormhalt. The first among which was to move the man. He was near-indestructible when wreathed by the Endbreaker's lightning, but he wasn't immovable. The Tarrasque had swatted him around, and Shiv managed to fling him through the bridge earlier. Stormhalt himself wasn't very strong at all, merely a Master-Tier in Physicality, and he could be surprised.
+
+Alright, so I can go Non-Sequitur and ambush him that way, Shiv thought. And then he winced, his scheming briefly interrupted by a massive flare of pain crawling through his skull. He couldn't sustain this for very long without someone else sharing part of the burden. For the umpteenth time, he found himself missing Uva.
+
+Frankly, she could have made this prison breakout so much easier, but I also really wouldn't have wanted her to be here. I doubt the Outside's any better, but the Starhawk, Valor, Roland, they're all with her. She's also calculating enough to not do anything stupid, and I think she has better odds of staying safe in the Outside than in the Republic's basement. Wait. Outside…
+
+Shiv's mind spun, and a new plot began to unfold. They didn't need to beat Stormhalt; they just needed to eject him from this room. Shiv might be able to make a Veilpiercer if Adam bestowed the skill on him, even though the Deathless technically didn't know how that process worked. What he needed was for Adam to fire a shot leading out from this chamber, and then Shiv could drag Stormhalt across the dimensional pathway. All they needed was a moment of surprise.
+
+On the other side, Shiv could eject himself from the scene using Non-Sequitur. Adam could fire an arrow tipped with Necromancy to utterly obliterate whatever was on the other end. And that might just be able to delay Stormhalt long enough for them to finish breaking the core.
+
+Shiv tried to get a handle on where Adam was, but with all the unfolding chaos around him, he couldn't find the Gate Lord at all. If only there was a way for him to—
+
+And then he felt his perception detach from his body. For the first time, Shiv saw himself from a third-person perspective and flinched internally.
+
+His body was practically flayed apart in several places. He could see the red-gold gleam of bone shining beneath the bubbling dark red of flowing blood. His Voidmantid armor was spewing mucus-like ichor from several deep wounds. Shiv barely felt any of those injuries. He thought he hadn't been hurt at all ten seconds ago. It seemed that he was wrong. It also seemed that he was so used to pain by this point; anything less than an utterly agonizing injury went beneath his notice in the heat of battle.
+
+Yet, while he was staring down at himself, he saw something over his shoulder. There was a faint glow of Dimensionality spilling through between the gaps of Stormhalt's lightning. The City Lord was trying to engulf the entirety of the chamber, and when he did, there wouldn't be much room left to flee. Worse yet, Shiv didn't know if that Dimensionality was from one of Adam's arrows or if it was the chamber itself activating, preparing to teleport reinforcements in.
+
+There was no time. They needed to get out, and they needed to get out now. But even with a general plan, Shiv still needed to solve the dilemma of how he was going to get close enough to Stormhalt to lay a hand on him. The Deathless wasn't familiar enough with Adam's skills to—
+
+I'm an idiot, Shiv realized. He'd stolen a pair of boots and a new dagger from the wardens for a reason. His knife had a Pyromancy-Dimensionality Beamcast Enchantment that allowed him to teleport, and his Nightwalkers boots allowed him to sink down into the darkness, even to revert to the last patch of darkness he'd been in.
+
+With those final few pieces clicking into shape, Shiv deactivated Commander's Foresight.
+
+The room exploded into motion, and black lightning came to cleave Shiv in twain—Too late. He plunged down into his own shadow, felt his body immersed in a puddle of darkness, and he moved forward, swimming through patches of black as he got closer to Stormhalt.
+
+It was hard to see, hard to tell where everything was in the dark, but Shiv had a good guess based on how far away the City Lord was, and just how fast he could move. A second later, the Deathless exploded out from the black. He slammed shoulder-first into Stormhalt. The Shapeless Tides coiling around his body made the lightning unleashed by the City Lord bend over with a grunt, unprepared for the sudden blow.
+
+Shiv wasn't done.
+
+As whips of lightning curved back in on them, trying to slice through Shiv's protections, he brandished his knife and slashed upward. Deepest Edge flowed through Stormhalt, and this time, he shed blood.
+
+Shiv heard the parting of flesh from within the armored cocoon. Stormhalt gurgled. Shiv pointed his blade behind the man's head and channeled his beam portal. A stream of Pyromancy crashed against the coiling trunk of lightning. Shiv felt himself get ejected across just as the electricity gripping him in place collapsed. One of the strands slipped between his ribs and ground upon his bones. The sensation was disquieting. Shiv felt a series of tremors pass through his body, but then he was gone, materializing right behind Stormhalt again.
+
+Shiv battered the City Lord with his mana hydras, stunning the man briefly just as his Adam-bestowed skills changed once more.
+
+Skill Replaced: Commander’s Foresight > Veilpiercer
+
+And in that moment, he executed the rest of his plan. Shiv reached out for his Dimensionality and frowned as a Veilpiercer formed within his hands. His senses were going haywire; he was getting strange feelings from all around. It was like the world was pressing its weight on him, like space itself was a fabric he could pull on.
+
+Once more, Dimensionality made itself known to Shiv, but he realized that the same problems holding his Biomancy back applied to this lore of magic as well. It didn't matter that he had a Master-Tier Dimensionality skill; he didn't know how to use it.
+
+"Shit," he muttered. He activated Commander's Foresight again, and this time a deeper spike of pain immediately drilled through his head. Yeah, that's gonna get pretty distracting fast, Shiv thought to himself. He'd probably not waited enough for it to recover. He surveyed the scene again, but did a double-take as he realized there was a dimensional pathway opening to his left. A Veilpiercer was bursting out from the rift, and there was only one other person in the room who could do that.
+
+Oh, there you are.
+
+With Adam's general location known, the next part would be to meet up with him and have the Gate Lord deliver the shot. But until he arrived, Shiv needed to hold Stormhalt at bay for a little while longer.
+
+Oh, I'm gonna enjoy doing that.
+
+The Deathless launched himself forward. His tides roared with kinetic energy. He slammed into Stormhalt like a falling meteor greeting an unbreaking fortress. The room rumbled from the impact, but Shiv kept his blows controlled. The air didn’t catch fire; it didn’t ionize into plasma. Shiv channeled every bit of his strength directly into Stormhalt's body. And though the black lightning parried his blows and kept the man within from harm, Stormhalt was still launched back, and Shiv went with him.
+
+Leviathan of the Shapeless Tides 501 > 502
+
+The Deathless ignored the many veins of electricity tearing through his torso, mangling his organs, coiling around him. In about one second, he would be reverted across time. For now, he wanted Stormhalt out of position. And so he hooked a hand underneath Stormhalt's left armpit and spiked both of them down. They burst through another section of the bridge, and they fell like an arrow descending into a canyon of chaos. The panels lining the wall and floor beneath them were burning, the spell patterns flowing along their surface shredded and spewing magic into the air.
+
+The searing heat staining the divine mana was upon Shiv once more, but through bloodied teeth, he gave a rasping laugh. "You know, it didn't take Roland more than a second to kill me. And here you are, with the power of a god, and still pathetic."
+
+Shiv felt Stormhalt flinch. More than that, a portion of his chest glistened. His brittleness glowed so bright that it shone through the electric cocoon that shrouded him. He tore at Shiv from within, but before the Deathless could be wrenched apart, he launched himself back a full three seconds.
+
+He materialized right next to the Gate Lord and the Penitent. Can Hu was still sparking. Most of its lower body was little more than a skeletal framework; wires swayed and spat sparks from the many holes left in its torso. Adam didn't look so good either. There was blood seeping out from his hydrokinetic body, but he was there.
+
+They were alive, and they were going to bring this fight to an end.

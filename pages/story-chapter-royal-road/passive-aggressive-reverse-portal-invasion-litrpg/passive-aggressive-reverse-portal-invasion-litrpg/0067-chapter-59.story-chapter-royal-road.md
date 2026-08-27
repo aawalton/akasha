@@ -1,0 +1,157 @@
+---
+id: f00ad498-d692-5723-a40a-a4a432f60aaf
+page-type-slug: story-chapter-royal-road
+title: "Chapter 59"
+slug: 0067-chapter-59
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 67
+ownLength: 2801
+unit: words
+publishedAt: 2026-08-22
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3847253/chapter-59"
+royalRoadId: "3847253"
+---
+
+When the same Adrastian came to pick me up nearly an hour later, I was in a much better state, both mentally and physically. A long, warm soak and not wearing several layers of dust and monster remnants would do that for you.
+
+“There’s still people arriving to the gathering, sir. Don’t worry, you won’t be the last.” His demeanour had changed now, from his initial panic, to an absolute subservience.
+
+I didn’t doubt that the young male would jump whichever way I ordered him to. It was unnerving. Still. I’d use it to my advantage if I could. “What do you mean, I won’t be the last? I just said the Untouchables and people in a position of power. How many are going to be at the meeting?”
+
+He didn’t meet my eyes. “Yes, sir. I apologize. But… well. This is Last Chance.” The way he said that clearly was supposed to convey something I wasn’t getting.
+
+“What does that mean?” I asked, as I followed him in between buildings. In the distance, I could hear shouting.
+
+He turned, nearly jogging backward, panting. His long, slender fingers made an elaborate gesture I couldn’t quite decipher. “It means that we don’t have leaders. Most of us are here, because we think we’d be better off on our own, or because we don’t have a place we belong. Anybody in a position of power is what you said, sir. Well, in Last Chance, that’s any of us.”
+
+We arrived to shouting.
+
+I don’t know exactly what I was expecting. Some sort of… amphitheatre. An open-air arrangement with a speaking stone or some shit, where people could take turns talking. Instead, we had dirt.
+
+There was nothing to the spot. It was just a random location right outside the settlement, where more than a hundred people of different species were currently standing out in the open, shouting at the top of their lungs.
+
+I spotted Haddock’s large figure standing back at the edge of the loud group. Steve was just behind him. I couldn’t see Nix, but she was tiny. She could be anywhere. Haddock’s calm presence told me all was good. He met my gaze, and slowly nodded.
+
+A knot inside loosened up ever so slightly. That simple nod carried so much meaning. Nobody had been harmed. Everything was running according to plan. I wasn’t about to stand up and commit suicide by getting caught lying in front of a lot of powerful people. Well. I still might. But Cuilcis had been quite clear about Mages with mental talents being uncommon. It was less likely I’d get caught now.
+
+“There he is! Finally, we can hear what happened directly. You there. Li. Explain how and why you enraged the Kadren and brought them to our homes.”
+
+Stalwart. That snobby wanker!
+
+“Name’s Liam. Not Li. And the way I enraged the Kadren was simply by existing.” Thankfully, we’d agreed to all of this beforehand. No way in hell would I have been able to come up with convincing lies on the go.
+
+I walked into the midst of the gathering and frowned. “Yo. Haddock. Mind giving me, like a stand or something so everybody can see me?”
+
+Ten seconds later, a short set of stairs emerged before me, leading to a circular platform raised a few meters above the earth, replete with railing and all. I snorted and shook my head in amazement. His skill was so goddamn useful!
+
+I climbed the stairs and found myself looking down upon everybody present. I quickly spotted a bunch of familiar faces. Stalwart was there. So was Cuilcis, Kimzi, Lure, Stalwart and his crew, Denetar, the elementalist untouchable, surrounded by a flock of robed Crafters and Mages who had to be his underlings… yeah. It looked like everybody who was anybody was here.
+
+“I was out running.” I said, voice pitched to reach everybody. “My people and I had been taking on monsters to the east and south, for material and leveling, and done pretty well for ourselves. The others wanted to get back to Last Chance, but my Running was at 22, and I’ve unlocked the higher rarity. So, I let them leave and went out running to reach my first skill evolution.” I shrugged. “They found me first. The Kadren were about an hour away, in that direction.” I pointed south-east. “The moment they spotted me, they charged. It was only because of my Rare Running ability that I managed to outpace them in the first place. And then, I stayed just ahead of the bastards until I made it back here and the guards helped me take them down.”
+
+“So, you lead them here and are responsible for the survivors going back to the Kadren to tell them where we all live?” Stalwart again.
+
+I would so boycott the wank stain, if it wasn’t because he made such good defensive gear! “Yes, Stalwart.” I sneered. “That is exactly what would have happened. If any of them had survived.”
+
+“But… there were fifty of them?” Somebody in the crowd shouted.
+
+My new Adrastian bestie came to my aid. “He’s right. We took down every single one of them. I leveled. Twice!”
+
+That set off a round of murmurs, and a good deal of uncertain glances. Good. Now, any doubters would know that we weren’t pushovers.
+
+“But the Kadren are excellent trackers. Everybody knows that.” Kimzi’s voice sounded panicked. I’d hand it to her. She was an excellent actor. That, or Cuilcis hadn’t filled her in. Yeah. Definitely that last one. “Soon, they’ll know that pack has been killed off, and they’ll be back for blood.”
+
+That riled them up well and truly. People started shouting all at once. All was chaos.
+
+I kept my mouth shut. We couldn’t be the ones to come with the idea at first. If we did, people would start putting two and two together, and maybe realize that the Kadren hadn’t stumbled this way by accident.
+
+“Shut it!” A deep, tall voice bellowed, cutting through the inferno of voices speaking all it once. It was a Tavungor, but one who looked rougher than any one of them I’d met before. His worn, scuffed iron armor covering nearly every part of his weird forward-leaning shape looked like it had seen hundreds of battles. What little skin was visible below the open hinged-up visor of his helmet showed a sour demeanour and uglier scars than Danny Trejo. My Identify was coming up empty. Either his Secrets of the Self skill was high, or he was really high-level.  “We must know more about this pack. You. Liam. What levels were they?”
+
+“Three to eleven. Almost all of them were ten and lower, though.”
+
+“You sure? You have Identify?” He shot. His words sounded weird, disjointed, like he was unused to stringing a lot of words together.
+
+“Yup. Hit twenty-five with it just before the battle.”
+
+He grunted. “Forward pack, then. Typical Kadren. No Riverkin?”
+
+“A handful. They attacked before the others, and I managed to kill them before running off. I’d never have been able to outpace those.” I’d dropped their dead bodies in the dust an hour away, to add credence to my tale.
+
+His eyes tightened, like he reassessed me. He didn’t share his feelings, though. “Normal Kadren behavior, that. No Soil Scourers in scout packs, since they can’t keep up. One pack dying will mean more coming. Higher levels. They are attracted to challenge. Last Chance will die.”
+
+Denetar spoke up for the first time. “Jaggor. You are way too dramatic. The Torn Divide has plenty of challenges. There is no telling whether the Kadren will turn their forces on us or not.”
+
+“Scorn. Yes, there is.” Cuilcis finally spoke up. He stood flanked by his bodyguards. “The Kadren are known to fixate on tough challenges and throw everything they have at it, until they either break or improve themselves. With an entire pack dead, they will send more, if nothing else, to know what they are up against. And they will likely find us to be tasty morsels. Or, if we crush the next pack, they will know something worthy of their time is here, and they will send their evolved ones.”
+
+Again, the crowd erupted. This time, that Jaggor fellow did not stop them.
+
+Denetar and his crew of Crafters – after a while – managed to shush people enough for his voice to speak over the chatter. “This is ridiculous. We have already spent a good deal of energy and resources on Last Chance. Letting it fall would be folly.”
+
+“I would agree with you there, Denetar.” Stalwart said. “This place is ripe with low-level adversaries and bountiful with materials. Having to leave would be a major loss. Not much undisputed space remains in the Torn Divide with the Ceaseless and the Hiscariat making their bids. Yet… can we stand up to their forces? Who here has managed to scout the domain of the Kadren?”
+
+A few voices piped in. They were scouts who’d stumbled on some of the Kadren on their journeys. It quickly became evident that none of them had come anywhere close to the Ever Steady.
+
+Finally Cuilcis joined his voice to the mix. “There are more than a thousand lower-leveled Kadren camped out two to three days’ hard march from here. They are camped in a circle, with the lower levels at the edges. After those, at least three hundred between levels ten and fifteen. At the core of the circle, we have an unknown number of higher-leveled ones inside a defensive structure, with a tall, nigh-unassailable scout tower to warn them. Finally, there are at least two leaders, a Higher Glimmerscale and a Higher Riverkin respectively. One unknown, the other at Level 34.”
+
+“How in the depths do you know that?” Stalwart asked. He didn’t deny the accuracy of the report, though. Seemed the Tibidi reputation of truthfulness still held true.
+
+“I have fresh reports from a trustworthy scout.”
+
+Denetar looked stunned. Then he cursed. “Those aren’t levels we’ll be able to match. Even if everybody decided to join in, we’re both outnumbered and outleveled. Looks like we will have to give up Last Chance.”
+
+Cuilcis nodded. “Bereavement. If there were fewer high-leveled ones, or no leader types, those numbers would be excellent experience for anybody looking to grow stronger. Yet, I see no way to stand up to those odds directly.”
+
+Murmurs arose everywhere. A few were combative, stating how they’d smash the Kadren or some shit, but they were just like those types always were. Loud, empty bravado. People like that Jaggor guy, who’d actually seen action, were listening, assessing, and definitely not speaking up in favour of attacking.
+
+I totally got it. Not only were the people here mostly loners, opportunists and outcasts, but they tended toward lower levels as well. I definitely wouldn’t throw myself at a horde of Kadren if I were them, knowing the kind of reputation they had. Unfortunately, that was exactly what we wanted them to do.
+
+Nix had been in charge of the vast majority of our planning. She’d lined up what needed to happen, who needed to do and present what and what they needed to talk Cuilcis into. Judging from his earlier speech, she’d been successful on all counts.
+
+That meant it was my time to shine. I spoke up above the crowd. “This ‘nigh-unassailable’ tower. Just how bad is it?”
+
+“Confusion. Why do you need that detail?”
+
+He didn’t say, “I’m confused.” No. “Confusion.” I almost chuckled at the irony.
+
+I shrugged. “Well, it sounds to me like you’re all really, really quick to leave this place and all its riches behind.”
+
+Denatar scoffed. “I am not. If I could see some way to stay here, I would absolutely take it. But I don’t want to die.”
+
+“Neither do I.” I smirked. “But I came here for the riches and the levels. It sounds to me like the Kadren have presented us with the opportunity for both. But, of course, if nobody has the guts to take a risk, I’m not going to judge.”
+
+A hush ran over the crowd. I recognized more than a few instances of ‘Oh no, he din’t.’-face.
+
+Jaggor’s rough voice was the one to break the silence. “You are young and naïve. Think yourself immortal. You should listen more and speak less.”
+
+“Oh, really? Because I don’t know what I’m talking about?”
+
+“Yes.” The word held the gravity of a thousand disappointed parents.
+
+I sneered and went ahead anyway. This part was easy. Because it was exactly what we’d already discussed endlessly, in an attempt to find a solution to the Gordian knot that was the Kadren forces. “The issue here is numbers against leadership. A thousand low-level Kadren, left leaderless, are nothing but experience on legs. We managed to take down fifty of them just five of us in less than twenty minutes, and we could’ve handled fifty more before we’d start having a real problem. Pit four hundred from Last Chance against a thousand low-level Kadren? Easy.”
+
+It looked like Jaggor was about to speak up, but I barrelled on. “The stronger Kadren bring more variety and more talents into the mix. Yet, they are still manageable. Stupid, strong and easy to steer into traps and situations that let us gain the upper hand. The leaders, meanwhile, are what tip the scale. They guide their dumber kin, add intelligence and tactics. And if they stay at the back, they can keep on doing that right to the bitter end. Meaning, unless you find something or someone who can handle their leaders, we’re all so much fodder to the chomping jaws of the Kadren.” I raised an eyebrow at Jaggor. “How’s that for naïve?”
+
+I sure hoped I got it right. Steve and Nix had come up with the wording, and I’d rehearsed it over and over again on my run.
+
+His heavy eyes narrowed, but eventually gave a tight nod. “Accurate. Some lower levels are still dangerous, but… accurate.” Seconds ticked by, before he asked. “You have an idea. What is it?”
+
+Instead of responding, I turned to Cuilcis. “You said they have all the low-levels out on the edges, right? And then the mid-leveled ones?”
+
+“Agreement. Then a set of tall walls, with the high-leveled Kadren and leaders behind.”
+
+“And the scout tower?”
+
+“And the scout tower.”
+
+I grinned and rubbed my hands together. “In that case, how about this? You all get the chance to join us and earn a lot of easy experience taking on all the low and mid-leveled Kadren. Meanwhile, my group and I will take on the leaders and high-leveled ones and keep them engaged.”
+
+“Suicide.” Jaggor spat.
+
+“Not at all. I know exactly how we’re doing it. Because we are going to take over that scout tower. Once we have it, we’ll defend it, and keep them distracted for however long we need.”  I told him and the entire crowd. Laid out the general details of our plan and told them how we’d survive, and make sure that we’d keep them all occupied.
+
+For a while, there was complete silence. A hundred people of various races, most of them hard-boiled professionals or desperados who’d stab you soon as help you. A braying laughter was the only distraction. Fucking Lure seemed to think this was the funniest thing that ever happened.
+
+Just a few days ago, our plan would’ve fallen flat on its face. We didn’t have the levels to make an impact, nobody knew who we were. But in as tiny a community as this, news travelled fast. And our recent accomplishments, probably retold and inflated to a ridiculous degree, weren’t anything to scoff at. Surviving the Ghastling horde. Taking down monsters left and right. Killing one pissed-off untouchable? It’d be hard for anybody to deny that we were swinging hard in the local dick-measuring contest.
+
+Except, right this moment, I didn’t need to convince the entire crowd. Somehow, whoever this Jaggor was, he’d turned into the face of reason, those who knew what they were doing. If I was able to swing him to agree with us, the rest would follow his example. I just knew it.
+
+His dour face, weathered as the rest of his armor, dulled from a hundred battles, betrayed none of his actual emotions. His voice was hoarse and matter-of-fact as he sneered. “Still sounds like suicide.” The verdict was delivered with finality, like there was no doubt about it. Then the ugly bastard’s face split and he grinned, displaying a set of stained teeth with a few missing to one side. “But suicide for you. For me, it sounds like easy killing. I like easy killing. Count me in.”

@@ -1,0 +1,255 @@
+---
+id: 019d80c9-9af2-5efe-bf08-e9872e0a4e50
+page-type-slug: story-chapter-royal-road
+title: "Chapter 729 - Pleasure Interlude"
+slug: 0730-chapter-729-pleasure-interlude
+partOf: mythrans-master-of-all-continued-completed
+position: 730
+ownLength: 2841
+unit: words
+publishedAt: 2018-10-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/297906/chapter-729-pleasure-interlude"
+royalRoadId: "297906"
+---
+
+Janice couldn't have been happier at losing their PvP duel. “I can't believe... you beat me... 4 out of 7!” She said. “I didn't even know... you could do that with duels!”
+
+Ren chuckled as he lay beside her in the bed. “As long as you agree beforehand, there's not a lot that you can't do in duels.”
+
+“But... that...” Janice shook her head and laughed at his still ready state. “You didn't have to intentionally lose three times and give me false hope!”
+
+Ren laughed, too. “I wanted you to have as much fun as possible.”
+
+Janice rolled over onto her side to face him. “I did.” She said and put a hand on his chest. “Ren, I... what you did... and then this...”
+
+“Hey, we're friends.” Ren put a hand on her hand and gave it a slight squeeze. “I told you when I set all this up for you that I wanted you to be happy.”
+
+“Despite all the joking we did, and all the sexual innuendo, you didn't have to go this far.”
+
+“Oh? Should I take it back, then?” Ren asked, and she chuckled.
+
+“Sure, you can take it back.” Janice grabbed a hold of his private place and jerked him a couple of times to make him pant. “When I'm done with it.” She grinned and rolled up and on top of him. “Best 2 out of 3?”
+
+“You're on!” Ren said and she sat down on him hard. They both gasped at that, dismissed the PvP popups, then had the best duels that anyone could have ever asked for.
+
+When they were done of another set of 14 matches, Janice gracefully accepted defeat by collapsing in exhaustion. Ren asked if she wanted an Energize spell to restore her stamina, and she politely declined by slapping his chest.
+
+“Get the hell out of my house and let me languish in peace!” Janice exclaimed, and he chuckled.
+
+“All right, I'll let you go to sleep.” Ren said and stood up, then equipped his clothing. He deactivated the Vasalor Statue and stored it, and she looked at him with a wistful expression.
+
+“You're a good friend, Ren.” Janice said. “I won't be able to walk for a week, but you're a good friend.”
+
+Ren laughed and bent over the bed. “Let me just...”
+
+“If you even think of licking me again, I'll kill you.” Janice laughed.
+
+“Aww.” Ren put a hand on her pelvis, right above her special place, and cast Major Healing on her. “But, it's so pretty.” He said and leaned down and gave it a quick kiss, and she giggled.
+
+“Hey! What did I just say?” Janice said in false indignation and propped herself up on her elbows, then she smiled. “Well, okay. Maybe I won't kill you.”
+
+Ren grinned at her and stood up. “I'll see you later, Janice.”
+
+“Bye, Ren.” Janice said.
+
+Ren left her bedroom and then her house, and ran up the street to the Pleasure Palace. He stepped up into the air and cast Full Illusion on himself to change his appearance into Ugly Ren and touched the Sending Square on the door.
+
+“Knock knock.” Ugly Ren rasped.
+
+“Who's there?”
+
+“Al!” Ugly Ren growled out.
+
+“Al who?”
+
+“Al give you a kiss if you open this door.” Ugly Ren said, and the door swung open to show Gina.
+
+“It... it is you.” Gina said and he felt her surprise.
+
+Ugly Ren stepped close to her and gave her a kiss as he hugged her. She couldn't help herself and put her arms around his neck and kissed him back passionately, and they stood there for nearly a full minute. Gina broke the kiss and rested her forehead on his, and her breath was a little fast.
+
+“You... really...” Gina tried to say, and he smiled his crooked smile.
+
+“I wouldn't tease ya like that if'n I wasn't gonna do it.” Ugly Ren said and gave her another brief kiss before he let her out of the hug. “Is anyone else here?” He asked and walked into the main part of the club and felt feelings of disappointment. He dismissed the Full Illusion spell and turned to the booth that had seven dancers sitting around it. “Do I need to ask why everyone is disappointed?”
+
+“Ren!” Jennifer exclaimed and jumped up from where she sat, and the feelings of disappointment in the room disappeared instantly. “Caramel just finished telling us everything!”
+
+“Did she now?” Ren asked and looked at her. “Got your hand on the pulse of the nation, do you?”
+
+Caramel laughed. “I'm subscribed to your fan site.”
+
+“I am, too.” Jennifer said. “I just didn't have my phone on.”
+
+“Well, it is a workday.” Ren said in understanding. “I guess that also means you won't see a lot of people lining up to come here.”
+
+“Yeah, it's always slow on weekdays.” Candy said. “Even a couple of the girls won't show up.”
+
+“Assuming the customers can recover from using the amusement park rides after work, we should get a few regulars.” Gina said as she walked over.
+
+“How many out-city visitors have you gotten since the advertisements?” Ren asked as he thought about what Patty said about that, and turned to see Gina's odd smile.
+
+“A steady stream of them.” Gina said. “Most were just curious to see what we had, though.”
+
+“Aww.” Ren gave her another hug, and she rested her chin on the top of his head and hugged him back. “Don't you just hate window shoppers?”
+
+Gina chuckled and it rubbed her chest on his face.
+
+“Ooo, do that again.” Ren said, and she chuckled again. “Yep, you still got it.”
+
+“Of course I do!” Gina leaned back and looked down at his smiling face. “You still don't do much for me, though.”
+
+“I know.” Ren said and let her go. “My particular charms are an acquired taste.”
+
+That made her snort a laugh and she ruffled his hair, and he turned back to the other dancers.
+
+“Ladies, if you'd like, I can tell you all about what happened.” Ren said.
+
+“Please.” Jennifer said. “We can tell you what Caramel said, and you can fill in the rest.”
+
+“Sounds like a plan.” Ren said and walked over to the booth, and sat down in the middle of the group. He took out the Vasalor Statue and activated it, and put it on the short table in front of the booth.
+
+“What's that?” Jennifer asked.
+
+“It's a heavily modified Sanctuary spell.” Ren said and immediately felt their confusion. “It lets me compress time.” They were still confused, and he opened his arms towards Jennifer. She stepped close and sat down on his lap and hugged him. “In simple terms, I can spend the next hour with you, and it won't progress the game by more than a second.”
+
+All the dancers gasped at that and stared at the statue.
+
+“R-Ren... that... that can't...” Jennifer thought about reaching out to touch it, then decided she wanted to hold onto Ren instead. “How does that even work?”
+
+“It just does.” Ren said, and they accepted him at his word. “Now, fill me in on what you know.”
+
+They all told him what they had heard and what Caramel knew, and he filled them in on the extensive damage the update had caused, including removing people's houses from their possession.
+
+“Oh, no.” Gina whispered from the side of the booth. “We... we lost...”
+
+“None of you were here for that and didn't lose anything, thankfully.” Ren said. “Unlike Janice.”
+
+“Oh, that poor girl.” Gina said. “All she ever wanted was a home to call her own.”
+
+Ren nodded. “I stopped by to check on her, and she was devastated.” He said. “I did my best to make her feel better, though.”
+
+“That's so sweet.” Jennifer said and snuggled in. “What did you do?”
+
+“Her. Over and over again.” Ren said, and that made the dancers laugh.
+
+“Yeah, that would make her happy.” Jennifer said. “Actually, that would make me happy, too.”
+
+“And me.” Candy raised her hand, as did a couple others.
+
+“Oh, is it a vote?” Apple asked and raised her hand.
+
+“I thought you played for the other team?” Ren asked with a smile.
+
+“You know you're the only exception.” Apple said and thought about when he was with her the last time. “I still can't believe you did that for me.”
+
+“Well, it was your fantasy.” Ren said and looked at the others. “That was a special occasion and I can't do that for you all the time.”
+
+Gina sighed. “Yes, if we had it all the time, it would lose its special meaning.”
+
+Ren nodded. “Don't get me wrong. I came here tonight to check up on you all.” He said. “I wanted to make sure you were okay and didn't go through what Janice did.”
+
+“I'm so glad we didn't have to.” Jennifer said. “If I'd lost this place... the best thing that's ever happened to me...” She shook her head and then she sighed dramatically. “Of course, now that I know what you would have done if I did...”
+
+Ren chuckled. “I didn't intend to do that when I went to visit her.” He said. “It had just been a while since I had seen Janice and wanted to see how she was. When she broke down and cried, I held her and comforted her. Then she wouldn't let me leave until she 'thanked' me properly.”
+
+“Oh? Is it that easy to keep you around?” Candy asked, and the other dancers laughed.
+
+“Well, it's been a while since you've seen me.” Jennifer smiled. “I missed you a lot.”
+
+“I know you did.” Ren said because he could feel her emotions and caressed her face, then let his hand slide down to her chest. She only wore a thin blouse and his hand grazed her breasts. He felt her start to get excited, and then he used a fingertip to poke the metal that covered the tip of her breast. “You wore them for me.”
+
+Jennifer nodded. “Just in case.”
+
+Ren put a hand on the side of her face. “Thank you.”
+
+“You're welco-mhm.” Jennifer moaned as he kissed her.
+
+Ren didn't want the others to feel ignored, so he concentrated on the Pleasure Palace Aura and they all gasped and then moaned as they felt Jennifer's reaction to being kissed so sweetly.
+
+“G-grab her... her breast.” Apple said.
+
+Ren used his free hand to massage Jennifer's breast.
+
+“Oh, god.” Apple grabbed both of hers and laid back, and she writhed as she enjoyed both her own feelings and Jennifer's at being touched like that.
+
+Ren kept kissing Jennifer and let her breast go, then slid the hand down across her abdomen and touched her pelvic bone through her skirt. She wiggled a little, and he slid his hand over to her hip and ran it down the outside of her thigh. No one else reacted until he moved his hand to the inside of her thigh and caressed her gently as he put his hand under her skirt.
+
+“Oh... oh...” Candy tried not to moan, and then Ren touched the piece of metal covering Jennifer's private place and she couldn't stop herself. “Mmm, god... m-more...”
+
+Ren knew exactly how to get Jennifer off, so he wiggled the edge of the metal to stimulate her.
+
+“HMMM!” Jennifer moaned into his mouth and finished. Ren slid his hand out from under her skirt and rested it on her hip.
+
+“Oh, my god.” Gina whispered, and Ren broke his kiss with Jennifer to look at her. She had finished, so he concentrated and felt that several of the other dancers had finished as well.
+
+“Rennnn.” Jennifer purred, and he looked back at her. Her eyes smouldered and she braced her hands on the back of the booth and shifted her weight so she could straddle his waist instead of sitting on his lap.
+
+“Shouldn't we...” Ren was going to suggest going to her work room and she covered his mouth with a hand.
+
+“I'm going to dance for you.” Jennifer said, and her tone and emotions left no room for denial.
+
+Ren nodded, and she proceeded to strip right on top of him. He wasn't sure it would work, especially with him sitting back like he was; but, she managed to complete an entire routine straddled over him. He hadn't experienced anything quite like it, and when she was down to only wearing the metal pieces over the tips of her breasts and private area, he was ready to burst.
+
+Because Ren was sharing everything in the Pleasure Palace Aura, Jennifer had felt exactly what she was making him feel, as did the other dancers, and she was very happy at his reactions. Her hands slid down and touched him, and he caught his breath.
+
+“Off.” Jennifer said, and his clothing disappeared. She grinned wickedly and stored the metal pieces to reveal herself completely, got into position, then sat down. All the dancers cried out at the motion, and the ones that hadn't finished before, finished then.
+
+“Ohgodohgod.” Apple panted.
+
+“M-more...” Candy moaned.
+
+“Hurry!” Caramel exclaimed as she rubbed herself.
+
+It had been a while since Ren saw Jennifer without her breasts covered, and he liked the novelty a lot as he grabbed them and pinched her nipples hard.
+
+“AHHH!” Jennifer yelled and finished. She was breathing heavily and panting, and she hadn't even started moving yet.
+
+“Allow me.” Ren said and rolled her over to put her on the seat, then he made her very, very happy. When he was done pleasing her, he tried to disengage. Jennifer wrapped her arms and legs around him and pulled him in close.
+
+“Th-thank you.” Jennifer said and kissed him.
+
+“No.” Ren said when he broke the kiss. “Thank you.”
+
+“Do... do you really... need to go?” Candy asked.
+
+Ren looked at her, and saw that she was completely naked. “I... really should.” He said with doubt in his voice, and then he glanced around to see that all of the women were sans clothes and their private places faced him. “Oh, wow.”
+
+“That was... awesome.” Apple said and sat up. “Look, I'm soaked! From a man!”
+
+That made several of the dancers laugh, then they moaned when their muscles contracted.
+
+“D-don't make... me laugh.” Gina said and touched herself. “I'm t-too s-s-sensitive.”
+
+Jennifer let Ren out of the hold she had him in and nodded. Ren gave her a kiss, then in an instant he was Ugly Ren and bent over Gina.
+
+“Lemmie give ya a hand, miss.” Ugly Ren growled, and Gina finished just from the sound of his voice.
+
+“Hey, she really does love gruff men.” Caramel said. “I thought she was exaggerating a little.”
+
+“Ya'll better brace yerselves.” Ugly Ren said. “She really likes this part.”
+
+“What do you... OH MY GOD!” Caramel yelled as Ugly Ren rubbed his rough and calloused hands over Gina's breasts and plunged into her. The shared Aura flooded with Gina's pleasure, and none of the dancers could wade through the waves of it that she felt and were swept away with her.
+
+After several hours of giving them more pleasure than any of them had ever felt before, especially from each other as Ren gave each of them what they wanted, Ren left them a platinum coin each. He deactivated the statue and stored it, then left the Pleasure Palace. He ran back to the Main House and went inside, told the maids and Xuunah that he had Adventurer's business to take care of, and logged out.
+
+*
+
+Paprika didn't normally log in during the weekdays; but, she didn't have anything to do and decided to spend some time with the girls that did go there every night. She was happy that at least she would have a great story about Ren to tell everyone, or at least share in the common knowledge if they already knew. She left her room and went down the stairs, then out through the curtain behind the main stage. She stopped dead and gasped at the sight.
+
+“Gina! What the hell is going on here?!?” Paprika asked as she saw 8 naked and very satisfied women sprawled out over 2 booths and three tables.
+
+“Hm?” Gina lifted her head to look at her. “What?”
+
+“What. Is. Going. On.” Paprika asked, her hands on her hips.
+
+“R-Ren.” Jennifer said and tried to sit up; but, she couldn't get her limbs to work right and laughed. “Damn, he wrecked me.”
+
+“M-me, too.” Candy tried to wave and her hand just flopped to the side, and she laughed. Once amusement entered the shared Aura, they all started laughing.
+
+“What's so funny?” Paprika looked at their happy faces.
+
+“We... we're closing for tonight.” Gina said and folded her hands on her stomach. “I don't even want to move right now, let alone work.”
+
+“What did he do?” Paprika asked.
+
+“US!” Jennifer yelled, and they all laughed.

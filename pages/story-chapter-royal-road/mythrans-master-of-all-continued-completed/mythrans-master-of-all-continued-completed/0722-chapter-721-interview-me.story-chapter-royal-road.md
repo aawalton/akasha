@@ -1,0 +1,289 @@
+---
+id: 2e8913db-fb31-5385-af37-f5349db91e52
+page-type-slug: story-chapter-royal-road
+title: "Chapter 721 - Interview Me"
+slug: 0722-chapter-721-interview-me
+partOf: mythrans-master-of-all-continued-completed
+position: 722
+ownLength: 3122
+unit: words
+publishedAt: 2018-10-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295913/chapter-721-interview-me"
+royalRoadId: "295913"
+---
+
+It didn't take Barbi long to arrange for the 'official' confirmation that the show was cancelled. She had surprised herself that the topic had grown out of proportion of the original story so quickly, and everyone was scrambling for some kind of information. Of course, with some information already out there, she started to pepper rumours and conjectures on different sites to direct a lot of that interest back to the show's main website and the message boards, and a few to Ren's fan page.
+
+Traffic started to pick up, and she smiled as she added a teaser phrase on one of the site pages, then slipped in a teaser image of Ren laying down next to the ogre. Her cell phone, Elise's, Stella's, and Lisa's cell phones lit up as they were flooded with fresh messages and posts about the new image. In less than 10 minutes, the image had been shared no less than 500 times, and re-shared from those shares almost twice that.
+
+Wow. Barbi thought as she tried to stem the overflow, then she chuckled and let it go. She had unwittingly unleashed the internet beast and once it was on the rampage, there was no stopping it. She dropped one more hint about Ren talking about it, possibly live, then she had to turn off her notifications because her phone just made constant beeping noises.
+
+“Good god, Barbi.” Elise said as she watched her own cell phone as it continuously beeped. “How did...” She stopped talking and held a hand up. “On second thought, don't ruin the magic for me.”
+
+Barbi laughed. “It's got a life of it's own, now.”
+
+Elise chuckled and turned off her notifications as well. “Ren okayed your idea?”
+
+Barbi nodded. “Like I told him, I set a meet-and-greet for after lunch, then he can decide for himself if he wants to talk about it or not.”
+
+Elise smiled. “Thanks for not just throwing him right into the interview.”
+
+“I wouldn't do that even if I somehow hated the little charmer.” Barbi chuckled. “I can be vindictive, and you know that; but, I've never been cruel.”
+
+Elise chuckled, too. “Just like me.”
+
+Barbi fake gasped. “Elise! Did you just admit that you can be a bitch?”
+
+Elise laughed, because Barbi had just said that about herself. “That's Queen Bitch, thank you very much!”
+
+Both women laughed and got back to work.
+
+*
+
+“Hey, you two.” Stella said as she came into Ren's bedroom. “Did anything happen while I was gone?”
+
+“That depends on your definition of 'anything'.” Ren said and grinned at her.
+
+“I'm pretty sure that covers everything, smart-aleck.” Stella said.
+
+“Well, when Denise came in...” Ren started to explain and Denise covered his mouth with a hand.
+
+“I helped him relieve some tension, and then Barbi came in.” Denise said. Ren started to kiss her hand, and she tried her best to not let it show on her face.
+
+Stella snorted a laugh. “Don't tell me she caught you.”
+
+“Almost.” Denise said and smiled.
+
+Stella chuckled. “We don't want to shock the poor girl.”
+
+Ren stopped kissing Denise's palm and moved her hand slightly. “I don't think she'd be surprised.” He said and put her hand back over his mouth and kept kissing it.
+
+“It's one thing to suspect what's going on and another to confirm what's going on.” Stella said.
+
+“Oh? What's that?” Denise asked, genuinely curious.
+
+“We all love the little horn-dog and will do everything we can for him.” Stella said.
+
+“Why would she be surprised by that?” Denise asked, then closed her mouth as Ren started to lick her palm.
+
+“Because it shouldn't work.” Stella said and both Ren and Denise looked at her. “We're all different people with different needs and different personalities. One man shouldn't be able to make us all happy like this.”
+
+“Why not?” Ren asked after moving Denise's hand again.
+
+“What?”
+
+“Why can't I make you all happy?”
+
+Stella smiled. “I didn't say that you weren't, I said that it shouldn't work.”
+
+Ren thought about it for a minute. “What do I need to do differently?”
+
+Stella laughed. “You don't have to do anything, Ren.”
+
+“But...”
+
+“You're our touchstone.” Stella said and ran a hand through his hair. “Our lives revolve around you and you bring us all together.”
+
+“Is that true?” Ren asked.
+
+“As far as I know, because if it wasn't for you, three nurses would have been out of a job a long time ago.” Stella said. “Our lives would have been complete messes if you hadn't been there for us.”
+
+“But... if I wasn't there... then, wouldn't things have been different?” Ren asked, and Stella and Denise looked at him with slightly wide eyes. “If I was never taken to the hospital, none of you would have met me. None of the things that happened would have happened. Dr. Hobbard wouldn't have stolen my money, I wouldn't have been attacked, I wouldn't have met Elise, and I wouldn't have had all those adventures in both real life and in the game.” He said. “Not to mention that I wouldn't have had a hit television show, or bought a house with my own money and asked you all to move in... and I definitely wouldn't love you all as much as I do.”
+
+Stella and Denise didn't know what to say to that.
+
+“You would have led normal lives and none of you would have ever even considered trying to make my life bearable.” Ren said. “The only one I know would have had a hard time without me around would be Barbara, because they would have made her retire and she would be lost without having something to do every day.”
+
+The room was quiet as Stella and Denise thought about what he said, and Ren put one hand on Denise's face and the other on Stella's arm.
+
+“Now forget everything I just said.” Ren said, and he saw the surprise on their faces. “I did show up at the hospital. I did meet you all and all of our lives changed. It was gradual, and it took years for it to get to this point.” He said and caressed Denise's face and Stella's arm. “Now, here we are. I love you and I can't imagine my life without you.”
+
+Both Stella and Denise tried to speak, then stopped and smiled as they each took one of his hands and held it.
+
+“What's with the serious atmosphere in here?” Lisa asked as she came into the bedroom and they all turned to look at her.
+
+“I was just telling them about an alternate history that could have happened if I hadn't shown up at the hospital.” Ren said.
+
+Lisa chuckled. “God, that would have sucked so bad!” She said and climbed up onto the bed. “I'd be playing this neat game all by myself and I never would have met you.”
+
+Ren let both Denise and Stella go as he held an arm open for Lisa, and she laid her head down on his shoulder. She was very careful of his sore chest as she laid her hand on it.
+
+“I'd probably still only be level 10 or so and I wouldn't have all of these great abilities.” Lisa said and moved her hand up to touch his face. “I won't even mention getting to live in a big mansion, the great job, or getting to spend time with the man I love.”
+
+“You just mentioned it.” Ren said, and she chuckled.
+
+“I came down to thank you for what you did in the game.” Lisa said. “Even sitting there and absorbing the information available to me, I can't figure out how you did it.”
+
+“I'm tempted to tell you, but I'd just have to tell you again when we all gather together in a little while so I can explain it all.” Ren said.
+
+“You're really going to tell me?” Lisa asked, and he chuckled.
+
+“Did you expect me to keep it a secret?”
+
+“Not really, but... I figured you'd try to be cagey about it or avoid answering.”
+
+Ren smiled. “I'm sure it's going to be a bit of a shock when you find out; but, I'd rather you hear it from me.”
+
+Lisa nodded. “When is...”
+
+“We've got 20 minutes!” Barbi said as she came into the bedroom. “The reporter and camera guy will be here, so we need to decide where to meet them.”
+
+“I'd say the den.” Ren said. “It's both a bit formal and casual at the same time.”
+
+“Um... I need to go and...” Lisa's face flushed a little red.
+
+“No, leave it like that.” Ren said, and she blinked her eyes at him. “Having a bland room that looks like no one uses it, is not the image we want to project.”
+
+“But...”
+
+“As long as the books aren't scattered over the couch and chairs, it's all good.”
+
+“I wouldn't leave a book on a chair.” Lisa said. “Someone could sit on it and damage it.”
+
+“Then don't worry about it.” Ren said and kissed her. “Some of us might need to change, though.”
+
+“Yeah, jogging pants are nowhere near proper attire for greeting company.” Lisa said.
+
+“I meant me, actually.” Ren said and plucked at his Cookie Monster pyjamas.
+
+“I think you should keep them on.” Lisa said with a huge smile. “Play the young and cute card.”
+
+Ren snorted a laugh. “Not a chance! Can you imagine what my dozen fans would say if they saw me in these?”
+
+“Your dozen fans?” Lisa asked.
+
+“You're right. I shouldn't over-exaggerate like that.” Ren joked, and she laughed. “Should we get Elise up here to help me get changed?”
+
+“I'm already here, Sweetheart.” Elise said as she strode into the room. Her hair and breasts bounced with each step and she swayed her hips, and everyone caught their breath as she stopped and practically posed beside the bed. “What is it?”
+
+“Damn, you're gorgeous.” Ren said. “Lisa, tell me she's not a figment of my imagination.”
+
+“I can't.” Lisa said with a smile. “I think she's a figment of mine, too.”
+
+Stella chuckled. “Elise, the show-stopper.”
+
+“Ha ha.” Elise said. “Lisa, can you give me a hand? I need a gofer so I can concentrate on getting Ren presentable.”
+
+“Sure.” Lisa said and started to sit up, then gave Ren a quick kiss. “What do you want first?”
+
+“A choice of shirts.” Elise said. “I think I remember seeing one with a wide collar.”
+
+Lisa nodded and climbed off the bed, and Elise looked at the others.
+
+“Barbi, you'll need your hair fixed.” Elise said.
+
+Barbi touched her hair and felt some of it was out of place, nodded and went to the bathroom.
+
+“Stella, your outfit is fine, even if they take pictures or video.” Elise said and looked at Denise. “If I can suggest something a bit more stylish, like that great dress Ren picked out for you that time at the shop.”
+
+“Good idea. It's not too fancy to be worn casually.” Denise said and stood up, touched Ren's hand briefly, and quickly left.
+
+“Stella, give Barbara a call and tell her to dress semi-formal.” Elise said and started to unbutton Ren's top. “Donald probably won't come, but if Barbara manages to convince him, tell her dress pants or even just solid black pants and any shirt.” She slipped Ren's top off and her hands gently touched the bruise on his chest. “As long as he leaves off the undershirt.”
+
+Stella picked up the phone and dialed.
+
+“Wow.” Ren whispered. “I thought my command voice was powerful.”
+
+Elise chuckled and Lisa brought over the shirt she asked for and a couple of others in different colors. “Sometimes clear and concise directions are enough to motivate people.” She took the wide-collared shirt and slipped it around his neck, then shook her head. “No, it makes your head stand out from the rest of you.”
+
+“Well, it is my head.” Ren said with a smile, and she caressed his cheek with a finger and picked up another shirt. “No, not red.” She said and Lisa handed her a baby-blue one. “Perfect, thank you.”
+
+Stella finished the call and helped Ren sit up, and she, Elise, and Lisa helped Ren get changed. They loaded him into the wheelchair, careful of his wrapped knee, and Stella took him up to the third floor and into the den while Elise went with Lisa to help her find something appropriate. Barbi went downstairs to wait for the reporter and Ren motioned to the house phone.
+
+Stella pushed him over to it and Ren dialed the guard at the gate, told him to expect a package from the tailor shop he had ordered some things from, then hung up.
+
+“When did you order that?” Stella asked.
+
+“When I was in the game.” Ren said. “I did it after I texted Elise the first time to put the servers online.”
+
+“But... wait...” Stella said. “How...”
+
+Ren chuckled. “It's all electronic. They would have gotten the order right after I made it, so if my guess is right on the timing, both it and the reporter coming should arrive almost at the same time.”
+
+“What? How?”
+
+“I put a rush on it.” Ren smiled. “They had everything in stock, according to their website, so the only time delay would be gathering it all together to deliver it.”
+
+“Ren, you...”
+
+The door to the den opened and Barbi stepped in, then stepped aside. “...and this is the den.” She said. “Oh! Hi, Ren!”
+
+“Miss Blaire! It's so nice to see you again.” Ren said regally.
+
+Stella snorted a laugh. “You saw her like 10 minutes ago.”
+
+“It's still nice.” Ren said normally, and she and Barbi laughed.
+
+“If you hadn't guessed, this is Mr. Haddon.” Barbi said to the two people with her. “He has a bit of a weird sense of humor.”
+
+“Naw, what's weird is what happens when a turtle looses its shell...” Ren said and Stella quickly covered his mouth.
+
+“Just ignore him.” Stella said, and the reporter laughed.
+
+“Now I need to know the answer.” She said as she and her camera man entered the den. She was 5 foot 8 inches tall and wore a conservative suit with pants instead of a skirt, and her mid-back length jet-black hair was loosely tied in a ponytail at her shoulders. Ren couldn't tell what the camera guy looked like behind his sunglasses and baseball cap. He was close to 6 feet tall, though.
+
+“Hi, I'm Trisha Takinawa.” She said and held out a hand to Ren, and Stella moved her hand so he could speak.
+
+“Miss Takinawa, it's nice to meet you.” Ren said and gave her a gentle handshake. “Would it be offensive to say that you don't look Asian?”
+
+“Geez, Ren.” Stella sighed.
+
+Trisha chuckled. “It's all right.” She said and let his hand go. “Most people just look at me funny when they learn my name, because they're trying to see the Asian parts.” She held a hand out to Stella. “You must be Stella.”
+
+Stella nodded and shook the offered hand.
+
+“Do you have Asian parts?” Ren asked, curious.
+
+“REN!” Stella yelled, and Trisha laughed.
+
+“The only Asian part I have, I get when I'm in bed with my husband.” Trisha said.
+
+Barbi snickered a laugh and covered her mouth to stop from laughing out loud. Ren chuckled and gave Trisha a big smile, and she smiled back.
+
+“Barbi, you were right.” Trisha said. “I do like him.”
+
+“I told you.” Barbi said. “Everyone else should be here in...” The elevator door opened and everyone stepped out. “...right now.”
+
+Trisha turned and greeted everyone, commented on their attire, and everyone found places to sit down. She sat down in a comfy chair next to Ren, and looked at him with genuine interest.
+
+“So, you're the famous Ren Haddon.” Trisha said. “How do you like being a celebrity?”
+
+Ren laughed. “I'm not famous or a celebrity.” He said. “I've given out one autograph, and that was more of a joke than anything else.”
+
+Trisha smiled. “You don't know how popular your show is, do you?”
+
+“I know a lot of people like it, thanks to my public relations specialist.” Ren nodded to Barbi. “I know it had great viewership numbers for the 6 episodes that have aired...”
+
+Trisha nodded. “I received the official cancellation notice before coming over here.”
+
+“You did?” Ren asked. “Does that mean...”
+
+“I'm a subscriber and I enjoy your show, too.” Trisha said and glanced at Barbi. “Somebody didn't get back to me before today about coming to see you.”
+
+“I was going to save you for the press conference, Trisha.” Barbi said. “We've got the new toy line ready to ship to stores and the streaming service is ready to go national, now that we've got the system set up for the extra load.”
+
+“You lie.” Trisha said, and Barbi shook her head. “Are you keeping it under the subscription service for the website?”
+
+“Yes, after a long talk to Ren's Financial Advisor.” Barbi nodded to Elise. “We decided to not become money-grubbing idiots set out to fleece the customers.”
+
+Trisha laughed. “Good, good.” She said. “Having loyal fans pay money just to see something they used to see for free is not a good way to keep people happy.”
+
+“We're not gouging the advertisers, either.” Elise said, and Trisha looked at her. “It's not their fault the station cancelled the show. They shouldn't have to pay any more for the same reason that the fans shouldn't.”
+
+“How will you make money at it?”
+
+“Sheer volume.” Barbi said. “Once everyone learns that the only place to get more of the show will be from the website...”
+
+“Wait! Did you say more of the show?” Trisha asked, surprised. “I thought it was cancelled!”
+
+Barbi nodded. “They cancelled after the sixth episode; but, they had another six ready to air, with the next three cut together without background music.” She said. “We have them and can get them prepped for streaming by next week.”
+
+“Oh... oh, my.” Trisha said and looked at their faces. “This is going to be a great story!”
+
+“It's going to be better than that.” Ren said, and she turned to look at his grin. “I helped to fix the game it's based on.”
+
+“You... you did...” Trisha looked at all of their faces again, and nods were given all around. “Oh, my.”
+
+“Let me tell you how it all came about...” Ren said.
+
+Trisha and everyone else were held, almost spellbound, as Ren told them about everything that went on in extensive detail.

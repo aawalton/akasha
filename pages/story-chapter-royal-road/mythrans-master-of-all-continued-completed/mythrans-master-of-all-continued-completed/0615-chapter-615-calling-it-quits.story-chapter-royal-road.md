@@ -1,0 +1,213 @@
+---
+id: 398cbdb7-2eaa-557f-962b-7865e538ac6a
+page-type-slug: story-chapter-royal-road
+title: "Chapter 615 - Calling It Quits"
+slug: 0615-chapter-615-calling-it-quits
+partOf: mythrans-master-of-all-continued-completed
+position: 615
+ownLength: 2849
+unit: words
+publishedAt: 2018-06-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/226368/chapter-615-calling-it-quits"
+royalRoadId: "226368"
+---
+
+Ren picked up the top sheet of paper and slid it across the table. “You've been agonizing over this for the last couple of days, so I want to get this out of the way first.”
+
+Gloria picked up the piece of paper, and saw it was a termination of her contract with the research project. “Wh-what is this?”
+
+“It's obvious, isn't it?” Ren asked. “I know you've been wondering how you were going to break it to us if you decided to take that job offer, so I'm removing one of your main obstacles to that decision.”
+
+“So, you're getting rid of me preemptively.” Gloria said and put the page down.
+
+“If you take that job, neither I nor Stella want you to be associated with the research project.”
+
+“You are such an asshole!” Gloria nearly shouted. “You can't just fire me because I got another job offer!”
+
+“You've missed a couple of days of work, too.” Ren said. “I know Stella and I have been flexible in our schedules; but, even one day without our engineering specialist on hand has set Stella back over a week in the project.”
+
+Gloria clamped her mouth shut, because she knew that Stella could only work on the weekends, and what Ren said was literally true. If Gloria wasn't there, Stella had to wait for a week before she could work again.
+
+“I know it's a little harsh to come down on you so hard like this.” Ren said. “You completely ignored every attempt to contact you, and then even when you did decide to talk to us, you said it was because you were already talking to another company for a job.”
+
+Gloria didn't say anything in response, and Ren picked up the next sheet with an envelope attached.
+
+“Like I said before, I didn't realize the opportunity we were giving you wasn't good enough for you.” Ren said and slid the sheet and envelope across the table. “Normally, we wouldn't even consider a severance package; but, we know now that you want money above everything else, so we're giving you 2 weeks pay at your upgraded salary.”
+
+“Ren...”
+
+“I remember your reluctance at first when I mentioned the job to you, and I didn't realize at the time that it was because you knew you wouldn't be working all the time... or making tons of money.” Ren sighed. “I'd kick myself for reading things like this so wrong, if I didn't think I would severely hurt myself if I tried.”
+
+Gloria put the sheet and envelope down without opening it. “So, you're getting rid of me and you're buying me off.” She said. “I assume that's to keep me quiet about the things we did?”
+
+Ren shook his head and slid the third sheet of paper over. “This is a copy of the non-disclosure agreement you signed.”
+
+Gloria didn't even try to catch it as it slid across the table, and it slid off and onto the floor.
+
+“We know suing you for breach of that is pointless, so it will be automatic jail time if you break it.” Ren said, and he saw the anger in her eyes. “So, with that out of the way...”
+
+“What now?” Gloria sneered.
+
+“I'm breaking up with you.” Ren said. “I've done nothing but tie you down the last little while, and I see how much you're starting to resent it.”
+
+“Starting to?” Gloria asked. “I've always resented it!” She exclaimed. “Coming and going only when you want me to in the game! Staying at your place until you decide when I can leave, and then only with you!”
+
+Ren chuckled. “Yes, that's it. Twist what actually happened to make it like you were the victim.” He said. “Go ahead. Keep going.”
+
+Gloria stood up and put her fists on the table. “The high and mighty Ren, telling everyone what to do.” She spat. “God, you're so arrogant that it makes me sick!”
+
+Ren laughed. “What was it like to be on the receiving end of that arrogance?” He asked. “You were so used to doing it to others, both in the game and out. You must have hated it when it was done to you, didn't you?”
+
+“Yes! I really did!”
+
+“Good!” Ren said and slammed his hands down onto the table to make a loud smacking sound. “You of all people, who shared my emotions for so long in the game, should know damn well that I hate every minute of it!”
+
+Gloria had been startled at the table smack and took her fists off the table.
+
+“Ordering people around, telling them what to do...” Ren sneered “...I hate it. I always have!” He said and made fists. “In the game I can feel the resentment, even if it's only just a momentary thing, and it hurts me every time.” He admitted. “I always try to ask first; but, giving orders is what people expect of me, no matter what I do or say.”
+
+Gloria had been taken aback by his admission. She had always felt the resentment, but it didn't bother her at all. She just accepted it and moved on, and she didn't know that Ren couldn't do that.
+
+“The more I do in the game and the more powerful I become, the more that people expect me to hold it over their heads.” Ren said and took a deep breath to relax, then opened his fists and rested his hands on top of the still open folder. “Even this last guy who came to my county expects me to be like that.” He made his hands into fists again. “He didn't actually assault Lisa; but, he used a twisted Amulet of Truth and her own class to compel her to tell him how to kill me.”
+
+Gloria's eyes widened at that. “But... you're not...”
+
+“I've got the top 5 spots on the XP leaderboard, Gloria.” Ren said. “With this latest thing that I did, I've got tens, maybe hundreds, of people after me now.” He smiled. “I expect them all to show up at the arena this weekend when I fight that other guy, and they are all going to try and take me on.”
+
+“You seem happy about that.”
+
+“I am.” Ren said. “I'm going to destroy them.”
+
+“What?”
+
+“The idiots think I'm going to just stand there and let them come after me as much as they want.” Ren said. “They are so wrong.”
+
+“If they wait until after this guy...”
+
+“I expect them to.” Ren said. “Don't worry, though. It's not going to matter.”
+
+“So, I was right. You are going to be the villain.”
+
+Ren smiled. “I knew you were smart. I said the same thing to Lisa and Barbara.”
+
+“Ren, if you do this...”
+
+“It's already done.” Ren said. “Set in stone. Unshakable.”
+
+“But...”
+
+“The game shutting down is going to bring all the attention to me.” Ren said. “Good and bad, I decided to take it all. I'm going to show them... all of them... what I'm truly capable of.”
+
+“That's what the invitation was for.” Gloria said, finally getting it. “You don't want them to witness the fight. You want them to see you.”
+
+Ren nodded. “I'm going to give them a show they are not going to believe, unless they see it with their own eyes.”
+
+Gloria sat down and thought about what he was planning. She knew a lot of his abilities, and he was a good fighter, but she couldn't see how he was going to defeat his latest opponent, let alone hundreds more. After a few moments, Ren started to chuckle.
+
+“What?” Gloria asked and looked at him.
+
+“I'm happy that you care enough about me that I could distract you with my well being.” Ren said and pat the folder in front of him. “Shall we get back to what's important right now?”
+
+“I thought we were done.” Gloria said.
+
+“No, you just needed a few minutes to calm down and process what is happening to you.”
+
+Gloria frowned. “You brought that up on purpose.”
+
+“Yes.” Ren said. “Now...”
+
+“No.” Gloria said. “You're managing me.”
+
+“Of course I am.” Ren said, and he saw the surprise on her face. “You don't even realize that you've been fighting the urge to jump over this table to punch me right in the face this whole time.”
+
+Gloria looked down at her clenched fists. Even though he had talked about the game to distract her, she hadn't relaxed at all. She forced herself to open her hands and looked back at him.
+
+“You seem to want to punch things all the time, rather than talk about them, just like you do in the game.” Ren said. “You attacked me outright several times there already, and I warned you the last time about what would happen if you tried it again.”
+
+“But I...” Gloria stopped herself and took a quick breath. “You already told me we were breaking up.”
+
+“I did, and I want to make sure you know that I mean it for the game as well.” Ren said.
+
+That made Gloria think of the police officer that had pulled her over that morning, and how he had let her out of getting that expensive ticket because she was Ren's in-game girlfriend. Ren saw the look in her eyes, and knew that second part was going to bother her a lot more than breaking up in real life was going to.
+
+“I thought about waiting to remind you of that later; but, I think it's better to get it all out of the way right now.”
+
+Gloria squinted her eyes at him. “Why?”
+
+“It's simple, really.” Ren said. “I'm clearing your path.”
+
+“What do you mean?”
+
+“You no longer have a conflicting job that you would have to abandon, you no longer have a boyfriend who adamantly opposes you making mistakes that will hurt you, and I'll ask Stella and Elise to not pester you over it anymore.”
+
+Gloria opened her mouth to argue, then realized she wasn't sure if she should. “You don't have a problem just tossing me aside, do you?”
+
+“I refuse to answer that until you answer one question for me.” Ren said without showing any emotions on his face. “Are you going to take your dream job?”
+
+Gloria took several breaths as she thought about it. She really did have the good points memorized, and the arguments she had were quite deflated, since he really had removed pretty much everything that was holding her back.
+
+“It's only for a month...” Gloria said, and then Ren let the tears out of his eyes that he had been holding back.
+
+“You...” Ren sniffled. “...I love you, and you... you really would work for them, even though I told you they... even knowing that, you still...”
+
+Gloria's heart withered as Ren wiped at his face and she watched as he used his other hand to pick up the rest of the pages in the folder and tossed them across the table. They scattered and spread out, and there were black and white photos printed on some of them, as well as text. She gasped as she saw a little boy with hundreds of metal rods implanted in his skull, and she quickly read a paragraph with some of the gruesome details.
+
+“I really hope you enjoy working there.” Ren said in a normal voice, and that more than anything made Gloria look up from the mess of papers to see his tear-streaked face. “You apparently have the same mindset as them.”
+
+“I... no. No, I don't.”
+
+“They didn't care what happened to me either, as long as they could benefit from the results.” Ren said. “What's that old saying?” He asked. “Out of sight, out of mind?” He chuckled. “It doesn't matter what I went through if they didn't participate, right? Knowing after the fact makes it okay, right?”
+
+“I'm not like them!” Gloria said and stood up again. “I care about what happened to you!”
+
+“Not enough to listen to people who are your friends, or who thought they were your friends, as they told you that you were making a mistake.”
+
+“That's not true!”
+
+“With all the evidence given to you, all the reasons to listen, and you ignored it all.” Ren said and wiped his face, then he gripped his left arm tightly. “You... ignored me as well and... I only wanted... what was best... for...”
+
+“Ren?” Gloria said with concern in her voice as she heard him start to slur his words.
+
+“Take yourrr... ssseverance check and...” Ren panted and gasped for breath. “...don't... wwwhat... tingle...” He slumped forward and bumped his forehead and nose on the table, then slid off the chair and fell to the floor.
+
+“REN!” Gloria yelled and rushed around the table to kneel beside him. “HELP! SOMEBODY HELP!” She didn't want to touch him, since she didn't know what was wrong, so she got up and ran to the night stand by the bed and picked up the house phone and hit the button to call the kitchen. “It's Ren! Come quick!” She said when someone picked up the line and slammed the phone down, then ran back over to Ren.
+
+*
+
+Denise hit the little red button on the phone as she dropped the receiver, and a loud siren came from all the phones in the house. She ran from the kitchen and across the house, ignored the elevator, and ran up the stairs two at a time. It was much faster than taking the elevator, and she reached the landing and ran down the hallway to Ren's room.
+
+*
+
+Gloria's head turned to the bedroom door as it burst open.
+
+“Tell me what happened!” Denise nearly yelled as she ran over to her and an unconscious Ren.
+
+“We were talking and he grabbed his left arm, started to slur his words, then collapsed.” Gloria said. “I think he said tingle.”
+
+“Oh... oh, no.” Denise said rolled Ren onto his back and checked his pulse in his neck, then quickly put her ear on his chest. “I can't hear anything!”
+
+Gloria watched wordlessly as Denise went to work to get his heart going again. She tore open his shirt and put her hands in the middle of his chest, one on top of the other, and pushed down frighteningly far. She started moving her arms up and down very quickly, compressing and releasing the chest about twice a second.
+
+“Don't just stand there! He had a stroke and his heart's stopped!” Denise said and kept going without stopping. It was starting to make a sickening waterlogged sound, because she had to do damage to him to keep his heart pumping. “Grab the portable crash cart from the closet!”
+
+“I... I don't...”
+
+“UGH! You're useless!” Denise said and kept going. She couldn't stop the compression technique until she had another way to try and keep his heart beating in place. Elise came into the the bedroom through the still open door and saw Denise working on Ren.
+
+“NO!” Elise yelled and started to run over to them as Barbi came into the room and gasped at the sight.
+
+“Get the crash cart!” Denise said, and Elise quickly changed direction and ran over to the closet instead. She opened the door and grabbed the large bright red and white container that was right in plain view. She lifted it like it weighed nothing, despite it being nearly 80 pounds, and was over at Ren's side a moment later. Gloria quickly moved out of the way and Elise dropped to her knees beside Ren.
+
+Elise hastily applied the conductive gel to the right spots after following Denise's directions, then pulled the two small sticky pads out of the machine and hit the button. The whine of the machine charging up sounded really loud, and she stuck the power leads to the gel-covered areas. She slipped the pulse meter onto his finger and waited.
+
+“Come on... come on...” Denise muttered, then the machine beeped loudly at her. “CLEAR!” She yelled and stopped the chest compression technique and hit the shock button. Ren's body convulsed and his chest lifted slightly, then nothing.
+
+“Don't do this to me, Ren.” Elise whispered as the machine charged up again. “I love you too much to let you go.”
+
+The machine beeped, and Denise went to press the button again. “CLEAR!”
+
+Gloria sat on the floor and tears came to her eyes as she watched Denise shock Ren again. Her eyes looked at the small pulse readout on the machine and she willed it with all of her might to move. Elise and Barbi started to cry as the time that Ren wasn't responding stretched on.
+
+“CLEAR!” Denise yelled again when the machine beeped, and hit the button.
+
+They all watched the small pulse monitor for any movement, and then a single bump appeared. Then another. A second later it kept moving, and then Ren opened his mouth and took in a breath. Then another.

@@ -1,0 +1,237 @@
+---
+id: 027ef52b-8dfd-5a9b-9303-18b423349ab1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 718 - The Last One"
+slug: 0719-chapter-718-the-last-one
+partOf: mythrans-master-of-all-continued-completed
+position: 719
+ownLength: 2618
+unit: words
+publishedAt: 2018-10-02
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/295149/chapter-718-the-last-one"
+royalRoadId: "295149"
+---
+
+Ren taught Laurelia how to equip her clothing to clean it, and herself, then he equipped his High Elven Court Uniform and stood up. “I need to go.”
+
+“Oh? Do you have another woman that you need to get to before the night is over?” Laurelia asked.
+
+“Yes, but not in the manner that you mean.” Ren said. “She has an Emotion Siphon ability and I need to feed her again.”
+
+“Will... will you...”
+
+“No, despite her wanting that kind of relationship.” Ren said. “We were kind of trapped into what we have now, and I don't want to take advantage of her like that.” He said. “It happened to me once, and I don't want that to happen again.”
+
+Laurelia reached out and touched his arm. “She hurt you, didn't she? This other woman?”
+
+Ren nodded. “Unfortunately.” He said and leaned over the bed and gave her another kiss. “It might be another week or so before I can get back here again.”
+
+Laurelia laughed. “How long has it been since you came to make the ground fertile?”
+
+“Hopefully long enough for food to grow.” Ren said, and she nodded.
+
+“The potatoes are growing like weeds, if you'll excuse the expression.” Laurelia said. “The corn we planted right under the sunlight gatherers for direct heat and light are about half-grown.”
+
+“Nice.” Ren said. “I'm glad you have some good farmers tending to things.”
+
+“Me, too.” Laurelia said. “We even started to ease off on the food shipments from the homeland.”
+
+“So soon?” Ren asked. “I expected at least a year to pass before that happened.”
+
+“We had a few farming families decide to stay, once they realized how nice it was here.” Laurelia said. “Mostly spouses and elder children, when given a choice of staying or walking all the way back.”
+
+That made Ren think about the first giant he had met and about her mission to go home. He took out the All-Seeing Mirror and asked it for Groggot. His image appeared on the mirror's surface and he was sound asleep in a bed, and beside him was Rubella, the giant woman Ren had rescued from a brain arthropod grub. He then asked the mirror for their position on the map, and saw that they had travelled a very long way across the continent and were staying at an inn.
+
+I haven't heard from Lara about them, either. If they needed my help, she would have told me. Ren thought, then stored the mirror. “Do you need any more money?”
+
+Laurelia shook her head. “No, we're set for a long time with what you've already given us.” She said. “Forget a year's operation. We can make that stretch for several years, actually.”
+
+“Hey, now. Don't make it hard on yourselves...”
+
+Laurelia chuckled. “Ren, you gave us a king's ransom! A thousand platinum coins! I could buy everything on the mayor's menu and it's only a couple hundred platinum!”
+
+Ren chuckled, too. “That was kind of the point.”
+
+“Oh, I know.” Laurelia said and touched his arm again. “Thank you for... well, everything.”
+
+“You are more than welcome, especially since I can now tell everyone that I slept with a giant!” Ren said. “No one is going to believe me!”
+
+Laurelia laughed. “That's my line about sleeping with a little person, you sneak!”
+
+Ren laughed, too. “Oh? And just who are you going to tell?”
+
+“My mother.” Laurelia said and smiled wickedly. “She'll want to meet you, now that you've defiled her daughter.”
+
+“Defiled, huh?” Ren wiggled his fingers and she pulled the blanket up to cover her armpits.
+
+“I misspoke! I meant to say that you ravaged me like a wanton beast!”
+
+Ren jumped onto the bed and she laughed as he tickled her mercilessly, then she put her arms around his neck and kissed him. He stopped tickling her and kissed her back, gave her a few very well-placed caresses, and she finished again.
+
+Laurelia let him go and relaxed. “How... how can you...”
+
+“It's a gift.” Ren said, kissed her one last time, then stood up again. He deactivated and stored the Vasalor statue, gave her a little wave, then left the bedroom. “Hey, Princess.” He said as he met her right outside the door.
+
+“I can't carry you at that size, My King.” Princess said.
+
+“Are you sure?” Ren asked, and she huffed her displeasure. “Yes, I'm kidding.” He said and reduced himself back down to his normal size and climbed onto the saddle.
+
+“Where to next, My King?”
+
+“The High Elven starter city.” Ren said. “I need to visit Halaiyah and make sure she's fed.”
+
+“Why didn't you stop in when we were in the High Elven Kingdom?” Teepo asked.
+
+“I wanted Princess to have fun running.” Ren said, and he felt how happy she was at the news. Princess ran towards the wall of the mansion and Ren took out the Staff of Earth, then used the Pass Wall spell to make the tunnel through it. They were outside and up in the air a moment later and Princess streaked through the sky and back towards the ocean.
+
+They crossed the ocean again and arrived at the no man's land between the High Elven Kingdom and the Human Kingdom. Princess landed on top of the retaining wall and Ren hopped off, then ran down the side of the wall to the window of Halaiyah's apartment. He knocked on the window and she rolled out of bed to stare at him.
+
+“S-so soon?” Halaiyah asked as she opened the window.
+
+“It might seem that way for you, but I haven't seen you in a very long time.” Ren said, and stepped into her apartment. She caught her breath as she felt a fraction of the time he had been away and her hand reached out to touch him.
+
+“R-Ren...” She said with reverence in her voice as her hand touched his chest through his High Elven Court Uniform.
+
+“I think that's the first time you've used my name.” Ren said.
+
+“You... you deserve to be spoken to familiarly.” Halaiyah said. “I... I can... feel that you need...”
+
+“...more personal contact.” Ren said. “I wasn't alone all that time, but I also couldn't really do anything, either.”
+
+“I will honor your vow as always; but, you know I desire much more than that.”
+
+“I do.” Ren said and stored his clothing. “Like I told Laurelia, I can't take that option or choice away from you.”
+
+“But...”
+
+Ren put his hands on her shoulders, and she shivered as she absorbed some of his emotions. “We kind of got stuck like this, and I don't want to trap us in the same cycle as I had before.”
+
+Halaiyah stared at him with wide eyes as he fed her the emotions he had felt when his relationship with Elerlyth collapsed. “Y-yes, I... I do not want to be cut off from you like that.” She said and tears came to her eyes.
+
+“Shh.” Ren said and kissed her, and she melted into his arms. He picked her up and took her to bed, took out the statue, and played and teased her for several days and fed her so much that she leveled up her ability twice. Her unrequited desire actually gave her more sustenance, and Ren praised her for turning what some would think as a disadvantage into an asset.
+
+“I've learned that if you let the bad things drag you down, you don't appreciate the good.” Halaiyah said and gave him a hug, then kissed his neck. “You know how much I appreciate you taking the time to come and see me, despite all of the others that you have in your life.”
+
+“I do, and I'm glad you don't hold that against me.” Ren said.
+
+“I'd rather hold myself against you.” Halaiyah said with a smile, and he chuckled.
+
+“Thank you.” Ren said and gave her a kiss, deactivated and stored the statue, and equipped his armored bodysuit. “I need to go.”
+
+“I need you to go, before I decide that proper decorum no longer matters to me.” She said, and he chuckled as he gave her a quick hug.
+
+“I appreciate your restraint.” Ren said, caressed the side of her face, then jumped out the window before she could say anything else. He ran up to the roof and climbed onto Princess. “The business in Aurora, please.”
+
+“Yes, My King.” Princess said, and she ran at her best speed.
+
+*
+
+I wonder where he went? Elerlyth asked herself, then felt someone approach her. She turned and looked as the front door of the Main House opened and Patty stepped out.
+
+“Can I help you?”
+
+“No, I'm just waiting for Ren.” Elerlyth said automatically, without even considering that it was an NPC that had asked her the question.
+
+“I suspected as much.” Patty said. “Why else would you just stay here on your horse and not come in?”
+
+“I don't need to come in.” Elerlyth said.
+
+“It'll be easier to relax if you sit down on one of his comfy couches.” Patty said. “They are quite amazing.”
+
+“Oh? You've spent some time on one, have you?”
+
+“I recognize that motherly tone.” Patty chuckled. “No, I haven't enjoyed his attention like that.” She said. “We have town meetings upstairs in the meeting space, and there's chairs and a couch up there.”
+
+Elerlyth was relieved to hear that, considering how much Patty looked like a slightly older Lucy.
+
+“Why don't you come in and have a seat? He could be a while, considering how many people he needs to visit.”
+
+“What do you mean?” Elerlyth asked.
+
+“The maids told me about Ren having to run errands all over.” Patty said. “The High Elven Kingdom, the Giant lands, and even in Aurora... before coming back here for Adventurer's business.”
+
+“You seem to know a lot about it.” Elerlyth practically accused, and Patty laughed.
+
+“I haven't even seen him in over a month.” Patty said. “Not since we went to the castle together to argue over that stupid Sea Dweller deadline.” She said. “You don't need any guess to know what happened there.”
+
+Elerlyth shook her head.
+
+“Well, it was a fiasco and Ren told them off.” Patty smiled. “Right to the king's face, too.”
+
+“R-really?”
+
+“Look, I know you're desperate to see him, but...” Patty looked around conspiratorily. “...if you want to hear the whole story, come on in and have a seat. I had front row seats to the whole thing.”
+
+“But... I...”
+
+“Or not.” Patty said with a smile, knowing she had baited the hook sufficiently, then she stepped back and started to close the door. “I'm a little busy, even though it's getting so late and the parks are closed.”
+
+Elerlyth hopped off of her steed and touched the door to stop it from closing all the way. “All right, I'll listen.”
+
+Patty pointed to the post near the door. “Tie up your mount and come on in.” She said and walked towards the stairs. Elerlyth did so and quickly followed Patty inside and shut the door.
+
+*
+
+Ren and Princess made it back to Aurora and they went to the back of the business and up the stairs to the back door. Once there, Ren let Princess in and told her to wait on the second floor. She carefully walked over to a couch and climbed onto it, and Ren went up the stairs.
+
+“It's open.” Anabelle said as Ren approached the door to the apartment, and he walked inside. “That was really nice of you to deny me my job for today.” She said sarcastically.
+
+“I did that for me, actually.” Ren said, and she widened her eyes. “I figured the place would be swarmed with people just looking for me, rather than for any special items that the business sells.”
+
+Anabelle sighed. “Yes, there was a significant amount of door banging and hollers for you.”
+
+“I'm sorry about that.” Ren said. “I came here to make it up to you.”
+
+“After visiting everyone else.”
+
+“Almost everyone else.” Ren said. “I didn't go to the Dwarven Kingdom or to the Human starter city in my county.”
+
+“But you would if you could, right?” Anabelle asked. “Especially the Dwarven Kingdom.”
+
+“Perhaps.” Ren said. “I can't, so I didn't.” He said. “I won't be visiting Valencia, either.”
+
+“Why not?”
+
+“We haven't gotten to that stage yet.” Ren said honestly. “We've only been on one date, and I know my connection with her was only cut and not damaged.” He touched the Ghoul Kissed mark on the back of his hand. It had been the only thing that remained after the Water Works update.
+
+“But...”
+
+“I won't be visiting the King, Queen, or their daughter, Princess Diana, either.” Ren said. “So, it's just you left.”
+
+“Just me?”
+
+“I always save you for last, before I go home.” Ren said. “You know that.”
+
+Anabelle took in a sharp breath as she felt his feelings, and she stepped close to hug him. “Why aren't you letting me feel all of you?”
+
+“Even the Queen of the Dark Elves herself couldn't handle the sheer amount of feelings I have, so I'm not even going to try to share them with anyone else.” Ren admitted. “I won't potentially hurt anyone if I can help it.”
+
+Anabelle nodded. “So, how long can you stay before you need to go on Adventurer's business?”
+
+“It depends on how long you can stand being around me.” Ren said and touched the side of her face. “I had wanted to take you into the Sanctuary a bunch of times; but, I know how fragile you are when it comes to things like that.”
+
+Anabelle nodded. “With me needing a contract just to keep my sanity intact, any kind of time dilation is risky.”
+
+“It is... except what if I didn't accelerate time at all?” Ren asked and took out something that looked like a backwards clock. “What if I just... paused it for a while?”
+
+“Wh-what?”
+
+Ren felt her shock and he led her into the bedroom and put the clock on the nightstand, activated its function, and the room was covered in a soft glow. He sat her down on the bed and gave her a kiss on the lips.
+
+“It's a very limited item. One use only.” Ren said. “Once it's used, it's gone forever and can't be used again.” He explained. “I can't even try to recreate it from scratch.”
+
+“B-but...”
+
+“You and I are now outside of time.” Ren stored his clothing. “Teepo's going to count the days and weeks and months for us, but that 'time' isn't actually passing. It's just a way to determine how long we'll be together while nothing else happens.”
+
+“But... but...”
+
+“How long would you like to be here with just me?” Ren asked and laid her back on the bed. “How long until you know I'll always take care of you, no matter what?”
+
+“I... I... don't know.” Anabelle said and stored her clothing. “Wh-what do you think?”
+
+“Let's start with a year and see how things go from there.” Ren said and felt her shock as she gasped.
+
+“A... a year?” Anabelle whispered. “I... I can... with you... for a year?”
+
+“To start.” Ren kissed her, and she let her dammed up emotions flood out. She remembered losing her connection to him and him coming to her rescue with another contract. That alone had ensured her love and devotion to him for the rest of her life, not that she needed the reaffirmation. It only made it fresh in her mind, and she let herself go completely as he pleased her.

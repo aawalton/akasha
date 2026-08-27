@@ -1,0 +1,121 @@
+---
+id: f005c85c-5e39-5588-9916-1eccbae39b9b
+page-type-slug: story-chapter-royal-road
+title: "Chapter 18"
+slug: 0019-chapter-18
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 19
+ownLength: 2349
+unit: words
+publishedAt: 2026-06-07
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3504526/chapter-18"
+royalRoadId: "3504526"
+---
+
+We soon learned that the Ever Steady was not living up to its title. There likely was a commentary about humanity to be found in there somewhere. As long as we were on the offensive and believed we had the upper hand, all was well and good. When push came to shove… well, there was a lot of pushing and shoving going on right now, but not the good kind.
+
+It likely also had to do with the lack of time and organization. Things had progressed so quickly since the portal opened, that there was no overall control, no proper contingency plans in place. People milled about, confused, scared and angry.
+
+Some organization was ongoing. Here and there, leaders shouted commands, browbeat people into actual squads and tried to arrange some actual order.
+
+Elizabeth ignored it all. She pushed her way through the milling masses, every now and then glancing back at me to check that I was still with her, still carrying my burdens.
+
+We pushed our way through a throng of shouting, panicked people clearly belonging to that Asian military coalition and experienced a brief moment of relative peace, meaning the next shouting crowd was at least fifty meters ahead.
+
+I hurried up to reach her side and shouted. “Where are we going?”
+
+“Our walls!” She nodded with her head straight ahead.
+
+Then I saw it. In the night, a flag dipped, catching the glow from a light cone reaching upward from an elderly man. The U-Nerds flag.
+
+“There’s no police or army or anything here. So, the largest forces divided the walls between us to avoid the worst chaos. The north-north western stretch is ours. We just need to reach the commanders, and ensure – no!”
+
+I didn’t ask what she was talking about. I didn’t have to. We were too late. Or the attackers were too fast. Whatever the reason, the first cries of pain emerged from the walls ahead of us. Yet, they were quickly drowned out by other noises. Bestial sounds, snarls and roars. Whatever was coming, it wasn’t human.
+
+“Follow!” Elizabeth’s command left behind every vestige of the kindly Crafter it held just a moment ago. Now, the steel showed from underneath, and she started sprinting, holding back nothing as she pummelled her way forward through the crowds ahead, using words, curses and elbows liberally, anything to speed her up.
+
+I did as she said, barrelling ahead, ignoring the shouted complaints and cries of pain. Once, in between a man with a large, glowing spear, and a woman standing on a raised dais of earth that was slowly growing taller, I thought I spotted Nix, shouting angrily at somebody. Yet, she never saw me, and we continued at an angle. Eventually, we managed to beat our way through the crowd, reaching a spot where Major Pain was actually standing up, folding chair collapsed on the ground, surrounded by well-armed people.
+
+“Lizzy!” He yelled. “Y’all made it. About damn time. How about-”
+
+She cut him off mid-sentence. “I’ve got my goods. Rather, the boy here’s carrying them. Where do I set up?”
+
+His gaze glanced over at me, then back at her. “Right here. Not letting ya out of my sight. Folks’re panicking right now.” He spoke to somebody else. “Pete. I want you to half the healing supplies and disperse them among the fighters. Tell the troops the rest of the healing’s back down here. Rotate ‘em down when needed.”
+
+A lanky teenager with two spindly bone daggers nodded, reached out to grab my tarp and took off.
+
+The Major didn’t miss a pace, turning back to Elizabeth. “Get to it. We’ve got less than a minute before the first wave hits. This’ll be uglier than a mud fence.”
+
+She didn’t respond, just bent down and started arranging the contents of her tarp on the ground ahead of her.
+
+I placed my tarp next to hers and started unloading items from my Personal Universe as well.
+
+That seemed to get the Major’s attention. He scratched his nose, then commanded. “You. When you’re done unloading? You’re on bodyguard duty. People’re being dumber’n roadkill right now, and they might do something stupid to try and swipe healing goods.”
+
+I considered protesting for all of two seconds, but... no. ‘Protect the healer’ made a crapload of sense, even compared to whatever experience I might gain on the walls. I nodded at him. Then I hoisted my shield and swordbreaker, started glaring at anybody who looked like they’d try to make a grab at any of the goods.
+
+The walls close to us were as fully manned as they could get. Also, there were lights at even intervals, making sure that the walkways were fully lit. I turned full circle, trying to take in the entirety of the camp.
+
+The Ever Steady was… well, it was impressive. Honestly. Even ignoring the chaos and panic of thousands of people being afraid and unsure, it looked damn good. Every inch of every wall was packed in varying degrees of organization and uniformity.
+
+Next to the U-Nerds, the Asian coalition sported a damn impressive sight, with their part of the wall packed with spear wielders, while the ground just behind the wall was filled with rows upon rows of archers, ready to unleash volleys of system-enhanced arrows at any attackers. I wouldn’t want to be the one to try and take on that side.
+
+Other spots on the wall were far less uniform. One side was a mess of shield bearers on either side of a larger-than-life figure that glowed in the dark with magical power from the entirety of his armor-clad body. The Shield of the Titan not only looked like he wanted to take on all comers by himself. He also looked like he’d be able to manage.
+
+On the other side of the U-Nerds, it was all organized chaos. People rushed back and forth on the walkway, yelling insults down at the darkness beyond. One guy, clad in what could charitably be called a home-made version of an American flag suit looked like he was pissing off the edge of the wall.
+
+The rest of the walls were too far away to see the details – but there was no doubt that they were covered, weapon-wielding humans ready to repel whatever the night had to throw at us.
+
+Behind and above all of us, the bird’s tower loomed, with the captain looking down on all of us. Also, another presence was there, a swirling bright sensation slowly building into something bigger and more menacing than mere lights.
+
+It all spread one message, and one message alone. “Humanity’s here, and we’re here to stay.”
+
+I found myself grinning, looking at the walls to spot some sign of whatever we were up against. Maybe, when we’d repelled the first wave, I’d be able to take a turn on the walls, and earn myself some experience.
+
+“So, how often does this happen?” I yelled at Elizabeth.
+
+She was still arranging things just so, kneeling at the centre of a tarp. Judging from the way she’d placed the healing jerky right next to herself, and other items, from small clay crocks filled with liquid over what looked like purple grasses in an ever-expanding circle with her at the centre, I’d wager that she kept the cheap stuff at the edges, and the best ones right next to her.
+
+Waving at me to pass her a large jar filled with insects, she took her time responding. “Never. Not since I arrived a week ago, at least. We do see a few attacks at night, but they’re never all-hands-on-deck like this. More ambushes at the edges of the camps. It’s…” She looked around, then lowered her voice to just below a shout and changed what she was going to say. “I don’t like it. We’ve had rumours the last few days of scouts seeing others at the edges of our domains. Monsters keeping an eye on us. Spying on us, but keeping their distance.” She grimaced and hesitated, then reached down in front of her and picked up two small marble-like creations. Tossing one at me, she popped the other in her mouth and started chewing.
+
+I imitated her action and was met by the disgusting sensation of congealed fat dispersing in my mouth, covering my teeth with a layer of fat and a taste of fish. That, and a system window.
+
+You have received a buff.
+
++3 to Perception.
+
+Duration: 1 hour, 19 minutes.
+
+I blinked as my tongue frantically tried to scrub the taste and sensation off my teeth. Suddenly, the darkness of the evening had become brighter. Formerly unclear shapes on the walls stood out as if they were just a dozen meters away. Damn! If a simple boost to Perception gave me 20/20 vision, what would twice this mean as a buff? Night vision? Binocular vision?
+
+”If we’re up against sentient beings – or sapient, I never was able to tell which was which – we’ve got trouble. Because with brains come other infuriating concepts. Stealth. Planning. Teamwork.” She glanced at my shield, taking in the long rent in the leather on one size and toddler-fist-sized puncture opening on the other and grimaced. “I sure hope we can keep them out. Because that doesn’t look like it’s going to protect me.”
+
+I grasped the strap tight, enjoying the weight of the shield pressing down on my arm. Then I grasped a piece of healing jerky in the other hand and munched down, rolling my shoulders as I tried to release some of the built-up tension. “Well. I have some good news and bad news for you then. Bad news it’s only barely kept myself alive so far.” I gave her a shit-eating grin. “Good news is, I know exactly where I can get my hands on a lot of healing materials!”
+
+Our talk was disrupted by a wave of cries and roars from our surroundings. It was hard to tell, but it really felt like we were surrounded by the noise. From one second to the other, it seemed that the entire camp went from frenzied preparations to actual battles.
+
+Following a cried command, the nearby archers started loosing arrows, aimed into the skies beyond the walls. In one place, then another, and another in an ever-increasing crescendo, thumps and other sounds announced the unleashing of our Mages.
+
+For about half a minute, the world boiled down to just that. An absolute uncertainty regarding what was going on, punctuated only by sounds, screams and animalistic roars. Then, whatever or whomever was attacking progressed far enough to clash with the people on the walls. And a few minutes later, the wounded started pouring in.
+
+At first, there were just a few of them. Wounded soldiers, carried in by friends to receive a healing item or two, allowing them a chance to rest and recuperate before they’d have to go back to the fight.
+
+A pale-faced woman with dreadlocks and a haunted look in her eyes told us what was happening while the semi-conscious guy she’d carried on her shoulders was coaxed into swallowing a few sips of a weak healing elixir. “They’re beasts. But they don’t act like it, and they’ve got magic to boot. Different species. It’s like Animal Planet decided to stand up and get back on us for all the crappy shows we’ve put on over the years. Worst part is, I’m not too sure we’re winning. They’re everywhere!”
+
+The slow stream of wounded swiftly turned into a veritable flood. I stepped into character as some blend between bouncer and bodyguard, as the number and severity of wounded exploded. It was a good thing that nobody knew that I was unable to actually punch out anybody who got too up in my face, because tempers were flaring as the battle took a turn for the worse.
+
+In between visitors, we carved together a mosaic of what was going on. Apparently, we’d managed to tick off some semi-sentient beasts. There were three different species out there, some fast, some tough, all with the common denominator that they had magic, were four-legged, and seemed to have a limited capacity for conscious thought. And they were attacking us in a camp-wide wave, attempting to overwhelm our entire force in one go. On every side, every single wall, our forces were hanging on for dear life.
+
+“I don’t give a fuck who you are. Doc said you’re cut off, you’re cut off. Now, back off home, or I will make you back off!” I was discussing fair dispersal of healing items with an elderly man and being a real professional about it. “Now, I know you don’t want to act like an entitled old wanker screaming at the staff in Poundland. So, I suggest you take your demands, stuff ‘em right back up where they came from, and get your ass back on those ramparts.”
+
+That seemed to take him aback. I might have been a bit harsh about it. The poor guy did have a nasty cut on his face – but it was just that. A superficial cut, slightly painful. Elizabeth, apparently, had Identify at a decently high level, and was able to see his health, which hadn’t even dropped ten points.
+
+“I’m hurt. If I go back, I’ll die!” He complained. “Besides, we’re holding them. There’s many of them, but they’re weak. I just-“
+
+I never learned what he just wanted. Probably rephrase his demands in another way. From one second to the next, all sound was effectively drowned out by a roar.
+
+A single roar. Drawn-out, bestial and all-encompassing. It was loud enough to impact my chest, like the bass at a concert. It activated something primal inside me, telling me to flee, right this moment.
+
+My eyes met that of the older man. Right that second, we shared something intimate, something instinctual. We didn’t need to speak, but understood each other perfectly, shared the same bone-deep terror.
+
+Then he wet himself, and the moment ended.

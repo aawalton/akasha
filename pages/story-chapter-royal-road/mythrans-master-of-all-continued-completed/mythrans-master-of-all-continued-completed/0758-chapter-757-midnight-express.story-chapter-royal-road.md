@@ -1,0 +1,315 @@
+---
+id: 2da6ccb4-f851-5274-bcdd-fd2f6073b4f1
+page-type-slug: story-chapter-royal-road
+title: "Chapter 757 - Midnight Express"
+slug: 0758-chapter-757-midnight-express
+partOf: mythrans-master-of-all-continued-completed
+position: 758
+ownLength: 3119
+unit: words
+publishedAt: 2018-11-10
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305510/chapter-757-midnight-express"
+royalRoadId: "305510"
+---
+
+“Well, you've had a long day.” Barbara said as she helped Ren take off his VR headset.
+
+“Tell me about it.” Ren said and rubbed his eyes. “I almost screwed everything up.”
+
+Barbara chuckled. “People make mistakes, Ren.”
+
+“I only met her today, and I almost slept with a woman who inherently distrusts people not like her.” Ren said. “I'm glad her prejudice came to the surface before we did go to bed.”
+
+“Then you went to bed with three new women.” Barbara chuckled.
+
+“Only one of them really wants to have sex with me, though.” Ren joked, and she laughed. He looked to the side and saw that the bed was empty. “Hey, where's Elise?”
+
+“Working.” Barbara said.
+
+“Working? This late?” Ren asked and motioned that he wanted to sit up. Barbara helped him move back to prop up on some pillows by the headboard, and he rubbed his wrapped knee.
+
+“Do you want a little something for that?”
+
+“Not right now.” Ren said. “You know how hard that kind of stuff hits me.”
+
+Barbara nodded and sat down beside the bed, then picked up the remote and started to change the channel. “What should we watch?”
+
+“It doesn't matter.” Ren said. “Tell me about what Elise is doing.”
+
+“Not just her. Barbi's working, too.”
+
+“Okay, now I really need to know.” Ren said.
+
+Barbara took a deep breath, let it out, then told him about the news broadcast earlier that night. Ren wasn't sure what the big deal was, then she said that they had pieced together nearly the whole deposition that he had given to the lawyers at the firm.
+
+“No way.” Ren said. “How did they get it?”
+
+“Apparently, someone sat through all the preliminary trials today and recorded the recordings they released in the courtroom.”
+
+“Damn, that's a smart way to get a story.” Ren said.
+
+Barbara heard the admiration in his voice. “Ren, this could be very bad.”
+
+Ren shook his head. “No, even if the lawyers lost their cases, they did what I said to do. They are making the most of what I said and are using it to full advantage.”
+
+“But...”
+
+“I assume the work Elise and Barbi are doing is damage control, like selling the appropriate stocks, and also checking to see if the footage they showed was the whole thing?”
+
+“That's exactly what they are doing.” Barbara said, a little surprised. “They can't decide if they should release the whole thing or not.”
+
+“Tell them that if they already found most of it on the net and it's already spreading around, releasing the official deposition in its entirety on our main site would give us the upper hand in making it legitimate.”
+
+“What if it's still needed by other lawyers?”
+
+“That's why I said if 'most' of it is already out there.” Ren said. “If it's not, then maybe they can just release the transcript for those parts.”
+
+“If you're sure...”
+
+“I don't want to compromise any court cases; but, I also don't want blatant rumours and falsehoods to spread, and maybe subject us to lawsuits for slander because the information is incomplete.”
+
+“That's what Barbi was worried about.” Barbara said and took out her cell phone, then typed up a message to Elise and Barbi. Her phone beeped at her and she read the response. “They said most of it is on the net now, so the rest of the footage will only tie it all together.”
+
+“Then put the full video on the site and blast social media with the announcement.” Ren said and smiled. “Either it'll blow over by morning because everyone will know, or the security guards are really going to earn their pay.”
+
+Barbara chuckled. “It's not really a joking matter, you know.”
+
+“If we don't laugh at it, we'll have to admit it's horrible... and we should feel bad that everyone has to watch it.” Ren said and took her hand. “I sincerely doubt that they are all as brave and strong as you.”
+
+“I wanted to bawl and weep the whole time you talked.” Barbara gave his hand a squeeze.
+
+“That's what I said.” Ren grinned, and she snorted a laugh.
+
+“Hey, handsome!” Lisa nearly yelled as she came into his bedroom at a jog.
+
+“Lisa! You're going to wake up the whole house!” Barbara said just as loudly, then covered her mouth with a hand.
+
+Ren and Lisa laughed.
+
+“It's okay. Everyone's still up anyway.” Lisa said and climbed up onto the bed and sat beside Ren. “After I helped Barbi and Elise track everything on the net, I logged in to see how things were going for you.” She said to Ren and leaned in to give him a kiss.
+
+“You didn't stick around and saw the end, then?” Ren asked, and she shook her head. “Then be ready to be amazed.”
+
+“I doubt you could get into too much trouble riding in a caravan.” Lisa said.
+
+“It was after we landed in Pervaria.”
+
+“What? Did something happen at the garrison?”
+
+“You could say that.” Ren said, then told her about the goblin army attacking, mobilizing the troops and going along, then about the 40 foot tall spider appearing and dealing with it.
+
+“They summoned Anansi so soon?” Lisa asked.
+
+“Oh? You know about...” Ren stopped talking and laughed. “Sorry.”
+
+Lisa smiled. “He's an evil entity that hates the Pervarians with an unbridled passion, because they are corruptions of pure animal spirits.”
+
+“Well, that's not entirely true.” Ren said. “Some of the Pervarians are born as talking animals.”
+
+“You know that already?” Lisa asked, and he nodded.
+
+“I met a medical professional when I was getting checked out in customs and she told me some interesting facts.”
+
+“She's also his newest concubine.” Barbara said.
+
+“You snookered another one?” Lisa teased, and Ren laughed.
+
+“You knew it was easy for strong fighters to pick up women like stray cats, and you sent me to the Pervarian Kingdom anyway?” Ren asked, and it was Lisa's turn to laugh.
+
+“I told you that you were going to like it there.”
+
+“I thought the big secret that you meant for me to discover was that they could change into animals.” Ren said, and she took his hand.
+
+“It was, with the side benefit that if you just be yourself, unlike how a lot of other places treat you, they only see your power and treat you accordingly.” Lisa said. “Short, tall, handsome, ugly, it doesn't matter one iota.” She leaned in and gave him another kiss.
+
+“Not all of them feel that way.” Ren said and explained what had happened with Tatya, and her revelation that a lot of her people will distrust him because of their bias against those not of their kind.
+
+“A false emotional front?” Lisa asked, and thought about it. “That's an interesting way for them to share only certain things with outsiders. They can learn everything they want to learn without revealing that's what they are doing.”
+
+“I caught them at it, then offered to just sit there with their detector and let him find out everything.” Ren said, and Lisa snorted a laugh.
+
+“Like knowing what your skills are is going to tell them what you can do!”
+
+“That's what I told them.” Ren said and kissed her back. “Great minds think alike.”
+
+“Well, unlike your great mind, I'm beat!” Lisa said. “I'm going to bed.”
+
+“You're not staying here?” Ren asked.
+
+“No, you need a break from my awesomeness.” Lisa said, and he kissed her hand and let her go. “Rest that leg, and try not to strain yourself, okay?”
+
+“Okay.” Ren said, not really sure what she meant. Lisa left the room and he looked at Barbara. “Do you know...”
+
+“I'm sure she's referring to your promise to... what was it you said? Oh, right.” Barbara smiled. “You're going to properly thank Barbi.”
+
+“Oh, yeah.” Ren said. “Thanks for reminding me.”
+
+“I thought you could remember everything?” Barbara asked.
+
+“I can, but... it's not like it's all right there floating in my head.” Ren said with a smile. “I'd be going crazy if all of my memories were fighting for dominance and for my attention.” He chuckled. “It's more like a well-organized calendar.”
+
+“Really?” Barbara asked. “Then, if I said something like... the first time I read you Little Bo Peep...”
+
+“It was on a Sunday, and I had just finished a late supper because the medical assessment tests went really long that day.” Ren said after a moment. “I was so sore from all the poking and prodding that you kicked everyone out of the room and climbed onto the bed with me.”
+
+Barbara took several shallow breaths as she remembered that day, too.
+
+“You had given me my first hug the day before, so I was surprised when you cuddled me on the bed and took out the very first story book I had ever seen.” Ren said. “I couldn't read the words; but, I loved the bright colors of the pictures.” He smiled. “The sound of your voice was the best thing I'd ever heard.”
+
+“R-Ren...” Barbara fought hard to hold back her tears.
+
+“It took you 23 minutes to read it all to me, because you took your time and let me stare at each page.” Ren said. “I was too weak to touch it, so you put my hand on each picture and I felt the glossy surface.” He said. “I hadn't known at the time that you bought the book just for me.”
+
+Barbara couldn't hold the tears back anymore and grabbed a tissue and sniffed to stop her nose from running. “I... I still have that book.” She said and wiped her eyes.
+
+“I misplaced that memory for a long time, especially with all the things that happened after that.” Ren gave her hand a squeeze. “I remember it all now.” He said, and she let a small sob out. “Thank you for taking care of me, Mom.”
+
+“Y-you're w-welcome, Son.” Barbara managed to say.
+
+There was a knock on the bedroom door, and Barbara took a deep breath as she let his hand go and grabbed another tissue to wipe off her face.
+
+“Come in.” Ren said, and the bedroom door opened and Barbi came in. She was still wearing the baby-blue colored t-shirt and matching boxer shorts with the slits on the sides to highlight her legs.
+
+“It's done.” Barbi said and walked over to the bed, and Ren saw that she still hadn't put on a bra. “We've got the full video file and the transcript up, and thanks to Elise's contact at the law firm, we've also got all the judgments from the cases today, cross-linked with the video files on the internet, and their transcripts as well.”
+
+“Damn, you guys are good.” Ren said, impressed. “Thank you so much for handling this so quickly.”
+
+“That's my cue to go and make myself a light snack in the kitchen.” Barbara said and pointed to the phone. “I'm only a minute and a call away.”
+
+Barbi nodded and Barbara left the bedroom and shut the door.
+
+“Where's Elise?” Ren asked.
+
+“She said something about overseas markets and clearing out the deadwood.” Barbi said, and Ren chuckled.
+
+“It's probably most of the portfolio she gave me for my birthday.” Ren said. “I can't imagine what her own portfolio looks like if she had to dump most of her technology stock.”
+
+“She did, and right into the... what was it she called it? A float or something?” Barbi shrugged. “Anyway, once she got rid of it all and the stock price plummeted, she turned right around and bought everything back up.”
+
+“You're kidding!” Ren exclaimed, and she shook her head.
+
+“Nope. I haven't known her for very long; but, she seems pretty shrewd about things like that.” Barbi said. “I'm great at catching details, and yet she was whizzing through different computer screens and scrolling charts faster than I could read even one stock price!”
+
+Ren laughed and pat the bed.
+
+“Ren, I... Stella told me...”
+
+“She did?” Ren asked, then smiled. “Well, that makes things a little easier.”
+
+“Ren...”
+
+“I remember you spreading your legs in the kitchen and practically begged me to please you.”
+
+“I was testing you.”
+
+“I know.” Ren said. “I passed that test, and after we shared a great nap, you stopped me before I made a huge mistake and I promised to properly thank you.”
+
+“But...”
+
+“Now you've done your best to cover my butt in the real world, so that the truth will protect me and not hurt me, like it could have.” Ren said. “I won't ask you to do anything else, except let me kiss you there.” He said and pointed to her special place. “I'll have to call Stella or Denise to help me with something after that.”
+
+“With what?” Barbi asked.
+
+“I can last a little while longer; but, if I'm not helped soon, it's going to start hurting.” Ren pat his thigh.
+
+Barbi remembered earlier when she had overheard Denise pleasing him, and she understood what he meant. She walked over to the house phone by the bed and picked it up, and dialed.
+
+“Hi, it's Barbi.” Barbi paused. “I'm in Ren's room.” She said. “Yes, he needs you.” She hung up the phone and smiled at him.
+
+“Barbi...”
+
+“Just wait a minute.” Barbi said.
+
+“But... if you called...”
+
+The bedroom door opened and Denise came in. Ren's eyes went wide as she came over to the bed and Barbi pointed to his crotch.
+
+“He said he was going to properly thank me, and then get his needs looked after.” Barbi said in an accusing tone.
+
+“Ren.” Denise looked at him with squinted eyes. “How many times do we have to remind you that you're not supposed to wait when you get in this state?” She asked and quickly lifted his pyjama pants up to get a look at him. “You need to tell one of us right away.”
+
+“But...”
+
+“Thanks for calling me, Barbi.” Denise said. “Would you mind...”
+
+“I'll wait in the hall.” Barbi said and walked towards the door.
+
+“But... I was supposed to...” Ren started to say.
+
+“I'll come back in afterwards.” Barbi said and left.
+
+*
+
+Lisa had left Ren's room and instead of going to the elevator or the stairs, she knocked on Stella's door instead.
+
+“Come in.” Stella said, and Lisa saw her sitting at the small table in the mini-kitchen.
+
+“Well, I did it.” Lisa said. “Ren's in the Pervaria Kingdom.”
+
+“Whew. What a relief.” Stella said. “How is he doing?”
+
+“He's a little frustrated.” Lisa said and sat down next to her, then explained what had happened between Ren and Tatya.
+
+Stella chuckled. “Yes, that would be frustrating.”
+
+“He's got 3 concubines, too.” Lisa said.
+
+“Already?” Stella raised both eyebrows.
+
+Lisa told her what happened for him to get the first two.
+
+“Hm. So concubines in name only.” Stella said. “Is that going to change soon?”
+
+“Definitely.” Lisa said. “He's told the first two all about his adventures.”
+
+“Oho!” Stella chuckled. “I imagine at least one of them will want to tear his clothes off after hearing all of that.”
+
+Lisa nodded. “They admire fighting prowess and strength, so he's going to blow their minds.”
+
+“Among other things!” Stella exclaimed, then she and Lisa laughed.
+
+After a couple of minutes, Lisa spoke. “I knew he would enjoy going there, but why did you want him to go?”
+
+“He's soon going to lose the ability to have sex with a lot of the women currently in his life.” Stella said. “The maids and Xuunah are pregnant, and it won't be long before he can't be with them. So...”
+
+“...in order to keep him from utilizing the succubi, you want him to have another outlet, just in case.” Lisa said in understanding.
+
+“You got it.” Stella said and took her hand. “Unlike Ren, I took your warnings to heart. Of course, I still chose having the succubi ancestor in the game; but, that gave me a unique perspective for the problem.”
+
+“How does it feel to have everyone come after you?” Lisa asked with a smile.
+
+“It's both very flattering and extremely scary.” Stella chuckled. “It's a great experience.”
+
+“Yeah, I knew you'd like it for that.” Lisa said. “Your character's name is Experiment001 for pete's sake!”
+
+Stella laughed. “I didn't want to use my own name, and then I couldn't think of one that I'd respond to, so... I defaulted to an easy one to remember.”
+
+Lisa smiled for a moment, then yawned. Stella was about to comment on it, then she yawned to.
+
+“Oh, no! You've caught it!” Lisa said and pulled her hand away, and that made Stella laugh.
+
+“I think you need to take it back!” Stella said as she stood up and tried to grab her. Lisa leaned back out of reach, slid off her chair to the floor, then half-rolled and half-stepped to the side and stood up on the opposite side of the table.
+
+“Too slow.” Lisa teased.
+
+“Am I now?” Stella said and grinned as she took a running stance.
+
+“Oh, crap!” Lisa said and tried to run.
+
+Stella barked a laugh because Lisa wasn't a runner and bolted after her, quickly caught her and scooped her up, then tumbled onto the bed into a heap, with her on bottom and Lisa on top and they hugged each other. They were both laughing at how easily Lisa had been caught, then the laughter faded from Lisa's face.
+
+“Can... I stay here tonight?” Lisa asked, her face slightly red.
+
+“Only if I get a goodnight kiss.” Stella said with a smile.
+
+Lisa's face flushed completely red, then she took a shallow breath and leaned down to give her a kiss. Stella was a bit surprised, since she had meant giving her a kiss after they had climbed into bed, just like they had shared the last time Lisa had stayed there. She didn't let that surprise stop her from kissing her back, however.
+
+Lisa broke the kiss and her breathing was a little fast as her muscles tensed up for a rejection. “H-how w-was th-that?”
+
+“It was perfect.” Stella said, then after a brief moment, kissed her. She felt Lisa relax, because she hadn't been rebuffed or discouraged. “Let's get under the blanket and get some sleep.”
+
+Lisa nodded and they untangled themselves and got into bed. Stella held her arms open and Lisa cuddled in without needing to ask.
+
+“Goodnight.” Stella said and gave her another kiss.
+
+“Goodnight.” Lisa said, then closed her eyes and basked in Stella's warm embrace.

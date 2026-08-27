@@ -1,0 +1,199 @@
+---
+id: c3d8cb56-a388-5fe7-9fdb-571183e48afb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 711 - Hot Under The Collar"
+slug: 0712-chapter-711-hot-under-the-collar
+partOf: mythrans-master-of-all-continued-completed
+position: 712
+ownLength: 2946
+unit: words
+publishedAt: 2018-09-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/293467/chapter-711-hot-under-the-collar"
+royalRoadId: "293467"
+---
+
+“Hello, Father.” Fire Dancer spat as Ren stepped through the large portal into the spawn point building on her night stand. “It's about time you showed up.”
+
+Ren motioned for Zetaya to stay and he dismissed the portal and unfurled his wings, then jumped down to the floor and bowed deeply. “I had important business that needed to be attended to, Deity of Fire.”
+
+“I have seen this... business... of yours.” Fire Dancer said and pointed to her display box, and it replayed his scene of kissing the bellies of the maids and Xuunah, when he left the Main House in his county. “How dare you...”
+
+“You should watch the footage before all of that, from when I just came back from Adventurer's business; but, I'll save that argument for later.” Ren said. “The maids have been pregnant for a while. If I had to estimate, it was well before I started coming here to visit. Like I told them, since I don't know anything about dwarf pregnancies, it could have been quite a long time ago, or happened just before the Sea Dweller event.”
+
+“They are with child!” Fire Dancer said, angrily.
+
+“Isn't it great?!?” Ren exclaimed. “You don't have to be angry about it.”
+
+“Of course I'm angry!” Fire Dancer nearly yelled and her Everlasting Fire burst forth and filled the room. “You don't understand what this means!”
+
+“Actually, I do.” Ren said and instantly became 8 times his size. Fire Dancer was slightly startled by this change, since she had been used to him growing to that height and not just becoming it. “You are afraid that I'll stop coming here because I'll have other children I need to raise.”
+
+Fire Dancer closed her mouth on the lie she wanted to say, and Ren stepped close to her and took her into his arms and increased Teepo's size as well.
+
+“Honey, you are, and always will be, my first child.” Ren said. “I've told you countless times that I love you and that you will always have a special place in my heart.”
+
+“But... but, Father...”
+
+“You never have to worry that I am going to abandon you, because nothing will ever stop me from seeing you.” Ren caressed her cheek and he saw the lost look in her eyes. “I may be delayed because of Adventurer business; but other than that, I will spend my days here with you... until you are sick of me and kick me out.” He chuckled. “Even then, I'll sneak back in just to annoy you with random hugs and kisses.”
+
+“He really will!” Teepo chittered in laughter.
+
+Fire Dancer smiled despite her anger at his lateness and put her arms around him. “You can't sneak into my realm.”
+
+“Ooo, is that a challenge?” Ren asked with a smile, and she shook her head. “Then if it would please you, and you won't get angry, I need to explain something that happened a long time ago.”
+
+Fire Dancer took a breath and let it out, then Ren told her what had happened after his first foray into the Fire Realm. She had heard this before, then he said he hadn't known that Adventurers had put a block on him visiting the realm after that. She shivered as he described being dragged through the portal into the Water Realm by a Water Being, so he held her steady and kissed her forehead.
+
+Fire Dancer relaxed as his calming emotions filled her, and he explained how after he returned from spending a year and a half there, how all contact had been cut off to the pocket realms because of him.
+
+“I didn't know, or realize, that was true until recently.” Ren said. “I've been visiting the Fire elemental you gave me and occasionally trying to talk to you, and I had no idea that you didn't hear me at all.”
+
+“Wh-what?”
+
+Ren let her out of the embrace he had her in and put a hand by the spawn point building. Zetaya stepped out of the building and onto his hand, and he pulled the hand up and held it in between his chest and Fire Dancer.
+
+“This is Zetaya, the Fire elemental you gave me the day I left.” Ren said, and Fire dancer stared at the Greater Fire elemental on his hand.
+
+“That's... no, it can't be.” Fire Dancer said.
+
+Zetaya waved an arm stub at her, and Fire Dancer blinked her eyes for several moments.
+
+“What? How?” Fire Dancer asked and used a fingertip to poke Zetaya's belly, and the Greater Fire elemental let out the sound of breaking branches in a fire and stepped back.
+
+“I guess I'm the only one allowed to do that.” Ren said and activated his Hands of the Gods ability and filled his hand with pure Fire. Zetaya let out the sound of a roaring fire and laid down on his palm, then started to absorb the Fire. He used his own fingertip to rub Zetaya's belly, and the Greater Fire elemental let out the sound of a crackling fire.
+
+“I've always loved that sound.” Ren said, and he looked at Fire Dancer when he felt her surprise. “What is it?”
+
+“Ren, what do you mean that you've always loved that sound?”
+
+“I've been hearing it from Zetaya for a long time.” Ren said and looked back at the Greater Fire elemental. “I always thought it meant Zetaya was really happy, and it wasn't until I learned the Emotion Siphon ability that I discovered that it was happiness and also love.”
+
+Fire Dancer opened her mouth to tell him the sound meant a lot more than just love, and he lifted his eyes from Zetaya and looked into hers. He stopped rubbing Zetaya's belly and used that hand to cup the side of Fire Dancer's face.
+
+“Let me share it with you.” Ren said, and Fire Dancer nodded without hesitation. He smiled warmly and poured all the experiences that he had with Zetaya when the Fire elemental had made that crackling fire sound. He had spent a lot of time cuddling, talking, and just keeping the Fire elemental company, and they both had really enjoyed those times with each other.
+
+“Zetaya and I are very sorry that you didn't enjoy those times with us, like we both intended.” Ren said.
+
+Fire Dancer gasped as she felt everything that both Ren and Zetaya felt all those times, and two tears came out of her eyes. They dropped to the floor and became baby Fire elementals, except that they were a much brighter flame color than the others. When they merged into Fire Dancer's nightgown, the two bright spots flowed up her clothing and stopped at her neck and stayed there. She felt the difference in them, and her heart rate sped up.
+
+“Now you can keep those feelings with you forever, just like we do.” Ren said.
+
+“F-father...”
+
+“Take my hand, Fire Dancer.” Ren said.
+
+Fire Dancer took in a sharp breath, because that was the first time he had spoken her name in years. He still had one hand on her face, so she put her hand on the one that still held Zetaya. When her hand met Ren's pure Fire that Zetaya was floating in, her Everlasting Fire activated and poured into his hand as well.
+
+“Hold on tight.” Ren said and poured as much pure Fire into the space between their clasped hands as he could and compressed it.
+
+“Father, what...”
+
+“Give Zetaya as much of your Everlasting Fire as you can, Honey.” Ren said, and closed his eyes to control the flow. Fire Dancer could feel that he wanted to do something special, so she closed her eyes as well and did as he said. She poured her Everlasting Fire into the space between their clasped hands and compressed it as well.
+
+The sounds of a crackling fire dimmed and quieted, and the heat between their hands increased exponentially. When it reached the point that Ren felt it start to collapse in on itself, he stopped his flow and opened his eyes.
+
+“That's enough.” Ren said and eased his grip on Fire Dancer's hand and stopped cupping the side of her face with the other. Fire Dancer stopped the flow of her Everlasting Fire and moved her hand out of the way to look at what he did. The Greater Fire elemental was shrinking down and down as it collapsed in on itself, and Fire Dancer remembered Ren's story about what had happened the last time something did that.
+
+“Ren! Stop!” Fire Dancer exclaimed.
+
+“It's all right.” Teepo chittered in delight.
+
+Ren created a Magical Barrier of Protection on his hand to cover Zetaya.
+
+“Ren's got this.” Teepo said.
+
+“But...”
+
+“Watch.” Ren said and they stared at Zetaya as the Greater Fire elemental shrunk all the way down to a single point of light, then exploded like a supernova. Fire Dancer gasped at the sight, and then the completely contained explosion pulled back into itself and coalesced into a humanoid shape, then translucent skin formed over it.
+
+“But... but...” Fire Dancer couldn't believe what she was seeing.
+
+“I could have fed her pure Fire for eternity and I never could have given her enough to evolve again.” Ren said and dismissed the magical barrier, then activated his Hands of the Gods ability Burning Hands, and filled his palm with it. “Zetaya needed Everlasting Fire to finish.”
+
+The newly formed Fire Being relaxed and floated in Ren's pure Fire, and both Ren and Fire Dancer felt Zetaya's contentment. The Fire Being opened its eyes and looked up at them.
+
+“Hey, you.” Ren said and poured his love and pride out to the Fire Being. “How do you feel?”
+
+“I... I feel...” Zetaya said in a woman's voice, then stopped talking and covered her mouth. “I just spoke!” She exclaimed, then noticed her hands. “I have HANDS!”
+
+Ren chuckled as he felt her surprise and delight, and Teepo chittered in laughter. Zetaya stood up on Ren's hand and looked down at her new body. The translucent skin changed shape and instead of being gender neutral, it became distinctly female with large breasts and wider hips. Long flowing hair was formed from Fire and cascaded in waves down her back to end by her backside.
+
+“Great Vasalor.” Fire Dancer whispered.
+
+“Thank you so much, Ren!” Zetaya exclaimed and smiled up at him as a fancy set of clothing made of Fire formed around her, then she looked at Fire Dancer. “Creator of Fire, thank you as well.”
+
+Fire Dancer stared at the tiny Fire Being and wasn't sure what to say. Ren leaned in and whispered to her, then leaned back with a smile.
+
+“I know it's been a long time since you've been here, but... welcome home.” Fire Dancer said.
+
+“You honor me, Creator of Fire.” Zetaya said and ducked her head.
+
+“I'm so proud of you!” Ren gushed and Teepo flew down to land beside her. “You're a Fire Being now!”
+
+Zetaya laughed and the sound of a crackling fire was heard. “It's all because of you.”
+
+“It wasn't just me.” Ren smiled. “I understand what you mean, though.” He looked at Fire Dancer. “Thank you for not being angry about...”
+
+“Oh, I am angry.” Fire Dancer said and the repressed anger she felt came to the surface and she gained the Angered condition. “You have told me over and over how other Adventurers have constantly attacked you and interfered with you, and now with this evidence right in front of me where they cut me off from hearing your voice all these years...” She bared her teeth in a menacing smile. “...not to mention how they broke the whole world not long ago.”
+
+“Deity of Fire, please...” Ren started to ask her not to overreact, and she laughed.
+
+“I am very, very angry, Father.” Fire Dancer said. “You may have forgiven them for their folly, but I never will.”
+
+“It... it wasn't all of the Adventurers.” Ren tried to say in their defence, and she laughed again.
+
+“Father, if you want to point out specific people for me to attack, then let it be so.” Fire Dancer said with a maniacal gleam in her eye. Since Ren didn't know the tech people's actual identities in the game, he couldn't tell her who to target. “Don't worry. I won't kill them all right away.” She said and tried not to laugh again. “It will take years for me to work out a plan to have an appropriate revenge on them.”
+
+“Honey...”
+
+Fire Dancer quickly held out an index finger and pointed right at his face. “Don't you dare tell me that the ones who hurt you don't deserve to be hurt back for what they did!” She accused, and Ren closed his mouth. “I know a lot of people will be caught up in this, and I also know that you believe a lot of them will be innocent.”
+
+Ren held in his sigh and only nodded, because he knew where she was going with this train of thought.
+
+“Not all of them are innocent of everything.” Fire Dancer smiled. “I will weed out the guilty and make them pay.” She said, and felt that he didn't agree with her decision. “Your agreement isn't required, Father.”
+
+“I know it isn't.” Ren said. “Will you accept my help when you do think of a plan?”
+
+“Will you try to subvert and change the conditions I may set, so that as many Adventurers as possible will have a chance to survive?” Fire Dancer asked.
+
+Ren would never lie to her, so he nodded. “I will.”
+
+“Then, yes. You can help.” Fire Dancer said, much to his surprise. “I am not going to resort to mass murder to achieve my goal, Father.”
+
+Ren did sigh this time, only it was in relief. “Thank you.”
+
+“With that out of the way, I think it's time we went to bed.” Fire Dancer said and looked down at Zetaya in Ren's hand. “You have my permission to make her our size, if you wish.”
+
+Ren was surprised by this. “I wouldn't presume to...”
+
+“It will take her centuries to gather enough of her own power to change her size on her own.” Fire Dancer said as she turned around and climbed onto her bed and under the blanket. “She will be hard to hold and keep safe in her current size.”
+
+“But...”
+
+“I can feel how happy you both are that she has hands to be able to hold you properly.” Fire Dancer said and rolled over to face away from them. “What kind of person would I be if I told you not to?”
+
+Ren looked at Zetaya, and she nodded. He put her down on the floor and cast the same Permanent Enlarge or Reduce Anything spell he had modified to 8 times its effectiveness, and Zetaya was instantly the same height as Fire Dancer, or 1000 feet tall.
+
+Ren was almost 1200 feet tall, and Zetaya put her arms around him for the first time and gave him a proper hug. He hugged her back, then motioned to Fire Dancer's bed. Zetaya smiled and nodded, then the two of them climbed onto her bed while Teepo flew up to land on the wall beside the headboard.
+
+“Hey!” Fire Dancer exclaimed. “What do you think you're doing?”
+
+“Shh.” Ren said and equipped his pyjama set as Zetaya laid down behind Fire Dancer and formed a nightgown the same as hers. “You're the one we want to cuddle with.”
+
+“But... but I felt...” Fire Dancer stopped talking as Zetaya slid in close and put an arm over her waist.
+
+“No doubt we will be cuddling a lot over the next few years.” Ren said. “Her first time cuddling with her Fire Being body? We think it should be shared with you.”
+
+Fire Dancer turned her head and looked at his face, and he smiled reassuringly and laid down behind Zetaya, then draped his own arm over hers to hold them both.
+
+“Goodnight.” Ren said, and she felt his resolve to not take no for an answer. That cut off any real protest that Fire Dancer might have had, and she sighed in resignation.
+
+“Fine. Do what you want.” Fire Dancer put her head back down on her pillow, and relaxed after a few moments. She was a bit surprised that it felt reassuring for her to have another Fire Being around, even if it had been created and not born like she was. She drifted around the edge of sleep with the thoughts of what she could possibly do with another Fire Being around, then remembered the spare room Ren had given her that was absolutely filled with clothes and books.
+
+Maybe... maybe we could... Fire Dancer couldn't stop her smile as she fell asleep and felt the warm embrace of two people that cared a lot about her.
+
+Fire Dancer woke up after an hour, thanks to the Sustenance ring Ren had given her, and she turned to look at the other two people in her bed. Both of them were deeply asleep and she felt their unfiltered emotions. Both of them were very happy to be there with her, which touched her heart deeply, and she waited for several minutes for them to wake up.
+
+“Ren turned off the sleep requirement on his Sustenance ring.” Teepo whispered. “He wanted you all to enjoy a full night's sleep together.”
+
+Fire Dancer took a breath and let it out, then nodded and rolled back onto her side to go back to sleep.

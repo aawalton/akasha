@@ -1,0 +1,345 @@
+---
+id: 14b6cb68-482c-5c2a-85a9-22bac5c227a5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 649 - Real Life Things"
+slug: 0650-chapter-649-real-life-things
+partOf: mythrans-master-of-all-continued-completed
+position: 650
+ownLength: 3270
+unit: words
+publishedAt: 2018-07-25
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/237600/chapter-649-real-life-things"
+royalRoadId: "237600"
+---
+
+Elise had asked Lisa to come with her to the office after they left Ren's room, and Lisa followed her without asking what she wanted. When they entered the office, it was dark and seemed emptier than it should have been.
+
+“I don't like leaving this place so dark and dreary, but money doesn't grow on trees.” Elise said and turned on the light, then hit one of the keys on her computer keyboard. Her desktop monitor came to life and Lisa saw stock market tickers and bar graphs and several other things she couldn't make heads or tails of.
+
+“Do you want some coffee?” Lisa asked.
+
+Elise shook her head. “Not this late, or I won't get to sleep.”
+
+“I won't be sleeping at all.” Lisa said.
+
+“I know what you mean.” Elise took her hand. “I just want to cuddle him and keep him safe.”
+
+Lisa nodded. “...and we can't.”
+
+“Unfortunately, no.” Elise said and let her hand go. “Our love can hurt him even more than he's hurt now.” She opened the top drawer of her desk and took out several papers and an envelope. “I know this isn't really a good time for business, but I need your signature.”
+
+“For what?” Lisa asked.
+
+“The contract for the Household Affairs Assistant.” Elise said. “If you want to take the job officially.”
+
+Lisa took in a sharp breath and held it. “I... I thought... Ren was exaggerating...”
+
+Elise smiled. “I was the one who told him what the position would be called.”
+
+“Oh.” Lisa said.
+
+“Like he told you, there's nothing new to the position. No required duties. No schedules. No need to stay underfoot and look for things to do for us or the house.”
+
+“But...” Lisa sighed. “...is that really a job?”
+
+“Everyone has to start on the ground floor.” Elise chuckled. “In this case, quite literally. That's where this office and the kitchen are.”
+
+Lisa chuckled, too.
+
+“So, what do you say?” Elise said and slid a piece of paper over to her with a pen on top. “You can read that and decide.”
+
+Lisa moved the pen and read the contract, and Elise hadn't been exaggerating. No set work times, no scheduled days, and no requirements. She read the whole thing and saw she would be getting minimum wage with raise options at 3 months, 6 months, and a year.
+
+“This... this is...” Lisa looked at Elise. “Are you serious?”
+
+“There are clauses for bonuses as well.” Elise said. “Don't worry. We take care of our own here.”
+
+Our own. Lisa thought and signed the little box where Elise had marked the paper with a little 'x', then handed it to her.
+
+“Now that that is out of the way.” Elise said and held a hand out.
+
+Lisa was a bit bewildered as she took the offered hand and shook it.
+
+“Welcome to the Household Division of Haddon Enterprises, Lisa.” Elise said and gave her a big smile, then pulled her into a hug.
+
+“Th-thank you.” Lisa said and hugged her back.
+
+“Thank you for staying with Ren and protecting him when I couldn't.” Elise said and let her go.
+
+“Wh-what?” Lisa looked up at her.
+
+“I talked to the EMTs that took you and Ren to the hospital.” Elise said and cupped the side of her face. “I'm very proud of you.”
+
+“E-Elise, I... I was so scared!”
+
+“I know, and that's why I'm so proud.” Elise said and hugged her again. “You stayed calm despite being scared and made sure Ren was okay.” She pet Lisa's hair. “I'm sorry that all of this happened, but I'm also happy you made it through.”
+
+Lisa sighed. “I did, didn't I?”
+
+“Yes, you brave young woman.” Elise said and let Lisa go again and put her hands on her shoulders. “It takes guts to stand up for yourself, but it takes a lot more than that to stand up to your family.” She said. “You reminded me so much of myself.”
+
+Lisa looked up at her face. “Does... does that mean I can be... as strong as you?”
+
+“Sweetie, you already are.” Elise said and picked up the envelope and handed it to her. “This is yours.”
+
+Lisa took it and opened it. Inside was a debit card, a bank statement, and two blank checks for depositing purposes.
+
+“What...”
+
+“My friend Janice works at the bank we use, and I had her set up an account for you.” Elise said. “You'll have to go to the bank and activate the card so you can pick a pin number to use it, then it will work anywhere debit cards can be used.”
+
+“But...”
+
+“You're wondering how you'll do that?” Elise asked and Lisa nodded. “Just take your car.”
+
+Lisa blinked her eyes for several moments. “Take my WHAT?!?”
+
+Elise chuckled and picked up a set of keys, then held them up. “It's just a remote and a door key. As long as you have it on you, the car works.”
+
+“But... but...”
+
+“I know you have your license and not a lot of practical experience, so I'll be taking you out to practice driving.”
+
+Lisa stared at her, and Elise chuckled.
+
+“We can do it tomorrow afternoon after we watch Ren's big arena fight.”
+
+“E-Elise...”
+
+“It's getting late, so why don't we head up to bed?” Elise said and handed her the set of keys. “Put your house keys on that and make sure to sync them with your cell phone so you won't lose them.”
+
+“Make sure what?” Lisa looked at her with wide eyes.
+
+Elise chuckled. “Don't worry, Sweetie. I'll take care of it and have you tech savvy in no time.” She put her arm around the much shorter woman's shoulders. Lisa put her arm around her waist as Elise led her out of the office and turned off the lights.
+
+“Oh, hello.” Barbara said and put down her coffee cup as Elise and Lisa came into the kitchen with an arm around each other.
+
+“Hi, Barbara. You look exhausted.” Elise said.
+
+“I look just how I feel, then.” Barbara smiled and then yawned.
+
+“You left the hospital really early. Did you get any sleep?” Lisa asked.
+
+“No, I... even knowing he's okay, I...” Barbara tried to express herself, and Elise and Lisa took her into a hug. She was a bit surprised at first, then hugged them back. She sighed and let them go, and they let her go. “Thank you.”
+
+“Even a mother who takes care of everyone else needs a comforting hug now and then.” Elise said.
+
+“More than I thought I did.” Barbara smiled.
+
+“We're heading to bed.” Lisa said. “If I know Ren, you won't have a lot of work to do tonight.”
+
+Barbara chuckled. “Yes, he's missed 4 game days and he's going to try and make it up before morning.”
+
+“He's so tenacious.” Elise said. “I'm almost as anxious as he is while we wait for the game patch to fix the Sea Dweller update.”
+
+“When is it scheduled?” Lisa asked.
+
+“My contact said it's ready, but the tech guys are waiting until Sunday night to give it a wide release.”
+
+“Almost no one plays on Sunday night. Not even me.” Lisa said. “That would be the best time.”
+
+“We should keep Ren out of the game, too.” Elise said. “Maybe the neighbourhood party will tire him out for us.”
+
+Barbara chuckled. “Only if Barbi includes the pool party and he can relax in the hot tub.”
+
+“Won't you have to wrap his knee in plastic or something?” Lisa asked. “It's only bandaged and braced, though. Can those get wet?”
+
+Barbara sighed. “I forgot about that. Its much too soon to remove them, even for a short time. It will have to be wrapped if he wants to get in the water.”
+
+“We can worry about that on Sunday, and only if there's going to be water activities.” Elise said. “Goodnight, Barbara.”
+
+“See you both at breakfast.” Barbara said and watched Elise and Lisa leave the kitchen, and they still had an arm around each other. She didn't speak until they got into the elevator. “I'm glad they're looking out for each other.” She said and picked up her coffee cup. She regretted not taking sugar this time, but she needed it strong and bitter so she could get the caffeine kick and not the sugar rush.
+
+“Are we going back to our own rooms?” Lisa asked when the elevator doors closed.
+
+“I think we should, but I'm not going to.” Elise said and smiled. “I'm going to stay right there with him for as long as I can.”
+
+Lisa smiled. “Want some company on that quest?”
+
+Elise chuckled. “As long as you don't mind getting cuddled in his place.”
+
+“That might be a drawback...” Lisa started to say.
+
+“A drawback, huh?” Elise used her free hand to tickle her.
+
+“Hahaha!” Lisa laughed. “Let me... haha... finish!”
+
+Elise stopped tickling and kissed the side of her forehead. “Go ahead.”
+
+“That might be a drawback, if... if... you were anyone else but you.” Lisa said, and then blushed.
+
+“You're so cute.” Elise said as the elevator doors opened. They stepped out together and walked down the hall to Ren's room and Elise opened the door.
+
+“Hi, Denise.” Elise said.
+
+“Hey.” Denise said and pointed to the television. “The succubi took off their tops and the blue screen kicked in, so I'm not getting anything.” She said. “He said he was going to sleep, though.”
+
+Elise nodded and let Lisa out of the one-arm hold and walked over to the big closet. “Barbara said he was going to be working hard later, so he needs his rest.”
+
+“Any idea on what?” Denise asked.
+
+“He just finished making a water park yesterday.” Lisa said. “I'm sure he's not going to stop there.”
+
+“How is he doing that?” Elise asked and pulled out two large t-shirts. “Never mind. I'll pull up the archive footage after a shower.”
+
+“I'll go first and you can look at it now.” Lisa said.
+
+“Thanks.” Elise tossed her a t-shirt. “It's big and comfortable.”
+
+Lisa nodded and went to the bathroom and shut the door. Elise opened the laptop and quickly checked the footage. She sped up the video and watched Ren work as he quickly built all the things a major water park needed.
+
+“His crafting speed is phenomenal.” Elise said. “He's not using his Craft Wondrous Item platform, though.”
+
+“What do you mean?” Denise asked and looked over his shoulder.
+
+“Once his level was high enough, he doesn't have to build items by hand anymore.” Elise said. “All he needs is the recipe and the proper materials, then he can make a scale version and enlarge it.”
+
+“He's done that a few times.” Denise said. “Are you saying he can do it for everything?”
+
+Elise nodded. “Not only that, with his Substitution ability, he doesn't even need the real ingredients.”
+
+Denise looked at Ren actually building the stalls with full lumber pieces and putting them together. “He's... taking his time.” She said as she understood. “He could make them small and enlarge them, but he's taking time to make them.” She smiled. “He's enjoying himself.”
+
+“I do remember him saying that he enjoyed his class so much because he is always working with his hands.” Elise said as Stella came into the bedroom. “At least, he used to work with his hands a lot. With two crafting servants working for him, he's not really doing a lot of things himself.”
+
+“Especially not with ending a centuries long conflict between the High Elves and Dark Elves.” Stella said.
+
+“I was floored when Lisa told us he did that!” Elise chuckled. “Imagine, letting the High Elves believe they've won while giving the Dark Elves everything they've ever wanted.”
+
+“I don't know how he manipulated them like that without lying.” Denise shook her head. “I've been trying to figure out how to achieve even part of what he did, and I can't do it.”
+
+“Denise.” Elise said and Denise looked at her. “He's playing the game. He used their own arrogance against them and beat them. He could have just killed them all and taken over, though.”
+
+“Ren wouldn't do that.” Stella said.
+
+“No, he wouldn't.” Elise smiled. “What he did was achieve a victory so profound that the only ones who will know what actually happened are Ren, the Dark Queen, and her generals and advisors.”
+
+“...and Lisa, of course.” Stella said.
+
+“Who actually is a little sneak.” Elise said as Lisa came out of the bathroom.
+
+“I'm a sneak?” Lisa asked as she dried her hair. She already wore Elise's large t-shirt and it was almost the size of a dress on Lisa.
+
+“You won't tell us if Ren told you all of his plans or if it was your Sage of Ages skills.”
+
+Lisa grinned. “That's for me to know and for you to always wonder about.”
+
+“You see?” Elise walked over to Lisa and kissed her forehead as she walked by. “She's a sneak.”
+
+“I'm not the one that made my character a half-elf just because Ren was an elfling.” Lisa countered.
+
+Elise stopped by the bathroom door and turned around. “If you had to make a new character and choose a race right now, what would you pick?”
+
+Lisa opened her mouth to respond, then turned her head so Elise wouldn't see her face. “No comment.”
+
+Elise laughed and shut the bathroom door.
+
+“Stella, can you stick around? Barbara should be up here in a few minutes.” Denise said and stood up.
+
+“Sure.” Stella said. “I was thinking of staying here tonight.”
+
+“Me, too.” Denise said. “I'm going to go and grab a shower.”
+
+Stella nodded and sat down to keep an eye on the blue television screen, and Lisa finished drying her hair.
+
+“Is succubus a race?” Stella asked out of the blue.
+
+“Wh-what?” Lisa turned to look at her.
+
+“I was just wondering if it was something I could pick.” Stella said and crossed her arms. “I really like the wings and the red skin. The tail would be weird to have, though.” She said. “How would it work? Hip shaking? Does it have its own muscle group? How does it tie into the neural linkage if it's not a natural appendage? Is it an unnatural appendage and controlled differently? What would a separate set of stimuli be like?”
+
+Lisa just stood there, kind of in awe, as Stella rambled on and on about the dexterity and control needed to use something like wings and a tail on a bipedal organism. When she started to speculate about the complexity of having to use them for actual flight, with pitch and yaw factors of the flapping membranes between the bones of the wings, Lisa was pretty much at a loss for what to say.
+
+Stella started to wonder if the tail could act as a rudder or even an improvised air brake of some kind when Elise came out of the bathroom. She had a towel wrapped around her head like a turban and wore the large t-shirt she had brought in with her. It just looked like a normal t-shirt and not a dress like the one Lisa wore. Elise started to listen to Stella's ramblings and noticed Lisa's nearly blank expression.
+
+“Stella, you're overwhelming the poor girl.” Elise said.
+
+Stella stopped talking and looked around. “Hm? What?”
+
+Elise laughed and put her arm around Lisa. “Your in-depth medical analysis of the benefits and drawbacks of having supernumerary appendages is blowing her mind.”
+
+“Oh! I'm sorry, Lisa.” Stella said and walked over to her and put a hand on her shoulder. “You know what I'm like when I get locked onto an interesting medical question.”
+
+Lisa looked at Elise. “I know the answer to Stella's question; but, I don't want to say anything because I might get a warning.”
+
+“What question?”
+
+“Can I choose succubus as a race if I make a character?” Stella asked.
+
+Elise blinked her eyes for several moments. “You want to what?”
+
+“Be a succubus... or part succubus... or even a class that could give me that as a natural form.” Stella said. “I'm just curious about it.”
+
+Elise looked at Lisa and back at Stella. “Well, since they aren't intended for combat, there's not really a class you can choose that will let you have succubus as a race.”
+
+“I hear a huge 'but' there.” Stella smiled.
+
+Elise sighed. “You can... claim a succubi lineage during character creation.”
+
+“So, not a direct family member, but several generations back.” Stella said, and Elise nodded.
+
+“It's considered a huge drawback, though. You'll be... well...”
+
+“What?”
+
+“Highly desirable.” Elise said. “You'll be under constant male advances.”
+
+“You're kidding.” Stella said.
+
+“I wish I was.” Elise said. “It's like...”
+
+“...a Princess Charming title.” Lisa said. “Just like with Ren and his Prince Charming title, you won't have any say over who's affected or how much they are affected by it.”
+
+“That's... I mean...”
+
+“Since you're already pretty hot, nearly every man that sees you is going to want to be near you.” Lisa said, and her face turned red. “Most women, too.”
+
+“Wow.” Stella said.
+
+“So, don't do this lightly.” Elise said.
+
+“What about the wings and tail?” Stella asked.
+
+“It will take about 50 levels for you to unlock your full form.” Lisa said. “You have a limited polymorph disguise ability that gets more powerful as you pass each level.”
+
+“It doesn't matter what class I take?”
+
+“Your combat skills will be lower than everyone else's, so no. If you take the classes with low combat skill, however; you will essentially have none until you start leveling up.” Elise said.
+
+“Okay.” Stella said and gave Lisa's shoulder a squeeze. “Thank you for the information. Both of you.”
+
+“I'd say, 'anytime', but that would be a complete lie.” Lisa said, and Stella laughed.
+
+“We're going to climb into bed and cuddle.” Elise said. “What about you?”
+
+“I...”
+
+“You said you were thinking about staying anyway.” Lisa said.
+
+“I definitely need a shower.” Stella stood up.
+
+Elise went to the closet and grabbed another t-shirt, then tossed it to her. “We'll watch him until Barbara comes in.”
+
+Stella nodded and went to the bathroom to get a shower. Elise climbed onto the bed next to Ren and Lisa climbed onto the bed and laid down beside Elise.
+
+“Ren really liked the makeup job you did on me.” Lisa said, and Elise touched the side of her clean face.
+
+“What did he notice first?”
+
+“That the mascara didn't run when I cried.” Lisa said, and Elise laughed.
+
+“That figures! All that work and he only noticed the obvious!” Elise said, and Lisa laughed.
+
+“I'm sure he noticed it all, he just...”
+
+“I saw the hallway footage when you came out of the elevator.” Elise said and stroked her face again. “He definitely noticed you.”
+
+Lisa's face turned deep red. “He... he said I was beautiful.”
+
+“That's because you are.” Elise said, and Lisa looked at her with wide eyes. “Ren doesn't lie, remember?”
+
+Lisa caught her breath at the intense look Elise gave her. Elise put an arm around her and pulled her in close, then kissed the top of her head.
+
+“He loves you very much.” Elise said and hugged her.
+
+“He loves you very much, too.” Lisa said and hugged her back. They both fell silent and held each other as they waited for Stella and Denise to finish their showers and for Barbara to start her shift.

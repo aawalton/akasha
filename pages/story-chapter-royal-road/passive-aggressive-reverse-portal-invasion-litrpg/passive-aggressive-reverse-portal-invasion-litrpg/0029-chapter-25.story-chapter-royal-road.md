@@ -1,0 +1,99 @@
+---
+id: aac987f3-f93a-5722-98dd-b5f9cf75c260
+page-type-slug: story-chapter-royal-road
+title: "Chapter 25"
+slug: 0029-chapter-25
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 29
+ownLength: 2147
+unit: words
+publishedAt: 2026-06-14
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3537260/chapter-25"
+royalRoadId: "3537260"
+---
+
+I’ve had a few near-death experiences in my life. One arrived by means of the uppercut of a ridiculously skinny practice partner who turned out to be a local welterweight champion. Another was when a one-night stand called to tell me she was having twins and they were mine.
+
+The former cost me several years of pain-filled dentist experiences and a permanent click in my jaw. The latter, just a few minutes of near-hear-attack status, until she admitted she wasn’t sure they were mine. Still, both experiences managed to distance my mind to the point where it felt like I was no longer properly inside my body.
+
+This was the exact same. The scenario froze, leaving my consciousness detached and wondering at the situation. I felt no fury, no rage at the deviousness of the beast. Merely a sort of distanced bemusement and awe. What I’d taken for a simple beast, albeit one with an impressive ambush capability, had proved to be able to outsmart me entirely. Deja fucking vu.
+
+Not only did the bastard have poison. It also, apparently, had the power to create a spiderweb-like substance that was surprisingly sturdy. Meaning, the shiny specks of romcom glamour drizzled everywhere around the scene weren’t actually signs that Robert Pattinson had been here. They were, in actual fact, death traps. And I’d, very effectively, I might add, allowed myself to get trapped. Now, I was staring uncomfortably down at the barrel to the ‘death’ part.
+
+Inside the foggy parts of my mind that weren’t currently busy dealing with the pain of the poison coursing through by system and the, also surprisingly painful, countermeasure of Internal Scourge, I was absolutely panicking, even as I pulled and cursed, trying to tear the bloody strand of webbing apart.
+
+I knelt, then applied the swordbreaker, and roared with fury as the spindly thing immediately got stuck in the sticky strands. Then I heard the shuffling sound of dozens of spindly feet closing in on me and… drew a blank. What could I do? What did the bloody millipede expect me to do? Unleash all my offensive talents?
+
+Inside my mind, a cheery voice responded, “No, Mr. Bond. I expect you to die.”
+
+I chuckled. Then guffawed. And finally, a tiny spark lit in my brain. The monster was still on the opposite side of the large pile of rocks, momentarily out of sight. I carefully lay down, making sure that I was angled just right, and had my shield placed on top of me, like a viking arrayed for his funeral.
+
+The damn swordbreaker, I left dangling, trapped in the web. It could rot, for all I cared.
+
+Lying down, poison coursing through me and trying to end my life, one leg horribly twisted, still stuck in the webbing, I managed one of the hardest things I’d ever done in my life.
+
+I lay still and closed my eyes.
+
+The thing moved closer. I opened one eye ever so slightly, seeing it approach through a haze. Gah. From underneath, the damn thing was even uglier than it had appeared from straight ahead. It sported a carpet of small, undulating purplish feelers, as well as its myriad of legs.
+
+It froze just a few meters away, seeming to observe me for a brief while.
+
+I sent a prayer to whomever might listen, hoping beyond hope that the damn thing didn’t have Identify or some life sense or whatever Ademia might offer. Then I focused and lay extra still, urging my chest to not move with my breathing.
+
+The Milipede moved in an impressive rush. It wasted no time cutting me loose, aiming straight for the meal ticket. The horrifying vision of its moving, many-limbed underside moved into position above my downed shape. Two limbs descended, surprisingly gently, lifting my shoulders gently, softly toward the reddish hell of its mouth. The jaws descended.
+
+With every inch of force I possessed, I slammed my shield up and in place between me and the teeth, which scrabbled and locked onto the edge of the shield. I directed every inch of power from my Wave of Reflection straight into the beast’s mouth, along with the force from my Deflect. My shield was torn from my hands, as the head violently jerked back.
+
+A wave of corrective energy tore through my body, violently correcting, amending, healing. It slowed down and sped up in places, seemingly having trouble with the poison. I couldn’t quite follow what was happening since I was a little busy with, y’know, not dying.
+
+For some reason, I’d expected the damn thing to be mute. That turned out to not be the case. As the Millipede jolted back up in an unnaturally fast motion, its piercing wail carved right into my brain, hurting my ears and everything in between. It rose on trembling legs, sharp limbs raised shakily above me.
+
+Then it died. In one, long, shuddering motion, the meter-long body deflated and collapsed lifelessly to the floor. Right on top of me. Trapping me below its bulk, as one limb punctured my shoulder and came to rest.
+
+I felt something liquid escape its body and ooze onto me, seeping into my pant legs. Yet, I couldn’t move. It was too heavy.
+
+Fuck. My. Life.
+
+I have my pride. Some will say that I am too prideful, especially for somebody with as spotty a record of… everything, as I have. They just don’t get the point. When you own nothing, pride is one of the rare things they can’t take from you.
+
+That being said, the day’s event went a good way to depriving me of any remaining shred of it. First, I spent several minutes trapped underneath its bulk, being increasingly covered in an unnamed liquid and checking over my details to estimate whether the poison would end me, or the Internal Scourge would clear the poison beforehand. Once I realized that I would survive, with a decent safety margin due to the bout of healing, it still took me several minutes to dig my way out from under the dead Vicious Milipede.
+
+When I finally pushed my way out, I admit I suffered a minor breakdown at the state of my only remaining garments. Everything from the legs downward was covered in a viscous, sticky dark-purple liquid, horribly staining the formerly wet garments. It wasn’t that I cared about my looks. Rather, it was simply that I had no frigging alternatives. It was either the soggy, slimy mess or going commando. The only silver lining was that the liquid had dissolved the stickiness of the webs. Probably the beast’s natural ability, avoiding getting itself caught.
+
+I took off my pants, hoping that drying them out would amend the natural disaster slightly, and then I took in the situation.
+
+Health: 92/710
+
+That wasn’t the worst. It really wasn’t. Even with everything that had happened to me, I still had as much health remaining as your average human. My stamina and mana were already repleting themselves.
+
+My poison resistance had increased. Not as much as I’d have liked, only to level three, but then, further increases would have required for me to take more damage and suffer more pain. Yeah. I preferred it this way. My Shield skill also increased, as did my Resilience skill. Oh, and my Identify skill. Everything else remained unchanged which… well, fair. It had been life-threatening, yes, but I hadn’t done much.
+
+I hadn’t levelled. That annoyed me. I was eighty-two percent toward the next level. Still, I guess a forty-five percent increase from a single monster was more than fair. Now, I merely needed to repeat the success.
+
+That thought earned a chuckle with more than a little madness mixed in. I was currently below a seventh of my total health, sporting double debuffs, just coming off a bout of poisoning with absolute shit for gear, and my mind was already thinking about the next challenge.
+
+Of course, my mind had a point. This was a race and a marathon both. I needed staying power and long-term effectivity. I couldn’t allow myself to slow down and…
+
+I froze momentarily and almost clocked myself in the head. Stupid brain. Stupid, stupid brain. I was still acting in invasion mode, like I was up against the rest of humanity, trying to outrace them all in a bid for supremacy.
+
+This wasn’t a race. It was survival, plain and simple. There was no goddamn time limit anymore. My gaze veered toward the sight of my former enemy whose corpse was now slowly deflating. I even - I grimaced and ignored the bile rising in my throat as I looked at the disgusting thing. I even managed to secure myself some food, which had been my main pressing issue. There was nothing stopping me from camping down right here, healing up fully and getting rid of my debuffs before continuing.
+
+So, that was what I did. I took my time, located a depression under a rocky overhang that might allow me to light a fire that wouldn’t get me instantly spotted by additional monsters, and got to it.
+
+Lighting a campfire is hard. Oh, I’d seen tutorial videos beforehand, of course. I knew I was going into a no-tech world and might have to slum it. Yet, I still imagined that there’d be fire Mages and whatnot, people who’d be able to handle that part for me. No such luck.
+
+I could only be happy that I’d met my enemy so early in the day. It was late afternoon before I managed to gather enough tinder to get a proper fire started and actually get the bastard lit without it going out in minutes. Then I spent at least an hour struggling among the blood and liquids of the downed Milipede until I finally managed to use my tiny swordbreaker to slice through its softer belly and carve away a handful of enormous slabs of meat which I proceeded to impale with long branches and hang over the fire like millipede kebabs, turning them every few minutes.
+
+When I finally deemed the food as ready for eating, the light on the horizon was dimming. I was surprised to realize that it was actually approaching evening.
+
+The meat was black as I raised one of the meat spits warily. Not just blackened from the fire, though there was a definite charcoal element. No. We were talking proper black, like those novelty black chickens some people breed. It was also fatty, spongier than I’d have liked, and smelled softly of something unhealthy.
+
+I checked my health beforehand, coming up with a nice surprise. My Self-Heal had improved again at some point to level four. That meant my natural healing, already fairly decent, was now improved by an additional forty percent, granting me about ten health an hour. Considering that normal people with ten Fortitude and no skills would heal one health an hour? Yeah. I had it good. I still was nowhere near fully healed, but I’d made it back to a hundred and sixty health. Progress!
+
+My second thoughts were currently being joined by third and fourth thoughts, all rebelling at the idea of eating… this. Not only did it look absolutely horrid, it was also likely to poison me. I think I’d heard something once about venomous creatures rarely being poisonous, but with my track record in this world, I wasn’t holding my breath.
+
+Even with everything inside me yelling at me not to do it, I raised the spit and took a careful bite. It was… horrendous. The meat fell apart in my mouth, and not in a good way. This was like that one time where I’d been dared to try whale blubber. I carefully chewed and swallowed, trying to ignore the horrid sensation, and waited for the notification telling me that I’d been poisoned.
+
+A full ten minutes later, I realized the other shoe hadn’t dropped and I was likely safe. Well. My intestines might demand horrible retribution later on, but at least the meat wasn’t likely to kill me. And, disgusting as the looks and texture of the meat was, the aftertaste was actually relatively pleasant.
+
+I went to sleep early that evening, hiding myself inside the upper layer of one of the many (as far as I was aware) abandoned tunnels fifty meters away from my fire. My hope was, if any creatures came roaming in the night, they’d be attracted to the smell of broiled meat, instead of my own scent. I also, carefully, placed my much-abused shield below me, blocking the tunnel just in case one of the diggers came investigating from below. Finally, with a tiny chuckle, I realized that I was adopting the attitude from one of the series I loved the most. “Sleep well and wake.” Might well be my new motto.

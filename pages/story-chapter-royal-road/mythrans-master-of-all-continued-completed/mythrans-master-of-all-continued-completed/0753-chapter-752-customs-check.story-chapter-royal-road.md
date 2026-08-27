@@ -1,0 +1,279 @@
+---
+id: ed83dae7-e53a-5823-bc7f-f4b2e0f0d348
+page-type-slug: story-chapter-royal-road
+title: "Chapter 752 - Customs Check"
+slug: 0753-chapter-752-customs-check
+partOf: mythrans-master-of-all-continued-completed
+position: 753
+ownLength: 3606
+unit: words
+publishedAt: 2018-11-05
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303970/chapter-752-customs-check"
+royalRoadId: "303970"
+---
+
+The Pervarian Army quickly cleared up the remains of the large goblin army that had tried, and nearly succeeded, in overrunning their border. Once they were all dispatched, Tatya left the large man to clean up and loot everything. Tatya, and the Pervarians from the caravan that had volunteered, climbed into Ren's normal-sized covered cart that had been stored in Princess' saddle bag and was now attached to their ride, Princess. Unlike last time, Tatya got to ride side saddle on Ren's lap. They travelled back to the garrison on the eastern border of the Kingdom of Pervaria and landed beside the large building.
+
+Once there, they were all examined by medical professionals. Ren equipped his fancy blue suit and wasn't surprised when he was taken aside and brought into a special room with Tatya and one of the medical personnel. He was glad that he didn't need to specify having a woman do the task.
+
+“I have to warn you that this will be a full examination.” The woman said.
+
+“It is? Just a second.” Ren said and left the room and went back to the group still waiting to be examined. “Yuwen. Dilseffa. Come with me, please.”
+
+“But...” Yuwen looked at the man that had just said her name because she was next.
+
+“You're both my Mistresses and I won't have anyone else perform your examinations except me.” Ren said, and everyone was surprised, especially Rimsoh and Dilseffa. “Artemis, you too.”
+
+“Yes, My King.” Artemis said and the three women followed Ren back to the examination room.
+
+“What is going on here?” The medical professional asked when they came in.
+
+“Yuwen and Dilseffa are my concubines and Artemis is my familiar.” Ren said.
+
+“Oh. All right.” The woman said and didn't argue. “Take off your clothes, please.”
+
+“Which one of us are you talking to?” Yuwen asked.
+
+“I meant him; but, you can all get undressed if you want to. This shouldn't take long.”
+
+“But...” Dilseffa's face went red at the thought of being naked in front of Ren.
+
+“It's my first time being naked in front of you, too.” Ren said, and she blinked her eyes at him.
+
+“How did you know I was thinking that?”
+
+“Tatya is thinking it, too.” Ren said and smiled.
+
+Dilseffa looked at the head of the delegation and saw her slightly red face as she untied her tunic.
+
+“She's being a little dramatic and is trying to take her time, though.” Ren chuckled and Tatya's face flushed fully red. “She can store her clothing just like the rest of us.”
+
+Tatya, Yuwen, Dilseffa, and even the medical professional took in a sharp breath as he stored everything except his underwear and they beheld the sight of Ren's rippling muscles and the barely contained strength in them.
+
+“Oh... my.” Yuwen whispered and held in her moan.
+
+“S-stay still, please.” The woman performing the examination said and approached him. Ren smiled at her and held his arms slightly out to the side, and he noticed that she was about a foot taller than him.
+
+“Am I the first Adventurer you've examined?” Ren asked as her hands glowed slightly and she started to check him over like Deresdra the healer used to do at the mines every day.
+
+“Y-yes.” The woman said and rubbed his chest muscles.
+
+“Are all the women in Pervaria turned on by strength?” Ren asked, curious. “I spent a lot of time in the Dwarven Kingdom and they prized a strong male above all things.”
+
+“No, we just appreciate...” The woman stopped rubbing his chest and smiled. “Then again, I suspect you'll have lots of admirers if you walked around in just a waist sash like our high ranked fighters.”
+
+“Is flaunting of strength expected?”
+
+“No.” She said and moved on to his arms and checked them. “It's just a perk for women to see a strong man.”
+
+“Does that mean it doesn't matter that I'm so short?” Ren asked, and she stopped examining him and stepped back.
+
+“Your height doesn't normally dictate your appeal.” She said. “You are short; but, that's not a drawback. In fact, it puts your head at just the right height for...” She looked down at herself and stopped talking as she saw the tips of her breasts were poking through her thin bodysuit and tunic. I didn't realize I was that excited. She thought in surprise, then she felt her hand being held and looked at Ren.
+
+“Thank you.” Ren said as he lifted her hand and gave it a small and quick lick. He felt the thrill go through her and she stopped herself from shivering at the touch.
+
+“Y-you're welcome.” She said. “I better finish your examination.”
+
+“Please do.” Ren said and let her hand go.
+
+The medical professional took a deep breath and checked his abdomen and then his thighs. She was tempted to do the middle part, then decided to wait and save it for last. She moved around to his back and went up his legs and checked everything. She gave his backside a bit more attention than was necessary, then moved up to his back and caressed the muscles there and did his shoulders and neck. She moved back around to his front and thought about kneeling to get a closer look at him; but, she was a professional and only plucked at his underwear and stepped to the side slightly.
+
+Ren stored his underwear and she gripped him gently and asked him to cough. He did so, and he reacted to being touched so carefully there, because it was so unlike how Deresdra had done it the first time. The medical professional couldn't help herself and glanced down at him as he pressed against her arm, and she caught her breath and quickly finished the examination of his tender bits.
+
+“Y-you c-can g-get d-dressed.” She managed to say as she let him go. “You're cleared.”
+
+“Thank you.” Ren said and equipped his underwear and felt disappointment from Tatya, Yuwen and Dilseffa, because the examiner had stayed between them and Ren and they hadn't seen anything. He was a little surprised that Dilseffa wanted to check him out, so he didn't bother putting anything else on and stayed in just his underwear as he stepped over to them.
+
+“Next.” The medical professional said and Tatya stepped forward and stored her bodysuit to reveal that she didn't have anything on underneath, which confirmed what Ren already knew. She had a lithe body, with toned muscles and a quiet strength that you knew she could cause a lot of damage to you if she meant you harm.
+
+Tatya felt Ren's appreciation of her form and she glanced at him to see that he was staring at her face and not the rest of her. She raised her eyebrows in a question and he smiled a wicked smile and pointedly looked at her breasts. She let out a chuckle and the woman examining her stopped.
+
+“Did that tickle?” She asked, slightly concerned.
+
+“I was laughing at...” Tatya stopped and smiled. “No, it didn't tickle.”
+
+The medical professional continued the thorough examination and finished it faster than she had with Ren, even though Tatya was only slightly taller than her and much taller than Ren. When she was done, she asked for the next person, and Ren stepped forward with Yuwen.
+
+“I already...”
+
+“I'll be doing it under your supervision.” Ren said.
+
+“Are you a qualified healer?”
+
+“I haven't taken the oaths or paid to join a guild; but, I do know what I'm doing.” Ren said and asked Yuwen to store her clothing. She did it without question and Ren's hands glowed slightly as he proceeded to give her the same thorough examination that the medical professional had just given Tatya. Everyone watched him closely as he examined her and saw that he did it in a professional manner, even when Yuwen started to react to him touching her all over.
+
+Everyone tensed up when he had examined her chest, and he felt that they all had expected him to grope her, even Yuwen, and he held in his amusement at her disappointment and only did exactly what he had done to Deresdra when she had expected him to grope her, too. Ren finished with Yuwen and looked at the medical professional expectantly. She took a quick breath in and let it out.
+
+“She's cleared.” She said, almost reluctantly.
+
+Ren chuckled and held a hand out to Dilseffa.
+
+“I... do you really want to...”
+
+“I'm being completely professional and you can feel my emotions.” Ren said. “There's nothing sexual; but, I can't promise to be quick, because I can't skim over the parts that need to be checked.”
+
+Dilseffa sighed and stepped forward and took his hand, and he filled her with reassurance. She stored her clothing and he examined her as well. No one tensed up when he touched her chest, and he smiled as he completed the exam to the medical professional's approval. Artemis was next and it went just as mundanely as the other two.
+
+“You did surprisingly well.” The woman said and checked their names off of her list. “Would you care to...”
+
+“Nope.” Ren said. “There was only 4 women in the caravan and I've just seen them naked.” He said with a grin. “I'm quite happy now.”
+
+“Geez, Ren.” Artemis said, and Teepo chittered in laughter.
+
+“What? It's true.” Ren said.
+
+Artemis chuckled and shook her head. “Put your clothes on so we can go.”
+
+“Hm?” Ren looked down at his underwear. “Actually, I think I should wear one of those sash things.” He said and looked at Tatya. “Where can I get one?”
+
+“I'm sure there's one somewhere around here.” Tatya said.
+
+“I... I have one.” Dilseffa said. “It's Rimsoh's.”
+
+“Can I borrow it?” Ren asked, and she looked down at his underwear.
+
+“I don't think he would like it if you wore it.”
+
+Ren chuckled. “I only need it to get the pattern.”
+
+Dilseffa took it out and handed it to him, and he quickly examined it and received the pattern.
+
+“Are they all the same, or can they be embellished?” Ren asked and handed it back to her.
+
+“I've seen some with different patterns, some with tassels, and even gold filigree.” Tatya said.
+
+Ren looked at the pattern and saw where the front was, and thought about what to put on it. “I got it.” He said and looked at the medical professional. “Mind if I borrow the table for a minute?”
+
+“No, go ahead.” She said, and he walked over to it and took out a bolt of platinum-laced Spider Silk fabric. “What is that?!?” She asked as he cut out the right shape for the waist sash.
+
+“Special cloth I made for people who can't wear armor.” Ren said and stored the bolt of fabric, then altered the pattern slightly and made reinforced holes all along the bottom of the sash and dyed it red. He then took out several handfuls of teeth he had gained from all the different animals he had looted during his adventures. He drilled holes in them and used Spider Silk thread to tie them to the holes he had made in the sash.
+
+Ren alternated using large and small teeth all along the sash, with wolf, giant rat, horned demon, and several others that looked cool, and finished with one large Abyssal Terror tooth and hung it on the end that pointed down. With that done, he embroidered roaring flames all along the bottom of the sash to finish it off and gained the recipe for the completed sash. He didn't want to only wear that, so he quickly sewed up a pair of black shorts that were just small enough to fit and sewed them together.
+
+“There we go.” Ren said and equipped the shorts and sash combo, and it almost looked like a sarong that a woman would wear, with a tied bow-like thing on one hip and the cloth travelled in a triangle shape to the other hip and down to his thigh. He was glad that he had included the shorts, because he suspected that if he took a big enough step, everyone would have seen a lot more than just the inside of his thighs. He did a little turn to show it off and the teeth rattled and shook as he did.
+
+“How do I look?” Ren asked, then his eyes widened. “Wait, don't answer yet!” He said and equipped several enchanted bracelets and a gold necklace as accents, then looked at his feet and made new low cut shoes and equipped anklets to finish the outfit. “Okay, now you can answer.”
+
+“You look... very... nice.” Tatya managed to say through her restrained desire. Yuwen and Dilseffa couldn't speak at all and only nodded slightly in agreement.
+
+“That's good, right?” Ren asked and turned to look at the woman who examined him, and she was leaning against the table and fanning her face. “Are you okay?”
+
+“Are... are you accepting...” She looked at Yuwen and Dilseffa. “...more applicants?”
+
+Ren activated Sneak and stalked over to her. She caught her breath at the power she saw in his movements and her skin started to ripple as he came closer. A thin blonde fur sprouted out all over her and her ears shifted up slightly on her head and grew into cat-like ears; but, she didn't completely change into an anthropomorphic animal like Ren had expected. She kept her human face, which was still bare of fur and didn't extend into a muzzle, and short whiskers grew out and twitched at him. She then grew out a tail and it flicked in anticipation.
+
+“You're only a two stage and you're assigned to a garrison?” Tatya asked in surprise.
+
+“I have no limit on my healing ability.” The medical professional said and blushed.
+
+“Oh, my.” Yuwen said in amazement. “Your power went to that instead of giving you a third stage.”
+
+The woman nodded slightly and Ren reached out to touch her face.
+
+“Do you regret that?” Ren asked and concentrated on her emotions.
+
+“Not at all.” She said as her blush faded and he didn't feel any regret in her. “My status is high enough that I can have a post this important, even if I can't completely change like the others.”
+
+“Can I ask how many people are like you, without you being insulted that it implies there are others like you?” Ren asked, and she chuckled at the circular question.
+
+“If you mean that I might be insulted that you might think I'm a generic person and there are lots of others like me running around, don't worry. I can feel what you really mean and I'm not insulted.” She said. “As a medical professional, it's my job to know the percentage of the population that only has the ability to change this much and no further.”
+
+“What percentage?” Ren asked and put his other hand on her face to cup both sides.
+
+“60%.” She said, her face going slightly red at his increased contact. “10% of that only have this slightly furred form from birth and no other. Human or animal.”
+
+“Which means 40% are the ones that can change fully.” Ren said.
+
+“No, only 35%.” She said and smiled. “5% are born as their animal selves and can't change at all.”
+
+Ren's mouth made that little 'o' of surprise and she laughed as she felt his shock.
+
+“Yes, we have animals running around that can talk and interact like people.”
+
+“That's not why I'm surprised.” Ren said and his thumbs caressed her cheeks just below her short whiskers.
+
+She closed her eyes for a moment at the gentle touch, then looked at him. “Then what...”
+
+“I'm surprised that your people have any normal animals around at all, like the wolves you ride and the giant boars to pull the carriages.” Ren said. “How did that come about? Did you discover other animals and adapt them for your use? Are some of them only poor cousins that weren't as lucky as you to evolve into the wonderful creatures you are today?”
+
+Thanks to him having his hands on her face, she felt his sincerity and his curiosity fully.
+
+“You really want to know, and you're not just asking for conversation's sake.” She said, and her voice held a trace of wonder.
+
+“I remember someone saying that as a medical professional, they would know things like that.” Ren said with a smile, and she laughed.
+
+“Yes, I know all of our sordid history.” The medical professional said.
+
+“Then I'd like for you to accompany us and you can fill me in on everything.” Ren said.
+
+“Where are you going?” She asked.
+
+“I don't know.” Ren said, and she raised her eyebrows at him. “Let's ask and find out.” He said and let her face go as he turned to Tatya. “Where are we going after everyone gets inspected?”
+
+“I had planned a leisurely ride across the countryside to show you some of our lands as we head to the capital.” Tatya said. “I hadn't planned to bring you to the delegation's debriefing at first; but, after what just happened in that battle, I think it would be prudent to include you.”
+
+Ren nodded slightly and turned back to the medical professional. “We're going to the capital.” He said. “Can you get time off to come with us?”
+
+“If you accept me as a concubine, it supersedes all other concerns.” She responded.
+
+Ren frowned a little. “No, I don't want to take you away from your work.”
+
+She chuckled. “You're the first people we've had return here in about a year.”
+
+“Wh-what?” Ren asked, surprised.
+
+“We only send out delegations once a year to the surrounding lands.” Tatya said. “It's usually a two to three month journey, then we come back and disseminate all the knowledge we gained during those travels.”
+
+“It takes that long?” Ren asked.
+
+“To make sure everyone in the kingdom knows the important information, yes.” Tatya said. “Once we all do, we form another delegation and construct a caravan, plan out the routes to take and the dangers to avoid, then head out again to see what else we can find.”
+
+“Well, I'm really lucky.” Ren said, and everyone felt that he believed that. “I only just caught the caravan before it left the Human Kingdom, and I would have missed this great opportunity.”
+
+The medical professional's face flushed to a deep red and he felt how flattered she was.
+
+“Are you seeing anyone?” Ren asked, and she shook her head. “Are you married?”
+
+“N-no.” She said. “I've not had that honor.”
+
+“Both Yuwen and Dilseffa are my concubines, but we don't have to have sex.” Ren said. “As long as the potential is there, they said it meets the requirements.”
+
+“But...” She looked at the other two women. “I want to have sex with you.”
+
+Ren blinked his eyes at her for a moment. “We just met.”
+
+“It doesn't matter to me how long we've known each other.” The medical professional said. “You make my insides crave to be touched as only a man can.”
+
+Ren knew she meant something special when she emphasized 'man' and wanted to know what it was. “What do you mean by that?” He asked. “I just want to know why I count when you've had access to... well, I don't know how many troops you've examined.”
+
+She held in her laugh. “I've only had brief relationships before, if that's what you mean, and it's usually only with males that have similar transformation capabilities.”
+
+Ren thought about that. “That means no troops, squad leaders, or anyone close to having three stages of different forms.”
+
+She shook her head and then felt his rising anger. “N-no!” She said and cupped the sides of his face. “They aren't discriminating against me. I'm just not as appealing to them.”
+
+Ren calmed down. “I don't see how.” He said. “You're just as pretty as Tatya, Yuwen and Dilseffa. You're just not as furry when you change.”
+
+The medical professional smiled. “That's not why.” She said. “It's...” Her face flushed red as she blushed. “I changed automatically for you, to reveal my full self, and that's never happened before.”
+
+“Wait, what?”
+
+“When we meet a compatible mate and they enter our Aura with intent, we can't help ourselves and react to him.” She said. “It's how he knows we're interested without having to ask awkwardly about it.”
+
+“Like I'm doing right now.” Ren said with a smile, and she laughed.
+
+“Well, you don't know any better.” She said. “I can't fault you for that.”
+
+“Yuwen also said that being my concubine only counts while in the kingdom of Pervaria.” Ren said.
+
+“It does, or anywhere that's classed as Pervarian lands, or within their command area.”
+
+Which was why it counted in the caravan, because it was under Tatya's command. Ren thought. “I keep calling you 'the medical professional' in my head and I don't want to do that. What's your name?”
+
+“Tiyaphi.” The medical professional said. “Tiyaphi Mowetha.”
+
+“It's nice to meet you, Tiyaphi.” Ren said and held a hand out to her. She took it eagerly and he felt her anticipation as her tail flicked quickly, and he lifted her hand to his mouth.
+
+“It's really nice to meet you, too.” Tiyaphi said happily. “Someone man enough to make me change.”
+
+“Tiyaphi Mowetha, I formally accept you as my concubine.” Ren said and bit the inside of her wrist.

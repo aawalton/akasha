@@ -1,0 +1,143 @@
+---
+id: 7540f1bd-8209-53e5-8a2d-215092211678
+page-type-slug: story-chapter-royal-road
+title: "Chapter 24"
+slug: 0028-chapter-24
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 28
+ownLength: 2501
+unit: words
+publishedAt: 2026-06-13
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3533293/chapter-24"
+royalRoadId: "3533293"
+---
+
+I ran. Well, I loped about like a demented grasshopper. Following a glance at my skill list, I’d concluded that I had two different approaches available to me, which would let me proceed and improve my skills at the same time.
+
+The first one was the slow and steady approach. If I went for Stealth and Spot, it would allow me to choose my battles, decide where and when to approach and avoid difficult battles. It would also likely grant me a Sneaking skill or similar – something that would aid me in moving silently and not just staying hidden. All at the same time as my Self-Heal would slowly and safely increase and help me along.
+
+Heh. I’d give myself a full two minutes with that approach before I got distracted and forgot to be all sneaky-like. Besides, my goal was several kilometres ahead. If I was planning to sneak all the way, that would take me the entire damn day. Not happening.
+
+Instead, I decided to be myself. Visible, weird and obvious. It might cost me in the end, but as long as I wasn’t too dumb about it, I might make it work. I ran at a steady pace, using every opportunity to leap about and test myself on the multitude of rocks on the plains. That involved several skills at the same time. Running and Leaping, obviously. Athletics would be involved on the sideline too, and I’d use every chance I’d get to activate Spot. Both to keep myself from being jumped by some alien spider bogeyman, and to keep my stamina low and Higher Endurance active and increasing. And, yes, Self-heal would be ticking away regardless, of course.
+
+Did I look stupid? Abso-fucking-lutely. Anybody who’s ever seen a bunch of kids practicing parkour know exactly how stupid they look when they constantly wipe out. Honestly, I didn’t much care. The end result was what mattered. And I cared more about growing strong, fast, than I did about looking collected and properly assassin-like. Besides, I didn’t have a cool cape that could billow behind me while I posed ominously.
+
+Half an hour into my impromptu playground imitation, I mixed it up a bit, adding in attempts at dodging. I had a hunch that skills like Dodge wouldn’t increase unless I actually was in battle, but it was worth a try.
+
+And just like that, I moved toward my goal of trying to find some enemies and food – possibly even combining the two. My pace, even with the constant detours, jukes and leaps, felt decent. I advanced at a decent jog, interspersed with the occasional sprint, which, back on Earth, would’ve seen me panting for breath after maybe ten minutes.
+
+After about an hour, my stamina was still at eighty percent. That was how much I’d improved. Not only could I keep up my pace without putting undue stress on my system, if I opted not to activate Spot at every suspicious rock, shadow and grass stalk, I would be able to run fast for hours without getting winded. But then, racing on ahead without being on the lookout would just be asking for trouble.
+
+As I moved closer to the stony field, I also kept an eye on the distance. Good thing too, because I was confirmed in my initial suspicions. Not only did it become clearer and clearer that the lands to the south were wetlands. Occasionally, the gentle wind carried with it hints of rot and decay. This world clearly didn’t share too much with my beloved fantasy series, but that definitely sounded like the type of thing that some people would call foreshadowing. Regardless what it might mean, I’d stay the hell away from it. It smelled like grandmas and poo.
+
+I kept seeing hints of movement from the ridge to the north at the far end of the incline, where the slope rose to meet the rocky edge of the plateau itself. It was nothing tangible or outright visible – not with my current debuffs, at least. It wasn’t like anybody up there brandished weapons or jumped up and down, waving to catch my attention. However, from time to time, my eyes and subconscious prodded me, trying to tell me that they definitely saw something there. Odds were pretty good that if I could sense something off, whoever or whatever was there had spotted me ages ago and was heating up the grill already.
+
+My skills hinted that I might be onto something with at least parts of my speculations. The first hour turned to two and more, until I could finally look straight up at the sun and guesstimate to be around noon. And I’d learned by now, that my unorthodox approach was working. Leaping had improved by two, Running by two, while Athletics and Self-Heal improved by one each. More importantly, Higher Endurance got a single level – and Spot earned two!
+
+I had no clue if that meant I was right in my guesses about hidden enemies, but my internal magic eightball was pointing to yes.
+
+I got one new skill. It wasn’t a game-changer by itself, but I adored it. It felt like it would help with… everything.
+
+You have earned a new general skill:
+
+Balance
+
+Passive skill
+
+All the strength in Ademia will not aid you, if you lack the control to apply it properly. Balance helps you, improving your internal sense and control over your body. Every level in Balance will marginally improve your personal equilibrium.
+
+I’d spent enough time in the ring to know that small gaffes and missteps could often be painful. A skill that would help me avoid tripping over a rock and getting myself killed was a godsend.
+
+Oh, and to my pleasant surprise, Dodge did increase without enemies nearby. Just once, but it counted.
+
+Finally, being clumsy granted me a freebie as well. A kick off a surprisingly slippery rock saw me crashing shoulder-first down on another boulder. Apart from fourteen points in damage and the desire to glance around to ensure that nobody saw me, that stunt granted me a level to both Resilience and a new skill, Blunt Resistance, which did just that. Go me!
+
+I took a short break by then, taking my time to enjoy the rest of my meagre rations. Sure, some would likely argue that my best bet would be to, well, ration my rations. But I figured I’d be better off with the energy it gave me. Also, the mouthfeel of my rations, somewhere between meat and moss, wasn’t something I needed to repeat.
+
+The aftertaste, however, was surprisingly enjoyable. For a brief moment after the meal, I allowed myself to simply relax and enjoy the breeze and gentle sunshine atop a large rock. Sure. I’d kill for a cold one. But as far as memorable scenes went, kicking back as be the sole living, free, human in the entire world and just being in the moment? It was up there.
+
+Eventually, I moved on. I returned to my unorthodox running style, murmuring “Parkour!” ever so often as I traversed the grasslands.
+
+Little by little, the landscape changed. The rocks studding the landscape grew larger and more numerous, even as the grasses receded slightly in favour of soft, healthy soil. The solitary dark fissures leading into the ground I’d spotted from afar, I now learned were far more numerous. They were also, I’d wager, not natural formations. Rather, the farther I progressed, the more I couldn’t help but see them as gopher holes, that is, if gophers ranged in size from regular gophers to German shepherds.
+
+Also, I started seeing the occasional set of bones. At first, they were rare. But then, I started seeing the occasional small pile. Small creatures, but enough of them that it was enough for me to perk up and pay attention.
+
+I slowed down a bit, senses tuned up to full attention. I had no sixth senses, or extensive experience in the field allowing me to decipher when I was about to get jumped. But even I could tell that it would be stupid to charge mindlessly ahead, when the entire scenery was arranged to be ambush city.
+
+Also, the insects’ keening had stopped. Once I finally realized that, I cranked up the paranoia another notch.
+
+My Spot skill got a good workout. Every single tunnel, every threatening shadow saw an activation of the skill, as I jogged ahead, eyes on a swivel, shield and swordbreaker both prepared for the inevitable ambush.
+
+Frustratingly, nothing happened. Ahead of me, the rocky fields shimmered in the warm sunlight, as if they were participating in some particularly lovey-dovey romcom.
+
+When the ambush did come, it caught me entirely flat-footed. For once, it wasn’t just that I’d been distracted by a shiny, gotten bored or forgot what I was doing. Rather, it was that I was looking in the wrong places.
+
+There were tunnels everywhere. The system underneath the ground had to be massively widespread, allowing whatever monsters lingered down there to emerge wherever they wanted. Hence, my entire attention was fixed on these apertures, and I was ready to shift about and defend from all tunnels at any given time.
+
+I did not expect the goddamn rocks to up and attack me!
+
+I was just passing by a boulder. This one would be well accepted among its brethren for size, slightly oblong shape and general rock-iness. There was no doubt that this rock had extensive experience being a rock.
+
+Imagine my surprise when the bastard unfurled in a long, slithering motion and swiped at me.
+
+I didn’t manage the presence of mind to activate Wave of Reflection. Hell. I didn’t even manage to engage Deflect, which required no concentration, only the mental activation. I just stood there and took it, like a rookie the first time in a ring.
+
+“Stop that!” I shouted, proving yet again my lack of preparedness. Finally, my experience kicked me in the neck, and I leapt back, finally bringing my shield up in front of me.
+
+The monster kept unfurling itself, finally revealing what I was up against.
+
+“A fucking roly poly?” I backed up even further, checking my surroundings for other ambushers, while my brain tried to get me up to speed. The system insisted that it wasn’t a roly poly. Rather, it was a:
+
+Vicious Milipede
+
+Level 18
+
+Further information locked
+
+It wasn’t. It was a goddamn, oversized roly poly. Curled-up, its shape fit together in a surprisingly thorough imitation of a good-old rock. Unfurled, the dull grey of its armored back as well as its dozens of long, chitinous limbs promised the speed and toughness of a mutated tortoise.
+
+There were no other beasts ready to jump me. That, at least was a godsend. I huffed in relief, as I took in the monster’s weapons – or rather, its lack thereof. It looked blind, or at least there were no eyes that I could see. It did have one large, shark-toothed mouth at one end that promised a horrendous end.
+
+Good. This was a good deal better than I could have feared. The monster was slow and didn’t seem to have any horrible natural weapons. Killing it might be a drawn-out affair, with its lack of natural weapons, but I’d get there.
+
+I’d barely had that thought, when I noticed the notification.
+
+You have earned a new defensive skill:
+
+Poison Resistance
+
+Passive skill
+
+Whether ingested or entered into the bloodstream through a bite or a weapon, the result is the same. You have been poisoned. Poison is an insidious, deadly force that lingers, often resulting in an ugly, protracted death. Every level in Poison Resistance will marginally decrease the damage received from poison and increase the speed at which the poison is metabolized.
+
+Oh. Oh! I fought to keep my nerves. That just changed everything. The monstrous roly poly just went from a 1 to a 7 on the threat scale. Still. I could salvage this.
+
+The millipede was chasing after me at its top speed now. Fortunately, top speed was comfortably below my jogging speed. My eyes flickered every which way, searching for additional attackers and finding none. I circled around another stack of rocks, putting something in between the two of us, while I considered my options.
+
+If I were at full health and free of debuffs, I’d likely try to see if I could simply outlast the poison. My monstruous Fortitude alongside Poison Resistance, which had to increase as I took damage, should be able to outlast any damage from a Level 18 beast. Unfortunately, my health was just above a third – oh, nope. Dipped below a third now, at two hundred and five! I’d already taken fifteen damage in the first half minute, which wasn’t looking promising.
+
+Good news was that I still had a single talent point, which gave me options. I also had a lovely talent lined up, just for the occasion, which decided my choice straight away.
+
+The next few seconds brought the millipede a few meters closer to me, but it was enough. I glanced at my new talent.
+
+Tier 5
+
+Internal Scourge
+
+Passive Talent. This talent converts mana into an internal presence roaming your body in its entirety, scouring it of hostile presences like disease and poison.
+
+20% efficiency per talent point.
+
+1/5
+
+That should do the trick. Hopefully in time for me to actually survive. I raised a single finger in salute to the millipede milling my way, then went back to shuffling away, mind hard at work considering how best to handle a beast like this.
+
+Wheel of Magic, again, was entirely useless. Poison didn’t count as magical damage, apparently, and the damn talent refused to even activate. Of course. Right when a handful of magical missiles to the face would’ve been the perfect solution from a safe distance, that was off the table. I needed a wand of Magic Missiles I could use on myself to activate the talent.
+
+Deflect and Wave of Reflection were both extremely unsuitable as well. Sure, the ugly thing would swipe at me with those spindly limbs, and I might even break one. But compared to the poison itself, the damage and force in the attacks weren’t likely to be enough to do serious damage.
+
+With a sinking sensation, I realized that this encounter might not be winnable. At least, not without taking too many chances. I checked my health again. Thirteen damage since last time. A hundred and sixty left. Had it slowed down slightly? I thought so. It was hard to tell.
+
+“Dammit. This sucks! I’m out of here, you stupid beach ball!” With a final rude gesture, I ensured that I was at a safe distance, before turning about to jog away, to endure the poison in peace and hopefully find a better target.
+
+A second later, I realized my leg was snared, and I was unable to move. I was trapped!

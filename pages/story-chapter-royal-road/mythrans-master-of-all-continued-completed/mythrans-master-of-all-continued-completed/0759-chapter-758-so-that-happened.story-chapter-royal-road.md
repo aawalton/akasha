@@ -1,0 +1,259 @@
+---
+id: b4b2933c-0530-56d0-b833-0f04561e68ab
+page-type-slug: story-chapter-royal-road
+title: "Chapter 758 - So That Happened"
+slug: 0759-chapter-758-so-that-happened
+partOf: mythrans-master-of-all-continued-completed
+position: 759
+ownLength: 3255
+unit: words
+publishedAt: 2018-11-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/305795/chapter-758-so-that-happened"
+royalRoadId: "305795"
+---
+
+It took Denise about 10 minutes to help Ren, and Barbi was a little disappointed that she hadn't heard them from where she stood in the hallway, despite trying to listen. The bedroom door opened and Denise stepped out.
+
+“How is he?” Barbi asked.
+
+“Relaxing.” Denise said and shut the door. “Thanks again for calling me.”
+
+Barbi put a hand on her arm and smiled. “I remember you helping him the last time this happened, and how quickly you came to his 'rescue'.”
+
+Denise chuckled. “That's funny because it's true. He really will suffer pain if it's not taken care of quickly.”
+
+“I figured, and when he mentioned it, I called you right away.” Barbi said.
+
+Denise pat her hand. “We both appreciate it, even if he complains about being able to wait.”
+
+Barbi chuckled. “Uh huh. Like any other man would want to wait for that to happen!”
+
+Denise chuckled, too. “Been there, done that!”
+
+“I know! It's like... hey, my mouth is supposed to be for talking!” Barbi joked. “At least some of the time, anyway.”
+
+Denise snorted a laugh. “Yeah, sometimes.” She said and let Barbi's hand go. “He's waiting for you.”
+
+“Do I really need to...”
+
+“No, you don't have to do anything.” Densie said. “If you don't want it, or you're not in the mood, just tell him.”
+
+“Won't he get angry or...”
+
+“No.” Denise said. “He really does just want to thank you.”
+
+Barbi took a shallow breath and let it out. “I don't think I'm ready.”
+
+“Then tell him that and he'll back off.” Denise said and walked down the hall. “Although...”
+
+“What?”
+
+“He's really, really good at it.” Denise said and hit the button for the elevator.
+
+“I know he can kiss like a champion, but...”
+
+“Yes, he can.” Denise said with a smile, glanced down at Barbi's abdomen, then chuckled and disappeared into the elevator.
+
+“Oh.” Barbi said as she understood what Denise meant and then felt a dampness between her legs. I might not be ready; but, my body sure is. She thought as she opened the bedroom door and went inside. She saw that Ren had a big smile on his face. “Somebody's a little happy.”
+
+“Me!” Ren said and laughed, and it was infectious, so she laughed, too. “Thanks for calling Denise.”
+
+“She just thanked me again for that.” Barbi said and walked over to the bed. “You must have let it go a few times for her to get angry at you about it.”
+
+Ren opened his mouth to deny it, then sighed. “Yes, I've neglected my own needs a few times.” He admitted. “It's just... sometimes when I ask, I don't do it right, or it's at the wrong time, or...”
+
+Barbi put a hand on his hand. “I know.”
+
+“You do?” Ren asked, a little surprised.
+
+“Stella explained that you haven't had a lot of experience with normal relationships.”
+
+“She's explaining a lot to you, then.” Ren joked.
+
+“Not all at once.” Barbi said and smiled, then looked down at their clasped hands. “Ren, I...”
+
+“It's okay.” Ren said, and she looked at his face. “I know you're nervous about... well, you know.”
+
+“Ren, it's just...” Barbi sat down on the chair beside the bed.
+
+“Awkward.” Ren said, and she nodded. “If we were in the game, I'd pick you up and toss you onto the bed, tear off your sexy clothes with my teeth, then lick you from top to bottom like I said I would.”
+
+Barbi was surprised by the admission, and slightly delighted.
+
+“The spirit is willing; but, the body is severely lacking in the physical part here in the real world.” Ren said. “The most I can do is foreplay, and that's assuming you can accommodate my injuries.”
+
+“How?”
+
+“I was thinking you could prop yourself up on some pillows, so that neither of us would have to strain ourselves while I give you an Australian Kiss.”
+
+“An Australian...” Barbi stopped talking and laughed. “Going down under!”
+
+Ren laughed. “You got it.” He said. “Sometimes I need to explain the joke and it loses its magic.”
+
+“Yes, it would.” Barbi said. “That's a neat way to ask a woman to... lick her kitty.”
+
+“That now has new meaning.” Ren said, and told her about unlocking the Beast Races in the game.
+
+“Wait, wait! You licked a humanoid cat between the legs?!?”
+
+Ren chuckled. “Almost, but that's another story. I actually licked a minx.”
+
+“A what?”
+
+“Here she would be a mink.” Ren said. “I think the programmers had fun calling her a minx, as in a sexual tease.”
+
+Barbi snorted a laugh. “They would.”
+
+“It was a bit hairier than I've experienced; but, it was still a woman's special place.” Ren said. “It tasted great, too.”
+
+“You really like doing it, huh?”
+
+“I really do.” Ren said. “Like I told Gretchen and Dana, the texture alone is wonderful. The feeling of running my tongue over the hot flesh, then teasing and pleasing with...”
+
+“You said that to the two girls you met at the garden party?” Barbi asked, surprised.
+
+“Yeah. They're my friends.”
+
+“Ren, you can't...”
+
+“It's all right.” Ren said and squeezed her hand. “They know I'm kind of a sex addict.”
+
+“Wait, what?” Barbi wasn't sure how to react to that bit of news. “You told them that , too?”
+
+“I really enjoy making a woman happy.” Ren explained. “I can't help myself sometimes. The way they feel, the way they react, the little moans they let out when you find a ticklish spot...”
+
+“R-Ren...” Barbi's face flushed red and he stopped talking.
+
+“Too much information?” Ren asked. “I really need more practice so I won't volunteer too much.”
+
+“You... are always brutally honest.” Barbi said and stood up. “Sometimes that can be a handicap.” She said, then decided to tell her brain to shut up as she stepped close to the bed and put his hand that she held through the slit in the side of her boxer shorts. Ren didn't need any more prompting than that and slid his fingers over her sensitive spot. She gasped as he expertly checked her, then he pulled his hand out and it was covered.
+
+“Wow.” Ren said and sucked on his fingers before he could stop himself. “Mmm.” He practically moaned, then realized what he had done. “Barbi, I...”
+
+“P-pillows!” Barbi nearly yelled. She had started breathing fast at the sight of him tasting her, when she had only wanted to show him how wet she was from him just talking about it. “You said something about pillows?”
+
+Ren pointed to the closet and she went over to it, grabbed a few of the spare pillows to add to the pile already on the bed, then went back over to him. He directed her where to put them, mostly between and around his legs, then he pat the top of the stack.
+
+“Please, sit.” Ren said, and Barbi climbed onto the bed and carefully sat where he said. The stack of pillows was pretty high and seemed a little unsafe. “Don't worry.” He reassured her. “When you lean back, your body will counterbalance like a seesaw and you can pivot on your hips.”
+
+“Wh-what?” Barbi looked at him with wide eyes.
+
+“Lean back and you'll see.”
+
+“But...”
+
+“Your shorts are loose enough that you can leave them on. I can just pull them aside.”
+
+“Ren...”
+
+“You want me to.” Ren said, and she heard the confidence in his voice. “Even if it's just a quick test to see if I really will, you want me to try.”
+
+“I... I do.” Barbi admitted.
+
+“Then lean back and let me thank you for all the help you've given me.”
+
+Barbi nodded and slowly leaned back, then she felt her weight shift as she reached the tipping point. She started to panic a little, then Ren's hands touched her thighs. She relaxed as he put her knees under his armpits and used his weight to hold her legs steady.
+
+“This is... really weird.” Barbi said as she leaned all the way back and practically hovered a couple of inches above the bed.
+
+“Now we know the right height for your bracing pillows.” Ren said. Her knees were braced by his armpits, which left his arms completely free, and he easily slid two of the pillows on either side of him to the spot under her back to support her.
+
+“I thought you said...”
+
+“I just said it would work, not that you would have to stay like that.” Ren said with a smile, and she chuckled.
+
+“I was so nervous I'd flick my legs out and kick you or something!”
+
+“I know.” Ren said and slid his hands up to her thighs again and pushed her legs out from under his armpits and made room to approach her as he spread her legs.
+
+“I... I'm really doing this.” Barbi whispered in disbelief as Ren touched her thighs and caressed the skin right up to where the boxer shorts were. “It's happening, right? I'm not hallucinating or anything?”
+
+Ren chuckled. “If me in this body is who you would hallucinate, I'd have to question your sanity.”
+
+“I'm questioning my sanity!” Barbi exclaimed as she looked up at the ceiling and didn't notice Ren as he eased the bottom of her shorts aside to reveal her completely hairless special place. “I'm sprawled out on my back on a stack of pillows, for god's sake, and I'm...”
+
+Barbi was now at the perfect height for him to do what he wanted, and there was no strain at all on either his wrapped knee or his stitched up wound on his side. Ren grinned at her exposed and glistening opening, then dove into it with both reckless abandon and expert precision.
+
+“...about to let my boss... OH G...!” Barbi yelled and covered her mouth, then bit into her hand at what Ren was doing to her. Like Denise had told her, Ren was doing it very, very well. She was handling it just fine, until he started using his fingers, then she couldn't hold in her moans anymore.
+
+*
+
+“Hi, Barbara.” Elise said as she came into the kitchen to get more coffee.
+
+“You really need to get to bed.” Barbara warned her and took a bite of a sandwich.
+
+“You wouldn't believe the mess in the stock market that news story unleashed.” Elise chuckled and poured herself a cup of coffee and took a big gulp of the caffeine goodness. “Ah, so good.”
+
+“I'd like to say I know what you're talking about...” Barbara started to say, and Elise chuckled again.
+
+“Let's just say that a lot of the tech companies that were mentioned have recently had a public relations nightmare and are suffering a hostile takeover by a rival tech company.” Elise said.
+
+“You mean you, right?” Barbara asked, and Elise nodded.
+
+“Ren and I combined, to be more precise.” Elise corrected. “Neither of us had the capital to pull it off individually, but combined?” She took a sip of coffee and grinned. “They didn't stand a chance.”
+
+“Oh, my.” Barbara said. “When will...”
+
+“Ren's right. It'll all be over in the morning, once the local stock market opens for trading again and all the paperwork goes through.” Elise said and looked at her watch. “In about 5 hours.”
+
+“You're staying up all night, aren't you?” Barbara asked.
+
+“Guilty.” Elise said. “I need to keep an eye on the world's markets to make sure no surprises appear.”
+
+“You shouldn't do that, you know.” Barbara cautioned her. “Not now with...”
+
+“I'm being careful.” Elise said. “This is my only cup this hour.”
+
+“I meant about wearing yourself out.” Barbara smiled.
+
+“I'll be fine.” Elise said. “Once it's done, especially since the judgments for the cases are already in our favor, Ren and Haddon Enterprises will own controlling interest in every company that was involved in, or benefited from, the experiments performed on him as a child.”
+
+“Oh, that's sneaky.” Barbara said. “Can I reward you with a sandwich?”
+
+Elise laughed and accepted one graciously.
+
+*
+
+Denise laid in bed and she couldn't keep her smile or her happiness restrained. He needs me. She thought and hugged the pillow and pretended it was Ren. He's not faking it or pretending. He really needs me. She rolled over in the bed and tried to calm down, because she had work in the morning. He loves me. Me.
+
+Denise rolled back over and put her pillow back under her head and took several deep breaths. I bet Barbi is having the time of her life. She thought and barked a laugh. I should have let him thank me, too. She reached down between her legs and touched herself. M-maybe tomorrow I... oh, Ren! She thought and finished.
+
+Denise had surprised herself at finishing so quickly, then grabbed a tissue and cleaned herself. She relaxed, now that her happy brain had flooded her body with endorphins, and she drifted off to sleep with thoughts of Ren floating through her mind.
+
+********
+
+A lot of people were playing the game that night, especially after all of the antics on the news about Ren and the backstories they had provided, then the spin-off stories had started, which were only barely connected to those cases, and everyone was talking about him, about the game, and about everything going on.
+
+They were all surprised when they received the notification that new content was available, not realizing that Ren had been the one to unlock it when he crossed into the Pervarian Kingdom. It was content that no one had even known was in the works, let alone already loaded and available for them to play. Most of them read the warnings that were given by the system, about it being very dangerous to explore a whole new kingdom, either alone or as part of a party, with a culture that prided itself on its fighting prowess.
+
+Several players dismissed the warnings without reading them, and assumed they could handle anything that was thrown at them. Thanks to Ren's Portal Gate Network, a lot of Adventurers popped through it to appear in the town that was closest to the border of the Human Kingdom. The townspeople were shocked at the sheer number of Adventurers that had suddenly appeared in their little town, and the general store was quickly bought out of stock and closed before even a quarter of the Adventurers had bought the necessary supplies.
+
+All of the specialty stores were bought out and emptied next, and almost half of the Adventurers were well equipped to head into the new lands. The rest debated popping to another town to load up on supplies, then figured they would find a suitable place in the new area. Almost as one, all of the Adventurers stepped out of the Human Kingdom and into the next land.
+
+The Liven Empire.
+
+It was also known as the Gnome Lands and nearly all of the Adventures dismissed the second warning about not bothering the locals or crossing into another kingdom's territory uninvited. They should have listened to both warnings. Some of the Adventurers didn't have to worry, since they were high enough level that they could handle what happened next; but, a lot of them were just curious about new things being available and were wholly unprepared for what their Trouble recipes had in store for them.
+
+The Gnomes didn't like people not using their designated road. They didn't like it at all. Even the Lemming, nature's idiot that will follow its fellows unto death for no reason, will fight tooth and nail when cornered. The Gnomes saw an army of Adventurers cross into their lands without so much as an 'excuse me', and they felt extremely cornered and responded accordingly.
+
+Gnomes were almost completely magical beings, so when they responded, they did it with panache.
+
+With their own army.
+
+Instantly.
+
+Everywhere an intruder had stepped onto their land, they were there. When they attacked, it was a complete surprise, and completely devastating. Sleep spells covered the front of the mass of Adventurers and 20% of them were knocked out. Normally that wasn't too bad, except the sleep spells were followed by Acid and Poison Clouds. Most of the sleeping Adventurers died after only a few moments, despite healers trying to save them. Those healers were hit with hundreds of Fireballs and Ball Lightning spells, which decimated them and took out another 20% of the Adventurers.
+
+Some of the Adventurers near the back of the group knew they were in deep trouble and tried to run, and magical pit traps opened up and they fell inside. Some died as they were impaled on the poison spikes, others were lucky and were only poisoned. At least, they thought they were lucky, until the pit traps closed and cut off their air and only means of escape. That was another 5% of their number lost.
+
+Dozens of summoning portals opened and Hell Hounds poured out and mauled the Adventurers unlucky enough not to block the first attack, then the sky became dark when a large group of Gnomes pooled their Mana and managed to cast Rainstorm and expanded it to cover the entire mass of Adventurers that were left. The Adventurer's ability to see dropped to almost nothing as the deluge of rain blocked pretty much everything barely a foot away from their faces.
+
+That's when the Gnomes fired their enchanted crossbows.
+
+Adventurers yelled and died by the dozens as they were hit with multiple crossbow bolts and were poisoned. With that attack out of the way, several hundred gnomes knelt and prayed to the Deity of Lightning. One of the Adventurers who were strong enough to handle pretty much everything so far, heard the chanting and realized what was going to happen.
+
+“Oh, shit! Retreat! Run! Goddammit, RUN! RUUUUN!” He yelled at the top of his lungs and ran. A lot of the others saw and heard him, and decided that was a good idea. Most of the Adventurers hadn't heard him through the thick rain, and then a huge portal opened up and a 40 foot tall Greater Lightning Elemental stepped out. It was made of Chains of Ball Lightning, with a huge Ball of Lightning for a head, just like the one Ren had encountered while visiting Aimus' homestead. It reached out and pointed at the cloud making the Rainstorm over the Adventurers, then half of its body flowed out and shot into the cloud.
+
+The Adventurers didn't see the Rainstorm be converted into a Lightning Storm, then the thousands of raindrops hitting them suddenly changed and became thousands of Lightning Bolts instead. The Adventurers that had survived the onslaught, about 20% of the amount that had entered the Gnome's lands, were amazed that they were still alive, then the dark cloud broke apart to reveal what they were facing.
+
+“We are so boned.” One of them said in defeat as the Greater Lightning Elemental stepped forward into them and started to scoop them up, both the living and the dead, to consume the offering that the Gnomes had offered it. The remaining Adventurers fought valiantly, albeit pointlessly, and the Greater Lightning Elemental finished them off and turned to the Gnomes that had prayed for its appearance. Half of them stood up and held hands out to it, and it scooped them up and consumed them as well, then stepped back through the portal.

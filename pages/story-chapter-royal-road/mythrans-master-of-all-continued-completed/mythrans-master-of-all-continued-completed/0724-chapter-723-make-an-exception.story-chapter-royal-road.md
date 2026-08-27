@@ -1,0 +1,325 @@
+---
+id: 5a244c08-fb16-5c37-b1ef-61403081040f
+page-type-slug: story-chapter-royal-road
+title: "Chapter 723 - Make An Exception"
+slug: 0724-chapter-723-make-an-exception
+partOf: mythrans-master-of-all-continued-completed
+position: 724
+ownLength: 3559
+unit: words
+publishedAt: 2018-10-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/296387/chapter-723-make-an-exception"
+royalRoadId: "296387"
+---
+
+Barbi had indeed sat down at her desk with the set of figures before she realized she needed the security footage to edit it. She went back to the den and told them, and they laughed.
+
+“It's not that funny.” Barbi said with a smile, because she would have laughed as well, had it been someone else. Everyone watched her leave again, then Elise turned to Ren.
+
+“All right, mister.” Elise said. “I'm pretty sure I wasn't the only one who heard you evade the question about how long you were really in there.”
+
+“I heard it.” Stella said.
+
+“Me, too.” Lisa said. “I know it was a really long time, though.”
+
+“How do you know that?” Elise asked.
+
+“He learned how to program on a computer he's never seen before, to fix computer code he had never seen before, and did it successfully.” Lisa said. “That takes years and years of dedication and hard work for a normal programmer.”
+
+“Which Ren isn't.” Stella said.
+
+Lisa nodded and walked over to Ren's side and took his hand. “Ren, how long were you in there?”
+
+“Do you want the truth, or the whole truth?” Ren asked.
+
+“You might as well give us all the rundown.” Lisa said and smiled. “Stella and I are the only ones here that understand the time compression and experienced it first-hand.”
+
+Ren took a deep breath and let it out. “I was in there for 10 minutes real time.” He said. “Which is 40 minutes game time, or about 20 weeks in pocket realm time, or almost 80 weeks in my old Sanctuary.”
+
+“Eighty weeks.” Barbara almost gasped.
+
+“Ren, keep going.” Lisa said, and Barbara did gasp at that.
+
+“Inside Lisa's new closet it would be double that, at 160 weeks.” Ren said. “My heavily modified Sanctuary by the Library would be almost 640 weeks.”
+
+“Good god.” Denise said.
+
+“Ren...” Lisa said, and Ren squeezed her hand lightly.
+
+“In my new compressed Sanctuary, where I leveled up my character all those times, it's about 64,000 weeks, or one thousand, two hundred and thirty years that pass by every second.”
+
+Barbara started to sway and Denise quickly helped her sit down on the couch.
+
+“Finish it, Ren.” Lisa encouraged as she knelt beside him, and he nodded.
+
+“I think you should all sit down for this.” Ren said and waited for everyone to sit. “In Vasalor's Realm... well, I hope you won't think I'm crazy when you hear this.” He said and smiled. “I was in there for almost three million years.”
+
+Sharp intakes of breath were heard all around, even from Lisa, because she hadn't expected there would be that big of a jump in the time difference.
+
+“I... I figured maybe 10,000 years or even close to 40,000; but, not a million years.” Lisa whispered. “Good lord! Three million years!”
+
+Ren gave her hand a kiss. “The sheer number of files that had to be checked and repaired would have made the task nearly impossible in real time and even in game time.” He said. “I used Vasalor's own functions to help me adjust to such a drastic time dilation, once I learned how to program that is, and we worked pretty much non-stop until we were done.”
+
+“R-Ren... h-how...” Elise stammered, and he used his free hand to take hers and gave it a kiss.
+
+“Yeah, my brain would have been mush if Vasalor hadn't stopped me from trying to absorb all of the information at once.” Ren said and gave Lisa a knowing wink. “I learned at a normal pace and didn't rush things, since we had plenty of time.” He chuckled. “Plenty of time. That phrase doesn't mean the same to me as it once did.”
+
+“But...”
+
+“Don't worry. All the memories I had during my time with Vasalor, I pretty much left there.” Ren said.
+
+“Wh-what?”
+
+“What would I need with eons of memories of drudgery work?” Ren said and laughed. “I kept all of the emotions I felt, though.”
+
+“Why?” Lisa asked.
+
+“They don't really require any significant storage in your brain.” Ren smiled. “Plus, I know a few Emotion Siphons that could definitely use a good feeding.”
+
+“Lylyth, the Queen of the Dark Elves.” Lisa said immediately.
+
+“Also her attendant, which I did give a good feeding to pass on to Lylyth. The succubi, the ghoul kissed elfling, and Elerlyth too; but, only if she can accept it as a friend, and a friend only.”
+
+“You really did cut her off?” Lisa asked, and Ren nodded.
+
+“I warned her a long time ago that if she attacked me, I'd have to reevaluate our relationship.” Ren said. “She wanted to work for a company that tortured me, so I had to consider it a personal attack on me.”
+
+“It was.” Elise said and ran her hands through his hair. “I couldn't believe anyone would do that, just for some extra money.”
+
+“She tried to say she would only work there until the patent trial.” Ren said and shook his head. “Stella and I didn't even get the chance to renegotiate her student assistant contract.”
+
+“She didn't even ask about that.” Stella said. “I guess she really was blinded by a huge payoff.”
+
+“Well, that shows how short-sighted she was.” Elise said and took out her cell phone, then showed Ren that he was the new owner of the patents that were in dispute and both companies had injunctions against them to discover what else they had been doing illegally or items that had been built using those patents.
+
+“No way!” Ren said and read the text message. “Wow, that... wait, why was I awarded the patents?”
+
+“It's simple really. People that commit crimes are not supposed to benefit from a criminal act.” She smiled. “When the evidence was presented, the patents should have reverted to the previous owners.”
+
+Ren didn't even have to think about it. “My parents.”
+
+“That's right, Sweetheart.” Elise said and took her phone back. “I know you don't like being associated with things involved with your parents, but... you don't realize how many companies actually use those patents.”
+
+“It's not just computer design companies, is it?” Ren asked, and she shook her head.
+
+“The things they did to you had far reaching implications, Ren.” Elise said and gave him a kiss on the cheek. “This is only the start of getting a handle on unravelling it all.”
+
+Ren sighed and nodded. “I had hoped it would all be sorted through quickly; but, I guess when I told the law firm to make the most of it, they really are going to.”
+
+It was Elise's turn to nod, then they all turned to Barbara when they heard her whisper.
+
+“Three... three million years.”
+
+Ren let Lisa's hand go and had Elise push him over to Barbara so he could take her hand. “Barbara.”
+
+Barbara blinked her eyes for several moments. “R-Ren? You... you were joking, right? It didn't really happen. I... I can't accept that...” She stopped talking for a moment, then she gripped his hand. “Are you all right?”
+
+“Barbara I'm fine.” Ren said and tapped his temple. “I still have all my marbles.”
+
+“H-how... how do you know?”
+
+“Because even though I was there for so long, I love you all even more than I did before.” Ren said. “You know that old saying... absence makes the heart grow fonder?”
+
+Barbara nodded.
+
+“I've been away from you for millions of years.” Ren smiled. “You could dance around buck-naked in front of me now and I'll just appreciate the sight for what it is, and I won't freak out about it.”
+
+Stella snorted a laugh, and Barbara smiled back.
+
+“Really?” Barbara asked and let his hand go, then started to unbutton her blouse, much to everyone's surprise. She flipped it open dramatically to show off her plain white bra and Ren glanced down at her.
+
+“Mom, you look very pretty.” Ren said and looked back at her face. He saw surprise there, and he lifted her hand to kiss the fingers. “Donald is a very lucky man to have you for a wife.”
+
+“R-Ren...”
+
+“Hey, don't be sad that you can't tease me about it.” Ren said. “You told me they were just breasts, remember?”
+
+“I... I did... but...”
+
+“You were right when you told me that if I was your real son, I would have seen them at least a few hundred times.” Ren gave her hand a squeeze. “I shouldn't get upset if I catch a glimpse of them every now and then, right?”
+
+“Oh, Ren.” Barbara leaned forward and gave him a hug. “My sweet little boy is growing up.”
+
+“Hold on a second.” Ren said and she let him out of the hug. “After everything I've been through, me accepting the sight your breasts as normal is what makes you think I'm growing up?” He asked with mock incredulity, which made her laugh and she quickly buttoned up her top.
+
+“Ren, I've been wondering.” Lisa said to get his attention. “What's weird about a turtle losing its shell?”
+
+“How do you decide if its naked or if its homeless?” Ren asked, and she laughed.
+
+The house phone rang and Stella picked it up, listened for a moment and said thank you, then hung up.
+
+“The guards finished going through your order.” Stella told Ren. “They left it in the lobby.”
+
+“Then I was a little off on the timing.” Ren said. “Would you mind...”
+
+“I'll bring it up with supper.”
+
+“Oh, are we eating in my room?” Ren asked.
+
+“You've been moving around with that wrapped knee a lot today. You need a break, I think.” Stella said.
+
+The little family gathering broke up after that, and Ren gave them all hugs and kisses. He held onto Lisa's hand and asked her to meet him in the game. She told him to meet her in the Library in his county, so they could spend some time in her new apartment, and he nodded. Stella took him down in the elevator and over to his room, got him back into bed, and handed him the VR headset.
+
+“See you at supper.” Ren said. “Flow Login Start.”
+
+********
+
+Ren woke up on the bed and was surprised that he wasn't under a pile of women's bodies. The last time he had been in bed with the maids, he couldn't see who was who because their arms and legs were all mixed up like a jumbled puzzle on top of him.
+
+“Hi, Ren!” Teepo said in the version of his voice that only Ren could hear.
+
+Hey buddy. Ren thought to his friend. Anything happen?
+
+“Surprisingly, no. As you can see, you aren't on the bottom of the normal Ren pile.”
+
+Ren lifted his head and looked at them, and he saw six women arrayed around him. One on each arm, one on each leg, and one on each side of his abdomen. He blinked his eyes as he saw Xuunah was one of the ones on his abdomen.
+
+That's a change from her normal behavior. Ren thought and then smiled. I usually make her uncomfortable by holding her hand too long.
+
+“She was pretty reluctant at first, since she knew you couldn't stop her.” Teepo said. “She's been asleep the whole time and didn't take advantage of you, though.”
+
+Ren held in his chuckle and could feel that the maids and Xuunah were all still deep asleep. He was fortunate to have the hand free on one of his arms, since Frikara only had a death grip on his elbow and rested her head on his shoulder, so he took the Vasalor statue out of inventory and activated it. He stayed there with them for several hours, and when they started to stir on their own and wake up, he deactivated the statue and stored it before they noticed.
+
+“R-Ren, are... are you back?” Frikara asked and lifted her head to look at his face.
+
+“I am.” Ren moved his head forward and was just barely able to brush her lips with his to kiss her.
+
+“Can we cuddle for a while?” Andrela asked from his abdomen as she rolled onto her side to look at him.
+
+“I've been cuddling you for about four hours so far.” Ren said and took the statue back out and activated it. “Why not for a little while longer?”
+
+Andrela nodded and her long straight red hair rubbed his belly, then she kissed his side. Ren felt Xuunah wake up and their Collective came into full force, and she tried to stop herself from sharing so much. Frikara let Ren's arm go and he used his free hand to pet the top of Xuunah's head.
+
+“Easy, now. I've felt it all before.” Ren said consolingly.
+
+“But... but, I...” Xuunah took a deep breath and sighed. “I don't want you to feel how much I want you physically.” She said and turned her head to look at him. “I really, really want you.”
+
+Ren blinked his eyes at her and felt from her almost exactly what he felt from Nathalia. “Oh... oh, damn.” He said and deactivated the statue and stored it. “Um... everyone, you need to let me up.”
+
+The maids let him go when they felt his urgency, and Ren helped Xuunah stand up. He equipped his platinum armor and asked her to equip her Holy Armor, then he led her to the door.
+
+“Where are you going?” Frikara asked.
+
+“To make an impassioned plea.” Ren said. “We'll be right back.”
+
+Ren led Xuunah downstairs and to her apartment, took her inside, and went over to the closet where she had made her Sanctuary to communicate with the Light Realm.
+
+“Ren, its only for...”
+
+“I increased the limit to 10 occupants.” Ren said to her surprise, then she opened the door to let him in. “You don't need to transform to communicate, either.”
+
+“R-Ren!” Xuunah exclaimed as she shut the door. “How did...”
+
+“Trade secret.” Ren smiled and Xuunah didn't detect a lie.
+
+“G-great V-Vasalor.” Xuunah whispered, and Ren nodded.
+
+“Just concentrate and the connection will form.”
+
+“But... but what...”
+
+“I'll handle the talking when Zagatro asks what's going on, assuming he doesn't detect your current condition immediately.” Ren said.
+
+Xuunah caught her breath when she realized she hadn't told anyone in the Light Realm that she was with child, and Ren took both of her hands and lifted them to his mouth to kiss them. He filled her with reassurance and love, and she calmed down. She nodded slightly to him and closed her eyes to form the connection to the Collective. Xuunah and Ren straightened their posture as they felt another presence inside the Sanctuary.
+
+“Xuunah.” Zagatro said. “It has been a while since... since... no, you... you couldn't have.” He said, shocked. “Our most sacred mandate! You... you...”
+
+“She didn't break it, Zagatro.” Ren said. “I became a Light being and share-bonded with her, then Xuunah took from me what was needed.”
+
+“That... that shouldn't be possible.” Zagatro said. “A Light being and a mortal can't...”
+
+“I wasn't mortal at the time, and it apparently worked because she has a cute little ball of Light inside of her.” Ren said. “I don't know why it takes ten years to grow, though.”
+
+“It's so it can learn to absorb from the Collective and be a part of the Light.” Zagatro said. “It's a secondary on the connection the parent has with the Collective.”
+
+“Oh, so you wean it on the Light, so that when it's ready to emerge, it can handle the transition from one encapsulating Light from the mother to the pulsating Light of the Collective.”
+
+“Y-yes, that's it exactly.” Zagatro said, surprised.
+
+“Well, since this has happened countless times before, even with the chosen with the polymorph ability, I was wondering how they handled it.”
+
+In mere moments, Xuunah learned of hundreds of Light beings having children with Light beings that could polymorph, and she shared the most relevant ones with Ren.
+
+“Oh, what a relief.” Ren said. “Polymorphing doesn't affect the child in the least, even if you don't revert back to a Light being for the emergence.” He said. “I was worried that changing back and forth might cause some kind of damage.”
+
+“No, Light beings are too resilient for a little thing like flesh to interfere with their creation.”
+
+“That's good to know, Zagatro. Thank you.”
+
+“If that's all, I need to...”
+
+“Actually, I need you to petition the Collective for a special exception for Xuunah.” Ren said.
+
+“Excuse me?” Both Xuunah and Zagatro said at the same time.
+
+“I've had experience with Nathalia when she gets in a certain mood, and nothing is going to relieve her stress, except doing something that I can't really talk about.”
+
+“What kind of experience?” Xuunah asked.
+
+“I came back early so I could talk to you about it.” Ren said and smiled. “Nathalia's pregnant.”
+
+Xuunah gasped and let one of Ren's hands go to put it over her heart. “That's what that was!”
+
+Ren nodded. “It happened pretty quickly, and I sent her back to the dwarf lands and into the care of a couple of great healers.”
+
+“My... my...” Xuunah stopped talking and looked at Ren with wide eyes. “You're the father!”
+
+“I am.” Ren said. “I couldn't let everyone else have their heart's desire and not give her one of her own.”
+
+“But... but... we... she's...”
+
+“Nathalia is having a child of my body and you are having a child of my mind.” Ren said. “I know that's an odd distinction; but it's there, nonetheless.”
+
+“They... they won't be blood related and still be related at the same time.” Xuunah said. “Ren, that...” She smiled. “It's too bad we can't have them at the same time so that they can grow up together.”
+
+“Well, considering Nathalia's just about ready to burst and you've got another 10 years to go...” Ren started to say, and Xuunah gripped his hand hard.
+
+“What did you say?”
+
+“I spent a year with Nathalia in my Sanctuary and got her pregnant as a dwarf, then stayed with her there until she came to term.”
+
+“We need to go to her right now!” Xuunah exclaimed and reached for the door with her free hand.
+
+“Wait!” Ren grabbed her other hand. “I'm trying to explain why you need an exception.”
+
+“I don't care about that!”
+
+“You will.” Ren said. “Zagatro, can you handle feeling mortal emotions if I send them to you through Xuunah?”
+
+“I can, but I don't like it.” Zagatro said.
+
+“Xuunah's not going to like it much, either... at least, not intellectually.” Ren said, then let Xuunah's hands go to cup the sides of her face. “This is what Nathalia felt like after getting pregnant.” He said and kissed her. Xuunah couldn't resist the feel of his lips and dropped the protections she had in place, and Ren gave her everything that Nathalia had felt during the year they were together. It took almost 10 minutes for him to relay it all, and when he was done, Xuunah's eyes were nearly bulged out of her head in surprise.
+
+“N-no, I... I can't...” Xuunah shook her head. “Wh-why?”
+
+“If I had to guess, it's a survival mechanism.” Ren said. “The child inside needed Nathalia to feel good all of the time, so that's what I did.”
+
+“F-for... for a y-year.” Zagatro's voice wavered.
+
+“Yeah, and since Xuunah's pregnancy is going to be for 10 years...”
+
+“Great Vasalor.” Xuunah and Zagatro said together, then fell silent for several minutes.
+
+“Wh-what is the... exception... you propose?” Zagatro managed to say.
+
+“It's simple really.” Ren said. “Your mandate is to stop Light beings from mating with mortals and creating children.” He said and smiled. “Xuunah's already pregnant as a Light being, so her physical body can't get pregnant again.”
+
+Xuunah gasped. “R-Ren! That... that means...”
+
+“We won't be breaking the mandate, as long as we get that distinction set up as part of the Collective.”
+
+“That is a very fine distinction.” Zagatro said.
+
+“Well, I am the father of her child, so I will do everything I can to help Xuunah have the best child that she can, both physically and emotionally.” Ren said. “Just like I did for Nathalia.”
+
+“I... I will need to... confer...” Zagatro stammered as he thought about who he could confer with to get this kind of subject brought up in the Collective.
+
+“Take all the time that you need, as long as it's within the next two weeks.” Ren said. “I have an appointment with the Sage of Ages that I need to get to.”
+
+“Yes, yes. Time is of the essence. I know.” Zagatro said. “Until then, do not do anything to her.”
+
+“I promise not to grope or paw at her; but, we are in a tiny closet and I'm going to kiss her and her belly a lot over the next two weeks.” Ren said, and Xuunah held in her laugh.
+
+Zagatro sighed as he felt her amusement. “I'll hurry back.”
+
+“We'll be here.” Ren smiled and then kissed a very happy Xuunah. Without being asked, she equipped the special shirt with the hole cut out, and Ren knelt to kiss her belly all over and she laughed.

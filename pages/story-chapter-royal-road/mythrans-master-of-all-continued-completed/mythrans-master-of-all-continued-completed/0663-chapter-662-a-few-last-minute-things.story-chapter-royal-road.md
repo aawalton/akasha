@@ -1,0 +1,231 @@
+---
+id: 6f91ae16-99cf-52b8-84a4-4b94c9775691
+page-type-slug: story-chapter-royal-road
+title: "Chapter 662 - A Few Last Minute Things"
+slug: 0663-chapter-662-a-few-last-minute-things
+partOf: mythrans-master-of-all-continued-completed
+position: 663
+ownLength: 3073
+unit: words
+publishedAt: 2018-08-07
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/241746/chapter-662-a-few-last-minute-things"
+royalRoadId: "241746"
+---
+
+Ren finished up showing everyone how to work everything, provided the Healers with wands and spells they would need, gave the guards new armor and weapons, then told them all to go home and to get a good night's rest. They all promised to do so and thanked him for the jobs. He thanked them right back and made sure they knew that none of this would be possible if it wasn't for them.
+
+Fully reassured, the crowd of workers dispersed from the food court and left Ren, Valercia, Artemis, Dana, and Gretchen all alone. They had all tried the different foods available, and they were all a great success.
+
+“How's the time, Teepo?” Ren asked.
+
+“If we leave within the next few minutes, we should have just enough time to secure the proper foodstuff and livestock deliveries from the three nearby cities.” Teepo said. “We won't get much more than that today.”
+
+“It'll have to do.” Ren said and turned to Valercia. “Thank you for indulging me today, Your Highness.”
+
+“That sounds so odd coming from a King.” Valercia said. “Plus, you have provided the city with an enormous revenue source and ask nothing in return except to work for ourselves.” She said and touched the side of his face. “I am the one that should thank you.”
+
+“You don't have to thank me.” Ren said as she stepped close. “I can feel how happy you are, and that's more than thanks enough for me.”
+
+“Is it?” Valercia asked in a sexy voice, and her hand moved down from his face to play with the lapel of his blue suit. “What if I want to thank you...” Her eyes glanced at the people around them and she leaned in to whisper. “...privately?”
+
+“I... would say that... I appreciate it.” Ren said and put his arms around her. “Unfortunately, it will have to wait.”
+
+“You said that before.” Valercia sighed. “I've come to know you a lot today, and I believe you know me as well. Is that not enough?”
+
+Ren let her go when he felt her sadness, and he cupped both sides of her face. “It takes more than a day to build a real relationship between people.” He said and glanced at Dana. “Sometimes only friendship can develop.” He said and saw her smile, then he glanced at Gretchen. “Sometimes friendship has the potential to become something more.”
+
+Gretchen's face went red at just the implication, and he looked back at Valercia.
+
+“Let me be friends with you before we try to ruin it with sex.” Ren said, and she laughed.
+
+“I don't believe I could hate you if we had sex before becoming friends first.” Valercia said. “But, I will respect your wishes and I will try not to pester you with my unwanted advances.”
+
+“They aren't unwanted, just early.” Ren leaned in and kissed her. Gretchen watched as he kissed Valercia, and she noticed he didn't kiss her the same way as he had kissed her or Dana.
+
+What is he doing? Gretchen wondered. Does he kiss every woman differently?
+
+“You're staring at them pretty intensely.” Dana whispered, and Gretchen was jolted out of her thoughts.
+
+“No, I'm not.” Gretchen denied it automatically, and Dana laughed under her breath.
+
+“It's like a car wreck, isn't it?” Dana whispered. “You know you should look away, but you can't help yourself and just stare at it.”
+
+Gretchen thought that was a perfect analogy and nodded.
+
+Ren broke the kiss and Valercia sighed loudly, then she smiled wickedly.
+
+“You tease me so well, My King.” Valercia said. “You better go before I change my mind about following your wishes.”
+
+Ren gave her another quick kiss. “Can you...”
+
+“I will return the rented cart.” Valercia said.
+
+“Thank you.” Ren said and looked at Dana and Gretchen. “Can I drop you off anywhere?”
+
+“We have a driver coming for us soon.” Dana said.
+
+Ren nodded and took out the All-Seeing Mirror, then cast a Portal spell. “See you later.” He said as Teepo dissolved into the Beetle Crown Ring, then Ren took Artemis' hand and stepped through the portal. For the next 2 hours, Ren and Artemis visited several farms and businesses in various towns and cities to secure food shipments to the amusement park. With the Portal Gate Network in place, those shipment delivery times were reduced from weeks to mere hours.
+
+Once that was done, Ren and Artemis went back to the succubi roost to pick up the people that wanted to come with him back to Aurora. The four succubi were ready to go, but Princess decided that she wanted to stay in her own bed. Ren didn't begrudge her that, since he would be returning in the morning anyway. She did go and get Suniva for him, and when he tried to tell her that she didn't have to come, she flatly denied it.
+
+“I want to be there when you come back from Adventurer's business, Ren.” Suniva said and flew over to sit down on his shoulder. Ren's pet tarantula crawled up close to her and she scratched the spot right above it's eyes. It hunkered down and one of its legs twitched a little. Ren chuckled and unfurled his wings, as did the succubi, and Artemis floated up into the air.
+
+They flew over to the amusement park and Ren cast a single Permanent Wall of Iron several miles wide and high, then cast Permanent Full Illusion on it to make it look like the desolate field it used to be. With the park concealed from sight, they all flew for several minutes and arrived back at the house in Aurora.
+
+Ren dropped off the succubi and Suniva, then he and Artemis flew over to his business. He felt Anabelle's shock that he was there, and she was waiting at the door to the third floor apartment when he and Artemis entered through the back door on the second floor.
+
+“M-my King.” Anabelle whispered.
+
+Ren climbed the stairs to her and she opened her arms to hug him. “Hi, Anabelle.”
+
+“You...” Anabelle caught her breath as she felt the difference in his emotions and let him go. “You've been gone so long.”
+
+“Relatively, yes.” Ren said. “Can I stay with you while I sleep?”
+
+“You can do whatever you want, Ren. You know that.” Anabelle said and looked at Artemis, who still stood on the second floor. “Are you coming in, too?”
+
+Artemis shook her head. “I won't begrudge you alone time, not after having years of him all to myself.”
+
+“Thank you.” Anabelle said, and Artemis waved it away.
+
+“I'll see you in the morning.” Ren said to Artemis, then he and Anabelle entered the apartment and shut the door. He stored his clothing as did she, and they climbed onto the bed together.
+
+“Ren, you've become so... so...”
+
+“I haven't left you behind, if that's what you're thinking.” Ren said.
+
+“But... you are...” Anabelle sighed. “I'm only...”
+
+“You're mine.” Ren said, and she felt his strong conviction. “Now shut up and accept my love.”
+
+Anabelle laughed and kissed him, and she let her emotions roam free as she basked in decades of his emotions of missing her. Feeling that he had missed her for so long made her need him that much more. Her movements became desperate and frantic, and he let her indulge herself for a while and then gave her what she needed.
+
+It was over fairly quickly, and Anabelle held onto him tightly as they both fell asleep in each other's arms. The hour passed by and they woke up still holding each other. Anabelle leaned forward and gave him a kiss, then reluctantly let him go and slid a few inches away.
+
+“Try to come back before you need to, Ren.” Anabelle said. “I want to hold you once more before the fight.”
+
+“I'll try, but I won't promise.” Ren said. “I've damaged myself on Adventurer business and things are going to take longer to do than I think they will.”
+
+“I understand.” Anabelle said and touched his face. “Even if you don't come back in time to stay for a while, I can feel that you want to.”
+
+“Of course I do.” Ren said and kissed her hand, and she held it to her chest. “Logout.”
+
+********
+
+Ren slid off the headset and felt all the pain in his chest and knee hit him all at once.
+
+“Easy, now.” Stella said and took the headset, then handed him two pills and a glass of water. “You're going to be really stiff after staying in the game all night and not moving your body.”
+
+“Thanks.” Ren said and took the pills and drank some of the water to wash them down.
+
+“You really did a lot of work last night.” Elise said, and Ren turned his head to see that she, Lisa, and Denise were in the bed with him.
+
+“You all stayed with me and I didn't get to see it?” Ren asked.
+
+“Nothing happened, you little deviant.” Denise joked and gave him a huge smile, and he laughed.
+
+“Tell me Stella was here, too.” Ren said and looked at her, and saw she was wearing one of Elise's t-shirts. “You were!”
+
+Stella nodded. “None of us wanted to be away from you after what had happened.”
+
+“Barbara?” Ren asked.
+
+“Watched over all of us all night.” Stella said, and then the bedroom door opened and Barbara came in with the cart and breakfast. “Speak of the devil.”
+
+Barbara laughed and pushed the cart over to the bed, and Elise, Lisa, and Denise sat up. “You don't have to get up.” She said and pulled out a few folding trays with legs, and handed them to Denise, Elise, and Lisa. She walked over to the rollaway table while Stella helped Ren sit up to eat, and Barbara brought the rollaway table over to the bed and motioned for Stella to sit.
+
+“Barbara...”
+
+“I didn't get to do a lot last night, so I'm making breakfast in bed for everyone.” Barbara said. “Sit.”
+
+Stella knew that tone of voice and sat beside Ren without another word, then Barbara served them all breakfast. The plates were almost identical in food content, but the drinks were all different. Milk for Denise, coffee for Elise, orange juice for Lisa, the supplement drink for Ren, and grapefruit juice for Stella.
+
+Ren almost gagged at the smell. “Ugh. How can you drink that stuff?”
+
+“Like this.” Stella said and took a big gulp of it. She put the glass down, winced as she slowly puckered her lips and stuck them way out, then turned to Ren. “Gimmie a kwiss!” She said and made loud smacking sounds.
+
+“Nooo!” Ren said and turned his head. “Someone help me!”
+
+“I think you're on your own.” Denise said. “I don't like grapefruit juice, either.”
+
+“I'm out for the same reason.” Elise said and smiled. “You'll just have to take your medicine.”
+
+“Oh, no! She's going to get me!” Ren said and leaned back as Stella leaned in, then suddenly Lisa was there and kissed Stella right on the lips. Everyone stared at her as she leaned back and picked up her orange juice and took a drink.
+
+“You owe me a dollar for saving your life, Ren.” Lisa said with a huge smile, and everyone laughed.
+
+They finished eating breakfast together and then Stella checked Ren's bandages, carefully cleaned and treated the area around the stitches, and wrapped him up again.
+
+“How's the knee?” Stella asked.
+
+“Throbbing, but it's fading a little with... the painkillers.” Ren said and yawned. “Oh, damn.” He said. “I need... to log in before I... doze off.”
+
+Stella quickly handed him the VR headset and helped him put it on.
+
+“Flow Login Start.”
+
+********
+
+Ren woke up on his bed in the bedroom of the apartment on the third floor of his business. Anabelle was laying right beside him on her side, and she had her hands together as if she was praying. Ren turned onto his side to face her and touched her clasped hands.
+
+Anabelle opened her eyes and gave him a big smile. “You did it.”
+
+“I had to come back early.” Ren said and smiled back, and he felt how happy she was. They embraced and spent an hour with each other, then he had to go. She didn't try to stop him or plead for more time, and he gave her a passionate kiss as a thank you.
+
+“Can I come and watch you fight?” Anabelle asked.
+
+“You can if you want to, but it won't be necessary.” Ren said, and felt her disappointment. He walked over to the wall and put a tiny little box on the floor. He pushed the button and a 6 foot wide by 4 foot high screen appeared above it and showed the main floor of the arena.
+
+“Is... is that...”
+
+“You can stay right here and watch it in the comfort of your own home.” Ren said, and she caught her breath.
+
+“M-my h-home?”
+
+Ren nodded. “I'm sorry that I was so short-sighted back then and didn't realize that giving you a temporary place to sleep wouldn't make you feel welcome.” He said and went back over to the bed and took her hand. “Can you forgive me for being so stupid?”
+
+“There's nothing to forgive.” Anabelle said and squeezed his hand. “You opened your home to me when you could have easily let me stay at the Refugee Center, and that made me feel more welcome than anything else could have at the time.” She said. “I've always felt so blessed.”
+
+“And now?”
+
+“I'm still surprised you want me to consider this my home.” Anabelle said and chuckled. “It's the first place you ever had on your own, and you want to share it with me.” She said. “I've always said that I live here, but it never crossed my mind to call it my home.”
+
+Ren lifted her hand and kissed the inside of her wrist. “It is your home and I hope you will always stay here.”
+
+Anabelle nodded and gave him a tender kiss. “I will.”
+
+Ren gave her a new armored bodysuit and a new uniform, and new uniforms for the other workers. She thanked him for his generosity and for thinking of her and her staff. He caressed her cheek and let her feel how much he cared about her, then left the apartment. Artemis was waiting on the second floor and met him at the back door.
+
+“Teepo, I'm going to be using portals for the next 30 minutes to make deliveries.” Ren said. “I'll summon you again when I'm finished.”
+
+“Now I know why you didn't want to change to using portals as a normal means of transport, and it wasn't just so Princess wouldn't feel left out.” Teepo said.
+
+“That's right, buddy. Checking each and every destination and then casting a portal, stepping through, and dismissing it within seconds so that no one can get caught in it, is a lot more stressful than people assume it is.” Ren said. “It's faster and convenient, but it's also a lot more dangerous... and I can't go through them without inconveniencing my best friend.”
+
+“Thanks, Ren. I'll see you later.” Teepo said and dissolved into the ring.
+
+Ren took out the All-Seeing Mirror and checked the first destination, right above Aurora's Portal Gate, and he opened a portal to there. He took Artemis's hand and they stepped through and appeared in the air above the gate. Ren placed a different box on top of the gate and stuck it there permanently, then hit the button. Six large screens appeared 20 feet up in the air and they all faced a different direction. Each screen was 20 feet wide and 15 feet high and showed the inside of the arena.
+
+Within barely a minute, Ren had used portals to jump to key locations in the city and installed all different kinds of screens so that everyone could see the battle when it happened. Once that was done, Ren and Artemis moved to the next city and the next, and did the same thing. By the time the 30 minutes was up, the entire country had been given displays to watch, and they were all keyed to the broadcaster in the arena. He had even put one in Valercia's office.
+
+Ren had also made a special side trip to the castle in the capital city of Bore Reale and met with a half-asleep and startled Princess Diana, and gave her a personal display to watch. She had protested at first and requested to be there in person; but, Ren flatly refused to let her put herself in danger, just for him.
+
+“It's my choice.” Diana had said adamantly.
+
+“Yes, so make the right choice and stay safe.” Ren had said back just as adamantly, activated the display, and left. He went back to the house in Aurora and met the succubi and Suniva. “Do you want to cuddle here or at the county?”
+
+“The county.” The succubi said without having to think about it.
+
+“I'm outvoted, so I'll go with the majority.” Suniva chuckled.
+
+Ren picked her up and everyone left the house, then they flew for several minutes to get back to the succubi roost.
+
+“You've got an hour and 20 minutes left.” Teepo said as they entered Seldanna's bedroom with the double beds.
+
+“That's perfect.” Ren said. “Suniva?”
+
+“Yes, just a second.” Suniva said and grew twice to become 4 feet tall. “Is this better?”
+
+“For me? Yes.” Ren said and took her into his arms and kissed her. Her Fire responded to his passion and flared up, and he carried her to the bed. The succubi gathered around them and climbed onto the bed as well, and for the next 15 minutes, did nothing but wallow in Ren and Suniva's lovemaking emotions.
+
+Since they were in the roost, all of the succubi felt it and were turned on, and those with significant others at the time woke them up and made love as well, just so they could share in those emotions and add their own. After that short session, Ren, Suniva, Artemis, Seldanna, Ellaria, Katori, and Chenoa cuddled together and went to sleep for the hour that Ren had left before the big fight.

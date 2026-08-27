@@ -1,0 +1,119 @@
+---
+id: 5d5cf184-e6a1-5836-ae5a-adc0abc7d2c7
+page-type-slug: story-chapter-royal-road
+title: "Chapter 16"
+slug: 0017-chapter-16
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 17
+ownLength: 2468
+unit: words
+publishedAt: 2026-06-05
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3495608/chapter-16"
+royalRoadId: "3495608"
+---
+
+Locating the official U-Nerds healer wasn’t hard. I asked for directions, and then used my new Identify skill liberally until I located her. Keeping down my disappointment, when I learned that their so-called healer was the very same alchemist Crafter who’d been stoned out of her mind the day before was harder.
+
+Evening was slowly taking over as I found her. She did seem a bit more with it today. At the very least, she was upright and at work. Then again, observing her at work just brought more questions with it, when she used what looked like the carved legbone from a damn dinosaur to stir that chitin cauldron of hers.
+
+“Are you a witch?” I had to ask. It was… everything. Her orange hair in wild disarray around her face. The toxic fumes emerging from within the cauldron. The growing darkness around us. She just needed a raven on her shoulder and a few warts on her otherwise well-shaped nose.
+
+She cackled, long and hard. Then she cleared her throat and tittered. “I apologize. I just have to do the cackle whenever somebody asks!”
+
+Her voice was not what I expected. It was kindly and ethereal instead of the cracking high-pitched mess cartoons had prepared me for. I snorted. “You didn’t say no, though. Is this one of those lying by omission things?”
+
+“I mean, if you asked Tiffany from high school, then yes, I am absolutely a witch. Except, she’d spell it with a ‘b.’ Either way, the answer’s probably no. My name is Elizabeth. And I am just your regular Crafter. More specifically, playing at learning how to be an alchemist. So, if you were planning to curse somebody or join me in dancing naked under the moonlight, you’re out of luck. If you want some regular moonshine for drinking, though? I’m your girl.” She frowned and took in my appearance, the jagged rents in my armor and dried blood. “Though it looks like you’re looking for something a bit more here-and-now. They got you good, didn’t they?”
+
+I laughed. “You can say that again. You should see the other guy, though. Or, rather the other – erm – alien-like monster carpet.”
+
+“That got away from you in the end, didn’t it, love?” She smiled. “So, healing. How much health are you missing? Anything else you’re in the market for?”
+
+I nodded eagerly. “Honestly, any boosts to attributes would be amazing, or anything that can protect me or the group in a mess. But…” I spread my arms wide, palm-up. “Maybe I should just ask for a pitch about how all of this bartering shtick works first. I mean, I’ve learned the basics, I think, but that’s it.”
+
+She was all business now. “Okay. Tell us what you’ve been told, like a good parrot.”
+
+“Far as I understand: we carry home dead stuff for the Collectors who tear corpses apart into useful material. Then, Crafters get involved, and we’re given a pittance of what we dragged back in the form of crafted stuff. The better stuff we drag back, the better items we’ll get.”
+
+“That is… woefully incomplete. Not wrong, however. Let me ask. Do you care about the process? Or would you rather just receive your pittance and be done with it?”
+
+I grumbled. “I care enough that I’d rather not be ripped off.”
+
+She tittered again. “Good answer, love. Now, mind you, that we’re all making this up as we go along. Still, the current status quo is this: We have Collectors and Crafters. Collectors either extract the materials themselves – chop wood, mine stone or the like, or refine them from whatever you bring in. The end result is the same. Proper materials, ready for crafting.”
+
+My mind went back to the sight of that guy who’d extracted the full skeleton of a beast. He had to be some sort of Collector then. “But, couldn’t I just extract it myself? Chop the wood? What am I missing?”
+
+“The system, love. That’s what you’re forgetting. Collectors specialize. Or don’t. But those who do specialize are able to imbue the materials with bonuses. And that is what makes all the difference. Looking like that, I hope that you managed to bring back some sort of goods or dead beasts?” She accepted my nod and continued. “Now, that’s where it gets kind of technical. In short, any single Tier to an enemy beast’s level will allow a Collector to extract materials with a bonus of at least that Tier. Meaning, a Level 4 beast gets you bones with a +1 to Strength. Or meat that can give +1 to, say, fire affinities. Also, the Collector’s level and talents come into play here. Are you with me so far, love?”
+
+I did the math. We bagged two beasts that were Tier three, being Levels 10 and 12, respectively, and only one that was Tier one at Level 4. That sounded promising. “I think so. Is the bonus random?”
+
+“Depends on the Collector. But generally, yes. That, of course brings us to the haggling. If you bring good materials to a low-Level Collector, he should only charge a small cut of the materials. If, however, you bring low-Tier material to a high-Level Collector…” She motioned with her hands, as if weighing down a pair of scales.
+
+I groaned. “That sounds like we’re going to get fleeced.”
+
+“Ah. Worry not, love. The U-Nerds aren’t the worst. We do try to not let anybody act out of bounds. But yes, you should try to argue for a fair cut. Depending on the Tier, the Collector, and how much you’ve ruined things, that should leave you with anywhere from fifty to ninety percent of the material, ready for crafting. At least, there’s no such thing as a bartering skill, as far as we know.”
+
+I whistles softly. Good thing that it was out of my hands. I’d much rather take on another pair of Core Leechers than have to haggle and argue with some slimy salesman who had talents to cheat me on top of his business acumen. Besides, I knew what I looked like. Somebody like Nix would always earn better rates than I would. “And the crafting, then? I’m expecting that’s equally complex?”
+
+She smiled kindly. “Of course it is. When has anything worthwhile ever been simple?”
+
+I tried not to let my emotions show on my face. I’d always preferred simple. You could pay five hundred quid for a meal, and have some posh wanker unironically serve you snails. Meanwhile, my local Indian served a butter chicken for 8.99 that gave my collective taste buds an orgasm every single time. Simple was good!
+
+She ignored my ongoing internal discussion and explained. “As to crafting, it all depends on what you want crafted and if you are able to barter for all needed materials yourself. If they need to get some materials, they’ll charge you more.”
+
+“Seems fair.”
+
+“Basically, though, the more complex and time consuming an item you want crafted, the more expensive. Crafters are left with a wide range of possibilities – but there’s only so much time in the day. Besides, we need to use mana for our crafts and, often as not, stamina. That limits the number of items we can create a day.”
+
+I nodded at the cauldron still smoking in front of us. ”So, what’s that right there, as an example?”
+
+“That’s a relatively simple recipe, for a Tier 1 poison. Useful for arrows and bladed weapons both. It’s mana heavy, but easy to make in bulk, even if it consumes quite a lot of the- ”She wrinkled her nose. “Material. It’s something a lot of people want, and they can trade lower Tier stuff for it. Also, I’m Level 8, so I can add a few bonuses on top. Wins all around.”
+
+“But if I’d want… say, an extra durable Tier 4 shield?”
+
+“You’d best hope that you lucked out with what you got from the beasties you slew, because that’s going to be expensive and demanding for the Crafter.” She must have noticed my expression, because her gaze softened. “Now, don’t fret, love. That does not mean that you will be unable to afford good equipment. It just means that you need to be realistic. If you changed Tier 4 to, say, Tier 2, things are drastically more affordable – especially if you have decent materials at hand, because we have an excellent bone Collector. With his help, you should be able to afford a decent shield with bonuses to durability, Fortitude or…” She frowned. ”Whatever it is you Fighter types crave in your equipment.”
+
+I sighed in relief. “Oh. Thank you. For a second there it sounded like I would have to go out there tomorrow without any replacements.”
+
+“Perish the thought. As long as you and your group have brought back a handful of Tier 1 corpses for us to process or better, you should be able to get yourselves a good number of Tier 1 items and improve your survivability.” The dreamy voice held a bit of fire now. “Listen, love, you do not need to know all the intricacies about crafting or trading. You merely need to know this: whatever else this world holds, it’s got one thing on Earth. We get to grow. Be it in levels, in armaments or talents. Tomorrow, you will be stronger than you were yesterday. You will find it to be easier and safer, as long as you keep it up, and take care of yourself.” In a much drier voice, she continued. “Besides. If I have to spend much more time on you, my brew might fail, and I’ll have to charge.”
+
+That drew me out of my reverie. “Heh. Yeah, this did take a detour.” I pointed at the long swollen red line visible down my hand. “Healing. I was told you were the one to go to?”
+
+“They told you right. You never did answer me, did you? How much health are you missing?” She squinted at my wounds. “That looks like about sixty health worth of damage to me.”
+
+I cleared my throat. “Yeah. No. Sorry. Two hundred and twenty.”
+
+Her eyes bulged. Then her lips tightened. “Listen, kid. I am not going to serve up a ton of extra healing materials, so you can save some for later. This is the first time I’m seeing you, ever, and there’s no way you even have two hundred and twenty health.”
+
+I frowned, about to snap at her. A moment later, I realized that she was right to be sceptical. “Yeah, no. That isn’t what this is. Use Identify on me, please.”
+
+Moments later, her eyes widened, as she looked at something above my head. She whistled. “I stand corrected. I’m not even going to ask what mess of a quirk allowed you to do that.” She held up a finger. “One second.” Then she ducked into the tent behind her and emerged moments later with three large leaves, wrapped up and tied with string, looking like wrapped lembas bread, if the leaves were purple. “Now. You should really pay attention, right around now. This is my best healing jerky.”
+
+“Healing. Jerky.” I unwrapped one of the leaves and experimentally nibbled on the corner of one of the thick slabs of meat inside. It was… weird. The taste wasn’t unlike kangaroo, gamey and slightly sweet. But the sensation of chewing the meat was like nothing I’d ever had, like an unholy blend between hard scales and tender meat.
+
+“Don’t you say it like that. I know for sure that there are only two other Crafters right now in the Ever Steady who are able to craft anything that heals beyond fifty health. Besides, getting the Tier 3 meat I need for it is an absolute hassle. Anyway. I’d recommend not to cram down all three pieces at once. They do a real number on the stomach, because they each heal between fifty and sixty-five points of health. That, and a good night’s sleep should get you back to normal, right?”
+
+I considered it, as I watched my health slowly ticking up from the first bite. Four health an hour, on top of… “Yeah. I think so.”
+
+She grunted. “You’re lucky that the U-Nerds have a fixed agreement that the first time getting healed is for free. Otherwise, you’d be looking at a steep bill. Now, considering that you managed to get yourself hurt worse than any three other survivors combined, I expect I’ll be seeing quite a lot more of you. If that’s a fact, you should be intelligent about it.”
+
+“And not get hurt?” I quipped.
+
+“If that was likely, I would’ve led with that. You look the type who needs to get his skull rattled a few times before it sticks. No. Next time you’re here, you should make sure that you bring some of the ingredients along. Any Tier 3 meat will do, and I’ll need at least a dozen pounds for this level of healing. Otherwise, expect to pay through the nose.”
+
+A dozen pounds of high-Tier meat wasn’t paying through the nose? Sure felt like it. I grimaced and just nodded. “I hear you. Anything else you’re looking for? First chance to rummage through any fresh high-Tier monster bodies?”
+
+She tittered. “When you say it like that, you make it sound disgusting. But you’re not wrong. Also, yesterday, somebody managed to find a bunch of yellow-black, two-inch mushrooms growing off of those large tendril-like things coming from the canyon. You know the ones I’m talking about, right?”
+
+“The tendrils? Yes?” I drew out the words.
+
+“The mushrooms are scary growths. Steeped in tea, they induce a nightmarish trip that will make you hallucinate, soil yourself, wish for death and believe the end times have come.”
+
+Oh. So, that had been what she was tripping on yesterday. “And… I should steer well clear of them?”
+
+“You should. Also, you should make sure I get all of them. To… keep them away from the public.”
+
+I blinked. Then I laughed out loud. “You know-“
+
+I never got to finish my sentence. A loud deep horn call interrupted the ever-present noise of the camps. It blew three long notes before fading. Locating the origin of the noise wasn’t that hard. Even if my eye sight sucked, the sound was loud enough that it could only come from one place. The watchtower. Turning toward Elizabeth, I smiled and spoke. “Never a quiet moment in this place. What does that mean?”
+
+She didn’t answer. Slowly, her face grew more pallid and lifeless. She opened her mouth and gawked a few times, before she finally managed to croak out the words. “Attack. The camp is under attack!”

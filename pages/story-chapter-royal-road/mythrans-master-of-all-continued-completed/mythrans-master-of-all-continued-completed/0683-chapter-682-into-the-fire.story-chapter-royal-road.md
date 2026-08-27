@@ -1,0 +1,289 @@
+---
+id: 8522b50a-7948-5123-b5e1-0eac26fd8ea5
+page-type-slug: story-chapter-royal-road
+title: "Chapter 682 - Into The Fire"
+slug: 0683-chapter-682-into-the-fire
+partOf: mythrans-master-of-all-continued-completed
+position: 683
+ownLength: 2813
+unit: words
+publishedAt: 2018-08-27
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/285396/chapter-682-into-the-fire"
+royalRoadId: "285396"
+---
+
+Ren and his group walked down the street to his business, and everyone they passed on the street stared at Ren's giant chicken head. He managed to not speak again until they arrived at the shop and Anabelle opened the door.
+
+“Thanks a lot for spending your lunch with me.” Ren said. “BAKAAWWK!”
+
+Anabelle laughed and turned to touch his face. “I think you've embarrassed yourself enough, My King.”
+
+Ren nodded and stored the helm. “I'll try and come back before morning so I can stay over.”
+
+“My King, you don't need to waste your time with...”
+
+“Don't finish that sentence.” Ren said, and she looked at him with wide eyes. “You know what you mean to me. I'll be visiting later, but I don't know how much time I'll have to spare.”
+
+“But...” Anabelle tried to talk and he put a finger on her lips.
+
+“You are not pushing me away because you think I'm too busy.” Ren said. “I'm going back to the Fire Realm in a few minutes, and you know what that means.”
+
+Anabelle sighed. “I still want to argue about your time management.”
+
+Ren chuckled. “I just spent the whole morning walking around the city and hanging out with friends, then had a very enjoyable lunch with you all.” He said. “Managing my time is not a problem right now.”
+
+Anabelle chuckled, too. “Then I'll see you close to morning.”
+
+“Yes, you will.” Ren said and took two steps up into the air and kissed her. “See you then.”
+
+Anabelle went inside the business and Holly looked at Ren with hope on her face and in her emotions.
+
+“Holly, you know I...” Ren started to say, and she laughed.
+
+“Yeah, I know.” Holly said. “I didn't think you had any preferences when it came to women, though.”
+
+“If there's no spark, there's no point.” Ren said. “Other than that, you're right. I don't really have a preference.”
+
+“I won't try to tempt you with meaningless but enjoyable sex, then.”
+
+“Ha ha... yeah, that's not much of a temptation, even with a body like that.” Ren grinned at her.
+
+“Insulted and complimented at the same time.” Holly said and laughed. “That's a talent right there.”
+
+“I just don't want you to think that I'm complimenting you for no reason.” Ren said. “Thank you for the attention; but, you know I'm not interested.” He said and took her hand, then kissed the back of it. “I'll let you know if that changes.”
+
+“Yeah, yeah. I won't hold my breath.” Holly said as he let her hand go. “One of these days I'll find a rich guy of my own and I'll make you jealous!”
+
+“If that'll make you happy, I'll hope that it happens.” Ren said, and she nodded.
+
+“Hey, guys!” Katie said as she came around the corner of the building. “How was lunch?”
+
+“It was a clucking good time.” Holly said, and everyone but Katie laughed.
+
+“Okay, I missed something there.” Katie said.
+
+“I'll fill you in when...” Holly stopped talking when she saw Cherry. “...there she is now.”
+
+“I thought I was going to be late.” Cherry said. “Hi.”
+
+“Perfect timing.” Ren said and took out one of the plates of spare desserts. “Take this with my compliments.”
+
+“With your what?” Cherry asked.
+
+Ren chuckled. “It's just an expression, but I should back it up.” He looked at both women's faces and smiled. “Your enchanting beauty could catch even the stoutest heart, and your diligent work goes mostly unnoticed except by those that know you, and they appreciate it even more than you realize.”
+
+Katie and Cherry stood there with slightly surprised expressions as he held the plate out to them.
+
+“Please enjoy some of my appreciation of you.” Ren said.
+
+Both women exchanged glances and each of them took one of the puff pastries. They had the same reaction as everyone at lunch did, so Ren and the succubi enjoyed the emotional pleasure it gave them.
+
+“These are really tasty.” Cherry said with a warm tone in her voice, despite her attempt to stay cool and distant from Ren.
+
+“You can have the whole plate.” Ren said and felt their genuine surprise. “Please, take it inside and share it.”
+
+“Th-thank you.” Cherry said and took the plate that still had a dozen desserts left on it.
+
+Holly opened the door to the shop. “He said share, so don't hog them all for yourself.”
+
+Cherry's normal personality reasserted itself. “I know what he said.” She barked.
+
+Holly grinned at her and Cherry sighed, then tried to walk by her into the shop. Holly pulled her free hand back and pretended to try and slap her backside.
+
+“No!” Cherry jumped forward to avoid getting hit and almost dropped the plate. She whirled around and glared at Holly. “Stop doing that!”
+
+Holly laughed and looked at Ren. “I don't even have to hit her and she reacts the same way every time.”
+
+“Maybe you should stop doing it, then.” Ren suggested.
+
+“Why? It's fun!” Holly said and motioned for Katie to go into the shop. Katie started to walk by and Holly slapped her backside. “Move faster!”
+
+Katie's face went a little red, but she didn't walk any faster. She and Cherry went inside and Holly leaned towards Ren.
+
+“See what I mean?” Holly whispered, gave him a wink, and went inside herself.
+
+“Okay, that was a little weird.” Dana said.
+
+“Welcome to my world.” Ren chuckled and took out another plate. “Thank you for today. Both of you. It was fun.”
+
+Gretchen accepted the plate and stored it. “We had fun, too.”
+
+“Did we ever!” Dana said, happily. “We have to do it again soon.” She grinned at him. “By my count, you owe us three dinners and another dessert.”
+
+Ren chuckled and she chuckled, too.
+
+“Three dinners and two desserts.” Dana said, and Artemis covered Ren's mouth before he laughed.
+
+“Hm mhm mm mum.” Ren mumbled and waved, which made Dana and Gretchen laugh.
+
+“Yeah, we'll see you later.” Dana said, then she and Gretchen walked away down the street.
+
+*
+
+They turned the corner and Gretchen felt a little weird.
+
+What is this feeling? Gretchen asked herself and stopped herself from putting a hand over her heart. “Dana, why... why do I...”
+
+“What is it?” Dana asked, concern in her voice.
+
+“I... it feels like... like I'm missing something.” Gretchen said. “That's weird, isn't it?”
+
+“Hmm.” Dana thought about it, and then it came to her. “Well, if you ignore all the other people at the table when we ate, this was your first real 'going out to dinner' date with a guy.”
+
+“Wh-what?” Gretchen exclaimed.
+
+“He's a little short and young looking, but he's a nice guy. If it feels like you're missing something, it's probably the end of the date.” Dana said, wisely. “What's funny is that even though he had all those women around him, he didn't marginalize anyone or made them feel ignored.”
+
+Gretchen looked at her friend with wide eyes.
+
+“The real show stealer was after the meal and your little dessert exchange. That was so cute!” Dana said excitedly, and Gretchen's face flushed red. “Yes! That's just what you looked like!”
+
+Gretchen clamped her mouth shut so she wouldn't yell at her friend, and Dana laughed.
+
+“Come on! Even I was turned on by his little show.”
+
+“Okay, dammit! I admit it!” Gretchen exclaimed loudly and stopped walking. “He made me horny in the middle of a restaurant full of people!”
+
+Dana turned to look at her and gave her a wicked smile. “Did he really?”
+
+“Yes! I want him to lick me like that!” Gretchen almost yelled.
+
+“Even though you're just friends?” Dana asked.
+
+“Especially because of that!” Gretchen said.
+
+“What about the other women?” Dana asked.
+
+“You've seen how he treats them! He's friends with them! He's friends with all of them!” Gretchen said. “I... I want... I want to be...”
+
+“We are all friends.” Ren said from behind her, and all the color drained from her face. His hands slid around her waist and he gave her a hug from behind. “Please, don't be embarrassed that I heard you.” He said. “When you and Dana walked away, I had this empty feeling in my chest.”
+
+Gretchen took in a sharp breath, because that was the same feeling she felt when she walked away. Her hands touched his arms and held them.
+
+“I wasn't sure what it was until I realized I hadn't done something.” Ren said, and she caught her breath. “Can you turn around, please?”
+
+Gretchen slowly turned around in his arms and she saw that he was standing a couple of steps up in the air. “Wh-what didn't you do?”
+
+“This.” Ren said and kissed her. Her arms went around him automatically and held him tightly, and she kissed him back with well-restrained enthusiasm because she didn't want to seem too eager. They stayed that way for several moments, which actually seemed like a lot longer than that, then Ren broke the kiss. Gretchen's breathing was sped up slightly, and Ren smiled at her.
+
+“Yep, that's what was missing.” Ren said. “I'm sorry I didn't clue in right away.”
+
+“Th-that's okay.” Gretchen said.
+
+“No, I... I was ignoring my own feelings while I was concentrating on everyone else... and since I wasn't paying attention to that feeling, I missed feeling it in you, too.” Ren said. “I'm sorry.”
+
+“Ren, I...” Gretchen took a breath and let it out. “I didn't even know what the feeling was myself.”
+
+“Well, now we both know what it is.” Ren said and looked at Dana. “Thank you.”
+
+“M-me?” Dana asked and pointed at herself.
+
+“You're pretty smart. You guessed we were missing the end of the date, and you were right.” Ren said and looked back at Gretchen. “Thank you for going out with me.”
+
+“You're welcome.”
+
+“I'm going to be busy in the Fire Realm, so I might not see you again for a while.” Ren warned her.
+
+“Absence makes the heart grow fonder.” Gretchen said, then her face flushed bright red.
+
+Ren chuckled. “Most times that's true, but not always.” He said and gave her another kiss. “See you later.”
+
+“Bye.” Gretchen said.
+
+“Bye, Teela!” Teepo said and waved.
+
+“Bye, Teepo! It was nice hanging out today!” Teela said and waved back.
+
+Dana and Gretchen stood there and watched Ren and Artemis walk away.
+
+“Damn, he's pretty smooth.” Dana commented when they were out of sight.
+
+“Tell me something.” Gretchen said, then turned to her friend with an angry expression as she made a fist. “How long did you know he was there?”
+
+“Since I turned around to look at you.” Dana said. “Why?”
+
+“I'm going to kill you!” Gretchen said and swung at her, and she ducked. “I'm so embarrassed!”
+
+“Hey, I don't know how long he was actually there!” Dana said and ducked the next swing, too. “Wow, you really suck at close combat still.”
+
+“UGH!” Gretchen grunted and lunged at her, which Dana dodged.
+
+“Teela? I think we are going to have to train her in some more basic moves.” Dana said as Gretchen had a hard time trying to land even a glancing blow.
+
+“We've got some time left before we go visit the hermit for another quest.” Teela said. “Why not do it now?”
+
+“She's got enough motivation at least.” Dana said with a smile as Gretchen panted in front of her.
+
+“I'll... get you!” Gretchen said and shook her fist at her friend.
+
+“Good!” Dana said and reached out to poke the cheek of her face. “Tag! You're it!”
+
+“UGH!” Gretchen grunted in frustration and chased her laughing friend down the street.
+
+*
+
+Ren and Artemis met up with the others in front of the business and they went back to the house in Aurora. Once there, the succubi climbed onto the bed and Ren asked Suniva if she wanted to come with him to the Fire Realm.
+
+“Are you sure I should? You're technically late by almost... well, here it was about 5 hours, but...” Suniva tried to do the time conversion between the Earth Realm and Fire Realm.
+
+“Almost 3 years.” Teepo said.
+
+“Maybe you're right.” Ren said. “If she's angry...”
+
+“I'm sure she will be.” Suniva said and smiled. “I know I would be.”
+
+Ren smiled and nodded. “All right. I'll try and smooth things over and bring you next time.”
+
+“Are you leaving me here this time, too?” Artemis asked.
+
+“I should, considering Suniva made a good point; but, I'm not going to.” Ren said. “I need to have you near me all the time.”
+
+“I'm not even going to ask which one of that double meaning you mean more.” Artemis said.
+
+Ren chuckled. “Good, because our link is broken and you know which one it is.”
+
+Artemis nodded. Because you want me there, not because I have to be there. She thought. “We need to go.”
+
+Ren kissed Suniva, then Seldanna and the other 3 succubi. Teepo dissolved into the ring when Ren cast the Portal spell, then Artemis and Ren stepped through the portal and appeared in the arena. Ren used the little box to copy all the video that all the linked recording devices had made, then cast another Portal spell to take him and Artemis into the underground chamber he had made for that purpose.
+
+Ren checked the All-Seeing Mirror and chose the inside of his spawn point in the Fire Realm, then cast another portal. The Everlasting Flames burst forth and quickly filled the space, then he and Artemis stepped through the portal into the Fire Realm. There was an immediate reaction from Fire Dancer's bed as a wave of Everlasting Fire burst out and covered everything, then Fire Dancer was suddenly crouched on her bed in a fighting stance.
+
+“Oh, it's you.” Fire Dancer said as she saw Ren.
+
+Ren felt her disdain and sighed. “Yes, Deity of Fire. It's me.”
+
+“You took your time coming back.” Fire Dancer said and moved to the edge of the bed and stood on the floor. She was covered from head to foot in thick armor, and it transformed back into her nightgown as her disdain changed to anger. “I'm surprised you came back at all.”
+
+“I told you I would always come back, Deity of Fire.” Ren said.
+
+“Oh? And what should I do with you when you don't?” Fire Dancer asked and her eyes blazed.
+
+“But, I did come back.” Ren said.
+
+“Three years late and in the middle of the night!” Fire Dancer exclaimed and made a fist.
+
+Ren felt an intense blast of Mana and Heat, then Artemis shivered beside him. “What are you doing?”
+
+“I'm going to punish you.” Fire Dancer said and Ren felt her anger shift to Artemis.
+
+Ren turned around and put his hands on Artemis, and he felt the protections he had placed on her being stripped away. “Deity of Fire! Stop this!”
+
+“Do you really expect me to just ignore it when you disrespect me and your promise?” Fire Dancer asked, and he felt her mean streak come to the forefront of her emotions. “This is MY REALM!”
+
+“STOP!” Ren yelled back as more of the protections were removed from Artemis.
+
+“I rule here!” Fire Dancer said and her anger burned hotly. “I'm tired of seeing your toy get more attention, so I'm going to remove that toy.”
+
+“Deity of Fire! Don't... don't make me...” Ren tried to speak, and she laughed.
+
+“What are you going to do, Father?” Fire Dancer asked. “I've almost burned through all of the spells you have on it.”
+
+Ren cast a Permanent Magical Barrier of Protection and equipped his platinum armor with the shoulder mounted giant wand attachments and cast Indestructibility on the barrier. He loaded Permanency into the other wand then used up the remaining charges on Artemis, alternating between Indestructibility and Permanency.
+
+“You only delay the inevitable.” Fire Dancer said with a maniacal tilt to her voice and another blast of Heat and Mana hit the barrier. The Indestructibility spell was dispelled and then the barrier disappeared as well.
+
+“That's because I've tried to delay this as long as possible.” Ren said and let Artemis go and moved back, cast another Permanent Barrier and made it Indestructible, then jumped off of the nightstand and flew to the middle of the room. Fire Dancer didn't turn towards him because she was focused on Artemis, and a moment later, a hand as big as hers grabbed her arm and turned her around.
+
+“How DARE you touch me!” Fire Dancer exclaimed angrily, then she saw that Ren had made himself bigger than her and had also stored his armor.
+
+“I warned you that I would do this when I came back.” Ren said and pulled her into a hug.

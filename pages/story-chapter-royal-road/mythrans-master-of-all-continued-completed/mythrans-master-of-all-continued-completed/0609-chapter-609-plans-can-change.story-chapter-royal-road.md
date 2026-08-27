@@ -1,0 +1,185 @@
+---
+id: 0c953e04-5709-50b9-96ad-2884c8191658
+page-type-slug: story-chapter-royal-road
+title: "Chapter 609 - Plans Can Change"
+slug: 0609-chapter-609-plans-can-change
+partOf: mythrans-master-of-all-continued-completed
+position: 609
+ownLength: 2225
+unit: words
+publishedAt: 2018-06-15
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224577/chapter-609-plans-can-change"
+royalRoadId: "224577"
+---
+
+Ren, Artemis, and the 4 succubi had their cuddle fight and laughed the whole time. Their clothing had disappeared at some point, and they only wore their underwear bottoms and were all topless. When the 'fight' was over, there was no clear winner because they had all been equally cuddled by each other. Ren had received a couple of popups while they played, and dismissed them without reading them so he wouldn't be distracted.
+
+“It's a draw!” Teepo declared and they all collapsed onto the bed in a heap and in great moods. All 4 of the succubi were tired from wrestling around on the bed; but, Ren could feel how happy they were that he would touch them without reservation and that he wasn't being careful where his hands landed. His hand reached out to each of them in turn and touched their faces to give them a feeling of thanks, which they returned two-fold.
+
+“That was fun.” Artemis said. She had managed to get back to his side during the scuffle and snuggled down under his arm and rested her head on his shoulder.
+
+“Not for me.” Suniva, the 1 foot tall pixie said from the headboard above them. “It was too dangerous for me to participate.”
+
+“I'm sorry.” Ren said and held a hand out to her. “I didn't mean to exclude you.”
+
+Suniva hopped onto his hand and sat down, and Ren gently held her as he moved her to his chest.
+
+“Well, it's not like you had much of a chance to prepare beforehand.” Suniva chuckled and looked at the other women. “They kind of ambushed you.”
+
+“That was my fault.” Teepo said and flew down to land beside her on Ren's chest. “It was just a silly idea that I had and thought it would be fun.”
+
+“It was.” Ren said, and his fingertip touched Suniva's cheek. “From now on, I'll remember to include you in any future cuddle fights we have.”
+
+Suniva looked surprised for a moment, then smiled sadly. “It's still too dangerous with me this small.”
+
+“Then let's fix that.” Ren said. “Can I cast a spell on you?”
+
+“Will it hurt?”
+
+“Of course not.” Ren said. “But it will feel a little weird at first.”
+
+“Then go ahead. You have my permission.” Suniva said and stood on his chest with her arms open wide, ready for any spell he wanted to cast. Ren felt her utter trust in him, so he held her hand with a thumb and forefinger and cast Permanent Enlarge or Reduce Anything on her. She immediately doubled in size to 2 feet tall, and she caught her breath at the new size. Her hand was big enough to grab onto two of his fingers, and she did so as Teepo flew back up to land on the ceiling.
+
+“R-Ren...”
+
+Ren cast the spell again and she doubled in size once more to 4 feet tall. Suniva gasped because she had to let his hand go. She was now almost as tall as him and she still stood on his chest. She looked down at her hands and made them into fists, then her gaze met his.
+
+“How... how long can... can I...”
+
+“As long as you want.” Ren said, truthfully.
+
+Suniva was wobbly as she carefully knelt, then she smiled as she laid down on top of him. “I'm almost as big as you now.” She said, her voice full of wonder. “I... I never imagined...” She lifted her head and looked at his silvery-blue eyes. “Can we have another cuddle fight?” She asked, unabashedly.
+
+“I think we should sleep for an hour to recharge.” Ren said.
+
+Suniva sighed sadly and started to sit up. “I'm sorry I'm being selfish.”
+
+Ren caught her before she did and put a hand on her shoulder. “Let's just cuddle and say we fought.”
+
+Suniva smiled and laid back down, and her whole body started to glow as she put her head on his chest and held onto him.
+
+“Suniva?”
+
+“Yes?”
+
+“I know you're happy, but I don't know if my Absorb Fire ability works when I'm asleep.” Ren said, and she chuckled.
+
+“I'll keep it in check.” Suniva said and the glow died down, but didn't disappear. “I'm tempted to lie and say it leaks because I'm so big, but I know you value honesty.” She said and placed a boiling hot kiss on his chest. “My Fire burns hotter when I'm feeling good.”
+
+“Oh, I know.” Ren said. Suniva lifted her head to look at him, and he rubbed the tip of his nose with a finger. Her face flushed red at her remembered pleasure, and he used the same finger to rub her nose. She smiled at him and put her head back down on his chest and sighed contentedly.
+
+The succubi slid in close and covered them with their wings as if they were blankets, and Ren felt the warmth and comfort of having multiple sets of arms hold him. He hadn't realized that he had gotten used to the feeling and relaxed, then drifted off to sleep.
+
+*
+
+“What can we do to help fix this?” Frikara asked Xuunah, who sighed.
+
+“There's nothing we can do, except trust Ren.” Xuunah said. “He will do everything he can to make this right.”
+
+“He's a great Adventurer, but I don't know if he can do that.” Navruth said, then sighed. “Why am I doubting him? He's done nothing to make me think this way.”
+
+“We're all in the same situation, Navruth.” Frikara said. “Whatever those evil Adventurers did to make us feel this way towards someone we love so much, is so nefarious that even I doubt that Ren can change it.”
+
+A feeling of depression mixed with a little despair filled the shared Aura. Xuunah couldn't tell them anything positive to help them, because she doubted that Ren could do something to change it as well. She went over to the bed and sat down on it and held her arms open, and the maids gathered around her and hugged her. She activated her Reassurance Aura and they all sighed as one.
+
+*
+
+Ren woke up after an hour and opened his eyes, and he felt the peace and contentment of the women around him. He laid there and used his Emotion Siphon ability to absorb some of it, because it was such a nice feeling.
+
+Hey, Teepo. Ren thought.
+
+Hi, Ren. Teepo thought back. What are you going to do first?
+
+Check those popups I missed. Ren thought and opened them.
+
+Hidden Subversion Quest Complete!
+
+You have successfully managed to alter the laws, customs, and accepted behavior of the Dwarven Kingdom. With these things now in place, it is now possible to interact with a dwarf, even of the highest calibre, without causing an incident.
+
+Difficulty: B (Very Hard)
+
+Rewards: 150,000 XP
+
+Influence: +20,000
+
+Honor: (Negated - cannot be gained or lost)
+
+Notice!
+
+Excess Influence converted to XP
+
+Influence (20,000) x 10 XP = 200,000 XP
+
+Notice!
+
+You have gained 2 levels! You are now level 150 and 20 stat points have been automatically allocated.
+
+You have unlocked: Book of the Body (+1 Dexterity per day when read), Book of Energetic Movement (+1 Endurance per day when read), Portal Gate (Rare Recipe), The Word (Skill)
+
+Ren laughed when he read the contents of the popups, and it woke Artemis and the succubi. Suniva stayed cuddled to his chest, however.
+
+“Ren? What is it?” Artemis asked, then she received the information from him. “Oh, my.”
+
+“Yes! I can give Nathalia public displays of affection, and it won't cause an international incident!” Ren exclaimed.
+
+“I'm so happy for you!” Artemis said and hugged him tightly. “You can finally be with the one you love.”
+
+Ren chuckled. “You could think that, but no.” He said. “At the moment, I can only hug and kiss her publicly; but, that's the extent of it.”
+
+“Ren, you...”
+
+“Baby steps, Adjunct to my Heart.” Ren said, and Artemis caught her breath as she felt what he meant by that statement. “I'll need a few thousand more adjustments to the laws and customs before I can fully embrace the love of my life.”
+
+“Oh, Ren.” Artemis said and kissed him, and he kissed her back with just as much enthusiasm. “I hope you can complete your mission to reclaim her soon.”
+
+“As do I.” Ren said, and he felt everyone wake up. “I'm sorry that I have to leave your comfort, but I have work that I need to do.”
+
+“Of course.” Seldanna, the lead succubus said. “We know of your quest to help the maids be rid of this Sea Dweller influence.”
+
+“Then you know if I don't fix things...”
+
+“...you aren't going to return.” Seldanna said. “You will disappoint more people than you realize if you do abandon us.” She said. “I speak only for the succubi with you here, and we will suffer unimaginably if you leave.”
+
+“I know, Seldanna.” Ren said. “Believe me, I know.”
+
+“Then you won't make the decision lightly.”
+
+“Of course I won't.” Ren said. “I'm... this is...” He shook his head. “I'm stuck at a crossroads here.” He said. “If I go and do certain things, I may take it too far and force things to revert back to what they were before.... but...”
+
+“You are worried that they will remove your impact on everyone.” Artemis said, and he nodded. “Without you here to change things, they will do what they want and everyone will be subject to their whims.”
+
+“That's what I'm afraid of.” Ren said. “If I don't start doing something, this whole thing will be so out of control that it won't matter what anyone does anymore.”
+
+“Then you need to get to it.” Suniva said and sat up. “What do you need to do first?”
+
+“I need to make more steel squares. Tens of thousands of them, actually.” Ren responded.
+
+“Then I will help.” Suniva said and stood up. “With both of us working, we should get twice as much made in half the time.”
+
+“The three of us.” Ren said. “Tee-one is at the shop, too.”
+
+“I can't forge anything, even in this larger form; but, I can absorb the Fire from your work.”
+
+“That will make things go a little faster.” Ren said and smiled. “Let's go.”
+
+Ren, Artemis, and Suniva left the house in the Housing District and made their way to the business and the forge there. They met Tee-one there and Ren continued to work with Suniva helping to cool the steel squares. The three of them worked for half the day until Ren felt that they had enough of them, then they worked for another hour, just in case.
+
+With all of the steel squares done, Ren and Tee-one started to enchant them. At first Ren was only going to enchant them with Light; but, after his encounter with the old version of the game, he added both Anti-dark runes and another rune to help him accomplish something amazing.
+
+Artemis and Suniva watched in fascination as the thousands of steel squares were enchanted how Ren needed them. With so much Mana at their fingertips, there was almost no delay in creating the enchantments required for what Ren wanted to do. Only time and the physical touching of the metal slowed them down.
+
+When they were finally done, Ren stored everything and sighed openly.
+
+“If I do this.... there's no going back.” Ren said. “Once they have all been deployed...”
+
+“Ren, stop trying to convince yourself.” Tee-one said. “You have what you wanted, so go and do it.”
+
+Ren took another deep breath and let it out, and nodded. “I need Princess.” He said, then he, Artemis, and Suniva went back to the Housing District and retrieved Princess. She readily agreed to what he proposed, and Suniva asked to be shrunk down so she could come along without being a burden to either Princess or Ren.
+
+Suniva sat on his shoulder, back to her original 1 foot height, and Ren started to plant the steel squares every 50 feet into the ground and covered them up. He enlarged them to make their effect cover a wider area, and for the rest of the day, laid them into the ground spaced at the right distance from each other. Since he hadn't activated any of the enchantments, no one knew what it was he was doing as they moved along and planted all of the steel squares he and Tee-one had made.
+
+Even with Princess' great speed, the remainder of the day was not enough to complete the task, so Ren had no choice but to go back to the house and log out to take care of Adventurer's business. Suniva asked to be enlarged to her 4 foot height again, then they all had another cuddle fight.
+
+Suniva was the clear winner, and she took the place of the 'winner' on Ren's chest. She cuddled him as hard as he could stand it, and the others gathered around and joined them. They ended up in a big pile and Ren decided that staying for an hour now would be better than trying to spend the hour later when he came back.
+
+No one in the bed complained that his logic wasn't sound.

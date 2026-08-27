@@ -1,0 +1,241 @@
+---
+id: befc2e86-0ee5-53c2-9a8d-11da8edb8a02
+page-type-slug: story-chapter-royal-road
+title: "Chapter 760 - Barbi And Banter, Too"
+slug: 0761-chapter-760-barbi-and-banter-too
+partOf: mythrans-master-of-all-continued-completed
+position: 761
+ownLength: 2656
+unit: words
+publishedAt: 2018-11-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/306394/chapter-760-barbi-and-banter-too"
+royalRoadId: "306394"
+---
+
+After half an hour of cleaning Ren off, Barbi had to stop.
+
+“You... are making me doubt... my powers as a woman, Ren.” Barbi said between breaths and rested her head on his thigh as she looked at him and tried to ignore the still ready member right in front of her face. She was quite dismayed that she had only made him finish twice more.
+
+“That's only fair.” Ren laughed. “You've put me in this state a few times already.” He said, and she blinked her eyes at him. “The last time was when you tested me after the garden party.” He smiled at the memory. “You hopped up onto the kitchen counter and spread your legs, and I saw the cutest little panties I'd ever seen.” He chuckled. “Well, I think they were panties. Were they panties?” He asked, and she smiled. “It looked more like a tiny triangle that was held on by a wish... and it barely... barely... covered your opening.”
+
+Barbi chuckled. “Seeing the look on your face was totally worth putting them on after the pool party.”
+
+“It sure was, especially when you rubbed yourself near it, and I thought it was going to fall off.” Ren said, and Barbi saw his member as it throbbed for her. “Denise had to rush me into the bathroom and take care of me right away.”
+
+“Sh-she did?” Barbi asked. She hadn't known about that.
+
+“As soon as you left the kitchen.” Ren said. “It took a while to calm down after that.”
+
+“I... I can see... I know that now.” Barbi said. “I mean, I knew before that; but, I didn't realize...” She smiled. “I understand, and I didn't expect to enjoy getting proof.”
+
+Ren was still sitting up, so he easily reached out and stroked the side of her face. “So, you enjoyed testing me again?”
+
+“God, yes.” Barbi said. “I'm still tingling from you going down on me for so long.”
+
+“...and this?” Ren stopped touching her face and motioned to himself.
+
+“The test is rigged.” Barbi said and he laughed. “You taste really good, which I have never had happen before, by the way.” She was tempted to give him another lick, then changed her mind and sighed. “I don't just mean the end result, either.”
+
+“I'm not sure if it's the supplements or something else in me that does that.” Ren said. “Nevertheless, I've had several women say I'm delicious.”
+
+“More like scrumptious.” Barbi said. “All I want to do is keep tasting it, and you're so accommodating that you didn't complain once that I kept going and going.”
+
+“Who in their right mind would complain about that?” Ren asked. “It's like getting a blessing from a goddess, each and every time.”
+
+Barbi could see the sincerity in his eyes. “You believe that.”
+
+“Each and every time.” Ren said, then raised his eyebrows. “You don't believe that? You're kidding, right? You know what we do with these things, and you still go down on it.” He said with a huge smile and she chuckled. “If I thought you wouldn't say no, I'd get you to stack the pillows up so I can thank you again.”
+
+“Ren, I... I don't know what to say.” Barbi said.
+
+“How about... 'you're so awesome!'.” Ren joked and touched her face again. “Look, you don't have to say anything. Nothing needs to be said.” He used his thumb to rub her earlobe. “We just shared an intimate moment... well, it was actually a whole bunch of intimate moments...”
+
+Barbi laughed and he smiled.
+
+“Things around here are far from normal, but... we're all adults. No one has to do anything they don't want to. They can always say no. Or wait until later. Or anything at all, since there's no pressure...” Ren chuckled. “Well, I try not to pressure; but, I mess things up sometimes.”
+
+“Like when you asked me to cuddle with you and Elise in bed that first time I stayed over.”
+
+“I'm really sorry about that.” Ren said and stroked her face again. “I wasn't asking for sex or anything. I just wanted...” He stopped talking and took a breath. “I enjoy sleeping in a bed and being held, and after you let me cuddle with you on the couch, I wanted to share that feeling with you.”
+
+“I'm not sure how you can be so innocent and manipulative at the same time.” Barbi said. “You're always so sincere, and yet...”
+
+“Go ahead and say it.” Ren said and stopped touching her face.
+
+“It's like you're luring us in, then you catch us and we are helpless to escape.”
+
+Ren laughed. “You obviously forgot about what recently happened with Gloria.”
+
+“She was a little reluctant from the start...”
+
+“...and you weren't?” Ren asked, and she opened her mouth to respond, then smiled.
+
+“Touche.”
+
+“Barbi, I made the mistake of trying to push her for more than she was ready to give, and it made a mess of everything. Both personally for me and professionally for Stella.” Ren said. “I won't make that mistake again.”
+
+“But...”
+
+“I hope you realize that I don't lay around like this, all exposed, with just anyone, right?” Ren asked, and her eyes widened.
+
+“You don't?” Barbi asked, surprised.
+
+“I'm... very self-conscious of how... out of proportion it is to the rest of me.” Ren said. “I'm usually covered up all the time, and I'm almost never completely naked, except when I'm in the shower or getting a bath.”
+
+“Wait, then... you're like... you don't...” Barbi took a breath and let it out. “Just for me?”
+
+“You're the only one that said you've seen bigger, so I'm not as bothered by it as I usually am.” Ren smiled. “Plus, you handled it like a champion.”
+
+Barbi laughed, because she had called him a champion when talking to Denise earlier.
+
+“That massage technique was great, and then you...” Ren stopped talking when his member throbbed again. “Yeah, I better stop talking about it.”
+
+“You've reacted a couple of times like that.” Barbi said. “Do you... I mean, can you...”
+
+“Go on command?” Ren asked, and she nodded. “I haven't tried it intentionally; but, I've held myself off until I thought who I was with was ready for it, then finished.”
+
+“You have that much control over it?”
+
+“It's more like a lot of practice. The more you use a muscle, the better you are at using it.”
+
+“So, if I said...”
+
+“It also depends on how turned on I am.” Ren said. “I was in a couple of sexually charged situations while playing the game and I came out quite ready to keep going.”
+
+“But, you were alone with Barbara for a while, and then...” Barbi caught her breath. “You were holding it back that long?”
+
+“That's why it came on so strong when you came into the room.” Ren said.
+
+“I made you...”
+
+“Have you looked at yourself in a mirror?”
+
+“Yes, I have.” Barbi said. “I even...” Her face went red and Ren touched her cheek again.
+
+“You masturbated while watching yourself?”
+
+Barbi was going to deny it, then nodded.
+
+“That's so cool.” Ren said.
+
+“Wh-what?”
+
+“It means you see yourself as sexy, just like everyone else does, and that made you happy.” Ren said. “You felt happy doing it, didn't you?”
+
+“I... I really did.” Barbi admitted. “I looked so good sitting across from myself that I... I was so turned on, and...”
+
+“There's no shame in loving yourself, Barbi.” Ren said.
+
+“Ren, it's like the ultimate form of conceited behavior.” Barbi said. “It's so narcissistic to...”
+
+“Oh? Do you only love yourself?” Ren interrupted her.
+
+“What? No, of course not.” Barbi responded.
+
+“Then it's more... vain... or maybe vainglorious.” Ren said. “Don't look down on yourself because you're proud to look the way you do.”
+
+“Ren, I...”
+
+“I remember you saying that your breasts were the best money could buy.” Ren said, and she nodded. “How did it make you feel when you got them?”
+
+“I was... astonished... when the bandages were removed and I got to see myself for the first time.” Barbi said. “My real ones were two different sizes and lopsided, and I felt like crying every time I took my bra off.”
+
+Ren slid his hand from her face to her neck and held her tenderly.
+
+“It was horrible growing up like that.” Barbi said. “I couldn't date, or let guys cop a feel, or even go swimming, because wearing a bathing suit was not going to happen.”
+
+Ren closed his eyes and tried not to sigh as he imagined her pain. He opened his eyes and she was staring at him.
+
+“You understand.” Barbi said, with wonder in her voice. “Ren...”
+
+“I'm sorry you had to go through that.” Ren said. “When did you get the implants?”
+
+“I worked my ass off for three years after high school to save up enough.” Barbi said. “I knew how much it was going to cost, and I made sure I worked extra hard so I could take time off from work to get them and recover.”
+
+“That was smart.” Ren said. “Most people would have stopped when they reached their goals, and don't plan for the consequences or for complications.”
+
+Barbi nodded, and her cheek rubbed his thigh. “It was smart, because I got sick afterwards.”
+
+“Oh, don't tell me...”
+
+“No, no. It wasn't a leak or an infection, thank god.” Barbi said, and he sighed in relief. She put a hand on his that was still holding her neck. “I caught a cold, and since my immune system was compromised from the anti-rejection drugs...”
+
+“How long?”
+
+“Two months.”
+
+“Good god.” Ren said, and she felt him shiver. “You paid a lot more than just money for your perfect breasts.”
+
+“I really did.” Barbi said
+
+“You would have done it anyway, even if you knew beforehand that you would get sick.”
+
+“Yes.”
+
+“You're really strong.” Ren said, and she heard the admiration in his voice.
+
+“I doubt that counts.” Barbi said.
+
+“You knew what you wanted, and you worked hard to get it.” Ren said. “That's strength of character.”
+
+“Ren, I... I was selfish. I didn't have any other concerns and nothing else mattered. Not friends. Not family. I only cared about changing that part of me.”
+
+“Yeah, I got that; but, you're forgetting that that was then.” Ren said. “What about afterwards? What were you like?”
+
+“I... I was...”
+
+“Happy.” Ren said, and she nodded. “Yes, you would have to be, to finally achieve your years long goal and have it work.” He smiled. “Boy, did it work.”
+
+Barbi chuckled. “Almost too well.”
+
+“You started to experience things on the other side of the boob coin.”
+
+“Boob coin?”
+
+“Normally, you'd just say coin, but it was your breasts, so...”
+
+“Yes, I got tons and tons of attention.”
+
+“I'm sorry that it wasn't all positive attention.” Ren said and let her neck go, then turned his hand over to hold hers.
+
+“I didn't know there was such a thing as negative attention for a long time.” Barbi said. “I was lost in just the attention and it didn't matter, one way or the other.”
+
+“Then you smartened up and got your life back on track.” Ren said.
+
+Barbi took great comfort in knowing that someone understood her. “I did, and I did.” She said and smiled. “I still underestimate the power that these things have.”
+
+“Like the first time you stayed here and we all played in the pool.” Ren said.
+
+“I almost laughed out loud when Elise told me to 'put the big guns away'.” Barbi chuckled. “Elise and her bazookas told me to put my big guns away!”
+
+Ren laughed at that. “I was too stunned to understand that at the time.”
+
+“Oh, I know.” Barbi said and glanced at his member that was still just as hard as it had been over 2 hours before. “I had my first peak at your tent pole.”
+
+“I was pretty glad that you are one of those rare women that take it as a compliment.” Ren said. “Things could have gone so badly if you weren't.”
+
+“I know women like that.” Barbi said. “They think you only see them as a sexual object if they get any kind of response like that from a man.” She shook her head. “What's funny is, they get all dressed up and use bright make-up to get noticed, then complain when they get noticed.”
+
+“You're kidding.” Ren said. “No, you're not kidding.” He chuckled. “If they didn't want to get noticed, why go through all the trouble?”
+
+“That's why it's funny.” Barbi chuckled, too. “What was the point? All that work, just so you can say you hate it when they notice you.”
+
+“I am so glad I was born a boy.” Ren said. “My life was a whole lot less complicated than yours was.”
+
+Barbi opened her mouth to respond, then realized he said that his life full of medical experiments was less complicated than hers, and she laughed. Ren laughed, too.
+
+*
+
+Barley Bitterdew, the head of DewTech, had already sent everyone home, with assurances that the news story that had been playing all day would blow over by the next day. The company would be fine and they would all still have jobs for as long as he was around.
+
+“We've been in business for years.” Barley said convincingly. “One story about losing a patent case is not going to matter.”
+
+Except that it did. Normally, it would have been a little hiccup in the company's finances that they could recover in a month; but, the news story had blossomed and expanded, and it made even the little details get blown way out of proportion. Once the details of the patent case had been revealed, it was quickly discovered how the patent had been achieved in the first place, and then the transcripts and video hit the internet at the same time.
+
+It was a disaster.
+
+“I'm ruined! RUINED!” Barley Bitterdew yelled into his computer monitor as he watched the world's stock markets. The price of his stock kept dropping and dropping, and since the world market was what the local markets used for a basis on over-night trading, the stock in his company that used to be worth thousands of dollars a share, was down to just over $100.
+
+Barley picked up his keyboard and smashed it down onto the table. Letter keys and broken pieces flew everywhere as he smashed it several times, then he threw it. He was lucky that it was wireless and flew across the room, because it would have hit the end of the cord and bounced back at him if it wasn't. He thought about punching the flat screen monitor, then changed his mind and just pushed it off of his desk. This one was attached by the cord, so all it did was tip over and bounced a little.
+
+Barley picked it up and pulled to try and yank it loose, like a lot of people would, then he tried to throw it. It was still quite attached to the computer under his desk, though. It hit the end of the cord and bounced off the desk and flipped back over and hit him. Since he had been bent over from the exertion, the edge of the monitor hit him squarely in the middle of his forehead and knocked him out. He fell partially onto the desk, then slid off it to land on the floor. He wouldn't be found until the morning, when he would be rushed to the hospital and treated for a concussion, then kept for the day and the next night for observation. The best part of that whole thing is that he will miss his only opportunity to call in favors to keep control of his own company.

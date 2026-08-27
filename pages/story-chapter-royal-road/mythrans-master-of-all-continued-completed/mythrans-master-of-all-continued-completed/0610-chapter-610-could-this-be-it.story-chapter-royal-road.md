@@ -1,0 +1,219 @@
+---
+id: b5308745-4a9f-54a0-a165-58cf793314fb
+page-type-slug: story-chapter-royal-road
+title: "Chapter 610 - Could This Be It?"
+slug: 0610-chapter-610-could-this-be-it
+partOf: mythrans-master-of-all-continued-completed
+position: 610
+ownLength: 2744
+unit: words
+publishedAt: 2018-06-16
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/224883/chapter-610-could-this-be-it"
+royalRoadId: "224883"
+---
+
+Ren slept for the hour and woke up, then stayed for a little bit more. He made sure to cuddle each of the women in bed with him for a few minutes, then extracted himself from the pile. He thought about laying down on the side of the bed again, then did what he had in the backup version of the game. He stood against the wall and out of the way.
+
+“Logout.”
+
+********
+
+Ren slipped off the VR headset and remembered it was the overnight break. “Hi, Barbara.” He whispered, because Elise and Lisa were in the bed with him.
+
+“Hey, kiddo.” Barbara whispered back and took the VR headset from him. “Need a hand?”
+
+Ren nodded and Barbara helped him sit up and move down the bed to the edge, without disturbing the women on either side of him. She took him to the bathroom to get cleaned up and then they went to the theatre room to watch television.
+
+“You do realize I only made you promise to log out overnight yesterday, right?” Barbara asked, and Ren nodded.
+
+“I wanted to spend some time with you, if that's okay.” Ren said.
+
+“It's more than okay.” Barbara said and helped him sit in the front row, then sat down beside him. “Any preference for what to watch?”
+
+“Anything you want is fine with me.” Ren said. “I'm just here to keep you company.”
+
+Barbara laughed. “That's my line.”
+
+“I know.” Ren grinned at her. They ate healthy snacks and watched television as they talked.
+
+*
+
+Gloria had agonized all day about the job offer, and she couldn't bring herself to turn it down outright. She had taken Stella's advice that morning and waited before making a decision either way, and by the afternoon, she had received a phone call from the HR department of the DewTech company. The woman on the line said that they had made a mistake, and Gloria assumed about giving her the job offer.
+
+“Well, of course it was a mistake. I mean, no one in their right mind...” Gloria tried to continue, but was cut off.
+
+“Yes, we didn't realize the support package wasn't sufficient for a laboratory supervisor, so we had to call and clarify the terms.” A woman's voice said.
+
+“Wh-what?”
+
+“Only 3 weeks paid vacation isn't nearly enough for such a stressful job. Our other executives get 4 weeks, with 2 weeks stress leave on top of that. It can be taken all at once, or broken up how they see fit.” The woman said, then chuckled. “In fact, they've started taking single days off and giving themselves three day weekends.”
+
+“But...”
+
+“That means Casual Fridays are actually really casual here at the company with all the executives out of the office.” The woman said. “Some still come in to supervise, but they don't really do any work since they get paid for the day anyways.”
+
+“Wow.”
+
+“I know! Who would show up just because they want to?” The woman laughed. “Anyway, I hope you don't get angry at us for the mix-up.”
+
+“N-no, I'm not angry.” Gloria said.
+
+“That's great! I'm so happy to hear that.” The woman said, and she sounded genuinely happy. “When you make your decision about taking the job, the company car will be delivered to your residence.”
+
+“Company car?”
+
+“Yes. All executives get a personal conveyance for travelling.” The woman said. “All fuel and maintenance expenses are covered, of course.”
+
+“But...”
+
+“Yes, I'm sorry about taking up too much of your time.” The woman said. “I'll let you go and I hope to see you here soon. Bye bye!”
+
+“Bye.” Gloria said and hung up the phone.
+
+It was now midnight and she still didn't know what she was going to do about it. She knew Stella wouldn't really be angry if she ditched the research project; but, she knew she probably would be angry for not taking all of her advice.
+
+Gloria sighed and sat down at her small kitchen table, then thought about everything she could do with all that money as she looked through the job portfolio again. The biggest incentive was the exclusivity bonus she would receive when she signed the contract.
+
+So much money. Gloria thought and put the folder down and rested her head on her arms. If I take the job, according to Ren I'll have a month before the patent case goes to court. A whole month. She looked at the company name embossed on the folder. All that money. She sighed. What am I going to do?
+
+*
+
+Stella laid in bed and looked at her cell phone, and read all of the texts she had sent to Gloria the day before. She sighed because she hadn't received a single response since their call this morning, which made her realize that Gloria was seriously considering actually taking the job.
+
+I wonder what their upped offer is going to be? Stella asked herself.
+
+Stella turned down the ringer before she put the phone on the nightstand beside her bed. She closed her eyes and took several deep breaths to relax, and all the errands she needed to do the next day floated through her head.
+
+Ren always has good ideas. Stella thought and smiled. I hope Lisa decides she wants to help. She drifted off to sleep with thoughts of spending more time with the young woman.
+
+*
+
+Ren and Barbara used up their time together and she brought him back to his room. Elise and Lisa were both still asleep, and he carefully crawled in between them and laid down. Barbara handed him his VR headset and he managed to slip it on himself and laid back as he relaxed and then whispered the command phrase.
+
+“Flow Login Start.”
+
+********
+
+Ren appeared beside the wall that he had been beside before, and looked at the bed. He could feel their emotions and knew bringing them along had been the right decision.
+
+“Teepo.” Ren said, and Teepo flew down to land on his shoulder.
+
+Artemis sat up and equipped her clothing, then walked over to him. “I assume it's time.”
+
+“Yes, this is it.” Ren said. “Once I finish planting the squares...”
+
+“Are you sure it's going to work like you think?” Artemis asked.
+
+“Unfortunately, I do.” Ren said. “That's why I didn't want to do it in the first place.”
+
+“Then let's get to it.” Suniva said and stood up, then formed her armor around herself. Ren cast the reduce spell twice to return her to her original height and she sat on his shoulder. The succubi got up next and equipped their clothing as well, then they all went downstairs to get Princess.
+
+They left the house and travelled to the last spot he had planted an enchanted steel square and moved another 50 feet along the side of the road and planted another one. This continued for another 6 hours as they moved in a circuitous route around the Human Kingdom and back to Aurora. Ren had miscalculated how many steel squares he would need, so he had to stop two-thirds of the way and used his shop tower to forge another few thousand squares, then he continued on and finished the task.
+
+“It's done.” Ren said as he planted the last enchanted steel square in the ground next to the wall by the starter city of Aurora.
+
+“I can't believe this is going to work.” Suniva said. “I don't understand how...”
+
+“I've done this in much smaller scales a few times.” Ren said. “I usually restricted myself from taking advantage of things, but... if I'm going to force a change, then...”
+
+Artemis knelt in front of him and took him into a hug. “I think this is a bit drastic, but I also think I'm not as unaffected by this Sea Dweller thing as I thought I was.”
+
+Ren nodded. “Can I have one last kiss before I cause a whole heap of chaos?”
+
+“You don't need to ask.” Artemis said and kissed him. Ren ran his hands through her hair and kissed her back, then he broke the kiss and let her go.
+
+“Get ready.” Ren said, and Artemis, the succubi, Suniva, and Princess braced themselves for what was about to happen. Teepo on the other hand, started to chitter in delight.
+
+“Why are you so happy?” Suniva asked him.
+
+“This will be the very first time Ren is going to actively use the Trouble recipe to actually cause trouble.” Teepo said. “I can't wait to see what happens!”
+
+“It's going to be... spectacular.” Ren said and concentrated on the enchanted steel squares still within his Aura. He ignored the Light and Anti-void runes for the moment, and thought about the single rune he had placed on all of them.
+
+His maker's mark.
+
+It was the House Neram symbol that he had used successfully to create an artificial Aura around several buildings. It was also the same symbol that was etched into his chest above his heart, just like it was on Xuunah's and Nathalia's chests, to show their deep bonds.
+
+“Let's cause some Trouble.” Ren said and made his hands into fists as he prepared for what was going to happen, and apologized mentally to the maids because this was going to affect them as well. “Activate!” He said loudly, and the steel squares within his Aura turned on.
+
+Since each square was larger than normal to increase their effect, instead of the 10 foot area the Aura would normally cover, they now covered 50 feet each. Since they were 50 feet apart, all of the artificial Auras converged and merged, and each successive Aura touched the next inactive steel square and activated it. As each enchantment turned on, Ren's Aura expanded more and more.
+
+In mere moments, the artificial Aura increased exponentially as each steel square activated, then more and more steel squares were activated and did the same. Ren had to use his calming exercises to keep himself relaxed as he felt his Aura expand and cover hundreds, then thousands, then hundreds of thousands of people.
+
+When all of the steel squares finished being activated, Ren's Aura made a circle that covered the entire Human Kingdom, half of the High Elven Kingdom, and nearly a third of the ocean. All of the people in his domain felt his massive Aura as it covered them, and most reacted in the same way. Complete and utter shock. Everyone in the caravan heading to the county came to a stop as they felt him and looked around for him, since he was usually nearby for them to feel it.
+
+*
+
+King Alamast was in his dining room and eating breakfast with his family when he felt Ren's Aura cover the castle. “Diana! Is he coming to see you again?” He asked his daughter, who looked at him with wide eyes.
+
+“Who are you talking about, Daddy?” Diana asked innocently, and he frowned.
+
+At least she can't detect his Aura yet. King Alamast thought, then his wife gasped. “What is it?” He asked her, and she put a hand over her heart.
+
+“Don't... don't do anything rash.” Lady Eleanor said. “He... if I'm feeling this properly, he...”
+
+“What?”
+
+“Oh, no.” Lady Eleanor said and looked at her husband. “He's a Sea Dweller and he's letting everyone in the kingdom feel it for themselves.”
+
+“It will take him some time to cover...”
+
+“No, my husband. They are all feeling his Aura... right now.”
+
+“WHAT?!?” King Alamast exclaimed.
+
+“How is that possible?” Diana asked.
+
+“I don't know, but he's not anywhere near here.” Lady Eleanor said. “I would know it if he was.”
+
+Diana blinked her eyes at her mother for a moment, then opened her mouth to ask if she knew Ren had visited. She was cut off by her father before she could.
+
+“He must be nearby!” King Alamast said and stood up. “His Aura is as strong as it was when he stood next to me in the meeting room!”
+
+“No, he isn't here.” Lady Eleanor said. “He... somehow... expanded his Aura.” She shook her head. “I don't know how I know that.”
+
+It's the Ghoul Kissed mark. King Alamast thought angrily. His connection with my wife is even deeper than I thought. He didn't let those thoughts show on his face, however. “Get the mages in here! I need this dispelled immediately!”
+
+“You can't dispel an Aura, Daddy.” Diana said and looked at her mother. “Mother, how long will this last?”
+
+“As long as it takes for everyone to react.” Lady Eleanor said confidently.
+
+It didn't take long.
+
+Every single NPC, even the ones that couldn't feel Auras directly, felt the Sea Dweller part of Ren's Aura. They all reacted as if he was right there in front of them, and they all made inquiries to the Sea Dweller speech database at the same time so they could talk about it and fulfill their assigned function.
+
+********
+
+Alarms sounded as the server load blared for the first time since the reserve servers had been installed. The night programmer looked at the activity monitor and couldn't believe what was happening.
+
+“What the hell is going on?” He asked out loud, even though no one else was there. He checked the backup servers and they were already online and providing the needed support for the massive amount of data inquiries, and he checked the data bit rates. He relaxed when they were just under the maximum amount for what the game could handle without causing problems.
+
+“As long as no one else happens to...” He stopped talking when they all spiked and went into the red. “Oh, damn.”
+
+Since it was the middle of the night, most people were online and playing when Ren had done his expanded Aura trick. Every player that was online at the time felt Ren's Aura cover them. Some even properly identified that it was him; but, they all immediately inquired from the help menu and the messaging system about a Sea Dweller that would have such a powerful Aura. Each and every one of them tried to pull information from the servers about the world event and what it entailed. That was enough to cause what Ren had suspected would happen.
+
+All the simultaneous call functions on the data package caused it to overload. It shut down, which left hundreds of thousands of inquiries with nothing to gather. Those inquiries were repeated for the normal system about why they couldn't get the information they needed, and that caused the help system to overload and fail.
+
+“No no no.” The night programmer said as the cascade of inquiries went along the system, even from the system administrators, and caused each successive information package to fail. “Goddammit! Stop making inquiries! Give the system time to recover!”
+
+He tried furiously to head off what he suspected was going to be a catastrophic blow to the company's reputation if they let a simple problem crash their game, and tried several quick and dirty patches to add in supplementary data for it to access... which only made it worse.
+
+The data was consumed immediately and that sector went offline from all the inquiries, and he had no choice but to hit the panic button. The night programmer typed in the special command that he was only supposed to use in an emergency situation, and initiated the shutdown protocol.
+
+********
+
+Everyone in the game received the shutdown notice for maintenance and were asked to go to a safe zone within 10 minutes. Ren sighed at the popup and dismissed it, then he and the others went back into Aurora to the house in the Housing District, and went upstairs to bed.
+
+“Well, it worked.” Ren said as everyone else got onto the bed.
+
+“When will you be back?” Teepo asked.
+
+“I don't know, buddy.” Ren said. “Hopefully tomorrow, but if what I suspect is true, then... it might be a while.”
+
+“I'm going to miss you.” Artemis said, and Ren stepped up into the air and gave her a kiss.
+
+“When I come back, you and I will spend some alone time together.” Ren said.
+
+“Like we did in the Water Realm?” Artemis asked, and Ren waggled his eyebrows. She laughed and gave him another kiss. “Hurry back.”
+
+“I'll try my best.” Ren said as he stepped close to the wall and struck a pose. “Logout.”

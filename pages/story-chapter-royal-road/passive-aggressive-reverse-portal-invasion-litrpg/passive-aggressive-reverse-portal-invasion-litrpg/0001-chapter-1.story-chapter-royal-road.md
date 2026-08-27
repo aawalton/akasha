@@ -1,0 +1,109 @@
+---
+id: 85e288bd-3ad5-5a70-ab9f-97a190094466
+page-type-slug: story-chapter-royal-road
+title: "Chapter 1"
+slug: 0001-chapter-1
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 1
+ownLength: 1956
+unit: words
+publishedAt: 2026-05-29
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3463379/chapter-1"
+royalRoadId: "3463379"
+---
+
+Revenge. Justified retribution. Karma. Books have been written that celebrate the concept. Movies made. Songs written. Our mistreated hero finally snaps and pays back the world for the injustice he’s suffered. Everything is made right in the world again.
+
+Of course, real life doesn’t work like that. In actuality, the scales are weighted, justice is conditional, and karma is blind. Even so. There is one aspect to all those brilliant stories, that they got right.
+
+That moment of much-delayed payback? It feels so fucking good! Moreso in this case, because I didn’t even plan for it. Absolute coincidence, tossed my way by means of divine providence.
+
+It started the same way as always. I was at work, stretching in between scheduled appointments. The usual was going through my mind. A whole lot of nothing while I waited for my next round of abuse.
+
+The background of the setting was par for the course. Rock-bottom standard. Mike’s Gym was the type of gym you’d see in underdog movies. The gritty kind, with worn-down interior, sandbags that should’ve been replaced ages ago, weights polished bright by ages of effort. A stale scent of sweat and rubber underneath it all.
+
+In movies, of course, the all-male clientele would eventually be revealed to be mostly underdogs with hearts of gold hidden below their gritty exterior. In real life…
+
+A voice called out, from the far end of the gym. “Yo Sandbag. I’m bored!”
+
+I knew exactly what that meant the moment I recognized the voice. Even so, I played my part. “Name’s Liam. Not Sandbag.”
+
+“Don’t be like that, mate. We’re just having a laugh. I’m bored. I could do with a bit of stress relief. You up for it? Or are you still shook up from last time?”
+
+Leo looks just like his jovial voice implies. Bald. Tall. Broad-shouldered and strong. The gleam in his eyes was the only hint to the mile-wide mean streak running just below the surface of his handsome exterior.
+
+His posse followed him around like eager puppies, of course. Laughing on cue at his last shot, loudly sucking up to him with senseless nothings. “Good one, Leo. You sure showed him, Leo. May I give you a heartfelt reach-around, Leo?”
+
+Fuckers.
+
+I looked at my phone and considered the time. Then I held up a finger and ordered my Uber before turning to the tall man. It was six minutes out. That should do the trick. Outwardly, I hesitated. “You know the drill, Leo. Schedule’s booked in advance so I get my breaks and everything’s by the book. Mike’s rules.”
+
+One of his toadies rolled his eyes. “Like you’ve got anything better to do, Sandbag.”
+
+Leo smirked. “I know the rules, Liam. I also know nice crisp bills speak louder than rules. And, like I said, I’m bored. I want a bit of adrenaline. Come on, man. Give me ten rounds. Good, clean rounds. I’ll pay you double.”
+
+Being a professional sparring partner is supposed to be a teaching role. It’s supposed to be a partnership, a back and forth between the person being trained and the sparring partner. The partnership can range between educating a complete newbie and letting a professional unleash against somebody well-trained, locate those moves that need polishing. The core of the role, of course, remains that of ‘learning by doing.’
+
+In real life? Theories like these quickly get exposed as bullshit. When your role is taking punches without ever shooting any back? Somehow, you’re worth less than the other person, even if you’re bigger, faster or tougher. Especially if that’s the case.
+
+“I’ve got an hour before my next appointment. That’s enough time for ten rounds. But that would mean that I’m missing out on lunch.” I said grudgingly.
+
+“Ah come on. Like you couldn’t stand to lose a few pounds, Chubs.”
+
+I glared at another toadie enjoying himself. This one was called… Alfie, maybe? He definitely looked like an Alfie. Carbon copy of the bigger, better Leo. Crooked teeth, set a bit too close. Reddish-blond hair. And, obviously, muscles that outsized his brain by several sizes.
+
+“Shush, Alfie. We’re speaking the same language here. Aren’t we, Liam? We’ll say triple, I’ll Whatsapp you, and neither Mike nor the tax man will ever need to know.”
+
+I didn’t need the money. That thought felt extremely strange to me. Impossible, really. But after tomorrow, I wouldn’t ever have to worry about money again. This was all playing for the gallery. Even so, it might pay in something more tangible than money. Still, I went through the paces, rolled my shoulders, looked contemplative and eventually nodded. “You’ve got it.”
+
+Two minutes later, we were in the ring, gloves laced, and Leo was rolling his shoulders with a gleam in his eyes. “How about this, Chubs? We start off nice and easy. First round’s just precision work. Nothing too heavy. Just me working on getting my jabs in nice and good. Making sure the old shoulder’s not acting up before we get serious?”
+
+Boxers were different in the ring. Wildly so. Some were overly cautious and almost had to be coaxed into throwing a punch, and then further egged on to move past their mental limits. Others were playful, taking it all like a learning experience. Others were serious, treating every exchange, even the sparring matches, like they were real matches, giving it their all, even as they stuck to the rules.
+
+Then you had those like Leo. Bastards who were in it for the pain, treating boxing as an outlet for those dark tendencies they keep nicely bottled up in their daily life. Who always had one toe over the line.
+
+Injuries were part of the game of being a sparring partner. You couldn’t perform the job if you were afraid to wind up with a black eye, sprained wrists or whichever of the myriad possible angles of punishment the ring would inflict of you. Even the untrained – hell, especially the untrained could mess you up, simply because their physical prowess was likely to outstrip their control.
+
+But a select few were different. In the year I’d worked in the gym, Leo had broken a newbie’s ribs and sent three others out of the gym crying, never to return. And he loved it.
+
+I’d sparred with Leo a handful of times before. Two of those were regularly scheduled arrangements before I caught on to his temper, and the rest were one-time-only agreements when I needed the cash. Usually, I’d gotten away with bruises and a scare. That last time, the bastard broke my nose. Of course, one of his hangers-on was tight with the boss, and there’d be no getting rid of him.
+
+Mike knew damn well what was going on, and he didn’t care, as long as it didn’t spill over and involve him.
+
+As we touched gloves, I could see it in his eyes. The nostrils, flared wide. The manic gleam. The sick fucker was getting worse.
+
+The buzzer rang, signalling the start of the first round.
+
+He flung the first jab at my midriff. Slow. Playful. Almost intimate. “I’ve missed sparring with you, Sandbag. Why’d we ever stop having regular spars? It’s like you’ve been avoiding me. It’s almost… hurtful.” He followed up with another jab, lightning-quick, aimed at my face. I ducked, sensing the glove brush against my short hair.
+
+I could see the next ten rounds outlined before me. It’d be a slowly evolving lineup of sadism, of Leo getting his kicks out of having an opponent who couldn’t just say no. At first, he’d toe the line of acceptable behavior. Then the insults would truly start. The feints and attacks, trying to hurt instead of whatever training he professed to want. I, of course, would take it, because I didn’t want to get fired, and because he’d never do something that was entirely out of line.
+
+Not. This. Time.
+
+“Why?” I grunted, tensing my abdominal muscles as I shrugged off a jab to the midriff. “Because you’re a sadistic prick. Because half the gym’s afraid of you. Because you have such a tiny pecker that you need to take it out on the rest of the world.”
+
+Leo froze. His expression went through a range of emotion, shock, outrage, actual rage. Eventually, he rested on a slowly growing sneer. “Oh. Sandbag. Sandbag, Sandbag. You just made a mistake. I think perhaps you’ve mistaken the basis of our relationship. I don’t take the abuse. I dole it out.”
+
+Without answering, I raised my gloves and hunched my shoulders, secure in the knowledge of what was about to happen. I was right, too.
+
+A second later, Leo launched into a wild charge, jabs flowing disjointedly into wild crosses and hooks as he surrendered any pretence of practice and started trying to hurt me.
+
+I’d never been a great boxer. I was in good shape, even if I was packing a few pounds too many, and had my natural instincts down pat by now. However, I’d never been fast, strong, or naturally talented enough to make a living in the ring, even if I was damn close. Neither did I have the charisma or outgoing personality to make it as a boxing teacher. But I was tough and tenacious, with a solid movement base and excellent muscle memory, which was enough to be a sparring partner. You didn’t need speed or a deadly punch to take a punch or teach people well.
+
+You also didn’t need any of those to surprise a person who wasn’t expecting you to fight back.
+
+I dodged and weaved, pushed Leo back when he tried to use his bulk to force me into a corner. Then, when he engaged into one of his regular combos, I knew what was coming.
+
+Leo was very fond of three-punch combos. He’d mix and match them based on movement and was, I’d have to admit, rather decent at them. Yet, he had a tell for whenever he used his classic jab-cross-lead hook combo. A fact that had spared me quite a bit of pain.
+
+Now, I abused that to the fullest. I hunkered behind my gloves, taking the punishment as his jab spat out, followed by his strong cross. However, instead of ducking, dodging or evading, I stepped forward and into his wide, powerful hook.
+
+My uppercut held every inch of resentment, every iota of hate and loathing I’d amassed for the spiteful, hateful cunt. When it hit his jaw, the force rocked through my entire arm, and I heard something crack. I couldn’t tell if it was from his teeth clacking together too hard – Leo never bothered with mouthguards for sparring, the stupid moron – or if I actually cracked his jaw. However, I could tell that he was out before he hit the ground.
+
+I didn’t hesitate. I turned around immediately, looked Alfie dead in the eye and spat. “You might want to check on your friend.” Then I ducked through the ropes of the rings, leapt down, grabbed my bag and strode for the exit.
+
+Alfie had already moved to aid Leo and was shouting something unintelligible. Leo’s other toadie, meanwhile, vacillated, moving as if he wanted to bar my way.
+
+My gaze met his, and he backed down, racing to join Alfie in the ring.
+
+I slammed open the weathered door to Mike’s Gym, never to return again, and took a deep breath, just as my Uber swerved into the parking lot. The breath of fresh air, even filtered through the cesspool otherwise known as Sunderland, tasted glorious. Nothing about this day could possibly improve. And tomorrow? Tomorrow, I would leave Earth behind me forever, for glory and a new life!

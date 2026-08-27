@@ -1,0 +1,217 @@
+---
+id: 79edc23c-bff1-535c-aa1b-6d4e54ad0de0
+page-type-slug: story-chapter-royal-road
+title: "Chapter 751 - The Distraction Of Battle"
+slug: 0752-chapter-751-the-distraction-of-battle
+partOf: mythrans-master-of-all-continued-completed
+position: 752
+ownLength: 3013
+unit: words
+publishedAt: 2018-11-04
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/303680/chapter-751-the-distraction-of-battle"
+royalRoadId: "303680"
+---
+
+Princess had a great time with all the tiny screaming goblins. Their pitiful weapons and armor made a staccato sound as she rammed through their ranked formations and they bounced off her horns. It almost sounded like music to her ears, and Ren hummed to the tune.
+
+“Take a quick left.” Ren said and they hit a siege weapon and smashed it to smithereens. “Perfect time for a smash sound in the music.” He said and brushed off the splinters, and Teepo chittered in delight. Princess straightened out as she rushed towards another goblin unit and the song continued.
+
+*
+
+The large man didn't want to waste another second, so he ran over to the messengers and told them to get to their designated units and to tell them to charge forward with the plan. The messengers didn't question the lunacy and ran off, and the large man looked at his map again.
+
+“If he can just keep the main force occupied...”
+
+“He will.” Tatya said confidently. “The watchers on the barricade have already said the units that had been behind the goblin spider riders have already turned tail and are chasing after the monster that rammed through them.” She chuckled. “I don't think he killed anyone, either.”
+
+“What? How?” The large man asked. “That giant ram had huge horns.” He said. “They would pulverize anything she hit!”
+
+“If they were trying to kill them.” Tatya said, and he stared at her with wide eyes. “You said you wanted a distraction, not a devastating attack.”
+
+“Oh, no.” The large man said. “He's bringing the stray units together.”
+
+“Why is that bad?” Tatya asked. “It's what you wanted, isn't it?”
+
+“If they have enough of them in a small space, they can sacrifice a ton of them.”
+
+“For what?” Tatya asked as she felt his sadness over losing the battle.
+
+“Get your unit together and head out to get that magic user.” The large man said and stored the map. “If you don't kill him within the next ten minutes, you'll find out what happens next.”
+
+*
+
+“This is fun!” Princess said as they managed to get to the spot where the large man had told them to go, and she ran around almost in a perfect circle and kept bashing the goblins to continue hearing the music she was making.
+
+“Hey, is that a troll?” Ren asked as a distorted shape stood up to his full height of 12 feet, then two others stood up behind him.
+
+“Yes, and the goblins are poking them with spears.” Teepo said, then chittered in laughter. “Like trolls need to be encouraged.”
+
+“Should we prank the goblins?” Ren asked.
+
+“Do it, Ren!” Teepo chittered in delight as he caught Ren's thought.
+
+Ren opened his Instant Tower recipe and made it into what he wanted, then added the materials. He threw the finished 2 inch wide block through the air and as soon as it landed, he activated it. A huge stone bridge, 20 feet across and 40 feet long with three archways under it, appeared instantly and shoved two large groups of goblins aside to make room for itself. The goblins screamed and scattered at the surprise more than being shoved, and the three trolls kicked their handlers aside and ran under the bridge.
+
+Ren, Teepo, Artemis and Princess laughed as the troll handler goblins tried to get the trolls out from under their new home and the trolls were having none of it. They fought and defended their new home against anyone that came near it. The other goblins had no idea what to do about the large bridge in the middle of their formation. One of them had the bright idea to actually cross the bridge, since that was what you do with a bridge. A pile of goblins tried to cross it, and the trolls wouldn't let them without paying the toll. The goblins didn't have anything except their weapons to pay, so the trolls took them and let the goblins cross.
+
+They got to the other side and prepared to fight; but, they didn't have any weapons, so they turned around and tried to cross the bridge again. They couldn't pay the toll, since they didn't have any weapons, so they just stood around and looked completely dumbfounded. Ren and his friends kept laughing as the situation became worse and worse for the dumb goblins while more of them crossed the pointless bridge and ended up weaponless on the other side.
+
+“That's enough!” A booming voice exclaimed, and some of the goblin units that Princess hadn't rammed yet, split apart to reveal a very ornate and well dressed goblin. He was taller than the others, but since he was sitting down, Ren hadn't seen him until now.
+
+“That was sneaky.” Ren said and smiled.
+
+“I call forth the Corrupter of ALL!” The goblin said and stood up as he shook his staff. He pointed it at all the goblins that had crossed the bridge and had lost their weapons. “Accept these idiotic sacrifices to come at my call and heed my commands!”
+
+Ren felt a burst of Void energy pass through his Aura and hit the mass of goblins, and they all instantly died. “Hey! What are you doing?” He asked, surprised. “You're killing your own troops!”
+
+“I'm also killing you!” The goblin said as a portal appeared behind him. It expanded out and out to nearly 30 feet across and a giant spider leg stepped out of it. Then another.
+
+“Holy crap!” Ren said as the largest spider he had ever seen stepped out of the portal. It barely fit through, even with bringing a single leg through at a time. When it was fully through, the portal closed and it spread its legs out to stretch to its full length of 60 feet and was about 40 feet tall.
+
+Artemis shot it with her Mana bolts, but they bounced off and did no damage. “It's got magical protection!”
+
+“I think it's just too massive for that to work.” Ren said as he felt a menacing feeling from the humongous spider. “I don't feel any kinship with it like I did with the goblin spiders, though.”
+
+“It's probably demonic or something.” Teepo said. “I've never seen anything like it before.”
+
+“Me, either.” Ren said. “I wonder what I should...”
+
+The humongous spider hiked itself up on its legs and twisted its body under itself to point its spinnerets at him and shot webbing out. It spattered as it hit and it completely covered nearly 50 feet around him, which included 2 troops of goblins.
+
+“Wow, this stuff is really thick.” Ren said as it plopped around him and pretty much encased him in webbing. He tried to push it away and all it did was move slightly and spring back.
+
+“Try using Fire.” Teepo said and Ren activated his Hands of the Gods ability Burning Hands and dug them into the webbing. He poured pure Fire out of his hands and used his Fire Manipulation ability to spread it out, and he was soon surrounded by Fire.
+
+“It's burning, but very slowly.” Ren said. “Princess?”
+
+“I'm fine.” Princess said, kind of muffled. “I can move a little, but it springs back.”
+
+“Hammerpick?” Teepo asked.
+
+“Even if it didn't get stuck like us, I can't swing it to use the plow end to cut.”
+
+“Then there's only one thing left to do.” Teepo said, and Ren sighed.
+
+“I don't want to.” Ren said, and he felt some of the goblins nearby were starting to suffocate.
+
+“Ren...”
+
+Ren sighed and absorbed the Fire. “All right. I guess I don't have a choice.” He said and activated his polymorph helm. His body grew up to just over 11 feet tall and his features elongated as his skin changed to pitch black, then his blonde fluffy hair changed to bright white and grew out really long.
+
+Dark Elf Ren was angry that he had to transform so soon after saying he wasn't going to for a while, and he used that anger as his phantom spider limbs formed around him.
+
+Since they were phantom limbs, they weren't constrained by the physical webbing, and the specifically designed claws on the ends tore through the web as if it was nothing. Dark Elf Ren freed himself and Princess to see that the humongous spider and the hordes of goblins had moved on, believing he was defeated.
+
+“I am not so easily dispatched or ignored.” Dark Elf Ren said and activated his Hail Of Arrows ability again and took out a handful of steel rods. He enchanted them with the Instant Spear rune he had learned in the dwarf lands, added as many Piercing Damage runes that he could, then charged them as Elemental Grenades. He grinned an evil grin as he aimed for the giant spider that was quite a distance away.
+
+*
+
+“Oh... my... god.” Tatya whispered as she saw the humongous spider for herself. It was 60 feet long and 40 feet tall, and she knew that her people were all going to be dead in mere moments when the massive spider reached them. She wasn't concerned in the least over the horde of goblins running behind it, then her lightly furred ears caught a low whistling sound. They perked up and she wondered what was making that sound.
+
+“SKREEEE!” The humongous spider screamed in pain as a hundred long metal spears pierced its vulnerable backside behind its considerably thick armor. It turned around to face the threat it didn't realize was there, then those 100 magic metal spears exploded.
+
+Tatya and everyone around her, which consisted of several squads of Pervarians in their various animal forms, stared with open mouths as the rear end of the humongous spider exploded in a huge spray of blood, gore and viscera. The body took one step, then it collapsed in a heap onto the horde of goblins it was stepping over.
+
+Goblin screams and yells pierced the air as hundreds of their fellows died instantly and hundreds more were injured as the spider's body twitched and its legs kicked out randomly and cut swaths through the surrounding formations, which devastated their whole army.
+
+Tatya was going to comment to the people following her, about how fortunate that was, then she felt Ren's Ultimate Terror Aura and caught her breath as she saw him in his new form.
+
+*
+
+“RAHHH!” Dark Elf Ren yelled as he hefted a 20 foot long sword and leaped through the air in a high arc, then brought the sword down onto the spider's back. It cracked the armor and pulverized the exoskeleton underneath as another burst of blood and guts came out the hole the magic spears had blown in its backside.
+
+“DAMN STUPID SPIDER!” Dark Elf Ren yelled and ranted as he swung the sword across the spider's back and cut away the armor to expose the exoskeleton underneath. “I didn't want to change again so soon!” He said and swung again to slice through the damaged exoskeleton easily. “You don't realize how much I hate stupid fights!” He said and jumped up into the air again and brought the sword down behind the spider's eyes. It went right through and into the ground and jammed there.
+
+Dark Elf Ren grunted in frustration and pushed it to the right about 6 feet, then pulled it back to the left 12 feet, and the part of the spider that held the eyes fell off as it was severed.
+
+“That's what you get!” Dark Elf Ren said and jumped over to the side and cut off one of the legs. “Stupid spider!” He said each time he cut off one of the legs. When he did the last one, he walked over to the middle of the remains and yelled at the top of his lungs, then threw the sword high up into the air.
+
+“REN! Look OUT!” Tatya yelled and he stopped his incoherent yell and looked at her.
+
+“What is it?” Dark Elf Ren asked.
+
+“The sword!” Tatya said and pointed. Dark Elf Ren looked up at it; but, he didn't move out of the way and she felt his confusion. She was about to yell again, then the sword sliced down through the air as if it had weighed a ton, and jammed itself right into the thorax of the spider. It was technically called a cephalothorax, a thorax and head combined; but, he had cut the head part off already and all that was left was the thorax. The sword just missed hitting Dark Elf Ren and Tatya sighed in relief.
+
+“I was just getting some frustrations out.” Dark Elf Ren said and stored the sword, then walked over to her through the air and stopped in front of her. “Are you okay?”
+
+Tatya looked up at his over 11 feet of height and wasn't sure how to respond.
+
+Ren chuckled and stepped down onto the ground as he changed back into his normal appearance. “Is this better?”
+
+Tatya nodded and put her paw-like hands on his shoulders. “I was worried about you.”
+
+“I felt that.” Ren said and saw her flick her tail. “That's an annoyed flick, isn't it?”
+
+Tatya chuckled and hugged him. “I'm a little annoyed, yes.” She said and her tail moved normally.
+
+“I can't find the magic user.” Artemis said as she landed beside Ren.
+
+“Me, either.” Teepo said and landed on his shoulder.
+
+“That's because he's right there.” Tatya said and pointed with her paw-like hand. Ren turned his head and saw the remains of the group of goblins that had been around the tall goblin. They were partially crushed under the spider's body and he smiled.
+
+“Oops.”
+
+“Oops, he says!” One of the beige panther-men behind Tatya said and started laughing.
+
+“There's still goblins to take care of!” Someone shouted, and that got everyone's attention.
+
+“Clean-up detail!” Tatya commanded, and her group spread out and joined the other troops that were killing the rest of the goblins. “Ren, I need to go.”
+
+“Go ahead.” Ren said. “I didn't mean to take your kill.”
+
+“I could never have killed that spider thing.” Tatya said.
+
+“I meant the magic user.” Ren said.
+
+“How do you know that's who I was going for?”
+
+“You were coming in the same direction that guy told me to go.” Ren said. “You had to be coming after the magic user.”
+
+“I could have come after the command structure.” Tatya said and started to walk away.
+
+“They weren't there.” Ren said.
+
+Tatya felt his confidence and turned to look at him. “Why would you think that?”
+
+“He was the only one with any kind of power inside my Aura.” Ren said. “Either he was a stalking horse... a fake leader for us to think we killed the real leader... or he was the only one here in the first place and is the real leader of the army.”
+
+Tatya smiled and gave him a nod, then ran to catch up with her troops. Ren dismissed the popup for Respect and looked at Artemis.
+
+“Where's Princess?”
+
+“Still making music by ramming things.” Teepo said, and the three of them laughed as Princess ran past them and they heard groans from the Pervarians as Princess struck and trampled their kills, which took all the fun away from them because they only had to finish the goblins off and didn't get to chase them down like they wanted to.
+
+“I'll get the other spiders and send them to Lylyth.” Ren said and ran off to do just that. Artemis flew beside him to make sure no one could sneak up on him.
+
+*
+
+“What happened?” A golden armored goblin said in Gobbledegook, the goblin language. “We had a clear and distinct advantage!”
+
+“I don't know.” Another goblin who wore ornate robes similar to those of the magic user in the battle. “(squeaks and clicks) even summoned Anansi to take revenge on the other animal spirits.”
+
+“How did he...” The armored goblin sighed. “Damn him and his sacrificial rituals.”
+
+“You've got that right.” The mage goblin said and pointed to the Viewing Cloud, and the armored goblin saw the remains of the other magic user.
+
+“At least he doesn't have to face the others because of his failure, now.”
+
+The mage chuckled. “Just you, then.”
+
+“Yes, just me.” The armored goblin said. “They even managed to kill Anansi?” He asked as he saw what had crushed the magic user.
+
+“Yes.” The mage said. “He won't be happy that we have to grow him another body to inhabit.”
+
+“I wonder if he was really there or just sent it.” The armored goblin said, then sighed. “I knew I should have delayed visiting my brood.”
+
+“So that's where you went.” The mage said, his curiosity satisfied. “How are they coming along?”
+
+“We should have another battalion of troops with armor proficiency in about a month.”
+
+“Good, good.” The mage said and made a note of it. “I'll have the makers start right away on appropriate pieces.”
+
+The armored goblin nodded to the mage and left the room. He headed over to the others to face the consequences of losing a battle so soon, even though he hadn't been there for it.
+
+*
+
+Lara sat in the back room of the Library in Ren's county and tried not to laugh as she watched the Far-Seeing Mirror at Ren's antics. “I'm glad telling him that he needed to go with them didn't get me a warning.” She said and stored the mirror. “I couldn't let a new expansion happen and not give Ren the gift of being the first one to go there.” She snorted a laugh as she stood and walked over to her closet to log out. “I'm also glad that I was right about him not minding a woman being a little hairy down below.” She thought about what she just said and burst out laughing. “Beast Races are a little hairy! Ha ha ha!”

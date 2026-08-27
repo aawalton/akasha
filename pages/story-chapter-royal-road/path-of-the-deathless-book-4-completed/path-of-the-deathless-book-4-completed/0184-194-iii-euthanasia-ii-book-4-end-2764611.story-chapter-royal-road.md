@@ -1,0 +1,153 @@
+---
+id: 05d19f29-3c88-5593-8a62-de7fde8b0c42
+page-type-slug: story-chapter-royal-road
+title: "194 (III) Euthanasia [II] [Book 4 End]"
+slug: 0184-194-iii-euthanasia-ii-book-4-end-2764611
+partOf: path-of-the-deathless-book-4-completed
+position: 184
+ownLength: 3233
+unit: words
+publishedAt: 2025-11-15
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2764611/194-iii-euthanasia-ii-book-4-end"
+royalRoadId: "2764611"
+---
+
+194 (III)
+
+Euthanasia [II]
+
+As the mutilated prisoner clutched his head, so too did Enoch. And as Shiv beheld the latter, his stomach recoiled.
+
+The Ascendant was even more of an abomination compared to Rebis. Instead of having one body, he had two, conjoined at the hip. Yet, though one of its bodies was massive, well-muscled, bearing an enormous hammer in its right hand and a stack of papers fluttering in its left, its head was swelling, pulsating, and there was a portion of its skull missing.
+
+It looked like a horrific deformation, but Shiv could tell how delicate the cut was. A portion of Enoch's mind had been split, and that portion was dedicated to the other body sprouting out from its midsection.
+
+The second body was far smaller, and it was connected by a mess of cancerous tissue. Yet, these cancers were infused with divine mana, and embedded within the cancer was the pulsating gray matter harvested from Enoch's brain. Shiv didn't know what the Ascendant did during the Ritual of the Dichotomous Soul to result in such an outcome, but to say that Enoch botched it was an understatement.
+
+Little wonder why Veronica wanted him punished. Enoch was ruined. He was ruined in ways Shiv couldn't even begin to conceive of fixing, and he probably could only slot himself into Rebis because they were mutilated in such a similar way. It was then that he realized that Rebis had been deliberately ruined to give Enoch something to wear. Two ugly lives tortured out of existence for one god's fuckup, Shiv thought to himself. What a world.
+
+"Enoch," Stormhalt called aloud. He reached down, thinking to wrap some of his dark lightning around Rebis's body, shielding him from the assumed attack. But the mutilated Pathbearer pushed him aside, slamming into Stormhalt. The City Lord was knocked back, and Rebis flared his bladed wings as he tried to wrestle himself free from the Ascendant.
+
+"No, I'm not—Enoch. I'm not. Out of my mind. Get out. Get OUT!"
+
+As the core chamber fell into chaos, Shiv emerged from Non-Sequitur. He delivered a descending stab into the back of the City Lord’s head, and a sickening crack followed. But Stormhalt didn't go down; instead, a counter-burst of dark lightning slammed against Shiv. But rather than being overpowered this time, he grappled with it. Shiv's many Overflow Tides halted the lashing lightning unleashed by Halsur, and as a forest of black bolts crashed down on him, the others made their move.
+
+A tidal wave of curling fire slammed down on both Rebis and Stormhalt. The City Lord, already disfigured from his many injuries sustained against the Tarrasque, burned even more, sizzling within his battered armor. He cried out in pain, and Halsur fed him more electricity to spare him from further harm. Stormhalt wrapped himself in a bundle of living lightning and soon became utterly impervious to harm.
+
+Shiv wrenched some of the electricity aside and slashed his knife up along Stormhalt's torso at a diagonal angle. Sparks flashed. His might made the black lightning bend, and Shiv felt an explosion of satisfaction spread through his chest as he heard Halsur grunt with surprise.
+
+Deepest Edge 66 > 67
+
+Inertial Overdrive 161 > 162
+
+Yet, where he expected Deepest Edge to deliver a fatal wound, the lightning splashed apart, revealing no one within. A second later, someone slammed into his side. Stormhalt erupted back into existence, carried by a bolt of piercing electricity cast by the tree looming overhead. Shiv's armor groaned and split, but it endured long enough for Shiv to shift his body and absorb the attack. He converted every bit of force Stormhalt sent his way, but Stormhalt's lightning was more than just kinetic energy. It was magic as well, a deep, lashing magic that tore at one's soul. The Deathless spent the Overflow Tides he gained from Stormhalt to blunt the man’s own magic.
+
+Stormhalt snarled as he clawed at Shiv’s throat. "Did you think that this would be enough? That you could simply—"
+
+Before Stormhalt could say anything else, Shiv shouted: "Golems!"
+
+Deception 35 > 37
+
+Golemancy 25 > 26
+
+From his cape emerged two additional helpers. The first seized Stormhalt by his midsection. The other swept the City Lord's legs out from under him. The two Vitae golems Shiv had manufactured ten minutes ago joined the fray in a sudden frenzy of Chronomantic violence. Temporal shells faded from their bodies as they pinned Stormhalt in place. And just then, Shiv fell upon the City Lord as well, draining his vitality from him, and by extension, Halsur's as well.
+
+Halsur was a hardy god. He betrayed little in the way of pain or discomfort, but as Shiv wrenched at his life force, he gave a soft gasp that became a hurricane. A literal hurricane, birthed free from the tree. Shiv felt its power slam against his body—and he heard the others cry out in surprise. He directed his Shapeless Tides against the crushing force and used it to harness more tides from the hurricane, converting what he could to overflow vectors. A pulsating blast of vitality rippled out from the very center of the chamber, and nearby, a sound came: a crashing body, announcing Enoch's and Rebis's sudden collapse.
+
+The mutilated prisoner lay there on the ground, and Shiv caught a glimpse of what provoked him to succumb: coiling strings of ones and zeros flooded Rebis's mind, and Can Hu, along with Five, advanced upon the downed Pathbearer. Gone slammed into Rebis and began prying at his helmet. Her claws dug in underneath the gaps lining the head armor, but despite everything, she couldn't pull it free.
+
+"It's bound!" she called out. "It's bound to his soul!"
+
+"What?" Adam shouted, sounding surprised. "But—oh, godsdamn it, they must have done that earlier. They enchanted my armor. Bastards!”
+
+"Think of it this way," Candles said, laughing as he continued firing magic down upon Stormhalt in focused beams from his fingertips. A wall of twisting flames shaped in the form of a dragon screamed at the hurricane crashing against them, and a pocket of stability opened in the ebony-colored storm. "They just saved you some trouble and some expenses. You got a bunch of free enchantments, whatever they are."
+
+And with both Avatars down and Halsur's presence fading, Shiv felt a roaring sense of triumph claw through his body. They'd prevailed without even letting the Ascendants fight back. It had been a far cry since his desperate battle against Stormhalt alone during the Tarrasque's offensive. But then Shiv saw a stray string of lightning wrap one final time around Rebis's head. And just then, as it tightened, the binaric flood was cut off, and Rebis stopped writhing.
+
+"Get back!" Shiv called out. “He’s—”
+
+Inertial Overdrive 162 > 165
+
+Pillar of Orichalcum 245 > 248
+
+His death came in an instant. One moment, he was alive, draining Halsur and Stormhalt's vitality; the next, his head was rolling forward off his neck. Another attack flicked toward him. The only reason he didn't lose more of his Vitae was because of Gone. The goblin had intercepted a blow meant for him. Rebis was fast, faster than Shiv could react to, and so was Gone. A blurring clash happened around him.
+
+The air shook, and calamitous impacts launched Shiv back. He began to cultivate his Toughness; an Orichalcum pillar erupted free from his body, climbing high into the air. With him distracted, he failed to notice how both of his Vitae golems had been beheaded as well, and how Stormhalt was free.
+
+A lake's worth of lightning came pouring down from the black tree. The bridges in the room were torn asunder, split down the middle by lashing branches. A tip of electricity slammed into Shiv, and his Shapeless Tides responded, but they were found wanting as Halsur turned his full might on the Deathless.
+
+Shiv felt a fourth of him crack away. He just lost a good portion of his lifeforce, and by the time he managed to cultivate enough Overflow Tides to hold the rest of the lightning back, he was already wrapped tight by the lightning flowing free from Stormhalt's hands.
+
+"Did you think that would be enough?!" Stormhalt roared. The man was near-incoherent, his words were partially slurred, yet the Ascendant was there, asserting his will against Shiv. Furthermore, the mana core came alive as well, and that searing heat that lashed at Shiv before when they were trying to breach the first cube returned. And it wasn't just Shiv that cried out. Adam, Candles, Gone—they were all affected. It was a fire that torched their very souls, and Candles, for one, hated it. His shrieks reached new heights, and his flames ceased flowing.
+
+Shiv could feel its source—the heat originating from the center of the room. If they didn’t collapse the core soon, it might just see them all fried from the inside out.
+
+Shiv used Non-Sequitur again, and this time he unlatched from his sprawling mass of Vitae, ejecting a portion of himself. He came close to the edge of death, close like so many times before. It was like he was hanging off a precipice, and the winds of a cold blizzard licked him deep, carving chunks out of his very bones.
+
+Non-Sequitur 103 > 104
+
+But Shiv was free now, and Stormhalt wasn't expecting him. He wrapped himself around the City Lord, and he began to drain. Stormhalt screamed, surprised by the sudden lurch of agony tearing through him. Lifeforce flowed back into Shiv, and due to Non-Sequitur allowing him to exist seemingly in two places at once, Stormhalt never knew what hit him.
+
+He tried slashing and crushing “Shiv”; he only destroyed the decoy the Deathless left behind. Shiv went back to being purely outside of context, and confusion gripped Stormhalt. That didn't stop Shiv from resurrecting, bursting free from his Vitae in a splash of red and white. As he did so, he hooked his left arm around the City-Lord's abdomen, and he spiked the man through the bridge they stood upon.
+
+Pieces of shrapnel flew into the air, and Stormhalt was launched downward. A blast of tides spiked him down to the bottom of the chamber in an instant. Stormhalt struck the ground with such force that the bottom of the room went off like a mana bomb. Lightning cleaved down from the storm-tree still hovering far above Stormhalt, erupting forth in a dozen whips that came for Shiv. But he was whole again, and that meant he could cast himself back in time without tearing his soul in half. So Shiv did. He blinked out of existence and reappeared right next to where Rebis and Gone were, right next to the mana core, now no longer hidden by Stormhalt's lightning tree.
+
+Strider of the Unbending Path 158 > 159
+
+However, rather than being able to go for the mana core, Shiv faced a dilemma. Gone was on the ground, parts of her claws snapped off, and with her stomach underneath Rebis’s boot. And all around them, the room was being reshaped. Every bit of matter here was curling, turning denser. A strange maze was rushing toward them, falling as if a distant tide collapsing inward. And Shiv knew he didn't have much time at all before they were all at the mercy of the Builder's architectural powers.
+
+"Break!" Rebis screeched, and Enoch's voice echoed within his new Avatar's. But Shiv could hear the pain lingering under Rebis's breath. "Breaking! Everything's breaking!" He wasn't talking just about Gone. The goblin gurgled as blood began seeping out from her mouth. Adam was nowhere to be seen. Everyone else was missing. And then there was Shiv, the mana core, and a simple choice to make.
+
+Both, Shiv decided. He was going to choose both. He launched himself at the mana core and then imprinted a temporal echo of his being upon the massive source of mana as he reached into it with his Vitae. Through the searing pain, he drove the tip of his being into the inner depths of the core and brushed the first skill he could find. The moment he did, the moment he left a Chronomantic anchor, he reverted in time and reappeared next to Rebis.
+
+He wrapped his arm around the mutilated prisoner and tore Rebis off Gone's body. As Rebis tried to rip himself out of Shiv’s grasp, the Deathless held on hard, refusing to let go. Rebis slashed at him with his wings. Shiv winced as cuts opened along his body—his Orichalcum barely doing much to stop Rebis’s slashing aura. He resolved the matter by flexing his body hard and ripping one of Rebis’s wings clean off. It lacked armor; Shiv had a Legendary Physicality Skill; Rebis needed more Toughness. The equation came down to an inevitable conclusion as the poor, melded prisoner screamed, and Shiv winced in pity. “Sorry! Didn’t want this.”
+
+“This is not your vessel!” Enoch cried again. “I will show you—”
+
+Shiv saw the mesh framework wrapped around the chamber beginning to quiver and change once more. No. Not finding out why they call him the Builder. He drove Rebis into the burning mana core and pressed him against the massive cracks. Rebis struggled. Shiv coiled an arm around his enemy’s neck and struck at Enoch once more. "Doesn't matter what you do to me right now," Shiv said, holding Rebis tight, pressing more Shapeless Tides around his former companion. "Nothing you do right now will make you right. You were broken before, and you were broken because you were always a fool. Aina Huna. Failure. That’s what they should have called you. Not Builder.”
+
+"Be quiet! Be QUIET!" both of Enoch's heads cried aloud, and Rebis turned, clawing at Shiv. He felt a portion of his upper arm get ripped away. Even with his Pillar of Orichalcum climbing fast, Rebis cut deep and true. Shiv responded by discharging his sheath right then and there. An explosion enveloped the center of the room, and the Deathless felt Rebis rattle and bounce in his grip. He kept going with his taunts. "Because you were broken before then. In Aina Huna. The Stormlords deserve your divinity more than you do!”
+
+"No! No!" Rebis tried to fly up. He got a meter up into the air before Shiv yanked him back and tore his other wing off. Blood sprayed through the air, and before Rebis could try anything else, Shiv dropped a plunging elbow on his armored head. An echoing impact sounded through the room, and Shiv continued delivering blow after blow while he spat word after word. "You were broken because you failed the ritual. You were broken because you were a fool. Everything you did, every bit of power you have, and still you failed!”
+
+"No!" Enoch howled. “I am not broken! I am not—”
+
+With a final punch, a skill within Shiv advanced. And when he next spat a phrase, another thing changed inside of him, and something changed within Rebis as well. "The broken thing wasn't the ritual. It wasn't your action. It was always you. Unlike you, I don't need to steal power from a god. I'll find my way there on my own."
+
+Silver Tongue 50 > 52 (Skill Evolution Reached)
+
+Striking Proficiency 50 > 51 (Skill Evolution Reached)
+
+Skill Fusion: Cutting Barbs (Adept) - Hammerhand (Adept) > Sticks and Stones (Master)
+
+Sticks and Stones > 52
+
+Something peculiar happened to Enoch. The Ascendant’s ethereal body came alight and remained that way. It glistened, and there was a patch of glass that emitted a ray of brightness, a ray that called to Shiv's punches. Rebis suffered the same fate. His chest was glistening, and underneath that Legendary armor, Shiv felt a calling, an unspeakable urge to drive his knuckles through that weakness. And so he listened to it. While Rebis clutched at his head, Shiv gritted his teeth and drew in a quiet breath. "Sorry, Rebis. I would have tried to save you if I could.”
+
+Rebis went still, and then, in a moment of strange clarity, gave a choked sigh. "Was never any way out. Never asked to be made. End it. Just give me…”
+
+Shiv drove a blow directly into Rebis's chest. Adam's Legendary-Tier armor proved its worth. It rang like a gong, and Shiv's punch barely even rattled the plating. However, he felt something behind the armor crack and break. At the same time, a portion of Enoch fractured as well. Shiv's punch was hyper-accelerated as it moved within the brilliant patch emitted by the glistening vulnerability, and when it struck, it was like bursting through glass rather than hammering against High-Tier flesh.
+
+"Look at you now," Shiv said, speaking to Enoch rather than Rebis. "Even now, despite all you have, after all the power you stole, you're still pathetic. You're still just going to lose. Just like always."
+
+As Enoch heard him, another section of his being turned to glass as well, and Shiv targeted this new vulnerability. Part of Rebis's face became brittle, and Shiv struck it. The moment his elbow landed, it zipped forward in a sudden rush of amplified force, and a cataclysmic snap echoed through the chamber.
+
+Part of Rebis’s skull caved in, and the Avatar went down, going limp. There was no time to celebrate. Shiv turned his attention to the mana core and—
+
+A chain of lightning exploded out from his gut. He felt the lightning hook inside him as Stormhalt tried to pull him back. As Shiv gasped and wrestled with a god's power, he cast his Vitae forth into the mana core and began to engineer its collapse. His soul was practically boiling out of his body, and Shiv didn’t think he could take much more.
+
+Another two impacts slammed against his person. Shiv felt his pillar crack—but endure. He felt more Overflow Tides flood him, and he heard Stormhalt snarling some stupid nonsense or another as he tried to pull Shiv away from the core.
+
+Shiv gritted his teeth and pushed forward. I need to—
+
+Suddenly, just as Shiv was dragged off balance by Stormhalt, Rebis drew in a ragged breath and turned, driving a clawed hand straight at Shiv's temple—
+
+Only for Enoch to howl in pain once more as his soul itself was lit ablaze.
+
+A new color exploded into existence. Azure blue spilled down from above the mana core. A flaring beam of power rushed into Shiv, and the Deathless looked up to behold both Can Hu and Adam slip back into the fray. The Penitent’s body was shredded in so many places that only its torso remained intact. Through the gaps, Shiv saw Adam, his body a raging current of crashing water, but his face still human—and contorted by strain. Shiv had lost sight of them at the start of the battle, but it looked like they'd barely made it through.
+
+Stormhalt’s lightning slackened as well. The City Lord cried out in misery as Adam drew closer. But as he did, the Gate Lord’s Righteous Dawn began to crack. Shiv’s eyes widened. “Adam! No! Stop! Your skill—”
+
+Adam’s sun flared even brighter—grew even larger.
+
+And when it shattered apart, the core chamber went from a realm of burning incandescent to the perfect blue of an endless sky.

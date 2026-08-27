@@ -1,0 +1,285 @@
+---
+id: 53249fda-44dd-5d55-87d2-fae88ef14f97
+page-type-slug: story-chapter-royal-road
+title: "Chapter 697 - Time Can Pass Quickly"
+slug: 0698-chapter-697-time-can-pass-quickly
+partOf: mythrans-master-of-all-continued-completed
+position: 698
+ownLength: 3158
+unit: words
+publishedAt: 2018-09-11
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289347/chapter-697-time-can-pass-quickly"
+royalRoadId: "289347"
+---
+
+Ren spent an hour with Anabelle and she was quite happy when he was done. He equipped his fancy blue suit and told her that he would be gone for a couple of days. Anabelle said she would see him when he returned, so he kissed her goodbye and met Artemis in the living room. They left through the back door without making a sound and started walking. Ren still had 2 hours left before the day would start and he would have to go to the Fire Realm for the next leg of his sentence, so he and Artemis calmly walked through the empty Artesian District and over to the Housing District.
+
+As they walked, Ren took out the All-Seeing Mirror and asked it to show him everyone he couldn't see. Nathalia, Frikara, Andrela, Lusinia, Verwynn, Navruth, and Xuunah. He felt the ache in his heart from not being around them for so long, and he hoped that they missed him just as much as he missed them. They arrived at the house and Ren took out a couple of recliners, set them down in front of the house, then he and Artemis sat on them.
+
+“Are we really going to relax out here in front of the house and not inside?” Artemis asked and pulled the lever to recline all the way back. “I'm not complaining. I'm just curious.”
+
+“They all know I'm here, assuming they're awake, and I'll go in to get Suniva when I need to go to the Fire Realm.” Ren said and pulled his lever to recline, too. “We're staying out front in case Dana and Gretchen show up early.”
+
+“Ah.” Artemis said and closed her eyes. “Wake me if they show up.”
+
+“I'll set the Teepo alarm.” Ren chuckled and reached up to tap his friend on the back of his carapace.
+
+“BEEP!” Teepo said and chittered in laughter.
+
+Artemis laughed and Ren felt her relax. He reached a hand over to her chair and touched her hand, and she opened her hand to hold onto his. The two of them sat there quietly and waited. Ren wasn't tired at all, even after everything he had done so far that night, because his Endurance and Vitality were now maxed, thanks to his Longevity ability. After an hour, Ren took out the All-Seeing Mirror again.
+
+“Can you show me someone that knows how to edit spells?” Ren asked it, and nothing appeared. “I guess that's too general of a question for you to answer.” He said. “Can you show me Allynna, the High Lord of the Elves' attendant?”
+
+The mirror flickered for a moment and showed Allynna asleep in a large bed with Alinar Keacaryn.
+
+Ren smiled. At least he's not trying to hide his feelings for her. He thought, then asked the mirror to show him Lylyth. She was in her throne room and her attendant stood beside her. It looked like some kind of meeting; but, since there was no sound, he didn't know what was being discussed.
+
+“Thank you.” Ren said and stored the mirror. He started to wonder when Dana and Gretchen were going to show up, then he felt 2 people enter his Aura. He recalled what Dana and Gretchen felt like the last time he was near them, and knew it was them. He thought about getting up to greet them, then figured he didn't have to hide the fact he was relaxing while he waited.
+
+“Hey, are you awake?” Ren asked Artemis as he gave her hand a squeeze.
+
+“Hm? Ren? What is it?”
+
+“Dana and Gretchen are coming.” Ren said.
+
+Artemis nodded and let his hand go so she could stretch. She let out a big yawn as she did, then laid back down and waited. A minute later, Dana and Gretchen appeared at the end of the street. Ren and Artemis watched them walk all the way up to the house before they got up.
+
+“You two looked comfortable.” Dana said.
+
+“We've been here for... how long, Teepo?”
+
+“About an hour and a half.” Teepo said. “You've got 20 minutes before we need to go to the Fire Realm.”
+
+“You're still doing that?” Gretchen asked.
+
+“I'm going to be doing it for a while.” Ren said and then smiled. “At least, until the Deity of Fire starts getting sick of having me around all the time.”
+
+Dana chuckled. “So, another few days then.”
+
+“Dana!” Gretchen said, and Ren laughed.
+
+“That would be about 50 years, so it's possible.” Ren said. “Mind you, I need to leave her for about 7 years every night, so...”
+
+“It's going to take her a lot longer than that to be sick of you, Ren.” Artemis said.
+
+“We can always hope.” Ren said to her, then looked at Dana. “Okay, tell me this guy's name and I'll try to find him for you.”
+
+Dana said his name and gave his description, and Ren took out the All-Seeing Mirror and told it the same things, then asked to see the man. It showed him asleep on a cot in some room somewhere, so Ren asked for the man's location. He showed Dana and Gretchen where he was on the map, and they sighed.
+
+“There's no way we can get there and back in time.” Dana said.
+
+“What do you mean?” Ren asked and asked to see the man again, then cast the Portal spell. It appeared beside him and in the mirror at the same time. “I'll even leave it open for you.”
+
+“Thank you so much!” Dana said happily, stepped close and gave Ren a quick kiss on the lips, much to his surprise, then she grabbed Gretchen's hand. “Let's get him!”
+
+“W-wait!” Gretchen looked at Ren with envy as Dana jumped through the portal and dragged her through.
+
+“That was a surprise.” Artemis said.
+
+“Yeah, especially since it felt like I was kissing my sister.” Ren said. “I mean, I don't have a sister to compare it to; but, I can imagine that's what it would feel like.”
+
+“Hey, look at that.” Artemis said and pointed to the mirror, and both she and Ren laughed as Dana tackled the sleeping man on his cot and punched him several times. He was caught completely by surprise and flipped over, then Gretchen tied his wrists and ankles up. Dana ransacked the man's room while Gretchen watched him, and she finally found the stolen item underneath the cot.
+
+Dana picked the guy's head up and took the item and said something to him, then rubbed the item in his face. She dropped his head and nodded to Gretchen, who pulled the slip-knot of his bindings, then they both jumped back through the portal. Ren dismissed the portal, and Dana and Gretchen started laughing.
+
+“Did you see his face?” Dana laughed. “Oh, that was priceless!”
+
+“I know!” Gretchen laughed. “Actually rubbing his face in it after telling him you had half a mind to rub his face in it, was awesome!”
+
+Ren and Artemis stood there and let them laugh themselves out.
+
+“I'm glad you didn't leave him tied up.” Ren said.
+
+“I was tempted to, but you know he would be angry if we incapacitated him like that.” Dana said. “Can I see...”
+
+Ren showed her the mirror, and the man sat on his cot and looked like he was laughing.
+
+“Well, at least he enjoyed us putting one over on him.” Dana said. “Thanks a lot, Ren.”
+
+“You're welcome.” Ren said. “Just be careful and mindful of him reappearing.”
+
+“Oh, we will.” Dana said. “We know a couple of his tricks now, so he'll have to do something new to try and get us the next time he comes around.”
+
+“Ren, it's almost time.” Teepo said.
+
+“It seems I need to go.” Ren said.
+
+“So do we. We can easily finish the quest now, thanks to you.” Dana said. “See you later, Ren.”
+
+Ren nodded and they turned to walk away, and Ren caught Gretchen's hand. “Can I talk to you for a second?”
+
+Dana started to walk away and stopped, saw their clasped hands, then started to slowly walk away and whistle.
+
+“Wh-what is it?” Gretchen asked.
+
+“Just so you know, when Dana kissed me, it was a complete surprise.” Ren said.
+
+“Yeah.” Gretchen said. For me, too.
+
+“It also felt like kissing my sister.” Ren said, and her eyes widened slightly. “I didn't enjoy it at all.”
+
+“But...”
+
+“I saw the look in your eyes and I felt your emotions before you went through the portal.” Ren said and pulled her in close. “Believe me, you do not have to be envious of her.”
+
+“But, I am.” Gretchen said. “Dana has always been confident and did what she wanted.” She said. “I see her do everything boldly and brazenly, and I envy that.”
+
+Ren thought about it for a moment, then gave her a smile. “So, your envy wasn't that she was kissing me, it was because she was bold enough to do it.”
+
+“I... yes.”
+
+“Then don't be envious of her.” Ren said.
+
+“Wh-what?”
+
+“Look, we're friends. We've already established that we can carry on and joke around.”
+
+Gretchen nodded, then smiled slightly. “...and that it's okay for friends to kiss.”
+
+“You can ask, or imply, or even just take one like Dana did.” Ren said. “There's no need to feel envy, because you can do it, too.”
+
+Gretchen took a breath and let it out. “Then...”
+
+Ren took a step up into the air as he leaned forward and kissed her. She caught her breath at the feel of his lips on hers, and her arms snaked around his neck automatically.
+
+“Ren.” Teepo whispered in his ear. “You don't want to be late.”
+
+Ren broke the kiss and he felt Gretchen's disappointment. “I need to go.”
+
+“M-me, too.”
+
+“See you later.” Ren said and Gretchen slid her arms off his neck and down his chest. He took her hand and kissed the back of it, turned away and stored the two recliners, then he and Artemis went into the house. He felt Gretchen walk away and catch up to Dana, then the two of them started to run.
+
+“They are in as much of a hurry as us.” Artemis said as they entered the bedroom.
+
+“Suniva, are you...” Ren started to ask if she wanted to come along, and she had already flown over and sat on his shoulder.
+
+“I guess so.” Suniva said and he laughed.
+
+“Ladies, I'll be back tonight.”
+
+“We eagerly await your return, My King.” Seldanna said and he cast the portal to the underground chamber with the magical barrier. Teepo dissolved into the ring and Ren took Artemis' hand and stepped through the portal. He dismissed it and used the All-Seeing Mirror to check the spawn point in the Fire Realm, then cast the portal to go there. Everlasting Fire gushed out and when the pressure was equalized on both sides, Ren and Artemis stepped through.
+
+Ren saw that Fire Dancer sat on her bed and she was staring intently at the spawn point. “Deity of Fire, we have returned.” He said and bowed to her.
+
+“You were gone for quite a long time, Father.”
+
+“I suspected I would be, that's why I warned you beforehand.” Ren said and summoned Teepo, then cast the spells to make him solid and able to talk.
+
+“So, what did you do there?”
+
+“It was a gathering of Adventurers.” Ren said. “It was a kind of celebration, where we meet and talk, and try to get to know each other better.” He said. “Food was served, some tasks were challenged and conquered, more food, then some stayed to relax for a while before leaving.”
+
+“And it took this long?” Fire Dancer asked.
+
+“Time moves much slower there, Deity of Fire. It was 2 full Earth Realm days, or over 27 years here in the Fire Realm; but for me, I've only been gone for just over 12 hours.” Ren said, and he felt her utter shock. “It might have taken longer; but, even the other Adventurers believed it had gone on much longer than they thought it would.” He said. “I pretty much stayed on the sidelines and watched, because my body is damaged there.”
+
+“You don't have healers?” Fire Dancer asked.
+
+“We do, and I'm under the care of three of the best.” Ren said. “Unfortunately, my regeneration ability is severely lacking and is tremendously slow... especially since I tend to be hurt easily.”
+
+Fire Dancer took in a deep breath and let it out. “What you've said is the truth, and yet I feel that you are hiding something from me.”
+
+“I am, Deity of Fire.” Ren said. “I enjoyed it, despite having to be away from you for so long.” He admitted without hesitation. “I didn't want you to think I want to leave you just so I could go and have fun.”
+
+“Isn't that why you left?” Fire Dancer asked, and he felt her annoyance try to rise.
+
+“Of course not.” Ren said and jumped down to the floor and cast the Permanent Enlarge and Reduce Anything spell on himself 8 times. “I told you that I didn't know what was going to happen until I got there.” He said and did the same thing to Teepo.
+
+Fire Dancer sighed. “How can you lie so convincingly?”
+
+Ren chuckled and held a hand out to her. “You would know it if I lied.” He said, and she looked at his hand. “I hated having to come back here.”
+
+Fire Dancer winced hard from the massive lie, and after a moment, she took his offered hand.
+
+Ren pulled her up off of the bed and into a hug. “I missed you a lot.” He said, and she felt his sincerity and his love.
+
+“You miss others, too.”
+
+“I do.” Ren said. “I miss them a lot, and I haven't seen them for a long time.” He said. “I'm hoping after I have to leave for another 2 Earth Realm days, that will change, and the only one I'll be missing after that, is you.”
+
+“F-father...”
+
+“Yes, Honey?”
+
+“W-why...”
+
+“Because I love you, and I have always regretted not being able to spend time with you.” Ren said. “Even now, it's necessary for me to leave you after so short a stay, and each time it hurts me just as much as it did the first time.”
+
+“Normally, 7 years isn't a short time, except when it comes to you.” Teepo said.
+
+Fire Dancer looked at Teepo and then up slightly into Ren's eyes and knew they hadn't lied. “It hurts me each time, too.”
+
+“I know it does, Honey.” Ren said and kissed her forehead. Her arms went around his waist and she hugged him back.
+
+The next 7 years passed by even quicker than any of them had expected, and then Ren, Teepo, Suniva and Artemis had to leave. They went back to Fire Dancer's bedroom and the spawn point there.
+
+“You don't know how happy I am that you've moved on from openly hating me, to only quietly hating me.” Artemis said to Fire Dancer, who couldn't help but chuckle at the truth in her words.
+
+“Killing a rogue Fire elemental by shooting a Mana Bolt a mile away tends to legitimize your use as a ranged combat specialist.” Ren said.
+
+“Only a little.” Teepo chittered in laughter.
+
+Fire Dancer rolled her eyes at him. “Yes, I know I'm being a pain...”
+
+“It's all right.” Ren said and hugged her. “We all know you resent her because you think she's taking your mother's place in my heart.”
+
+“Wh-what? I don't think that!” Fire Dancer exclaimed and Ren winced a little.
+
+“I said it's all right.” Ren said. “Let me ease your worry, okay?”
+
+“I don't know what you mean.”
+
+Ren smiled and kissed her forehead. “She can never be replaced, because you share the same spot that your mother does in my heart, Deity of Fire.”
+
+Fire Dancer caught her breath at that. He's not lying.
+
+“Just like you will always have a part of her inside of you, I will always have a part of you inside of me.”
+
+“F-father...”
+
+“I love you, Honey.” Ren said. “I'm sorry I have to leave.”
+
+“I'm sorry, too.” Fire Dancer said and let him out of the hug. Ren reduced Teepo and himself to their normal size, then they went to the spawn point building with Suniva and Artemis. They waved to Fire Dancer, and Ren cast the Portal spell to leave. Teepo dissolved into the Beetle Crown ring, then they did the transition to the underground chamber and then to the bedroom.
+
+Once there, Artemis and Suniva settled onto the bed, and he gave them and the succubi a kiss before he summoned Teepo again. Teepo flew up to perch on the ceiling and Ren stood by the wall to log out.
+
+“Logout.”
+
+********
+
+Ren slid off the VR headset and Lisa took it from him.
+
+“Right on time.” Lisa whispered.
+
+“Hey, cutie.” Ren said. “Where's...”
+
+“Shh.” Lisa said and pointed.
+
+Ren lifted his head and saw that Barbara was curled up on the couch and covered in a blanket. “She took my advice.” He whispered. “Good for her.”
+
+“She was up all night and then all day.” Elise whispered.
+
+“Hey, beautiful.” Ren whispered back. “Are you ready to not cuddle with me?”
+
+Elise smiled. “If you can slide over a little, I can at least be a good pillow for you.”
+
+“Good?” Ren whispered and eased himself over. “You're the best pillow.”
+
+“I try.” Elise breathed.
+
+Ren nestled into the crook of her arm and rested his head on her shoulder and part of her breast. “Lisa, I've got a free arm you can hold to your heart's content.”
+
+“I really want to cuddle into you like you are into Elise.” Lisa said and laid down on her side. “Your ribs are still too tender to do that, though.” She wrapped her arms around his arm and held it between her breasts. “This will have to do for now.”
+
+Ren didn't have anywhere to put his hand comfortably, except between her thighs, and when he did slide his hand there, she didn't protest and even opened her legs slightly to let him.
+
+“I love you both so much.” Ren said and his other hand rested on Elise's thigh. “Thank you for loving me back.”
+
+“We didn't have much choice, did we, Lisa?” Elise asked, and Lisa shook her head.
+
+“You're just so awesome.” Lisa said with a smile.
+
+“I was joking when I said that.” Ren said and returned her smile.
+
+“We know.” Lisa said and rubbed her face on his shoulder for a moment, then the three of them relaxed and their breathing evened out. They drifted off to sleep, each in the warm embrace of a loved one.

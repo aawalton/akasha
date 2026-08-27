@@ -1,0 +1,135 @@
+---
+id: 01bde597-fab1-5115-988d-ab7af942fe64
+page-type-slug: story-chapter-royal-road
+title: "179 (III) Councilwoman"
+slug: 0145-179-iii-councilwoman-2726882
+partOf: path-of-the-deathless-book-4-completed
+position: 145
+ownLength: 2227
+unit: words
+publishedAt: 2025-11-02
+link: "https://www.royalroad.com/fiction/122502/path-of-the-deathless-book-3-stubbed/chapter/2726882/179-iii-councilwoman"
+royalRoadId: "2726882"
+---
+
+179 (III)
+
+Councilwoman
+
+“It seems like more than just your own history is repeating, Legend-Councilwoman Chandler.” Stormhalt wheezed as he forced himself back to his feet. Veronica felt a begrudging bit of respect for the man. Despite all his flaws and foolishness, Havel Stormhalt was always a do-or-die kind of Pathbearer. There was no retreat in him, not cowardice or unwillingness to endure humiliation if it got him what he wanted.
+
+Unfortunately, her respect was balanced out by annoyance as he continued speaking. “Roland’s spawn and the Omenborn have decided to echo their parents. The Young Lord cares for Udraal’s abomination. I must ask that you offer me a chance to redeem myself, Legend-Councilwoman. All this—”
+
+“No.”
+
+It was not Veronica that spat those words, but Cripple. Loud clanging followed as Cripple’s Avatar marched across the room. Stormhalt turned away from Veronica and clutched his chest. He did his best to hide a wince as he glared up at a massive automaton. Meanwhile, Cripple stood before Halsur as the two Ascendants faced each other down as well.
+
+“You will do nothing but submit yourself to a cell of my choosing and face judgment for all the wrongs you have committed upon your fellow citizens.”
+
+“My failures are only practical. My actions are virtuous!”
+
+Stormhalt’s snarl enraged something in Cripple. Its divine mana flared. Stormhalt’s lightning surged. Veronica knew what was coming. No amount of Rhetoric was going to stop two very unreasonable gods if they decided to have another brawl in another meeting room over some other bit of stupidity.
+
+“Grandmother,” Veronica said. “Stop them. Before we end up wasting more time. This is pointless.”
+
+Kathereine was as much to blame as Stormhalt or Halsur for the mess they were in, but she was the hardest to deal with. Mainly because she functioned as the peacemaker between most of the Ascendants when she wasn’t personally feuding with the Starhawk herself.
+
+“That’s enough,” the Songbringer sang, her voice spiking the air with calmness and bliss. Both Halsur and Cripple went still as their Avatars staggered to a halt. Stormhalt’s face twitched, and a dopey smile crawled over him even as he tried to fight it. The cargo-automaton Cripple used as an Avatar right now let out a loud sigh and stopped moving.
+
+Both Halsur and Cripple were still raring for a fight, but Kathereine turned her attention to them thereafter. “And should you deny me this decency, I will make you recount dreaded shames past.”
+
+And that did the trick as usual. Another thing Kathereine had over the other Ascendants was her ability to remind them of their ugliest histories. Her songs carried the weight of Psychomancy, Empathy, but also History. What Kathereine could recall, she could make someone else relive.
+
+And there was a great deal that the Ascendants didn’t want to relive, considering the centuries they'd endured.
+
+“I will not let this be,” Cripple said, its voice a reverberating drone. “Not the City Lord. Not you, either, Halsur. And Kathereine, I know your breath was the wind that drove the sails of this madness. This cannot be forgiven. What you have done cannot be undone. Loyal citizens lay dead because of you. A town has been—”
+
+“Destroyed because of the foul actions of a vengeful Abyssal Lord,” Kathereine finished, placing the back of her hand on her head.
+
+“One that you aided!” Cripple snarled.
+
+“Such accusations!” Kathereine clutched her chest in mock offense. “This will require proof, and you have none. I demand you recant these disingenuous assertions, Cripple. I understand that you are emotionally unbalanced from losing another one of your dear Avatars, but I will not endure such slander.”
+
+“You—”
+
+“Enough,” Veronica said. And now it was time for her to counteract her grandmother. “Whatever happened, we will face together, as the mature, focused, and capable leaders of this great Republic. And that means finding Young Lord Arrow, recapturing him, recapturing the Deathless, and securing this prison before we form a proper after-action discovery committee. No more accusations now. Or provocations. Now we all listen.”
+
+Cripple wanted to say something, but she intercepted its grievance. “Cripple. I know. Later. I promise.”
+
+Veronica felt the weight of her own Rhetoric impact her own soul as she shuddered. Legendary promises were terrible things to break. Terrible enough that they might just kill her if she did. And that’s also why Cripple let it go for now. Because it knew she was serious.
+
+Kathereine tutted. “You must stop using yourself as a pawn, granddaughter.”
+
+“Your fault, not mine,” Veronica shot back. Now. With everyone present and the stupidity mostly contained, she took in a breath and began strategizing. “Okay. The breakout has mostly been contained to the Nadir, correct? Cripple. Report on the current situation.”
+
+“We are fighting to regain control of the Zeroth and Zenith Cubes. At present, there are over forty Legendary-Tier prisoners still unaccounted for.”
+
+“And my vessel?” Enoch’s voice suddenly crashed out from Luminous Lantern like a collapsing building. “Where is the Rebis?”
+
+Cripple hesitated. “Unaccounted for, at present. The prototype was present at—”
+
+“It cut me!” Daughter interrupted with a loud cry. “It tried to sting me! It was helping the… the…” The Daughter actually radiated with fear and stopped herself from saying the Deathless’s name. She shot across the room and splashed back into her Waif. Soon, she was enjoying the comforting arms of her mother’s Avatar once more.
+
+“Unacceptable,” Enoch declared. “A great deal of investment and effort has gone toward creating the vessel. We must reclaim it.”
+
+“Your stabilized Avatar is a secondary matter before more pressing concerns,” Longinus said with a sneer. “Why, if you hadn’t attempted your little ritual before we fully understood how it worked, you wouldn’t be in this situation. Once more, we have to subsidize the folly of our most impotent members.”
+
+“What do you know of competence, drunkard?” Enoch snarled. “All you do is wander from place to place, scribbling routes on pages, burning your divinity away in taverns, brothels, and other dens of pleasure. Places built through my blueprints, from my teachings.”
+
+“Right. Your teachings. The teachings you managed to hallucinate all on your own—after the Great One served as your level scaffold.” Longinus scoffed. “Let’s not all lie to ourselves here, we know what we are. Some are just more honest than the others. I can accept the lie, unlike Matthew. Do not mistake me for that broken wretch. But still, why deny what we are? Is it not a triumph in itself to take from something mighty as well?”
+
+“It would be more of a triumph if we could stay on track,” Veronica added with practiced ease. “Enoch. We will try to reclaim your Rebis if we can. Longinus. Please.”
+
+“Fine,” the Wanderer said, sighing. “I will play the mute so that Enoch is spared the role of whimpering wench.”
+
+“Thank you,” Veronica said. You over-sexed snake-fetish-having manchild. She didn’t say the last part, but she always thought it. “Whatever the case, we have a few mysteries to solve. The first being why Pathbearer Bethany broke Young Lord Adam out of his cell. Then, where did he go? After that, how do we get him back? My personal answer is that Bethany is likely compromised—or was an agent of Aviary—for the first.”
+
+Several Ascendants turned to glare at Cripple. Even though this wasn’t really its fault at all. The recruitment for the Rubix Well was done by a specific department in the Prismatic Guard. And Cripple wasn’t the only one to miss the fact that there were Aviary agents in their midst. That applied to all the other Ascendants and their Avatars as well.
+
+Rule one of politics. Veronica sighed internally. Cover my ass, and everyone else be damned.
+
+“If that is true, then we likely have an entire cell under our noses,” she noted.
+
+“I will see them found and delivered to the light,” a new voice proclaimed. Harlem the Truthful’s Avatar was a young man clad in pure-white plate, the same color as his hair. Whatever name he'd once had was lost to the purifying fires of the absolute truth burning behind his eyes. A rusted shackle ran along his arm, binding him to his dark-armored twin—and fellow Avatar. The latter served Dollus the Deceiver, the supposed thirteenth of the Ascendants.
+
+Veronica knew a bit more than most, but there were other things about Dollus that bothered her. Mainly, she wasn’t sure if he actually existed at all, or if he was just a split personality of Harlem himself. She never really heard Dollus speak, after all. And Harlem operated in whispers and hints, usually visible only in someone’s peripheral vision. Even now, she could only see Harlem lurking, with no sign of his criminal twin.
+
+“Very good,” Veronica said. “We will secure Young Lord Adam’s last known position and let Harlem take charge of the scene.”
+
+“I will assist the Truthful,” Harlock spoke through Anthony. “The rats of Aviary dwell in darkness. I will see it turned against them.”
+
+“Then I will proceed to the cube first,” Cripple declared. “To ensure all threats are pacified.”
+
+“Not alone,” Veronica cut in. Cripple turned its single eye on her, but she refused to bend. “You said the Deathless caught you off guard with his Unique Skill last time. That’s not going to happen again. We do things as a Council and a pantheon now. No more independent operations. We treat this matter like how we dealt with the Tarrasque.”
+
+“Beating the hells out of the thing until it's stunned enough for us to fling it at the Southern Continent?” Longinus jested.
+
+“Dealing with it together. As a collective. Making sure we cover for each other’s mistakes,” Veronica answered. “The Deathless will be coming for his friend. And we will take advantage of that. But it’s time to stop treating him like a side note. His capture is not assured. We are not in control of the situation right now, and the longer we refuse to face these facts, the faster the situation might spiral. Right now, he could be anywhere in the prison, and from what we know about his Outside Context Problem, tracking him is hard, but trapping him is reliable. We just need a lure.”
+
+“And I suspect Aviary is going for the very same strategy,” Kathereine mused.
+
+That sent a rush of coldness through Veronica. “Very likely. I think they wish to learn the same things as we: Why the system wants the Deathless dead, how he was made, and how to create more of him.” Her eyes fell on Daughter. “Make no mistake, he is worth far more alive than dead. Especially if we can get him to bestow his path on our chosen candidates. Or have him lend his extreme System-favored status to all of us. I don’t know about the rest of you, but I have a hard time remembering the last time I gained a level in any skill.”
+
+The other Avatars present shuffled in place, and she knew she had them. “So. I will be the one that makes contact with him. Not because of distrust, but because of means, methods, and outcomes. From what we know of our Deathless, he has a Legendary Skill now that allows him to contend with an Ascendant in a direct confrontation and rip through Orichalcum and magic in equal measure. But he lacks proper social defenses. And so we will use that to pacify him.”
+
+“Putting yourself in place to be the one that claims him, I see,” Charity muttered off to the side as she chuckled.
+
+“Yes,” Veronica replied, unashamed. “Because I am most suited for the task. And we cannot risk letting him slip our chains any further. I know what you all suspect about my relations to him, what you don’t say openly but hint at with your words and eyes. I turn this around on you and ask: Do you think you can stop him with your words? Because I can. I can make this simple and direct. So. Yes. It will be me.”
+
+The room fell silent. No further comments assailed Veronica. She almost sneered in triumph. Despite everything, Kathereine looked upon her with the faintest hint of pride.
+
+“We work together, and we do this properly. Together. As one. Now. I cede my chair to you, Harlem. Direct us as you may, and let’s find our missing Young Lord, shall we?”
+
+The Ascendant acknowledged her words and called out to Harlock and Cripple. As the room broke apart into subfactions among Avatars and Ascendants, Kathereine drifted closer to her granddaughter.
+
+“Tell me,” Kathereine began. “Is he ours? Because if he is… I don’t really want to do anything wretched to our bloodline.”
+
+The thought was disgusting enough. “He’s already too young for you, regardless, grandmother.”
+
+The Ascendant smiled. “Oh, that’s not up to you. Or him. But it might be up to our blood.”
+
+Veronica didn’t. “You. Do. Nothing. Until. I. Have. Him.”
+
+“Don’t worry, dear girl.” Kathereine laughed softly. “I’ll let you relive your original sin. And when you are done, when you find yourself hurt once more, I will take him from you. As it goes. As it has always been.”
+
+And in that moment, Veronica quietly begged that she wasn’t Tanner Lowe’s grandmother after all.

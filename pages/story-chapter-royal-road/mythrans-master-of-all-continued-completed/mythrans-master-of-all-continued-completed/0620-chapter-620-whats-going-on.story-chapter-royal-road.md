@@ -1,0 +1,239 @@
+---
+id: 67e882ee-690e-5e5c-940a-bbf41eb5d131
+page-type-slug: story-chapter-royal-road
+title: "Chapter 620 - What's Going On"
+slug: 0620-chapter-620-whats-going-on
+partOf: mythrans-master-of-all-continued-completed
+position: 620
+ownLength: 2799
+unit: words
+publishedAt: 2018-06-26
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/227966/chapter-620-whats-going-on"
+royalRoadId: "227966"
+---
+
+Tristan reached into his cloak and Ren leaped forward through the air.
+
+“STOP!” Issac yelled.
+
+Both of them froze as the magic of the shop held them in place. Tristan had his hand on his sword hilt and Ren was caught in mid-air. Artemis was stuck in her attack posture as well.
+
+Issac sighed and shook his head. “Ren, I thought you were better than this.”
+
+“Me?” Ren asked. “He was going for his sword!”
+
+“That doesn't matter.” Issac said.
+
+“Yes it does! You're standing right in the arc of his swing!” Ren said. “I was trying to stop him!”
+
+Issac looked down and saw that he really would have been caught by the blade if Tristan had successfully drawn the sword from its sheath.
+
+“Unfortunately, that doesn't matter. I can have you both barred for fighting on the premises.”
+
+“I wasn't going to fight.” Ren said. “Turn around.”
+
+Issac turned to look and saw a portal was right behind Tristan.
+
+“Now look at my hands.” Ren said, and Issac turned and looked. He saw that Ren's hands were splayed out as if to push something, and they weren't made into fists or held a weapon.
+
+“What if he dodged?” Issac asked and Ren dropped the Illusion spell and showed the second portal beside Tristan. “That's impressive, especially without a wand.”
+
+“I cast them as soon as I heard his voice and covered them with Illusions.” Ren said and dismissed both portals. “I assumed he would try something and wanted a quick way to get rid of him.”
+
+“I'm standing right here.” Tristan said angrily, as they talked about him and ignored him.
+
+“Since nothing actually happened, I can let you off with a warning.” Issac said. “The next time anything like this happens, you will be barred.” He said. “That goes for you as well, Tristan.”
+
+Tristan smiled evilly again. “That means I can attack Ren and he gets kicked out permanently, too.”
+
+“That's not what I said.”
+
+“It's what you mean.” Tristan responded. “It amounts to the same thing. If he's involved in a fight, even defending himself, he'll be barred.”
+
+Issac sighed. “You twist my words, but yes. No conflict is to happen, regardless of the circumstances.”
+
+“Then stop wasting time.” Ren said, and Tristan and Issac looked at him with wide eyes. “You know what he's like.”
+
+“He's a regular customer and buys expensive items.” Issac said. “He also behaves himself and challenges me to come up with new ways to do things.”
+
+“Yeah, pipsqueak.” Tristan sneered. “It was all going fine until you showed up.”
+
+“You were going to attack me!” Ren said.
+
+“You equipped that fancy armor while we were just taking.” Tristan said and let a grin spread across his face. “I figured I had to defend myself from your aggression.”
+
+Ren clamped his mouth shut and didn't respond, because by an outside observer, namely Issac, it did look like an aggressive move. It didn't matter what kind of history Ren and Tristan had with each other.
+
+“Ren, please wait outside while I deal with this customer.” Issac said calmly.
+
+Ren nodded, and the magic let him go. He used his Air Walk so he wouldn't fall to the floor, and Issac stared at Ren as he turned around in mid-air and walked back over to the front door without touching the floor.
+
+“Have fun waiting your turn.” Tristan said and laughed, and Ren took Artemis' hand and left the shop.
+
+“That wasn't fair at all.” Suniva and Teepo said at the same time, and she laughed while he chittered.
+
+“No, I think it was.” Ren said as he equipped his blue suit and took out two comfy chairs, then he and Artemis sat down right in front of the shop, but out of view of the front window. “Look at what happened from Issac's perspective.”
+
+Suniva, Teepo and Artemis were quiet while they thought about that.
+
+“I suppose we did come off as aggressive.” Artemis reluctantly admitted a few moments later.
+
+“I've gotten so used to just reacting to things, that I haven't even considered other people's perspectives.” Ren said.
+
+“Like you have time to do that.” Teepo said. “You barely have time to consider your own perspective!”
+
+Ren smiled. “Yeah, it's been hectic, even though I'm supposed to be relaxing right now.”
+
+“I can help you relax.” Suniva whispered in his ear and licked it. She was in the perfect position to do that, since she sat on his shoulder.
+
+“That's... not quite... relaxing.” Ren said.
+
+“Are you sure?” Suniva asked and kissed his ear, and used her small hands to caress his earlobe.
+
+“Pretty... sure.” Ren said and then had an idea. “Let's move around to the side of the building.”
+
+They stood up and he stored the two chairs, and he led Artemis out of sight of the street, then cast two iron walls to cut off the ends of the alleyway and cast Full Illusion on the whole alleyway to make the iron walls look like 4 foot tall fences and nothing at all was in the alley.
+
+“It looks like you're trying to hide-Mmm.” Artemis' words were cut off as Ren kissed her.
+
+“Hey! Me, too!” Suniva said in his ear.
+
+Ren broke the kiss and she hopped off his shoulder, and he cast Permanent Enlarge or Reduce Anything on her twice to make her grow from 1 foot tall to 4 feet tall. He didn't wait for her to adjust to the new height before he kissed her passionately. She moaned, despite trying to hold it in, because he hadn't kissed her like that before.
+
+“Is that better?” Ren asked.
+
+“Heavens, yes.” Suniva said with her head ducked slightly, as if she were shy, and he saw her smouldering eyes as she looked back at him.
+
+“I hope you're ready for this.” Ren said, and her eyes widened.
+
+“F-for w-what?”
+
+“Tristan pisses me off, and he's going to make me wait for as long as he can, which pisses me off more.” Ren said. “Since I can't fight, I need another outlet for this anger.”
+
+“Wh-what are... you going to do?” Suniva asked, and instead of answering, Ren tugged on her clothing.
+
+“Store them or fade them away.” Ren said and looked at Artemis. “On your knees, please.”
+
+“My pleasure.” Artemis smiled demurely and knelt in front of him, then undid his pants.
+
+“You... you can't think about... we're outside... and...” Suniva tried to explain that she wasn't comfortable doing something out in the open, and then Ren cupped both sides of her face.
+
+“We're completely hidden from any view with the Full Illusion spell, and the walls will stop anyone from wandering into the alley.” Ren said and leaned close to give her a gentle kiss. She didn't say anything, but her clothing faded away to leave her nude before him. He smiled and lifted her up enough to nuzzle her breasts and rest her against the wall, and her body temperature tripled in seconds.
+
+Ren stopped and looked at her face, and he saw no protest there, so he changed his grip on her and lifted her way up, then hooked his arms under her legs to expose her and licked her special place. Suniva gasped and made that little 'o' of surprise with her mouth as her Fire burst from her and spread out over the alleyway, then it crawled up the wall of the building Ren held her against. She couldn't keep it in check as he used his mouth on her, and she moaned as she looked down at him pleasing her.
+
+Artemis had waited until Ren started to pleasure Suniva before she started to please him. She knew that he didn't want to be distracted, so she didn't go all out on him like she usually did. Not only would he last a lot longer, but he would be able to work out his frustrations as well.
+
+********
+
+A lot of people had set their cell phones to receive messages when the notice for the game updating appeared. It didn't take long for word to spread that the game was back online after that, though. When the message board and main site went back online, nearly everyone who played had already known that the game was available to be played once more.
+
+*
+
+“It's back up.” Alice whispered when she checked her cell phone for messages during her lunch break. She closed her eyes for a moment and took in a small breath, then opened her eyes and smiled sweetly. I can't wait to get home.
+
+The rest of her day was going to pass by quickly, now that she was in a much better mood.
+
+Jennifer is going to have fun tonight. Alice thought happily.
+
+*
+
+Clint's cell phone beeped at him and he tossed another bale of hay down from the hay loft to the floor of the barn. He wiped his forehead with a rag and slipped off his work gloves, then pulled out his phone.
+
+“Abou' time.” Clint said and saw the game notice that it was back online. “Ah wuz geetin' worried it migh' stay down fer a while.” He said and checked his other messages, then smiled when he received one from the system administrator he had dated a couple of times. “Ah reckon ah could do with a break this aftanoon.”
+
+Her message had asked him if he wanted a date that afternoon, and Clint typed up a response and sent it. He was surprised that he received a reply instantly and read it. He rubbed his chin and thought about what it could mean, then typed a response and sent it. He didn't get a response right away, and he wondered if his own quick response had been a bit too eager. His phone beeped and he read the message and smiled.
+
+“Looks like ah'm gonna need a shower right now if ah'm gonna make tha' rendezvous.” Clint said and sent her back a thumbs up gesture to show he agreed, and she sent back a little heart. He chuckled, put his cell phone away, and climbed down the ladder. “Ah shore hope this ain' a mistake.”
+
+*
+
+Tommy was carrying yet another couch out of the moving van when his phone beeped at him. He ignored it and kept working until lunchtime, then sat down on a random chair to eat his bag lunch and checked his phone. The message was from Dillon, and he said that the game was back online.
+
+“Thank god.” Tommy said.
+
+“What was that?” His father asked from the front seat of the moving van where he was eatng his own bag lunch.
+
+“Prostitutes 'R' Us is now in full operation, and they're giving out free samples!” Tommy said, and his father laughed.
+
+“Tell them to send over a dozen.”
+
+“Geez, dad!” Tommy shook his head. “What would mom say?”
+
+“Never make an expensive purchase until you fully test the merchandise.” His father said.
+
+Tommy couldn't help but laugh, because his mom said that all the time.
+
+“What was it really?”
+
+“The game's back up.” Tommy said.
+
+“Damn. Your mother's not going to be happy.”
+
+“What? Why?”
+
+“She hates that anti-grandchild machine.” His father said and laughed. “She'll never have a little bundle of joy to fawn over if you keep having sex without consequences!”
+
+Tommy laughed, a little uncomfortably. He felt guilty because he and Jaime hadn't used the game as a pregnancy deterrent the night before. They had both been caught up in the moment... several times in fact... and then again this morning. He wasn't sure why it felt better in real life, since they had done the research and discovered it was supposed to be the exact same.
+
+Tommy ignored that part and concentrated on the scary part. If his mother knew he and his girlfriend had unprotected sex, he would never hear the end of it. Not in the 'you can't do that' anger most parents seem to have, but in the 'you better keep doing it' anger she had. The longer he and his girlfriend were together, the more angry his mother seemed to become about it. They were almost at the point that they were going to stop visiting for supper every week, just so she would stop with the pressure.
+
+“Say, are you two coming over to eat on Saturday?” His father asked.
+
+“Uh, I don't know.” Tommy said. “Jaime might need to work.”
+
+His father shrugged. “I'd say let us know, but you know your mom. She'll make enough whether you show up or not.”
+
+“Yeah.” Tommy said and picked up his sandwich. He missed having her home-cooked meals 7 days a week, since it was so much easier to have someone else do it. Jaime is trying her best to do the same thing; but, it's hard if you don't have a lot of experience doing it on your own. He thought and smiled. We do have fun trying to cook together on Wednesdays, though.
+
+“Don't just stare at it.” His father said, and Tommy turned to see him leaning out of the van. “We've got two more loads after this one before the Henderson job is done.”
+
+“Right, dad.” Tommy said and took a big bite of the sandwich and took a drink of soda.
+
+*
+
+“Oh, my god! I did it!” Gwendolyn the system administrator said and looked at Clint's response on her cell phone. “He said yes!”
+
+“Way to go.” Jaime said from the computer monitor. Unlike the guys, who barely talked to each other during the week, Jaime and Gwendolyn had been texting and video chatting every chance they could since they met.
+
+“Thanks for the advice.” Gwendolyn said, then all the color drained from her face. “Oh, no! What am I going to wear?”
+
+“Turn the camera enough to show me the closet and I can help you.” Jaime said.
+
+“Thank you!” Gwendolyn said and kissed her fingertips and held them towards the camera.
+
+Jaime chuckled. “You better hurry up.” She said. “I've only got 20 minutes left of my lunch break.”
+
+“AHH!” Gwendolyn yelped and jumped up, banged her knee on her desk, then tumbled backwards over her chair and onto the floor. “Ow! Ow! Ow!” She nearly yelled and could hear Jaime's hysterical laughter from her computer.
+
+********
+
+I hope the little bastard is bored senseless waiting. Tristan thought in amusement. “I'm glad you were able to make two gauntlets for me this time.” He said to Issac, who only nodded. “I've been having trouble with this quest I'm on, and I need the extra boosts.”
+
+“I'm glad I could help.” Issac said tonelessly and Tristan paid for the items. “What else can I help you with?”
+
+“That depends.” Tristan said. “Do you have anything that can strike at long range, without me having long range abilities?”
+
+“Hmm. That's a tough one.” Issac said. “Is there a specific target you had in mind?”
+
+“Ghouls.” Tristan said and smiled. “I just came from the capital and the outlying districts still have soldiers fighting them.”
+
+“Yes, that was a terrible thing to have happen.” Issac said. “I'm so glad we never had anything come this way.”
+
+Tristan nodded. “I would have been back to buy things sooner if I wasn't so busy.”
+
+Issac smiled, because he assumed Tristan had been fighting the ghouls because of that statement. He couldn't have been farther from the truth, and Tristan had worded things specifically that way on purpose.
+
+“So, do you have anything?” Tristan asked. “It doesn't even really need to be offensive or do damage.” He said. “Maybe just a trap, or bindings that will hold long enough for me to get close and finish them off.”
+
+“Let me go and check the back.” Issac said. “I'm sure I have something that you can use.”
+
+“Thanks, Issac.” Tristan said. “I'll just have a look around and see what else you have.”
+
+“You can look all you want, but don't touch anything.” Issac warned.
+
+Tristan laughed. “I won't forget what happened the first time I was in here, so don't worry.”
+
+Issac nodded and went into his back room, and Tristan turned around and looked at all of the things scattered around. They were all antiques, or appeared to be antiques, and he knew some were pure illusions and some were just made to look old. There were a couple that were genuinely old and run down, however.
+
+Tristan marked them mentally and waited patiently for Issac to return. Yeah, I'm going to make you wait for a long time, you pipsqueak. He thought and smiled. Issac is going to be sick of people asking questions about everything by the time I'm done.

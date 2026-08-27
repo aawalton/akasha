@@ -1,0 +1,281 @@
+---
+id: 70960156-d8db-58f9-9583-f7a6fe747329
+page-type-slug: story-chapter-royal-road
+title: "Chapter 624 - Task Complete"
+slug: 0624-chapter-624-task-complete
+partOf: mythrans-master-of-all-continued-completed
+position: 624
+ownLength: 3155
+unit: words
+publishedAt: 2018-06-30
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/229220/chapter-624-task-complete"
+royalRoadId: "229220"
+---
+
+While everyone was quiet and thought about the implications of what the Portal Gate would mean, Ren used Double Infusion and added a glyph that contained his Maker's Mark combined with Protection and Durability runes. With that done, he took out the All-Seeing Mirror and checked the next location. He cast the Portal Spell and stored the mirror, then took the hand of both Artemis and Lara while Teepo dissolved into the Beetle Crown ring.
+
+“Let's go.” Ren said and pulled them through the portal. They were now in the capital city of the Human Kingdom called Bore-Reale, and Ren summoned Teepo again. Now that he had the recipe for the columns, he just activated his Craft Wondrous Item ability and made three more, set the base of paving stones down, and assembled it and covered it in cement. He used the half-circle mold again and mounted it on top, then used his abilities to dry it.
+
+Ren opened the Portal Gate recipe and added the 10,000 Mana and gold needed to activate it. Once again, his work garnered a lot of attention, and since it was the capital, there were a lot more people in this town square and a huge crowd gathered. When the map of the country appeared, the dot and name of Bore-Reale appeared on it in the proper spot, then a smaller dot with Aurora appeared in it's proper location. Gasps were heard when some of the townspeople realized what it meant, and Ren used Double Infusion to add the glyph with his Maker's Mark and the Protection and Durability runes.
+
+“Is that for real?” Someone asked. “We can travel that far by just stepping through?”
+
+“At the moment.” Ren said. “When I add more, you can choose from a list where you want to go.”
+
+“You're adding more?” Someone else asked.
+
+“One in every town square in the country.” Ren said, and everyone fell silent. He chuckled and took out the All-Seeing Mirror and checked the next town square he wanted to go to.
+
+“But... but you're a Sea Dweller!” Someone exclaimed. “Why are you doing this?”
+
+“I've already made you all recognize me.” Ren said. “Now it's time to show you what I can do.”
+
+*
+
+The people gathered watched as he cast a Portal spell and he and his two companions stepped through it and disappeared. Barely a minute passed and another small dot appeared near the others on the map, and the main port city called Braddock was added to the Portal Gate. More people gathered and watched as new dots appeared and each town and city was added to the Portal Gate.
+
+“He's really doing it.” Someone said with awe in their voice. “He's connecting all of the town squares!”
+
+*
+
+Since there were a lot of cities and towns scattered across the countryside, even with only needing a few minutes to make each gate and adding it to the Portal Gate, it still took several hours for Ren to finish. The last one he made he put inside the human starter city that he had made in his county. A dot appeared in the right spot, but no name appeared.
+
+“Huh, I guess people need to be here to name it.” Ren said, then he received a popup.
+
+Notice!
+
+You have completed the first ever Portal Gate Network. All cities and towns in the entire country are now easily accessible by all citizens. Since such a task takes so long to complete, you have been awarded extra compensation for travelling so far.
+
+Rewards: 12,000 XP
+
+Fame 5,000
+
+Travel Bonus: 50 platinum coins
+
+Notice!
+
+Do you wish to set a toll for using the Portal Network? Yes / No
+
+“Yes.” Ren said and another popup appeared.
+
+Toll Price
+
+Please choose the amount you wish to charge:
+
+1 copper coin  1 silver coin  1 gold coin  1 platinum coin
+
+1 Shadow Marker  State a different price
+
+Oho! Ren thought in surprise. Instead of saying it out loud, he opened a virtual keyboard and selected the 1 copper coin option and the Shadow Marker option, so that either could be used to enter the Portal Gate. He didn't think anyone would be stupid enough to actually use a Shadow Marker; but, having the option available was just too good of an opportunity to pass up.
+
+Ren closed the keyboard and dismissed the popups, then felt someone enter his Aura. He felt the person's surprise and then felt their happiness, and Ren used his Heat Sense ability to follow them all the way to the large set of doors of the city. There were hundreds of others in his Aura by the time the doors opened to admit that first person, and Ren stood there and waited for them to approach. He felt their shock and awe as they looked around, and they realized they really did have an entire city for themselves to live in.
+
+“I was doubtful and didn't really believe you did it.” The woman at the head of the group said. “I mean, I knew you weren't lying, but I thought you were exaggerating.”
+
+“Welcome to your new home, Valercia.” Ren said and gave her a regal bow.
+
+Valercia's face flushed slightly red at the gesture, and she felt a little flustered. “T-thank you, My Lord... ah, My King.”
+
+Ren smiled at the correction. “What shall this city's name be?”
+
+“Wh-what?”
+
+“You can't live in a city with no name.” Ren said. “Surely you have thought of something by now.”
+
+“I... I didn't think...”
+
+“I did tell you it was a new starter city.” Ren looked at the old soldier standing next to her. “It's nice to see you again, sir.”
+
+Valercia's father laughed. “You've got a good sense of humor calling me 'sir'.”
+
+Ren chuckled. “The woman I left in your care, how is she?”
+
+“My future wife is right here.” The old man said and stepped away from the crowd and helped a woman step down from a cart. The woman Ren and Artemis had rescued, the very last ghoul infected to be healed and the last survivor of her town, looked positively radiant at the man helping her.
+
+“It's a pleasure to see you again.” Ren said and bowed to her when she was on solid ground.
+
+She peered down her nose at him, then sighed. “Yes, I suppose I am a pleasure for you to see.”
+
+The older man laughed. “Isn't she wonderful?”
+
+Ren grinned and nodded. “I'm happy that you're happy.”
+
+People walked by them in droves as they moved down the streets and found places to live and businesses to claim. Ren hadn't seen so many people all at once, and it was quite a sight. It gave him a mental twinge when he realized he was completely surrounded by people, and rather than stay there to have a panic attack, he took several steps up into the air and rose above them all. He took several deep breaths and calmed down, and looked at Valercia.
+
+“When you decide on the name of the city, it will appear on the Portal Gate.” Ren said and pointed.
+
+Valercia gasped as she saw the map of the country with all the places on it. “It... it can't be!”
+
+“I only gained the recipe for it recently, long after you and the others started travelling.”
+
+“I don't care about that!” Valercia said. “This is going to revolutionize travel! Even product deliveries!”
+
+“Especially troop deployments.” Ren said, and she gasped, as did several hundred people around them.
+
+“Oh, my god!” Someone almost screamed. “We could be taken over at any time!”
+
+Ren concentrated on his Reassurance Aura and calmness. “Don't worry about that.”
+
+“But you just gave troops an easy way inside every town and city in the country!”
+
+“Yes, I did.” Ren said. “But the same problem applies to them.” He felt that realization spread through them, and they relaxed.
+
+“Mutually assured destruction.” Lara said and smiled, and Ren nodded.
+
+“They won't attack through the Portal Gate because others will attack them back.” Ren said and looked at the people around the town square. “So rest assured, you are all safe in your homes.”
+
+“Plus, we are all much stronger now.” Valercia said. “We can take any normal soldiers that show up.”
+
+Ren felt doubt from a lot of people. “It's all right. This city has self-contained Healing, Regeneration, Protection, and a few other things to keep you all happy and healthy.” He said. “No one is going to come in here and mess with you.” He smiled and bared his teeth. “If someone does try something, they will regret it.”
+
+Once they heard they had regeneration and protection boosts, they all relaxed and spread out. Ren walked back down to the ground and Valercia stepped over to him.
+
+“Thank you for that.”
+
+“You're the one that's going to be running the place.” Ren said. “I'll fill you in on everything the city has.”
+
+“I didn't see any farmland outside.” Valercia's father said.
+
+“That's because it's under the city.” Ren said and pointed to the closest stairway access. “There are sun access tunnels and stairways scattered all over the city, and I'll have someone come over to teach you how to use the farm vehicles.”
+
+“Farm what?” The older man asked.
+
+“Specialized carts that I designed to help people farm anything they want.” Ren said and looked at Valercia. “Do you want to find your father a place to live first or go to your office?”
+
+“What about a place for me to live?” Valercia asked.
+
+“That's where your office is.” Ren said and waved down the street. “You might recognize the building.”
+
+Valercia looked where he indicated and saw a duplicate of the mansion that was in the center of all major cities. “I'm living there?!?” She asked, surprised.
+
+“The rulers are supposed to live in the mansion.” Ren said. “Shall we head there and discuss the features of the city?”
+
+“I... Ren, this is... it's a lot to take in.”
+
+Ren chuckled. “All right. I'll give you some time to settle in and then come back to talk.” He said. “Probably tomorrow.”
+
+Valercia nodded. “Dad, can you get the cart?”
+
+“Of course.” The older man said and looked at the short woman on his arm. “May I assist you back into the cart, M'lady?”
+
+“Please do.” She said and smiled at him.
+
+I'm glad she's working on her man hatred. Ren thought. I guess he showed her that not all men are useless. “Have a good day.”
+
+“You as well.” Valercia said and held a hand out. Ren took it and started to shake it, then the Ghoul Kissed mark on his hand throbbed. Valercia took in a sharp breath as the one above her heart throbbed as well. Ren let her hand go and she quickly walked away without saying anything, and her father lead the cart behind her.
+
+“What was that?” Lara asked. “She left pretty fast.”
+
+“I don't know.” Ren said and rubbed his right hand. “Something happened when we touched just then.”
+
+“A good something or a bad something?”
+
+“You tell me.” Ren said and held his hand out to her. “Assuming you're allowed.”
+
+Lara took his hand and her eyes glazed over for a second. “It could be both.”
+
+“Thanks.” Ren chuckled. “Now, I have another question.”
+
+“Yes, you should mention the problem with Teepo and Artemis to Elise.” Lara said without closing her eyes. “You are also right to stay away from the maids. If you go around them now, you will undo the temporary patch.”
+
+Ren sighed. “That's what I was worried about.”
+
+Lara nodded. “I know.” She said, then smiled wistfully. “We are so close to the Sanctuary, but you can't go over there because of that.”
+
+Ren thought about it for a second, then smiled. “I don't have to go over there.”
+
+“What?” Lara asked. “Are you going to make another one?”
+
+“No. The Sanctuary stops effects from leaving it, so I don't have to worry about my Aura affecting anyone nearby.” Ren said and cast the Portal spell. “Care to join me for a little alone time?”
+
+Lara beamed a smile at him and took his hand. Teepo dissolved into the ring and Ren took Artemis' hand with his free one, then stepped through the portal and into the Sanctuary.
+
+*
+
+Artemis did her best to avoid looking at and feeling Ren and Lara's emotions while they were intimate; but after the first week, she couldn't help herself and started to watch and enjoy it. Ren hadn't ignored her, or treated her like she wasn't there. He hugged and kissed her at random times during the day, just as he did with Lara. At night, though... she had her own bed to sleep in. By the end of the second week, Lara had had enough of Artemis' quiet suffering.
+
+“Ren, you have to forgive her.” Lara said as she cuddled him and watched what he was doing.
+
+“No.” Ren said and flipped the next page in the inventory book and read the first recipe, which was the Conch Shell of Poseidon, then flipped through Issac's Book of Runes to find the proper glyph references to make it.
+
+“It's hard enough on her that she can't hear your thoughts.”
+
+Ren sighed. “I know I'm being an ass, but I can't help it.” He said. “I made her to help me, and she turned on me without a second thought.”
+
+“I saw what happened.” Lara said. “Your finger was on the listing for the evil item.”
+
+“Yes, it was on it.” Ren explained. “It was also right under the other one.”
+
+“At least she thought about stopping Teepo.” Lara said.
+
+“Yeah, and how much of a surprise was that?” Ren asked and rubbed the spot that his friend had stabbed him. “I can still feel it, you know.”
+
+“I know.” Lara said and moved his hand, then kissed the spot. “You're fixated on it.”
+
+“I don't know why he would do that.” Ren said sadly. “We've been through so much together, and yet the instant he thought I might do something bad, he turned on me.”
+
+“He thought he was stopping you from making a mistake.”
+
+“Yes, but that's what's bothering me.” Ren said. “He could have just hollered, or jumped on the page, or even skittered across my eyes and stopped me from looking.” He said. “He didn't have to paralyze me for 10 minutes.”
+
+Lara turned his head to face her and kissed him softly. It was gentle and comforting, and he sighed into her mouth. “You are being an ass about it, but it's understandable.” She said and rested her head on his shoulder. “People you care about always hurt you the most.”
+
+Ren nodded. “That reminds me. When is your mother coming over for a visit?”
+
+“That reminded you?” Lara chuckled. “Tomorrow night, real time.”
+
+“That's good.” Ren said. “I was worried you would have saved it for the weekend or something.”
+
+“With everything else happening this weekend?” Lara asked. “No, having it Thursday night is the best option.”
+
+“I hope she doesn't expect too much of me.” Ren said.
+
+Lara smiled. “Surprisingly enough, I haven't told her anything about you.”
+
+Ren stopped looking at the books in front of him and looked at her. “Are you serious?”
+
+“I've only been home twice since I moved in, and both times, you were not the topic of conversation.”
+
+“Oh, wow.” Ren said. “Lisa...”
+
+Lara shivered as he used her real name. It always tickled something in her brain when he did that.
+
+“...you can't just toss your mother into the deep end like that.”
+
+Lara chuckled. “She sprung a lot of things on me over the years, Ren. It's about time I paid her back.”
+
+“Lisa...”
+
+“Please, go along with this.” Lara said. “It's going to be such a surprise for her.”
+
+Ren sighed. “Will it be a good surprise or a bad one?”
+
+“I don't know!” Lara said and laughed. “Isn't that great?”
+
+Ren felt her happiness and gave her a quick kiss. “Whatever makes you happy.”
+
+“Thank you.” Lara said and kissed him again, then she watched him continue to work. After another hour, she let her curiosity about something get the better of her. “Ren, why don't you read all of the glyphs in Issac's Book of Runes and then read the recipes?”
+
+“I don't want his runes and glyphs to mix with the same things I can do.” Ren said. “I'm only looking up specific glyphs for the recipes and not their rune components, at least until I find one that I don't know.”
+
+“I guess having duplicate runes might mess up some of the enchantments.” Lara said.
+
+Ren nodded. “I have the basic rune for Fire because Issac gave it to me, but my multiple rune glyphs are completely different from his.” He said. “He told me that each enchanter does things differently, and you don't realize that until you delve deep into the work of someone else.”
+
+“It's almost bedtime.” Teepo hollered from the ceiling of the next room.
+
+Ren closed up the books and stored them, then he and Lara went into the next room. “Thanks, Teepo.”
+
+“You're welcome.” Teepo said.
+
+Ren and Lara went into the large bedroom and saw Artemis was already in bed and faced away from them. He and Lara stored their clothing, then Lara tapped his shoulder and pointed to Artemis. Ren raised a single eyebrow at her, and she chuckled and climbed onto the bed. He stood there and looked at her, and she motioned to Artemis again and then tapped the new amulet he had given her.
+
+Ren nodded and walked over to Artemis, then put a hand on her shoulder. She lifted her head to look at him, and he waved to the bed with Lara in it. Artemis raised both eyebrows at him, and he held a hand out to her. She slowly reached up for it, then sighed and gripped his hand tightly. He helped her stand up and walked her over to the bed, and they climbed into it together.
+
+“Ren, I...” Artemis tried to speak and he cut her off.
+
+“Shh.” Ren said and kissed her on the lips.
+
+“But, I...” Artemis tried again, and it was Lara who cut her off this time.
+
+“Shh.” Lara said and kissed her on the lips, then she activated the new Aura Ren had given her. Artemis was surprised by this as Lara's Aura and Ren's Aura merged for the first time. Ren and Lara exchanged glances and smiled, then they each grabbed one of Artemis' warm metal breasts. She gasped at that and stared at them with wide eyes as her body reacted to the attention, then Ren and Lara dove down to suck on the very prominent and erect tips.

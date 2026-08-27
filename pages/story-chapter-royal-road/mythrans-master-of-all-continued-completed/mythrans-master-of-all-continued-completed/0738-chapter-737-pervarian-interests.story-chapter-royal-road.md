@@ -1,0 +1,287 @@
+---
+id: c2d87228-cd11-5bc2-a394-7f19ca316224
+page-type-slug: story-chapter-royal-road
+title: "Chapter 737 - Pervarian Interests"
+slug: 0738-chapter-737-pervarian-interests
+partOf: mythrans-master-of-all-continued-completed
+position: 738
+ownLength: 2719
+unit: words
+publishedAt: 2018-10-21
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/299892/chapter-737-pervarian-interests"
+royalRoadId: "299892"
+---
+
+Ren and Artemis walked out of the reception area at a normal pace, then looked at each other. “Race?” They asked at the same time, let out a chuckle, then ran through the air.
+
+The Pervarians had felt them coming and started to turn, then felt Ren and Artemis had already passed them. They looked at the lobby to see where they went, and all they saw was a 10 foot by 10 foot square hole in the outside wall for a moment, then it disappeared.
+
+The Pervarians didn't say anything as they calmly left the castle, and each third person held the door open a little longer than necessary for them to step through it. None of the people in the lobby or outside noticed this, and the representatives of the kingdom of Pervaria loaded up into their assigned spots in their caravan. When they were all seated, the drivers all flicked their reins at the same time and the entire caravan moved as one.
+
+It was slow going, since it was a capital city of a kingdom and everyone was up and about, and it gave them lots of time to talk and discuss things.
+
+“Tell me what you think of them.” Kenkoth asked Tatya.
+
+“They're brash and arrogant, almost to a fault.” Tatya said. “The self-entitled feelings from both the king and his wife were almost sickening.”
+
+Kenkoth chuckled. “The king grew up as a royal so his were understandable. The wife on the other hand, married into it.”
+
+“I think that's why she feels so much more entitled than everyone else.” Tatya said. “She's too reserved and is hiding from her own emotions.”
+
+Kenkoth nodded slightly. “She also has a touch of death about her.”
+
+“The princess explained it to me the other night, during our 'girl talk'.” Tatya said. “Her mother was infected by a ghoul and was healed.”
+
+“Normally that wouldn't be that big of a deal.” Kenkoth said. “A lot of them recover and are fine.”
+
+Tatya nodded slightly. “She said her mother was going to turn into one, and the healers caught it just in time.”
+
+“An aborted conversion? Really?” The healer asked, surprised. “Did she say how it was done?”
+
+Tatya shook her head. “She was there and witnessed the procedure, but she's not a healer.”
+
+“So, even if she knew what the healers used, she wouldn't know the techniques needed.” The healer sighed. “What a pity.”
+
+Tatya nodded and then smiled. “I learned something else interesting from my talk with the princess. She is pretty starved and a little desperate to share the things she has in her life with someone deserving, except that there isn't anyone in her life to share them with and no one is coming forward to accept the responsibility.”
+
+“She shares her fate with a lot of powerful women, then.” Kenkoth said and chuckled.
+
+“Are you saying that if she had been a man...”
+
+“Yes.” Kenkoth said. “Especially here in the Human Kingdom, where it's the males that dominate society's rules of Etiquette.”
+
+Tatya chuckled. “How short-sighted they are.”
+
+“That was one of the reasons for this excursion.” Kenkoth said. “Once we realized that...”
+
+“Everything went much smoother when they believed that you were the head of the delegation.” Tatya said. “It was quite amazing, really.”
+
+The healer chuckled. “I'm not sure why they believe it's easier to deal with a man.”
+
+“They assume he has authority, even if a woman is presented before him.” Kenkoth said. “Tatya was introduced first, and yet they didn't treat her as the important one.”
+
+“The only one who did that was Ren.” Tatya said.
+
+“That was quite the display you put on.” Kenkoth said, and she smiled.
+
+“At least he recognizes that women can be a source of both power and authority.”
+
+“He still deferred to me.” Kenkoth said.
+
+“Only because we didn't correct him when he saw King Alamast do so.” Tatya said. “Even when I stood behind you as King Alamast approached, it was me he looked at, not you.”
+
+“I didn't catch that.” Kenkoth said.
+
+“You were too busy looking at Lady Eleanor.” The healer said with a knowing smile.
+
+Kenkoth chuckled at being discovered so easily. “She is a beauty.”
+
+“Her emotions are too tightly wound for me.” The healer said. “I couldn't really discern anything from her for the entire time of our visit here.”
+
+Kenkoth nodded. “It's always a bit of a surprise when someone can throw us off like that.”
+
+“That's why you find her so intriguing?” Tatya asked.
+
+“That, and like I said, she's a beauty.”
+
+“You're so shallow.” The healer said and they laughed. After a few moments, Kenkoth spoke again.
+
+“What about Ren?”
+
+“He is unlike anyone I have ever met before.” Tatya said. “We have met Adventurers along the way to the capital, and none of them can come close to his presence.”
+
+“Or his prowess.” The healer said and touched the bracelet on his wrist. “Or his generosity.”
+
+“Did you get the full list of his titles from Jirqym?” Kenkoth asked.
+
+“He slipped it to me just before we sat down for breakfast.” Tatya said. “I didn't get the chance to read it, though.” She took out the piece of paper and saw how much writing there was on it.
+
+King Ren's Titles and What They Do
+
+Master Blacksmith  Grants 10 level bonus to Blacksmithing Skills; 5,000 Fame
+
+Master Tailor  Grants 10 level bonus to Tailoring Skills; 5,000 Fame
+
+Master Enchanter  Guild Membership; The Rule Of Two; Skill: Rune Creation
+
+Lemming  5% resistance to falls
+
+Son Of The Pelt  20% stat gain using craft station
+
+Honorary Dwarf  Grants Dwarf Race abilities
+
+A Fool And His Money  Automatic 5% gratuity, plus perks
+
+Ren The First  Grants Command and Camaraderie Auras
+
+Crazy Like A Fox  Intelligence +20, Wisdom +20
+
+Giant Smasher  Strength +20, Grants skills: Deep Impact & Skull Cracker
+
+Atlas  Inventory (Modified), Strength +20, Vitality +20
+
+Prince Charming  Ideal Man, Attracts attention, +5 levels to Aura (Personal)
+
+Patron Of Knowledge  Grants 5 level bonus to Speed Reading and Hidden Knowledge, Access to full Library
+
+Father Of Fire  Grants Absorb Fire and Fire Manipulation Skills
+
+Hero Of Aurora  Etiquette +10 Levels, Fame +5000, All Auras +5 Levels
+
+Lord  Word Of Law, Etiquette +10 Levels, Fame +10000, All Auras +10 Levels
+
+Dreaded Foe  Auras with Fear: +5 Levels, Respect: 5000, Enemies/Opponents/Creatures -5 INT -5 WIS
+
+The Tainted King  All Auras maxed. You must be acknowledged. Grants skills: This Is Mine! & Autocracy
+
+Sea Dweller (Honorary)  Grants Water Manipulation Skill, Water Conversion Ability, and Sea Dweller (Aura)
+
+Royal Consort  Dark Elven Court, Underworld Access, Tithe (Abdicated)
+
+HeadHunter  Killing Blow Special (50% Kill chance), Skull Cracker (Stun +20%)
+
+Void Bane  Void Sense (Aura), -50% Debuff from Void effects, +50% Damage to Void creatures
+
+Awesomeness  Grants Admiration, free Charm Person, Personal Aura +150 feet
+
+Vasalor's Chosen  (No Description)
+
+Survivor (Ghoulpocalypse)  Personal Aura +50 feet, Sense Undead (Skill)
+
+Teach Me No More  All currently known skills and abilities are Mastered
+
+Creator's Assistant  Grants: Create Anything skill, System Administrator Menu, Aura (Personal) +150 feet
+
+Hunter Extraordinaire  Hunter Aura (100 feet), Tracking skill, XP (Negated), Fame +5000
+
+“ Jirqym must be joking.” Tatya said. “No one has this many titles.”
+
+Kenkoth barked a laugh. “No, he never jokes about research.”
+
+“But...”
+
+“It took him almost the entire time to get the title information during Ren's first visit.” Kenkoth said. “He was too busy during this time because of the duels and didn't have enough time to find out anything else, like Ren's skills.” He smiled. “I can't imagine what those would be like.”
+
+“He also has one of the Chosen's abilities.” The healer said. “I didn't think anyone had those kinds of skills, let alone an Adventurer.”
+
+“Possession Restoration is a top-tier ability.” Tatya said. “I wonder how he got it?”
+
+“Does that matter?” The healer asked.
+
+“I'm sure it has to be an interesting story.”
+
+The healer smiled. “So, you do like him.”
+
+“I barely know him.” Tatya said and turned her head to look out the side of their covered carriage.
+
+“You actually do like him.” Kenkoth said with a smile.
+
+“It doesn't matter if I like him or not.” Tatya said without looking back at them. They felt her emotions and they knew that it did matter to her. “Do you think he really can build an entire Cathedral in only a few hours?”
+
+“We'll never know, since we will be at the city limits in less than an hour, even with all this traffic.” Kenkoth said. “Unless you want us to delay even longer?”
+
+Tatya actually thought about it for several moments, then sighed. “No, we need to get moving as soon as possible.” She said. “It's going to be a very long journey back to our Kingdom, even with the speed boosts the giant boars use on the open roads.”
+
+The healer leaned forward to whisper to Kenkoth. “Yes, she definitely likes him.”
+
+“I can hear you, you know.” Tatya said without looking at them.
+
+“We know.” The healer said, and both men chuckled.
+
+*
+
+“I'm glad the Librarian knew where to go to find a good plot of land.” Ren said.
+
+“I'd say it's her job to know, but available parcels of land inside the capital isn't really part of a Librarian's normal information.” Teepo said. “What's funny is we had to go back to the castle to buy the thing.”
+
+“The look on the minister's face when you asked to buy a piece of prime development land inside the city's walls, and then paid for it!” Artemis laughed. “I thought he was going to die of shock!”
+
+Ren laughed and they stopped at one of the many stonemasons to buy enough materials for the recipe. When he had enough, he went to the very large plot of land and took out his shop tower. He activated it and they went inside, and he brought up the recipe for the cathedral.
+
+“Damn, this thing is going to be huge.” Ren said. “I really should have looked at it closely when we added one to the High Elven Starter city.”
+
+Teepo chittered in laughter. “You barely looked at the mile high tower in the center of the city and you died right after! When did you have time to check out the Cathedral?”
+
+“He's got you there.” Artemis chuckled.
+
+Ren laughed and got back to work. He made enough steel ingots for the recipe, then made the stained glass, then added normal glass for the other windows. He was a little surprised to see a couple of apartments were nestled in the back, then figured if he made a Cathedral, someone would be either picked to run the place or to do sermons. He finished enough wood pieces for the recipe and then he activated his Craft Wondrous Item recipe.
+
+“At least it let me make another scale model.” Ren said and added all the ingredients, then was surprised when it didn't ask for any money. He was tempted to add some in anyway, then realized he could use some of the gold for the accents and things. He took out several handfuls of gold coins and crushed them as he used his Hands of the Gods ability to melt them, and added them to the recipe.
+
+The platform glowed for nearly 10 minutes, and then a 2 inch wide cube appeared. Ren stored the cube and they left the tower, and he stored that, then walked over to the very center of the lot where Teepo directed him, then put the cube down.
+
+“Only cast it twice.” Teepo reminded him, and Ren cast Permanent Enlarge and Reduce Anything two times on the cube. “It should just fill the available space.”
+
+“I was tempted to add space for people to park their horses and carts; but, the lot over there is empty.” Ren pointed at a lot they had seen on their way over to this one. “We'll go back to the castle and buy it for that.”
+
+“With appropriate signs so that people know what it's for.” Teepo said.
+
+“Street lights, too.” Ren said and they walked over to the street. Several people had walked by the lot they were on, and a few stopped to see what he was doing.
+
+“Hey, what's going on?” A man asked.
+
+“Just some instant construction.” Ren said and thought the code phrase, then the 400 foot tall, 200 foot wide, and 400 foot long Cathedral popped into place. Like Teepo had said, it just barely fit inside the available space inside the lot.
+
+“GOOD GOD!” The man behind them yelled, and several people on the street yelled as well. Ren held in his chuckle and then saw the popup he was waiting for.
+
+System and Administration Quest Complete!
+
+You have successfully constructed an appropriate Cathedral within the capital city of Bore-Reale in the Human Kingdom.
+
+Rewards: You still don't need anything. Good work. Adding the gold was a nice touch.
+
+Ren looked up and waved. “Thanks! I'm glad you like it.”
+
+*
+
+Tatya had been fortunate that she had sat on that side of her covered carriage and was looking out the window, because she witnessed a 400 foot tall Cathedral appear instantly halfway across the city. Both the healer and Kenkoth felt her emotional reaction and leaned over.
+
+“What is it? What did you see?” Kenkoth asked and she pointed. “What are you... is that a cathedral?”
+
+“It... it just appeared.” Tatya said. “One second there was nothing, then in the next instant, there it was.”
+
+“You don't think...”
+
+“He either carried it here or he built it.” The healer said. “I doubt he could carry that thing, even if his stats are maxed like he claims, so it had to have been built.”
+
+“Instantly.” Tatya whispered. “He built it instantly.”
+
+“I don't recall any kind of ability like that, not even from the Chosen.” The healer said, and his own interest in Ren increased.
+
+“Don't even think about it.” Tatya said and finally averted her gaze from the cathedral.
+
+“I can make it back to the caravan in plenty of time if I take one of the...”
+
+“No.” Tatya said. “You can feed your talent fetish some other time.”
+
+The healer sighed and sat back, then smiled. “I had lots to feed it on today.”
+
+Kenkoth chuckled. “The surprises were rapid and non-stop, weren't they?”
+
+“It was worth the trip just for that alone.” The healer said. “I think we'll all be in for a great time when we get back home.”
+
+“The rewards for the military information alone will be enormous.” Kenkoth said. “When we add in the special and rare abilities we've witnessed...”
+
+Tatya didn't join in on the discussion and turned back to the window to stare at the Cathedral. How did he do it? She asked herself. Just the weight of the materials alone would have been too much for one person... for a whole crew... to handle. How could he build it?
+
+No answers came to her as she thought about how impossible it would be to get the materials to the spot, with only the time from when he said he would make it until now.
+
+How could he make a viable building from them? Tatya asked herself again, then the caravan came to a stop just outside the city's main gate and pulled off the side of the road to allow others to pass. She opened the carriage door and leaned out. “Why have we stopped?”
+
+One of the caravan's attendants ran over to her from the first carriage. “Jirqym just saw the cathedral.”
+
+“So did I.” Tatya said.
+
+“He said to give you this.” The young man said and ran to the next carriage to give them a note, too. Tatya leaned back in and closed the door and sat down, then read the note. She stopped breathing as extreme shock burst out of her, and Kenkoth quickly grabbed her shoulder and poured consoling feelings into her.
+
+“What does it say?”
+
+Tatya started breathing again. “The... the cathedral... it... it's...”
+
+“For Vasalor. We know.”
+
+Tatya shook her head. “Not... that.” She said and held out the piece of parchment, and he read it.
+
+The cathedral is indestructible.
+
+“It's WHAAAAAATTT????” Kenkoth yelled.

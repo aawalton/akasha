@@ -1,0 +1,271 @@
+---
+id: 2d1f428f-dd78-5ffa-9e3d-71b19946205c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 41"
+slug: 0048-chapter-41
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 48
+ownLength: 3180
+unit: words
+publishedAt: 2026-07-11
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3661365/chapter-41"
+royalRoadId: "3661365"
+---
+
+We didn’t work more that day. The day had, we all agreed, been quite a lot more eventful than any of us liked, and we all needed to rest and recuperate. Besides, robbing the Moagie and his thugs was a good deal more lucrative than expected, and we were flush with coin. We returned to where I had my room and rented two additional rooms for them. Then we went on an absolutely indecent shopping spree, got ourselves enough food for a tiny army and returned to start a lavish feast.
+
+By unspoken agreement, we didn’t talk about any of the heavy stuff. We ate, drank, chatted about Earth, favourite bands and shows, and just enjoyed ourselves. After all of the time by myself, or in the presence of other species, I enjoyed getting to know the trio more than I could have possibly expected. They weren’t exactly who I’d have pegged for companions back on Earth. Heh - they clearly were too well-adjusted mentally and didn’t drink enough – but they did seem canny.
+
+I’d readily admit it – I had no fucking clue what I’d expected from a Canadian. But Steve was absolutely it. He loved cooking, loved nature and Desperate Housewives and was a bit of a Trekkie. Taylor Swift made him cry, and he picked his invisibility talent, not because it’d make him safer, but because it would let him experience the wildlife from up closer.
+
+Haddock was exactly what I’d expected after spending half a day with him. Soft, caring, with a bone solid dependability to him. He was also, apparently, a vegetarian, and kept going on about some band called Cattle Decapitation, which seemed a bit off-brand for him.
+
+Meanwhile, Nix was everything I’d gotten from her on that first day, only amplified. Hyped-up, hyper-active, practically radiating energy all the while, and annoyingly chipper with it. Yet, as far as I could tell, there was not one truly negative bone in her body. Except, if anybody dared to criticize her favourite book series, let alone some bloke named Whiskeyjack of all things.
+
+“Hey. If somebody wants to name themselves like somebody who’s destined to go to rehab twice a year, who am I to argue?”
+
+Nix’s nostrils flared, and she made a rumbling voice deep in her throat. She looked like a blue tiger cub trying to look dangerous.
+
+I barked a laughter. “Kidding, kidding! Sorry, Nix. Sometimes, I can’t stop myself.” I wiped a tear from my eyes, and frowned, before growing thoughtful. “So. Names.”
+
+Haddock raised an eyebrow.
+
+“Yeah. I mean, did you stop to think about it? If we actually defeat those stupid beasts, and make it back to Earth – not only are we likely to be some of the highest-leveled people from Earth, we’ll practically be superheroes.”
+
+“I… guess you’re right.” Steve said, shell-shocked.
+
+“So. Which superhero name are you going with?”
+
+Nix clapped her hands. “Oh. I love this. I want to be… Elementary. No. Bringer of Elements. Wait, that’s too unhandy. Wait. Ohmygod, I have it. I’ll be Azath!”
+
+“What does that mean?”
+
+“Well, since you made fun of my books, I’m not explaining. But it’s super clever!” She stuck out her tongue at me.
+
+I snorted. “All right, then. Steve. What about you?”
+
+He smiled enigmatically. “It's not safe out here. It's wondrous, with treasures to satiate desires both subtle and gross. But it's not for the timid.” He quoted.
+
+“I like that, mate. Who said that?”
+
+“An inspiration. And I think I would like to dedicate my name to him. I’d be the Spirit of Q.”
+
+“Mysterious. I like it.” Nix beamed. “And now, we come to the real challenge. Hubs.”
+
+Haddock nodded.
+
+“Because obviously, we’ve had this chat before.” She continued. “And his name either ends up super generic, like the Builder, or an absolute villain name, like Constructorrrr.”
+
+I laughed. “Couldn’t we just… make it more fantastical? Like… Creator of Worlds or something? I mean, it’s not a lie. He can pretty much summon anything, right?”
+
+“Tiny exaggeration, perhaps.” He rumbled. “But I like it.”
+
+“You would.” Nix slapped him on the shoulder. “Too much for your ego. Hrm. We’ll have to work on it. Now, as for you…” She veered on me.
+
+I grinned. “Oh. So many good options. I can be the Divine Defender! The… Sultan of Shields. The Paladin of Passiveness.”
+
+Nix groaned, hiding her eyes behind her hands. “Those are all horrible. Besides. We haven’t known you for long. Yet, we all know, there’s really only one option.”
+
+“Oh really?”
+
+“Really. I hereby dub thee… The Backhander. You know, with that passive aggressive thing, and the shield?”
+
+“…You’re the worst.”
+
+We finished the day early. I gave myself a long, recuperating soak in one of the bath tubs, watching a ridiculous number of dead skin cells flake away. My hair was history, too. Being at the centre of a fireball would do that to you. For a moment, I considered finding somebody to fix it. Then I gave up and focused on enjoying myself instead. This wasn’t the first time in Ademia that my looks had taken a hit, and odds were good it wouldn’t be the last time either.
+
+I checked out my skills. They had, once again, improved by leaps and bounds. Literally, in the case of Athletics and Leap, which improved to ten and twelve, respectively. Other noteworthy improvements included Armor, which made it to seventeen alongside Higher Endurance, Dodge, hitting sixteen along with Running and Higher Self-Heal which made it all the way to eighteen.
+
+The high scorers, however, were Identify, which reached twenty-two, and, unsurprisingly, Shield at frigging twenty-three. It was starting to tell. Even the frigging buckler, half-chewed and with all the weight of a lid of a goddamn cooking pot, was starting to feel more solid. Its very presence in my hand made me more stable, and it felt like it carried more weight to it than it ought to. Several times there’d been situations where I felt like the impact or sheer bulk of a charging Ghastling should’ve knocked me off the wall, or at least pushed me back – but I’d managed to stand my ground        . I was sure the skill helped, in conjunction with Balance.
+
+There were two new skills as well. The first one was no surprise at all. Managing to raise it to three immediately was equally unsurprising. I’d gotten hit a lot.
+
+You have earned a new defensive skill:
+
+Frost Resistance
+
+Passive skill
+
+Frost magic is the indifference of nature, solidified into cold, uncaring lethality. It is slow, insidious and nigh-unstoppable. You have survived what could have been a lethal encounter with it. Every level in Frost Resistance will marginally decrease the damage received from frost magic and effect of associated debuffs.
+
+The second one was… well, sort of unsurprising as well. Okay, I should’ve seen it coming. I’d been at the centre of that first wave. I just hadn’t noticed the damage.
+
+You have earned a new defensive skill:
+
+Water Resistance
+
+Passive skill
+
+Water magic is often overlooked in the large scheme of things. It is not as showy or directly lethal as other kinds of magic. Yet, it is adaptable enough to shape into exactly what you need. You have survived what could have been a lethal encounter with it. Every level in Water Resistance will marginally decrease the damage received from water magic and effect of associated debuffs.
+
+The next morning, I felt a lot better. I chuckled as I noticed just how well my Higher Self-Heal was working by now. With the last few attribute points I’d chucked into Fortitude, and the constant increases to the skill (because I kept getting myself hurt) I was healing twenty-three health a frigging hour. In other words, your average scrawny level 0 newbie with a 10 in Fortitude would heal up from the brink of death in less than five hours. With your normal stats and no skills, that same accomplishment would take a hundred hours, flat.
+
+Our R&R followed by a good night’s sleep, had me nearly at half health again, and in a great mood. My body was still rife with aches and wounds, but the wounds were already scabbing over, and Pain Tolerance was helping me ignore the myriad twinges and hurts. Knowing that it would all be better within the next half day or so helped as well.
+
+I went to find the others, learning that Steve had already joined them in their room, and the three were finishing off their morning meal.
+
+“About frigging time, you slowpoke!” Nix launched with a mouth full of some disgusting oatmeal-like thing. “Get your ass in here. We’ve all got talents to spare, and we’re raving to go!”
+
+I chuckled, and joined them in their room. It looked the same as mine, sparsely furnished with benches and a bed drawn straight from the soil. Yet, the mattress was stuffed with dried grasses, and there were enough soft furs – some of them unmistakingly from the damn Ghastlings – that you could make yourself comfortable everywhere. I sank down onto one of the furs, sighing in satisfaction. Wait. Was I turning old? That was an old man’s sigh!
+
+I shook my head and turned toward the others. Haddock and Steve were arguing about something that I couldn’t quite grasp. They were either trying to build their own hadron collider or construct an amusement ride. There were physics involved. Regardless of how little I followed, their argument was quite entertaining to watch. Haddock mostly communicated through impressive grunts and surprisingly precise facial expressions through his bushy beard. Meanwhile, Steve’s soft eyes agreed with everything, and it looked like it cost him to disagree with Haddock.
+
+Nix bulldozed them both. “Death traps can wait, y’all! We’ve got talents to choose. Unholy powers to gain! Who’s first? I’m first!”
+
+I rolled my eyes, and surrendered to the inevitable.
+
+She cleared her throat. “You remember my quirks, right?”
+
+“You can’t attack anything directly, but your Mental Power’s doubled, and… something about elemental stuff, right?” I raised a finger. “Oh, and you’re tiny and fierce.”
+
+She glared at me. “I’d fong you, if you weren’t right on all counts! The ‘elemental stuff’ means that my elemental talents are improved by fifty percent.” She exhaled and blinked rapidly. “Whew. Feels like it’s been ages since we talked system stuff. Anyway, you know what Flash Flood is like.”
+
+I chuckled. “Intimately. It earned me the Water Resistance skill yesterday.”
+
+Haddock’s beard contorted in a very telling expression.
+
+She punched him with all the impact of a butterfly sneezing. “Shut up. Water’s hard to steer, okay?” Facing me, she beamed. “Anyway. Last time, we talked about my next talent that I’d need to save up for, I think? Well, I got it!”
+
+Tier 5
+
+Lifeforce Absorption
+
+Passive Talent.
+
+There is power in death. Especially when you are the death dealer. While this talent is active, your attacks will saturate enemies with your mana. Any enemies that die, while engulfed in the area of this talent will let you absorb their lifeforce and convert it to mana. The efficiency of this talent is affected by the lifeforce of the targets and your Mental Control.
+
+Area: 30 meter radius
+
+Cost: 1 stamina/second
+
+5/5 points
+
+She beamed. “Then I got Delayed Firebomb, which you’ve already been acquainted with.”
+
+I snorted.
+
+“Finally, I was starting to improve a Tier 2 talent that basically gives me more mana and makes my talents hit harder – and since yesterday made me hit Level 15, I’ll be maxing it out. Just… so!” She beamed and read the talent description aloud.
+
+Improved Arcane Power
+
+Passive talent. Adds to the effectiveness of your Mental Power, to your mana points and talents which are calculated from your Mental Power. +5% per talent point.
+
+5/5 points
+
+I whistled. “I’ve got that exact talent, but with Fortitude. Am I right in guessing that this means your talents are going to have a fuckton more impact?”
+
+She giggled. “An imperial fuckton. None of that metric nonsense. And yes. My mana’s through the roof, and every point I add into Mental power is, in effect, multiplied by two and a half. I’ve had to pump a few points into Mental Control, just to keep up.”
+
+“I absolutely approve. And I’ve seen with my own eyes that Haddock here’s still working overtime to create constructions that improve your talents and help them hit their targets.”
+
+“And keep her alive.” Haddock rumbled. “A harder job than you’d think.”
+
+I saw the love in that gaze and tried very hard not be envious. Lucky fuckers. “Your quirks were… no permanent constructions, and… what was the positive again?”
+
+Tier 5 positive quirk:
+
+Mind to Matter
+
+Were others need to get their hands dirty in order to craft, you stand apart. You may summon temporary inanimate creations into real life. The solidity and duration of summoned creations depend on the speed of the summoning and the mana infused into the creation.
+
+“Hubby’s worked hard on that. Training the control and such. You saw that funnel for my Flash Flood? Now, he’ll only summon it for, like five seconds, to save on mana. His control is insane!”
+
+“Last time, I picked Environmental control. It gave me more influence on my surroundings. I maxed that one.”
+
+Tier 4
+
+Environmental Control.
+
+Passive Talent.
+
+A builder knows how to adjust his creations to reality. Yet, sometimes, you need to adjust the world itself rather than your creations. This talent allows you to affect the existing world, remove rocks, dig into dirt, whatever your control and imagination allow. The efficiency and accuracy of this talent is affected by your Mental Power and Mental Control.
+
+20% efficiency per talent point.
+
+5/5 points
+
+“That one’s saved our lives a few times.” Nix smiled fondly. “With all the running and fighting and reshaping the battlefield he’s been doing, it’s no surprise my man’s the highest-leveled of us. Tell him what else you got.”
+
+Tier 5
+
+Higher Magical Crafts
+
+Passive Talent
+
+Many Crafters are able to imbue mana into their constructions. Not many are able to do it well. This talent improves your mana control, reducing mana usage in constructions and improving how much maximum mana can be imbued
+
+5/5 points
+
+Nix clapped her hands. “So vague a description. Yet, so damn useful. It’s the only reason that fortress of his was still standing when you came to save our asses yesterday. And that he was still standing for that matter. That reduced mana usage is no joke.” She wrapped both her arms around the sitting Haddock. “I still love that last one of yours the most. Tell ‘em, love.”
+
+Tier 4
+
+Combat Crafting
+
+Passive Talent
+
+Keeping your temper in battle in hard. Managing the same while crafting can be downright impossible. This talent temporarily improves any of your attributes used for crafting while mid-combat.
+
+5/5 points
+
+“Any of your attributes? What does that even mean?”
+
+“Exactly what it says on the package.” She beamed. “Better eyesight for spotting the right placement. Improved Mental Power and Mental Control for any magical crafting. Improved Dexterity or Strength for anything that needs to be physically wrangled into place, or for evading monsters. My man’s a beast!”
+
+Haddock grunted behind his beard, but clearly didn’t mind the words. “What I need now.” He rumbled. “Is staying power. You saw it yourself yesterday. I ran out of mana. My Mental Control is my main focus, and my Meditation skill is improving-”
+
+“Wait. Meditation?”
+
+A brief detour explained to me that, yes, there was such a thing as a Meditation skill, that helped you regain mana faster. Just like Self-Heal or Stamina Regeneration, but for mana. Only, you needed to focus on it, which was likely why I hadn’t earned it yet.
+
+“Anyway, I need to be able to stay in the fight for longer. I’m at Level 17 and have two talent points available and two options. One’s this one:”
+
+Tier 3
+
+Temporary Storage
+
+Passive Talent
+
+A Crafter cannot always be expected to be in the right place for crafting. As many plans fall apart due to bad timing and planning as the crafting itself. This talent allows you to place a crafted creation within a temporary internal universe and extract it mentally later to be placed at your convenience.
+
+One day’s maximum storage per item per point.
+
+0/5 points
+
+“Way I see it, it’ll let me prepare even better, if I know what I’m going into. Then, I’d be able to have a full two days of crafted walls, funnels and whatnot ready to place. Other one’s more familiar.”
+
+Tier 2
+
+Improved Arcane Control
+
+Passive talent. Adds to the effectiveness of your Mental Control and talents which are calculated from your Mental Control. +10% per talent point.
+
+0/5 points
+
+“Wait.” I protested. “Ten percent? Ours is five!”
+
+“I know. It’s disgusting, right?” Nix agreed. “But the difference here is that ours improves health for you and mana for me. His doesn’t do directly affect any stats. I’m guessing that’s why.”
+
+“Okay, I guess that makes sense.” I nodded, considering the possibilities. “Okay. So, the options are straightforward. Either better prep or better over-all mana regeneration and control when crafting.”
+
+Haddock grunted in agreement. “Storage is way better if we know what we’re in for. I can craft what we’ll need up front. Regen is better if we’re surprised.”
+
+“Is it though?” I said.
+
+Haddock raised an eyebrow.
+
+“Just thinking out loud here. But… we agree that you gain experience when you construct stuff, right?”
+
+“More in combat, but yeah.”
+
+“Okay. Then… consider this. I’m thinking, from all your constructions, there’s bound to be a lot of items you use again and again. Like those lovely, tall walls we hid behind. What’s to stop you from continually crafting new stuff and just saving it? If you don’t use it, it’ll just fizzle into nothingness, but you still got experience from the construction itself. If you need it, you can pull two full days of premade stuff out of your dimensional pocket. That’s got to be beat improving your mana regeneration. Especially, when you consider that you can pull mana from mana coins.”
+
+Haddock got a look as if I’d slapped him in the face. “You can?”
+
+I nodded softly. “I learned it a few days ago. It takes some practice. But it works. I was flush out of coin yesterday, or we could have done it on the walls.”
+
+He snorted and got the faraway look in his eyes of somebody messing with their system mechanics. “Temporary Storage is a lock. What about you, Liam?”
+
+I rolled my shoulders, smirking. “I’m saving up my talent points. Need five points to get myself a taunt and ensure attackers focus on me, and not my soft, fleshy comrades.”
+
+“As a representative of the soft, fleshy comrades, I approve. Time for our Canadian life-saver to make his picks, then.” Nix rubbed his hands and turned toward Steve.

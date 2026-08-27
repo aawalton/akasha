@@ -1,0 +1,105 @@
+---
+id: 4734f6d9-d548-54f8-8213-82b23f500c36
+page-type-slug: story-chapter-royal-road
+title: "Chapter 52"
+slug: 0059-chapter-52
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 59
+ownLength: 1653
+unit: words
+publishedAt: 2026-08-06
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3776823/chapter-52"
+royalRoadId: "3776823"
+---
+
+“So, it’s agreed. We will get ready to leave, to take on the Kadren. But we make sure that we can hit a bunch of other monsters along the way, so Liam can hit Level 25 and finally get that taunt thing he’s been complaining about.”
+
+“Also, so our skills can grow stronger, and we can unlock as many of the higher rarities as possible. Maybe experiment a bit.” I added.
+
+“That too.” Nix waggled a finger. “But we’re not taking too many detours. The people of the Ever Steady have suffered enough.”
+
+“Not gonna disagree with you there.” It was not an easy choice. We knew we’d be facing hundreds, if not thousands of Kadren. We’d be so outnumbered it wasn’t even ironically funny. Yet, we’d made the decision and we were going to go through with it. Somehow. And hopefully not get ourselves killed in the process.
+
+“Nix. You’re on trading duty along with Steve. You are going to take Adrasteina’s armor and mortal remains to Stalwart and figure out if it’s worth anything. Then, trade for enough different weapons that Steve can unlock his Piercing Weapons skill. Haddock… you’re in charge of provisions and healing supplies. Adrasteina had enough coin on her, we won’t be starving.”
+
+“What are you going to do?”
+
+“I’m going to the pub, for all the wrong reasons. In other words, I’m not even going to get myself drunk. I simply need to talk to Mitzi and buy myself some pointers, in order to find some monsters nearby that’ll let us level without committing absolute suicide.”
+
+“Oh. That… yeah, that checks out. Don’t go getting in any fights? That goes for all of us.”
+
+Miraculously, we succeeded with no nasty surprises. We were all interrupted constantly by people who wanted to hear about Adrasteina. Thankfully, nobody decided to make a problem out of it. She really had been universally disliked and, now that we’d offed her, it earned us a bit of a reputation. Given that there were four of us, we weren’t quite in the Untouchables building, but we were knocking on the door.
+
+My chat with Kimzi also revealed one other detail – a rather surprising one. Apparently, we were already above average levels for Last Chance.
+
+At first, I didn’t quite believe her. After all, we’d been in Ademia mere weeks. Yet, somehow, we were supposed to have overtaken people who’d been able to level all their lives?
+
+When she got to explaining, though, things started making more sense. Crafters and Collectors? Those were, by and large, high-level, because their gaining strength wasn’t confined by killing. Yet, there weren’t that many of them in Last Chance, and those who didn’t push or challenge themselves usually stagnated and slowed. Mostly, they were Stalwart and his lot, as well as a handful of different Collectors who stayed in the settlement and made a living by having people bring materials to them for refining and prepping for the Crafters. All very safe.
+
+Yet the rest of us? With a few exceptions, we improved through the age-old art of slaughter. And… well. That was dangerous. Life-threatening. And not many people cared to keep testing their survivability over and over again, because a single slip-up was all it took.
+
+Why would a Fighter who’d reached Level 20 go out and risk her life every day, when she’d be able to survive just fine working as security? Or hauling goods with her improved attributes? Why would Denetar’s Mage underlings go out and try to level, when their profession had already granted them the elemental masteries they needed to earn money without risk?
+
+Kimzi insisted there were outliers who skewed the general view on the topic, along with several entire species like the Kadren who lived to level, yet on the whole, ‘good enough to live’ was the order of the day. Giving it due consideration, I figured that didn’t feel too off. How many people back on Earth were actually living life on hard mode, flinging themselves at everything, trying to grasp as much as they possibly could? How many were satisfied with just earning enough for rent and some cbd gummies?
+
+Of course, things were different for humanity on Ademia right now – or rather, it would’ve been, had we not taken a massive setback. After all, the ones here right now were the outliers. The nutjobs, the crazies who didn’t mind throwing away their entire lives in the hope that we’d be able to become superhumans.
+
+If Earth had gained some sort of system, things would’ve been massively different. A father of three wasn’t going to go out and test himself against monsters every day. A lot of people were likely to do exactly what the locals did. Risk their lives and earn enough levels to make a living. Then… live.
+
+The following day, we left. All our provisions and equipment were stuffed into my Personal Universe and Haddock’s and we had what we needed – including three over-priced healing cakes that had taken all our remaining coin.
+
+We left Last Chance behind us, walking incautiously in the southern direction we’d chosen. We waltzed down the slope, pausing to chat with the handful of guards on the slope. I quickly learned they weren’t guards as much as they were fighters keeping an eye on the landscape below, looking for any easy targets that would grant them cheap experience. Though, since they’d absolutely rush for the safety of Last Chance in case of any real challenges arriving, they were in effect doing the work of guards.
+
+Down on the flatlands, we marched straight in the direction of the marsh. About an hour out, when the guards were growing tiny in the distance, we walked behind a set of boulders, where Steve activated his invisibility talent. Then we spent a good while waiting for any sign that we were being followed. Yet, apparently, we just weren’t that interesting – or our pursuit too good. Not too long after, we turned east, where we’d be able to continue with what we had been planning all along: getting stronger.
+
+“I hate you all! Why won’t this work?”
+
+Nix’s scream echoed across the grassy landscape, alerting any sneaky predator nearby that lunch was here.
+
+“You’ve got to put your energy into it!” I taunted. “Pump those arms, woman! Spend that stamina like you mean it!”
+
+She growled. Actually growled, like she wanted to tear out my jugular. Then she doubled down and reserved her energy for actually running.
+
+Steve, Haddock and I were walking along behind her, sweat drying on our faces in the comfortable chill of mid-morning. Steve said, not too loudly. “I’ll be honest. It was nice to find a single skill where it was easy to unlock the higher rarity.”
+
+“No discussion, man.” Grimacing, I nodded at Nix’s shape, prone on the ground ahead of us. “At this point, I think somebody’s going to have to have a chat with Nix, though. Not it!” I added quickly.
+
+Haddock groaned, but hurried ahead to help the exhausted Mage.
+
+It wasn’t a lie. Of all the skills we’d learned about, this one was by far the easiest to unlock. It merely required you to empty your stamina running three times within a day. Easily done – and it was rare too. Of course, given that the stunt left you helpless on the ground until you regained a bit of stamina, I got how this would’ve been a difficult unlock to come across by yourself in the first place.
+
+The reward was absolutely lovely, though.
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have bottomed out on your stamina running three times in the course of a single day.
+
+Running evolves to Higher Running.
+
+Higher Running
+
+Passive skill
+
+Rare
+
+Running is an art form. One with a nigh-unlimited limit for improvement. Every level in Running will improve your running speed by a moderate margin and reduce stamina use.
+
+In addition, once a day you gain the ability to double your running speed for a full minute.
+
+That was pretty damn good. Not only did the improvement from the Running skill improve from ‘marginal’ to ‘moderate,’ the double-speed aspect could be an absolute life saver, letting you outrun any pursuit and hide.
+
+When Steve and I caught up to the others, Haddock was busy cradling her head, letting her hydrate and trying to regain her stamina.
+
+“Listen, Nix.” I said. “I don’t want to, but I’m going to be that guy. You obviously hate running.”
+
+She hissed at me.
+
+“Yeah, yeah. Now more than usually, I’m sure. But let’s agree that you never liked it to begin with.” I nodded at Steve. “Steve’s got you the beauty sleep buff and the other buff set to Agility. There’s no way that we can make it any more likely for you to get the Running skill right now. And unless you’re getting the Running skill, you won’t be able to unlock the higher rarity either. So, the question is: Do you want us to throw you in a position where your life’s at stake? Because if Cuilcis didn’t lie, that’s the only option left to us.”
+
+Rubbing her eyes, she made a sound somewhere between a cat hissing and a punctured tire. “I… don’t know. I’m just furious that my feet are hurting, I think I’m getting a blister, and I’ve got nothing to show for it. I hate losing!”
+
+“I’m not sure it’s any consolation,” Steve started, pointing ahead of us all. “But you’ll get the chance to decide for yourself soon. I think we’re reaching the first of our targets in a bit. That does look like ‘a crop of trees covered in webs,’ wouldn’t you say?”
+
+“Sure does.” I rubbed my hands. “Time for some monster-inflicted punishment!”
+
+“Why are you… don’t sound happy when you say that!” Nix protested.

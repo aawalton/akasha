@@ -1,0 +1,85 @@
+---
+id: 73de16d9-309c-57ff-80ca-18e542ac11ae
+page-type-slug: story-chapter-royal-road
+title: "Chapter 26"
+slug: 0030-chapter-26
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 30
+ownLength: 1895
+unit: words
+publishedAt: 2026-06-15
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3541394/chapter-26"
+royalRoadId: "3541394"
+---
+
+I did just that. I slept for ages and awoke to find that both me and my bonfire had remained safe and un-challenged during the night. On top of that, my Concussion debuff had finally expired, ridding me of the dizziness, that horrible strained sensation in my frontal lobes and constant headache. Watching my attributes soar back up to normal, except for my Agility, was also absolutely lovely.
+
+On top of that, my Self-Heal had actually improved to level six during the night, bringing my health back up above two hundred and sixty.
+
+I did the math as well as I could and realized that, with additional increases to Self-Heal likely to continue for the foreseeable future, I would actually be back to full health in the next day and a half or so. Given the remaining millipede kebab in my storage space and the fact that I still had enough water for now, my imminent survival was assured. I also knew how to backtrack to the stream if I didn’t find more water around here. In short, I suddenly had a lot of spare time available.
+
+Some people might have spent that time making a fool-proof plan, considering what they knew and where to go from here. But hey. They were all dead, and I was here, surviving, if not thriving. I… was not going to look at that thought too closely.
+
+Regardless, the fact remained, I’d always been a doer, not a thinker. And while I didn’t know exactly where I was going from here once I was fully healed and ready to take on the world, I knew one thing. I needed to improve!
+
+Yesterday’s battle had proved it to me yet again. My quirks were far from useless. In fact, they were downright domineering in the right situations. But outside of those specific situations, I was shit without a team at my side. That meant, if I wanted to thrive, I’d need to shore up those shortcomings.
+
+Parts of that would have to come through talents. Expanding on my options would give me additional range and choices in battle. Parts would inevitably have to come through actual battle. I already felt quite a bit less clumsy wielding my shield and moving when my life was on the line. The swordbreaker I could take or leave, but it did grant me some additional versatility and movement range.
+
+Yet, beyond all else, I realized what every boxer knew in their heart. It’s all of little use if you don’t put in the hours. Especially in a place like Ademia, which rewarded rigorous exercise with skill gains. Lovely, lovely passive skills, which could help me stay alive.
+
+With that realization in the bag, I did what every training enthusiast would’ve done. I went back to what I’d been doing the day before and spent my entire day jumping about like a madman, trying to make numbers go up.
+
+First, I spent a short while investigating my surroundings for a few hundred meters in each direction, as well as yesterday’s battle scene. If I was going to spend the day growing stronger, I didn’t want to be interrupted by unexpected intruders. Fortunately, there were no signs of nearby murderbeasts. Any local tunnel looked long abandoned, and no rocks turned to attack me, even as I used Spot on anything that even remotely looked like a camouflaged millipede.
+
+Understanding the millipede’s strategy took a while. I couldn’t tell why it had allowed me to get in close, when it could just as easily have webbed every approach, letting me get caught before waltzing over to poison. A scuffed area splotched over with dark brown coloration and a few disgusting, dried remnants on a set of picked-clean bones revealed that truth for me. Apparently, it did web over everything, spider-style. I’d just used the single, natural approach where another poor beast had been trapped and eaten a while earlier. Lucky me.
+
+My skills went up. Admittedly, I didn’t have a fully-fledged bodyweight exercise program ready to go. I’d always favoured weights and machines. Yet, in this situation, neither of those would’ve truly been perfect. Why? Because I wasn’t trying to improve my strength, but make specific skills grow and discover any other skills available to me.
+
+There was no debate by now that skills improved faster in combat. The night assault by the beast army had netted me the largest, most explosive increase here in Ademia, while my subsequent solo training, aiming to improve specific skills, had only made skills rise by one or two here and there.
+
+Nevertheless, time put in equalled gains. This, I understood, at my very core. As the day progressed, I worked myself to the bone, trying to find the best ways to improve my eclectic gathering of skills, not knowing which of them might one day save my life.
+
+At the end of the day, I couldn’t complain about the results. My Athletics rose by two. My constant state of activity kept my stamina low and Higher Endurance responded accordingly, improving by three. My varied lunatic movement skills improved Leaping, Running, Balance, Stamina Regeneration, and Dodge by two each, and I even found a nearby collapsed tunnel with a near-vertical decline that I used to practice Climbing, raising it by one. Self-Heal did its job, and increased by one. I kept up activating Spot constantly, both in order to level the skill, and out of sheer paranoia. At first, it rose by two, allowing me to spot any remaining webbing glinting in the sun. Unfortunately, once I’d noticed those, without anything further to actually spot, the skill didn’t seem to gain any new levels.
+
+Now, with both Shields and Higher Endurance beyond Level 10, I came to a few realizations. The first was the sad but simple fact that the skills weren’t going to magically improve at even intervals beyond the impact of the levels themselves. The skills didn’t magically grow better at Level 10. However, I still held out hope that there’d be some sort of Tier-up possibility later on. In fact, that would fit rather well with the quirk and talent system, which only covered the levels up to and including twenty-four.
+
+The second realization was a bit of a downer. I spent a ridiculous amount of time trying to unlock the Throwing skill. Being able to throw accurately, even if I couldn’t attack something directly, might aid me in distraction or tricking enemies. Regardless, it wasn’t happening. There was no doubt the skill was there. I’d met a spear thrower in the U-Nerds camp who’d confirmed as much. I just wasn’t getting it because it was categorized as an offensive skill. Goddamn pedantic skill system!
+
+I tried my hand as a butcher on the dead millipede body. This time, it wasn’t for the meat. I already had enough food for a good few days – and besides, after nearly a full day exposed to the elements and local insects, I was sure the meat would fill my stomach with alien larvae or something. No, I was after the millipede skin this time.
+
+It was a dirty, disgusting job, and the swordbreaker was anything but appropriate for the job. I nearly dropped the idea in the first two minutes, as I found myself having to hack and saw rather than cut through the thick skin. I wouldn’t have wanted anybody to come upon me, naked and covered in filth and fluids, while I carved into the large, bloated carcass that stank to high heaven.
+
+Yes, I stripped before getting myself covered in viscera. No, it wasn’t a sex thing. Jesus!
+
+Regardless, I persevered and, in the end, came up for air with a layer of grey, unbending skin, whose outer surface looked nearly like the surface of a rock. I wasn’t entirely sure what I could use it for, but I figured that both my armor and my shield were due a replacement soonish, and I wanted to start stockpiling possible materials sooner rather than later.
+
+Thankfully, the damn thing did fit in my Personal Universe, if barely. I refused to think about the possible bacterial consequences of keeping this next to my food. Yet, so far, the system had come through for me, and it seemed like things in my Personal Universe didn’t actually touch. Oh, and the grisly experience granted me another unexpected skill.
+
+You have earned a new general skill:
+
+Skinning
+
+Passive skill
+
+Skinning is the process of removing the hide, skin or outer covering from an entity. Every level in Skinning will marginally improve the ease with which you may skin beings, and reduce the penalty from skinning high-Level beings.
+
+That did explain why it had been so damn hard to skin the thing in the first place. It wasn’t just that its skin was tough. The level apparently made a substantial difference. I grinned and took the boon. Then I ate my body weight in disgusting, fatty millipede kebab and went to sleep.
+
+I woke up, well-rested to a point that ridiculed the fact that I’d slept without any bed roll, covered in disgusting millipede remnants, in the goddamn dirt. By then, I discovered that my Self-heal had improved once more, and my final debuff was gone. Fucking finally!
+
+In a show of exuberance I would never have expected of myself, I leapt to my feet and started shadow-boxing. That sensation, the repetition of movements ground into me over innumerable practice sessions, finally hammered home the changes.
+
+I didn’t just feel in shape, or fast, or good. I felt great! My movements were measurably faster, yes. No discussion. That was the additional three to Agility at work. The real difference, meanwhile, lay in the Fortitude. I felt sturdy to a degree I couldn’t even properly describe. I felt like I would be able to shrug off an Usyk blow to the chin. Like my legs had turned into stone pillars, lending me god-like solidity and stability.
+
+That proved well for the day’s actions. Because, now that I was back up to normal, I had to grow beyond that. And that was likely to take actual action, not just practice.
+
+Oh, I could stay here for a while, grinding my skills. Yet, that wouldn’t help my really important skills improve. And soon, I’d have to go look for more water as well, either back to the stream where I’d hidden or find something else. I preferred pressing on, rather than risk that damn Glimmerscale finding me again.
+
+Besides. I had a plan. I was out for revenge.
+
+There was one thing I’d noticed as I stalked the edges of my self-proclaimed territory. It was a matter of webbing. Of… territory, most likely.
+
+The webs of my millipede had already started to deteriorate. Exposure to wind, moisture, and sun apparently did a number on them over time. Yet, when I did my rounds, checking for any nearby enemies, I’d noticed a wide area where no webs were placed. But in the distance, the air seemed to sparkle once more.
+
+I grinned as I moved off to see if I was right, and find the next wannabe backstabber. That first goddamn millipede had taken me by surprise and damn near taken my life. I had an axe to grind with it, its brothers, mother and extended family!

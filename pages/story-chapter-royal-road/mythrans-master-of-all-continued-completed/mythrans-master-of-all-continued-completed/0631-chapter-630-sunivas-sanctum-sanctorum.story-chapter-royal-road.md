@@ -1,0 +1,181 @@
+---
+id: 9b2a740f-579a-5f47-86d9-8f5052017223
+page-type-slug: story-chapter-royal-road
+title: "Chapter 630 - Suniva's Sanctum Sanctorum"
+slug: 0631-chapter-630-sunivas-sanctum-sanctorum
+partOf: mythrans-master-of-all-continued-completed
+position: 631
+ownLength: 3135
+unit: words
+publishedAt: 2018-07-06
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/231257/chapter-630-sunivas-sanctum-sanctorum"
+royalRoadId: "231257"
+---
+
+Suniva was surprised at first that there was a specific room inside Ren's Sanctuary for Fire-based beings, until he explained that he had brought the Fire elemental Zetaya inside with him once and needed somewhere for it to relax. It took Suniva a few weeks before she could relax enough to let her Fire roam freely without feeling guilty, especially with the possibility of burning something up by accident.
+
+Ren had laughed when she expressed her concern and told her that while she was inside the Sanctuary, she couldn't hurt anything that was there. To prove his point, Ren punched a nearby stone table and shattered into pieces, then a moment later it was back to it's original form. He did it again and the table reformed, and Suniva couldn't doubt the truth.
+
+Of course, by that time, they had spent some quality time with each other and played a lot. Suniva thought Artemis would have objected to all the attention Ren was giving her, but the metal woman didn't say anything or try to stop her from holding Ren's hand when Suniva was clearly trying to taunt her into some kind of response. After the fourth attempt, Artemis took her other hand.
+
+“You don't have to worry about making me jealous.” Artemis said. “I know my place in his heart, and in his life, and I know how difficult it is to stay near him and not monopolize his time.”
+
+Suniva sighed. “I'm sorry.”
+
+“How do you like being so big all the time?”
+
+“It's really weird.” Suniva said. “I'm so big and move so slow in comparison to my normal size.”
+
+“You could form the armor around yourself and make it easier.” Artemis suggested.
+
+“I could, but then I wouldn't get used to it on my own.” Suniva said.
+
+Ren hadn't said anything up to this point. “I'm glad you understand.” He said, and she looked at him. “Having assistance is great, but doing it yourself and being comfortable will make the armor that much more efficient when you wear it.”
+
+Suniva nodded. “It's the same with my Fire. Unless I can keep it controlled when in stressful situations, I'm too much of a danger to others in those situations.” She sighed. “I'm so glad to have found someone that can keep me in check until I do.”
+
+“I'm more than happy to help you.” Ren said and walked over to the Fire-proof room. “Why don't we keep practising?”
+
+“You have work to do.” Suniva said. “You shouldn't take time away from...”
+
+“Nonsense.” Ren said and opened the stone covered door. “All work and no play...”
+
+“...makes Ren very horny.” Artemis laughed and let Suniva's hand go.
+
+“I should argue that, but I can't.” Ren said and pulled Suniva into the room. “Plus, it's been almost 8 hours since the last time I tasted your lava.”
+
+Suniva's face burned bright red and her Fire burned hotly, because Ren had used his pet name for the liquid that came out when she had an orgasm. He smiled and shut the door, then he tasted her lava over and over again.
+
+It took another month before Suniva learned enough control to keep her Fire in check during those situations, and when she finally did, Artemis joined them in the room. Suniva was very nervous of this, and Ren assured her that everything would be fine and that he would use his own abilities in case anything happened.
+
+Suniva wasn't sure if having another woman in the bed would be something she could tolerate, but Artemis kept a respectable distance and never once touched Suniva. That first time was only another heavy petting session, and the only one to finish was Suniva.
+
+“You see? Everything is fine.” Ren said and kissed her. “Baby steps, okay? We have all the time in the world.”
+
+Suniva relaxed at his words and reassurance. It took another week before she was comfortable enough to have Artemis please Ren while he pleased her. It was an odd thing for her to see. She was on her back and Ren was between her legs and licking her special place, while all she could see of Artemis was her red metallic hair and her arms. Suniva could only guess at what Artemis was doing, since she couldn't see it first hand, and for some reason she really wanted to.
+
+Ren felt this change in her, and Artemis felt it through him, so they adjusted their positions to give Suniva the view she craved. Of course, once she saw what was going on, she wanted to do it as well. Neither Ren nor Artemis objected to her taking over pleasing him that way, and Artemis floated up into the air so that Ren didn't have to bend over to please her with his mouth in turn.
+
+That one incident had started the free exchange of 'personal favors', and then everything became much more interesting after that. Ren read his Stat Increase books every day, and except for Luck, he had a full set of them to read and didn't have to perform any special tasks or exercises to apply them. He studied his skills and their uses, then practised using them as much as he could. He also read all the spells he had unlocked and studied their uses, and continuously went over in his mind what he could do with them.
+
+At certain times of the day, and usually all night, he gave specific attention to Artemis and Suniva. Sometimes together and sometimes not, just so they wouldn't think he only wanted them together all of the time. He could have done that, especially since they always slept in the same bed for the hour they needed to sleep; but, he knew that giving them each their own time made them feel special.
+
+After another month, Ren decided that Suniva was starting to get antsy about him having full sex with Artemis and not her. It only took him a moment to come up with the solution. He told Suniva his idea and she had refused at first, and then he showed her what it would be like by using it on Artemis. Suniva had watched them closely and carefully the other times Ren and Artemis had been together fully, and she was as surprised as anyone could be when Artemis had reacted the same as if he had really been having sex with her.
+
+“It...it can't feel... does it... how?” Suniva mumbled.
+
+Artemis gasped and finished, and she held onto Ren and waited. After a few moments, she relaxed and laid back on the bed. Suniva looked at Artemis' happy face, then at Ren, then back at Artemis.
+
+“Was... was that enough... for you to decide?” Artemis panted. “He won't... break his vow, so... it's this or...”
+
+“What we've done has been more fun than I ever thought I could ever have with someone else.” Suniva said. “But, I... I need...”
+
+“Then let him please you.” Artemis said in a more normal voice. “He doesn't get pleased physically like this, but you do.” She said and smiled. “Plus, he just loves making us happy.”
+
+Suniva didn't need any more convincing, so she laid down beside Artemis and looked expectantly at Ren. “Please... be gentle.”
+
+“I will... at first.” Ren said and used his Full Illusion trick to join with her. Suniva's Fire exploded out of her and Ren caught and absorbed it before it could hit Artemis. All of Suniva's hard-won control evaporated at the intrusion and she couldn't control her abilities, her body, or even her thoughts and emotions.
+
+Suniva had never felt anything like it before and had no defenses against what was happening, and she fully entrusted herself to Ren's control. Ren was more than up to the task and handled her expertly. It was her first time, even if it was just an illusion and not Ren's real member, and he made sure that she enjoyed it quite thoroughly.
+
+That was only the first time. Over the next several months, Suniva came to see Artemis not as a rival, but as a helpful companion, and she realized that Artemis had seen her as the same thing the whole time. There was never any competition for attention, no jealousy, and no hard feelings. They cared for each other and didn't take each other for granted.
+
+As the years passed, love blossomed in Suniva for both Ren and Artemis. Real actual love, and not the fleeting infatuation she had felt when she had first discovered Ren's immunity to her Fire ability. She spent alone time with Ren and alone time with Artemis in equal measure, for the same reason Ren did with her and Artemis. She didn't want either of them to believe that she held favor for one over the other. She did have favor for Ren over Artemis at the beginning and for quite some time; but, that eventually changed and now they were both on equal footing in her mind.
+
+Suniva eventually gained full control over her Fire aspect and could call and suppress it at will, even in the middle of having sex, which was the most stressful time for her that she had ever experienced. It had been the hardest thing for Suniva to do, since she always felt the need to give herself over fully to both the sensations and to whoever she was with. They deserved nothing less than her all, and holding herself back was quite taxing for her. After that, things progressed at a normal pace.
+
+Ren, Artemis, and Suniva emerged from a portal into the bedroom of the house in the Housing District, and just under 5 hours of game time had passed. The succubi had recovered only an hour before, and they stared at the trio with open mouths as they felt their emotions. Ren was a sight in the heavily enchanted and thin armor bodysuit. His muscles rippled, his eyes sparkled, and his hair moved as if a light wind blew on him.
+
+Artemis wore her normal jeans and t-shirt that was covered with a leather jacket. Suniva wore a bright red and orange armored bodysuit, and sexiness and confidence oozed off of her. She was still in her large 4 foot tall form, and her fully-formed pearlescent wings fluttered behind her as she walked.
+
+“My King! What happened?” Seldanna asked. “You all feel so different!”
+
+“I guess 11 years in the Sanctuary might change a person a little bit.” Ren said and smiled. He had gained just over 4,000 points to each of his stats, except for Luck. It remained at 99, and even with the All-Seeing Mirror's help, he could not raise it past that and assumed it must be maxed out.
+
+“Yes, only a little bit.” Artemis chuckled. “Suniva? Are you ready to test those things on your back in open air?”
+
+“I was born ready.” Suniva joked. She had been born with them and lost them, and now had them back fully. “I should probably go back to my original form for this, but I need to know if I can handle them in this form.”
+
+“Then let's head outside.” Ren said. “We can get Princess on the way and she can join us.”
+
+Suniva laughed. “There's no possible way I can fly as fast as Princess, not even at my normal size!”
+
+“Don't worry. She takes it easy on the succubi, too.” Ren said and looked at the succubi. “Will you come and fly with us?”
+
+“My King.” Seldanna said and stood up, as did the other three succubi. “We would be honored to share the skies with you.”
+
+*
+
+Dana and her friend came back to shore with a small rowboat, a single crate of goods, and a passenger.
+
+“Rowing is definitely faster, but really tiring!” Dana's friend said as the small boat approached the dock. “I'm really glad I got that Strength booster!”
+
+“Me... too.” Dana said in a huff. “We should have... used a boat... on the way out.” Her armor had let her row just as well as her friend, and with the two of them working together, they had come back to shore in a fraction of the time it took to get there.
+
+“We would have been exhausted if we did that!” Her friend said. “Plus, I liked taking a stroll over the water. Didn't you?”
+
+Dana only nodded and kept rowing. She had been surprised by the sheer amount of things she could see under the surface of the water while they walked across it. There was a slight scare when they were out in the deepest part and her friend had thought she saw a shark fin; but, it had only been a piece of driftwood and they had kicked it away and laughed.
+
+“Dock coming up fast.” The man said and pointed, and both Dana and her friend stopped rowing and turned to look. It really was coming up fast.
+
+“What do we do?” Dana asked, slightly panicked. The man told them to put their oars back in the water and turn them so the flat ends pointed towards the shore and to hold them steady. They did that and the small rowboat slowed down significantly, and eased up to the large dock.
+
+“Ahoy, there!” A man's voice said as the boat hit against the end of the dock, made a thunk sound, and jolted them a little. “Throw up a line and I'll tie you on!”
+
+Dana's friend pulled her oar out of the water and laid it on the floor of the boat, then turned to the front of the boat and saw the small bundle of rope there. She picked it up and threw it as hard as she could, and it unrolled as it flew straight up and snapped in the air... then fell right back down to her.
+
+“You only have to toss it, not launch it.” The dock hand said with a big smile, and Dana's friend blushed.
+
+“I'm not used to this new strength yet.” Dana's friend whispered as she blushed and gathered the rope up into another bundle, then tossed it gently into the air towards the man.
+
+“That-a-girl! You got it!” The dock hand praised her as he caught the rope easily, then he tied it to a post on the dock. “Just a second and we'll have a ladder down to you.”
+
+“Thanks.” Dana said and put her oar on the floor of the boat. She thought they were going to have to free climb the dock or walk across the water to the shore, so a ladder made everything so much easier. The dock hand slid a ladder into place on the dock right beside them, and both women looked at their passenger.
+
+“Ladies first.” The man said and motioned to the ladder. “I need a hand taking the crate out.”
+
+Dana and her friend nodded and quickly ascended the ladder, and the dock hand slid down the ladder and dropped into the boat with a thud.
+
+“AHH!” Dana yelled, then relaxed. The dock hand had only jumped the last couple of feet and hadn't fallen like she thought. Both the dock hand and their passenger laughed and picked up the crate, then they somehow climbed up the ladder while carrying the crate between them. Neither Dana nor her friend could figure out how it happened.
+
+“Thank you so much for bringing me home.” The man said. “I'll get this crate to it's rightful owners.”
+
+“...and we'll go and get your wife!” Dana said happily, and the man smiled as she and her friend walked down the dock towards the fish stand and the sobbing woman that still sat there. After a quick exchange, Dana and her friend watched the woman run down the dock and greeted her husband. Both women said 'aww' when they saw her embrace her husband and kiss him, then they received the popup for completing the quest.
+
+Quest complete!
+
+You have investigated the case of the missing crewmen and found out what really happened.
+
+Rewards: 875 XP; 1,000 gold coins
+
+“Oh, my god.” Dana said. “A thousand gold coins!”
+
+“This is unbelievable!” Her friend said. “No wonder everyone was saying it was an easy quest!”
+
+Hidden Quest complete!
+
+You discovered the truth about the missing crewmen and took it upon yourself to free the captives at great risk to yourself.
+
+Rewards: 8,245 XP; 5,000 gold coins
+
+Both women gasped at that. When the metal man had given them the Protection amulets and told them that if they ever did fall in the water, they could breathe normally no matter how long they were in there. It gave Dana's friend the idea of going underwater intentionally when they were at the stranded ship. They had met the Sea Dwellers beside the boat, and when they were asked where they had received their enchanted items, they were taken to the cavern and given the captives.
+
+“D-D-Dana, did... did you... you got that too, right?” Her friend asked, and Dana nodded, then both women's eyes nearly bulged out of their heads at the next one.
+
+Optional Quest complete!
+
+You have safely returned one of the stranded crew to port (the woman's husband).
+
+Rewards: 5,000 XP; 5,000 gold coins
+
+Recovery Bonus (for getting one of the expensive cargo crates back to port): 25,000 XP; 5,000 gold coins
+
+“I can't believe this!” Dana exclaimed, and then started to tremble as she and her friend received the popup for a level up. They read it several times, dismissed it, then kind of walked and stumbled as they held onto each other and walked up the dock towards the East Gate to go back into the city. A bunch of shadows passed over them, and Dana looked up. Her mouth dropped open and her hand gripped onto her friend's arm very tightly.
+
+“Ow, Dana! What are you...”
+
+Dana pointed up, and her friend's mouth dropped open as well. They could see Ren flying high above them and he had a large pair of leathery bat wings. There were 4 red-skinned women who also had leathery wings flying around him, the metal woman on one side of him, who just happened to be flying without wings, and a short woman who had pearlescent bug-like wings that fluttered fast like a hummingbird's. A giant ram was somehow running circles around the group, and they could hear what they thought was Ren's laughter.
+
+“Did... did we just see...” Dana's friend's words trailed off as they watched Ren's group make a bank turn, swoop down, then rise back up into the air and flew over them again.
+
+“Yes.” Dana said, her voice filled with wonder. “Oh my god, yes.”

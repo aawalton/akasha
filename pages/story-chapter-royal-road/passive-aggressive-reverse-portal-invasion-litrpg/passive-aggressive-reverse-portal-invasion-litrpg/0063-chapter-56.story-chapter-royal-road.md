@@ -1,0 +1,309 @@
+---
+id: 65dbf2e9-061f-5685-93d1-32913e58e45c
+page-type-slug: story-chapter-royal-road
+title: "Chapter 56"
+slug: 0063-chapter-56
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 63
+ownLength: 3627
+unit: words
+publishedAt: 2026-08-15
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3816873/chapter-56"
+royalRoadId: "3816873"
+---
+
+“I think, unless I remember wrong, Cuilcis said that those Ceaseless were one of four actual powers here in the Torn Divide.” I wracked my brain, trying to summon the exact words he’d used. “Yeah. They were… mindless killers, I think he called them.”
+
+Steve snorted. “That checks out. Who were the other three?”
+
+“Well, Last Chance, for one. Then the Kadren, and finally some semi-isolationist Mage species. Can’t remember what they’re called. Cuilcis also insisted that most people went out of their way to avoid the Ceaseless Horde – which I cannot blame them for.”
+
+“Completely agreed.” Nix said. “In fact, I don’t mind it if we walk a bit faster, and longer. Getting spotted by them out in the open is one thing. A night-time ambush? Let’s avoid that, shall we?”
+
+“Yeah.” I rummaged my mind, then grinned. “Well. The good news is that, the closer we come to the Kadren, the less chance we’ll have of seeing those Ceaseless things again. They apparently had some sort of hostilities going.”
+
+“Weird. They both seem so nice.” Nix said drily.
+
+An hour later, I took another look around, and exhaled, releasing some of the tension that stuck with me since the ambush. “Okay. I think we’re far enough away to slow down a bit now. Unless those Scouts are incredible trackers – and they all did seem rather braindead.”
+
+“True.” Steve mused. “No tactics, no talents, no anything. Are you sure they’re supposed to be sentient?”
+
+“Not at all. They might have something like the Kadren, leaders who boss them around or something along that line. It was kinda weird that they were all either Level 1 or Level 25, though. With the exact same maximum health points, too.”
+
+“Yeah, well.” Nix shrugged. “Something to look out for in the future. For now, let’s just focus on one arch enemy at the time, eh?”
+
+“Speaking of which.” Steve beamed. “Any of you manage to unlock something good?”
+
+Haddock held up a hand. “I finally learned Endurance. Took a while. Also, I think I’m about to get Mana Shield. I definitely felt a stirring last time I tried.”
+
+“I am so damn close to Level 25 in Water Magic. But something tells me you’re less interested in what happened, and more about showing off what you got?” She raised an eyebrow.
+
+“That would be rude, wouldn’t it?” Steve asked. But he couldn’t hide his grin. “Okay, yes! This was perfect for me. Being able to slip around behind the pillar and reactivate my invisibility let me get so close that I could hit whatever I wanted. And since Liam’s deflections tend to leave attackers stunned and confused, it was like pea shooting with a shotgun!”
+
+“That’s a horrible simile.” Nix said.
+
+“Don’t care.” Steve grinned. “I got Piercing Weapons to Rare.”
+
+Congratulations. You have unlocked the higher rarity of a skill:
+
+You have slain three beings of your level or above with three different types of piercing weapons in one engagement.
+
+Piercing Weapons evolves to Piercing Weapons (Rare).
+
+Piercing Weapons
+
+Rare Passive skill
+
+Overwhelming force is a waste of energy. With the right application of speed and precision, you can leave your enemy dripping their life blood onto the sands of your choosing. Every level in Piercing Weapons will moderately improve the damage caused by piercing weapons and reduce the stamina consumed by their use.
+
+In addition, once a day, you may allow your Perception to guide your piercing attacks for a full minute.
+
+“I have no clue how that last one works.” He admitted. “But it sounds insane!”
+
+I considered the wording. Then I nodded. “It really does. Let’s figure it out. I’ll beer you.”
+
+“Beer me?”
+
+I slowly extracted one of the precious few beers we’d bought before leaving. These weren’t the fancy, mass-produced bottles of Earth. It was a clay jar, sealed with some sort of gum or the like. It was, however, according to the tavern owner, enough to ensure that it didn’t go flat. I showed my teeth to Steve in a wild grin as I held the jar in front of me. Then I launched it, high up into the air and away from him. “Use the spear!”
+
+“Why?” He managed with a pained voice. Then, he spun into action. A subtle flash around him indicated the activation of the skill. Then, with almost comical hyper-fixation, and his tongue stuck between his teeth, he leapt forward, lunged and extended the spear.
+
+The timing was perfect. Mid-spin, the flat of the blade settled right underneath the swiftly dropping jar, lowering to take the momentum from the drop.
+
+For a split second, Steve just stood there, staring at the jar caught on the outstretched tip of his spear. With bated breath, he slowly pulled the spear closer to him, until he held the jar in his hand. “Holy hell.” He breathed.
+
+“Holy hell indeed.” I nodded. “That was swanky! How’d it feel?”
+
+Wide-eyed, he tored the seal off the jar. Then he took a deep draught and beamed. “Like I didn’t even have to spend any effort to aim. I… saw what I wanted, and my body obeyed. This is going to do wonders for my precision.”
+
+“It’s like an auto-aim bot!” Nix clapped her hands. “Well done, you.”
+
+“Well done indeed.” I agreed. “Did anybody gain any levels?”
+
+“Hup!” Nix said, raising her hand. “Two levels, actually. That’ll max out my Earthen Grasp. As for the attribute points. One goes to Mental Power. The other to Fortitude, actually. I’m tired of being exhausted.”
+
+“And you really want Running.” Haddock nodded.
+
+“Nobody likes a husband who points out awkward truths.” She huffed.
+
+“I got a level, too. Twenty now.” Haddock said. “Putting another point to my Temporary Storage. I think it’s safe to say it’s proved its worth. Even if my stores are getting rather low after this fight.”
+
+“Another one for me, too.” Steve nodded. “My buff is maxed out now.”
+
+Nix looked at me through lidded eyes and asked in a suspicious tone of voice. “Liam?”
+
+“Yes, Nelly?”
+
+“My name is not Nelly. A Nelly’s a lilting flower with a pink bow in her hair. Now, stop looking like that and tell us. Did you hit Level 25?”
+
+“Maybeee.”
+
+“I knew it. I fucking knew it. You looked way too nonchalant.”
+
+“I doubt it. I can’t even spell nonchamacallit!”
+
+“Oh, stow it and tell us what you’ve got.”
+
+I clicked my feet together and saluted the feisty woman. Then I closed my eyes and focused on my notifications.
+
+There were a few to sort through. Mostly just skill increases. My Shield skill had gotten a battering this time, though the blue metal of the hefty thing still looked pristine. I ignored them all and got to the fun stuff.
+
+Congratulations. You have beaten the odds and earned your first class evolution. Those who have gotten their first taste of true power know that slowing down means defeat. Fight. Thrive. Survive. The struggle will be monumental. Yet, the rewards are worth it all.
+
+Very gung-ho of them. I hoped they were right, though.
+
+Your pursuits have earned you the chance to select an additional talent tree. The options have been sorted, and suboptimal options minimized for you. Would you like to see the minimized options? Y/N
+
+Oh. Oh! That was awesome. I grinned in satisfaction, as I took in the consequence of that option. One major drawback (beyond the whole thou cannot thwack thine enemy aspect) of my quirks was the fact that I was practically operating with half the damn talent pool that anybody else did. Everybody else at Level 25 would already have two talent trees and somewhere between thirty and forty talent options. I had half. If, however, I got the option to open access to an additional talent tree every twenty-five levels? That expanded the playing field massively.
+
+It wasn’t that I hated my available talents at all. In fact, given the choice, I would choose the same insane quirk all over again. It had kept me alive against all odds and often, I felt like I was punching above my pay grade. Yet, at some point soon, I’d be running out of great choices in the defensive talent tree. Now? Well, now it would seem that I wouldn’t have to choose any b-rate talents after all.
+
+I did opt to see the minimized options. I wanted to see what the system figured wasn’t optimal for me. The list was about a dozen long. I picked a choice at random.
+
+Movement Specialist
+
+You have proven that you are capable of mastering the battlefield. With fast movement, solid judgement and a dose of steadiness, you will always be able to be at the right place in the right time and deny others the chance to move you.
+
+Movement Affinity unlocked
+
++3 Agility, +1 Perception, +1 Fortitude
+
+Select this talent tree? Y/N?
+
+That… honestly didn’t sound bad. In combination with my current skills, being able to move anywhere and stay put where I wanted could honestly give me some serious utility. It would also give me a serious leg up on some of the faster enemies, like those damn Marmots, who’d given me such trouble. No clue what the affinity meant, but it couldn’t be a bad thing. And this was one of the bad choices? I moved on to the next one.
+
+Autark
+
+You do not intend to rely on anybody else, ever. You can survive anywhere, harvest, extract and build whatever you need to thrive. Where others can be taken down by the sheer hostilities of nature, you will never fail.
+
+Loner Affinity unlocked
+
++2 Dexterity, +2 Fortitude, +1 Perception
+
+Okay. That one sounded super cool – but it was also a direction I didn’t care for. Harvesting, extracting and building? It had probably come about due to my skinning and eating a ton of the beasts I’d killed. But honestly, I wasn’t planning to become some killer hermit. Also, the bonus to Dexterity would be an absolute waste for somebody like me.
+
+I skimmed over the rest of the minimized choices. In most cases, I could see what had prompted the options in the first place, or what they were going for. Like one talent tree that went all-in on magically improving my gear. Yet, I mostly agreed with them being deselected. Especially that one psychotic class that was all about suffering damage and regenerating lost limbs. What even was an Azarinth? Sounded like a painkiller.
+
+Eventually, I opted to focus on the short list they’d come up with.
+
+Your available options are: Defense Specialist, Bodyguard, Passive Specialist
+
+Defense Specialist? That did sound like me.
+
+Defense Specialist
+
+Why fix something that isn’t broken? This choice is for somebody who has found their lot in life and wants to double down. You have shown an affinity for defense, for surviving what others would not. A Defense Specialist will keep their defensive talent tree, but will unlock an additional tier for each talent once the first is completed.
+
+Defensive Affinity unlocked
+
++4 Fortitude, +1 Strength
+
+Okay, that was wild. Not what I expected, but… yeah. I could see the possibilities here. My Wave of Reflection would be able to grow even more powerful, reflecting even higher percentages of damage. I could get a papercut and kill somebody. My Defense talent could balloon my Fortitude attribute to even greater heights. I’d be nigh untouchable. And Deflect? I whistled to myself, ignoring the others in the background clamouring for an update.
+
+Only… I’d still have the same glaring flaws. A good enough archer, flying enemy or Mage could take me down from out of range of my retaliation, and I’d have no recourse against them. And I’d be defenseless against anybody who didn’t actually attack me directly.
+
+I checked out the next one.
+
+Bodyguard
+
+You are a defensive powerhouse. You have proved over and over that you are capable of saving lives. Now, it becomes something more, something quintessential to your build. A Bodyguard will lay down his life before any of his charges are killed and will never be stronger than when he is protecting others.
+
+Bodyguard Affinity unlocked
+
++2 Fortitude, +1 Perception, +1 Agility, +1 Strength
+
+Select Bodyguard? Y/N?
+
+That one was a no from me. I liked the idea. In theory. And I definitely wasn’t going to let any of the others get hurt while I was on watch. But it just didn’t speak to me. Steve wanted to explore this whole damn world. Haddock and Nix wanted to build a castle and settle down somewhere. Meanwhile, my goals – even with all the shit that had gone wrong since I got here – hadn’t changed. I wanted to grow strong. To make something of myself and stand out. That wasn’t going to happen, if I let myself become a servant to others. I cracked my neck and, with a shiver of excitement, looked at the final option.
+
+Passive Specialist
+
+Some find it in themselves to climb the tallest mountain. Others decide to become the mountain. You have shown an affinity for self-growth, passive skills and talents. A Passive Specialist will focus on this affinity, building up his foundation through passive talents and improvements to existing passives, until he becomes as unshakeable as the mountain.
+
+Passive Affinity unlocked.
+
++3 Fortitude, +1 Strength, +1 Mental Power
+
+Select Passive Specialist? Y/N?
+
+Everything else faded into the background as I took in the offered option. This was the absolute perfect choice for me. An entire talent tree revolving around passives – the foundation of my positive quirk. Every single choice in this was likely to benefit from my quirk, making it fifty percent stronger and more effective. Also, the ‘improvement to existing passives’ part sounded promising. So, it might be possible to gain a passive talent that improved my existing passives, all of which would be improved by my quirk? That sounded broken in the best kind of way. Also, I rather liked the single point to Mental Power and the implication that this talent tree would also help me shore up my failings there.
+
+Yes, please!
+
+I groaned with pleasure as the new additions to my attributes coursed through my veins. The three points to Fortitude, doubled and improved yet again by my Defense talent fortified me, making me feel indomitable, more solid, more me. Strength gave me the enjoyable sensation of stretching after a good workout, while Mental Power… just slid in there. I didn’t feel squat.
+
+“What’s going on? Are you evolving?” Nix asked.
+
+“Turning into a Transformers?” Steve asked.
+
+“Looks like he’s going Super Saiyan, but without the cool effects. Or hair.” Haddock added.
+
+I paused, opened my eyes and gave them all a deadpan look. “Nerds. You’re all such frigging nerds. Give me five, then I’ll tell you. But let me say it right now: getting yourself to Level 25 is fun!”
+
+There was just a single notification, and it was absolutely lovely.
+
+Passive Affinity unlocked. From here on out, you are more likely to be able to unlock passive skills for yourself.
+
+There were no further surprises or bonuses. Everything else worked according to how things normally worked in this world. I got a new talent tree, with only the first Tier of talents available to me. Supposedly, the second Tier would unlock for me at Level 30.
+
+I only got three different talent options for the first Tier. But what talents!
+
+Natural Growth.
+
+Passive Talent. This grants you a natural gift for learning and improving. Choose an attribute. Any skill primarily associated with said attribute will increase faster.
+
+20% increase in learning speed per point.
+
+0/5 points.
+
+This talent can be chosen multiple times for different attributes.
+
+Ri-fucking-dunculous! We already had the Starved Growth trait. Now, with this on top, I’d be able to improve my skills even faster? And since it was a passive, it’d be a full 150% faster on top of everything else? I ached to just dump every single point I earned into the talent for the next twenty-some levels and let my skills build me into an untouchable behemoth!
+
+Passive Power
+
+Passive Talent. May be engaged at will with no cooldown. While engaged, this talent grants you a constant boost to all your attributes.
+
+10% boost per point.
+
+Cost: 5 stamina/second
+
+0/5 points
+
+Passive Power was pretty similar to the Tier 4 Burst of Power talent in my defensive talent tree. It had some massive drawbacks. Where Burst of Power was a one-off that cost nothing, but had a five-minute cooldown period, this one was a stamina hog. Even if I used my stamina regeneration skill, I’d only be able to keep it on for about five minutes total before running out.
+
+The advantages were quite obvious, though. It could be turned off and on as I pleased, letting me shore up stamina in between activations. Since there was no cooldown, it could be timed and applied with prejudice. Also, Burst of Power offered a 30% boost, while Passive Power offered 50% - or 75% with the effect of my quirk applied. That would take my health well above a thousand and my Agility above twenty-five! Good luck to anybody trying to take me down while I had that running!
+
+When I saw the third and final talent, however, I stopped. I read it again. And again. Then I groaned. This time, it was not a groan of pleasure. Rather, it was a sign of the most exquisite anguish and mental torment known to man.
+
+I murmured the magic words.
+
+“What was that, Liam? I’m fairly sure we didn’t catch that.” Nix asked innocently.
+
+“You were right. You were right, okay? I hate it when that happens.”
+
+“I know, love. I do try.” Nix unapologetically accepted the accolade with a smile. “What was I right about?”
+
+Instead of explaining, I decided to read the damn thing aloud.
+
+Mirror of All
+
+Passive talent.
+
+A Passive Specialist incorporates his chosen path so deeply that it is mirrored onto those around him. This talent enhances a single fixed emotion in selected targets around you. The impact of the talent depends on the attribute of your selected path, pitched against the Mental Power of your target.
+
+Cost: 1-10 stamina/minute
+
+20% effectiveness per point.
+
+Range: 100 meters
+
+0/5 points
+
+This talent can be chosen multiple times for different emotions.
+
+“That was some very flowery speech. What does it all mean?” Steve asked.
+
+“I think… that whichever emotion he picks for the talent, he can make the targets feel really strongly.” Nix mused.
+
+“Why didn’t they just say that, then? Also, that sounds pretty poor. I thought you were looking for a taunt?”
+
+I raised an eyebrow. “Not seeing it, Steve? Let’s just see which emotions I could choose to mess about with.” I entered the system and mentally clicked around a bit. “There we go. First on the list. Anger.”
+
+“Oh.” Steve blinked. “So, you’re actually able to take the anger of others and dial it way up? I take it back. That sounds efficient. What was that second part about pitching?”
+
+Nix repeated the words from memory. “The impact of the talent depends on the attribute of your selected path, pitched against the Mental Power of your target.” She frowned. “You selected the Path of Fortitude. That’s what they mean, right? Wait. That means, when they’re checking to see how effective it’ll be, they’ll match your insanely high Fortitude against the enemy’s Mental Power? Seems broken.”
+
+“I’m not complaining.” I grinned. “Let’s see what else I could pick. Adulation? I can become adorable?”
+
+“Not what it means. Also, no thank you on that count.” Nix laughed.
+
+“Okay, okay. Fear. That one might actually be effective. Joy. Interesting, but no. Pride. Same. Sadness? Who made this damn list? Why would I want everybody to start crying when they look at me?” I snorted. “Lust? How about it, you three?”
+
+“No thank you.”
+
+“Not in a million years.”
+
+“I will fong you.”
+
+“Oof. Tough crowd here.” I smirked.
+
+“Let’s cut this short.” Nix said. “Since we’re looking for something that will work in battle – that is what we’re looking for, right?”
+
+“Absolutely.”
+
+“Then we can probably ignore most of the others. Either the reaction isn’t useful or something we want, or… well, I doubt that the Kadren starting to feel pride from looking at you is going to do anything good. Meaning, we should focus on either… anger or fear?”
+
+“Mmmyup. The rest is crap.”
+
+“In that case, it’ll need to be anger.”
+
+“Just like that?”
+
+“Yes. Just picture it. We’re surrounded by Kadren. Furry, scaly, angry bastards everywhere. You use a solid dose of fear, and they all back off. What then?”
+
+I blinked and considered the situation. “Then they run away for a while, until it stops working. Afterward, they know they’ve been hit by a talent, and they’re either dumb enough to charge again, or will stay and attack at a distance. Also, the clever ones will spread the word.” I followed the argument to its logical conclusion. “Meanwhile, if it’s anger, I’ll be able to make a bunch of them absolutely fixate on me. That will, of course, be bad for my health, but it’ll allow me to keep them close by and remain under my spell. And since it should be more, well, impactful because of my Fortitude, most enemies should outright lose their minds and try to charge me.”
+
+“And close combat is where you excel.” Nix agreed.
+
+I nodded softly, and, with a sense of satisfaction, put five full talent points into the talent. I was going to make a lot of Kadren very angry very soon.

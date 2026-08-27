@@ -1,0 +1,295 @@
+---
+id: 32425ede-f72a-5a04-886b-d3b2a526b3ef
+page-type-slug: story-chapter-royal-road
+title: "Chapter 782 - Real Stuff Happens"
+slug: 0785-chapter-782-real-stuff-happens
+partOf: mythrans-master-of-all-continued-completed
+position: 785
+ownLength: 3159
+unit: words
+publishedAt: 2018-12-03
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/311865/chapter-782-real-stuff-happens"
+royalRoadId: "311865"
+---
+
+Dana and Gretchen sat on one of the benches in the small park beside the university, while they waited for their next class to start, and were staring at the footage someone had uploaded about playing the game the night before.
+
+“Oh, my god.” Dana whispered as she saw Adventurer after Adventurer die in various ways. Gretchen didn't say a word as the storm cloud formed over the Adventurers, because she knew that it wasn't a good sign. The uploader had been anonymous; but, whoever it was, had been one of the remaining Adventurers to survive the rain when it changed into Lightning Bolts. The last thing the video showed was them getting scooped up by a Greater Lightning Elemental, a bright light, then nothing.
+
+“Good god.” Gretchen said. “Now I don't feel so bad about not getting online last night.”
+
+“I know, right?” Dana said and scrolled down past the video and started to read the comments. “I can't believe that carnage was caused by Gnomes!”
+
+“Gnomes.” Gretchen shook her head. “They aren't like any Gnomes I've ever heard of.”
+
+Dana chuckled. “The programmers must have tons of time on their hands if they went through all the trouble of rewriting Gnomes to kick ass and take names.”
+
+“Dana.”
+
+“Yeah?'
+
+“Did you notice that the Gnomes didn't loot anything?”
+
+“What?”
+
+“They were killing players left and right, all over the place, and not one Gnome stopped to pick up the loot.” Gretchen said.
+
+“That can't be right.” Dana said and scrolled back up to the video to watch it again. Instead of watching the action and carnage in the center of the screen, she focused on the background and to the sides instead. “Hey, you're right.” She said. “All that stuff is just... laying there.”
+
+“Oh, no. No, no, no!” Gretchen said and stood up. “We are not going there to pick that stuff up! We are NOT.”
+
+Dana laughed. “I have to admit that I'm tempted to do just that.” She said. “I don't want to waste the opportunity, though.”
+
+“For what?”
+
+“This new expansion for the game.” Dana said. “They wouldn't make the content completely inaccessible like the comments are suggesting. What would be the point of the tech guys doing all that work and then not letting people see it?”
+
+“I... guess so.” Gretchen said.
+
+“I know so.” Dana said. “We'll get through this class, take our double lunch, hand in our lab assignment from last week, then we'll go over to my place.”
+
+Gretchen's face flushed a little red.
+
+“I think someone's thinking about our new fluffy-haired little friend that lives next door to me.” Dana said with a big grin.
+
+“I am not.” Gretchen said as her face went fully red.
+
+“Are you sure?” Dana asked. “Because ever since he told us he's a bit of a sex addict, I've been thinking about him.”
+
+“Y-you have?”
+
+“Sure.” Dana said. “I mean, most people don't admit to things like that, right?” She asked. “We only just met him and he let that bombshell drop right in the middle of a conversation.”
+
+“It was a little odd.” Gretchen had to admit. “I think he's kind of starved for friendship.”
+
+“That's the impression I got from the life-sized Barbi Doll.” Dana said with a crooked smile. “Hey, do you think he's doing her?”
+
+“Dana!”
+
+“What?”
+
+“He... he said that... he can't.” Gretchen said.
+
+“Oh, yeah.” Dana sighed dramatically. “Thanks for ruining that fantasy.”
+
+Gretchen snorted a laugh. “Dana...”
+
+“Don't worry. I'm not going to try and steal him from you.”
+
+“Dana!”
+
+“What?” Dana stood up and put an arm over her shoulder. “You know there's no spark between us. I'd be wasting my time if I tried to pursue him.”
+
+“Again.” Gretchen said.
+
+“Ha. Yes, again.” Dana said. “Come on. If we get to class early, maybe the professor will take pity on us again and we can go to the quad for the lecture.”
+
+“I was there and I still don't know how you convinced her that the quad was a viable space for that.” Gretchen said with respect as they started walking.
+
+“I know, I know. It's a gift!”
+
+“Aren't you supposed to say something like, 'I'll only use this power for good' or something?”
+
+“Are you kidding? Where's the fun in using it for good?” Dana asked, and the both of them laughed as they made their way to class.
+
+*
+
+“Oh, my god.” Gwendolyn said as she laid in bed and watched the same footage that Dana and Gretchen had seen. “Clint! Get back in here and look at this!”
+
+“Ah'm almost done makin' yer breakfast, darlin'.” Clint said from the kitchen. He had been a little surprised that Gwendolyn had wanted to come to the ranch for the whole weekend; but, being the good-natured man that he was, he ignored his worries about not getting any work done with her around. He was glad that he had, because she had stayed well away from the dangerous parts and helped where she could. She also looked fantastic wearing tight jeans and his cowboy hat... and nothing else.
+
+Clint chuckled at the memory of her doing that their first night at the ranch. “It's ready.” He said and carried her breakfast into the bedroom. “What ar'ya yellin' abou'?”
+
+“This!” Gwendolyn held up her phone.
+
+“Oh? Was tha' the message ya got las' nigh'?”
+
+“I'm so relieved that I booked off last night.” Gwendolyn chuckled. “Look at this mess!”
+
+“Ah'll look at it while ya eat, darlin'.”
+
+“But...”
+
+“Ah'll turn it off if'n ya don't start stuffin' yer pretty face.” Clint said and put the tray on her lap and took the phone out of her hand before she knew what had happened.
+
+“Hey, how did you do that?”
+
+“Ah distracted ya with mah southern charm.” Clint said and grinned, and she chuckled.
+
+“All right.” Gwendolyn said and started to eat.
+
+Clint rolled the video back and started it from the beginning. “Oho! Gnomes!”
+
+“Ah moh.” Gwendolyn mumbled, then swallowed the food in her mouth. “I know.” She said. “What were the programmers thinking?”
+
+“Probably tha' it'd be funny as hell if'n someone stumbled onto them.” Clint said. “Ah don' think they evah imagined havin' a full scale battle with... damn, there's so many of 'em tha' ah can' even count'em!”
+
+Gwendolyn chuckled. “Keep watching.”
+
+“Keep eatin'.” Clint countered.
+
+They both returned to their assigned tasks, and after a little while, they both finished.
+
+“Clint, breakfast was delicious.” Gwendolyn said as she wiped her mouth with a napkin. “Thank you.”
+
+“T'was nothin'.” Clint said and handed her back her cell phone. “Damn, tha' was the weirdes' thing ah evah did see.”
+
+Gwendolyn snorted a laugh. “I can only imagine how many complaints the programmers got.”
+
+“At leas' tha same numbah as the players tha were stupid enough ta not heed tha warnings.” Clint said with a grin, and she laughed. “Are ya headin' inta work today?”
+
+“I've got a flexible schedule, so I'm not really in a hurry.” Gwendolyn said, then she smiled demurely. “Plus, I just ate a huge breakfast and I need to burn off some extra calories.”
+
+“Oh? Do ya have any idea how yer gonna do tha'?”
+
+“I do; but, it's going to require the help of a big, strong cowboy.” Gwendolyn said and pulled the edge of the blanket down to reveal her breasts.
+
+Clint stood up. “Ah'll go and git Josh and see if he wants ta...”
+
+“Clint!” Gwendolyn exclaimed and pulled the blanket back up to cover herself.
+
+Clint laughed as he undid his jeans and dropped them to the floor. “Ah'm jus' jokin'.” He said and climbed onto the bed and slipped under the blanket with her. “Now tha' ah gotcha in mah life, ah ain' nevah lettin' anyone else see tha' sexy body.”
+
+“You... think I'm sexy?” Gwendolyn asked as he took her into his arms.
+
+“Darlin', yer so sexy tha' ah was worried ah wasn' gonna git any work done this weekend.” Clint said.
+
+“R-really?” Gwendolyn's face flushed red. She was very flattered that he thought she was that distracting.
+
+Clint nodded and gave her a kiss. “Ah was impressed at how well ya fit in, an' ah appreciate everythin' ya did... and didn' try ta do.”
+
+Gwendolyn tried to keep her feelings off of her face; but, after getting two great compliments from him, she couldn't hide how that made her feel.
+
+“Clint... I...”
+
+“No need fer words, darlin'.” Clint said and kissed her. “Ah'm jus' gonna love ya like ya deserve.”
+
+Gwendolyn let a tear escape from the corner of her eye as Clint did exactly that.
+
+*
+
+“They're like rats fleeing a sewer.” Officer Holly Stonewall said as she read through the piles of witness statements that Ren's lawyer firm had requested from the police, who had conducted the follow-up interviews of anyone related to the court cases after the news story had broken.
+
+“It's every man for himself, to coin a phrase.” Detective John Ramirez said, then chuckled. “I suppose the PC version should be, 'every person for themselves'.”
+
+“Yes, heaven forbid that you make a general statement that everyone knows the meaning to, and some left-wing nut decides to find it offensive and we have to change it for their sake.” Officer Holly said, bitterly.
+
+“Someone got up on the wrong side of the bed this morning.” John said with a smirk.
+
+Officer Holly's face went a little red because he knew exactly what side of the bed she had gotten up on. “I think I'm going to book off for the next few days and take a break from all of this.”
+
+“Actually, that's a great idea.” John said and picked up his desk phone and dialed the HR department. “Hey, Gil.” “Yeah.” “Uh huh.” “No, it's business this time.” John said. “Officer Stonewall needs a week off for personal reasons.”
+
+“John, it's going to take more than...” Officer Holly stopped talking when he raised a hand.
+
+“Yeah, starting today sounds good.” John said. “No, we'll finish by lunchtime.” “That's great, Gil.” “Me? Why would... oh. That does sound good.”
+
+I wonder what they're talking about? Officer Holly asked herself.
+
+“All right, then. Put me down for a week, too.” John said, to Officer Holly's surprise. “Thanks a lot, Gil. I'll be by to pick you up first thing in the morning.” He said and hung up the phone.
+
+“What was that all about?” Officer Holly asked.
+
+“As of noon today, you and I are officially on vacation for a week.” John said with a smile. “Funny enough, Gil's day off is tomorrow and he's going fishing.”
+
+“Scratching his back, are you?”
+
+John chuckled. “We've gone a few times before; but, it's rare we're both off on the same days, especially with what our schedules have been like lately.”
+
+“It has been a bit of a mess the last few weeks.” Officer Holly admitted.
+
+“Gil's got a handle on the staff rotations and he'll have us all back on normal shifts by next week.” John said.
+
+“Ha! No wonder he doesn't mind not having two more people to juggle for a week!” Officer Holly said.
+
+“That's almost exactly what he said.” John smiled. “So, let's get these damn witness statements sorted and we can go.”
+
+“By noon?” Officer Holly looked at the stack of paperwork. “John...”
+
+“We got this.” John said and took out the first list of names. “Just look for the names on each list and add their statement, rather than trying to sort each statement into each list.”
+
+“Won't that take longer?” Officer Holly asked and changed her procedure to match John's.
+
+“Only at first.” John said. “As we work down the stacks, we'll start recognizing the names and it'll be easier to sort the more we sort, because there will be less and less to go through.”
+
+“All right. I'll try it your way.” Officer Holly said and started sorting again.
+
+John leaned over his desk to get close to her and whispered. “That's what you said last night.”
+
+Officer Holly's face turned red for a moment, then she scowled and whispered back angrily. “John.”
+
+“You're so cute when you're angry.” John whispered with a grin and sat back, and got to work himself.
+
+*
+
+“This is amazing.” Edward Torren, the CEO of Sid Tec said as he looked at the stock reports for his company. “We took a bit of a hit when the news of the court cases against us broke; but, since it was only for defamation and information breach, it got pushed aside by all of the other companies being involved with the actual experiments.”
+
+“Sir?” His secretary leaned into his office. “Are you talking to me?”
+
+“No, no. I'm talking to myself.” Edward said.
+
+“That's okay. Talking to yourself is normal.” She said with a smile. “When you start answering yourself, that's when you might be in trouble.”
+
+Edward barked a laugh. “I'll keep that in mind. Thank you.”
+
+“You're welcome!” She said happily and disappeared.
+
+“She's definitely a lot different to deal with than Elise was.” Edward said and looked at the financial reports for the other companies. “I wonder what Elise... oh, hello.” He said when he saw the name of the head company on the first document. “Haddon Enterprises, eh? I guess I know what she's been doing now.” He looked at the next document and saw the same thing. “What...” He shuffled the papers around and saw that a very large majority of them were now subsidiaries of Haddon Enterprises. “Well, damn.”
+
+“Problems, sir?” His secretary asked and poked her head into the room again.
+
+“Only if I don't decide to hand over 11% of the company.” Edward said.
+
+“What will happen if you don't?” She asked.
+
+“I could either lose it all or keep things as they are.” Edward said. “Not great odds of the latter happening, though.”
+
+“I'm sure if you...”
+
+“No, Elise was pretty clear the last time we talked.” Edward said. “If I try and fight this, it could all be gone.”
+
+“I'm sorry, sir.”
+
+“It's all right. It's my fault for letting things get to this point.” Edward said and looked around at his plush office. “I'll miss running things, though.”
+
+“Sir, I'm sure that...”
+
+“No, the first thing a controlling company does is remove the old leadership.” Edward said. “That's just good business sense.”
+
+“I think that would depend on if it's run by a committee or a CEO, sir.” The secretary said. “This is only a small company and there's only you at the head.” She said. “Who could they possibly get to replace you?”
+
+Edward didn't have a response for that.
+
+“Don't worry, sir. Elise is smart. She knows what's what and she'll do what's right.” The secretary said. “Even if you fight and end up losing instead of just handing over controlling interest, she won't take the company from you.”
+
+“I hope you're right.” Edward said. “I really do.”
+
+“I am, sir.” The secretary said. “I guarantee it.”
+
+Edward raised his eyebrows at her. “Do you know something I don't?”
+
+“No, sir. I just believe she's a good person.” The secretary said. “She'll come through for you. I just know it!”
+
+Edward looked down at the financial empire that Haddon Enterprises had become, quite literally overnight, and he knew he could never overcome the sheer economic firepower that was poised against him.
+
+“Send a message to Elise Stanford.” Edward said. “Tell her I... I want to discuss terms of surrender.”
+
+“I don't think you need to be that dramatic about it, sir.” The secretary laughed. “I'll give her the message.”
+
+Edward thought he had used just the right amount of drama and smiled. “I doubt she'll be able to respond right away with everything on her plate right now, so don't make it sound urgent.”
+
+“I understand, sir.” The secretary said and disappeared again.
+
+*
+
+What Elise had on her plate right then was sleep. She was sound asleep next to the man she loved, after having secured his financial future and ensured that Ren didn't have to worry about money ever again. Not that he had ever worried about it, anyway. It was one of the things she loved about him. Once he had enough to not worry about it, he didn't worry about it. His trusting nature was as endearing as his fluffy hair was, and she revelled in both every chance she got.
+
+Barbi laid on Ren's other side and she was sound asleep, too. She had been up just as long as Elise had been and needed just as much sleep. She never imagined that she would be cuddling up to Ren, though. Unlike him, she had trusted too many people and been burned too many times, so she was cynical about every decision that affected her and she was careful in how she dealt with those decisions... until Elise offered her a job.
+
+Barbi thought it would have been a week of hard work to get everything set up and running as Ren's public relations specialist, then the work would probably slack off and she would be left with lots of spare time. She was delighted that the job was much harder than she had anticipated and that she needed nearly all of her acquired skills and contacts to keep and maintain everything that was going on.
+
+Despite the job being difficult, Barbi had been pleasantly surprised about how easy it was to work for someone on a personal level. It was so different from her normal experiences, with office politics and backbiting by her coworkers to try and get ahead, and none of that existed in her current job. She felt like she was her own boss, and she made decisions and just informed Elise and Ren about them, rather than being told what to do and how to handle it.
+
+Barbi liked that. She liked it a lot. She didn't remember any other time in her life when she had been happier to go to work. She was actually eager to face the next challenge and she knew she could meet it head on with both confidence and skill. The people around her while she worked didn't fear her abilities or had fake personalities for her to deal with. They were open and honest and made her feel welcome as soon as she had met them, and that made her happier than she had ever been.
+
+It hadn't taken Barbi long to decide that she would do everything she could to help them as much as possible in her field of expertise, and she did it with aplomb. Her job was to maintain Ren's public persona; but, she knew the others were just as involved with his public persona as she was, and she made sure that none of them, herself included, could be seen in a negative light.

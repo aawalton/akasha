@@ -1,0 +1,179 @@
+---
+id: 3cfd8f84-b97f-5257-9820-e17c8376a1c9
+page-type-slug: story-chapter-royal-road
+title: "Chapter 21"
+slug: 0024-chapter-21
+partOf: passive-aggressive-reverse-portal-invasion-litrpg
+position: 24
+ownLength: 4166
+unit: words
+publishedAt: 2026-06-10
+link: "https://www.royalroad.com/fiction/170563/passive-aggressive-reverse-portal-invasion-litrpg/chapter/3518337/chapter-21"
+royalRoadId: "3518337"
+---
+
+The window for escape was closing. On the eastern and southern fronts, resistance was collapsing fast, organized defense falling back before the unstoppable power of the monster leaders, and the sheer numbers of the bestial attackers.
+
+In front of me lay the only possible way out. The fallen wall segment, currently swarmed by people trying to use it to get out, to race out in order to hide out on the plain and avoid becoming monster food.
+
+They had the right idea.
+
+I slowly launched into a jog. I pointedly did not shake my head in order to clear it of the befuddled sensations. That didn’t seem like the proper way to treat a concussion. Of course, neither did going into monster-filled territories, but again, beggars and choosers…
+
+The beasts were intelligent. That, or whomever was in charge was intelligent, and had the ability to corral the beasts efficiently. However it worked, the damn things went from an evenly arrayed push from all sides to an absolute swarm for the opening, in order to trap us all.
+
+For now, enough people were rushing to escape, that the exit wasn’t plugged. But there was no doubt that the door was closing, rapidly.
+
+Even so, I didn’t increase my pace. My Agility had taken an ugly hit from the debuffs, and I wasn’t going to try to outrace anybody and put even more stress on my already damaged leg. No. This was going to be ugly, drawn-out and bloody.
+
+In spite of everything, the situation, my mental health, my poor odds of survival, I felt a feral grin slowly emerge. If the fuckers wanted to take me down, I would make damn sure that it was going to be ugly for them as well. I’d taken one leader out. I could go for seconds, if they wanted to try me!
+
+The first attack took me by surprise. I didn’t even see it coming. Just felt a burning sensation on my back, and saw a Lesser Glimmerscale at least fifty meters away close its jaw still lit with fiery residue with what I could only interpret as smug satisfaction.
+
+I tried to ignore the pain of the… dammit. Of the forty-some damage the fiery missile had caused – crappy start to the conflict. Instead, I focused on the fact that the damage allowed me to activate Wheel of Magic. With the speed of a mental nudge, a shining, see-through wheel came into being around my torso, slowly starting to rotate around its own axis, with me at the hub. Five spokes emerged from the wheel, all pointing straight at my diaphragm. A second later, the point at the end of one of the spokes lit up with a clear, blue colour, and the wheel started spouting small missiles back at the nearest beasts. There was a delay of several seconds between each missile, and the missiles didn’t seem horribly damaging. Still, they were automatic attacks, where I didn’t have to further divide my attention.
+
+Ahead of me, a tall woman with a massive bone staff bristling with some dark green energy had stopped advancing. I couldn’t tell if it was fear or something else, but she’d stopped running, and was waving her staff in a figure-eight, fending off one of the otter creatures and a Skreeling.
+
+“Heads up!” I yelled, as I ran past her. The staff nearly clipped my shoulder, and, at the edge of my vision, I watched the tip dripple some horrid, sizzling energy. Then I was in between the two monsters, and all coherent thoughts were put on hold.
+
+The otter hit me first. It raced at me fast enough I didn’t even have the time or the wherewithal to get the shield in front of the glowing, barely visible claw-tipped paw. I barely managed to get my swordbreaker in between the claws and my leg on a downward swipe.
+
+I hardly felt Deflect activate, but I sure as shit spotted the result. One moment, the slippery, overwhelmingly fast beast was en route to slide around me and go for my heels. The next, the beast tumbled head over heels as its paw was dragged downward with vastly more force than either of us expected.
+
+I was surprised enough, I even managed to get an Identify off, seeing what the hell I was up against.
+
+Lesser Riverkin
+
+Level 11
+
+Further information locked
+
+Then I was past, and right up close with the Skreeling who looked caught in a frenzied rage, launching itself head-first, claws swinging… straight at my shield.
+
+This time, I didn’t even slow down. I kept up my forward pace, trusting in my momentum to keep me going against the German shepherd-sized Skreeling. Also, yes, I activated Wave of Reflection.
+
+The feedback almost killed me. Not because the big, ugly beast knocked me back with its leap. Quite the opposite. I expected to be knocked back from the impact and adjusted for it. However, when it struck my shield, every single impact, claws and teeth simultaneously, were met by an instance of Deflect, flinging the beast back and up. The Wave of Reflection that struck it mid-air, meanwhile, obliterated it entirely.
+
+I nearly fell on my goddamn face, stumbling forward like a hurdler who’d clipped the top of an obstacle. With a brief wave of nausea and a slight burst of pain from my leg, I righted myself and kept going without looking behind even once. There was no time.
+
+The closer I got to the fallen wall segment, the tighter the press became. By now, the monsters were flinging their all at us, in an attempt to stopper the bottle.
+
+Everybody else was coming to the same conclusion, of course, and the result was easy to see. The fallen wall was getting clogged up with the surging number of bodies and fallen humans.
+
+A few people were being clever about it, leaping from the ramparts to avoid the worst of the press, using talents to soften the landing or kill enemies nearby to improve their chances. Me, with my damaged leg and concussion? Yeah, no. Even if I were agile enough to nail a landing like that, the debuffs ensured I wasn’t going to chance it. Head down, shield up, and straight into the grinder for me.
+
+The press of bodies kept increasing. Now, I was running alongside a crying teenager who definitely shouldn’t have been allowed to go to Ademia at his age, and a thickset woman with a mace who looked like she’d ace any Russian weightlifting contests. Neither were slowing down, except for the teen who, even through tears, was making punching motions and unleashing some fiery substance.
+
+Only, the presence of the monsters was thickening as well. And now, we were running out of space for evasive manoeuvres.
+
+My upper chest took a hit, slowing me down for a moment. Then my leg flew back, spilling me to the ground. Thankfully, it wasn’t the injured one, and I picked myself up and continued with little but a twinge to the leg. In the press of monster bodies ahead, I couldn’t be sure which of the damn lizards hit me – hell, it might also be friendly fire – but I wasn’t trying to get even. Just get away.
+
+A massive burst of fire emerged from just ahead, and the teenager, panting, started stumbling forward haltingly. A Skreeling leapt in to bite him from the side. I barely got there in time, interposing the swordbreaker between its wide-open jaws and pushing downward.
+
+Deflect engaged once again, and I took great pleasure in watching the damned thing’s head get dragged down, as if its neck was stuck in an industry-strength rubber band affixed to the ground.
+
+I reached out and grabbed the teen’s arm. “No time outs! We’re on the clock, kid.” Then I pressed onward again.
+
+We passed by the woman, who had stopped and was glowing from within as she activated some talent or other. Then, I had to let go of the teen’s arm, as we leapt onto the ruined section of the fallen wall and ran for freedom.
+
+The view on the other side of the wall nearly got me killed. In the last second, I managed to duck down behind my shield, as an extra-fast specimen of those Riverkin slid at me, fangs first. Deflect activated, making the beast tumble away behind me with an extremely satisfying mewling sound, and I stood up and took in the scenery. Then I cursed, and got back to running.
+
+I’d lost the teen somewhere in the last dozen meters, as well as the bodybuilder. They’d been replaced by three other people, one with enough blood running from her neck that I doubted she was long for the world. It was everybody for themselves right now. And I wasn’t giving us good odds.
+
+The camps were overrun. What had, just an hour ago, been a chaotic, but merry sight of what humanity looked like without proper planning, had been turned into a post-apocalyptic sight. Fires sprouted everywhere, and the growing shadows of the evening seemed to hide enemies behind every tent.
+
+The presence of monsters didn’t stop at the camps, though. No. Mixed bands of Skreelings, Riverkin and Glimmerscales roamed the Killing Fields beyond, aiming to catch the people who were fleeing the battlefield, alone or in small groups. Whoever they were – whatever they were – they’d come prepared.
+
+I growled and sprang into motion yet again. Whatever else might happen tonight, the only way I was going to actually survive this mess was if I managed to get through the still-teeming scores of beasts trying to stem the fleeing people in the first place. Evading any hunters could come later.
+
+***
+
+My back hit the mud of the river bank hard, as I watched my stamina hit single digits. I snarled into the darkness. This was it for me. I’d done what I could. I just couldn’t lose the bastard.
+
+It had to be closer to morning than night, by now. I’d lost any sense of time and orientation hours ago, though, as the nightmare of being hunted kept up and would not relent. The night sky was still pitch black, and the only noises were those of my enemies, trying to find me and kill me.
+
+At first, things had looked up. I’d been one of several hundred escaping into the evening. Once we managed to push through the encroaching press of beasts and through the chaotic mess of the overrun camps, there was a short period of relief, as we faced the wide plains beyond. I found myself picking a random direction. The only coherent decision at that time was to not run in the direction of the canyon.
+
+The single team of three Skreelings and a Riverkin that decided I’d be easy prey for hunting in the Killing Fields got to rue their decision. At that point, I’d gone beyond anger and worked up a white-hot fury. The small group of monsters standing in the way between me and survival seemed more of a gift bag that an obstacle.
+
+I left them behind in minutes. The Skreelings died, one after the other, to Waves of Reflection. The Riverkin lagged behind, limping on one paw that had been thoroughly dislocated by a lucky Deflect. At first, it tried to keep up regardless, but my still-active Wheel of Magic had been amped up by the knocks I’d taken to deal some pretty hefty damage by now, and a lucky missile knocked the slippery thing out of commission.
+
+That was when thing went south.
+
+I wasn’t the only one who escaped that first loose ring of hunters. Here and there, I spotted people surviving against the monsters who went to take them down. However, those of us who moved past that ring were treated to just a few minutes of peace and relief.
+
+Beyond that ring, the real hunters lurked.
+
+The beasts swarming the Ever Steady had been a constant crush of attackers. A veritable ocean of fangs and fur. They’d been constant, unrelenting and bloodthirsty. They’d also been low level. All told, besides the leaders, I’d spotted less than a handful of beasts with levels above ten.
+
+That had been because they were the cannon fodder.
+
+I didn’t realize until the lizard started hunting me. This one, as opposed to half its kin hiding in our camps to ambush fleeing people didn’t bother hiding. It stood on a low hillock, overseeing its own section. When it spotted me, it didn’t race at me. Rather, it slowly stalked toward me, and didn’t even start unleashing any ranged attacks until it got closer.
+
+Lesser Glimmerscale
+
+Level 22
+
+Further information locked
+
+Within the hour, I’d learned more than I had really wanted to about the monster population of Ademia. First part, after the day’s experiences, should come as no surprise to anybody. Namely that the beasts were intelligent. Or, say rather that it appeared like the absolute bastards grew more intelligent as they levelled, not just stronger.
+
+How could I tell? Well, the damn thing didn’t bother getting close. It just stayed at the edge of its ranged attacks and spat the occasional fiery missile at me when I looked distracted. And then it followed me and did not let up for a second.
+
+That was the most infuriating part of it. Humans were persistence hunters. We weren’t supposed to be on the receiving end like this! Clearly, though, the infuriating lizard cared little for proper roles, and only thought to make sure it would stick with me and make sure I’d die.
+
+Also, apparently, they specialized. That annoyed me to no end. Within the Ever Steady, I thought I had it figured out. The rats specialized in Strength, and possibly Fortitude. The otter things went for Agility above all. And the lizards were all about that Fortitude, with a shitload of Mental Power to make their magic work for them.
+
+Clearly this stupid gecko hadn’t gotten the memo.
+
+Sure, it did share some aspects with its kin. Its fiery missiles were powerful, for instance. How did I know? Well, I had to fend them off somehow, and my Agility was shot, now, wasn’t it? So, my shield had to take the brunt of it, and it was starting to show serious structural damage.
+
+But this particular Glimmerscale wasn’t slow. In actual fact, the bursts of speed it managed could safely outpace me, and would likely have done so, even if I’d elected to go with Improved Run Speed – at least as long as I still had the debuffs active.
+
+Oh, I tried to get the fucker. I tried every trick in my book, and then some. But soon, I was forced to realize that my personal book of tricks was more like a thin pamphlet. I tried using my Wave of Reflection, of course. But the beast kept far enough away that it had no trouble dodging my waves of energy. Deflect didn’t come into play; it didn’t bother to get close enough for that. On top of that, my Wheel of Magic was too slow, too cumbersome with just the single spoke active. If I’d had five spokes active, each raining bursts of magic… perhaps. But like this, it just gave the beast a bit of a workout, dodging and ducking my missiles. I tried to close with the thing several times, and every time, it’d just race away, too fast for me to follow.
+
+What followed wasn’t pretty. Rather, it was a gruelling, painful and ugly drawn-out match of wills, attacks and tactic that made me curse my life, the lizard and everything and everyone in between. The worst was that, just when I thought I’d had enough, the damn thing would fade away into the tall grasses and disappear for several minutes, giving me a breather, which I could then spend agonizing over where it would reappear to launch its next fiery missile at me.
+
+At first, I figured it was just being sneaky or clever about it. But after it repeated the act for the third time, I realized that wasn’t the point. Rather, the damn thing might be fast, bright, and magically intimidating. But it didn’t have the Fortitude and stamina to keep it up persistently.
+
+I tried to abuse that. Of course I did. First, I bravely and consistently ran away. I kept up a running pace that stretched the limits of even my bountiful endurance. And I did manage to lose it. For a while. Whether it was due to a talent it had, or some racial attribute, regardless how far I fled, the Glimmerscale found me every damn time. I even deactivated my Wheel of Magic after a while, to save on Stamina and stop glowing in the dark. Same difference.
+
+An hour or two in, once I’d gotten far enough away from our portal that I felt convinced we wouldn’t stumble on other enemies, I tried stalking the beast instead. Turning the tables sounded fair to me, and once it ran out of Stamina, it should be easy pickings. Except, for a beast called a Glimmerscale, it damn well did a crappy job at glowing in the dark for me. Sure, I could run the beast out of stamina. But then, it just… turned off its damned glow and faded into the night. The damn thing could deactivate its mood lights. How unfair was that?
+
+The hours that followed were anything but fun, as I stumbled through the dark, constantly expecting attack, constantly dodging, running and trying and failing to come up with an effective defense. I’d also tried to escape, to hide, to stealthily make my way across stone and other hard surfaces, making it impossible for the Glimmerscale to find me again when it finished recharging. No such luck. The only satisfaction I could derive from the hunt was that it seemed the lizard was having just as little fun as I was.
+
+Its attacks became more sporadic, less precise. Its approach became more random, as it tried different attack sequences, tried herding me back where it came from and a dozen other things.
+
+Now, I had reached the end. Within the last fifteen minutes, the Glimmerscale got two good hits in on me. My back was throbbing from a full-on fiery hit, and my right arm was even worse. I was running out of healing items. I was also running on empty. I was below two hundred health, my stamina practically non-existent, and… I just wanted it to end. Even if I made it to dawn, I had no hope that it would be a help. Rather, I expected that would just increase the odds of the Glimmerscale locating a few of its friends to help kill me.
+
+The beast had faded away, yet again, to chill, have a cold one and contemplate how best to grill and devour a Liam.
+
+Meanwhile, I’d spent the last vestiges of my energy on a fool’s errand as I spotted a slight depression in the distance along with the subtle murmur of a stream running through it. I’d stumbled to the edge of the stream, hoping beyond hope that I’d be able to leap into the stream and have it carry me away from danger. I’d already used the old and boring trick of wading through a stream for a while to help obscure tracks, scent and all that stuff. And, of course, now that I got here, I realized the stream was all of ten centimetres deep – little more than a trickle in a large muddy basin - and no amount of movie-inspired plot points was going to help me here.
+
+Somebody wiser than me would likely have other options. They’d have realized ages ago how the stupid gecko was tracking me and found ways to counteract it.
+
+I wasn’t like that. Sure, this world was magical. However, I hadn’t changed. I was never going to be some deductive genius. Back on Earth, whatever I’d managed had been through dogged persistence, toughness and an unwillingness to back down, even when it was for my own good. Even as I felt the cold mud seeping under my shirt, I felt my muscles clenching, as my much-abused muscles contracted to get me back to my feet. My hand scraped a handful of mud away and I let it spatter onto the ground with a wicked snarl. No. I wasn’t going to just give in. Whatever else happened, I was going to go down fighting.
+
+For a second, two, I just stood there, frozen in realization. Then I let out a shaky exhalation. Could it really be that simple? Maybe good old television would be able to save my bacon?
+
+Ignoring the disgusting sensation, I hurried to act. I could be entirely wrong here. For all I knew, I might be entertaining a nearby lizard who was observing me, even as I tried one last Hail Mary. There would be no telling if it worked beforehand. The damn thing might have some system-granted talent that allowed it to track me without fail. Yet, for some reason I didn’t think so. So far, I’d ruled out several different options. It didn’t go invisible. It didn’t track my footprints – or if it did, its ability to track me was beyond me by far.
+
+Right this moment, I was hoping that the damn thing either operated by a sense of smell or, more likely, that it had some advanced kind of heat sight.
+
+I was running on borrowed time. It had only been a few minutes, but the damn thing rarely stayed away for more than five minutes at a time. Just enough to top off its mana or stamina reserves, and then back into the fray. With a grunt, I shuffled into motion, now burdened down by layers upon layers of heavy mud.
+
+It wasn’t just awkward. It was downright draining. Not only did the heavy layers weigh me down. They were also freezing, chilling me to the bone mere seconds after being applied. I could only hope that my improved Fortitude gave me additional staying power against cold, or I’d be in trouble. I almost chuckled at that.
+
+It took me a few minutes of wading through the stream before I found a suitable spot. A cropping of large rocks formed an approximation of a small island within the low stream, with the stream splitting in two and reforming beyond the island.
+
+I grabbed a few final handfuls of mud from within the stream, fixing what few layers had fallen off as I moved. Then I lay down and draped myself around the largest rock, as if I were just another rock pressed up against this one. A large, weirdly human-sized, extremely dirty rock.
+
+The waiting game began.
+
+The uncertainty was the worst. I had no doubts that – even if I was right in my theory - given the chance, the mud would start drying and flaking off my face, giving away my position. So, I’d placed myself face down with my hands in front of me, hiding any parts of my skin from being seen. However, that also meant I had no way of being able to see if the damn lizard was roaming around, scouting or dancing a jolly jig right on top of my island.
+
+The seconds ticked by like hours. Even if they were plugged with a heavy layer of mud, my ears were trying to detect any possible noise out there, deduct everything that my other senses were unable to. Yet, I heard nothing, apart from the subtle melody of the stream.
+
+After a while that could have been five minutes or two hours, I was forced to reconsider my stance. The uncertainty wasn’t the worst. The cold was. My entire body was trying to adjust to the heavy cold in the way that a body does. Unfortunately, full-body shivers weren’t exactly the best way of trying to stay hidden. Meaning, I lay, clenching the muscles of my entire body, inches away from a full-body cramp, in an attempt to avoid my involuntary spasms giving the game away.
+
+At a certain point, my mind went weird, proceeding into some sort of fugue state. I still felt the pain, the cold and the tiny tremors of my body. Only, they were slightly removed, seemingly inconsequential. In the greater whole, the demands of the body were just like any external sort of demand. While people would make it sound like there was no choice - there was always a choice. Always! It was merely a matter of whether you were willing to pay the price. I decided that I would take this thing as far as I possibly could. I’d deal with any price to pay, should I actually, against all odds, survive the night.

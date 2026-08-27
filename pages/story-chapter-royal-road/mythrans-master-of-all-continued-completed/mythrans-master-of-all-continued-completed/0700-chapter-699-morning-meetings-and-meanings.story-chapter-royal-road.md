@@ -1,0 +1,279 @@
+---
+id: 39630501-d9b3-5380-8cc9-b1eb62e5c1aa
+page-type-slug: story-chapter-royal-road
+title: "Chapter 699 - Morning Meetings And Meanings"
+slug: 0700-chapter-699-morning-meetings-and-meanings
+partOf: mythrans-master-of-all-continued-completed
+position: 700
+ownLength: 3262
+unit: words
+publishedAt: 2018-09-13
+link: "https://www.royalroad.com/fiction/8220/mythrans-master-of-all-continued-completed/chapter/289925/chapter-699-morning-meetings-and-meanings"
+royalRoadId: "289925"
+---
+
+Barbi had made it through early morning traffic without too much hassle and arrived at the Channel 8 television station before her scheduled appointment. She went inside with her small briefcase and hit the button for the elevator, then waited for it to arrive.
+
+“Oh, hey!” A man's voice said.
+
+Barbi turned to look at who spoke and held in her sigh when she saw who it was. “Hello, Brad.” She said in a dead tone of voice.
+
+“Aw, don't be that way.” Brad said and hit the same button Barbi had, as if that would make the elevator move faster. “You look great in that skirt.” He said. “I haven't seen you around in a while.”
+
+“That's because I don't work here anymore, genius.” Barbi said, and he laughed.
+
+“What are you doing here so early, then?” Brad asked and ignored her sarcasm.
+
+“I have an appointment with Mr. Hastelbeck.”
+
+“The network's vice president?” Brad asked, then his face lost its smile. “So, you've heard the news already.”
+
+The elevator door opened and they stepped inside, and Brad hit the close door button.
+
+“What news is that?” Barbi asked and Brad hit the floor he wanted and the floor for the network VP.
+
+“They've cancelled that new computer animated show.” Brad said.
+
+Barbi had years of experience to keep surprise off of her face, so she didn't show it. “What do you know about it?” She asked, which implied she knew and wanted his take on it.
+
+“Word on the grapevine is the numbers tanked for the latest episode.” Brad said. “The show-runner had a nervous breakdown over it and hasn't been seen all weekend.”
+
+“You're well informed, as always.” Barbi said to stroke his ego and to keep him talking.
+
+“You know it, sweet-cheeks.” Brad smiled. “It's a little odd to cancel a show during the weekend, though they said it was justified.” He shrugged his shoulders. “I've seen a show have a shorter run; but, usually that's because the numbers were bad from the start. It shouldn't take one bad week to kill a popular show like this.” He said. “It's like they expected something bad to happen and were ready to cancel at a moment's notice.”
+
+Barbi stopped herself from nodding in agreement. The elevator stopped at his floor and he leaned in close.
+
+“Are you free for lunch?” Brad asked and put his hand really low on her hip and almost fully on her backside.
+
+“I have a date, actually.” Barbi said.
+
+Brad sighed and stepped out of the elevator as he slid his hand across her backside, then he smiled at her. “That's a real shame.”
+
+“Only if I went with you.” Barbi said and hit the door close button on his surprised face. “Asshole.”
+
+As the elevator went up to the floor she wanted, she took out her cell phone and set it up, then stepped out into the plush waiting area. The secretary nodded to her and pointed to the office door, and Barbi took the cue and walked by her and into the office of the Vice President of the Network.
+
+“Good morning, Mr. Hastelbeck.” Barbi said and left the office door open when she saw the show coordinator was on the couch at the side of the room.
+
+“Would you mind closing the door?” Mr. Hastelbeck asked.
+
+“Yes, I would.” Barbi said and walked over to the desk.
+
+“What can I do for you today?” Mr. Hastelbeck asked, not flustered at all because she ignored his request. “I heard you may have a new show...”
+
+“What's this garbage about you cancelling Ren's show?!?” Barbi asked and cut him off. “Are you crazy?”
+
+“The numbers dropped significantly...”
+
+“No, they didn't! They are higher than they have ever been, even higher than the pilot, and you gave Melanie a nervous breakdown with the fake numbers, you lying prick!” Barbi said.
+
+“Please calm down.” Mr. Hastelbeck said. “There's no need for such language.”
+
+“What the hell are you thinking?” Barbi asked. “Not only is the show a smash hit in the key demographic, it's also a hit in the two demographics it wasn't even targeted for!”
+
+“Now, that's not entirely true.”
+
+“It is true! It also has highest paid commercial fees for its time slot and companies are actually trying to outbid each other to be the first commercial to air during each episode!”
+
+“You are very well informed, it seems.” Mr. Hastelbeck said and looked at the new show coordinator.
+
+“She's not my source, you vindictive asshole.” Barbi said.
+
+“I really must insist that...”
+
+“Shut the hell up!” Barbi spat, and he closed his mouth with a frown. “I hope you enjoyed your little power play in cancelling the most popular show on this network.” She said. “Not only are you in breach of contract, to both the client and the parent network, you've invalidated the network's rights to a year's worth of footage from the game company and to air the remaining episodes of the season.”
+
+Mr. Hastelbeck's frown became a scowl. “That's a broad interpretation of...”
+
+“I wrote that contract, you idiot!” Barbi said. “I know exactly how much leeway that both the station and the client had.” She huffed. “By cancelling the show for no reason and falsifying the viewership numbers, you've intentionally misrepresented the network and defamed the client! In one fell swoop, you have nullified all the special clauses I put in to cover the station and its potential losses!”
+
+Mr. Hastelbeck didn't say anything in response.
+
+“You are going to lose... no, you've already lost this network millions of dollars in both revenue and future projects, clients, and commercial sales.” Barbi said. “I don't know why you would do it like this; but, you are an idiot for doing it this way and I hope you choke on your severance package when this goes public!”
+
+Mr. Hastelbeck smiled. “What makes you think it will go public?”
+
+“Because it already has!” The current show coordinator said from the couch. She was looking at her cell phone and gasped. “Oh, no! It's all over the internet!”
+
+“What? How?” Mr. Hastelbeck asked.
+
+“Live streaming to the show's main website and sub-streams to the fan sites.” Barbi said and held up her cell phone.
+
+“You stupid bitch!” Mr. Hastelbeck said and stood up. “Do you realize what you've done?”
+
+“Of course I do. I've exposed part of the conspiracy that you and several other prominent members of society have been perpetrating against Ren.” Barbi said with satisfaction, and his face lost some of its color. “That's right. We know all about it.” She said. “I didn't think a man like you would be involved in hurting Ren; but, I guess my opinion of your integrity was much too generous for such a scumbag.”
+
+Mr. Hastelbeck and the current show coordinator watched as Barbi turned and started to walk towards the still open office door.
+
+“If you'll excuse me, I need to pick up all the materials and documents for the show, and its related content, from the studio downstairs.” Barbi said, and then she stopped and spoke with ice in her voice. “If I get there and the materials aren't available or have been 'misplaced', I will have the police here in 15 minutes to force you to hand Ren's solely-owned property over.”
+
+“You won't meet any resistance.” The current show coordinator said as she scanned a document on her phone. “You wrote a great contract and we can't legally keep his property.”
+
+Barbi nodded to her and left the office. She hit the button for the elevator and turned off the live stream, after thanking everyone for listening and sharing it, then she went down to the studio where the show was produced. She gathered everything up that they had, including hard drives, prints, manuscripts and other documents, plus all of the prerecorded voice-over work and contact information for the actors. She warned the men that worked there that they might not have a job soon because of everything that just happened.
+
+“We know.” One of them pointed to his computer monitor, and Barbi saw that he was logged onto the show's website.
+
+“I'm sorry about this.” Barbi said.
+
+“So are we.” He said. “This was one of the easiest jobs we've ever had putting a show together.”
+
+Barbi thought about that, and then she had an idea. “I don't know if anything will come of this, but...”
+
+“If you're going to offer us a job, we can't take it.” The man said.
+
+“What? Why not?”
+
+The man pointed to the computer monitor that showed the show's website. “If there's a conspiracy against the poor guy, then I don't want to get involved.”
+
+“Me, either.” The other man said. “I keep my head down and I do my job.” He said. “I don't draw attention to myself and I don't become the focus of anyone's ire.”
+
+Barbi blinked her eyes at them for a moment, then she sighed. “I understand.”
+
+“Unlike you, we're not crusaders.” The first man said. “We don't rock the boat because we don't want to fall out.”
+
+“Or knock someone else out.” The other man said. “I'm sorry.”
+
+“So am I.” Barbi said and picked up the box with all the stuff in it. “It was nice working with you while it lasted.”
+
+“It sure was.” The first man said.
+
+“Take care.” The other man said.
+
+Barbi calmly left the studio and went down in the elevator, left the building and got in her car. She gripped the steering wheel and her arms shook as the shock over what happened started to set in and the adrenaline that had flushed through her system started to fade. She closed her eyes and took several deep breaths as she tried desperately to hold back her tears.
+
+“Oh, god. I just thought of a reason why they would cancel it preemptively.” Barbi thought. “They didn't think he would be around to say anything about it.” She immediately sent a text to both Elise and Stella about her meeting and her thoughts, then sat there for several minutes to gather her strength and resolve while she waited for their response.
+
+Both of them texted her and the messages told her to go straight to Ren's place so they could talk in person. Barbi nodded, put the cell phone down and started the car, then drove through the city towards Ren's house.
+
+*
+
+Ren and Lisa finished breakfast and Stella moved the rollaway table aside.
+
+“I need a bath.” Ren said.
+
+“Me, too.” Lisa said. “I'll help do you first.”
+
+“You don't have to...”
+
+“Please, it's not like I haven't seen you naked before.” Lisa said and got out of bed.
+
+“But...”
+
+“It's different in this situation.” Stella warned her. “We're caring for him, not playing with him.”
+
+Lisa nodded. “I know the difference.”
+
+Stella smiled. “Then get everything on him unbuttoned, just don't remove it yet. We do that when we add the towels.”
+
+“Got it.” Lisa said.
+
+Stella went to the bathroom to gather the wash basin and supplies she would need. While she was doing that, she received a text from Barbi about her meeting. She read it through twice before deciding what to say, then told her to come to the house to talk in person.
+
+Dammit, I think she's right. Stella thought. For them to cancel the show out of the blue like that, means they had a reason that they couldn't say officially. She shook her head and put on a smile as she carried the supplies out of the bathroom to wash Ren.
+
+“Uh oh.” Ren said when he saw her face. “What did I do now?”
+
+“Wh-what?” Stella put the supplies down on the nightstand.
+
+“I can recognize your 'trouble' smile a mile away.” Ren exaggerated. “Something must have happened, and since nearly everything revolves around me...”
+
+Stella opened her mouth to say it didn't involve him, then sighed. “You shouldn't be this smart.”
+
+Ren chuckled. “Even if I didn't have all my memories back, I would still know that fake smile.” He said. “Do you want to tell me now or later?”
+
+“Let's get you washed up first.” Stella said. “Barbi's coming over, so it can wait until then.”
+
+“Hm.” Ren thought about it while Stella and Lisa laid out the towels for him and then undressed him fully as they carefully moved and rolled him onto them. He didn't say a word as Stella and Lisa washed him all over, even his private place, then they dried him off completely.
+
+“We're stuck with one of your old pyjama sets until we can get to the mall.” Stella said.
+
+“That's okay.” Ren said. “It's the underwear I'm going to have a problem with.”
+
+“The underwear?” Lisa asked.
+
+Stella dug out a pair of briefs from Ren's underwear drawer and held them up.
+
+“Oh.” Lisa said and looked down at Ren, then remembered what happened when he becomes excited. “Oh, damn.”
+
+Stella chuckled. “We didn't normally have that kind of problem until the little Casanova became sexually active.” She said. “Now, though...”
+
+“I think I'd rather just leave them off, if that's okay.” Ren said.
+
+“Are you sure?” Stella asked. “It might be rough on you if you just flop around without any support.”
+
+“I'd rather the potential of that than the crammed feeling I would definitely have.”
+
+“Okay.” Stella said and put the briefs back and closed the drawer, then opened the one below that. “We'll need to switch to the soft cotton ones.” She said and grinned as she lifted up a set of his old pyjamas.
+
+“Oh, come on!” Ren exclaimed, and Lisa laughed at the Cookie Monster pattern on the white fabric.
+
+*
+
+“Oh, my GOD!” Elise squealed like a little girl. “I'M PREGNANT?!?”
+
+The doctor laughed. “I guess that means you're excited about it.”
+
+Elise trembled as the thought settled into her brain. “Please, tell me you're not joking!”
+
+“It's no joke.” The doctor said and touched her arm reassuringly. “I told you we ran the test twice to be sure. It's not much more than a big bundle of cells at the moment; but, that is definitely going to change within the next few weeks.”
+
+Elise stepped close to the doctor and gave her a hug as tears formed in her eyes. “Th-thank you. Thank you so much.”
+
+The doctor laughed again and hugged her back. “I didn't do anything except give you a check up and tell you the good news.” She said. “You should probably thank whoever knocked you up.”
+
+“I... I will.” Elise said and let the doctor out of the hug. “Just as soon as I get home.”
+
+“Should I assume he's going to think this is good news, too?” The doctor asked.
+
+“Oh, yes.” Elise said and wiped at her tears. “It was actually his idea.”
+
+“Then let me be the first to congratulate you.” The doctor said and held out a hand. “Congratulations!”
+
+Elise chuckled and shook the offered hand. “Thank you.”
+
+“I expect to see you back next month for the follow-up.” The doctor said and let her hand go, then led her out of the examination room and to the front desk. “Sherrie, set up an appointment for next month.” She said to the secretary, who quickly did so and handed Elise the little card with the information on it.
+
+“Thank you.” Elise said.
+
+The doctor said goodbye and went back to her office, and Elise checked with the secretary to make sure her insurance was valid for the continuing care she would need, then paid the fee for the things that weren't covered. She walked out of the clinic and climbed into her Hummer H2 and sat there and trembled at the shock of what had just happened. She took several deep breaths and did her best to calm down.
+
+“I'm pregnant.” Elise said and lightly touched her belly. “I'm really pregnant.”
+
+Her cell phone beeped at her and she dug it out of her purse. She read the message Barbi had sent and thought about it, then told her to go right to Ren's house so they could speak in person. Elise put the cell phone away and started the vehicle, then drove back home to Ren's place.
+
+Home. Elise thought and let a smile appear on her face. Our home.
+
+*
+
+Gloria rolled over in bed and she didn't know what to do. She had been so used to getting up early to go to class that her mornings were now a sleepless void that she desperately needed to fill. She thought about going into the game; but, she wasn't quite ready to face Ren after everything that had happened between them. She had been tempted to call him and tell him he was an ass for tossing her aside like he did; but, she also understood why he did it. It really did clear the way for her to make the important decision she needed to make, and it was easier because he had removed all the pressure she had on her mind over her thinking she had to abandon the research project... and him and Stella... to do it.
+
+Gloria also hated that he had to do it, and that he did it for her sake. She wanted to let him know that he was right, that the tech company only wanted her to get at him, and that she was stupid for only thinking about how much money she could have gotten if only she had been a little smarter about how she handled things and wasn't that concerned with anyone else's feelings but her own. She rolled over in bed again and gripped her pillow hard and screamed her frustration into it. She sighed and rolled back over and stared up at the ceiling.
+
+“I wish I had someone to tell me what to do.” Gloria said and sighed, then her phone beeped at her. She reached over to her nightstand and picked it up and saw it was a text from Steven, Stella's brother. She hit the call button and he picked up on the first ring.
+
+“What the fuck do you want?” Gloria asked.
+
+“What's wrong with this picture?” Steven asked and sent her a picture, and she saw a well-mounted alternator and attached fan belt, then she looked closely at it.
+
+“You idiot!” Gloria said into the phone. “You used the wrong mounting bolt!”
+
+“Hey, I'm not that stupid.” Steven said. “It came in this way.”
+
+“What do you want me to do about it?” Gloria asked. “It's a simple solution.”
+
+“Yeah, it would be... except for where the other end of the extra long bolt went.”
+
+“Son of a bitch.” Gloria sighed. “I really hate homegrown mechanics that don't know their dick from a monkey wrench!”
+
+Steven laughed. “At least it wasn't me this time.”
+
+“This time.” Gloria said. “I guess Frank wants all hands on deck?”
+
+“I wouldn't annoy you by calling if he didn't.” Steven said. “When can you get here?”
+
+“Give me half an hour.” Gloria said. “I assume...”
+
+“...it's a high priority client.” Steven said. “I'll let Frank know.”
+
+“See you then.” Gloria said and hung up without letting him say goodbye, rolled out of bed and put the cell phone down, then stripped off her sleep clothes as she entered the bathroom. I guess I'm not wasting the whole morning doing nothing after all. She thought a little grumpily and hopped into the shower.
