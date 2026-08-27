@@ -16,6 +16,4 @@ Carried out of the initiative review of 2026-08-27, where twenty-four initiative
 
 **`staleIn` has no callers.** Nothing checks the index is current, and the page type registry now reads it, so an index that drifted would be believed. Alan carries this with Astra.
 
-**A gate demanded a read of `agent/seat/athena.seat.md`** during a write whose change set never named that file, and which the worktree showed unmodified. The rename landed under `--mechanical`, so the refusal was set aside rather than accounted for.
-
 **Twenty-one findings moved to `pages/finding/old-ops-command/`** unchanged, when the page type took its `old-` prefix. Several claim things about ops commands in general, which the surviving `page-type/command` now holds.
