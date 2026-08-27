@@ -1,5 +1,5 @@
 
-import { FLEX, HANDLER, JOINER } from "./compose-seat-name.ts"
+import { FLEX, JOINER } from "./compose-seat-name.ts"
 import type { Vocabulary } from "./seat-vocabulary.ts"
 
 export const SLOTS = ["persona", "domain", "role", "flex", "task"] as const
@@ -86,19 +86,6 @@ function divisions(
     }
   }
   walk(0, AFTER_PERSONA)
-  if (!admits("role", HANDLER, vocabularies)) return found
-  for (let atServed = 1; atServed < partCount; atServed += 1) {
-    if (!admits("persona", segment(segments, 0, atServed), vocabularies)) continue
-    for (let atRole = atServed + 1; atRole < partCount; atRole += 1) {
-      if (!admits("domain", segment(segments, atServed, atRole), vocabularies)) continue
-      if (segment(segments, atRole, partCount) !== HANDLER) continue
-      found.push([
-        { slot: "persona", from: 0, to: atServed },
-        { slot: "domain", from: atServed, to: atRole },
-        { slot: "role", from: atRole, to: partCount },
-      ])
-    }
-  }
   return found
 }
 
