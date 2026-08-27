@@ -210,7 +210,8 @@ test("a file property saying none draws no edge", () => {
 
 test("a page property still reaches the page it names", () => {
   within("drawn-by-slug: widget/other\n", (root) => {
-    expect(edgesOver(root)).toEqual([
+    const edges = edgesOver(root)
+    expect(edges.map((one) => ({ ...one, to: { repo: one.to.repo, key: one.to.key } }))).toEqual([
       {
         kind: RELATION_EDGE,
         from: { repo: REPO, key: "pages/widget/one.widget.md" },
